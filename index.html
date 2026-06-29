@@ -872,17 +872,21 @@ function candidateFilenames() {
   const d = new Date();
   const prefix = `${d.getFullYear()}_${padZ(d.getMonth()+1)}_${padZ(d.getDate())}`;
   const candidates = [];
-  // Tenta as últimas 8 horas em intervalos de 30 min
-  for (let offset = 0; offset <= 480; offset += 30) {
+
+  // CORREÇÃO: Varre minuto a minuto (offset += 1) nas últimas 4 horas (240 minutos)
+  // Isso garante que QUALQUER minuto quebrado (como :29) seja testado e encontrado.
+  for (let offset = 0; offset <= 240; offset += 1) {
     const t = new Date(d.getTime() - offset * 60000);
     candidates.push(`${prefix}_${padZ(t.getHours())}_${padZ(t.getMinutes())}`);
   }
-  // Adiciona variações com minutos "redondos" típicos de execução agendada
+
+  // Mantém os minutos redondos como plano de fundo
   [0, 15, 30, 45].forEach(m => {
     for (let h = 0; h < 24; h++) {
       candidates.push(`${prefix}_${padZ(h)}_${padZ(m)}`);
     }
   });
+
   return [...new Set(candidates)];
 }
 
