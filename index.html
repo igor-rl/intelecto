@@ -904,7 +904,8 @@ async function fetchDayLatest(allFiles, date) {
   try {
     const res = await fetch(url);
     if (!res.ok) return null;
-    const data = await res.json();
+    const raw = await res.json();
+    const data = Array.isArray(raw) ? raw[0] : raw;
     console.log('[IA News] Arquivo carregado:', latest + '.json');
     return { data, filename: latest };
   } catch (e) {
