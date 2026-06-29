@@ -1,187 +1,185 @@
-[
-  {
-    "data": "29/06/2026",
-    "hora_geracao": "14:24",
-    "total_noticias": 10,
-    "resumo_executivo": "Notícias destacadas incluem decisões da Suprema Corte dos EUA, medidas para prevenir a propagação do Ebola na República Democrática do Congo e lançamento de programas governamentais no Brasil.",
-    "noticias": [
-      {
-        "rank": 1,
-        "titulo": "Supreme Court Upholds Mississippi Late-Arriving Mail-In Ballot Law",
-        "resumo": "A Suprema Corte dos EUA manteve a lei do Mississippi sobre votos por correio que chegam atrasados.",
-        "categoria": "geopolitica",
-        "impacto": "alto",
-        "fontes": [
-          "The New York Times"
-        ],
-        "tags": [
-          "EUA",
-          "Suprema Corte",
-          "votos por correio"
-        ],
-        "relevancia_brasil": false,
-        "url_principal": "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-late-mail-ballots.html"
-      },
-      {
-        "rank": 2,
-        "titulo": "DR Congo bans mass gatherings in the capital to prevent spread of Ebola",
-        "resumo": "A República Democrática do Congo proibiu reuniões em massa na capital para prevenir a propagação do Ebola.",
-        "categoria": "saude_global",
-        "impacto": "alto",
-        "fontes": [
-          "BBC"
-        ],
-        "tags": [
-          "Ebola",
-          "República Democrática do Congo"
-        ],
-        "relevancia_brasil": false,
-        "url_principal": "https://www.bbc.co.uk/news/articles/c992k7zk981o"
-      },
-      {
-        "rank": 3,
-        "titulo": "Desenrola Adimplentes: governo lança nova etapa do programa para trabalhadores informais e empreendedores",
-        "resumo": "O governo lançou uma nova etapa do programa Desenrola Adimplentes para trabalhadores informais e empreendedores.",
-        "categoria": "brasil_economia",
-        "impacto": "medio",
-        "fontes": [
-          "G1"
-        ],
-        "tags": [
-          "Desenrola Adimplentes",
-          "economia brasileira"
-        ],
-        "relevancia_brasil": true,
-        "url_principal": "https://g1.globo.com/economia/noticia/2026/06/29/desenrola-adimplentes-governo-lanca-nova-etapa-do-programa-para-trabalhadores-informal-e-empreendedores.ghtml"
-      },
-      {
-        "rank": 4,
-        "titulo": "US Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case",
-        "resumo": "A Suprema Corte dos EUA rejeitou o recurso de Trump sobre o caso de abuso sexual de E Jean Carroll.",
-        "categoria": "geopolitica",
-        "impacto": "alto",
-        "fontes": [
-          "BBC"
-        ],
-        "tags": [
-          "EUA",
-          "Suprema Corte",
-          "Trump"
-        ],
-        "relevancia_brasil": false,
-        "url_principal": "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o"
-      },
-      {
-        "rank": 5,
-        "titulo": "Prefeitura e hospital onde seis pacientes morreram por falta de oxigênio durante a pandemia têm condenações mantidas no RS",
-        "resumo": "A prefeitura e o hospital onde seis pacientes morreram por falta de oxigênio durante a pandemia tiveram condenações mantidas no RS.",
-        "categoria": "brasil_sociedade",
-        "impacto": "medio",
-        "fontes": [
-          "G1"
-        ],
-        "tags": [
-          "pandemia",
-          "falta de oxigênio",
-          "RS"
-        ],
-        "relevancia_brasil": true,
-        "url_principal": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/29/condenacoes-pacientes-sem-oxigenio-pandemia-justica-rs.ghtml"
-      },
-      {
-        "rank": 6,
-        "titulo": "Barco-hospital Papa Francisco é alvo de denúncia por descarte de lixo hospitalar em rio de Santarém, no Pará",
-        "resumo": "O barco-hospital Papa Francisco é alvo de denúncia por descarte de lixo hospitalar em rio de Santarém, no Pará.",
-        "categoria": "brasil_sociedade",
-        "impacto": "baixo",
-        "fontes": [
-          "G1"
-        ],
-        "tags": [
-          "barco-hospital Papa Francisco",
-          "lixo hospitalar",
-          "Pará"
-        ],
-        "relevancia_brasil": true,
-        "url_principal": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/06/29/barco-hospital-papa-francisco-e-alvo-de-denuncia-por-descarte-de-lixo-hospitalar-em-rio-de-santarem-no-para.ghtml"
-      },
-      {
-        "rank": 7,
-        "titulo": "Seja homem: pergunta sobre atentado contra advogado elevou tensão que terminou com júri dos PMs anulado no caso Gritzzbach",
-        "resumo": "Uma pergunta sobre atentado contra advogado elevou a tensão e terminou com o júri dos PMs anulado no caso Gritzzbach.",
-        "categoria": "brasil_sociedade",
-        "impacto": "medio",
-        "fontes": [
-          "G1"
-        ],
-        "tags": [
-          "caso Gritzzbach",
-          "júri anulado"
-        ],
-        "relevancia_brasil": true,
-        "url_principal": "https://g1.globo.com/fantastico/noticia/2026/06/29/seja-homem-pergunta-sobre-atentado-contra-advogado-elevou-tensao-que-terminou-com-juri-dos-pms-anulado-no-caso-gritzzbach.ghtml"
-      },
-      {
-        "rank": 8,
-        "titulo": "Rebanho fica ilhado em meio à inundação em Goiana após chuvas",
-        "resumo": "Um rebanho ficou ilhado em meio à inundação em Goiana após chuvas.",
-        "categoria": "brasil_sociedade",
-        "impacto": "baixo",
-        "fontes": [
-          "G1"
-        ],
-        "tags": [
-          "inundação",
-          "Goiana",
-          "rebanho ilhado"
-        ],
-        "relevancia_brasil": true,
-        "url_principal": "https://g1.globo.com/pe/pernambuco/bom-dia-pe/noticia/2026/06/29/rebanho-fica-ilhado-em-meio-a-inundacao-em-goiana-apos-chuvas-video.ghtml"
-      },
-      {
-        "rank": 9,
-        "titulo": "Mulher sofre tentativa de feminicídio por estrangulamento em MG",
-        "resumo": "Uma mulher sofreu tentativa de feminicídio por estrangulamento em MG.",
-        "categoria": "brasil_sociedade",
-        "impacto": "medio",
-        "fontes": [
-          "G1"
-        ],
-        "tags": [
-          "tentativa de feminicídio",
-          "MG"
-        ],
-        "relevancia_brasil": true,
-        "url_principal": "https://g1.globo.com/mg/centro-oeste/noticia/2026/06/29/mulher-sofre-tentativa-de-feminicidio-por-estrangulamento-em-mg-ex-companheiro-e-procurado.ghtml"
-      },
-      {
-        "rank": 10,
-        "titulo": "Suspeito de assassinar homem encontrado carbonizado é preso em Teresina",
-        "resumo": "Suspeito de assassinar homem encontrado carbonizado é preso em Teresina.",
-        "categoria": "brasil_sociedade",
-        "impacto": "baixo",
-        "fontes": [
-          "G1"
-        ],
-        "tags": [
-          "assassinato",
-          "Teresina"
-        ],
-        "relevancia_brasil": true,
-        "url_principal": "https://g1.globo.com/pi/piaui/noticia/2026/06/29/suspeito-homem-teresina.ghtml"
-      }
-    ],
-    "destaques": {
-      "criticos": [
-        "Supreme Court Upholds Mississippi Late-Arriving Mail-In Ballot Law",
-        "DR Congo bans mass gatherings in the capital to prevent spread of Ebola"
+{
+  "data": "29/06/2026",
+  "hora_geracao": "14:24",
+  "total_noticias": 10,
+  "resumo_executivo": "Notícias destacadas incluem decisões da Suprema Corte dos EUA, medidas para prevenir a propagação do Ebola na República Democrática do Congo e lançamento de programas governamentais no Brasil.",
+  "noticias": [
+    {
+      "rank": 1,
+      "titulo": "Supreme Court Upholds Mississippi Late-Arriving Mail-In Ballot Law",
+      "resumo": "A Suprema Corte dos EUA manteve a lei do Mississippi sobre votos por correio que chegam atrasados.",
+      "categoria": "geopolitica",
+      "impacto": "alto",
+      "fontes": [
+        "The New York Times"
       ],
-      "brasil": [
-        "Desenrola Adimplentes: governo lança nova etapa do programa para trabalhadores informais e empreendedores",
-        "Prefeitura e hospital onde seis pacientes morreram por falta de oxigênio durante a pandemia têm condenações mantidas no RS"
+      "tags": [
+        "EUA",
+        "Suprema Corte",
+        "votos por correio"
       ],
-      "tecnologia_ia": []
+      "relevancia_brasil": false,
+      "url_principal": "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-late-mail-ballots.html"
     },
-    "descartadas": 5
-  }
-]
+    {
+      "rank": 2,
+      "titulo": "DR Congo bans mass gatherings in the capital to prevent spread of Ebola",
+      "resumo": "A República Democrática do Congo proibiu reuniões em massa na capital para prevenir a propagação do Ebola.",
+      "categoria": "saude_global",
+      "impacto": "alto",
+      "fontes": [
+        "BBC"
+      ],
+      "tags": [
+        "Ebola",
+        "República Democrática do Congo"
+      ],
+      "relevancia_brasil": false,
+      "url_principal": "https://www.bbc.co.uk/news/articles/c992k7zk981o"
+    },
+    {
+      "rank": 3,
+      "titulo": "Desenrola Adimplentes: governo lança nova etapa do programa para trabalhadores informais e empreendedores",
+      "resumo": "O governo lançou uma nova etapa do programa Desenrola Adimplentes para trabalhadores informais e empreendedores.",
+      "categoria": "brasil_economia",
+      "impacto": "medio",
+      "fontes": [
+        "G1"
+      ],
+      "tags": [
+        "Desenrola Adimplentes",
+        "economia brasileira"
+      ],
+      "relevancia_brasil": true,
+      "url_principal": "https://g1.globo.com/economia/noticia/2026/06/29/desenrola-adimplentes-governo-lanca-nova-etapa-do-programa-para-trabalhadores-informal-e-empreendedores.ghtml"
+    },
+    {
+      "rank": 4,
+      "titulo": "US Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case",
+      "resumo": "A Suprema Corte dos EUA rejeitou o recurso de Trump sobre o caso de abuso sexual de E Jean Carroll.",
+      "categoria": "geopolitica",
+      "impacto": "alto",
+      "fontes": [
+        "BBC"
+      ],
+      "tags": [
+        "EUA",
+        "Suprema Corte",
+        "Trump"
+      ],
+      "relevancia_brasil": false,
+      "url_principal": "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o"
+    },
+    {
+      "rank": 5,
+      "titulo": "Prefeitura e hospital onde seis pacientes morreram por falta de oxigênio durante a pandemia têm condenações mantidas no RS",
+      "resumo": "A prefeitura e o hospital onde seis pacientes morreram por falta de oxigênio durante a pandemia tiveram condenações mantidas no RS.",
+      "categoria": "brasil_sociedade",
+      "impacto": "medio",
+      "fontes": [
+        "G1"
+      ],
+      "tags": [
+        "pandemia",
+        "falta de oxigênio",
+        "RS"
+      ],
+      "relevancia_brasil": true,
+      "url_principal": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/29/condenacoes-pacientes-sem-oxigenio-pandemia-justica-rs.ghtml"
+    },
+    {
+      "rank": 6,
+      "titulo": "Barco-hospital Papa Francisco é alvo de denúncia por descarte de lixo hospitalar em rio de Santarém, no Pará",
+      "resumo": "O barco-hospital Papa Francisco é alvo de denúncia por descarte de lixo hospitalar em rio de Santarém, no Pará.",
+      "categoria": "brasil_sociedade",
+      "impacto": "baixo",
+      "fontes": [
+        "G1"
+      ],
+      "tags": [
+        "barco-hospital Papa Francisco",
+        "lixo hospitalar",
+        "Pará"
+      ],
+      "relevancia_brasil": true,
+      "url_principal": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/06/29/barco-hospital-papa-francisco-e-alvo-de-denuncia-por-descarte-de-lixo-hospitalar-em-rio-de-santarem-no-para.ghtml"
+    },
+    {
+      "rank": 7,
+      "titulo": "Seja homem: pergunta sobre atentado contra advogado elevou tensão que terminou com júri dos PMs anulado no caso Gritzzbach",
+      "resumo": "Uma pergunta sobre atentado contra advogado elevou a tensão e terminou com o júri dos PMs anulado no caso Gritzzbach.",
+      "categoria": "brasil_sociedade",
+      "impacto": "medio",
+      "fontes": [
+        "G1"
+      ],
+      "tags": [
+        "caso Gritzzbach",
+        "júri anulado"
+      ],
+      "relevancia_brasil": true,
+      "url_principal": "https://g1.globo.com/fantastico/noticia/2026/06/29/seja-homem-pergunta-sobre-atentado-contra-advogado-elevou-tensao-que-terminou-com-juri-dos-pms-anulado-no-caso-gritzzbach.ghtml"
+    },
+    {
+      "rank": 8,
+      "titulo": "Rebanho fica ilhado em meio à inundação em Goiana após chuvas",
+      "resumo": "Um rebanho ficou ilhado em meio à inundação em Goiana após chuvas.",
+      "categoria": "brasil_sociedade",
+      "impacto": "baixo",
+      "fontes": [
+        "G1"
+      ],
+      "tags": [
+        "inundação",
+        "Goiana",
+        "rebanho ilhado"
+      ],
+      "relevancia_brasil": true,
+      "url_principal": "https://g1.globo.com/pe/pernambuco/bom-dia-pe/noticia/2026/06/29/rebanho-fica-ilhado-em-meio-a-inundacao-em-goiana-apos-chuvas-video.ghtml"
+    },
+    {
+      "rank": 9,
+      "titulo": "Mulher sofre tentativa de feminicídio por estrangulamento em MG",
+      "resumo": "Uma mulher sofreu tentativa de feminicídio por estrangulamento em MG.",
+      "categoria": "brasil_sociedade",
+      "impacto": "medio",
+      "fontes": [
+        "G1"
+      ],
+      "tags": [
+        "tentativa de feminicídio",
+        "MG"
+      ],
+      "relevancia_brasil": true,
+      "url_principal": "https://g1.globo.com/mg/centro-oeste/noticia/2026/06/29/mulher-sofre-tentativa-de-feminicidio-por-estrangulamento-em-mg-ex-companheiro-e-procurado.ghtml"
+    },
+    {
+      "rank": 10,
+      "titulo": "Suspeito de assassinar homem encontrado carbonizado é preso em Teresina",
+      "resumo": "Suspeito de assassinar homem encontrado carbonizado é preso em Teresina.",
+      "categoria": "brasil_sociedade",
+      "impacto": "baixo",
+      "fontes": [
+        "G1"
+      ],
+      "tags": [
+        "assassinato",
+        "Teresina"
+      ],
+      "relevancia_brasil": true,
+      "url_principal": "https://g1.globo.com/pi/piaui/noticia/2026/06/29/suspeito-homem-teresina.ghtml"
+    }
+  ],
+  "destaques": {
+    "criticos": [
+      "Supreme Court Upholds Mississippi Late-Arriving Mail-In Ballot Law",
+      "DR Congo bans mass gatherings in the capital to prevent spread of Ebola"
+    ],
+    "brasil": [
+      "Desenrola Adimplentes: governo lança nova etapa do programa para trabalhadores informais e empreendedores",
+      "Prefeitura e hospital onde seis pacientes morreram por falta de oxigênio durante a pandemia têm condenações mantidas no RS"
+    ],
+    "tecnologia_ia": []
+  },
+  "descartadas": 5
+}
