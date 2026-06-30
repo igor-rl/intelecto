@@ -1,196 +1,163 @@
 {
-    "jornal": {
-        "nome": "Atualidades & Intelecto",
-        "atualizado_em": "2026-06-30T17:34:18.548Z",
-        "edicao": "2026-06-30",
-        "destaques": [
-            {
-                "id": "noticias-2026-06-30-1734-01",
-                "titulo": "Milhares de manifestantes marcham contra imigrantes na África do Sul",
-                "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
-                "categoria_slug": "noticias"
-            },
-            {
-                "id": "d2",
-                "titulo": "Seleção brasileira confirma escalação para próxima rodada decisiva",
-                "link": "#",
-                "categoria_slug": "futebol"
-            },
-            {
-                "id": "d3",
-                "titulo": "NASA divulga novas imagens do telescópio James Webb sobre formação estelar",
-                "link": "#",
-                "categoria_slug": "ciencia"
-            },
-            {
-                "id": "d4",
-                "titulo": "Banco Central mantém taxa básica de juros em reunião desta semana",
-                "link": "#",
-                "categoria_slug": "noticias"
-            }
-        ],
-        "capa": {
-            "categoria_slug": "noticias",
-            "categoria_nome": "Notícias",
-            "titulo": "Milhares de manifestantes marcham contra imigrantes na África do Sul",
-            "subtitulo": "Milhares de manifestantes marcharam contra imigrantes na África do Sul, com uma forte presença policial. Os manifestant...",
-            "resumo": "Milhares de manifestantes marcharam contra imigrantes na África do Sul, com uma forte presença policial. Os manifestantes exigem a expulsão de imigrantes do país.",
-            "imagem": null,
-            "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
-            "fonte": "BBC",
-            "publicado_em": "2026-06-30T17:10:51.000Z"
-        },
-        "categorias": {
-            "noticias": {
-                "slug": "noticias",
-                "nome": "Notícias",
-                "artigos": [
-                    {
-                        "id": "noticias-2026-06-30-1734-01",
-                        "titulo": "Milhares de manifestantes marcham contra imigrantes na África do Sul",
-                        "resumo": "Milhares de manifestantes marcharam contra imigrantes na África do Sul, com uma forte presença policial. Os manifestantes exigem a expulsão de imigrantes do país.",
-                        "imagem": null,
-                        "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
-                        "fonte": "BBC",
-                        "publicado_em": "2026-06-30T17:10:51.000Z"
-                    },
-                    {
-                        "id": "noticias-2026-06-30-1734-02",
-                        "titulo": "Omã propõe plano de taxas para navios que passam pelo Estreito de Ormuz",
-                        "resumo": "Omã propôs um plano para cobrar taxas de navios que passam pelo Estreito de Ormuz, uma importante rota de comércio internacional.",
-                        "imagem": null,
-                        "link": "https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html",
-                        "fonte": "New York Times",
-                        "publicado_em": "2026-06-30T17:07:20.000Z"
-                    },
-                    {
-                        "id": "noticias-2026-06-30-1734-03",
-                        "titulo": "Suprema Corte dos EUA mantém proibição de mulheres trans em esportes femininos",
-                        "resumo": "A Suprema Corte dos EUA manteve a proibição de mulheres trans em esportes femininos, uma decisão que gerou controvérsia e críticas.",
-                        "imagem": null,
-                        "link": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
-                        "fonte": "BBC",
-                        "publicado_em": "2026-06-30T17:02:39.000Z"
-                    },
-                    {
-                        "id": "noticias-2026-06-30-1734-04",
-                        "titulo": "Polícia Federal bloqueia R$ 12 milhões de grupo suspeito de contrabando de agrotóxicos",
-                        "resumo": "A Polícia Federal bloqueou R$ 12 milhões de um grupo suspeito de contrabando de agrotóxicos no Rio Grande do Sul.",
-                        "imagem": null,
-                        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/30/pf-bloqueia-r-12-milhoes-de-grupo-suspeito-por-contrabando-de-agrotoxicos-no-rs.ghtml",
-                        "fonte": "G1",
-                        "publicado_em": "2026-06-30T17:01:47.000Z"
-                    },
-                    {
-                        "id": "noticias-2026-06-30-1734-05",
-                        "titulo": "Congressista americano explica ausência de quatro meses devido à depressão",
-                        "resumo": "Um congressista americano explicou sua ausência de quatro meses devido à depressão, uma condição que afeta milhões de pessoas nos EUA.",
-                        "imagem": null,
-                        "link": "https://www.bbc.co.uk/news/articles/c9q2prq8301o?at_medium=RSS&at_campaign=rss",
-                        "fonte": "BBC",
-                        "publicado_em": "2026-06-30T17:01:02.000Z"
-                    },
-                    {
-                        "id": "noticias-2026-06-30-1734-06",
-                        "titulo": "Nova líder do governo no Senado se reúne com Alcolumbre para discutir pauta",
-                        "resumo": "A nova líder do governo no Senado se reuniu com o presidente da Casa para discutir a pauta de votações.",
-                        "imagem": null,
-                        "link": "https://g1.globo.com/politica/noticia/2026/06/30/nova-lider-do-governo-no-senado-se-reune-com-alcolumbre-para-tentar-travar-pauta-bomba.ghtml",
-                        "fonte": "G1",
-                        "publicado_em": "2026-06-30T16:54:55.000Z"
-                    },
-                    {
-                        "id": "noticias-2026-06-30-1734-07",
-                        "titulo": "Grupo suspeito de furtar grãos é investigado em Mato Grosso",
-                        "resumo": "Um grupo suspeito de furtar grãos está sendo investigado em Mato Grosso, uma região importante para a produção agrícola.",
-                        "imagem": null,
-                        "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/06/30/grupo-suspeito-de-furtar-graos-e-movimentar-r-2-milhoes-e-investigado-em-mt.ghtml",
-                        "fonte": "G1",
-                        "publicado_em": "2026-06-30T16:54:28.000Z"
-                    },
-                    {
-                        "id": "noticias-2026-06-30-1734-08",
-                        "titulo": "Defesa Civil emite alerta de baixa umidade do ar em Belo Horizonte",
-                        "resumo": "A Defesa Civil emitiu um alerta de baixa umidade do ar em Belo Horizonte, uma condição que pode causar problemas de saúde.",
-                        "imagem": null,
-                        "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/30/defesa-civil-emite-alerta-de-baixa-umidade-do-ar-em-bh.ghtml",
-                        "fonte": "G1",
-                        "publicado_em": "2026-06-30T16:56:34.000Z"
-                    },
-                    {
-                        "id": "noticias-2026-06-30-1734-09",
-                        "titulo": "Homem é condenado a 22 anos de prisão por tentar matar companheira",
-                        "resumo": "Um homem foi condenado a 22 anos de prisão por tentar matar sua companheira em Chapadinha.",
-                        "imagem": null,
-                        "link": "https://g1.globo.com/ma/maranhao/noticia/2026/06/30/homem-que-tentou-matar-companheira-com-tiro-de-espingarda-e-condenado-a-22-anos-de-prisao-em-chapadinha.ghtml",
-                        "fonte": "G1",
-                        "publicado_em": "2026-06-30T16:50:34.000Z"
-                    },
-                    {
-                        "id": "noticias-2026-06-30-1734-10",
-                        "titulo": "Whindersson Nunes mobiliza limpeza de riacho poluído em sua cidade natal",
-                        "resumo": "O humorista Whindersson Nunes mobilizou a limpeza de um riacho poluído em sua cidade natal, no Piauí.",
-                        "imagem": null,
-                        "link": "https://g1.globo.com/pi/piaui/noticia/2026/06/30/whindersson-nunes-bom-jesus.ghtml",
-                        "fonte": "G1",
-                        "publicado_em": "2026-06-30T16:48:56.000Z"
-                    }
-                ]
-            },
-            "ciencia": {
-                "slug": "ciencia",
-                "nome": "Ciência",
-                "artigos": [
-                    {
-                        "id": "c1",
-                        "titulo": "Pesquisadores brasileiros identificam nova espécie na Amazônia",
-                        "resumo": "Descoberta reforça a importância da preservação de áreas ainda pouco exploradas da floresta.",
-                        "imagem": null,
-                        "link": "#",
-                        "fonte": "Super Interessante",
-                        "publicado_em": "2026-06-30T08:00:00-03:00"
-                    },
-                    {
-                        "id": "c2",
-                        "titulo": "Estudo associa sono regular a melhor desempenho cognitivo",
-                        "resumo": "Pesquisa acompanhou voluntários por dois anos e mediu impacto em memória e atenção.",
-                        "imagem": null,
-                        "link": "#",
-                        "fonte": "Nature (resumo)",
-                        "publicado_em": "2026-06-30T07:40:00-03:00"
-                    }
-                ]
-            },
-            "futebol": {
-                "slug": "futebol",
-                "nome": "Futebol",
-                "artigos": [
-                    {
-                        "id": "f1",
-                        "titulo": "Clube paulista anuncia contratação para a próxima temporada",
-                        "resumo": "Reforço chega para disputar posição no meio-campo a partir do segundo semestre.",
-                        "imagem": null,
-                        "link": "#",
-                        "fonte": "ge.globo",
-                        "publicado_em": "2026-06-30T12:00:00-03:00"
-                    }
-                ]
-            },
-            "curiosidades": {
-                "slug": "curiosidades",
-                "nome": "Curiosidades",
-                "artigos": [
-                    {
-                        "id": "u1",
-                        "titulo": "Por que bocejamos? Ciência ainda não tem resposta definitiva",
-                        "resumo": "Diferentes teorias tentam explicar o fenômeno, da regulação térmica à empatia social.",
-                        "imagem": null,
-                        "link": "#",
-                        "fonte": "Mundo Estranho",
-                        "publicado_em": "2026-06-29T18:00:00-03:00"
-                    }
-                ]
-            }
-        }
-    }
+  "noticias": {
+    "slug": "noticias",
+    "nome": "Notícias",
+    "frequencia": "3h",
+    "gerado_em": "2026-06-30T19:16:50.248Z",
+    "artigos": [
+      {
+        "id": "noticias-2026-06-30-1916-01",
+        "titulo": "Nova York aprova orçamento de US$ 126 bilhões",
+        "resumo": "O orçamento inclui expansão de programas de vouchers de habitação e tarifas de trânsito descontadas. A medida foi aprovada após um acordo entre o prefeito e o conselho da cidade.",
+        "imagem": null,
+        "link": "https://www.nytimes.com/2026/06/30/nyregion/mamdani-budget-nyc.html",
+        "fonte": "Desconhecida",
+        "publicado_em": "2026-06-30T19:13:19.000Z",
+        "relevancia": 0.8,
+        "destaque": true,
+        "tags": [
+          "economia",
+          "nova york"
+        ]
+      },
+      {
+        "id": "noticias-2026-06-30-1916-02",
+        "titulo": "Apple muda estratégia de segurança devido ao avanço da IA",
+        "resumo": "A Apple agora libera atualizações de segurança para iPhones e iPads antes do lançamento de novas versões do sistema operacional, como parte de uma estratégia para responder ao avanço da inteligência artificial.",
+        "imagem": null,
+        "link": "https://g1.globo.com/tecnologia/noticia/2026/06/30/apple-muda-estrategia-e-antecipa-correcoes-de-seguranca-diante-do-avanco-da-ia.ghtml",
+        "fonte": "Desconhecida",
+        "publicado_em": "2026-06-30T19:10:33.000Z",
+        "relevancia": 0.7,
+        "destaque": false,
+        "tags": [
+          "tecnologia",
+          "apple",
+          "ia"
+        ]
+      },
+      {
+        "id": "noticias-2026-06-30-1916-03",
+        "titulo": "Protestos contra imigrantes na África do Sul",
+        "resumo": "Manifestantes marcharam por várias cidades do país contra os imigrantes ilegais, após milhares fugirem da violência.",
+        "imagem": null,
+        "link": "https://g1.globo.com/mundo/noticia/2026/06/30/africa-do-sul-tem-protestos-contra-imigrantes-apos-milhares-fugirem-da-violencia.ghtml",
+        "fonte": "Desconhecida",
+        "publicado_em": "2026-06-30T19:04:55.000Z",
+        "relevancia": 0.6,
+        "destaque": false,
+        "tags": [
+          "mundo",
+          "africa do sul"
+        ]
+      },
+      {
+        "id": "noticias-2026-06-30-1916-04",
+        "titulo": "Arma de Bolsonaro apreendida com militar foi inutilizada",
+        "resumo": "A arma registrada em nome do ex-presidente Jair Bolsonaro e apreendida durante uma abordagem da Polícia Civil do Distrito Federal foi inutilizada com aval de Michelle.",
+        "imagem": null,
+        "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/06/30/arma-de-bolsonaro-apreendida.ghtml",
+        "fonte": "Desconhecida",
+        "publicado_em": "2026-06-30T19:09:38.000Z",
+        "relevancia": 0.5,
+        "destaque": false,
+        "tags": [
+          "brasil",
+          "politica"
+        ]
+      },
+      {
+        "id": "noticias-2026-06-30-1916-05",
+        "titulo": "Justiça revoga prisão de acusado de agredir esposa em via pública",
+        "resumo": "A Justiça revogou a prisão preventiva de Alécio Luís de Abreu Barreto, acusado de agredir a esposa em via pública em Sergipe.",
+        "imagem": null,
+        "link": "https://g1.globo.com/se/sergipe/noticia/2026/06/30/justica-revoga-prisao-de-acusado-de-agredir-esposa-em-via-publica-em-estancia.ghtml",
+        "fonte": "Desconhecida",
+        "publicado_em": "2026-06-30T19:11:47.000Z",
+        "relevancia": 0.4,
+        "destaque": false,
+        "tags": [
+          "brasil",
+          "justica"
+        ]
+      },
+      {
+        "id": "noticias-2026-06-30-1916-06",
+        "titulo": "Radares instalados em Ipatinga começarão a funcionar em 16 de julho",
+        "resumo": "Os equipamentos de fiscalização eletrônica instalados em cruzamentos e vias de Ipatinga começarão a funcionar em 16 de julho.",
+        "imagem": null,
+        "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/06/30/radares-instalados-em-ipatinga-ja-tem-data-para-comecar-a-funcionar.ghtml",
+        "fonte": "Desconhecida",
+        "publicado_em": "2026-06-30T19:07:40.000Z",
+        "relevancia": 0.3,
+        "destaque": false,
+        "tags": [
+          "brasil",
+          "mg"
+        ]
+      },
+      {
+        "id": "noticias-2026-06-30-1916-07",
+        "titulo": "Motociclista morre após bater em cavalo na RJ-106",
+        "resumo": "Um motociclista morreu após bater em um cavalo na manhã de terça-feira na RJ-106, na altura do km 22, em Maricá.",
+        "imagem": null,
+        "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/06/30/motociclista-morre-apos-bater-em-cavalo-na-rj-106-em-marica.ghtml",
+        "fonte": "Desconhecida",
+        "publicado_em": "2026-06-30T19:01:34.000Z",
+        "relevancia": 0.2,
+        "destaque": false,
+        "tags": [
+          "brasil",
+          "rj"
+        ]
+      },
+      {
+        "id": "noticias-2026-06-30-1916-08",
+        "titulo": "Adolescente é atingida por trem em Barra Mansa",
+        "resumo": "Uma adolescente de 13 anos foi atingida por um trem no início da tarde de terça-feira no Centro de Barra Mansa.",
+        "imagem": null,
+        "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/06/30/adolescente-e-atingida-por-trem-em-barra-mansa.ghtml",
+        "fonte": "Desconhecida",
+        "publicado_em": "2026-06-30T19:01:33.000Z",
+        "relevancia": 0.1,
+        "destaque": false,
+        "tags": [
+          "brasil",
+          "rj"
+        ]
+      },
+      {
+        "id": "noticias-2026-06-30-1916-09",
+        "titulo": "Homem é detido suspeito de estelionato eletrônico em Birigui",
+        "resumo": "Um homem de 35 anos foi detido na manhã de terça-feira em Birigui suspeito de cometer estelionato eletrônico.",
+        "imagem": null,
+        "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/06/30/homem-e-detido-suspeito-de-praticar-estelionato-eletronico-em-birigui.ghtml",
+        "fonte": "Desconhecida",
+        "publicado_em": "2026-06-30T19:00:17.000Z",
+        "relevancia": 0.1,
+        "destaque": false,
+        "tags": [
+          "brasil",
+          "sp"
+        ]
+      },
+      {
+        "id": "noticias-2026-06-30-1916-10",
+        "titulo": "Quatro motoristas são presos por embriaguez ao volante no Maranhão",
+        "resumo": "Quatro motoristas foram presos por dirigir sob efeito de álcool entre os dias 26 e 29 de junho, durante ações da Polícia Rodoviária Federal no Maranhão.",
+        "imagem": null,
+        "link": "https://g1.globo.com/ma/maranhao/noticia/2026/06/30/quatro-motoristas-sao-presos-por-embriaguez-ao-volante-durante-o-fim-de-semana-no-ma.ghtml",
+        "fonte": "Desconhecida",
+        "publicado_em": "2026-06-30T18:59:03.000Z",
+        "relevancia": 0.1,
+        "destaque": false,
+        "tags": [
+          "brasil",
+          "ma"
+        ]
+      }
+    ]
+  },
+  "atualizado_em": "30-06-2026T16:16",
+  "edicao": "30-06-2026"
 }
