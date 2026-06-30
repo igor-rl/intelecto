@@ -1,4 +1,54 @@
-// 1. Pega a resposta bruta da API do Groq
+// 1. Captura os dados das duas entradas do Merge
+const novoConteudo = $input.first().json; // Dados do Objeto 1
+const categorias = $input.first().json.categorias;
+const jornal = 
+
+// Se as entradas estiverem vazias, retorna o que tiver
+if (!novoConteudo.length);
+
+// 2. Extrai a nova categoria de "noticias" do Objeto 1
+const novaNoticiaRaw = input1[0].json.noticias;
+
+// Formatamos para o padrão que o Objeto 2 espera dentro do array de categorias
+const novaNoticiaFormatada = {
+  noticias: {
+    slug: novaNoticiaRaw.slug,
+    nome: novaNoticiaRaw.nome,
+    artigos: novaNoticiaRaw.artigos
+  }
+};
+
+// 3. Clona o Objeto 2 para evitar mutação direta
+let objetoFinal = JSON.parse(JSON.stringify(input2[0].json));
+
+// 4. Localiza e substitui a categoria "noticias" dentro do array de categorias
+if (objetoFinal.categorias && Array.isArray(objetoFinal.categorias)) {
+  objetoFinal.categorias = objetoFinal.categorias.map(cat => {
+    // Se for o objeto que contém a chave "noticias", substitui pelo novo
+    if (cat.noticias) {
+      return novaNoticiaFormatada;
+    }
+    return cat;
+  });
+}
+
+// Retorna o resultado final estruturado para o n8n
+return [{ json: objetoFinal }];// 1. Pega a resposta bruta da API do Groq
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 const response = $input.first().json;
 
 // 2. Navega até o conteúdo de texto gerado pelo modelo
