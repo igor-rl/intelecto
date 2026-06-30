@@ -1,4 +1,4 @@
-# ainews
+# Intelecto
 Acompanhe as principais notícias diárias e semanais fornecidas pela IA.
 [https://igor-rl.github.io/ainews/](https://igor-rl.github.io/ainews/)
 
