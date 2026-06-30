@@ -1,0 +1,268 @@
+{
+  "jornal": {
+    "jornal": {
+      "nome": "Atualidades & Intelecto",
+      "atualizado_em": "2026-06-30T17:23:00.000Z",
+      "edicao": "2026-06-30",
+      "destaques": [
+        {
+          "id": "noticias-2026-06-30-2023-01",
+          "titulo": "CIA reorganiza priorizando operações cibernéticas",
+          "link": "https://www.nytimes.com/2026/06/30/us/politics/cia-reorganization-cyber-ai.html",
+          "categoria_slug": "noticias"
+        },
+        {
+          "id": "c1",
+          "titulo": "Pesquisadores brasileiros identificam nova espécie na Amazônia",
+          "link": "#",
+          "categoria_slug": "ciencia"
+        },
+        {
+          "id": "noticias-2026-06-30-2023-02",
+          "titulo": "Onda de calor atinge Nova York",
+          "link": "https://www.nytimes.com/2026/06/30/nyregion/nyc-heat-wave.html",
+          "categoria_slug": "noticias"
+        },
+        {
+          "id": "c2",
+          "titulo": "Estudo associa sono regular a melhor desempenho cognitivo",
+          "link": "#",
+          "categoria_slug": "ciencia"
+        }
+      ],
+      "capa": {
+        "categoria_slug": "noticias",
+        "categoria_nome": "Notícias",
+        "titulo": "CIA reorganiza priorizando operações cibernéticas",
+        "subtitulo": "A CIA está reorganizando suas prioridades para focar em operações cibernéticas e inteligência artificial...",
+        "resumo": "A CIA está reorganizando suas prioridades para focar em operações cibernéticas e inteligência artificial. O diretor da CIA, John Ratcliffe, afirmou que a agência tomará 'riscos inteligentes' com supervisão sobre o uso da inteligência artificial.",
+        "imagem": null,
+        "link": "https://www.nytimes.com/2026/06/30/us/politics/cia-reorganization-cyber-ai.html",
+        "fonte": "Desconhecida / The New York Times",
+        "publicado_em": "2026-06-30T20:08:03.000-03:00"
+      },
+      "categorias": {
+        "noticias": {
+          "slug": "noticias",
+          "nome": "Notícias",
+          "artigos": [
+            {
+              "id": "noticias-2026-06-30-2023-01",
+              "titulo": "CIA reorganiza priorizando operações cibernéticas",
+              "resumo": "A CIA está reorganizando suas prioridades para focar em operações cibernéticas e inteligência artificial. O diretor da CIA, John Ratcliffe, afirmou que a agência tomará 'riscos inteligentes' com supervisão sobre o uso da inteligência artificial.",
+              "imagem": null,
+              "link": "https://www.nytimes.com/2026/06/30/us/politics/cia-reorganization-cyber-ai.html",
+              "fonte": "Desconhecida / The New York Times",
+              "publicado_em": "2026-06-30T20:08:03.000-03:00",
+              "relevancia": 0.8,
+              "destaque": true,
+              "tags": [
+                "cia",
+                "ciberseguranca",
+                "inteligenca artificial"
+              ]
+            },
+            {
+              "id": "noticias-2026-06-30-2023-02",
+              "titulo": "Onda de calor atinge Nova York",
+              "resumo": "Uma onda de calor extremo está prevista para atingir Nova York antes do feriado de 4 de Julho. Temperaturas podem ultrapassar 100 graus.",
+              "imagem": null,
+              "link": "https://www.nytimes.com/2026/06/30/nyregion/nyc-heat-wave.html",
+              "fonte": "Desconhecida / The New York Times",
+              "publicado_em": "2026-06-30T20:14:02.000-03:00",
+              "relevancia": 0.6,
+              "destaque": false,
+              "tags": [
+                "onada de calor",
+                "nova york",
+                "estados unidos"
+              ]
+            },
+            {
+              "id": "noticias-2026-06-30-2023-03",
+              "titulo": "Empresas não crescem além da mentalidade de seus líderes",
+              "resumo": "Empresas que não definem um posicionamento claro frequentemente disputam atenção apenas por preço, reduzindo sua autoridade e valor percebido. A mentalidade dos líderes é crucial para o crescimento das empresas.",
+              "imagem": null,
+              "link": "https://g1.globo.com/ba/bahia/especial-publicitario/kenia-cristina/noticia/2026/06/30/empresas-nao-crescem-alem-da-mentalidade-de-quem-as-lidera.ghtml",
+              "fonte": "Desconhecida / G1",
+              "publicado_em": "2026-06-30T20:14:37.000-03:00",
+              "relevancia": 0.4,
+              "destaque": false,
+              "tags": [
+                "empresas",
+                "lideranca",
+                "crescimento"
+              ]
+            },
+            {
+              "id": "noticias-2026-06-30-2023-04",
+              "titulo": "Experiência do consumidor se torna diferencial competitivo",
+              "resumo": "Oferecer um bom produto ou serviço não é mais suficiente para garantir a preferência do consumidor. A experiência do consumidor se consolida como um diferencial competitivo importante para as empresas.",
+              "imagem": null,
+              "link": "https://g1.globo.com/ba/bahia/especial-publicitario/kenia-cristina/noticia/2026/06/30/a-experiencia-do-consumidor-se-consolida-como-diferencial-competitivo-para-as-empresas.ghtml",
+              "fonte": "Desconhecida / G1",
+              "publicado_em": "2026-06-30T20:14:23.000-03:00",
+              "relevancia": 0.4,
+              "destaque": false,
+              "tags": [
+                "experiencia do consumidor",
+                "diferencial competitivo",
+                "empresas"
+              ]
+            },
+            {
+              "id": "noticias-2026-06-30-2023-05",
+              "titulo": "Desmotivação nas equipes pode indicar desafios na liderança",
+              "resumo": "A desmotivação nas equipes pode ser um indicador de desafios na liderança e na cultura das empresas. É importante abordar esses desafios para manter a motivação e produtividade das equipes.",
+              "imagem": null,
+              "link": "https://g1.globo.com/ba/bahia/especial-publicitario/kenia-cristina/noticia/2026/06/30/desmotivacao-nas-equipes-pode-indicar-desafios-na-lideranca-e-na-cultura-das-empresas.ghtml",
+              "fonte": "Desconhecida / G1",
+              "publicado_em": "2026-06-30T20:14:16.000-03:00",
+              "relevancia": 0.4,
+              "destaque": false,
+              "tags": [
+                "desmotivacao",
+                "lideranca",
+                "cultura empresarial"
+              ]
+            },
+            {
+              "id": "noticias-2026-06-30-2023-06",
+              "titulo": "Homem é multado por jogar lixo na rua em Novo Hamburgo",
+              "resumo": "Um homem foi multado em R$ 9,5 mil após ser filmado jogando lixo na rua em Novo Hamburgo. A multa foi aplicada de acordo com a lei.",
+              "imagem": null,
+              "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/30/multa-lixo-rua-novo-hamburgo-lei.ghtml",
+              "fonte": "Desconhecida / G1",
+              "publicado_em": "2026-06-30T20:13:38.000-03:00",
+              "relevancia": 0.2,
+              "destaque": false,
+              "tags": [
+                "multa",
+                "lixo",
+                "novo hamburgo"
+              ]
+            },
+            {
+              "id": "noticias-2026-06-30-2023-07",
+              "titulo": "Polícia prende homem condenado por estupro de vulnerável",
+              "resumo": "A polícia prendeu um homem condenado a 8 anos de reclusão por estupro de vulnerável. A prisão foi realizada pela equipe do GOE de São José do Rio Preto.",
+              "imagem": null,
+              "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/06/30/policia-prende-homem-condenado-a-8-anos-de-reclusao-por-estupro-de-vulneravel.ghtml",
+              "fonte": "Desconhecida / G1",
+              "publicado_em": "2026-06-30T20:12:52.000-03:00",
+              "relevancia": 0.2,
+              "destaque": false,
+              "tags": [
+                "policia",
+                "prisao",
+                "estupro"
+              ]
+            },
+            {
+              "id": "noticias-2026-06-30-2023-08",
+              "titulo": "Caminhão carregando oliveiras centenárias é parado por contrabando",
+              "resumo": "Um caminhão carregando seis oliveiras centenárias foi parado pela polícia federal por contrabando. O homem responsável foi preso.",
+              "imagem": null,
+              "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/06/30/caminhao-oliveiras-centenarias-contrabando-homem-preso.ghtml",
+              "fonte": "Desconhecida / G1",
+              "publicado_em": "2026-06-30T20:12:07.000-03:00",
+              "relevancia": 0.2,
+              "destaque": false,
+              "tags": [
+                "caminhao",
+                "oliveiras",
+                "contrabando"
+              ]
+            },
+            {
+              "id": "noticias-2026-06-30-2023-09",
+              "titulo": "Adolescente morre afogado em praia do Recife",
+              "resumo": "Um adolescente de 15 anos morreu afogado em uma praia do Recife após três dias de buscas. O corpo foi encontrado pela equipe de bombeiros.",
+              "imagem": null,
+              "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/06/30/adolescente-morre-afogado-e-corpo-e-encontrado-apos-tres-dias-de-buscas-na-praia-do-paiva.ghtml",
+              "fonte": "Desconhecida / G1",
+              "publicado_em": "2026-06-30T20:10:27.000-03:00",
+              "relevancia": 0.2,
+              "destaque": false,
+              "tags": [
+                "afogamento",
+                "praia",
+                "recife"
+              ]
+            },
+            {
+              "id": "noticias-2026-06-30-2023-10",
+              "titulo": "Torcedor tem mão dilacerada após soltar fogos de artifício",
+              "resumo": "Um torcedor teve a mão dilacerada após soltar fogos de artifício durante a comemoração de um jogo de futebol. O acidente ocorreu em um bar em Goiás.",
+              "imagem": null,
+              "link": "https://g1.globo.com/go/goias/noticia/2026/06/30/torcedor-tem-mao-dilacerada-apos-soltar-fogos-durante-a-comemoracao-do-jogo-do-brasil.ghtml",
+              "fonte": "Desconhecida / G1",
+              "publicado_em": "2026-06-30T20:09:38.000-03:00",
+              "relevancia": 0.2,
+              "destaque": false,
+              "tags": [
+                "fogos de artificio",
+                "acidente",
+                "futebol"
+              ]
+            }
+          ]
+        },
+        "ciencia": {
+          "slug": "ciencia",
+          "nome": "Ciência",
+          "artigos": [
+            {
+              "id": "c1",
+              "titulo": "Pesquisadores brasileiros identificam nova espécie na Amazônia",
+              "resumo": "Descoberta reforça a importância da preservação de áreas ainda pouco exploradas da floresta.",
+              "imagem": null,
+              "link": "#",
+              "fonte": "Super Interessante",
+              "publicado_em": "2026-06-30T08:00:00-03:00"
+            },
+            {
+              "id": "c2",
+              "titulo": "Estudo associa sono regular a melhor desempenho cognitivo",
+              "resumo": "Pesquisa acompanhou voluntários por dois anos e mediu impacto em memória e atenção.",
+              "imagem": null,
+              "link": "#",
+              "fonte": "Nature (resumo)",
+              "publicado_em": "2026-06-30T07:40:00-03:00"
+            }
+          ]
+        },
+        "futebol": {
+          "slug": "futebol",
+          "nome": "Futebol",
+          "artigos": [
+            {
+              "id": "f1",
+              "titulo": "Clube paulista anuncia contratação para a próxima temporada",
+              "resumo": "Reforço chega para disputar posição no meio-campo a partir do segundo semestre.",
+              "imagem": null,
+              "link": "#",
+              "fonte": "ge.globo",
+              "publicado_em": "2026-06-30T12:00:00-03:00"
+            }
+          ]
+        },
+        "curiosidades": {
+          "slug": "curiosidades",
+          "nome": "Curiosidades",
+          "artigos": [
+            {
+              "id": "u1",
+              "titulo": "Por que bocejamos? Ciência ainda não tem resposta definitiva",
+              "resumo": "Diferentes teorias tentam explicar o fenômeno, da regulação térmica à empatia social.",
+              "imagem": null,
+              "link": "#",
+              "fonte": "Mundo Estranho",
+              "publicado_em": "2026-06-29T18:00:00-03:00"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
