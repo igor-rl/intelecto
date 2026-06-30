@@ -179,10 +179,14 @@
   }
 
   function render(data){
-    renderDateline(data.jornal);
-    renderTicker(data.destaques);
-    renderCapa(data.capa);
-    renderSections(data.categorias);
+    const jornal = data.jornal || {};
+    renderDateline(jornal);
+    renderTicker(jornal.destaques);
+    renderCapa(jornal.capa);
+
+    // categorias agora é um objeto { slug: {...} }, precisa virar array
+    const categoriasArray = jornal.categorias ? Object.values(jornal.categorias) : [];
+    renderSections(categoriasArray);
   }
 
   function showError(){
