@@ -1,0 +1,131 @@
+{
+  "data": "29/06/2026",
+  "hora_geracao": "23:31",
+  "total_noticias": 7,
+  "resumo_executivo": "Notícias internacionais destacam tiroteio na Alemanha, decisões da Suprema Corte americana e desastres naturais. No Brasil, destaque para investimentos em pesquisa na Amazônia e notícias sobre a Copa do Mundo.",
+  "noticias": [
+    {
+      "rank": 1,
+      "titulo": "6 Are Killed During a Rare Mass Shooting in Germany",
+      "resumo": "Um tiroteio em uma instalação para jovens na Alemanha resultou em 6 mortes.",
+      "categoria": "geopolitica",
+      "impacto": "critico",
+      "fontes": [
+        "The New York Times"
+      ],
+      "tags": [
+        "tiroteio",
+        "Alemanha"
+      ],
+      "relevancia_brasil": false,
+      "url_principal": "https://www.nytimes.com/2026/06/29/world/europe/germany-shooting-stade.html"
+    },
+    {
+      "rank": 2,
+      "titulo": "Suprema Corte americana amplia poder de Donald Trump sobre agências reguladoras",
+      "resumo": "A Suprema Corte dos EUA decidiu ampliar o poder do presidente sobre agências reguladoras.",
+      "categoria": "economia_global",
+      "impacto": "alto",
+      "fontes": [
+        "G1"
+      ],
+      "tags": [
+        "Suprema Corte",
+        "EUA"
+      ],
+      "relevancia_brasil": false,
+      "url_principal": "https://g1.globo.com/jornal-nacional/noticia/2026/06/29/suprema-corte-americana-amplia-poder-de-donald-trump-sobre-agencias-reguladoras.ghtml"
+    },
+    {
+      "rank": 3,
+      "titulo": "Exército inaugura Instituto de Pesquisas na Amazônia em Manaus e anuncia investimento de R$ 15 milhões",
+      "resumo": "O Exército Brasileiro inaugurou um instituto de pesquisas na Amazônia, com investimento de R$ 15 milhões.",
+      "categoria": "brasil_sociedade",
+      "impacto": "medio",
+      "fontes": [
+        "G1"
+      ],
+      "tags": [
+        "Exército",
+        "Amazônia"
+      ],
+      "relevancia_brasil": true,
+      "url_principal": "https://g1.globo.com/am/amazonas/noticia/2026/06/29/exercito-inaugura-instituto-de-pesquisas-na-amazonia-em-manaus-e-anuncia-investimento-de-r-15-milhoes.ghtml"
+    },
+    {
+      "rank": 4,
+      "titulo": "Venezuelano que passou 4 dias soterrado conta que foi o único encontrado vivo em prédio",
+      "resumo": "Um venezuelano foi encontrado vivo após 4 dias soterrado em um prédio destruído por terremotos.",
+      "categoria": "geopolitica",
+      "impacto": "alto",
+      "fontes": [
+        "G1"
+      ],
+      "tags": [
+        "Venezuela",
+        "terremoto"
+      ],
+      "relevancia_brasil": false,
+      "url_principal": "https://g1.globo.com/jornal-nacional/noticia/2026/06/29/venezuelano-que-passou-4-dias-soterrado-conta-que-foi-o-unico-encontrado-vivo-em-predio.ghtml"
+    },
+    {
+      "rank": 5,
+      "titulo": "What to Know About Wildfires in Colorado and Other Western States",
+      "resumo": "Incêndios florestais atingem vários estados nos EUA, com dezenas de milhares de acres queimados.",
+      "categoria": "clima_ambiente",
+      "impacto": "alto",
+      "fontes": [
+        "The New York Times"
+      ],
+      "tags": [
+        "incêndios",
+        "EUA"
+      ],
+      "relevancia_brasil": false,
+      "url_principal": "https://www.nytimes.com/2026/06/29/us/what-to-know-wildfires-colorado-utah-arizona-new-mexico-nevada.html"
+    },
+    {
+      "rank": 6,
+      "titulo": "Judge Orders Trump to End Efforts to Kill Hudson Tunnel Funding",
+      "resumo": "Um juiz ordenou que o governo Trump pare de tentar bloquear fundos para um túnel em Nova York.",
+      "categoria": "economia_global",
+      "impacto": "medio",
+      "fontes": [
+        "The New York Times"
+      ],
+      "tags": [
+        "Trump",
+        "túnel"
+      ],
+      "relevancia_brasil": false,
+      "url_principal": "https://www.nytimes.com/2026/06/29/nyregion/hudson-tunnel-trump-funding-judge-ruling.html"
+    },
+    {
+      "rank": 7,
+      "titulo": "María Corina Machado, líder da oposição da Venezuela, acusa governo interino de impedir seu retorno ao país",
+      "resumo": "A líder da oposição venezuelana acusou o governo interino de impedir seu retorno ao país.",
+      "categoria": "geopolitica",
+      "impacto": "alto",
+      "fontes": [
+        "G1"
+      ],
+      "tags": [
+        "Venezuela",
+        "oposição"
+      ],
+      "relevancia_brasil": false,
+      "url_principal": "https://g1.globo.com/mundo/noticia/2026/06/29/maria-corina-machado-lider-da-oposicao-da-venezuela-acusa-governo-interino-de-impedir-seu-retorno-ao-pais.ghtml"
+    }
+  ],
+  "destaques": {
+    "criticos": [
+      "tiroteio na Alemanha",
+      "decisões da Suprema Corte americana"
+    ],
+    "brasil": [
+      "Exército inaugura Instituto de Pesquisas na Amazônia"
+    ],
+    "tecnologia_ia": []
+  },
+  "descartadas": 13
+}
