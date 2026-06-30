@@ -3,1235 +3,537 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>IA NEWS — Jornal de Inteligência Artificial</title>
-<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<title>Atualidades &amp; Intelecto</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
 <style>
-/* ═══════════════════════════════════════════════
-   TOKENS
-═══════════════════════════════════════════════ */
-:root {
-  --night:    #050A14;
-  --deep:     #0B1526;
-  --panel:    #111D33;
-  --grid:     #1A2744;
-  --muted:    #2A3F66;
-  --cyan:     #00E5FF;
-  --cyan-dim: #00B8CC;
-  --red:      #FF3B30;
-  --amber:    #FFB700;
-  --green:    #00E676;
-  --text:     #E8EDF5;
-  --sub:      #8A9BC0;
-  --faint:    #3D5280;
-  --mono:     'JetBrains Mono', monospace;
-  --display:  'Space Grotesk', sans-serif;
-  --body:     'DM Sans', sans-serif;
-}
+  :root{
+    --paper:#f3eee2;
+    --paper-dim:#ece5d4;
+    --ink:#1c1a16;
+    --ink-soft:#4a463d;
+    --brick:#8c3327;
+    --gold:#a9802f;
+    --line:#d8cfb8;
+    --max:1180px;
+  }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'Source Serif 4', Georgia, serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:inherit;text-decoration:none;}
+  img{max-width:100%;display:block;}
 
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  .wrap{max-width:var(--max);margin:0 auto;padding:0 20px;}
 
-html { scroll-behavior: smooth; }
+  /* ---------- Dateline ---------- */
+  .dateline{
+    border-bottom:1px solid var(--ink);
+    font-family:'Space Mono', monospace;
+    font-size:11px;
+    letter-spacing:.08em;
+    text-transform:uppercase;
+    color:var(--ink-soft);
+    padding:8px 0;
+    display:flex;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap:6px;
+  }
 
-body {
-  background: var(--night);
-  color: var(--text);
-  font-family: var(--body);
-  font-size: 15px;
-  line-height: 1.6;
-  min-height: 100vh;
-  overflow-x: hidden;
-}
+  /* ---------- Masthead ---------- */
+  .masthead{
+    text-align:center;
+    padding:22px 0 14px;
+    border-bottom:4px double var(--ink);
+  }
+  .masthead .kicker{
+    font-family:'Space Mono', monospace;
+    font-size:11px;
+    letter-spacing:.25em;
+    text-transform:uppercase;
+    color:var(--brick);
+  }
+  .masthead h1{
+    font-family:'Fraunces', serif;
+    font-weight:700;
+    font-size:clamp(40px, 8vw, 84px);
+    letter-spacing:-.01em;
+    margin:6px 0 4px;
+    line-height:.95;
+  }
+  .masthead h1 .amp{
+    color:var(--brick);
+    font-style:italic;
+    font-weight:500;
+  }
+  .masthead .tagline{
+    font-size:13px;
+    font-style:italic;
+    color:var(--ink-soft);
+  }
 
-/* ═══════════════════════════════════════════════
-   LOADER
-═══════════════════════════════════════════════ */
-#loader {
-  position: fixed; inset: 0;
-  background: var(--night);
-  display: flex; flex-direction: column;
-  align-items: center; justify-content: center;
-  z-index: 1000;
-  gap: 24px;
-  transition: opacity .5s, visibility .5s;
-}
-#loader.hidden { opacity: 0; visibility: hidden; }
-.loader-logo {
-  font-family: var(--display);
-  font-size: 2.5rem;
-  font-weight: 700;
-  letter-spacing: .2em;
-  color: var(--cyan);
-  text-transform: uppercase;
-}
-.loader-logo span { color: var(--text); }
-.loader-bar {
-  width: 260px; height: 2px;
-  background: var(--grid);
-  border-radius: 2px;
-  overflow: hidden;
-}
-.loader-bar-fill {
-  height: 100%;
-  background: var(--cyan);
-  width: 0%;
-  animation: loadfill 1.4s ease forwards;
-}
-@keyframes loadfill { to { width: 100%; } }
-.loader-status {
-  font-family: var(--mono);
-  font-size: .75rem;
-  color: var(--sub);
-  letter-spacing: .1em;
-}
+  /* ---------- Ticker (destaques) ---------- */
+  .ticker-bar{
+    background:var(--ink);
+    color:var(--paper);
+    overflow:hidden;
+    border-bottom:1px solid var(--ink);
+  }
+  .ticker-bar .wrap{display:flex;align-items:stretch;padding:0;max-width:100%;}
+  .ticker-label{
+    flex:0 0 auto;
+    background:var(--brick);
+    color:var(--paper);
+    font-family:'Space Mono', monospace;
+    font-size:11px;
+    letter-spacing:.12em;
+    text-transform:uppercase;
+    padding:9px 16px;
+    display:flex;
+    align-items:center;
+    white-space:nowrap;
+  }
+  .ticker-viewport{
+    overflow:hidden;
+    flex:1 1 auto;
+    position:relative;
+  }
+  .ticker-track{
+    display:flex;
+    white-space:nowrap;
+    width:max-content;
+    animation:scroll-left 45s linear infinite;
+  }
+  .ticker-track:hover{animation-play-state:paused;}
+  @keyframes scroll-left{
+    from{transform:translateX(0);}
+    to{transform:translateX(-50%);}
+  }
+  .ticker-item{
+    padding:9px 28px;
+    font-size:13px;
+    border-right:1px solid rgba(243,238,226,.25);
+  }
+  .ticker-item span{color:var(--gold);margin-right:8px;font-family:'Space Mono',monospace;font-size:11px;}
 
-/* ═══════════════════════════════════════════════
-   LAYOUT SHELL
-═══════════════════════════════════════════════ */
-#app { display: none; }
-#app.visible { display: block; animation: fadeIn .5s ease; }
-@keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+  /* ---------- Navbar ---------- */
+  .navbar{
+    position:sticky;top:0;z-index:50;
+    background:var(--paper);
+    border-bottom:1px solid var(--ink);
+  }
+  .nav-scroll{
+    display:flex;
+    overflow-x:auto;
+    scrollbar-width:none;
+  }
+  .nav-scroll::-webkit-scrollbar{display:none;}
+  .nav-scroll a{
+    flex:0 0 auto;
+    font-family:'Space Mono', monospace;
+    font-size:12px;
+    letter-spacing:.06em;
+    text-transform:uppercase;
+    padding:13px 16px;
+    border-right:1px solid var(--line);
+    color:var(--ink-soft);
+    white-space:nowrap;
+  }
+  .nav-scroll a:hover{color:var(--brick);background:var(--paper-dim);}
 
-/* ═══════════════════════════════════════════════
-   MASTHEAD
-═══════════════════════════════════════════════ */
-.masthead {
-  background: var(--deep);
-  border-bottom: 1px solid var(--grid);
-  padding: 0 40px;
-  position: sticky; top: 0; z-index: 100;
-}
-.masthead-top {
-  display: flex; align-items: center; justify-content: space-between;
-  padding: 14px 0 10px;
-  border-bottom: 1px solid var(--grid);
-}
-.brand {
-  display: flex; align-items: baseline; gap: 10px;
-}
-.brand-name {
-  font-family: var(--display);
-  font-size: 1.85rem;
-  font-weight: 700;
-  letter-spacing: .15em;
-  color: var(--text);
-  text-transform: uppercase;
-}
-.brand-name em { color: var(--cyan); font-style: normal; }
-.brand-tag {
-  font-family: var(--mono);
-  font-size: .65rem;
-  color: var(--sub);
-  letter-spacing: .08em;
-  text-transform: uppercase;
-  padding: 2px 6px;
-  border: 1px solid var(--muted);
-  border-radius: 2px;
-}
-.masthead-meta {
-  display: flex; align-items: center; gap: 20px;
-}
-.ai-badge {
-  display: flex; align-items: center; gap: 6px;
-  font-family: var(--mono);
-  font-size: .7rem;
-  color: var(--cyan);
-  letter-spacing: .06em;
-}
-.ai-dot {
-  width: 7px; height: 7px;
-  background: var(--cyan);
-  border-radius: 50%;
-  animation: pulse 2s infinite;
-}
-@keyframes pulse {
-  0%,100% { opacity: 1; box-shadow: 0 0 0 0 rgba(0,229,255,.4); }
-  50% { opacity: .6; box-shadow: 0 0 0 5px rgba(0,229,255,0); }
-}
-.masthead-date {
-  font-family: var(--mono);
-  font-size: .72rem;
-  color: var(--sub);
-}
-/* NAV */
-.masthead-nav {
-  display: flex; gap: 2px;
-  padding: 6px 0;
-}
-.nav-btn {
-  font-family: var(--display);
-  font-size: .78rem;
-  font-weight: 500;
-  letter-spacing: .06em;
-  color: var(--sub);
-  text-transform: uppercase;
-  background: none;
-  border: none;
-  cursor: pointer;
-  padding: 6px 14px;
-  border-radius: 3px;
-  transition: color .2s, background .2s;
-}
-.nav-btn:hover { color: var(--text); background: var(--panel); }
-.nav-btn.active { color: var(--cyan); background: rgba(0,229,255,.08); }
+  /* ---------- Capa ---------- */
+  .capa{
+    padding:38px 0 30px;
+    border-bottom:1px solid var(--ink);
+  }
+  .capa-grid{
+    display:grid;
+    grid-template-columns:1.05fr .95fr;
+    gap:34px;
+    align-items:start;
+  }
+  .capa-eyebrow{
+    font-family:'Space Mono', monospace;
+    font-size:11px;
+    letter-spacing:.15em;
+    text-transform:uppercase;
+    color:var(--brick);
+    margin-bottom:10px;
+    display:block;
+  }
+  .capa h2{
+    font-family:'Fraunces', serif;
+    font-weight:600;
+    font-size:clamp(30px, 4vw, 46px);
+    line-height:1.04;
+    margin:0 0 12px;
+  }
+  .capa .subtitulo{
+    font-style:italic;
+    color:var(--ink-soft);
+    font-size:17px;
+    margin:0 0 16px;
+  }
+  .capa .resumo{
+    font-size:17px;
+    line-height:1.6;
+  }
+  .capa .resumo::first-letter{
+    font-family:'Fraunces', serif;
+    font-weight:700;
+    font-size:58px;
+    float:left;
+    line-height:.8;
+    padding:6px 8px 0 0;
+    color:var(--brick);
+  }
+  .capa-meta{
+    margin-top:16px;
+    font-family:'Space Mono', monospace;
+    font-size:11px;
+    color:var(--ink-soft);
+    text-transform:uppercase;
+    letter-spacing:.04em;
+  }
+  .capa-readlink{
+    display:inline-block;
+    margin-top:18px;
+    font-family:'Space Mono', monospace;
+    font-size:12px;
+    letter-spacing:.06em;
+    text-transform:uppercase;
+    border-bottom:1px solid var(--ink);
+    padding-bottom:3px;
+  }
+  .capa-readlink:hover{color:var(--brick);border-color:var(--brick);}
+  .capa-img{
+    width:100%;
+    aspect-ratio:4/3;
+    object-fit:cover;
+    background:var(--paper-dim);
+    border:1px solid var(--ink);
+  }
+  .capa-img-placeholder{
+    width:100%;aspect-ratio:4/3;
+    background:var(--paper-dim);
+    border:1px solid var(--ink);
+    display:flex;align-items:center;justify-content:center;
+    font-family:'Space Mono',monospace;font-size:11px;color:var(--ink-soft);
+    text-transform:uppercase;letter-spacing:.1em;
+  }
 
-/* ═══════════════════════════════════════════════
-   TICKER
-═══════════════════════════════════════════════ */
-.ticker-wrap {
-  background: var(--panel);
-  border-bottom: 1px solid var(--grid);
-  padding: 0 40px;
-  display: flex; align-items: center;
-  height: 34px;
-  overflow: hidden;
-}
-.ticker-label {
-  font-family: var(--mono);
-  font-size: .65rem;
-  font-weight: 500;
-  color: var(--night);
-  background: var(--cyan);
-  padding: 2px 10px;
-  text-transform: uppercase;
-  letter-spacing: .08em;
-  white-space: nowrap;
-  flex-shrink: 0;
-  margin-right: 18px;
-}
-.ticker-track {
-  display: flex;
-  gap: 60px;
-  animation: tickerMove 30s linear infinite;
-  white-space: nowrap;
-}
-@keyframes tickerMove { from { transform: translateX(0); } to { transform: translateX(-50%); } }
-.ticker-item {
-  font-family: var(--mono);
-  font-size: .7rem;
-  color: var(--sub);
-  letter-spacing: .04em;
-  cursor: pointer;
-  transition: color .2s;
-}
-.ticker-item:hover { color: var(--cyan); }
-.ticker-sep { color: var(--faint); }
+  /* ---------- Sections / Cards ---------- */
+  .section{
+    padding:34px 0;
+    border-bottom:1px solid var(--line);
+  }
+  .section-head{
+    display:flex;
+    align-items:baseline;
+    justify-content:space-between;
+    border-bottom:2px solid var(--ink);
+    padding-bottom:8px;
+    margin-bottom:22px;
+  }
+  .section-head h3{
+    font-family:'Fraunces', serif;
+    font-weight:600;
+    font-size:26px;
+    margin:0;
+  }
+  .section-head .count{
+    font-family:'Space Mono', monospace;
+    font-size:11px;
+    color:var(--ink-soft);
+    text-transform:uppercase;
+  }
+  .card-grid{
+    display:grid;
+    grid-template-columns:repeat(3, 1fr);
+    gap:28px 26px;
+  }
+  .card{
+    border-top:1px solid var(--ink);
+    padding-top:14px;
+    display:flex;
+    flex-direction:column;
+  }
+  .card img{
+    width:100%;
+    aspect-ratio:16/10;
+    object-fit:cover;
+    margin-bottom:12px;
+    background:var(--paper-dim);
+    border:1px solid var(--line);
+  }
+  .card .img-placeholder{
+    width:100%;aspect-ratio:16/10;margin-bottom:12px;
+    background:var(--paper-dim);border:1px solid var(--line);
+    display:flex;align-items:center;justify-content:center;
+    font-family:'Space Mono',monospace;font-size:10px;color:var(--ink-soft);
+    text-transform:uppercase;letter-spacing:.1em;
+  }
+  .card h4{
+    font-family:'Fraunces', serif;
+    font-weight:600;
+    font-size:19px;
+    line-height:1.18;
+    margin:0 0 8px;
+  }
+  .card:hover h4{color:var(--brick);}
+  .card p{
+    font-size:14.5px;
+    line-height:1.55;
+    color:var(--ink-soft);
+    margin:0 0 12px;
+    flex:1;
+  }
+  .card-meta{
+    font-family:'Space Mono', monospace;
+    font-size:10.5px;
+    letter-spacing:.04em;
+    text-transform:uppercase;
+    color:var(--ink-soft);
+    display:flex;
+    justify-content:space-between;
+    border-top:1px dashed var(--line);
+    padding-top:8px;
+  }
 
-/* ═══════════════════════════════════════════════
-   PAGE CONTAINER
-═══════════════════════════════════════════════ */
-.page { display: none; padding: 36px 40px 80px; max-width: 1400px; margin: 0 auto; }
-.page.active { display: block; }
+  /* ---------- Footer ---------- */
+  footer{
+    padding:30px 0 50px;
+    text-align:center;
+    font-family:'Space Mono', monospace;
+    font-size:11px;
+    color:var(--ink-soft);
+    text-transform:uppercase;
+    letter-spacing:.06em;
+  }
+  footer .rule{
+    border:none;border-top:4px double var(--ink);
+    margin:0 0 22px;
+  }
 
-/* ═══════════════════════════════════════════════
-   ERROR / EMPTY STATE
-═══════════════════════════════════════════════ */
-.state-msg {
-  display: flex; flex-direction: column;
-  align-items: center; justify-content: center;
-  min-height: 40vh; gap: 16px;
-  color: var(--sub);
-}
-.state-msg h2 { font-family: var(--display); font-size: 1.3rem; color: var(--text); }
-.state-msg p { font-family: var(--mono); font-size: .8rem; text-align: center; }
+  .state-msg{
+    padding:60px 20px;text-align:center;
+    font-family:'Space Mono', monospace;
+    font-size:12px;color:var(--ink-soft);text-transform:uppercase;letter-spacing:.06em;
+  }
 
-/* ═══════════════════════════════════════════════
-   SECTION LABEL
-═══════════════════════════════════════════════ */
-.section-label {
-  display: flex; align-items: center; gap: 12px;
-  margin-bottom: 20px; margin-top: 40px;
-}
-.section-label:first-child { margin-top: 0; }
-.section-label span {
-  font-family: var(--mono);
-  font-size: .68rem;
-  font-weight: 500;
-  letter-spacing: .12em;
-  text-transform: uppercase;
-  color: var(--sub);
-}
-.section-label::after {
-  content: '';
-  flex: 1;
-  height: 1px;
-  background: var(--grid);
-}
-.label-icon { color: var(--cyan); font-size: .9rem; }
-
-/* ═══════════════════════════════════════════════
-   EXECUTIVE SUMMARY STRIP
-═══════════════════════════════════════════════ */
-.exec-strip {
-  background: linear-gradient(135deg, rgba(0,229,255,.06) 0%, rgba(0,229,255,.02) 100%);
-  border: 1px solid rgba(0,229,255,.18);
-  border-left: 3px solid var(--cyan);
-  border-radius: 4px;
-  padding: 18px 24px;
-  margin-bottom: 36px;
-  display: flex; gap: 20px; align-items: flex-start;
-}
-.exec-eyebrow {
-  font-family: var(--mono);
-  font-size: .65rem;
-  color: var(--cyan);
-  letter-spacing: .1em;
-  text-transform: uppercase;
-  margin-bottom: 6px;
-}
-.exec-text {
-  font-size: .95rem;
-  color: var(--text);
-  line-height: 1.65;
-  font-style: italic;
-}
-.exec-stats {
-  display: flex; gap: 24px; flex-shrink: 0;
-}
-.stat {
-  text-align: center;
-}
-.stat-num {
-  font-family: var(--display);
-  font-size: 1.8rem;
-  font-weight: 700;
-  color: var(--cyan);
-  line-height: 1;
-}
-.stat-lbl {
-  font-family: var(--mono);
-  font-size: .6rem;
-  color: var(--sub);
-  text-transform: uppercase;
-  letter-spacing: .08em;
-  margin-top: 3px;
-}
-
-/* ═══════════════════════════════════════════════
-   NEWS GRID
-═══════════════════════════════════════════════ */
-.news-grid {
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  gap: 16px;
-}
-
-/* ── CARD BASE ── */
-.card {
-  background: var(--panel);
-  border: 1px solid var(--grid);
-  border-radius: 4px;
-  padding: 20px;
-  display: flex; flex-direction: column;
-  gap: 10px;
-  cursor: pointer;
-  transition: border-color .25s, transform .2s;
-  position: relative;
-  overflow: hidden;
-}
-.card:hover {
-  border-color: var(--muted);
-  transform: translateY(-2px);
-}
-.card::before {
-  content: '';
-  position: absolute;
-  top: 0; left: 0; right: 0;
-  height: 2px;
-}
-.card.impacto-critico::before { background: var(--red); }
-.card.impacto-alto::before { background: var(--amber); }
-.card.impacto-medio::before { background: var(--cyan); }
-.card.impacto-baixo::before { background: var(--faint); }
-
-/* ── SPANS ── */
-.card.span-12 { grid-column: span 12; flex-direction: row; gap: 28px; align-items: flex-start; }
-.card.span-8  { grid-column: span 8; }
-.card.span-6  { grid-column: span 6; }
-.card.span-4  { grid-column: span 4; }
-.card.span-3  { grid-column: span 3; }
-
-/* ── HERO CARD (critico span-12) ── */
-.card.hero { padding: 32px 36px; }
-.card.hero .card-title { font-size: 1.7rem; line-height: 1.25; }
-.card.hero .card-body { flex: 1; }
-.card.hero .card-rank-badge {
-  font-size: 3.5rem; font-weight: 700;
-  color: rgba(255,59,48,.15);
-  font-family: var(--display);
-  line-height: 1;
-  flex-shrink: 0;
-}
-
-/* ── HALF CARD (alto span-6 ou span-8) ── */
-.card.medium .card-title { font-size: 1.1rem; }
-
-/* ── COMPACT CARD (span-3 ou span-4) ── */
-.card.compact .card-title { font-size: .88rem; font-weight: 600; }
-.card.compact .card-summary { font-size: .78rem; }
-
-/* ── CARD PARTS ── */
-.card-header {
-  display: flex; align-items: flex-start; justify-content: space-between; gap: 8px;
-}
-.card-rank-badge {
-  font-family: var(--mono);
-  font-size: .65rem;
-  color: var(--faint);
-  flex-shrink: 0;
-}
-.card-category {
-  font-family: var(--mono);
-  font-size: .6rem;
-  letter-spacing: .1em;
-  text-transform: uppercase;
-  padding: 2px 7px;
-  border-radius: 2px;
-  border: 1px solid;
-  flex-shrink: 0;
-}
-/* category colors */
-.cat-geopolitica         { color: #FF6B6B; border-color: #FF6B6B; }
-.cat-economia_global     { color: var(--amber); border-color: var(--amber); }
-.cat-tecnologia          { color: var(--cyan); border-color: var(--cyan); }
-.cat-ciencia_espaco      { color: #A78BFA; border-color: #A78BFA; }
-.cat-brasil_politica     { color: #34D399; border-color: #34D399; }
-.cat-brasil_economia     { color: #6EE7B7; border-color: #6EE7B7; }
-.cat-brasil_sociedade    { color: #86EFAC; border-color: #86EFAC; }
-.cat-clima_ambiente      { color: #5EEAD4; border-color: #5EEAD4; }
-.cat-saude_global        { color: #FB923C; border-color: #FB923C; }
-.cat-default             { color: var(--sub); border-color: var(--sub); }
-
-.card-title {
-  font-family: var(--display);
-  font-size: .97rem;
-  font-weight: 600;
-  line-height: 1.3;
-  color: var(--text);
-}
-.card-summary {
-  font-size: .83rem;
-  color: var(--sub);
-  line-height: 1.6;
-}
-.card-footer {
-  display: flex; align-items: center; justify-content: space-between;
-  margin-top: auto;
-  padding-top: 10px;
-  border-top: 1px solid var(--grid);
-}
-.card-sources {
-  font-family: var(--mono);
-  font-size: .62rem;
-  color: var(--faint);
-  letter-spacing: .04em;
-}
-.card-tags {
-  display: flex; gap: 5px; flex-wrap: wrap;
-}
-.tag {
-  font-family: var(--mono);
-  font-size: .58rem;
-  color: var(--faint);
-  background: var(--deep);
-  padding: 1px 5px;
-  border-radius: 2px;
-}
-.impact-badge {
-  display: flex; align-items: center; gap: 4px;
-  font-family: var(--mono);
-  font-size: .6rem;
-  text-transform: uppercase;
-  letter-spacing: .06em;
-}
-.impact-badge::before {
-  content: '';
-  width: 5px; height: 5px;
-  border-radius: 50%;
-}
-.impact-critico .impact-badge { color: var(--red); }
-.impact-critico .impact-badge::before { background: var(--red); }
-.impact-alto .impact-badge { color: var(--amber); }
-.impact-alto .impact-badge::before { background: var(--amber); }
-.impact-medio .impact-badge { color: var(--cyan); }
-.impact-medio .impact-badge::before { background: var(--cyan); }
-.impact-baixo .impact-badge { color: var(--faint); }
-.impact-baixo .impact-badge::before { background: var(--faint); }
-
-.brasil-flag {
-  font-size: .65rem;
-  background: rgba(52,211,153,.12);
-  color: #34D399;
-  padding: 1px 6px;
-  border-radius: 2px;
-  font-family: var(--mono);
-  border: 1px solid rgba(52,211,153,.25);
-}
-
-.card-link {
-  font-family: var(--mono);
-  font-size: .62rem;
-  color: var(--cyan-dim);
-  text-decoration: none;
-  display: flex; align-items: center; gap: 4px;
-  margin-top: 6px;
-  opacity: .8;
-  transition: opacity .2s;
-}
-.card-link:hover { opacity: 1; }
-
-/* ═══════════════════════════════════════════════
-   DESTAQUES SIDEBAR-STYLE STRIPS
-═══════════════════════════════════════════════ */
-.destaques-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 16px;
-  margin-top: 36px;
-}
-.destaque-col {
-  background: var(--panel);
-  border: 1px solid var(--grid);
-  border-radius: 4px;
-  padding: 18px;
-}
-.destaque-col-title {
-  font-family: var(--mono);
-  font-size: .65rem;
-  letter-spacing: .1em;
-  text-transform: uppercase;
-  margin-bottom: 14px;
-  padding-bottom: 10px;
-  border-bottom: 1px solid var(--grid);
-}
-.destaque-col.criticos .destaque-col-title { color: var(--red); }
-.destaque-col.brasil .destaque-col-title { color: #34D399; }
-.destaque-col.tech .destaque-col-title { color: var(--cyan); }
-.destaque-item {
-  font-size: .82rem;
-  color: var(--sub);
-  padding: 8px 0;
-  border-bottom: 1px solid var(--grid);
-  line-height: 1.4;
-  cursor: pointer;
-  transition: color .2s;
-}
-.destaque-item:last-child { border-bottom: none; }
-.destaque-item:hover { color: var(--text); }
-.destaque-item::before {
-  content: '→';
-  color: var(--faint);
-  margin-right: 6px;
-  font-size: .75rem;
-}
-
-/* ═══════════════════════════════════════════════
-   PAGE 2 — WEEK SUMMARY
-═══════════════════════════════════════════════ */
-.week-header {
-  display: flex; align-items: flex-end; justify-content: space-between;
-  margin-bottom: 32px;
-  padding-bottom: 16px;
-  border-bottom: 1px solid var(--grid);
-}
-.week-title {
-  font-family: var(--display);
-  font-size: 2rem;
-  font-weight: 700;
-}
-.week-title em { color: var(--cyan); font-style: normal; }
-.week-subtitle {
-  font-family: var(--mono);
-  font-size: .75rem;
-  color: var(--sub);
-  margin-top: 4px;
-}
-
-.week-files-list {
-  display: flex; flex-direction: column; gap: 10px;
-  margin-bottom: 36px;
-}
-.week-file-btn {
-  display: flex; align-items: center; gap: 14px;
-  background: var(--panel);
-  border: 1px solid var(--grid);
-  border-radius: 4px;
-  padding: 12px 18px;
-  cursor: pointer;
-  transition: border-color .2s, background .2s;
-  text-align: left;
-}
-.week-file-btn:hover { border-color: var(--cyan); background: rgba(0,229,255,.04); }
-.week-file-btn.active { border-color: var(--cyan); background: rgba(0,229,255,.07); }
-.week-file-icon { font-size: 1.1rem; flex-shrink: 0; }
-.week-file-info { flex: 1; }
-.week-file-date {
-  font-family: var(--display);
-  font-size: .88rem;
-  font-weight: 600;
-  color: var(--text);
-}
-.week-file-meta {
-  font-family: var(--mono);
-  font-size: .62rem;
-  color: var(--sub);
-  margin-top: 2px;
-}
-.week-file-arrow {
-  font-family: var(--mono);
-  color: var(--faint);
-  font-size: .8rem;
-}
-
-/* Week news list (compact) */
-.week-news-container {
-  display: none;
-  animation: fadeIn .4s ease;
-}
-.week-news-container.visible { display: block; }
-.week-news-header {
-  display: flex; align-items: center; justify-content: space-between;
-  margin-bottom: 20px;
-}
-.week-news-title {
-  font-family: var(--display);
-  font-size: 1.1rem;
-  font-weight: 600;
-}
-.week-close-btn {
-  font-family: var(--mono);
-  font-size: .7rem;
-  color: var(--sub);
-  background: none; border: none; cursor: pointer;
-  padding: 4px 10px;
-  border-radius: 3px;
-  transition: color .2s;
-}
-.week-close-btn:hover { color: var(--text); }
-.week-list {
-  display: flex; flex-direction: column; gap: 1px;
-}
-.week-item {
-  display: grid;
-  grid-template-columns: 32px 1fr 90px 80px;
-  align-items: center;
-  gap: 16px;
-  padding: 14px 16px;
-  background: var(--panel);
-  border: 1px solid var(--grid);
-  border-radius: 3px;
-  transition: background .2s;
-  cursor: pointer;
-  text-decoration: none;
-  color: inherit;
-}
-.week-item:hover { background: var(--deep); }
-.week-item-rank {
-  font-family: var(--mono);
-  font-size: .7rem;
-  color: var(--faint);
-  text-align: center;
-}
-.week-item-title {
-  font-size: .88rem;
-  font-weight: 500;
-  color: var(--text);
-  line-height: 1.3;
-}
-.week-item-cat {
-  font-family: var(--mono);
-  font-size: .58rem;
-  text-align: right;
-}
-.week-item-impact {
-  display: flex; align-items: center; justify-content: flex-end;
-  gap: 4px;
-  font-family: var(--mono);
-  font-size: .58rem;
-}
-.week-item-impact::before {
-  content: '';
-  width: 5px; height: 5px;
-  border-radius: 50%;
-}
-.wi-critico { color: var(--red); }
-.wi-critico::before { background: var(--red); }
-.wi-alto { color: var(--amber); }
-.wi-alto::before { background: var(--amber); }
-.wi-medio { color: var(--cyan); }
-.wi-medio::before { background: var(--cyan); }
-.wi-baixo { color: var(--faint); }
-.wi-baixo::before { background: var(--faint); }
-
-/* ═══════════════════════════════════════════════
-   FOOTER
-═══════════════════════════════════════════════ */
-footer {
-  border-top: 1px solid var(--grid);
-  padding: 24px 40px;
-  display: flex; align-items: center; justify-content: space-between;
-  background: var(--deep);
-}
-.footer-brand {
-  font-family: var(--display);
-  font-size: .85rem;
-  font-weight: 600;
-  color: var(--sub);
-  letter-spacing: .1em;
-}
-.footer-brand em { color: var(--cyan); font-style: normal; }
-.footer-note {
-  font-family: var(--mono);
-  font-size: .62rem;
-  color: var(--faint);
-  text-align: right;
-}
-
-/* ═══════════════════════════════════════════════
-   MODAL
-═══════════════════════════════════════════════ */
-.modal-overlay {
-  display: none;
-  position: fixed; inset: 0;
-  background: rgba(5,10,20,.85);
-  backdrop-filter: blur(4px);
-  z-index: 200;
-  align-items: center; justify-content: center;
-}
-.modal-overlay.open { display: flex; }
-.modal {
-  background: var(--panel);
-  border: 1px solid var(--muted);
-  border-radius: 6px;
-  padding: 32px;
-  max-width: 640px;
-  width: 90%;
-  position: relative;
-  animation: fadeIn .3s ease;
-}
-.modal-close {
-  position: absolute; top: 14px; right: 14px;
-  background: none; border: none;
-  color: var(--sub); font-size: 1.2rem;
-  cursor: pointer;
-}
-.modal-cat {
-  font-family: var(--mono);
-  font-size: .65rem;
-  text-transform: uppercase;
-  letter-spacing: .1em;
-  margin-bottom: 10px;
-}
-.modal-title {
-  font-family: var(--display);
-  font-size: 1.35rem;
-  font-weight: 700;
-  line-height: 1.3;
-  margin-bottom: 14px;
-}
-.modal-summary {
-  font-size: .9rem;
-  color: var(--sub);
-  line-height: 1.7;
-  margin-bottom: 18px;
-}
-.modal-meta {
-  display: flex; flex-wrap: wrap; gap: 10px;
-  padding-top: 14px;
-  border-top: 1px solid var(--grid);
-}
-.modal-link {
-  font-family: var(--mono);
-  font-size: .72rem;
-  color: var(--cyan);
-  text-decoration: none;
-  display: flex; align-items: center; gap: 5px;
-}
-.modal-link:hover { text-decoration: underline; }
-
-/* ═══════════════════════════════════════════════
-   RESPONSIVE
-═══════════════════════════════════════════════ */
-@media (max-width: 900px) {
-  .masthead, .ticker-wrap, .page, footer { padding-left: 16px; padding-right: 16px; }
-  .card.span-12, .card.span-8, .card.span-6, .card.span-4, .card.span-3 { grid-column: span 12; }
-  .card.span-12.hero { flex-direction: column; }
-  .destaques-grid { grid-template-columns: 1fr; }
-  .exec-strip { flex-direction: column; }
-  .exec-stats { flex-direction: row; }
-  .week-item { grid-template-columns: 28px 1fr; }
-  .week-item-cat, .week-item-impact { display: none; }
-}
-
-@media (max-width: 600px) {
-  .brand-name { font-size: 1.35rem; }
-  .news-grid { gap: 10px; }
-  .card { padding: 14px; }
-}
+  /* ---------- Responsive ---------- */
+  @media (max-width: 860px){
+    .capa-grid{grid-template-columns:1fr;}
+    .card-grid{grid-template-columns:repeat(2, 1fr);}
+  }
+  @media (max-width: 560px){
+    .card-grid{grid-template-columns:1fr;}
+    .dateline{font-size:10px;}
+    .capa .resumo::first-letter{font-size:42px;}
+  }
+  @media (prefers-reduced-motion: reduce){
+    .ticker-track{animation:none;}
+    .ticker-viewport{overflow-x:auto;}
+  }
 </style>
 </head>
 <body>
 
-<!-- LOADER -->
-<div id="loader">
-  <div class="loader-logo"><em>IA</em> <span>NEWS</span></div>
-  <div class="loader-bar"><div class="loader-bar-fill"></div></div>
-  <div class="loader-status" id="loader-status">Conectando à base de dados neural...</div>
+<div class="wrap dateline">
+  <span id="dateline-left">—</span>
+  <span id="dateline-right">Edição digital · atualizado continuamente</span>
 </div>
 
-<!-- APP -->
-<div id="app">
+<header class="masthead">
+  <div class="kicker">Brasil &amp; Mundo · Cultura · Ciência · Atualidades</div>
+  <h1>Atualidades <span class="amp">&amp;</span> Intelecto</h1>
+  <div class="tagline">Notícias relevantes, colunas e curiosidades — selecionadas e resumidas todos os dias</div>
+</header>
 
-  <!-- MASTHEAD -->
-  <header class="masthead">
-    <div class="masthead-top">
-      <div class="brand">
-        <div class="brand-name"><em>IA</em> NEWS</div>
-        <div class="brand-tag">Curado por Inteligência Artificial</div>
-      </div>
-      <div class="masthead-meta">
-        <div class="ai-badge"><div class="ai-dot"></div> MODELO ATIVO</div>
-        <div class="masthead-date" id="masthead-date">—</div>
-      </div>
-    </div>
-    <nav class="masthead-nav">
-      <button class="nav-btn active" onclick="showPage('hoje')">Edição de Hoje</button>
-      <button class="nav-btn" onclick="showPage('semana')">Resumo da Semana</button>
-    </nav>
-  </header>
-
-  <!-- TICKER -->
-  <div class="ticker-wrap">
-    <div class="ticker-label">Ao Vivo</div>
-    <div class="ticker-track" id="ticker-track">
-      <span class="ticker-item">Carregando manchetes...</span>
+<div class="ticker-bar">
+  <div class="wrap">
+    <div class="ticker-label">Destaques</div>
+    <div class="ticker-viewport">
+      <div class="ticker-track" id="ticker-track"></div>
     </div>
   </div>
-
-  <!-- PAGE: HOJE -->
-  <main class="page active" id="page-hoje">
-    <div id="hoje-content">
-      <div class="state-msg">
-        <h2>Buscando edição de hoje...</h2>
-        <p>Aguarde enquanto carregamos os dados.</p>
-      </div>
-    </div>
-  </main>
-
-  <!-- PAGE: SEMANA -->
-  <main class="page" id="page-semana">
-    <div class="week-header">
-      <div>
-        <div class="week-title">Resumo da <em>Semana</em></div>
-        <div class="week-subtitle" id="week-subtitle">Edições dos últimos 7 dias · IA News Archive</div>
-      </div>
-    </div>
-    <div id="week-files-list" class="week-files-list"></div>
-    <div id="week-news-container" class="week-news-container"></div>
-  </main>
-
-  <!-- FOOTER -->
-  <footer>
-    <div class="footer-brand"><em>IA</em> NEWS — Jornal Sintético</div>
-    <div class="footer-note">
-      Gerado automaticamente por IA · Fontes verificadas via RSS<br>
-      Conteúdo informativo. Verifique fontes originais.
-    </div>
-  </footer>
-
 </div>
 
-<!-- MODAL -->
-<div class="modal-overlay" id="modal-overlay" onclick="closeModal(event)">
-  <div class="modal" id="modal">
-    <button class="modal-close" onclick="closeModal()">✕</button>
-    <div class="modal-cat" id="modal-cat"></div>
-    <div class="modal-title" id="modal-title"></div>
-    <div class="modal-summary" id="modal-summary"></div>
-    <div class="modal-meta" id="modal-meta"></div>
+<nav class="navbar">
+  <div class="wrap">
+    <div class="nav-scroll" id="nav-scroll">
+      <a href="#capa">Capa</a>
+    </div>
   </div>
-</div>
+</nav>
+
+<main class="wrap">
+  <section class="capa" id="capa">
+    <div id="capa-content" class="state-msg">Carregando edição…</div>
+  </section>
+
+  <div id="sections-root"></div>
+</main>
+
+<footer>
+  <hr class="rule">
+  Atualidades &amp; Intelecto · Edição automatizada · Os links de cada matéria apontam para a fonte original
+</footer>
 
 <script>
-// ─────────────────────────────────────────────────────
-//  CONFIG
-// ─────────────────────────────────────────────────────
-const GITHUB_USER    = 'igor-rl';
-const GITHUB_REPO    = 'ainews';
-const DATA_FOLDER    = 'data-base';
-const DATA_BASE_PATH = 'https://igor-rl.github.io/ainews/data-base';
+(function(){
 
-// ─────────────────────────────────────────────────────
-//  UTILS
-// ─────────────────────────────────────────────────────
-function padZ(n) { return String(n).padStart(2, '0'); }
+  const DATA_URL = "data-base/content.json";
 
-function filePrefix(date) {
-  const d = date || new Date();
-  return `${d.getFullYear()}_${padZ(d.getMonth()+1)}_${padZ(d.getDate())}`;
-}
-
-// ─────────────────────────────────────────────────────
-//  GITHUB API — lista todos os .json da pasta
-// ─────────────────────────────────────────────────────
-async function listDataFiles() {
-  const url = `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/contents/${DATA_FOLDER}`;
-  const res = await fetch(url, {
-    headers: { Accept: 'application/vnd.github.v3+json' }
-  });
-  if (!res.ok) {
-    console.warn('[IA News] GitHub API retornou', res.status);
-    return [];
-  }
-  const files = await res.json();
-  // filtra só .json, extrai o stem e ordena (ordem = cronológica pelo nome)
-  return files
-    .filter(f => f.type === 'file' && f.name.endsWith('.json'))
-    .map(f => f.name.replace('.json', ''))
-    .sort();
-}
-
-// ─────────────────────────────────────────────────────
-//  FETCH — pega o arquivo mais recente de um dia
-// ─────────────────────────────────────────────────────
-async function fetchDayLatest(allFiles, date) {
-  const prefix = filePrefix(date);
-  const dayFiles = allFiles.filter(n => n.startsWith(prefix));
-  if (!dayFiles.length) return null;
-
-  // último item da lista ordenada = timestamp mais alto = mais recente
-  const latest = dayFiles[dayFiles.length - 1];
-  const url = `${DATA_BASE_PATH}/${latest}.json`;
-  try {
-    const res = await fetch(url);
-    if (!res.ok) return null;
-    const data = await res.json();
-    console.log('[IA News] Arquivo carregado:', latest + '.json');
-    return { data, filename: latest };
-  } catch (e) {
-    console.warn('[IA News] Falha ao buscar', url, e);
-    return null;
-  }
-}
-
-async function fetchTodayData(allFiles) {
-  return fetchDayLatest(allFiles, new Date());
-}
-
-async function fetchWeekFiles(allFiles) {
-  const results = [];
-  for (let offset = 0; offset < 7; offset++) {
-    const day = new Date(Date.now() - offset * 86400000);
-    const r = await fetchDayLatest(allFiles, day);
-    if (r) results.push({ ...r, date: day });
-  }
-  return results;
-}
-
-// ─────────────────────────────────────────────────────
-//  CATEGORY HELPERS
-// ─────────────────────────────────────────────────────
-const CAT_LABELS = {
-  geopolitica:      'Geopolítica',
-  economia_global:  'Economia Global',
-  tecnologia:       'Tecnologia',
-  ciencia_espaco:   'Ciência & Espaço',
-  brasil_politica:  'Brasil · Política',
-  brasil_economia:  'Brasil · Economia',
-  brasil_sociedade: 'Brasil · Sociedade',
-  clima_ambiente:   'Clima & Ambiente',
-  saude_global:     'Saúde Global',
-};
-function catLabel(c) { return CAT_LABELS[c] || c || '—'; }
-function catClass(c) { return `cat-${c || 'default'}`; }
-
-const IMPACT_LABELS = { critico: 'Crítico', alto: 'Alto', medio: 'Médio', baixo: 'Baixo' };
-function impactLabel(i) { return IMPACT_LABELS[i] || i || '—'; }
-
-// ─────────────────────────────────────────────────────
-//  CARD FACTORY
-// ─────────────────────────────────────────────────────
-function cardSpan(rank, impacto) {
-  if (rank === 1 && impacto === 'critico') return { span: 'span-12', type: 'hero' };
-  if (rank <= 2 && impacto === 'critico') return { span: 'span-8', type: 'medium' };
-  if (impacto === 'critico')              return { span: 'span-6', type: 'medium' };
-  if (impacto === 'alto' && rank <= 4)    return { span: 'span-6', type: 'medium' };
-  if (impacto === 'alto')                 return { span: 'span-4', type: '' };
-  if (rank <= 6)                          return { span: 'span-4', type: '' };
-  return { span: 'span-3', type: 'compact' };
-}
-
-function buildCard(n) {
-  const { rank, titulo, resumo, categoria, impacto, fontes = [], tags = [], relevancia_brasil, url_principal } = n;
-  const { span, type } = cardSpan(rank, impacto);
-  const cat    = catLabel(categoria);
-  const catCls = catClass(categoria);
-
-  const heroRank = (type === 'hero')
-    ? `<div class="card-rank-badge">${String(rank).padStart(2,'0')}</div>` : '';
-
-  const sourceTxt = fontes.slice(0,3).join(' · ') || '—';
-  const tagHtml   = tags.slice(0,4).map(t => `<span class="tag">#${t}</span>`).join('');
-  const brasilBadge = relevancia_brasil ? `<span class="brasil-flag">🇧🇷 Brasil</span>` : '';
-
-  const linkHtml = url_principal
-    ? `<a class="card-link" href="${url_principal}" target="_blank" rel="noopener">↗ Ver fonte original</a>` : '';
-
-  return `
-<div class="card ${span} ${type} impacto-${impacto} impact-${impacto}"
-     data-rank="${rank}" data-title="${escHtml(titulo)}"
-     data-summary="${escHtml(resumo)}" data-cat="${escHtml(cat)}"
-     data-catcls="${catCls}" data-impact="${impacto}"
-     data-sources="${escHtml(sourceTxt)}" data-tags="${escHtml(tags.join(','))}"
-     data-brasil="${relevancia_brasil}" data-url="${escHtml(url_principal||'')}"
-     onclick="openModal(this)">
-  <div class="card-header">
-    ${heroRank}
-    <span class="card-category ${catCls}">${cat}</span>
-  </div>
-  <div class="card-title">${titulo}</div>
-  ${type !== 'compact' ? `<div class="card-summary">${resumo}</div>` : ''}
-  <div class="card-footer">
-    <div class="card-sources">${sourceTxt}</div>
-    <div style="display:flex;align-items:center;gap:8px;">
-      ${brasilBadge}
-      <div class="impact-badge">${impactLabel(impacto)}</div>
-    </div>
-  </div>
-  ${type === 'hero' || type === 'medium' ? linkHtml : ''}
-  ${type !== 'compact' ? `<div class="card-tags">${tagHtml}</div>` : ''}
-</div>`;
-}
-
-function escHtml(str) {
-  return String(str||'').replace(/"/g,'&quot;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-}
-
-// ─────────────────────────────────────────────────────
-//  RENDER TODAY
-// ─────────────────────────────────────────────────────
-function renderToday(data) {
-  const j        = data.jornal || data;
-  const noticias = j.noticias || [];
-
-  buildTicker(noticias);
-
-  let html = '';
-
-  if (j.resumo_executivo) {
-    const total    = j.total_noticias || noticias.length;
-    const criticos = noticias.filter(n => n.impacto === 'critico').length;
-    html += `
-<div class="exec-strip">
-  <div style="flex:1;">
-    <div class="exec-eyebrow">Resumo Executivo · IA News</div>
-    <div class="exec-text">${j.resumo_executivo}</div>
-  </div>
-  <div class="exec-stats">
-    <div class="stat"><div class="stat-num">${total}</div><div class="stat-lbl">Notícias</div></div>
-    <div class="stat"><div class="stat-num" style="color:var(--red)">${criticos}</div><div class="stat-lbl">Críticas</div></div>
-    <div class="stat"><div class="stat-num" style="color:var(--amber)">${j.descartadas||0}</div><div class="stat-lbl">Descartadas</div></div>
-  </div>
-</div>`;
+  function fmtDate(iso){
+    if(!iso) return "";
+    try{
+      const d = new Date(iso);
+      return d.toLocaleString('pt-BR', { day:'2-digit', month:'short', hour:'2-digit', minute:'2-digit' });
+    }catch(e){ return ""; }
   }
 
-  html += `<div class="section-label"><span class="label-icon">◈</span><span>Principais Manchetes</span></div>`;
-  html += `<div class="news-grid">`;
-  noticias.forEach(n => { html += buildCard(n); });
-  html += `</div>`;
-
-  const dest    = j.destaques || {};
-  const hasDest = (dest.criticos?.length || dest.brasil?.length || dest.tecnologia_ia?.length);
-  if (hasDest) {
-    html += `<div class="section-label"><span class="label-icon">◆</span><span>Destaques por Categoria</span></div>`;
-    html += `<div class="destaques-grid">`;
-    html += buildDestaqueCol('criticos', '🔴 Alertas Críticos',   dest.criticos      || []);
-    html += buildDestaqueCol('brasil',   '🇧🇷 Foco Brasil',       dest.brasil        || []);
-    html += buildDestaqueCol('tech',     '🤖 Tecnologia & IA',   dest.tecnologia_ia || []);
-    html += `</div>`;
+  function el(tag, cls, html){
+    const e = document.createElement(tag);
+    if(cls) e.className = cls;
+    if(html !== undefined) e.innerHTML = html;
+    return e;
   }
 
-  document.getElementById('hoje-content').innerHTML = html;
-}
-
-function buildDestaqueCol(cls, title, items) {
-  if (!items.length) return `<div class="destaque-col ${cls}">
-    <div class="destaque-col-title">${title}</div>
-    <div class="destaque-item" style="opacity:.4;">Sem destaques nesta categoria</div>
-  </div>`;
-  const itemsHtml = items.map(t => `<div class="destaque-item">${t}</div>`).join('');
-  return `<div class="destaque-col ${cls}">
-    <div class="destaque-col-title">${title}</div>
-    ${itemsHtml}
-  </div>`;
-}
-
-// ─────────────────────────────────────────────────────
-//  TICKER
-// ─────────────────────────────────────────────────────
-function buildTicker(noticias) {
-  const track = document.getElementById('ticker-track');
-  if (!noticias.length) return;
-  const items = [...noticias, ...noticias].map(n =>
-    `<span class="ticker-item">${n.titulo}</span><span class="ticker-sep">·</span>`
-  ).join(' ');
-  track.innerHTML = items;
-}
-
-// ─────────────────────────────────────────────────────
-//  WEEK RENDER
-// ─────────────────────────────────────────────────────
-function renderWeek(files) {
-  const listEl = document.getElementById('week-files-list');
-  if (!files.length) {
-    listEl.innerHTML = `<div class="state-msg"><h2>Sem edições anteriores</h2><p>Nenhum arquivo encontrado nos últimos 7 dias.</p></div>`;
-    return;
+  function escapeHtml(str){
+    if(!str) return "";
+    return str.replace(/[&<>"']/g, m => ({
+      '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+    }[m]));
   }
-  listEl.innerHTML = files.map((f, i) => {
-    const j     = f.data.jornal || f.data;
-    const total = j.total_noticias || (j.noticias||[]).length;
-    const dt    = f.date.toLocaleDateString('pt-BR', { weekday:'long', day:'2-digit', month:'long' });
-    return `<button class="week-file-btn" onclick="openWeekEdition(${i})" id="week-btn-${i}">
-      <span class="week-file-icon">📰</span>
-      <div class="week-file-info">
-        <div class="week-file-date">${dt}</div>
-        <div class="week-file-meta">${total} notícias · ${j.hora_geracao||'—'} UTC · ${f.filename}</div>
+
+  function renderDateline(jornal){
+    const left = document.getElementById('dateline-left');
+    const d = jornal && jornal.edicao ? jornal.edicao : new Date().toISOString().slice(0,10);
+    const parts = d.split('-');
+    left.textContent = `Edição de ${parts[2]}/${parts[1]}/${parts[0]}`;
+  }
+
+  function renderTicker(destaques){
+    const track = document.getElementById('ticker-track');
+    if(!destaques || !destaques.length){
+      track.parentElement.parentElement.parentElement.style.display = 'none';
+      return;
+    }
+    const items = destaques.map(d =>
+      `<a class="ticker-item" href="${d.link || '#'}" target="_blank" rel="noopener">
+        <span>●</span>${escapeHtml(d.titulo)}
+      </a>`
+    ).join('');
+    track.innerHTML = items + items; // duplicado para loop contínuo
+  }
+
+  function renderCapa(capa){
+    const root = document.getElementById('capa-content');
+    if(!capa){
+      root.className = 'state-msg';
+      root.textContent = 'Nenhuma matéria de capa disponível no momento.';
+      return;
+    }
+    root.className = '';
+    root.innerHTML = `
+      <div class="capa-grid">
+        <div>
+          <span class="capa-eyebrow">${escapeHtml(capa.categoria_nome || 'Capa')}</span>
+          <h2>${escapeHtml(capa.titulo || '')}</h2>
+          ${capa.subtitulo ? `<p class="subtitulo">${escapeHtml(capa.subtitulo)}</p>` : ''}
+          <p class="resumo">${escapeHtml(capa.resumo || '')}</p>
+          <div class="capa-meta">${escapeHtml(capa.fonte || '')}${capa.fonte && capa.publicado_em ? ' · ' : ''}${fmtDate(capa.publicado_em)}</div>
+          ${capa.link ? `<a class="capa-readlink" href="${capa.link}" target="_blank" rel="noopener">Leia a matéria completa →</a>` : ''}
+        </div>
+        <div>
+          ${capa.imagem
+            ? `<img class="capa-img" src="${capa.imagem}" alt="${escapeHtml(capa.titulo || '')}" loading="lazy" onerror="this.outerHTML='&lt;div class=&quot;capa-img-placeholder&quot;&gt;Sem imagem&lt;/div&gt;'">`
+            : `<div class="capa-img-placeholder">Sem imagem</div>`}
+        </div>
       </div>
-      <span class="week-file-arrow">→</span>
-    </button>`;
-  }).join('');
-  window._weekFiles = files;
-}
-
-function openWeekEdition(idx) {
-  document.querySelectorAll('.week-file-btn').forEach(b => b.classList.remove('active'));
-  document.getElementById(`week-btn-${idx}`)?.classList.add('active');
-
-  const f  = window._weekFiles[idx];
-  const j  = f.data.jornal || f.data;
-  const noticias = j.noticias || [];
-  const container = document.getElementById('week-news-container');
-  const dt = f.date.toLocaleDateString('pt-BR', { weekday:'long', day:'2-digit', month:'long', year:'numeric' });
-
-  let html = `<div class="week-news-header">
-    <div class="week-news-title">Edição de ${dt}</div>
-    <button class="week-close-btn" onclick="closeWeekEdition()">✕ Fechar</button>
-  </div>`;
-  html += `<div class="week-list">`;
-  noticias.forEach(n => {
-    const cat    = catLabel(n.categoria);
-    const catCls = catClass(n.categoria);
-    const urlAttr = n.url_principal ? `href="${n.url_principal}" target="_blank" rel="noopener"` : '';
-    html += `<a class="week-item" ${urlAttr}
-      data-rank="${n.rank}" data-title="${escHtml(n.titulo)}"
-      data-summary="${escHtml(n.resumo)}" data-cat="${escHtml(cat)}"
-      data-catcls="${catCls}" data-impact="${n.impacto}"
-      data-sources="${escHtml((n.fontes||[]).join(' · '))}"
-      data-tags="${escHtml((n.tags||[]).join(','))}"
-      data-brasil="${n.relevancia_brasil}" data-url="${escHtml(n.url_principal||'')}"
-      onclick="openModal(this, event)">
-      <div class="week-item-rank">${String(n.rank||'').padStart(2,'0')}</div>
-      <div class="week-item-title">${n.titulo}</div>
-      <div class="week-item-cat ${catCls}">${cat}</div>
-      <div class="week-item-impact wi-${n.impacto}">${impactLabel(n.impacto)}</div>
-    </a>`;
-  });
-  html += `</div>`;
-  container.innerHTML = html;
-  container.classList.add('visible');
-  container.scrollIntoView({ behavior: 'smooth', block: 'start' });
-}
-
-function closeWeekEdition() {
-  document.getElementById('week-news-container').classList.remove('visible');
-  document.querySelectorAll('.week-file-btn').forEach(b => b.classList.remove('active'));
-}
-
-// ─────────────────────────────────────────────────────
-//  MODAL
-// ─────────────────────────────────────────────────────
-function openModal(el, e) {
-  if (e) e.preventDefault();
-  const d = el.dataset;
-  document.getElementById('modal-cat').className = `modal-cat ${d.catcls}`;
-  document.getElementById('modal-cat').textContent = d.cat;
-  document.getElementById('modal-title').textContent = d.title;
-  document.getElementById('modal-summary').textContent = d.summary;
-
-  let meta = `<span class="impact-badge wi-${d.impact}" style="font-size:.72rem;">${impactLabel(d.impact)}</span>`;
-  if (d.brasil === 'true') meta += `<span class="brasil-flag">🇧🇷 Relevante para o Brasil</span>`;
-  if (d.sources) meta += `<span style="font-family:var(--mono);font-size:.65rem;color:var(--faint);">Fontes: ${d.sources}</span>`;
-  if (d.url) meta += `<a class="modal-link" href="${d.url}" target="_blank" rel="noopener">↗ Ver matéria original</a>`;
-  document.getElementById('modal-meta').innerHTML = meta;
-  document.getElementById('modal-overlay').classList.add('open');
-}
-
-function closeModal(e) {
-  if (e && e.target !== document.getElementById('modal-overlay')) return;
-  document.getElementById('modal-overlay').classList.remove('open');
-}
-
-document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
-
-// ─────────────────────────────────────────────────────
-//  NAVIGATION
-// ─────────────────────────────────────────────────────
-function showPage(id) {
-  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
-  document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
-  document.getElementById(`page-${id}`)?.classList.add('active');
-  document.querySelector(`.nav-btn[onclick*="${id}"]`)?.classList.add('active');
-}
-
-// ─────────────────────────────────────────────────────
-//  BOOTSTRAP
-// ─────────────────────────────────────────────────────
-async function bootstrap() {
-  const statusEl = document.getElementById('loader-status');
-
-  statusEl.textContent = 'Listando arquivos disponíveis...';
-  const allFiles = await listDataFiles().catch(err => {
-    console.error('[IA News] Falha na GitHub API:', err);
-    return [];
-  });
-
-  statusEl.textContent = 'Buscando edição de hoje...';
-  const result = await fetchTodayData(allFiles);
-
-  statusEl.textContent = 'Carregando resumo semanal...';
-  const weekFiles = await fetchWeekFiles(allFiles);
-
-  statusEl.textContent = 'Renderizando interface...';
-
-  if (result) {
-    renderToday(result.data);
-    // atualiza data no masthead com info do arquivo
-    const j = result.data.jornal || result.data;
-    document.getElementById('masthead-date').textContent =
-      `${j.data || filePrefix()} · ${j.hora_geracao || result.filename.slice(11).replace(/_/g,':')} UTC`;
-  } else {
-    document.getElementById('hoje-content').innerHTML = `
-      <div class="state-msg">
-        <h2>Nenhuma edição encontrada</h2>
-        <p>Nenhum arquivo JSON foi encontrado em <code>${DATA_BASE_PATH}/</code> para hoje.<br>
-        Verifique se o pipeline de geração de notícias está ativo.</p>
-      </div>`;
-    // data genérica
-    const now = new Date();
-    document.getElementById('masthead-date').textContent =
-      now.toLocaleDateString('pt-BR', { weekday:'long', day:'2-digit', month:'long', year:'numeric', timeZone:'UTC' }) + ' · UTC';
+    `;
   }
 
-  renderWeek(weekFiles.filter(f => f && f.data));
+  function cardHtml(art){
+    const img = art.imagem
+      ? `<img src="${art.imagem}" alt="${escapeHtml(art.titulo)}" loading="lazy" onerror="this.outerHTML='&lt;div class=&quot;img-placeholder&quot;&gt;Sem imagem&lt;/div&gt;'">`
+      : `<div class="img-placeholder">Sem imagem</div>`;
+    return `
+      <a class="card" href="${art.link || '#'}" target="_blank" rel="noopener">
+        ${img}
+        <h4>${escapeHtml(art.titulo || '')}</h4>
+        <p>${escapeHtml(art.resumo || '')}</p>
+        <div class="card-meta">
+          <span>${escapeHtml(art.fonte || '')}</span>
+          <span>${fmtDate(art.publicado_em)}</span>
+        </div>
+      </a>
+    `;
+  }
 
-  await new Promise(r => setTimeout(r, 300));
-  document.getElementById('loader').classList.add('hidden');
-  document.getElementById('app').classList.add('visible');
-}
+  function renderSections(categorias){
+    const navScroll = document.getElementById('nav-scroll');
+    const root = document.getElementById('sections-root');
+    root.innerHTML = '';
 
-bootstrap().catch(err => {
-  console.error('[IA News] Erro no bootstrap:', err);
-  document.getElementById('loader-status').textContent = 'Erro ao carregar. Verifique o servidor.';
-});
+    if(!categorias || !categorias.length){
+      root.appendChild(el('div','state-msg','Nenhuma categoria com conteúdo no momento.'));
+      return;
+    }
+
+    categorias.forEach(cat => {
+      if(!cat.artigos || !cat.artigos.length) return;
+
+      const navLink = el('a', null, escapeHtml(cat.nome));
+      navLink.href = '#' + cat.slug;
+      navScroll.appendChild(navLink);
+
+      const section = el('section','section');
+      section.id = cat.slug;
+
+      const head = el('div','section-head');
+      head.appendChild(el('h3', null, escapeHtml(cat.nome)));
+      head.appendChild(el('span','count', cat.artigos.length + (cat.artigos.length === 1 ? ' matéria' : ' matérias')));
+      section.appendChild(head);
+
+      const grid = el('div','card-grid');
+      grid.innerHTML = cat.artigos.map(cardHtml).join('');
+      section.appendChild(grid);
+
+      root.appendChild(section);
+    });
+  }
+
+  function render(data){
+    renderDateline(data.jornal);
+    renderTicker(data.destaques);
+    renderCapa(data.capa);
+    renderSections(data.categorias);
+  }
+
+  function showError(){
+    document.getElementById('capa-content').className = 'state-msg';
+    document.getElementById('capa-content').textContent =
+      'Não foi possível carregar data-base/content.json. Verifique se o arquivo existe e se a página está sendo servida via HTTP (não file://).';
+  }
+
+  fetch(DATA_URL, { cache: "no-store" })
+    .then(r => { if(!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+    .then(render)
+    .catch(err => {
+      console.error('Falha ao carregar content.json:', err);
+      showError();
+    });
+
+})();
 </script>
 </body>
 </html>

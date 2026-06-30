@@ -1,0 +1,53 @@
+{
+  "jornal": { "nome": "Atualidades & Intelecto", "atualizado_em": "2026-06-30T14:00:00-03:00", "edicao": "2026-06-30" },
+  "destaques": [
+    { "id": "d1", "titulo": "Congresso aprova novo marco regulatório de inteligência artificial", "link": "#", "categoria_slug": "noticias" },
+    { "id": "d2", "titulo": "Seleção brasileira confirma escalação para próxima rodada decisiva", "link": "#", "categoria_slug": "futebol" },
+    { "id": "d3", "titulo": "NASA divulga novas imagens do telescópio James Webb sobre formação estelar", "link": "#", "categoria_slug": "ciencia" },
+    { "id": "d4", "titulo": "Banco Central mantém taxa básica de juros em reunião desta semana", "link": "#", "categoria_slug": "noticias" }
+  ],
+  "capa": {
+    "categoria_slug": "noticias",
+    "categoria_nome": "Notícias",
+    "titulo": "Reforma tributária entra em nova fase com debate sobre alíquotas setoriais",
+    "subtitulo": "Relator apresenta texto-base que deve ser votado ainda neste semestre",
+    "resumo": "O texto em discussão no Congresso Nacional busca equilibrar a transição para o novo sistema de tributação sobre o consumo, com atenção especial aos setores de serviços e indústria. Especialistas avaliam que o desenho final ainda pode sofrer alterações relevantes antes da votação em plenário.",
+    "imagem": null,
+    "link": "#",
+    "fonte": "Agência Brasil",
+    "publicado_em": "2026-06-30T11:00:00-03:00"
+  },
+  "categorias": [
+    {
+      "slug": "noticias",
+      "nome": "Notícias",
+      "artigos": [
+        { "id": "n1", "titulo": "Inflação de junho fica abaixo das expectativas do mercado", "resumo": "Índice oficial veio abaixo do esperado por analistas, puxado pela queda nos preços de alimentos.", "imagem": null, "link": "#", "fonte": "Valor Econômico", "publicado_em": "2026-06-30T13:00:00-03:00" },
+        { "id": "n2", "titulo": "Governo anuncia pacote de investimento em infraestrutura urbana", "resumo": "Recursos serão destinados a mobilidade e saneamento em capitais e regiões metropolitanas.", "imagem": null, "link": "#", "fonte": "G1", "publicado_em": "2026-06-30T10:30:00-03:00" },
+        { "id": "n3", "titulo": "União Europeia discute novas regras para plataformas digitais", "resumo": "Proposta amplia exigências de transparência sobre algoritmos de recomendação.", "imagem": null, "link": "#", "fonte": "Reuters", "publicado_em": "2026-06-30T09:15:00-03:00" }
+      ]
+    },
+    {
+      "slug": "ciencia",
+      "nome": "Ciência",
+      "artigos": [
+        { "id": "c1", "titulo": "Pesquisadores brasileiros identificam nova espécie na Amazônia", "resumo": "Descoberta reforça a importância da preservação de áreas ainda pouco exploradas da floresta.", "imagem": null, "link": "#", "fonte": "Super Interessante", "publicado_em": "2026-06-30T08:00:00-03:00" },
+        { "id": "c2", "titulo": "Estudo associa sono regular a melhor desempenho cognitivo", "resumo": "Pesquisa acompanhou voluntários por dois anos e mediu impacto em memória e atenção.", "imagem": null, "link": "#", "fonte": "Nature (resumo)", "publicado_em": "2026-06-30T07:40:00-03:00" }
+      ]
+    },
+    {
+      "slug": "futebol",
+      "nome": "Futebol",
+      "artigos": [
+        { "id": "f1", "titulo": "Clube paulista anuncia contratação para a próxima temporada", "resumo": "Reforço chega para disputar posição no meio-campo a partir do segundo semestre.", "imagem": null, "link": "#", "fonte": "ge.globo", "publicado_em": "2026-06-30T12:00:00-03:00" }
+      ]
+    },
+    {
+      "slug": "curiosidades",
+      "nome": "Curiosidades",
+      "artigos": [
+        { "id": "u1", "titulo": "Por que bocejamos? Ciência ainda não tem resposta definitiva", "resumo": "Diferentes teorias tentam explicar o fenômeno, da regulação térmica à empatia social.", "imagem": null, "link": "#", "fonte": "Mundo Estranho", "publicado_em": "2026-06-29T18:00:00-03:00" }
+      ]
+    }
+  ]
+}
