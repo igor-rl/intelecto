@@ -59,6 +59,9 @@ margin:6px 0 4px;
 line-height:.95;
 color:var(--brick);
 }
+.masthead h1 span{
+color:var(--ink);
+}
 .masthead .tagline{
 font-size:13px;
 font-style:italic;
