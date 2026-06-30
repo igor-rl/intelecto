@@ -1,7 +1,11 @@
 {
-  "jornal": { "nome": "Atualidades & Intelecto", "atualizado_em": "2026-06-30T14:00:00-03:00", "edicao": "2026-06-30" },
+  "jornal": { 
+    "nome": "Atualidades & Intelecto", 
+    "atualizado_em": "2026-06-30T17:34:18.548Z", 
+    "edicao": "2026-06-30" 
+  },
   "destaques": [
-    { "id": "d1", "titulo": "Congresso aprova novo marco regulatório de inteligência artificial", "link": "#", "categoria_slug": "noticias" },
+    { "id": "noticias-2026-06-30-1734-01", "titulo": "Milhares de manifestantes marcham contra imigrantes na África do Sul", "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss", "categoria_slug": "noticias" },
     { "id": "d2", "titulo": "Seleção brasileira confirma escalação para próxima rodada decisiva", "link": "#", "categoria_slug": "futebol" },
     { "id": "d3", "titulo": "NASA divulga novas imagens do telescópio James Webb sobre formação estelar", "link": "#", "categoria_slug": "ciencia" },
     { "id": "d4", "titulo": "Banco Central mantém taxa básica de juros em reunião desta semana", "link": "#", "categoria_slug": "noticias" }
@@ -9,23 +13,112 @@
   "capa": {
     "categoria_slug": "noticias",
     "categoria_nome": "Notícias",
-    "titulo": "Reforma tributária entra em nova fase com debate sobre alíquotas setoriais",
-    "subtitulo": "Relator apresenta texto-base que deve ser votado ainda neste semestre",
-    "resumo": "O texto em discussão no Congresso Nacional busca equilibrar a transição para o novo sistema de tributação sobre o consumo, com atenção especial aos setores de serviços e indústria. Especialistas avaliam que o desenho final ainda pode sofrer alterações relevantes antes da votação em plenário.",
+    "titulo": "Milhares de manifestantes marcham contra imigrantes na África do Sul",
+    "subtitulo": "Milhares de manifestantes marcharam contra imigrantes na África do Sul, com uma forte presença policial. Os manifestant...",
+    "resumo": "Milhares de manifestantes marcharam contra imigrantes na África do Sul, com uma forte presença policial. Os manifestantes exigem a expulsão de imigrantes do país.",
     "imagem": null,
-    "link": "#",
-    "fonte": "Agência Brasil",
-    "publicado_em": "2026-06-30T11:00:00-03:00"
+    "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+    "fonte": "BBC",
+    "publicado_em": "2026-06-30T17:10:51.000Z"
   },
   "categorias": [
     {
-      "slug": "noticias",
-      "nome": "Notícias",
-      "artigos": [
-        { "id": "n1", "titulo": "Inflação de junho fica abaixo das expectativas do mercado", "resumo": "Índice oficial veio abaixo do esperado por analistas, puxado pela queda nos preços de alimentos.", "imagem": null, "link": "#", "fonte": "Valor Econômico", "publicado_em": "2026-06-30T13:00:00-03:00" },
-        { "id": "n2", "titulo": "Governo anuncia pacote de investimento em infraestrutura urbana", "resumo": "Recursos serão destinados a mobilidade e saneamento em capitais e regiões metropolitanas.", "imagem": null, "link": "#", "fonte": "G1", "publicado_em": "2026-06-30T10:30:00-03:00" },
-        { "id": "n3", "titulo": "União Europeia discute novas regras para plataformas digitais", "resumo": "Proposta amplia exigências de transparência sobre algoritmos de recomendação.", "imagem": null, "link": "#", "fonte": "Reuters", "publicado_em": "2026-06-30T09:15:00-03:00" }
-      ]
+      "noticias": {
+        "slug": "noticias",
+        "nome": "Notícias",
+        "artigos": [
+          {
+            "id": "noticias-2026-06-30-1734-01",
+            "titulo": "Milhares de manifestantes marcham contra imigrantes na África do Sul",
+            "resumo": "Milhares de manifestantes marcharam contra imigrantes na África do Sul, com uma forte presença policial. Os manifestantes exigem a expulsão de imigrantes do país.",
+            "imagem": null,
+            "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+            "fonte": "BBC",
+            "publicado_em": "2026-06-30T17:10:51.000Z"
+          },
+          {
+            "id": "noticias-2026-06-30-1734-02",
+            "titulo": "Omã propõe plano de taxas para navios que passam pelo Estreito de Ormuz",
+            "resumo": "Omã propôs um plano para cobrar taxas de navios que passam pelo Estreito de Ormuz, uma importante rota de comércio internacional.",
+            "imagem": null,
+            "link": "https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html",
+            "fonte": "New York Times",
+            "publicado_em": "2026-06-30T17:07:20.000Z"
+          },
+          {
+            "id": "noticias-2026-06-30-1734-03",
+            "titulo": "Suprema Corte dos EUA mantém proibição de mulheres trans em esportes femininos",
+            "resumo": "A Suprema Corte dos EUA manteve a proibição de mulheres trans em esportes femininos, uma decisão que gerou controvérsia e críticas.",
+            "imagem": null,
+            "link": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
+            "fonte": "BBC",
+            "publicado_em": "2026-06-30T17:02:39.000Z"
+          },
+          {
+            "id": "noticias-2026-06-30-1734-04",
+            "titulo": "Polícia Federal bloqueia R$ 12 milhões de grupo suspeito de contrabando de agrotóxicos",
+            "resumo": "A Polícia Federal bloqueou R$ 12 milhões de um grupo suspeito de contrabando de agrotóxicos no Rio Grande do Sul.",
+            "imagem": null,
+            "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/30/pf-bloqueia-r-12-milhoes-de-grupo-suspeito-por-contrabando-de-agrotoxicos-no-rs.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-06-30T17:01:47.000Z"
+          },
+          {
+            "id": "noticias-2026-06-30-1734-05",
+            "titulo": "Congressista americano explica ausência de quatro meses devido à depressão",
+            "resumo": "Um congressista americano explicou sua ausência de quatro meses devido à depressão, uma condição que afeta milhões de pessoas nos EUA.",
+            "imagem": null,
+            "link": "https://www.bbc.co.uk/news/articles/c9q2prq8301o?at_medium=RSS&at_campaign=rss",
+            "fonte": "BBC",
+            "publicado_em": "2026-06-30T17:01:02.000Z"
+          },
+          {
+            "id": "noticias-2026-06-30-1734-06",
+            "titulo": "Nova líder do governo no Senado se reúne com Alcolumbre para discutir pauta",
+            "resumo": "A nova líder do governo no Senado se reuniu com o presidente da Casa para discutir a pauta de votações.",
+            "imagem": null,
+            "link": "https://g1.globo.com/politica/noticia/2026/06/30/nova-lider-do-governo-no-senado-se-reune-com-alcolumbre-para-tentar-travar-pauta-bomba.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-06-30T16:54:55.000Z"
+          },
+          {
+            "id": "noticias-2026-06-30-1734-07",
+            "titulo": "Grupo suspeito de furtar grãos é investigado em Mato Grosso",
+            "resumo": "Um grupo suspeito de furtar grãos está sendo investigado em Mato Grosso, uma região importante para a produção agrícola.",
+            "imagem": null,
+            "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/06/30/grupo-suspeito-de-furtar-graos-e-movimentar-r-2-milhoes-e-investigado-em-mt.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-06-30T16:54:28.000Z"
+          },
+          {
+            "id": "noticias-2026-06-30-1734-08",
+            "titulo": "Defesa Civil emite alerta de baixa umidade do ar em Belo Horizonte",
+            "resumo": "A Defesa Civil emitiu um alerta de baixa umidade do ar em Belo Horizonte, uma condição que pode causar problemas de saúde.",
+            "imagem": null,
+            "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/30/defesa-civil-emite-alerta-de-baixa-umidade-do-ar-em-bh.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-06-30T16:56:34.000Z"
+          },
+          {
+            "id": "noticias-2026-06-30-1734-09",
+            "titulo": "Homem é condenado a 22 anos de prisão por tentar matar companheira",
+            "resumo": "Um homem foi condenado a 22 anos de prisão por tentar matar sua companheira em Chapadinha.",
+            "imagem": null,
+            "link": "https://g1.globo.com/ma/maranhao/noticia/2026/06/30/homem-que-tentou-matar-companheira-com-tiro-de-espingarda-e-condenado-a-22-anos-de-prisao-em-chapadinha.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-06-30T16:50:34.000Z"
+          },
+          {
+            "id": "noticias-2026-06-30-1734-10",
+            "titulo": "Whindersson Nunes mobiliza limpeza de riacho poluído em sua cidade natal",
+            "resumo": "O humorista Whindersson Nunes mobilizou a limpeza de um riacho poluído em sua cidade natal, no Piauí.",
+            "imagem": null,
+            "link": "https://g1.globo.com/pi/piaui/noticia/2026/06/30/whindersson-nunes-bom-jesus.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-06-30T16:48:56.000Z"
+          }
+        ]
+      }
     },
     {
       "slug": "ciencia",
