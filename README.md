@@ -1,7 +1,8 @@
 # ainews
 Acompanhe as principais notícias diárias e semanais fornecidas pela IA.
+[https://igor-rl.github.io/ainews/](https://igor-rl.github.io/ainews/)
 
-produçao:
+## N8N:
 [http://137.131.228.36:5678](http://137.131.228.36:5678/workflow/35hlz5jRWJ2TYeUz)
 
 App disponibilizado na Oracle Claude
