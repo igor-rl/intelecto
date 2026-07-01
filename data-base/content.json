@@ -1,356 +1,356 @@
 {
   "jornal": {
-      "nome": "Atualidades & Intelecto",
-      "atualizado_em": "2026-07-01T07:00:00.000Z",
-      "edicao": "2026-07-01",
-      "destaques": [
-        {
-          "id": "ciencia-2026-07-01-0900-01",
-          "titulo": "Descoberta de 31 espécies em águas profundas na costa brasileira",
-          "link": "https://super.abril.com.br/ciencia/em-duas-semanas-31-especies-foram-descobertas-em-aguas-profundas-na-costa-brasileira-confira-fotos/",
-          "categoria_slug": "ciencia"
-        },
-        {
-          "id": "noticias-2026-07-01-1000-01",
-          "titulo": "Onda de calor atinge o leste dos EUA",
-          "link": "https://www.nytimes.com/2026/07/01/weather/fourth-of-july-heat-wave-latest-updates.html",
-          "categoria_slug": "noticias"
-        },
-        {
-          "id": "ciencia-2026-07-01-0900-02",
-          "titulo": "Primeiro fóssil de dinossauro da Antártida é descrito após 40 anos esquecido",
-          "link": "https://super.abril.com.br/ciencia/primeiro-fossil-de-dinossauro-da-antartida-e-descrito-apos-40-anos-esquecido-em-uma-gaveta/",
-          "categoria_slug": "ciencia"
-        },
-        {
-          "id": "tecnologia-2026-07-01-0900-01",
-          "titulo": "Diagnóstico de PC com IA: use ChatGPT e Gemini para otimizar seu Windows",
-          "link": "https://gizbr.uol.com.br/diagnosticar-pc-ia-msinfo32/",
-          "categoria_slug": "tecnologia"
-        }
-      ],
-      "capa": {
-        "categoria_slug": "ciencia",
-        "categoria_nome": "Ciência",
+    "nome": "Atualidades & Intelecto",
+    "atualizado_em": "2026-07-01T07:34:00.000Z",
+    "edicao": "2026-07-01",
+    "destaques": [
+      {
+        "id": "ciencia-2026-07-01-0900-01",
         "titulo": "Descoberta de 31 espécies em águas profundas na costa brasileira",
-        "subtitulo": "Uma expedição utilizou tecnologias 3D com laser para documentar novas espécies em águas internacionais próxima à costa brasileira, resultando na descoberta de 31 espécies em apenas duas semanas...",
-        "resumo": "Uma expedição utilizou tecnologias 3D com laser para documentar novas espécies em águas internacionais próxima à costa brasileira, resultando na descoberta de 31 espécies em apenas duas semanas.",
-        "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/3006-especies-aguas-profundas-layout_site-CAPA.jpg",
         "link": "https://super.abril.com.br/ciencia/em-duas-semanas-31-especies-foram-descobertas-em-aguas-profundas-na-costa-brasileira-confira-fotos/",
-        "fonte": "Super",
-        "publicado_em": "2026-06-30T22:00:59+00:00"
+        "categoria_slug": "ciencia"
       },
-      "categorias": {
-        "noticias": {
-          "slug": "noticias",
-          "nome": "Notícias",
-          "artigos": [
-            {
-              "id": "noticias-2026-07-01-1000-01",
-              "titulo": "Onda de calor atinge o leste dos EUA",
-              "resumo": "Mais de 160 milhões de pessoas estão sob alertas de calor extremo ou advertências de calor nos EUA, à medida que o país se aproxima do feriado do Dia da Independência. A onda de calor é esperada para continuar ao longo da semana.",
-              "imagem": null,
-              "link": "https://www.nytimes.com/2026/07/01/weather/fourth-of-july-heat-wave-latest-updates.html",
-              "fonte": "Desconhecida",
-              "publicado_em": "2026-07-01T09:50:16.000Z",
-              "relevancia": 0.8,
-              "destaque": true,
-              "tags": [
-                "eua",
-                "calor",
-                "clima"
-              ]
-            },
-            {
-              "id": "noticias-2026-07-01-1000-02",
-              "titulo": "Trump sugere que a Síria ajude a conter o Hezbollah",
-              "resumo": "O presidente dos EUA, Donald Trump, sugeriu que a Síria poderia ajudar a conter o grupo militante libanês Hezbollah. A proposta foi recebida com ceticismo por muitos no Oriente Médio.",
-              "imagem": null,
-              "link": "https://www.nytimes.com/2026/07/01/world/middleeast/syria-trump-hezbollah-lebanon.html",
-              "fonte": "Desconhecida",
-              "publicado_em": "2026-07-01T09:42:45.000Z",
-              "relevancia": 0.7,
-              "destaque": false,
-              "tags": [
-                "trump",
-                "siria",
-                "hezbollah"
-              ]
-            },
-            {
-              "id": "noticias-2026-07-01-1000-03",
-              "titulo": "Indústria de falsos médicos feitos por IA viraliza no Brasil",
-              "resumo": "Vídeos gerados por inteligência artificial com médicos falsos estão viralizando no Brasil, especialmente entre idosos. Os vídeos podem ser perigosos, pois podem levar as pessoas a tomar decisões de saúde erradas.",
-              "imagem": null,
-              "link": "https://g1.globo.com/saude/noticia/2026/07/01/a-industria-global-de-falsos-medicos-feitos-por-ia-que-usa-o-medo-para-viralizar-entre-idosos-no-brasil-achei-que-fosse-real.ghtml",
-              "fonte": "Desconhecida",
-              "publicado_em": "2026-07-01T09:37:40.000Z",
-              "relevancia": 0.6,
-              "destaque": false,
-              "tags": [
-                "ia",
-                "saude",
-                "brasil"
-              ]
-            },
-            {
-              "id": "noticias-2026-07-01-1000-04",
-              "titulo": "Pacientes do SUS com câncer de pulmão têm menos acesso a tratamento",
-              "resumo": "Pacientes do Sistema Único de Saúde (SUS) com câncer de pulmão têm menos acesso a tratamentos eficazes, de acordo com um estudo recente. Isso pode levar a uma menor expectativa de vida para esses pacientes.",
-              "imagem": null,
-              "link": "https://g1.globo.com/saude/noticia/2026/07/01/paciente-do-sus-com-cancer-de-pulmao-vive-menos-por-falta-de-acesso-ao-tratamento-mais-indicado.ghtml",
-              "fonte": "Desconhecida",
-              "publicado_em": "2026-07-01T09:30:47.000Z",
-              "relevancia": 0.5,
-              "destaque": false,
-              "tags": [
-                "saude",
-                "sus",
-                "cancer"
-              ]
-            },
-            {
-              "id": "noticias-2026-07-01-1000-05",
-              "titulo": "Concurso do IBGE tem vagas no Ceará",
-              "resumo": "O Instituto Brasileiro de Geografia e Estatística (IBGE) está com inscrições abertas para um concurso com vagas no Ceará. Os salários podem chegar a R$ 4 mil.",
-              "imagem": null,
-              "link": "https://g1.globo.com/ce/ceara/suachance/noticia/2026/07/01/concurso-do-ibge-inscricoes-para-certame-com-salario-de-ate-r-4-mil-e-vagas-no-ceara-terminam-nesta-quarta.ghtml",
-              "fonte": "Desconhecida",
-              "publicado_em": "2026-07-01T09:17:21.000Z",
-              "relevancia": 0.4,
-              "destaque": false,
-              "tags": [
-                "emprego",
-                "ibge",
-                "ceara"
-              ]
-            },
-            {
-              "id": "noticias-2026-07-01-1000-06",
-              "titulo": "Greve de rodoviários no Rio de Janeiro",
-              "resumo": "A greve de rodoviários no Rio de Janeiro entrou no seu terceiro dia, com uma determinação judicial para que 80% da frota de ônibus esteja nas ruas. No entanto, nem metade dos ônibus saiu das garagens.",
-              "imagem": null,
-              "link": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/noticia/2026/07/01/greve-de-rodoviarios-entra-no-3o-dia.ghtml",
-              "fonte": "Desconhecida",
-              "publicado_em": "2026-07-01T09:13:11.000Z",
-              "relevancia": 0.3,
-              "destaque": false,
-              "tags": [
-                "greve",
-                "rodoviarios",
-                "rio"
-              ]
-            },
-            {
-              "id": "noticias-2026-07-01-1000-07",
-              "titulo": "Cagece adota novo modelo de conta de água no Ceará",
-              "resumo": "A Companhia de Água e Esgoto do Ceará (Cagece) está adotando um novo modelo de conta de água no estado. As principais mudanças incluem a emissão de um novo documento que deixa de ser apenas um recibo.",
-              "imagem": null,
-              "link": "https://g1.globo.com/ce/ceara/noticia/2026/07/01/cagece-adota-novo-modelo-de-conta-de-agua-no-ceara-veja-o-que-muda.ghtml",
-              "fonte": "Desconhecida",
-              "publicado_em": "2026-07-01T09:05:58.000Z",
-              "relevancia": 0.2,
-              "destaque": false,
-              "tags": [
-                "cagece",
-                "agua",
-                "ceara"
-              ]
-            },
-            {
-              "id": "noticias-2026-07-01-1000-08",
-              "titulo": "Decisão sobre direito de nascimento nos EUA é surpreendentemente próxima",
-              "resumo": "A decisão da Suprema Corte dos EUA sobre o direito de nascimento foi surpreendentemente próxima, com uma maioria estreita de juízes decidindo que a ordem executiva do presidente Trump era inconstitucional.",
-              "imagem": null,
-              "link": "https://www.nytimes.com/2026/07/01/us/politics/birthright-supreme-court-decision.html",
-              "fonte": "Desconhecida",
-              "publicado_em": "2026-07-01T09:04:00.000Z",
-              "relevancia": 0.1,
-              "destaque": false,
-              "tags": [
-                "eua",
-                "suprema corte",
-                "direito de nascimento"
-              ]
-            },
-            {
-              "id": "noticias-2026-07-01-1000-09",
-              "titulo": "Negociações sobre acordo comercial entre EUA, México e Canadá",
-              "resumo": "As negociações sobre o acordo comercial entre os EUA, México e Canadá podem estar chegando ao fim, ou podem estar no início de um caminho para a renovação do acordo.",
-              "imagem": null,
-              "link": "https://www.nytimes.com/2026/07/01/business/economy/usmca-north-america-trade.html",
-              "fonte": "Desconhecida",
-              "publicado_em": "2026-07-01T09:03:41.000Z",
-              "relevancia": 0.1,
-              "destaque": false,
-              "tags": [
-                "eua",
-                "mexico",
-                "canada"
-              ]
-            },
-            {
-              "id": "noticias-2026-07-01-1000-10",
-              "titulo": "Deportados dos EUA para a Venezuela estão desaparecidos ou mortos após terremotos",
-              "resumo": "Muitos dos 146 venezuelanos deportados dos EUA estão desaparecidos ou mortos após os terremotos que atingiram a Venezuela.",
-              "imagem": null,
-              "link": "https://www.nytimes.com/2026/07/01/world/americas/venezuela-earthquakes-deportees-us-deaths.html",
-              "fonte": "Desconhecida",
-              "publicado_em": "2026-07-01T09:03:34.000Z",
-              "relevancia": 0.1,
-              "destaque": false,
-              "tags": [
-                "venezuela",
-                "eua",
-                "deportados"
-              ]
-            }
-          ]
-        },
-        "ciencia": {
-          "slug": "ciencia",
-          "nome": "Ciência",
-          "artigos": [
-            {
-              "id": "ciencia-2026-07-01-0900-01",
-              "titulo": "Descoberta de 31 espécies em águas profundas na costa brasileira",
-              "resumo": "Uma expedição utilizou tecnologias 3D com laser para documentar novas espécies em águas internacionais próxima à costa brasileira, resultando na descoberta de 31 espécies em apenas duas semanas.",
-              "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/3006-especies-aguas-profundas-layout_site-CAPA.jpg",
-              "link": "https://super.abril.com.br/ciencia/em-duas-semanas-31-especies-foram-descobertas-em-aguas-profundas-na-costa-brasileira-confira-fotos/",
-              "fonte": "Super",
-              "publicado_em": "2026-06-30T22:00:59+00:00",
-              "relevancia": 0.9,
-              "destaque": true,
-              "tags": [
-                "biologia",
-                "oceano",
-                "descobertas"
-              ]
-            },
-            {
-              "id": "ciencia-2026-07-01-0900-02",
-              "titulo": "Primeiro fóssil de dinossauro da Antártida é descrito após 40 anos esquecido",
-              "resumo": "O fóssil de um titanossauro de cerca de sete metros que viveu há 82 milhões de anos foi descrito após ser esquecido em uma gaveta por 40 anos.",
-              "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/3006-dinossauro-antartica-layout_site-CAPA.jpg",
-              "link": "https://super.abril.com.br/ciencia/primeiro-fossil-de-dinossauro-da-antartida-e-descrito-apos-40-anos-esquecido-em-uma-gaveta/",
-              "fonte": "Super",
-              "publicado_em": "2026-06-30T21:00:34+00:00",
-              "relevancia": 0.8,
-              "destaque": false,
-              "tags": [
-                "paleontologia",
-                "dinossauros",
-                "antartida"
-              ]
-            },
-            {
-              "id": "ciencia-2026-07-01-0900-03",
-              "titulo": "Robô da Nasa encontra carbono em Marte e reforça pistas sobre possível vida antiga",
-              "resumo": "Um robô da Nasa encontrou carbono em Marte, o que pode ser um sinal de vida antiga no planeta.",
-              "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/2906-perseverance-layout_site.jpg",
-              "link": "https://super.abril.com.br/ciencia/robo-da-nasa-encontra-materia-organica-em-marte-e-reforca-pistas-sobre-possivel-vida-antiga/",
-              "fonte": "Super",
-              "publicado_em": "2026-06-30T11:00:47+00:00",
-              "relevancia": 0.7,
-              "destaque": false,
-              "tags": [
-                "nasa",
-                "marte",
-                "vida extraterrestre"
-              ]
-            }
-          ]
-        },
-        "futebol": {
-          "slug": "futebol",
-          "nome": "Futebol",
-          "artigos": [
-            {
-              "id": "f1",
-              "titulo": "Clube paulista anuncia contratação para a próxima temporada",
-              "resumo": "Reforço chega para disputar posição no meio-campo a partir do segundo semestre.",
-              "imagem": null,
-              "link": "#",
-              "fonte": "ge.globo",
-              "publicado_em": "2026-06-30T12:00:00-03:00"
-            }
-          ]
-        },
-        "curiosidades": {
-          "slug": "curiosidades",
-          "nome": "Curiosidades",
-          "artigos": [
-            {
-              "id": "u1",
-              "titulo": "Por que bocejamos? Ciência ainda não tem resposta definitiva",
-              "resumo": "Diferentes teorias tentam explicar o fenômeno, da regulação térmica à empatia social.",
-              "imagem": null,
-              "link": "#",
-              "fonte": "Mundo Estranho",
-              "publicado_em": "2026-06-29T18:00:00-03:00"
-            }
-          ]
-        },
-        "tecnologia": {
-          "slug": "tecnologia",
-          "nome": "Tecnologia",
-          "artigos": [
-            {
-              "id": "tecnologia-2026-07-01-0900-01",
-              "titulo": "Diagnóstico de PC com IA: use ChatGPT e Gemini para otimizar seu Windows",
-              "resumo": "Um método que utiliza o relatório nativo MSINFO32 para gerar análise de hardware e software pode ser usado para otimizar o Windows com a ajuda da IA.",
-              "imagem": null,
-              "link": "https://gizbr.uol.com.br/diagnosticar-pc-ia-msinfo32/",
-              "fonte": "GizBR",
-              "publicado_em": "2026-06-30T19:58:37+00:00",
-              "relevancia": 0.6,
-              "destaque": false,
-              "tags": [
-                "ia",
-                "windows",
-                "otimizacao"
-              ]
-            },
-            {
-              "id": "tecnologia-2026-07-01-0900-02",
-              "titulo": "Casa Branca vai controlar acesso a novo algoritmo da OpenAI",
-              "resumo": "A Casa Branca vai controlar o acesso ao novo algoritmo da OpenAI, o GPT-5.6, que só poderá ser usado por empresas previamente aprovadas.",
-              "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/2906-casa-branca-layout_site.jpg",
-              "link": "https://super.abril.com.br/coluna/bruno-garattoni/casa-branca-vai-controlar-acesso-a-novo-algoritmo-da-openai/",
-              "fonte": "Super",
-              "publicado_em": "2026-06-29T21:00:41+00:00",
-              "relevancia": 0.5,
-              "destaque": false,
-              "tags": [
-                "openai",
-                "casa branca",
-                "algoritmo"
-              ]
-            }
-          ]
-        },
-        "cultura": {
-          "slug": "cultura",
-          "nome": "Cultura",
-          "artigos": [
-            {
-              "id": "cultura-2026-07-01-0900-01",
-              "titulo": "Mauricio de Sousa virou enredo de Carnaval e patrimônio cultural de São Paulo",
-              "resumo": "Mauricio de Sousa, criador da Turma da Mônica, teve sua trajetória transformada em espetáculo e se tornou patrimônio cultural de São Paulo.",
-              "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/3006-90-anos-mauricio-layout_site-CAPA.jpg",
-              "link": "https://super.abril.com.br/cultura/como-mauricio-de-sousa-virou-enredo-de-carnaval-e-patrimonio-cultural-de-sao-paulo/",
-              "fonte": "Super",
-              "publicado_em": "2026-06-30T19:00:36+00:00",
-              "relevancia": 0.4,
-              "destaque": false,
-              "tags": [
-                "mauricio de sousa",
-                "turma da monica",
-                "cultura"
-              ]
-            }
-          ]
-        }
+      {
+        "id": "noticias-2026-07-01-1034-01",
+        "titulo": "Casal é encontrado morto em apartamento de luxo em Belo Horizonte",
+        "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/01/suspeita-de-matar-casal-em-apartamento-de-luxo-em-bh-disse-a-tia-que-viajaria-para-o-espirito-santo.ghtml",
+        "categoria_slug": "noticias"
+      },
+      {
+        "id": "ciencia-2026-07-01-0900-02",
+        "titulo": "Primeiro fóssil de dinossauro da Antártida é descrito após 40 anos esquecido",
+        "link": "https://super.abril.com.br/ciencia/primeiro-fossil-de-dinossauro-da-antartida-e-descrito-apos-40-anos-esquecido-em-uma-gaveta/",
+        "categoria_slug": "ciencia"
+      },
+      {
+        "id": "noticias-2026-07-01-1034-02",
+        "titulo": "Dois homens são presos por enviar caixa de chocolate com explosivo para filha de presidente do time do Ceará",
+        "link": "https://g1.globo.com/ce/ceara/noticia/2026/07/01/dois-homens-sao-presos-por-enviar-caixa-de-chocolate-com-explosivo-para-filha-de-presidente-do-time-do-ceara.ghtml",
+        "categoria_slug": "noticias"
+      }
+    ],
+    "capa": {
+      "categoria_slug": "ciencia",
+      "categoria_nome": "Ciência",
+      "titulo": "Descoberta de 31 espécies em águas profundas na costa brasileira",
+      "subtitulo": "Uma expedição utilizou tecnologias 3D com laser para documentar novas espécies em águas internacionais próxima à costa brasileira, resultando na descoberta de 31 espécies em apenas duas semanas...",
+      "resumo": "Uma expedição utilizou tecnologias 3D com laser para documentar novas espécies em águas internacionais próxima à costa brasileira, resultando na descoberta de 31 espécies em apenas duas semanas.",
+      "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/3006-especies-aguas-profundas-layout_site-CAPA.jpg",
+      "link": "https://super.abril.com.br/ciencia/em-duas-semanas-31-especies-foram-descobertas-em-aguas-profundas-na-costa-brasileira-confira-fotos/",
+      "fonte": "Super",
+      "publicado_em": "2026-06-30T22:00:59+00:00"
+    },
+    "categorias": {
+      "noticias": {
+        "slug": "noticias",
+        "nome": "Notícias",
+        "artigos": [
+          {
+            "id": "noticias-2026-07-01-1034-01",
+            "titulo": "Casal é encontrado morto em apartamento de luxo em Belo Horizonte",
+            "resumo": "A polícia procura uma mulher de 30 anos suspeita de envolvimento na morte do advogado Cláudio Atal e sua esposa. A suspeita disse à tia que viajaria para o Espírito Santo.",
+            "imagem": null,
+            "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/01/suspeita-de-matar-casal-em-apartamento-de-luxo-em-bh-disse-a-tia-que-viajaria-para-o-espirito-santo.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-01T10:24:12.000-03:00",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "crime",
+              "morte",
+              "belo horizonte"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-01-1034-02",
+            "titulo": "Dois homens são presos por enviar caixa de chocolate com explosivo para filha de presidente do time do Ceará",
+            "resumo": "A polícia prendeu dois homens suspeitos de enviar uma caixa de chocolate com um artefato explosivo para a filha do presidente do time do Ceará.",
+            "imagem": null,
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/07/01/dois-homens-sao-presos-por-enviar-caixa-de-chocolate-com-explosivo-para-filha-de-presidente-do-time-do-ceara.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-01T10:15:20.000-03:00",
+            "relevancia": 0.7,
+            "destaque": false,
+            "tags": [
+              "crime",
+              "explosivo",
+              "ceara"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-01-1034-03",
+            "titulo": "SP confirma mais dois casos de sarampo; estado já soma sete registros da doença em 2026",
+            "resumo": "O governo de São Paulo confirmou mais dois casos de sarampo no estado, totalizando sete registros da doença em 2026.",
+            "imagem": null,
+            "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/01/sp-confirma-mais-dois-casos-de-sarampo-estado-ja-soma-sete-registros-da-doenca-em-2026.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-01T10:23:37.000-03:00",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "saude",
+              "sarampo",
+              "sao paulo"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-01-1034-04",
+            "titulo": "Operação da Polícia Civil tem como alvo Abelha, apontado como chefe do CV na Região dos Lagos",
+            "resumo": "A Polícia Civil do RJ iniciou uma operação para desarticular a estrutura do Comando Vermelho na Região dos Lagos.",
+            "imagem": null,
+            "link": "https://g1.globo.com/rj/rio-de-janeiro/post/2026/07/01/operacao-contencao-da-policia-civil.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-01T10:30:16.000-03:00",
+            "relevancia": 0.5,
+            "destaque": false,
+            "tags": [
+              "crime",
+              "policia",
+              "rio de janeiro"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-01-1034-05",
+            "titulo": "Motociclista morre após bater em carro e ser atropelado por outro veículo na Tamoios, em São José dos Campos",
+            "resumo": "Um motociclista morreu em um acidente na Rodovia dos Tamoios, em São José dos Campos.",
+            "imagem": null,
+            "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/01/motociclista-morre-apos-bater-em-carro-e-ser-atropelado-por-outro-veiculo-na-tamoios-em-sao-jose-dos-campos.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-01T10:27:38.000-03:00",
+            "relevancia": 0.4,
+            "destaque": false,
+            "tags": [
+              "acidente",
+              "moto",
+              "sao jose dos campos"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-01-1034-06",
+            "titulo": "Professora morre após ser atingida por linha chilena enquanto pilotava motocicleta em Montes Claros",
+            "resumo": "Uma professora de 57 anos morreu após ser atingida por uma linha de pipa enquanto pilotava motocicleta em Montes Claros.",
+            "imagem": null,
+            "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/07/01/professora-morre-apos-ser-atingida-por-linha-chilena-enquanto-pilotava-motocicleta-em-montes-claros.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-01T10:13:48.000-03:00",
+            "relevancia": 0.3,
+            "destaque": false,
+            "tags": [
+              "acidente",
+              "moto",
+              "montes claros"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-01-1034-07",
+            "titulo": "PM prende casal, desativa refinaria de cocaína e apreende drogas no Santos Dumont, em Maceió",
+            "resumo": "A Polícia Militar prendeu um casal suspeito de tráfico de drogas e desativou uma refinaria de cocaína em Maceió.",
+            "imagem": null,
+            "link": "https://g1.globo.com/al/alagoas/noticia/2026/07/01/pm-prende-casal-desativa-refinaria-de-cocaina-e-apreende-drogas-no-santos-dumont-em-maceio.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-01T10:21:01.000-03:00",
+            "relevancia": 0.2,
+            "destaque": false,
+            "tags": [
+              "crime",
+              "drogas",
+              "maceio"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-01-1034-08",
+            "titulo": "Latam abre 75 vagas com bolsas de estudo para turma da Escola de Mecânicos no interior de SP",
+            "resumo": "A Latam Brasil está com inscrições abertas para 75 vagas com bolsas de estudo para a segunda turma da Escola de Mecânicos no interior de SP.",
+            "imagem": null,
+            "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/07/01/latam-abre-75-vagas-com-bolsas-de-estudo-para-turma-da-escola-de-mecanicos-no-interior-de-sp.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-01T10:28:15.000-03:00",
+            "relevancia": 0.1,
+            "destaque": false,
+            "tags": [
+              "educacao",
+              "latam",
+              "sao paulo"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-01-1034-09",
+            "titulo": "Museu do interior de SP expõe modelo raro de Fusca que pode valer mais de R$ 1 milhão",
+            "resumo": "Um museu no interior de SP expõe um modelo raro de Fusca que pode valer mais de R$ 1 milhão.",
+            "imagem": null,
+            "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/01/museu-do-interior-de-sp-expoe-modelo-raro-de-fusca-que-pode-valer-mais-de-r-1-milhao-carrega-historia.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-01T10:29:35.000-03:00",
+            "relevancia": 0.1,
+            "destaque": false,
+            "tags": [
+              "cultura",
+              "fusca",
+              "sao paulo"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-01-1034-10",
+            "titulo": "Queda de avião que matou instrutor e aluno em Rio Preto completa um ano sem conclusão na investigação",
+            "resumo": "A queda de um avião que matou um instrutor e um aluno em Rio Preto completa um ano sem conclusão na investigação.",
+            "imagem": null,
+            "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/07/01/queda-de-aviao-que-matou-instrutor-e-aluno-em-rio-preto-completa-um-ano-sem-conclusao-na-investigacao.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-01T10:31:16.000-03:00",
+            "relevancia": 0.1,
+            "destaque": false,
+            "tags": [
+              "aviao",
+              "rio preto",
+              "investigacao"
+            ]
+          }
+        ]
+      },
+      "ciencia": {
+        "slug": "ciencia",
+        "nome": "Ciência",
+        "artigos": [
+          {
+            "id": "ciencia-2026-07-01-0900-01",
+            "titulo": "Descoberta de 31 espécies em águas profundas na costa brasileira",
+            "resumo": "Uma expedição utilizou tecnologias 3D com laser para documentar novas espécies em águas internacionais próxima à costa brasileira, resultando na descoberta de 31 espécies em apenas duas semanas.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/3006-especies-aguas-profundas-layout_site-CAPA.jpg",
+            "link": "https://super.abril.com.br/ciencia/em-duas-semanas-31-especies-foram-descobertas-em-aguas-profundas-na-costa-brasileira-confira-fotos/",
+            "fonte": "Super",
+            "publicado_em": "2026-06-30T22:00:59+00:00",
+            "relevancia": 0.9,
+            "destaque": true,
+            "tags": [
+              "biologia",
+              "oceano",
+              "descobertas"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-01-0900-02",
+            "titulo": "Primeiro fóssil de dinossauro da Antártida é descrito após 40 anos esquecido",
+            "resumo": "O fóssil de um titanossauro de cerca de sete metros que viveu há 82 milhões de anos foi descrito após ser esquecido em uma gaveta por 40 anos.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/3006-dinossauro-antartica-layout_site-CAPA.jpg",
+            "link": "https://super.abril.com.br/ciencia/primeiro-fossil-de-dinossauro-da-antartida-e-descrito-apos-40-anos-esquecido-em-uma-gaveta/",
+            "fonte": "Super",
+            "publicado_em": "2026-06-30T21:00:34+00:00",
+            "relevancia": 0.8,
+            "destaque": false,
+            "tags": [
+              "paleontologia",
+              "dinossauros",
+              "antartida"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-01-0900-03",
+            "titulo": "Robô da Nasa encontra carbono em Marte e reforça pistas sobre possível vida antiga",
+            "resumo": "Um robô da Nasa encontrou carbono em Marte, o que pode ser um sinal de vida antiga no planeta.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/2906-perseverance-layout_site.jpg",
+            "link": "https://super.abril.com.br/ciencia/robo-da-nasa-encontra-materia-organica-em-marte-e-reforca-pistas-sobre-possivel-vida-antiga/",
+            "fonte": "Super",
+            "publicado_em": "2026-06-30T11:00:47+00:00",
+            "relevancia": 0.7,
+            "destaque": false,
+            "tags": [
+              "nasa",
+              "marte",
+              "vida extraterrestre"
+            ]
+          }
+        ]
+      },
+      "futebol": {
+        "slug": "futebol",
+        "nome": "Futebol",
+        "artigos": [
+          {
+            "id": "f1",
+            "titulo": "Clube paulista anuncia contratação para a próxima temporada",
+            "resumo": "Reforço chega para disputar posição no meio-campo a partir do segundo semestre.",
+            "imagem": null,
+            "link": "#",
+            "fonte": "ge.globo",
+            "publicado_em": "2026-06-30T12:00:00-03:00"
+          }
+        ]
+      },
+      "curiosidades": {
+        "slug": "curiosidades",
+        "nome": "Curiosidades",
+        "artigos": [
+          {
+            "id": "u1",
+            "titulo": "Por que bocejamos? Ciência ainda não tem resposta definitiva",
+            "resumo": "Diferentes teorias tentam explicar o fenômeno, da regulação térmica à empatia social.",
+            "imagem": null,
+            "link": "#",
+            "fonte": "Mundo Estranho",
+            "publicado_em": "2026-06-29T18:00:00-03:00"
+          }
+        ]
+      },
+      "tecnologia": {
+        "slug": "tecnologia",
+        "nome": "Tecnologia",
+        "artigos": [
+          {
+            "id": "tecnologia-2026-07-01-0900-01",
+            "titulo": "Diagnóstico de PC com IA: use ChatGPT e Gemini para otimizar seu Windows",
+            "resumo": "Um método que utiliza o relatório nativo MSINFO32 para gerar análise de hardware e software pode ser usado para otimizar o Windows com a ajuda da IA.",
+            "imagem": null,
+            "link": "https://gizbr.uol.com.br/diagnosticar-pc-ia-msinfo32/",
+            "fonte": "GizBR",
+            "publicado_em": "2026-06-30T19:58:37+00:00",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "ia",
+              "windows",
+              "otimizacao"
+            ]
+          },
+          {
+            "id": "tecnologia-2026-07-01-0900-02",
+            "titulo": "Casa Branca vai controlar acesso a novo algoritmo da OpenAI",
+            "resumo": "A Casa Branca vai controlar o acesso ao novo algoritmo da OpenAI, o GPT-5.6, que só poderá ser usado por empresas previamente aprovadas.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/2906-casa-branca-layout_site.jpg",
+            "link": "https://super.abril.com.br/coluna/bruno-garattoni/casa-branca-vai-controlar-acesso-a-novo-algoritmo-da-openai/",
+            "fonte": "Super",
+            "publicado_em": "2026-06-29T21:00:41+00:00",
+            "relevancia": 0.5,
+            "destaque": false,
+            "tags": [
+              "openai",
+              "casa branca",
+              "algoritmo"
+            ]
+          }
+        ]
+      },
+      "cultura": {
+        "slug": "cultura",
+        "nome": "Cultura",
+        "artigos": [
+          {
+            "id": "cultura-2026-07-01-0900-01",
+            "titulo": "Mauricio de Sousa virou enredo de Carnaval e patrimônio cultural de São Paulo",
+            "resumo": "Mauricio de Sousa, criador da Turma da Mônica, teve sua trajetória transformada em espetáculo e se tornou patrimônio cultural de São Paulo.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/3006-90-anos-mauricio-layout_site-CAPA.jpg",
+            "link": "https://super.abril.com.br/cultura/como-mauricio-de-sousa-virou-enredo-de-carnaval-e-patrimonio-cultural-de-sao-paulo/",
+            "fonte": "Super",
+            "publicado_em": "2026-06-30T19:00:36+00:00",
+            "relevancia": 0.4,
+            "destaque": false,
+            "tags": [
+              "mauricio de sousa",
+              "turma da monica",
+              "cultura"
+            ]
+          }
+        ]
       }
     }
+  }
 }
