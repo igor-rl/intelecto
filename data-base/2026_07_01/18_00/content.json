@@ -1,0 +1,360 @@
+{
+  "jornal": {
+    "nome": "Atualidades & Intelecto",
+    "atualizado_em": "2026-07-01T18:00:00.000Z",
+    "edicao": "2026-07-01",
+    "destaques": [
+      {
+        "id": "noticias-2026-07-01-1600-01",
+        "titulo": "STF Invalida Regra que Reduzia Prazo de Prescrição em Ações de Improbidade Administrativa",
+        "link": "https://g1.globo.com/politica/noticia/2026/07/01/stf-conclui-julgamento-e-invalida-regra-que-reduz-prescricao-em-acoes-de-improbidade.ghtml",
+        "categoria_slug": "noticias"
+      },
+      {
+        "id": "ciencia-2026-07-01-1500-03",
+        "titulo": "Robô da Nasa encontra carbono em Marte e reforça pistas sobre possível vida antiga",
+        "link": "https://super.abril.com.br/ciencia/robo-da-nasa-encontra-materia-organica-em-marte-e-reforca-pistas-sobre-possivel-vida-antiga/",
+        "categoria_slug": "ciencia"
+      },
+      {
+        "id": "atualidades-2026-07-01-1500-01",
+        "titulo": "Caltech Welcomes Astrophysicist Ray Jayawardhana as New President",
+        "link": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-welcomes-astrophysicist-ray-jayawardhana-as-new-president/",
+        "categoria_slug": "atualidades"
+      },
+      {
+        "id": "ciencia-2026-07-01-1500-01",
+        "titulo": "Nova espécie de microrganismo adaptado a frio e calor extremos na Antártida",
+        "link": "https://gizbr.uol.com.br/pesquisadoras-descobrem-nova-especie-de-microrganismo-adaptado-a-frio-e-calor-extremos-na-antartida/",
+        "categoria_slug": "ciencia"
+      }
+    ],
+    "capa": {
+      "categoria_slug": "noticias",
+      "categoria_nome": "Notícias",
+      "titulo": "STF Invalida Regra que Reduzia Prazo de Prescrição em Ações de Improbidade Administrativa",
+      "subtitulo": "O Supremo Tribunal Federal (STF) concluiu a análise de pontos da Lei de Improbidade Administrativa e invalidou a regra que reduzia o prazo de prescrição em ações de improbidade administrativa...",
+      "resumo": "O Supremo Tribunal Federal (STF) concluiu a análise de pontos da Lei de Improbidade Administrativa e invalidou a regra que reduzia o prazo de prescrição em ações de improbidade administrativa. A norma, que pune acusados de irregularidades na gestão de recursos pùblicos, foi alterada pelo Congresso em 2021.",
+      "imagem": "https://s2-g1.glbimg.com/tn02iAqkwRbbfq2GHPhMwn12abk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/m/BBMx9DSwKkTcPnyEKV0Q/globo-canal-4-20260630-2000-frame-78887.jpeg",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/01/stf-conclui-julgamento-e-invalida-regra-que-reduz-prescricao-em-acoes-de-improbidade.ghtml",
+      "fonte": "G1",
+      "publicado_em": "2026-07-01T15:44:00-03:00"
+    },
+    "categorias": {
+      "noticias": {
+        "slug": "noticias",
+        "nome": "Notícias",
+        "artigos": [
+          {
+            "id": "noticias-2026-07-01-1600-01",
+            "titulo": "STF Invalida Regra que Reduzia Prazo de Prescrição em Ações de Improbidade Administrativa",
+            "resumo": "O Supremo Tribunal Federal (STF) concluiu a análise de pontos da Lei de Improbidade Administrativa e invalidou a regra que reduzia o prazo de prescrição em ações de improbidade administrativa. A norma, que pune acusados de irregularidades na gestão de recursos públicos, foi alterada pelo Congresso em 2021.",
+            "imagem": "https://s2-g1.glbimg.com/tn02iAqkwRbbfq2GHPhMwn12abk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/m/BBMx9DSwKkTcPnyEKV0Q/globo-canal-4-20260630-2000-frame-78887.jpeg",
+            "link": "https://g1.globo.com/politica/noticia/2026/07/01/stf-conclui-julgamento-e-invalida-regra-que-reduz-prescricao-em-acoes-de-improbidade.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-01T15:44:00-03:00",
+            "relevancia": 0.9,
+            "destaque": true,
+            "tags": [
+              "stf",
+              "improbidade",
+              "prescrição"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-01-1600-02",
+            "titulo": "Federação PSDB-Cidadania Decide Lançar Candidato ao Governo ou ao Senado em SP",
+            "resumo": "A Federação PSDB-Cidadania decidiu que terá candidatura majoritária para a disputa em São Paulo. O deputado federal Alex Manente, a ex-vereadora Soninha Francine e os ex-senador José Aníbal estão entre os nomes cotados.",
+            "imagem": "https://s2-g1.glbimg.com/3eUvU9VZixoOo7I8Plx89b4SYNg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/T/ZbZRKPRl6AwE3MCAt2Ag/fotojet-2026-07-01t122113.758.jpg",
+            "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/07/01/federacao-psdb-cidadania-decide-lancar-candidato-ao-governo-ou-ao-senado-em-sp.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-01T15:46:23-03:00",
+            "relevancia": 0.8,
+            "destaque": false,
+            "tags": [
+              "psdb",
+              "cidadania",
+              "eleições"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-01-1600-03",
+            "titulo": "PF Investigação Sobre Aliados de Sóstenes que Forjaram Escritura de Imóvel",
+            "resumo": "A Polícia Federal (PF) investiga se aliados do deputado Sóstenes Cavalcante forjaram a escritura pública de compra e venda de um imóvel para tentar justificar a origem de dinheiro em espécie apreendido.",
+            "imagem": "https://s2-g1.glbimg.com/LnwnfMbVfPf2vKiilxjEFrZf2lg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/L/C/rs2iqgS0GDNK7dNmzbZg/globo-canal-4-20251219-2000-frame-64341.jpeg",
+            "link": "https://g1.globo.com/politica/noticia/2026/07/01/pf-investiga-se-aliados-de-sostenes-forjaram-escritura-de-imovel-para-justificar-dinheiro-apreendido.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-01T15:40:38-03:00",
+            "relevancia": 0.7,
+            "destaque": false,
+            "tags": [
+              "pf",
+              "sóstenes",
+              "investigação"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-01-1600-04",
+            "titulo": "26 Pessoas Resgatadas de Trabalho Escravo em Canteiro de Obras no Ceará",
+            "resumo": "26 trabalhadores foram resgatados de situação análoga à escravidão em um canteiro de obras no município de Aquiraz, Região Metropolitana de Fortaleza (RMF).",
+            "imagem": "https://s2-g1.glbimg.com/UECPqv2KPeFxSDEd4r-ILtNt_pg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/K/t7Rg5BRUW4BSkd3kmyvQ/a-acao-ocorreu-em-obra-destinada-a-construcao-de-um-empreendimento-residencial-horizontal-com-previ.jpg",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/07/01/26-pessoas-sao-resgatadas-de-trabalho-escravo-em-canteiro-de-obras-no-ceara.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-01T15:37:09-03:00",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "trabalho escravo",
+              "ceará",
+              "resgate"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-01-1600-05",
+            "titulo": "Ataque a Tenente da Rota Foi Planejado por Quatro Meses, Diz Polícia",
+            "resumo": "O atentado contra o tenente da Rota Ronickson Pimentel dos Santos, baleado na cabeça no último sábado (27), em São Caetano do Sul, foi planejado por quatro meses, segundo a polícia.",
+            "imagem": "https://s2-g1.glbimg.com/gsAHWB6rFe6PWZRMqfZwkWJ3q40=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/M/PZX5B4SMKEdW2cAiyOmg/fotojet-2026-07-01t123604.374.jpg",
+            "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/01/ataque-a-tenente-da-rota-foi-planejado-por-quatro-meses-diz-policia-um-dos-atiradores-foi-identificado.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-01T15:42:20-03:00",
+            "relevancia": 0.5,
+            "destaque": false,
+            "tags": [
+              "ataque",
+              "tenente",
+              "rota"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-01-1600-06",
+            "titulo": "Fiscal de Supermercado é Esfaqueado no Pescoço em BH",
+            "resumo": "Um funcionário de um supermercado foi esfaqueado no pescoço após tentar impedir um furto na Avenida dos Andradas, no Centro de Belo Horizonte, nesta terça-feira (30).",
+            "imagem": "https://s2-g1.glbimg.com/EmVow8f0pKuAHWw4SKB7gpVuLjo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/X/Z7UBqBQreVwQ8ulBu6Yg/captura-de-tela-2026-07-01-113703.png",
+            "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/01/fiscal-de-supermercado-e-esfaqueado-no-pescoco-em-bh.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-01T15:38:38-03:00",
+            "relevancia": 0.4,
+            "destaque": false,
+            "tags": [
+              "fiscal",
+              "supermercado",
+              "esfaqueado"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-01-1600-07",
+            "titulo": "Inscrições para Processo Seletivo do IBGE no Amazonas Terminam Nesta Quarta-Feira",
+            "resumo": "As inscrições para o processo seletivo simplificado do Instituto Brasileiro de Geografia e Estatística (IBGE) terminam nesta quarta-feira (1º), até as 23h.",
+            "imagem": "https://s2-g1.glbimg.com/ItqHxOFmJNzuWrb7GIrGcEtu4UQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/2/7/m4dGWiSpAIqACIIBxeHg/ibge.jpg",
+            "link": "https://g1.globo.com/am/amazonas/noticia/2026/07/01/inscricoes-para-processo-seletivo-do-ibge-no-amazonas-terminam-nesta-quarta-feira-1o.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-01T15:44:07-03:00",
+            "relevancia": 0.3,
+            "destaque": false,
+            "tags": [
+              "ibge",
+              "inscrições",
+              "processo seletivo"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-01-1600-08",
+            "titulo": "Flávio Repudia Fala de Paulo Figueiredo Sobre Mulheres",
+            "resumo": "A equipe do pré-candidato do PL à Presidência, Flávio Bolsonaro (RJ), divulgou nota nesta quarta-feira (1º) em que afirma que o senador repudiou as falas de Paulo Figueiredo sobre mulheres.",
+            "imagem": null,
+            "link": "https://g1.globo.com/politica/noticia/2026/07/01/flavio-repudia-fala-de-paulo-figueiredo-sobre-mulheres-e-diz-que-empresario-nao-faz-parte-de-pre-campanha-diz-equipe.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-01T15:44:16-03:00",
+            "relevancia": 0.2,
+            "destaque": false,
+            "tags": [
+              "flávio",
+              "paulo figueiredo",
+              "mulheres"
+            ]
+          }
+        ]
+      },
+      "ciencia": {
+        "slug": "ciencia",
+        "nome": "Ciência",
+        "artigos": [
+          {
+            "id": "ciencia-2026-07-01-2100-01",
+            "titulo": "Vitamina D: O Sol Resolve a Falta?",
+            "resumo": "Níveis baixos de vitamina D podem afetar a saúde óssea e o sistema imunológico. Um estudo recente alerta sobre a importância de manter níveis adequados de vitamina D.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/vitamina-d-deficiencia-idosos-minorias-etnicas/",
+            "fonte": "Giz Brasil",
+            "publicado_em": "2026-07-01T18:08:31.000Z",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "saude",
+              "vitamina d"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-01-2100-02",
+            "titulo": "Meteorito no Saara Revela Evidências de Protoplaneta Perdido",
+            "resumo": "Um fragmento de angrita encontrado no deserto do Saara contém minerais que indicam formação sob pressão extrema em um corpo celeste do tamanho da Lua ou de Marte.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/meteorito-saara-protoplaneta-perdido/",
+            "fonte": "Giz Brasil",
+            "publicado_em": "2026-07-01T15:53:08.000Z",
+            "relevancia": 0.7,
+            "destaque": false,
+            "tags": [
+              "espaco",
+              "meteorito"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-01-2100-03",
+            "titulo": "Nova Espécie de Microrganismo Adaptado a Frio e Calor Extremos",
+            "resumo": "Pesquisadoras descobrem nova espécie de microrganismo que vive em uma ilha vulcânica na Antártida, adaptada a condições extremas de frio e calor.",
+            "imagem": "https://agencia.fapesp.br/files/upload/58238/n3-meio.jpg",
+            "link": "https://gizbr.uol.com.br/pesquisadoras-descobrem-nova-especie-de-microrganismo-adaptado-a-frio-e-calor-extremos-na-antartida/",
+            "fonte": "Giz Brasil",
+            "publicado_em": "2026-07-01T10:01:25.000Z",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "biologia",
+              "antartida"
+            ]
+          }
+        ]
+      },
+      "futebol": {
+        "slug": "futebol",
+        "nome": "Futebol",
+        "artigos": [
+          {
+            "id": "f1",
+            "titulo": "Clube paulista anuncia contratação para a próxima temporada",
+            "resumo": "Reforço chega para disputar posição no meio-campo a partir do segundo semestre.",
+            "imagem": null,
+            "link": "#",
+            "fonte": "ge.globo",
+            "publicado_em": "2026-06-30T12:00:00-03:00"
+          }
+        ]
+      },
+      "curiosidades": {
+        "slug": "curiosidades",
+        "nome": "Curiosidades",
+        "artigos": [
+          {
+            "id": "u1",
+            "titulo": "Por que bocejamos? Ciência ainda não tem resposta definitiva",
+            "resumo": "Diferentes teorias tentam explicar o fenômeno, da regulação térmica à empatia social.",
+            "imagem": null,
+            "link": "#",
+            "fonte": "Mundo Estranho",
+            "publicado_em": "2026-06-29T18:00:00-03:00"
+          }
+        ]
+      },
+      "tecnologia": {
+        "slug": "tecnologia",
+        "nome": "Tecnologia",
+        "artigos": [
+          {
+            "id": "tecnologia-2026-07-01-2100-01",
+            "titulo": "ChatGPT, Gemini ou Claude: Quando Vale a Pena Pagar?",
+            "resumo": "As três principais IAs já fazem bastante coisa sem cobrar nada, mas a diferença aparece quando o usuário passa a depender delas todos os dias.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2026/06/comarativo.jpg",
+            "link": "https://gizbr.uol.com.br/planos-pagos-inteligencia-artificial-quando-vale-pena/",
+            "fonte": "Giz Brasil",
+            "publicado_em": "2026-07-01T14:16:27.000Z",
+            "relevancia": 0.9,
+            "destaque": true,
+            "tags": [
+              "ia",
+              "tecnologia"
+            ]
+          },
+          {
+            "id": "tecnologia-2026-07-01-2100-02",
+            "titulo": "Diagnóstico de PC com IA: Use ChatGPT e Gemini para Otimizar seu Windows",
+            "resumo": "Método usa relatório nativo MSINFO32 para gerar análise de hardware e software.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/diagnosticar-pc-ia-msinfo32/",
+            "fonte": "Giz Brasil",
+            "publicado_em": "2026-06-30T19:58:37.000Z",
+            "relevancia": 0.5,
+            "destaque": false,
+            "tags": [
+              "pc",
+              "otimizacao"
+            ]
+          }
+        ]
+      },
+      "cultura": {
+        "slug": "cultura",
+        "nome": "Cultura",
+        "artigos": [
+          {
+            "id": "cultura-2026-07-01-2100-01",
+            "titulo": "Mauricio de Sousa: De Enredo de Carnaval a Patrimônio Cultural",
+            "resumo": "Mais de 30 mil pessoas lotaram o Anhembi para um desfile que transformou a trajetória do criador da Turma da Mônica em espetáculo.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/3006-90-anos-mauricio-layout_site-CAPA.jpg",
+            "link": "https://super.abril.com.br/cultura/como-mauricio-de-sousa-virou-enredo-de-carnaval-e-patrimonio-cultural-de-sao-paulo/",
+            "fonte": "Super Abril",
+            "publicado_em": "2026-06-30T19:00:36.000Z",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "cultura",
+              "carnaval"
+            ]
+          }
+        ]
+      },
+      "atualidades": {
+        "slug": "atualidades",
+        "nome": "Atualidades",
+        "artigos": [
+          {
+            "id": "atualidades-2026-07-01-2100-01",
+            "titulo": "Dois Congos na África: Por Que Existem e Quais São as Diferenças?",
+            "resumo": "A classificação da República Democrática do Congo na Copa do Mundo traz à tona dúvidas sobre o país e seu vizinho, a República do Congo.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/0107-dois-congos-africa-layout_site.jpg",
+            "link": "https://super.abril.com.br/historia/por-que-existem-dois-congos-na-africa-e-um-e-mais-democratico-que-o-outro/",
+            "fonte": "Super Abril",
+            "publicado_em": "2026-07-01T11:00:46.000Z",
+            "relevancia": 0.7,
+            "destaque": true,
+            "tags": [
+              "africa",
+              "congos"
+            ]
+          }
+        ]
+      },
+      "comportamento": {
+        "slug": "comportamento",
+        "nome": "Comportamento & Sociedade",
+        "artigos": [
+          {
+            "id": "comportamento-2026-07-01-2100-01",
+            "titulo": "Refrigerante e Suco na Infância Pode Elevar Risco de Pressão Alta",
+            "resumo": "Dados apontam que duas ou mais porções diárias de bebidas adoçadas aumentam em 52% o risco de pressão alta.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/bebidas-adocadas-infancia-risco-hipertensao/",
+            "fonte": "Giz Brasil",
+            "publicado_em": "2026-06-30T17:09:18.000Z",
+            "relevancia": 0.6,
+            "destaque": true,
+            "tags": [
+              "saude",
+              "alimentacao"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
