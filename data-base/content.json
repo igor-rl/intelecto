@@ -1,8 +1,8 @@
 {
   "jornal": {
     "nome": "Atualidades & Intelecto",
-    "atualizado_em": "2026-06-30T18:04:00.000Z",
-    "edicao": "2026-06-30",
+    "atualizado_em": "2026-07-01T06:00:00.000Z",
+    "edicao": "2026-07-01",
     "destaques": [
       {
         "id": "noticias-2026-06-30-1734-01",
@@ -203,51 +203,51 @@
         "nome": "Ciência",
         "artigos": [
           {
-            "id": "ciencia-2026-06-30-2104-01",
-            "titulo": "Fóssil de dinossauro da Antártida é descrito após 40 anos",
-            "resumo": "O osso de 82 milhões de anos pertenceu a um titanossauro de cerca de sete metros que viveu quando a Antártida era coberta por florestas.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/3006-dinossauro-antartica-layout_site-CAPA.jpg",
-            "link": "https://super.abril.com.br/ciencia/primeiro-fossil-de-dinossauro-da-antartida-e-descrito-apos-40-anos-esquecido-em-uma-gaveta/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-06-30T21:00:34+00:00",
-            "relevancia": 0.8,
+            "id": "ciencia-2026-07-01-0900-01",
+            "titulo": "Descoberta de 31 espécies em águas profundas na costa brasileira",
+            "resumo": "Uma expedição utilizou tecnologias 3D com laser para documentar novas espécies em águas internacionais próxima à costa brasileira, resultando na descoberta de 31 espécies em apenas duas semanas.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/3006-especies-aguas-profundas-layout_site-CAPA.jpg",
+            "link": "https://super.abril.com.br/ciencia/em-duas-semanas-31-especies-foram-descobertas-em-aguas-profundas-na-costa-brasileira-confira-fotos/",
+            "fonte": "Super",
+            "publicado_em": "2026-06-30T22:00:59+00:00",
+            "relevancia": 0.9,
             "destaque": true,
             "tags": [
-              "dinossauro",
-              "antartida",
-              "fossil"
+              "biologia",
+              "oceano",
+              "descobertas"
             ]
           },
           {
-            "id": "ciencia-2026-06-30-2104-02",
-            "titulo": "Asteroides em forma de amendoim",
-            "resumo": "A NASA revelou um asteroide em forma de amendoim que gira como um pião torto.",
-            "imagem": null,
-            "link": "https://gizbr.uol.com.br/asteroide-donaldjohanson-sonda-lucy-nasa/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-06-30T13:40:32+00:00",
-            "relevancia": 0.6,
+            "id": "ciencia-2026-07-01-0900-02",
+            "titulo": "Primeiro fóssil de dinossauro da Antártida é descrito após 40 anos esquecido",
+            "resumo": "O fóssil de um titanossauro de cerca de sete metros que viveu há 82 milhões de anos foi descrito após ser esquecido em uma gaveta por 40 anos.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/3006-dinossauro-antartica-layout_site-CAPA.jpg",
+            "link": "https://super.abril.com.br/ciencia/primeiro-fossil-de-dinossauro-da-antartida-e-descrito-apos-40-anos-esquecido-em-uma-gaveta/",
+            "fonte": "Super",
+            "publicado_em": "2026-06-30T21:00:34+00:00",
+            "relevancia": 0.8,
             "destaque": false,
             "tags": [
-              "asteroide",
+              "paleontologia",
+              "dinossauros",
+              "antartida"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-01-0900-03",
+            "titulo": "Robô da Nasa encontra carbono em Marte e reforça pistas sobre possível vida antiga",
+            "resumo": "Um robô da Nasa encontrou carbono em Marte, o que pode ser um sinal de vida antiga no planeta.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/2906-perseverance-layout_site.jpg",
+            "link": "https://super.abril.com.br/ciencia/robo-da-nasa-encontra-materia-organica-em-marte-e-reforca-pistas-sobre-possivel-vida-antiga/",
+            "fonte": "Super",
+            "publicado_em": "2026-06-30T11:00:47+00:00",
+            "relevancia": 0.7,
+            "destaque": false,
+            "tags": [
               "nasa",
-              "amendoim"
-            ]
-          },
-          {
-            "id": "ciencia-2026-06-30-2104-03",
-            "titulo": "Menor gato já encontrado",
-            "resumo": "Um gato de 300 mil anos foi encontrado na China.",
-            "imagem": null,
-            "link": "https://gizbr.uol.com.br/menor-felino-fossil-prionailurus-kurteni/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-06-29T20:17:32+00:00",
-            "relevancia": 0.4,
-            "destaque": false,
-            "tags": [
-              "gato",
-              "china",
-              "fossil"
+              "marte",
+              "vida extraterrestre"
             ]
           }
         ]
@@ -287,28 +287,28 @@
         "nome": "Tecnologia",
         "artigos": [
           {
-            "id": "tecnologia-2026-06-30-2104-01",
-            "titulo": "Diagnóstico de PC com IA",
-            "resumo": "Um método usa relatório nativo MSINFO32 para gerar análise de hardware e software.",
+            "id": "tecnologia-2026-07-01-0900-01",
+            "titulo": "Diagnóstico de PC com IA: use ChatGPT e Gemini para otimizar seu Windows",
+            "resumo": "Um método que utiliza o relatório nativo MSINFO32 para gerar análise de hardware e software pode ser usado para otimizar o Windows com a ajuda da IA.",
             "imagem": null,
             "link": "https://gizbr.uol.com.br/diagnosticar-pc-ia-msinfo32/",
-            "fonte": "Desconhecida",
+            "fonte": "GizBR",
             "publicado_em": "2026-06-30T19:58:37+00:00",
-            "relevancia": 0.7,
-            "destaque": true,
+            "relevancia": 0.6,
+            "destaque": false,
             "tags": [
               "ia",
-              "diagnostico",
-              "pc"
+              "windows",
+              "otimizacao"
             ]
           },
           {
-            "id": "tecnologia-2026-06-30-2104-02",
-            "titulo": "Casa Branca controla acesso a novo algoritmo da OpenAI",
-            "resumo": "O GPT-5.6 só poderá ser usado por empresas previamente aprovadas.",
+            "id": "tecnologia-2026-07-01-0900-02",
+            "titulo": "Casa Branca vai controlar acesso a novo algoritmo da OpenAI",
+            "resumo": "A Casa Branca vai controlar o acesso ao novo algoritmo da OpenAI, o GPT-5.6, que só poderá ser usado por empresas previamente aprovadas.",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/2906-casa-branca-layout_site.jpg",
             "link": "https://super.abril.com.br/coluna/bruno-garattoni/casa-branca-vai-controlar-acesso-a-novo-algoritmo-da-openai/",
-            "fonte": "Desconhecida",
+            "fonte": "Super",
             "publicado_em": "2026-06-29T21:00:41+00:00",
             "relevancia": 0.5,
             "destaque": false,
@@ -325,35 +325,19 @@
         "nome": "Cultura",
         "artigos": [
           {
-            "id": "cultura-2026-06-30-2104-01",
-            "titulo": "Mauricio de Sousa virou enredo de Carnaval",
-            "resumo": "Mais de 30 mil pessoas lotaram o Anhembi para um desfile que transformou a trajetória do criador da Turma da Mônica em espetáculo.",
+            "id": "cultura-2026-07-01-0900-01",
+            "titulo": "Mauricio de Sousa virou enredo de Carnaval e patrimônio cultural de São Paulo",
+            "resumo": "Mauricio de Sousa, criador da Turma da Mônica, teve sua trajetória transformada em espetáculo e se tornou patrimônio cultural de São Paulo.",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/3006-90-anos-mauricio-layout_site-CAPA.jpg",
             "link": "https://super.abril.com.br/cultura/como-mauricio-de-sousa-virou-enredo-de-carnaval-e-patrimonio-cultural-de-sao-paulo/",
-            "fonte": "Desconhecida",
+            "fonte": "Super",
             "publicado_em": "2026-06-30T19:00:36+00:00",
-            "relevancia": 0.6,
-            "destaque": true,
-            "tags": [
-              "mauricio de sousa",
-              "carnaval",
-              "turma da monica"
-            ]
-          },
-          {
-            "id": "cultura-2026-06-30-2104-02",
-            "titulo": "Uniforme principal do Japão é azul",
-            "resumo": "A seleção já tentou adotar as cores da bandeira do país, mas voltou atrás depois de uma sequência de maus resultados.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/2906-japao-camisa-azul-layout_site.jpg",
-            "link": "https://super.abril.com.br/cultura/uniforme-japao/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-06-29T19:45:32+00:00",
             "relevancia": 0.4,
             "destaque": false,
             "tags": [
-              "japao",
-              "uniforme",
-              "azul"
+              "mauricio de sousa",
+              "turma da monica",
+              "cultura"
             ]
           }
         ]
