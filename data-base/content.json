@@ -1,7 +1,7 @@
 {
   "jornal": {
     "nome": "Atualidades & Intelecto",
-    "atualizado_em": "2026-07-01T13:00:00.000Z",
+    "atualizado_em": "2026-07-01T18:00:00.000Z",
     "edicao": "2026-07-01",
     "destaques": [
       {
@@ -180,51 +180,48 @@
         "nome": "Ciência",
         "artigos": [
           {
-            "id": "ciencia-2026-07-01-1500-01",
-            "titulo": "Nova espécie de microrganismo adaptado a frio e calor extremos na Antártida",
-            "resumo": "Pesquisadoras descobrem nova espécie de microrganismo que vive em uma ilha vulcânica do continente gelado. A descoberta é uma peça importante no quebra-cabeças da evolução das arqueias.",
-            "imagem": "https://agencia.fapesp.br/files/upload/58238/n3-meio.jpg",
-            "link": "https://gizbr.uol.com.br/pesquisadoras-descobrem-nova-especie-de-microrganismo-adaptado-a-frio-e-calor-extremos-na-antartida/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-01T10:01:25-03:00",
+            "id": "ciencia-2026-07-01-2100-01",
+            "titulo": "Vitamina D: O Sol Resolve a Falta?",
+            "resumo": "Níveis baixos de vitamina D podem afetar a saúde óssea e o sistema imunológico. Um estudo recente alerta sobre a importância de manter níveis adequados de vitamina D.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/vitamina-d-deficiencia-idosos-minorias-etnicas/",
+            "fonte": "Giz Brasil",
+            "publicado_em": "2026-07-01T18:08:31.000Z",
             "relevancia": 0.8,
             "destaque": true,
             "tags": [
-              "antartida",
-              "microrganismo",
-              "descoberta"
+              "saude",
+              "vitamina d"
             ]
           },
           {
-            "id": "ciencia-2026-07-01-1500-02",
-            "titulo": "Primeiro fóssil de dinossauro da Antártida é descrito após 40 anos esquecido",
-            "resumo": "O osso de 82 milhões de anos pertenceu a um titanossauro que viveu quando a Antártida era coberta por florestas.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/3006-dinossauro-antartica-layout_site-CAPA.jpg",
-            "link": "https://super.abril.com.br/ciencia/primeiro-fossil-de-dinossauro-da-antartida-e-descrito-apos-40-anos-esquecido-em-uma-gaveta/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-06-30T21:00:34-03:00",
+            "id": "ciencia-2026-07-01-2100-02",
+            "titulo": "Meteorito no Saara Revela Evidências de Protoplaneta Perdido",
+            "resumo": "Um fragmento de angrita encontrado no deserto do Saara contém minerais que indicam formação sob pressão extrema em um corpo celeste do tamanho da Lua ou de Marte.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/meteorito-saara-protoplaneta-perdido/",
+            "fonte": "Giz Brasil",
+            "publicado_em": "2026-07-01T15:53:08.000Z",
+            "relevancia": 0.7,
+            "destaque": false,
+            "tags": [
+              "espaco",
+              "meteorito"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-01-2100-03",
+            "titulo": "Nova Espécie de Microrganismo Adaptado a Frio e Calor Extremos",
+            "resumo": "Pesquisadoras descobrem nova espécie de microrganismo que vive em uma ilha vulcânica na Antártida, adaptada a condições extremas de frio e calor.",
+            "imagem": "https://agencia.fapesp.br/files/upload/58238/n3-meio.jpg",
+            "link": "https://gizbr.uol.com.br/pesquisadoras-descobrem-nova-especie-de-microrganismo-adaptado-a-frio-e-calor-extremos-na-antartida/",
+            "fonte": "Giz Brasil",
+            "publicado_em": "2026-07-01T10:01:25.000Z",
             "relevancia": 0.6,
             "destaque": false,
             "tags": [
-              "antartida",
-              "dinossauro",
-              "fossil"
-            ]
-          },
-          {
-            "id": "ciencia-2026-07-01-1500-03",
-            "titulo": "Robô da Nasa encontra carbono em Marte e reforça pistas sobre possível vida antiga",
-            "resumo": "Achado ocorreu em rochas de uma região que já abrigou um lago; agora, cientistas tentam descobrir se as moléculas têm origem biológica ou geológica.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/2906-perseverance-layout_site.jpg",
-            "link": "https://super.abril.com.br/ciencia/robo-da-nasa-encontra-materia-organica-em-marte-e-reforca-pistas-sobre-possivel-vida-antiga/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-06-30T11:00:47-03:00",
-            "relevancia": 0.9,
-            "destaque": false,
-            "tags": [
-              "marte",
-              "nasa",
-              "vida"
+              "biologia",
+              "antartida"
             ]
           }
         ]
@@ -264,35 +261,33 @@
         "nome": "Tecnologia",
         "artigos": [
           {
-            "id": "tecnologia-2026-07-01-1500-01",
-            "titulo": "ChatGPT, Gemini ou Claude: quando vale a pena pagar?",
-            "resumo": "As três principais IAs já fazem bastante coisa sem cobrar nada. A diferença aparece quando o usuário passa a depender delas todos os dias.",
+            "id": "tecnologia-2026-07-01-2100-01",
+            "titulo": "ChatGPT, Gemini ou Claude: Quando Vale a Pena Pagar?",
+            "resumo": "As três principais IAs já fazem bastante coisa sem cobrar nada, mas a diferença aparece quando o usuário passa a depender delas todos os dias.",
             "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2026/06/comarativo.jpg",
             "link": "https://gizbr.uol.com.br/planos-pagos-inteligencia-artificial-quando-vale-pena/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-01T14:16:27-03:00",
-            "relevancia": 0.7,
+            "fonte": "Giz Brasil",
+            "publicado_em": "2026-07-01T14:16:27.000Z",
+            "relevancia": 0.9,
             "destaque": true,
             "tags": [
               "ia",
-              "chatgpt",
-              "gemini"
+              "tecnologia"
             ]
           },
           {
-            "id": "tecnologia-2026-07-01-1500-02",
-            "titulo": "Diagnóstico de PC com IA: use ChatGPT e Gemini para otimizar seu Windows",
+            "id": "tecnologia-2026-07-01-2100-02",
+            "titulo": "Diagnóstico de PC com IA: Use ChatGPT e Gemini para Otimizar seu Windows",
             "resumo": "Método usa relatório nativo MSINFO32 para gerar análise de hardware e software.",
             "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
             "link": "https://gizbr.uol.com.br/diagnosticar-pc-ia-msinfo32/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-06-30T19:58:37-03:00",
+            "fonte": "Giz Brasil",
+            "publicado_em": "2026-06-30T19:58:37.000Z",
             "relevancia": 0.5,
             "destaque": false,
             "tags": [
-              "ia",
-              "chatgpt",
-              "windows"
+              "pc",
+              "otimizacao"
             ]
           }
         ]
@@ -302,19 +297,18 @@
         "nome": "Cultura",
         "artigos": [
           {
-            "id": "cultura-2026-07-01-1500-01",
-            "titulo": "Como Mauricio de Sousa virou enredo de Carnaval e patrimônio cultural de São Paulo",
+            "id": "cultura-2026-07-01-2100-01",
+            "titulo": "Mauricio de Sousa: De Enredo de Carnaval a Patrimônio Cultural",
             "resumo": "Mais de 30 mil pessoas lotaram o Anhembi para um desfile que transformou a trajetória do criador da Turma da Mônica em espetáculo.",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/3006-90-anos-mauricio-layout_site-CAPA.jpg",
             "link": "https://super.abril.com.br/cultura/como-mauricio-de-sousa-virou-enredo-de-carnaval-e-patrimonio-cultural-de-sao-paulo/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-06-30T19:00:36-03:00",
-            "relevancia": 0.6,
+            "fonte": "Super Abril",
+            "publicado_em": "2026-06-30T19:00:36.000Z",
+            "relevancia": 0.8,
             "destaque": true,
             "tags": [
-              "mauricio de sousa",
-              "carnaval",
-              "cultura"
+              "cultura",
+              "carnaval"
             ]
           }
         ]
@@ -324,19 +318,39 @@
         "nome": "Atualidades",
         "artigos": [
           {
-            "id": "atualidades-2026-07-01-1500-01",
-            "titulo": "Caltech Welcomes Astrophysicist Ray Jayawardhana as New President",
-            "resumo": "Ray Jayawardhana começa sua gestão como o 10º presidente do California Institute of Technology.",
-            "imagem": "https://www.nasa.gov/wp-content/uploads/2026/06/jayawardhana-ray-jpl-campus-d2026-0106-rl1006.jpg?w=2048",
-            "link": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-welcomes-astrophysicist-ray-jayawardhana-as-new-president/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-01T14:16:28-03:00",
-            "relevancia": 0.8,
+            "id": "atualidades-2026-07-01-2100-01",
+            "titulo": "Dois Congos na África: Por Que Existem e Quais São as Diferenças?",
+            "resumo": "A classificação da República Democrática do Congo na Copa do Mundo traz à tona dúvidas sobre o país e seu vizinho, a República do Congo.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/0107-dois-congos-africa-layout_site.jpg",
+            "link": "https://super.abril.com.br/historia/por-que-existem-dois-congos-na-africa-e-um-e-mais-democratico-que-o-outro/",
+            "fonte": "Super Abril",
+            "publicado_em": "2026-07-01T11:00:46.000Z",
+            "relevancia": 0.7,
             "destaque": true,
             "tags": [
-              "caltech",
-              "ray jayawardhana",
-              "presidente"
+              "africa",
+              "congos"
+            ]
+          }
+        ]
+      },
+      "comportamento": {
+        "slug": "comportamento",
+        "nome": "Comportamento & Sociedade",
+        "artigos": [
+          {
+            "id": "comportamento-2026-07-01-2100-01",
+            "titulo": "Refrigerante e Suco na Infância Pode Elevar Risco de Pressão Alta",
+            "resumo": "Dados apontam que duas ou mais porções diárias de bebidas adoçadas aumentam em 52% o risco de pressão alta.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/bebidas-adocadas-infancia-risco-hipertensao/",
+            "fonte": "Giz Brasil",
+            "publicado_em": "2026-06-30T17:09:18.000Z",
+            "relevancia": 0.6,
+            "destaque": true,
+            "tags": [
+              "saude",
+              "alimentacao"
             ]
           }
         ]
