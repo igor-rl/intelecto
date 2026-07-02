@@ -1,9 +1,15 @@
 {
   "jornal": {
     "nome": "Atualidades & Intelecto",
-    "atualizado_em": "2026-07-01T21:00:00.000Z",
-    "edicao": "2026-07-01",
+    "atualizado_em": "2026-07-02T07:00:00.000Z",
+    "edicao": "2026-07-02",
     "destaques": [
+      {
+        "id": "noticias-2026-07-02-1000-01",
+        "titulo": "Ataque russo mata 13 pessoas em Kyiv",
+        "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+        "categoria_slug": "noticias"
+      },
       {
         "id": "ciencia-2026-07-01-1500-03",
         "titulo": "Robô da Nasa encontra carbono em Marte e reforça pistas sobre possível vida antiga",
@@ -11,34 +17,28 @@
         "categoria_slug": "ciencia"
       },
       {
-        "id": "noticias-2026-07-02-0000-01",
-        "titulo": "Piauí recebe consultórios odontológicos móveis",
-        "link": "https://g1.globo.com/pi/piaui/noticia/2026/07/01/consultorios-odontologicos-moveis.ghtml",
-        "categoria_slug": "noticias"
+        "id": "ciencia-2026-07-01-1500-01",
+        "titulo": "Nova espécie de microrganismo adaptado a frio e calor extremos na Antártida",
+        "link": "https://gizbr.uol.com.br/pesquisadoras-descobrem-nova-especie-de-microrganismo-adaptado-a-frio-e-calor-extremos-na-antartida/",
+        "categoria_slug": "ciencia"
       },
       {
         "id": "atualidades-2026-07-01-1500-01",
         "titulo": "Caltech Welcomes Astrophysicist Ray Jayawardhana as New President",
         "link": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-welcomes-astrophysicist-ray-jayawardhana-as-new-president/",
         "categoria_slug": "atualidades"
-      },
-      {
-        "id": "ciencia-2026-07-01-1500-01",
-        "titulo": "Nova espécie de microrganismo adaptado a frio e calor extremos na Antártida",
-        "link": "https://gizbr.uol.com.br/pesquisadoras-descobrem-nova-especie-de-microrganismo-adaptado-a-frio-e-calor-extremos-na-antartida/",
-        "categoria_slug": "ciencia"
       }
     ],
     "capa": {
-      "categoria_slug": "ciencia",
-      "categoria_nome": "Ciência",
-      "titulo": "Robô da Nasa encontra carbono em Marte e reforça pistas sobre possível vida antiga",
-      "subtitulo": "Achado ocorreu em rochas de uma região que já abrigou um lago; agora, cientístas tentam descobrir se as moléculas têmm origem biológica ou geológica...",
-      "resumo": "Achado ocorreu em rochas de uma região que já abrigou um lago; agora, cientístas tentam descobrir se as moléculas têmm origem biológica ou geológica.",
-      "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/2906-perseverance-layout_site.jpg",
-      "link": "https://super.abril.com.br/ciencia/robo-da-nasa-encontra-materia-organica-em-marte-e-reforca-pistas-sobre-possivel-vida-antiga/",
-      "fonte": "Desconhecida",
-      "publicado_em": "2026-06-30T11:00:47-03:00"
+      "categoria_slug": "noticias",
+      "categoria_nome": "Notícias",
+      "titulo": "Ataque russo mata 13 pessoas em Kyiv",
+      "subtitulo": "Um ataque russo em Kyiv resultou na morte de pelo menos 13 pessoas...",
+      "resumo": "Um ataque russo em Kyiv resultou na morte de pelo menos 13 pessoas. O prefeito da cidade declarou luto após o que foi descrito como o 'mais massivo ataque' à capital ucraniana.",
+      "imagem": null,
+      "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC",
+      "publicado_em": "2026-07-02T09:15:16.000Z"
     },
     "categorias": {
       "noticias": {
@@ -46,147 +46,147 @@
         "nome": "Notícias",
         "artigos": [
           {
-            "id": "noticias-2026-07-02-0000-01",
-            "titulo": "Piauí recebe consultórios odontológicos móveis",
-            "resumo": "O Piauí recebeu 47 consultórios odontológicos móveis para ampliar o atendimento em municípios do interior. Esses consultórios serão destinados a áreas onde o acesso a serviços odontológicos é limitado.",
-            "imagem": "https://s2-g1.glbimg.com/ix-kIljEXh2MvTqdMbbyzD_3DyE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/B/8hBIIDTRmgcVR6cIZQVw/edicao-imagens-g1-2026-07-01t203735.738.jpg",
-            "link": "https://g1.globo.com/pi/piaui/noticia/2026/07/01/consultorios-odontologicos-moveis.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-01T23:39:08-03:00",
-            "relevancia": 0.8,
+            "id": "noticias-2026-07-02-1000-01",
+            "titulo": "Ataque russo mata 13 pessoas em Kyiv",
+            "resumo": "Um ataque russo em Kyiv resultou na morte de pelo menos 13 pessoas. O prefeito da cidade declarou luto após o que foi descrito como o 'mais massivo ataque' à capital ucraniana.",
+            "imagem": null,
+            "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+            "fonte": "BBC",
+            "publicado_em": "2026-07-02T09:15:16.000Z",
+            "relevancia": 0.9,
             "destaque": true,
             "tags": [
-              "saúde",
-              "piauí",
-              "odontologia"
+              "russia",
+              "ucrania",
+              "ataque"
             ]
           },
           {
-            "id": "noticias-2026-07-02-0000-02",
-            "titulo": "Aquário de Santos será entregue até dezembro",
-            "resumo": "O Aquário Municipal de Santos, no litoral de São Paulo, tem nova previsão para conclusão das obras de revitalização. O aquário deve ser entregue até dezembro após acordos de mais de R$ 9 milhões.",
-            "imagem": "https://s2-g1.glbimg.com/4s1YlopeBqX6uJ6VOtgShACfwpc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/a/x/k9obwOQ0uJDuF2Ae8BSw/fotos-g1-2025-12-17t173608.113.png",
-            "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/01/aquario-de-santos-sera-entregue-ate-dezembro-apos-acordos-de-mais-de-r-9-milhoes-entenda.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-01T23:39:20-03:00",
-            "relevancia": 0.6,
-            "destaque": false,
-            "tags": [
-              "cultura",
-              "santos",
-              "aquário"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-02-0000-03",
-            "titulo": "Governador do Colorado demite oficiais que se opuseram à libertação de Tina Peters",
-            "resumo": "O governador do Colorado, Jared Polis, demitiu membros da comissão de clemência que se opuseram à libertação de Tina Peters, que foi condenada por manipular máquinas de votação.",
-            "imagem": null,
-            "link": "https://www.nytimes.com/2026/07/01/us/jared-polis-tina-peters-clemency-board-fired.html",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-01T23:34:25-03:00",
-            "relevancia": 0.4,
-            "destaque": false,
-            "tags": [
-              "política",
-              "estados unidos",
-              "corrupção"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-02-0000-04",
-            "titulo": "Cunhado é preso por jogar álcool em mulher trans em MS",
-            "resumo": "Um cunhado foi preso por jogar álcool em uma mulher trans em Mato Grosso do Sul. A vítima sofreu queimaduras graves e está internada.",
-            "imagem": "https://s2-g1.glbimg.com/Mflp5P-5r6oZ_SgcQEtalZGc1G4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/R/xS1GhDRnGhbfP9xPfZKA/para-o-g1-60-.jpg",
-            "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/07/01/cunhado-joga-alcool-em-mulher-trans-e-e-preso-em-ms-vitima-teve-queimaduras-e-policia-investiga-crime.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-01T23:32:52-03:00",
+            "id": "noticias-2026-07-02-1000-02",
+            "titulo": "Hospitais alemães enfrentam desafios com o calor",
+            "resumo": "Hospitais na Alemanha estão enfrentando desafios devido ao calor, especialmente aqueles sem ar condicionado. Isso está afetando a capacidade de atendimento e o conforto dos pacientes.",
+            "imagem": "https://s2-g1.glbimg.com/3uhjRjlRHaqFMihmRBJMgxjjJw0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/7/n3JretQE6B60yD3girGg/ap26178691117125.jpg",
+            "link": "https://g1.globo.com/saude/noticia/2026/07/02/sem-ar-condicionado-calor-desafia-hospitais-alemaes.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-02T09:48:34.000Z",
             "relevancia": 0.7,
             "destaque": false,
             "tags": [
-              "crime",
-              "mato grosso do sul",
-              "direitos humanos"
+              "alemanha",
+              "hospitais",
+              "calor"
             ]
           },
           {
-            "id": "noticias-2026-07-02-0000-05",
-            "titulo": "Menina de oito anos fica em estado grave após ser atropelada em Ribeirão Preto",
-            "resumo": "Uma menina de oito anos ficou em estado grave após ser atropelada em Ribeirão Preto, São Paulo. O acidente ocorreu na tarde de quarta-feira.",
-            "imagem": "https://s2-g1.glbimg.com/q8GvHxi7a47kF0lovs06WgcvMNM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/j/g86vm3QRmAlp4z1XpbIQ/atropelamento.jpg",
-            "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/01/menina-de-oito-anos-fica-em-estado-grave-apos-ser-atropelada-em-ribeirao-preto-video.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-01T23:30:03-03:00",
-            "relevancia": 0.5,
-            "destaque": false,
-            "tags": [
-              "acidente",
-              "ribeirão preto",
-              "segurança"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-02-0000-06",
-            "titulo": "Servidor da Prefeitura de Mirassol D’Oeste é encontrado morto",
-            "resumo": "Um servidor da Prefeitura de Mirassol D’Oeste foi encontrado morto dentro de sua casa após ser baleado. A polícia investiga o caso.",
-            "imagem": "https://s2-g1.glbimg.com/YlHMxIK9CtorYEi3itwW9P2QTfY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/6/4zAFdpQt6rPJJbTnMmfQ/videos-g1-2026-07-01t192536.554.jpg",
-            "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/01/servidor-da-prefeitura-de-mirassol-doeste-e-morto-a-tiros-dentro-de-casa-em-mt.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-01T23:29:22-03:00",
+            "id": "noticias-2026-07-02-1000-03",
+            "titulo": "Defesa Civil emite aviso para risco de elevação do nível do Guaíba",
+            "resumo": "A Defesa Civil de Porto Alegre emitiu um aviso hidrológico preventivo devido ao risco de elevação do nível do Guaíba. Isso pode afetar áreas próximas ao rio.",
+            "imagem": "https://s2-g1.glbimg.com/I9GHY3XOXg8i4XW5ZHLNRvFUtuw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/Z/sVvjQuTqunsb5OUofAkA/6128979-714f92f9221adc2.jpg",
+            "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/02/defesa-civil-aviso-porto-alegre-nivel-guaiba.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-02T09:44:32.000Z",
             "relevancia": 0.6,
             "destaque": false,
             "tags": [
-              "crime",
-              "mato grosso",
-              "segurança"
+              "porto alegre",
+              "guaiba",
+              "defesa civil"
             ]
           },
           {
-            "id": "noticias-2026-07-02-0000-07",
-            "titulo": "Piracicaba inicia entrega de uniformes escolares",
-            "resumo": "A Prefeitura de Piracicaba iniciou a entrega de uniformes escolares para a rede municipal de ensino após um ano e meio de atraso.",
-            "imagem": "https://s2-g1.glbimg.com/z5u5EC2xUHv98N6p_TaEaTvuFyY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/w/QTeMxzT5ul9JNlORFV6A/whatsapp-image-2026-07-01-at-18.39.31.jpeg",
-            "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/01/apos-um-ano-e-meio-de-atraso-piracicaba-inicia-entrega-de-uniformes-para-alunos-da-rede-municipal.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-01T23:22:20-03:00",
+            "id": "noticias-2026-07-02-1000-04",
+            "titulo": "Interdição da Refit aumenta arrecadação no Rio de Janeiro",
+            "resumo": "A interdição da Refit resultou em um aumento de 34,9% na arrecadação de impostos no setor de combustíveis no estado do Rio de Janeiro.",
+            "imagem": "https://s2-g1.glbimg.com/0b2axVYFEmZTrA9y5akgwBrIUcA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/f/1oURjFS2qXbWOTZBBcTw/globo-canal-4-20251127-2000-frame-61188.jpeg",
+            "link": "https://g1.globo.com/politica/blog/octavio-guedes/post/2026/07/02/interdicao-da-refit-traz-aumento-de-arrecadacao-no-rio-de-janeiro.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-02T09:41:41.000Z",
+            "relevancia": 0.5,
+            "destaque": false,
+            "tags": [
+              "rio de janeiro",
+              "refit",
+              "arrecadacao"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-02-1000-05",
+            "titulo": "Operação contra esquema de receptação de celulares roubados",
+            "resumo": "A Polícia Civil realizou uma operação contra um esquema de receptação de celulares roubados e furtados no Rio de Janeiro, com ações em 10 estados.",
+            "imagem": null,
+            "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/02/policia-civil-operacao-esquema-de-receptacao-de-celulares-roubados-e-furtados.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-02T09:41:29.000Z",
             "relevancia": 0.4,
             "destaque": false,
             "tags": [
-              "educação",
-              "piracicaba",
-              "uniformes"
+              "policia civil",
+              "receptacao",
+              "celulares"
             ]
           },
           {
-            "id": "noticias-2026-07-02-0000-08",
-            "titulo": "Jovem é preso por série de furtos no Piauí",
-            "resumo": "Um jovem foi preso por uma série de furtos em Altos, no Piauí. Ele é conhecido como 'Fandango' e tem 20 anos.",
-            "imagem": "https://s2-g1.glbimg.com/47AY8elwCwxNqmnESTTNS4pTe9s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/w/iWGEwFTYytyRQd7aNJQw/edicao-imagens-g1-12-.png",
-            "link": "https://g1.globo.com/pi/piaui/noticia/2026/07/01/jovem-investigado-furtos.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-01T23:15:16-03:00",
-            "relevancia": 0.5,
+            "id": "noticias-2026-07-02-1000-06",
+            "titulo": "Diarista suspeita de matar casal de idosos é presa",
+            "resumo": "Uma diarista suspeita de matar um casal de idosos em Belo Horizonte foi presa em Itabira, Minas Gerais.",
+            "imagem": "https://s2-g1.glbimg.com/6GSBMhhSuno48l66mvkXvF4o68A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/4/b2o9t0SNadfs1bAI2lTQ/chuva-distrito-paulo-camilo-1-22-.png",
+            "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/02/diarista-suspeita-de-matar-casal-de-idosos-em-bh-e-presa-em-itabira.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-02T09:28:31.000Z",
+            "relevancia": 0.3,
             "destaque": false,
             "tags": [
-              "crime",
-              "piauí",
-              "furto"
+              "diarista",
+              "casal de idosos",
+              "presa"
             ]
           },
           {
-            "id": "noticias-2026-07-02-0000-09",
-            "titulo": "Filho de ex-deputado vai a júri por feminicídio em MT",
-            "resumo": "O filho de um ex-deputado vai a júri por feminicídio em Mato Grosso. Ele é acusado de matar uma mulher e um homem.",
-            "imagem": "https://s2-g1.glbimg.com/89_98__5UFgb9xBhBZyCJfChvl4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/w/6/Mc8NcORg2S4t4SeDM9kg/whatsapp-image-2024-02-28-at-11.20.51.jpeg",
-            "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/01/filho-de-ex-deputado-acusado-de-matar-casal-vai-a-juri-com-acesso-restrito-em-mt.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-01T23:14:47-03:00",
-            "relevancia": 0.6,
+            "id": "noticias-2026-07-02-1000-07",
+            "titulo": "Mulher morre em colisão entre moto e carreta",
+            "resumo": "Uma mulher morreu após uma colisão entre uma moto e uma carreta na BR-101, em João Pessoa.",
+            "imagem": "https://s2-g1.glbimg.com/ZuuY500huR_A7uYXBfX0_8AEg4Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/V/5gxKcqRFu8rB4TGFmGfw/moto.jpg",
+            "link": "https://g1.globo.com/pb/paraiba/noticia/2026/07/02/mulher-morre-apos-colisao-entre-moto-e-carreta-na-br-101-em-joao-pessoa.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-02T09:33:37.000Z",
+            "relevancia": 0.2,
             "destaque": false,
             "tags": [
-              "crime",
-              "mato grosso",
-              "feminicídio"
+              "colisao",
+              "moto",
+              "carreta"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-02-1000-08",
+            "titulo": "Quanto tempo uma pessoa pode sobreviver sob os escombros",
+            "resumo": "Um terremoto recente na Venezuela levantou questões sobre a capacidade de sobrevivência de pessoas sob escombros. A resposta depende de vários fatores.",
+            "imagem": "https://s2-g1.glbimg.com/nwsUvjxC3dZEvT2Pr1oWYY7oO6I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/C/rW3BecRJG1dh0r3Njn0g/414f5a83-b96a-4657-8871-581cb4157229.png",
+            "link": "https://g1.globo.com/mundo/noticia/2026/07/02/quanto-tempo-uma-pessoa-pode-sobreviver-sob-os-escombros-apos-um-terremoto.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-02T09:02:33.000Z",
+            "relevancia": 0.1,
+            "destaque": false,
+            "tags": [
+              "terremoto",
+              "sobrevivencia",
+              "escombros"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-02-1000-09",
+            "titulo": "Varizes e gestação",
+            "resumo": "A gestação pode ser um período de risco para o desenvolvimento de varizes. É importante buscar tratamento antes da gravidez.",
+            "imagem": "https://s2-g1.glbimg.com/qj12qkL6DODVvm_nf0B01PJ84X4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/Q/9dwK1WSQqS3eREUhXOBA/imagem-materia-10.jpg",
+            "link": "https://g1.globo.com/mg/centro-oeste/especial-publicitario/lys-clinica-vascular-tratamento-de-varizes-sem-internacao-e-com-tecnologia-de-ponta/noticia/2026/07/02/varizes-e-gestacao-a-janela-de-tratamento-que-muitas-mulheres-descobrem-tarde.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-02T09:01:03.000Z",
+            "relevancia": 0.1,
+            "destaque": false,
+            "tags": [
+              "varizes",
+              "gestacao",
+              "tratamento"
             ]
           }
         ]
