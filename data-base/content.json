@@ -5,40 +5,40 @@
     "edicao": "2026-07-02",
     "destaques": [
       {
-        "id": "noticias-2026-07-02-1000-01",
-        "titulo": "Ataque russo mata 13 pessoas em Kyiv",
-        "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+        "id": "noticias-2026-07-02-1600-01",
+        "titulo": "Vaticano excomunga centenas de milhares de seguidores de seita católica",
+        "link": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss",
         "categoria_slug": "noticias"
       },
       {
-        "id": "ciencia-2026-07-01-1500-03",
-        "titulo": "Robô da Nasa encontra carbono em Marte e reforça pistas sobre possível vida antiga",
-        "link": "https://super.abril.com.br/ciencia/robo-da-nasa-encontra-materia-organica-em-marte-e-reforca-pistas-sobre-possivel-vida-antiga/",
-        "categoria_slug": "ciencia"
-      },
-      {
-        "id": "ciencia-2026-07-01-1500-01",
-        "titulo": "Nova espécie de microrganismo adaptado a frio e calor extremos na Antártida",
+        "id": "ciencia-2026-07-02-1600-01",
+        "titulo": "Descoberta de Nova Espécie de Microrganismo na Antártida",
         "link": "https://gizbr.uol.com.br/pesquisadoras-descobrem-nova-especie-de-microrganismo-adaptado-a-frio-e-calor-extremos-na-antartida/",
         "categoria_slug": "ciencia"
       },
       {
-        "id": "atualidades-2026-07-01-1500-01",
-        "titulo": "Caltech Welcomes Astrophysicist Ray Jayawardhana as New President",
-        "link": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-welcomes-astrophysicist-ray-jayawardhana-as-new-president/",
-        "categoria_slug": "atualidades"
+        "id": "tecnologia-2026-07-02-1600-02",
+        "titulo": "Planos Pagos de Inteligência Artificial",
+        "link": "https://gizbr.uol.com.br/planos-pagos-inteligencia-artificial-quando-vale-pena/",
+        "categoria_slug": "tecnologia"
+      },
+      {
+        "id": "cultura-2026-07-02-1600-01",
+        "titulo": "Além do Tupi, Outras Línguas Indígenas Deixaram Palavras no Português",
+        "link": "https://super.abril.com.br/coluna/oraculo/alem-do-tupi-outras-linguas-indigenas-deixaram-palavras-no-portugues/",
+        "categoria_slug": "cultura"
       }
     ],
     "capa": {
       "categoria_slug": "noticias",
       "categoria_nome": "Notícias",
-      "titulo": "Ataque russo mata 13 pessoas em Kyiv",
-      "subtitulo": "Um ataque russo em Kyiv resultou na morte de pelo menos 13 pessoas...",
-      "resumo": "Um ataque russo em Kyiv resultou na morte de pelo menos 13 pessoas. O prefeito da cidade declarou luto após o que foi descrito como o 'mais massivo ataque' à capital ucraniana.",
+      "titulo": "Vaticano excomunga centenas de milhares de seguidores de seita católica",
+      "subtitulo": "O Vaticano excomungou cerca de 600.000 seguidores da Sociedade de São Pio X, uma seita católica...",
+      "resumo": "O Vaticano excomungou cerca de 600.000 seguidores da Sociedade de São Pio X, uma seita católica. A decisão foi tomada devido às divergências doutrinárias e à recusa da seita em aceitar as reformas da Igreja Católica.",
       "imagem": null,
-      "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC",
-      "publicado_em": "2026-07-02T09:15:16.000Z"
+      "publicado_em": "2026-07-02T15:44:45.000Z"
     },
     "categorias": {
       "noticias": {
@@ -46,147 +46,147 @@
         "nome": "Notícias",
         "artigos": [
           {
-            "id": "noticias-2026-07-02-1000-01",
-            "titulo": "Ataque russo mata 13 pessoas em Kyiv",
-            "resumo": "Um ataque russo em Kyiv resultou na morte de pelo menos 13 pessoas. O prefeito da cidade declarou luto após o que foi descrito como o 'mais massivo ataque' à capital ucraniana.",
+            "id": "noticias-2026-07-02-1600-01",
+            "titulo": "Vaticano excomunga centenas de milhares de seguidores de seita católica",
+            "resumo": "O Vaticano excomungou cerca de 600.000 seguidores da Sociedade de São Pio X, uma seita católica. A decisão foi tomada devido às divergências doutrinárias e à recusa da seita em aceitar as reformas da Igreja Católica.",
             "imagem": null,
-            "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+            "link": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss",
             "fonte": "BBC",
-            "publicado_em": "2026-07-02T09:15:16.000Z",
-            "relevancia": 0.9,
+            "publicado_em": "2026-07-02T15:44:45.000Z",
+            "relevancia": 0.8,
             "destaque": true,
             "tags": [
-              "russia",
-              "ucrania",
-              "ataque"
+              "vaticano",
+              "excomunhao",
+              "seita catolica"
             ]
           },
           {
-            "id": "noticias-2026-07-02-1000-02",
-            "titulo": "Hospitais alemães enfrentam desafios com o calor",
-            "resumo": "Hospitais na Alemanha estão enfrentando desafios devido ao calor, especialmente aqueles sem ar condicionado. Isso está afetando a capacidade de atendimento e o conforto dos pacientes.",
-            "imagem": "https://s2-g1.glbimg.com/3uhjRjlRHaqFMihmRBJMgxjjJw0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/7/n3JretQE6B60yD3girGg/ap26178691117125.jpg",
-            "link": "https://g1.globo.com/saude/noticia/2026/07/02/sem-ar-condicionado-calor-desafia-hospitais-alemaes.ghtml",
+            "id": "noticias-2026-07-02-1600-02",
+            "titulo": "OABRJ lança cartilha para alertar população sobre golpe do falso advogado",
+            "resumo": "A Ordem dos Advogados do Brasil no Rio de Janeiro lançou uma cartilha para alertar a população sobre o golpe do falso advogado, que tem crescido em todo o país.",
+            "imagem": "https://s2-g1.glbimg.com/cnHxDY8DMRvU551S7_LAxuCOrW0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/p/35u5B0RryTkQOIuAqhfQ/oan-friburgo.jpg",
+            "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/07/02/oabrj-lanca-cartilha-para-alertar-populacao-sobre-golpe-do-falso-advogado-crime-que-cresce-em-todo-o-pais.ghtml",
             "fonte": "G1",
-            "publicado_em": "2026-07-02T09:48:34.000Z",
-            "relevancia": 0.7,
-            "destaque": false,
-            "tags": [
-              "alemanha",
-              "hospitais",
-              "calor"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-02-1000-03",
-            "titulo": "Defesa Civil emite aviso para risco de elevação do nível do Guaíba",
-            "resumo": "A Defesa Civil de Porto Alegre emitiu um aviso hidrológico preventivo devido ao risco de elevação do nível do Guaíba. Isso pode afetar áreas próximas ao rio.",
-            "imagem": "https://s2-g1.glbimg.com/I9GHY3XOXg8i4XW5ZHLNRvFUtuw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/Z/sVvjQuTqunsb5OUofAkA/6128979-714f92f9221adc2.jpg",
-            "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/02/defesa-civil-aviso-porto-alegre-nivel-guaiba.ghtml",
-            "fonte": "G1",
-            "publicado_em": "2026-07-02T09:44:32.000Z",
+            "publicado_em": "2026-07-02T15:47:42.000Z",
             "relevancia": 0.6,
             "destaque": false,
             "tags": [
-              "porto alegre",
-              "guaiba",
-              "defesa civil"
+              "oabrj",
+              "golpe",
+              "falso advogado"
             ]
           },
           {
-            "id": "noticias-2026-07-02-1000-04",
-            "titulo": "Interdição da Refit aumenta arrecadação no Rio de Janeiro",
-            "resumo": "A interdição da Refit resultou em um aumento de 34,9% na arrecadação de impostos no setor de combustíveis no estado do Rio de Janeiro.",
-            "imagem": "https://s2-g1.glbimg.com/0b2axVYFEmZTrA9y5akgwBrIUcA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/f/1oURjFS2qXbWOTZBBcTw/globo-canal-4-20251127-2000-frame-61188.jpeg",
-            "link": "https://g1.globo.com/politica/blog/octavio-guedes/post/2026/07/02/interdicao-da-refit-traz-aumento-de-arrecadacao-no-rio-de-janeiro.ghtml",
+            "id": "noticias-2026-07-02-1600-03",
+            "titulo": "Casal do DF é preso suspeito de vender remédio abortivo pela internet",
+            "resumo": "Um casal do Distrito Federal foi preso suspeito de vender remédio abortivo pela internet há três anos.",
+            "imagem": "https://s2-g1.glbimg.com/cRKiV4AvykJUkks9TJ1BHZhEkEw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/x/3tUQEER6Cx8Ikrf2KAVQ/g1-4-.jpg",
+            "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/07/02/casal-do-df-e-preso-suspeito-de-vender-remedio-abortivo-pela-internet.ghtml",
             "fonte": "G1",
-            "publicado_em": "2026-07-02T09:41:41.000Z",
+            "publicado_em": "2026-07-02T15:45:30.000Z",
             "relevancia": 0.5,
             "destaque": false,
             "tags": [
-              "rio de janeiro",
-              "refit",
-              "arrecadacao"
+              "casal",
+              "preso",
+              "remedio abortivo"
             ]
           },
           {
-            "id": "noticias-2026-07-02-1000-05",
-            "titulo": "Operação contra esquema de receptação de celulares roubados",
-            "resumo": "A Polícia Civil realizou uma operação contra um esquema de receptação de celulares roubados e furtados no Rio de Janeiro, com ações em 10 estados.",
-            "imagem": null,
-            "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/02/policia-civil-operacao-esquema-de-receptacao-de-celulares-roubados-e-furtados.ghtml",
+            "id": "noticias-2026-07-02-1600-04",
+            "titulo": "Ex-major da PMDF é expulso da corporação após condenação por esquema de propina",
+            "resumo": "Um ex-major da Polícia Militar do Distrito Federal foi expulso da corporação após ser condenado por chefiar um esquema de propina.",
+            "imagem": "https://s2-g1.glbimg.com/9AYbUMgih9bAdtqSfUTkhpD3Vnk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/M/O9MtigREiK6r0ODsIfPw/expulsa-pm-df1-frame-139.jpeg",
+            "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/07/02/ex-major-da-pmdf-e-expulso-da-corporacao-apos-condenacao-por-esquema-de-propina.ghtml",
             "fonte": "G1",
-            "publicado_em": "2026-07-02T09:41:29.000Z",
+            "publicado_em": "2026-07-02T15:42:11.000Z",
             "relevancia": 0.4,
             "destaque": false,
             "tags": [
-              "policia civil",
-              "receptacao",
-              "celulares"
+              "ex-major",
+              "expulso",
+              "esquema de propina"
             ]
           },
           {
-            "id": "noticias-2026-07-02-1000-06",
-            "titulo": "Diarista suspeita de matar casal de idosos é presa",
-            "resumo": "Uma diarista suspeita de matar um casal de idosos em Belo Horizonte foi presa em Itabira, Minas Gerais.",
-            "imagem": "https://s2-g1.glbimg.com/6GSBMhhSuno48l66mvkXvF4o68A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/4/b2o9t0SNadfs1bAI2lTQ/chuva-distrito-paulo-camilo-1-22-.png",
-            "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/02/diarista-suspeita-de-matar-casal-de-idosos-em-bh-e-presa-em-itabira.ghtml",
+            "id": "noticias-2026-07-02-1600-05",
+            "titulo": "Grupo que aplicava golpes com sites falsos no Amapá é alvo de operação em Goiás e Santa Catarina",
+            "resumo": "A Polícia Civil do Amapá cumpriu 9 mandados de prisão preventiva e 22 de busca e apreensão em Goiás e Santa Catarina contra um grupo que aplicava golpes com sites falsos.",
+            "imagem": "https://s2-g1.glbimg.com/REGICA-kCa0xjT-ezXfQxQU7_v8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/Y/wtW7DBSViWjoi0AGAO9Q/whatsapp-image-2026-07-02-at-12.12.48.jpeg",
+            "link": "https://g1.globo.com/ap/amapa/noticia/2026/07/02/grupo-que-aplicava-golpes-com-sites-falsos-no-amapa-e-alvo-de-operacao-em-goias-e-santa-catarina.ghtml",
             "fonte": "G1",
-            "publicado_em": "2026-07-02T09:28:31.000Z",
+            "publicado_em": "2026-07-02T15:33:27.000Z",
             "relevancia": 0.3,
             "destaque": false,
             "tags": [
-              "diarista",
-              "casal de idosos",
-              "presa"
+              "grupo",
+              "golpes",
+              "sites falsos"
             ]
           },
           {
-            "id": "noticias-2026-07-02-1000-07",
-            "titulo": "Mulher morre em colisão entre moto e carreta",
-            "resumo": "Uma mulher morreu após uma colisão entre uma moto e uma carreta na BR-101, em João Pessoa.",
-            "imagem": "https://s2-g1.glbimg.com/ZuuY500huR_A7uYXBfX0_8AEg4Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/V/5gxKcqRFu8rB4TGFmGfw/moto.jpg",
-            "link": "https://g1.globo.com/pb/paraiba/noticia/2026/07/02/mulher-morre-apos-colisao-entre-moto-e-carreta-na-br-101-em-joao-pessoa.ghtml",
+            "id": "noticias-2026-07-02-1600-06",
+            "titulo": "Suspeito de aplicar golpes contra idosos é preso em Itapecuru-Mirim",
+            "resumo": "Um homem foi preso em Itapecuru-Mirim por aplicar golpes contra idosos.",
+            "imagem": "https://s2-g1.glbimg.com/mg3sBjNezujYWKadI_0IovyqUAQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/J/nEJAF7Ryu2JS25I2xtuA/whatsapp-image-2026-07-02-at-12.29.19.jpg",
+            "link": "https://g1.globo.com/ma/maranhao/noticia/2026/07/02/suspeito-de-aplicar-golpes-contra-idosos-e-preso-em-itapecuru-mirim.ghtml",
             "fonte": "G1",
-            "publicado_em": "2026-07-02T09:33:37.000Z",
+            "publicado_em": "2026-07-02T15:38:35.000Z",
             "relevancia": 0.2,
             "destaque": false,
             "tags": [
-              "colisao",
-              "moto",
-              "carreta"
+              "suspeito",
+              "golpes",
+              "idosos"
             ]
           },
           {
-            "id": "noticias-2026-07-02-1000-08",
-            "titulo": "Quanto tempo uma pessoa pode sobreviver sob os escombros",
-            "resumo": "Um terremoto recente na Venezuela levantou questões sobre a capacidade de sobrevivência de pessoas sob escombros. A resposta depende de vários fatores.",
-            "imagem": "https://s2-g1.glbimg.com/nwsUvjxC3dZEvT2Pr1oWYY7oO6I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/C/rW3BecRJG1dh0r3Njn0g/414f5a83-b96a-4657-8871-581cb4157229.png",
-            "link": "https://g1.globo.com/mundo/noticia/2026/07/02/quanto-tempo-uma-pessoa-pode-sobreviver-sob-os-escombros-apos-um-terremoto.ghtml",
+            "id": "noticias-2026-07-02-1600-07",
+            "titulo": "Muro desaba, idoso fica preso sob escombros e mobiliza bombeiros em Caraguatatuba",
+            "resumo": "Um idoso de 70 anos ficou preso sob escombros após um muro desabar em Caraguatatuba.",
+            "imagem": "https://s2-g1.glbimg.com/_-qUCWGHSveol3-h-i45WXlseAA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/5/ap4NuPRIWYV8gal7XBlw/texto-do-seu-paragrafo-2026-07-02t123218.169.png",
+            "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/02/muro-desaba-homem-fica-preso-sob-escombros-e-mobiliza-bombeiros-em-caraguatatuba.ghtml",
             "fonte": "G1",
-            "publicado_em": "2026-07-02T09:02:33.000Z",
+            "publicado_em": "2026-07-02T15:38:02.000Z",
             "relevancia": 0.1,
             "destaque": false,
             "tags": [
-              "terremoto",
-              "sobrevivencia",
-              "escombros"
+              "muro",
+              "desaba",
+              "idoso"
             ]
           },
           {
-            "id": "noticias-2026-07-02-1000-09",
-            "titulo": "Varizes e gestação",
-            "resumo": "A gestação pode ser um período de risco para o desenvolvimento de varizes. É importante buscar tratamento antes da gravidez.",
-            "imagem": "https://s2-g1.glbimg.com/qj12qkL6DODVvm_nf0B01PJ84X4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/Q/9dwK1WSQqS3eREUhXOBA/imagem-materia-10.jpg",
-            "link": "https://g1.globo.com/mg/centro-oeste/especial-publicitario/lys-clinica-vascular-tratamento-de-varizes-sem-internacao-e-com-tecnologia-de-ponta/noticia/2026/07/02/varizes-e-gestacao-a-janela-de-tratamento-que-muitas-mulheres-descobrem-tarde.ghtml",
+            "id": "noticias-2026-07-02-1600-08",
+            "titulo": "Homem é preso suspeito de agredir enteada e ameaçar matar a família em Presidente Vargas",
+            "resumo": "Um homem foi preso em Presidente Vargas por agredir a enteada e ameaçar matar a família.",
+            "imagem": "https://s2-g1.glbimg.com/pQrDl8ZG-Yy4wY9Xk2867HU5qCk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/d/Rr9UVUSZOo1A6HtJfw4w/montagens-1920-x-1080-px-2026-07-02t123439.268.jpg",
+            "link": "https://g1.globo.com/ma/maranhao/noticia/2026/07/02/homem-e-preso-suspeito-de-agredir-enteada-e-ameacar-matar-a-familia-em-presidente-vargas.ghtml",
             "fonte": "G1",
-            "publicado_em": "2026-07-02T09:01:03.000Z",
+            "publicado_em": "2026-07-02T15:37:02.000Z",
             "relevancia": 0.1,
             "destaque": false,
             "tags": [
-              "varizes",
-              "gestacao",
-              "tratamento"
+              "homem",
+              "preso",
+              "agressao"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-02-1600-09",
+            "titulo": "Estudante denuncia intolerância religiosa após ser retirado de ônibus em Duque de Caxias",
+            "resumo": "Um estudante de 14 anos denunciou ter sido vítima de intolerância religiosa após ser retirado de um ônibus em Duque de Caxias.",
+            "imagem": "https://s2-g1.glbimg.com/S58L9xhtHN4K2BYzy1m5RLJ9E-0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/1/TbYdJrSfGD5STFYFCLaQ/rj1-limpo-20260702-1115-frame-105065.jpeg",
+            "link": "https://g1.globo.com/rj/rio-de-janeiro/rj1/noticia/2026/07/02/investiga-intolerancia-religiosa.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-02T15:40:54.000Z",
+            "relevancia": 0.1,
+            "destaque": false,
+            "tags": [
+              "estudante",
+              "intolerancia",
+              "religiosa"
             ]
           }
         ]
