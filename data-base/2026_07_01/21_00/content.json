@@ -1,0 +1,362 @@
+{
+  "jornal": {
+    "nome": "Atualidades & Intelecto",
+    "atualizado_em": "2026-07-01T21:00:00.000Z",
+    "edicao": "2026-07-01",
+    "destaques": [
+      {
+        "id": "ciencia-2026-07-01-1500-03",
+        "titulo": "Robô da Nasa encontra carbono em Marte e reforça pistas sobre possível vida antiga",
+        "link": "https://super.abril.com.br/ciencia/robo-da-nasa-encontra-materia-organica-em-marte-e-reforca-pistas-sobre-possivel-vida-antiga/",
+        "categoria_slug": "ciencia"
+      },
+      {
+        "id": "noticias-2026-07-02-0000-01",
+        "titulo": "Piauí recebe consultórios odontológicos móveis",
+        "link": "https://g1.globo.com/pi/piaui/noticia/2026/07/01/consultorios-odontologicos-moveis.ghtml",
+        "categoria_slug": "noticias"
+      },
+      {
+        "id": "atualidades-2026-07-01-1500-01",
+        "titulo": "Caltech Welcomes Astrophysicist Ray Jayawardhana as New President",
+        "link": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-welcomes-astrophysicist-ray-jayawardhana-as-new-president/",
+        "categoria_slug": "atualidades"
+      },
+      {
+        "id": "ciencia-2026-07-01-1500-01",
+        "titulo": "Nova espécie de microrganismo adaptado a frio e calor extremos na Antártida",
+        "link": "https://gizbr.uol.com.br/pesquisadoras-descobrem-nova-especie-de-microrganismo-adaptado-a-frio-e-calor-extremos-na-antartida/",
+        "categoria_slug": "ciencia"
+      }
+    ],
+    "capa": {
+      "categoria_slug": "ciencia",
+      "categoria_nome": "Ciência",
+      "titulo": "Robô da Nasa encontra carbono em Marte e reforça pistas sobre possível vida antiga",
+      "subtitulo": "Achado ocorreu em rochas de uma região que já abrigou um lago; agora, cientístas tentam descobrir se as moléculas têmm origem biológica ou geológica...",
+      "resumo": "Achado ocorreu em rochas de uma região que já abrigou um lago; agora, cientístas tentam descobrir se as moléculas têmm origem biológica ou geológica.",
+      "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/2906-perseverance-layout_site.jpg",
+      "link": "https://super.abril.com.br/ciencia/robo-da-nasa-encontra-materia-organica-em-marte-e-reforca-pistas-sobre-possivel-vida-antiga/",
+      "fonte": "Desconhecida",
+      "publicado_em": "2026-06-30T11:00:47-03:00"
+    },
+    "categorias": {
+      "noticias": {
+        "slug": "noticias",
+        "nome": "Notícias",
+        "artigos": [
+          {
+            "id": "noticias-2026-07-02-0000-01",
+            "titulo": "Piauí recebe consultórios odontológicos móveis",
+            "resumo": "O Piauí recebeu 47 consultórios odontológicos móveis para ampliar o atendimento em municípios do interior. Esses consultórios serão destinados a áreas onde o acesso a serviços odontológicos é limitado.",
+            "imagem": "https://s2-g1.glbimg.com/ix-kIljEXh2MvTqdMbbyzD_3DyE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/B/8hBIIDTRmgcVR6cIZQVw/edicao-imagens-g1-2026-07-01t203735.738.jpg",
+            "link": "https://g1.globo.com/pi/piaui/noticia/2026/07/01/consultorios-odontologicos-moveis.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-01T23:39:08-03:00",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "saúde",
+              "piauí",
+              "odontologia"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-02-0000-02",
+            "titulo": "Aquário de Santos será entregue até dezembro",
+            "resumo": "O Aquário Municipal de Santos, no litoral de São Paulo, tem nova previsão para conclusão das obras de revitalização. O aquário deve ser entregue até dezembro após acordos de mais de R$ 9 milhões.",
+            "imagem": "https://s2-g1.glbimg.com/4s1YlopeBqX6uJ6VOtgShACfwpc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/a/x/k9obwOQ0uJDuF2Ae8BSw/fotos-g1-2025-12-17t173608.113.png",
+            "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/01/aquario-de-santos-sera-entregue-ate-dezembro-apos-acordos-de-mais-de-r-9-milhoes-entenda.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-01T23:39:20-03:00",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "cultura",
+              "santos",
+              "aquário"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-02-0000-03",
+            "titulo": "Governador do Colorado demite oficiais que se opuseram à libertação de Tina Peters",
+            "resumo": "O governador do Colorado, Jared Polis, demitiu membros da comissão de clemência que se opuseram à libertação de Tina Peters, que foi condenada por manipular máquinas de votação.",
+            "imagem": null,
+            "link": "https://www.nytimes.com/2026/07/01/us/jared-polis-tina-peters-clemency-board-fired.html",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-01T23:34:25-03:00",
+            "relevancia": 0.4,
+            "destaque": false,
+            "tags": [
+              "política",
+              "estados unidos",
+              "corrupção"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-02-0000-04",
+            "titulo": "Cunhado é preso por jogar álcool em mulher trans em MS",
+            "resumo": "Um cunhado foi preso por jogar álcool em uma mulher trans em Mato Grosso do Sul. A vítima sofreu queimaduras graves e está internada.",
+            "imagem": "https://s2-g1.glbimg.com/Mflp5P-5r6oZ_SgcQEtalZGc1G4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/R/xS1GhDRnGhbfP9xPfZKA/para-o-g1-60-.jpg",
+            "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/07/01/cunhado-joga-alcool-em-mulher-trans-e-e-preso-em-ms-vitima-teve-queimaduras-e-policia-investiga-crime.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-01T23:32:52-03:00",
+            "relevancia": 0.7,
+            "destaque": false,
+            "tags": [
+              "crime",
+              "mato grosso do sul",
+              "direitos humanos"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-02-0000-05",
+            "titulo": "Menina de oito anos fica em estado grave após ser atropelada em Ribeirão Preto",
+            "resumo": "Uma menina de oito anos ficou em estado grave após ser atropelada em Ribeirão Preto, São Paulo. O acidente ocorreu na tarde de quarta-feira.",
+            "imagem": "https://s2-g1.glbimg.com/q8GvHxi7a47kF0lovs06WgcvMNM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/j/g86vm3QRmAlp4z1XpbIQ/atropelamento.jpg",
+            "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/01/menina-de-oito-anos-fica-em-estado-grave-apos-ser-atropelada-em-ribeirao-preto-video.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-01T23:30:03-03:00",
+            "relevancia": 0.5,
+            "destaque": false,
+            "tags": [
+              "acidente",
+              "ribeirão preto",
+              "segurança"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-02-0000-06",
+            "titulo": "Servidor da Prefeitura de Mirassol D’Oeste é encontrado morto",
+            "resumo": "Um servidor da Prefeitura de Mirassol D’Oeste foi encontrado morto dentro de sua casa após ser baleado. A polícia investiga o caso.",
+            "imagem": "https://s2-g1.glbimg.com/YlHMxIK9CtorYEi3itwW9P2QTfY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/6/4zAFdpQt6rPJJbTnMmfQ/videos-g1-2026-07-01t192536.554.jpg",
+            "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/01/servidor-da-prefeitura-de-mirassol-doeste-e-morto-a-tiros-dentro-de-casa-em-mt.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-01T23:29:22-03:00",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "crime",
+              "mato grosso",
+              "segurança"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-02-0000-07",
+            "titulo": "Piracicaba inicia entrega de uniformes escolares",
+            "resumo": "A Prefeitura de Piracicaba iniciou a entrega de uniformes escolares para a rede municipal de ensino após um ano e meio de atraso.",
+            "imagem": "https://s2-g1.glbimg.com/z5u5EC2xUHv98N6p_TaEaTvuFyY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/w/QTeMxzT5ul9JNlORFV6A/whatsapp-image-2026-07-01-at-18.39.31.jpeg",
+            "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/01/apos-um-ano-e-meio-de-atraso-piracicaba-inicia-entrega-de-uniformes-para-alunos-da-rede-municipal.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-01T23:22:20-03:00",
+            "relevancia": 0.4,
+            "destaque": false,
+            "tags": [
+              "educação",
+              "piracicaba",
+              "uniformes"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-02-0000-08",
+            "titulo": "Jovem é preso por série de furtos no Piauí",
+            "resumo": "Um jovem foi preso por uma série de furtos em Altos, no Piauí. Ele é conhecido como 'Fandango' e tem 20 anos.",
+            "imagem": "https://s2-g1.glbimg.com/47AY8elwCwxNqmnESTTNS4pTe9s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/w/iWGEwFTYytyRQd7aNJQw/edicao-imagens-g1-12-.png",
+            "link": "https://g1.globo.com/pi/piaui/noticia/2026/07/01/jovem-investigado-furtos.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-01T23:15:16-03:00",
+            "relevancia": 0.5,
+            "destaque": false,
+            "tags": [
+              "crime",
+              "piauí",
+              "furto"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-02-0000-09",
+            "titulo": "Filho de ex-deputado vai a júri por feminicídio em MT",
+            "resumo": "O filho de um ex-deputado vai a júri por feminicídio em Mato Grosso. Ele é acusado de matar uma mulher e um homem.",
+            "imagem": "https://s2-g1.glbimg.com/89_98__5UFgb9xBhBZyCJfChvl4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/w/6/Mc8NcORg2S4t4SeDM9kg/whatsapp-image-2024-02-28-at-11.20.51.jpeg",
+            "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/01/filho-de-ex-deputado-acusado-de-matar-casal-vai-a-juri-com-acesso-restrito-em-mt.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-01T23:14:47-03:00",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "crime",
+              "mato grosso",
+              "feminicídio"
+            ]
+          }
+        ]
+      },
+      "ciencia": {
+        "slug": "ciencia",
+        "nome": "Ciência",
+        "artigos": [
+          {
+            "id": "ciencia-2026-07-01-1500-01",
+            "titulo": "Nova espécie de microrganismo adaptado a frio e calor extremos na Antártida",
+            "resumo": "Pesquisadoras descobrem nova espécie de microrganismo que vive em uma ilha vulcânica do continente gelado. A descoberta é uma peça importante no quebra-cabeças da evolução das arqueias.",
+            "imagem": "https://agencia.fapesp.br/files/upload/58238/n3-meio.jpg",
+            "link": "https://gizbr.uol.com.br/pesquisadoras-descobrem-nova-especie-de-microrganismo-adaptado-a-frio-e-calor-extremos-na-antartida/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-01T10:01:25-03:00",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "antartida",
+              "microrganismo",
+              "descoberta"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-01-1500-02",
+            "titulo": "Primeiro fóssil de dinossauro da Antártida é descrito após 40 anos esquecido",
+            "resumo": "O osso de 82 milhões de anos pertenceu a um titanossauro que viveu quando a Antártida era coberta por florestas.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/3006-dinossauro-antartica-layout_site-CAPA.jpg",
+            "link": "https://super.abril.com.br/ciencia/primeiro-fossil-de-dinossauro-da-antartida-e-descrito-apos-40-anos-esquecido-em-uma-gaveta/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-06-30T21:00:34-03:00",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "antartida",
+              "dinossauro",
+              "fossil"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-01-1500-03",
+            "titulo": "Robô da Nasa encontra carbono em Marte e reforça pistas sobre possível vida antiga",
+            "resumo": "Achado ocorreu em rochas de uma região que já abrigou um lago; agora, cientistas tentam descobrir se as moléculas têm origem biológica ou geológica.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/2906-perseverance-layout_site.jpg",
+            "link": "https://super.abril.com.br/ciencia/robo-da-nasa-encontra-materia-organica-em-marte-e-reforca-pistas-sobre-possivel-vida-antiga/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-06-30T11:00:47-03:00",
+            "relevancia": 0.9,
+            "destaque": false,
+            "tags": [
+              "marte",
+              "nasa",
+              "vida"
+            ]
+          }
+        ]
+      },
+      "futebol": {
+        "slug": "futebol",
+        "nome": "Futebol",
+        "artigos": [
+          {
+            "id": "f1",
+            "titulo": "Clube paulista anuncia contratação para a próxima temporada",
+            "resumo": "Reforço chega para disputar posição no meio-campo a partir do segundo semestre.",
+            "imagem": null,
+            "link": "#",
+            "fonte": "ge.globo",
+            "publicado_em": "2026-06-30T12:00:00-03:00"
+          }
+        ]
+      },
+      "curiosidades": {
+        "slug": "curiosidades",
+        "nome": "Curiosidades",
+        "artigos": [
+          {
+            "id": "u1",
+            "titulo": "Por que bocejamos? Ciência ainda não tem resposta definitiva",
+            "resumo": "Diferentes teorias tentam explicar o fenômeno, da regulação térmica à empatia social.",
+            "imagem": null,
+            "link": "#",
+            "fonte": "Mundo Estranho",
+            "publicado_em": "2026-06-29T18:00:00-03:00"
+          }
+        ]
+      },
+      "tecnologia": {
+        "slug": "tecnologia",
+        "nome": "Tecnologia",
+        "artigos": [
+          {
+            "id": "tecnologia-2026-07-01-1500-01",
+            "titulo": "ChatGPT, Gemini ou Claude: quando vale a pena pagar?",
+            "resumo": "As três principais IAs já fazem bastante coisa sem cobrar nada. A diferença aparece quando o usuário passa a depender delas todos os dias.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2026/06/comarativo.jpg",
+            "link": "https://gizbr.uol.com.br/planos-pagos-inteligencia-artificial-quando-vale-pena/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-01T14:16:27-03:00",
+            "relevancia": 0.7,
+            "destaque": true,
+            "tags": [
+              "ia",
+              "chatgpt",
+              "gemini"
+            ]
+          },
+          {
+            "id": "tecnologia-2026-07-01-1500-02",
+            "titulo": "Diagnóstico de PC com IA: use ChatGPT e Gemini para otimizar seu Windows",
+            "resumo": "Método usa relatório nativo MSINFO32 para gerar análise de hardware e software.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/diagnosticar-pc-ia-msinfo32/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-06-30T19:58:37-03:00",
+            "relevancia": 0.5,
+            "destaque": false,
+            "tags": [
+              "ia",
+              "chatgpt",
+              "windows"
+            ]
+          }
+        ]
+      },
+      "cultura": {
+        "slug": "cultura",
+        "nome": "Cultura",
+        "artigos": [
+          {
+            "id": "cultura-2026-07-01-1500-01",
+            "titulo": "Como Mauricio de Sousa virou enredo de Carnaval e patrimônio cultural de São Paulo",
+            "resumo": "Mais de 30 mil pessoas lotaram o Anhembi para um desfile que transformou a trajetória do criador da Turma da Mônica em espetáculo.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/3006-90-anos-mauricio-layout_site-CAPA.jpg",
+            "link": "https://super.abril.com.br/cultura/como-mauricio-de-sousa-virou-enredo-de-carnaval-e-patrimonio-cultural-de-sao-paulo/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-06-30T19:00:36-03:00",
+            "relevancia": 0.6,
+            "destaque": true,
+            "tags": [
+              "mauricio de sousa",
+              "carnaval",
+              "cultura"
+            ]
+          }
+        ]
+      },
+      "atualidades": {
+        "slug": "atualidades",
+        "nome": "Atualidades",
+        "artigos": [
+          {
+            "id": "atualidades-2026-07-01-1500-01",
+            "titulo": "Caltech Welcomes Astrophysicist Ray Jayawardhana as New President",
+            "resumo": "Ray Jayawardhana começa sua gestão como o 10º presidente do California Institute of Technology.",
+            "imagem": "https://www.nasa.gov/wp-content/uploads/2026/06/jayawardhana-ray-jpl-campus-d2026-0106-rl1006.jpg?w=2048",
+            "link": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-welcomes-astrophysicist-ray-jayawardhana-as-new-president/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-01T14:16:28-03:00",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "caltech",
+              "ray jayawardhana",
+              "presidente"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
