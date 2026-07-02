@@ -5,9 +5,9 @@
     "edicao": "2026-07-02",
     "destaques": [
       {
-        "id": "noticias-2026-07-02-1600-01",
-        "titulo": "Vaticano excomunga centenas de milhares de seguidores de seita católica",
-        "link": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss",
+        "id": "noticias-2026-07-02-2100-01",
+        "titulo": "Ucrânia aumenta pressão militar sobre a Crimeia ocupada pela Rússia",
+        "link": "https://www.nytimes.com/2026/07/02/world/europe/russia-crimea-ukraine.html",
         "categoria_slug": "noticias"
       },
       {
@@ -32,13 +32,13 @@
     "capa": {
       "categoria_slug": "noticias",
       "categoria_nome": "Notícias",
-      "titulo": "Vaticano excomunga centenas de milhares de seguidores de seita católica",
-      "subtitulo": "O Vaticano excomungou cerca de 600.000 seguidores da Sociedade de São Pio X, uma seita católica...",
-      "resumo": "O Vaticano excomungou cerca de 600.000 seguidores da Sociedade de São Pio X, uma seita católica. A decisão foi tomada devido às divergências doutrinárias e à recusa da seita em aceitar as reformas da Igreja Católica.",
+      "titulo": "Ucrânia aumenta pressão militar sobre a Crimeia ocupada pela Rússia",
+      "subtitulo": "A Ucrânia está aumentando a pressão militar sobre a Crimeia, que foi anexada pela Rússia...",
+      "resumo": "A Ucrânia está aumentando a pressão militar sobre a Crimeia, que foi anexada pela Rússia. Isso inclui ataques com drones, falta de combustível e cortes de energia na região.",
       "imagem": null,
-      "link": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC",
-      "publicado_em": "2026-07-02T15:44:45.000Z"
+      "link": "https://www.nytimes.com/2026/07/02/world/europe/russia-crimea-ukraine.html",
+      "fonte": "Desconhecida",
+      "publicado_em": "2026-07-02T20:46:43.000Z"
     },
     "categorias": {
       "noticias": {
@@ -46,147 +46,147 @@
         "nome": "Notícias",
         "artigos": [
           {
-            "id": "noticias-2026-07-02-1600-01",
-            "titulo": "Vaticano excomunga centenas de milhares de seguidores de seita católica",
-            "resumo": "O Vaticano excomungou cerca de 600.000 seguidores da Sociedade de São Pio X, uma seita católica. A decisão foi tomada devido às divergências doutrinárias e à recusa da seita em aceitar as reformas da Igreja Católica.",
+            "id": "noticias-2026-07-02-2100-01",
+            "titulo": "Ucrânia aumenta pressão militar sobre a Crimeia ocupada pela Rússia",
+            "resumo": "A Ucrânia está aumentando a pressão militar sobre a Crimeia, que foi anexada pela Rússia. Isso inclui ataques com drones, falta de combustível e cortes de energia na região.",
             "imagem": null,
-            "link": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss",
-            "fonte": "BBC",
-            "publicado_em": "2026-07-02T15:44:45.000Z",
-            "relevancia": 0.8,
+            "link": "https://www.nytimes.com/2026/07/02/world/europe/russia-crimea-ukraine.html",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T20:46:43.000Z",
+            "relevancia": 0.9,
             "destaque": true,
             "tags": [
-              "vaticano",
-              "excomunhao",
-              "seita catolica"
+              "ucrania",
+              "russia",
+              "crimeia"
             ]
           },
           {
-            "id": "noticias-2026-07-02-1600-02",
-            "titulo": "OABRJ lança cartilha para alertar população sobre golpe do falso advogado",
-            "resumo": "A Ordem dos Advogados do Brasil no Rio de Janeiro lançou uma cartilha para alertar a população sobre o golpe do falso advogado, que tem crescido em todo o país.",
-            "imagem": "https://s2-g1.glbimg.com/cnHxDY8DMRvU551S7_LAxuCOrW0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/p/35u5B0RryTkQOIuAqhfQ/oan-friburgo.jpg",
-            "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/07/02/oabrj-lanca-cartilha-para-alertar-populacao-sobre-golpe-do-falso-advogado-crime-que-cresce-em-todo-o-pais.ghtml",
-            "fonte": "G1",
-            "publicado_em": "2026-07-02T15:47:42.000Z",
+            "id": "noticias-2026-07-02-2100-02",
+            "titulo": "Empresário alvo de sanções dos EUA diz estar desesperado",
+            "resumo": "Um empresário brasileiro alvo de sanções dos EUA disse estar desesperado devido às investigações da FBI. Ele foi sancionado pelo governo dos EUA em 1º de julho de 2026.",
+            "imagem": "https://s2-g1.glbimg.com/X2xCZ-r77EJEi4o0dprNxGCldos=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/D/xzuawHQJWS53jCAxHJXg/shimada-2.jpg",
+            "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/02/em-audio-empresario-alvo-de-sancoes-dos-eua-diz-que-esta-desesperado-por-fbi-estar-atras-dele-e-investigando-pesado.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T20:46:48.000Z",
+            "relevancia": 0.8,
+            "destaque": false,
+            "tags": [
+              "eua",
+              "sancao",
+              "empresario"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-02-2100-03",
+            "titulo": "Chacina de Camaragibe: MPPE denuncia oito PMs por morte de duas vítimas",
+            "resumo": "Oito policiais militares foram denunciados à Justiça pelo assassinato de duas das vítimas da chacina de Camaragibe. A chacina resultou na morte de nove pessoas.",
+            "imagem": "https://s2-g1.glbimg.com/ppIXW3T_GfobN8zyEW2-FhsbkbQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/r/h/3ekpCfTR2igqxEn6AryA/vitimas-1.jpg",
+            "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/07/02/chacina-de-camaragibe-mppe-denuncia-oito-pms-por-morte-de-duas-vitimas.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T20:45:05.000Z",
+            "relevancia": 0.7,
+            "destaque": false,
+            "tags": [
+              "chacina",
+              "camaragibe",
+              "pms"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-02-2100-04",
+            "titulo": "Operação contra desvio de recursos públicos prende homem em flagrante na BA",
+            "resumo": "Um homem foi preso em flagrante durante uma operação contra o desvio de recursos públicos no município de Eunápolis, na Bahia. Três mandados de busca e apreensão foram cumpridos.",
+            "imagem": "https://s2-g1.glbimg.com/m6bJs2nZb5ePgGog9U_wxZKulU0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/S/XbqEmPQiAfA1Py3azIyw/handler.jpg",
+            "link": "https://g1.globo.com/ba/bahia/noticia/2026/07/02/operacao-na-ba.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T20:44:12.000Z",
             "relevancia": 0.6,
             "destaque": false,
             "tags": [
-              "oabrj",
-              "golpe",
-              "falso advogado"
+              "operacao",
+              "desvio",
+              "recursos"
             ]
           },
           {
-            "id": "noticias-2026-07-02-1600-03",
-            "titulo": "Casal do DF é preso suspeito de vender remédio abortivo pela internet",
-            "resumo": "Um casal do Distrito Federal foi preso suspeito de vender remédio abortivo pela internet há três anos.",
-            "imagem": "https://s2-g1.glbimg.com/cRKiV4AvykJUkks9TJ1BHZhEkEw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/x/3tUQEER6Cx8Ikrf2KAVQ/g1-4-.jpg",
-            "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/07/02/casal-do-df-e-preso-suspeito-de-vender-remedio-abortivo-pela-internet.ghtml",
-            "fonte": "G1",
-            "publicado_em": "2026-07-02T15:45:30.000Z",
+            "id": "noticias-2026-07-02-2100-05",
+            "titulo": "Trabalhador, esposa e filha de 5 anos são resgatados em situação análoga à escravidão em Mirabela",
+            "resumo": "Um trabalhador, sua esposa e filha de 5 anos foram resgatados em situação análoga à escravidão em Mirabela. A ação contou com o apoio da Polícia Militar.",
+            "imagem": "https://s2-g1.glbimg.com/7fod6OXNHe0aHKwEZZ3e4HEHvSc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/W/v53ji1Q7Op1AkkqACCiA/whatsapp-image-2026-07-02-at-12.23.22.jpeg",
+            "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/07/02/trabalhador-esposa-e-filha-de-5-anos-sao-resgatados-em-situacao-analoga-a-escravidao-em-mirabela.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T20:44:56.000Z",
             "relevancia": 0.5,
             "destaque": false,
             "tags": [
-              "casal",
-              "preso",
-              "remedio abortivo"
+              "escravidao",
+              "mirabela",
+              "resgate"
             ]
           },
           {
-            "id": "noticias-2026-07-02-1600-04",
-            "titulo": "Ex-major da PMDF é expulso da corporação após condenação por esquema de propina",
-            "resumo": "Um ex-major da Polícia Militar do Distrito Federal foi expulso da corporação após ser condenado por chefiar um esquema de propina.",
-            "imagem": "https://s2-g1.glbimg.com/9AYbUMgih9bAdtqSfUTkhpD3Vnk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/M/O9MtigREiK6r0ODsIfPw/expulsa-pm-df1-frame-139.jpeg",
-            "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/07/02/ex-major-da-pmdf-e-expulso-da-corporacao-apos-condenacao-por-esquema-de-propina.ghtml",
-            "fonte": "G1",
-            "publicado_em": "2026-07-02T15:42:11.000Z",
+            "id": "noticias-2026-07-02-2100-06",
+            "titulo": "Alunos da rede pública concluem cursos gratuitos de tecnologia da Carreta Digital em Roraima",
+            "resumo": "Estudantes da rede pública de Roraima concluíram cursos gratuitos da Carreta Digital, uma escola móvel que oferece qualificação em tecnologia.",
+            "imagem": "https://s2-g1.glbimg.com/ZXOORRHxtqrgK5QkCQ-_3yTf6ok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/6/wEV9eHRKSiat2EkA8qfQ/20260702-152254.jpg.jpeg",
+            "link": "https://g1.globo.com/rr/roraima/noticia/2026/07/02/alunos-da-rede-publica-concluem-cursos-gratuitos-de-tecnologia-da-carreta-digital-em-roraima.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T20:42:49.000Z",
             "relevancia": 0.4,
             "destaque": false,
             "tags": [
-              "ex-major",
-              "expulso",
-              "esquema de propina"
+              "carreta",
+              "digital",
+              "roraima"
             ]
           },
           {
-            "id": "noticias-2026-07-02-1600-05",
-            "titulo": "Grupo que aplicava golpes com sites falsos no Amapá é alvo de operação em Goiás e Santa Catarina",
-            "resumo": "A Polícia Civil do Amapá cumpriu 9 mandados de prisão preventiva e 22 de busca e apreensão em Goiás e Santa Catarina contra um grupo que aplicava golpes com sites falsos.",
-            "imagem": "https://s2-g1.glbimg.com/REGICA-kCa0xjT-ezXfQxQU7_v8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/Y/wtW7DBSViWjoi0AGAO9Q/whatsapp-image-2026-07-02-at-12.12.48.jpeg",
-            "link": "https://g1.globo.com/ap/amapa/noticia/2026/07/02/grupo-que-aplicava-golpes-com-sites-falsos-no-amapa-e-alvo-de-operacao-em-goias-e-santa-catarina.ghtml",
-            "fonte": "G1",
-            "publicado_em": "2026-07-02T15:33:27.000Z",
+            "id": "noticias-2026-07-02-2100-07",
+            "titulo": "Jundiaí monitora três bairros após morte de militar do Exército por febre maculosa",
+            "resumo": "A Prefeitura de Jundiaí está monitorando três bairros da cidade após a confirmação da morte de um jovem militar do Exército por febre maculosa.",
+            "imagem": "https://s2-g1.glbimg.com/lhr2rV0pI2KBBQhnMTB575uE_yY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/n/q2wfN5SFqnVSIDYC8ZOg/jundi-ex-ok.jpg",
+            "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/02/jundiai-monitora-bairros-apos-morte-de-militar-do-exercito-por-febre-maculosa.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T20:42:12.000Z",
             "relevancia": 0.3,
             "destaque": false,
             "tags": [
-              "grupo",
-              "golpes",
-              "sites falsos"
+              "jundiai",
+              "febre",
+              "maculosa"
             ]
           },
           {
-            "id": "noticias-2026-07-02-1600-06",
-            "titulo": "Suspeito de aplicar golpes contra idosos é preso em Itapecuru-Mirim",
-            "resumo": "Um homem foi preso em Itapecuru-Mirim por aplicar golpes contra idosos.",
-            "imagem": "https://s2-g1.glbimg.com/mg3sBjNezujYWKadI_0IovyqUAQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/J/nEJAF7Ryu2JS25I2xtuA/whatsapp-image-2026-07-02-at-12.29.19.jpg",
-            "link": "https://g1.globo.com/ma/maranhao/noticia/2026/07/02/suspeito-de-aplicar-golpes-contra-idosos-e-preso-em-itapecuru-mirim.ghtml",
-            "fonte": "G1",
-            "publicado_em": "2026-07-02T15:38:35.000Z",
+            "id": "noticias-2026-07-02-2100-08",
+            "titulo": "Acidente provoca falta de energia na região Central de Aracaju",
+            "resumo": "Um acidente entre um ônibus e um carro provocou a interrupção do fornecimento de energia na região Central de Aracaju.",
+            "imagem": "https://s2-g1.glbimg.com/_T0CoewyJsPjWQlkP8UjmKxVg58=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/V/t0hZc8Rfmpp5PqU00gLQ/imagem-g1-34-.jpg",
+            "link": "https://g1.globo.com/se/sergipe/noticia/2026/07/02/acidente-provoca-falta-de-energia-na-regiao-central-de-aracaju.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T20:49:17.000Z",
             "relevancia": 0.2,
             "destaque": false,
             "tags": [
-              "suspeito",
-              "golpes",
-              "idosos"
+              "acidente",
+              "aracaju",
+              "energia"
             ]
           },
           {
-            "id": "noticias-2026-07-02-1600-07",
-            "titulo": "Muro desaba, idoso fica preso sob escombros e mobiliza bombeiros em Caraguatatuba",
-            "resumo": "Um idoso de 70 anos ficou preso sob escombros após um muro desabar em Caraguatatuba.",
-            "imagem": "https://s2-g1.glbimg.com/_-qUCWGHSveol3-h-i45WXlseAA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/5/ap4NuPRIWYV8gal7XBlw/texto-do-seu-paragrafo-2026-07-02t123218.169.png",
-            "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/02/muro-desaba-homem-fica-preso-sob-escombros-e-mobiliza-bombeiros-em-caraguatatuba.ghtml",
-            "fonte": "G1",
-            "publicado_em": "2026-07-02T15:38:02.000Z",
+            "id": "noticias-2026-07-02-2100-09",
+            "titulo": "Homem acusado de matar companheira com corrente de bicicleta vai a júri popular em Belém",
+            "resumo": "O julgamento de um homem acusado de matar a companheira com uma corrente de bicicleta começou em Belém. O réu responde por feminicídio.",
+            "imagem": null,
+            "link": "https://g1.globo.com/pa/para/noticia/2026/07/02/homem-acusado-de-matar-companheira-com-corrente-de-bicicleta-vai-a-juri-popular-em-belem.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T20:49:47.000Z",
             "relevancia": 0.1,
             "destaque": false,
             "tags": [
-              "muro",
-              "desaba",
-              "idoso"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-02-1600-08",
-            "titulo": "Homem é preso suspeito de agredir enteada e ameaçar matar a família em Presidente Vargas",
-            "resumo": "Um homem foi preso em Presidente Vargas por agredir a enteada e ameaçar matar a família.",
-            "imagem": "https://s2-g1.glbimg.com/pQrDl8ZG-Yy4wY9Xk2867HU5qCk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/d/Rr9UVUSZOo1A6HtJfw4w/montagens-1920-x-1080-px-2026-07-02t123439.268.jpg",
-            "link": "https://g1.globo.com/ma/maranhao/noticia/2026/07/02/homem-e-preso-suspeito-de-agredir-enteada-e-ameacar-matar-a-familia-em-presidente-vargas.ghtml",
-            "fonte": "G1",
-            "publicado_em": "2026-07-02T15:37:02.000Z",
-            "relevancia": 0.1,
-            "destaque": false,
-            "tags": [
-              "homem",
-              "preso",
-              "agressao"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-02-1600-09",
-            "titulo": "Estudante denuncia intolerância religiosa após ser retirado de ônibus em Duque de Caxias",
-            "resumo": "Um estudante de 14 anos denunciou ter sido vítima de intolerância religiosa após ser retirado de um ônibus em Duque de Caxias.",
-            "imagem": "https://s2-g1.glbimg.com/S58L9xhtHN4K2BYzy1m5RLJ9E-0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/1/TbYdJrSfGD5STFYFCLaQ/rj1-limpo-20260702-1115-frame-105065.jpeg",
-            "link": "https://g1.globo.com/rj/rio-de-janeiro/rj1/noticia/2026/07/02/investiga-intolerancia-religiosa.ghtml",
-            "fonte": "G1",
-            "publicado_em": "2026-07-02T15:40:54.000Z",
-            "relevancia": 0.1,
-            "destaque": false,
-            "tags": [
-              "estudante",
-              "intolerancia",
-              "religiosa"
+              "belem",
+              "feminicidio",
+              "juri"
             ]
           }
         ]
@@ -196,51 +196,51 @@
         "nome": "Ciência",
         "artigos": [
           {
-            "id": "ciencia-2026-07-02-2100-01",
-            "titulo": "Cientistas extraem DNA antigo de pintura rupestre",
-            "resumo": "Pesquisadores conseguiram extrair DNA antigo de uma pintura rupestre, o que pode abrir novas portas para a paleogenética.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-DNA-pintura-rupestre-layout_site-CAPA.jpg",
-            "link": "https://super.abril.com.br/ciencia/pela-primeira-vez-cientistas-extraem-dna-antigo-de-uma-pintura-rupestre/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-02T20:00:08-03:00",
+            "id": "ciencia-2026-07-02-1600-01",
+            "titulo": "Descoberta de Nova Espécie de Microrganismo na Antártida",
+            "resumo": "Pesquisadoras descobrem nova espécie de microrganismo adaptado a frio e calor extremos na Antártida. A Pyroantarticum pellizari vive em uma ilha vulcânica do continente gelado.",
+            "imagem": "https://agencia.fapesp.br/files/upload/58238/n3-meio.jpg",
+            "link": "https://gizbr.uol.com.br/pesquisadoras-descobrem-nova-especie-de-microrganismo-adaptado-a-frio-e-calor-extremos-na-antartida/",
+            "fonte": "GizBR",
+            "publicado_em": "2026-07-01T10:01:25-03:00",
             "relevancia": 0.8,
             "destaque": true,
             "tags": [
-              "dna",
-              "pintura rupestre",
-              "paleogenetica"
+              "antartida",
+              "microrganismo",
+              "descoberta"
             ]
           },
           {
-            "id": "ciencia-2026-07-02-2100-02",
-            "titulo": "Ômega-3 chega ao cérebro, mas não protege a memória",
-            "resumo": "Pesquisa com 365 adultos mostra que o ômega-3 chega ao cérebro, mas não protege a memória.",
-            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
-            "link": "https://gizbr.uol.com.br/omega-3-nao-previne-alzheimer-memoria/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-02T18:37:04-03:00",
+            "id": "ciencia-2026-07-02-1600-02",
+            "titulo": "Primeiro Fóssil de Dinossauro da Antártida é Descrito",
+            "resumo": "O osso de 82 milhões de anos pertenceu a um titanossauro de cerca de sete metros que viveu quando a Antártida era coberta por florestas.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/3006-dinossauro-antartica-layout_site-CAPA.jpg",
+            "link": "https://super.abril.com.br/ciencia/primeiro-fossil-de-dinossauro-da-antartida-e-descrito-apos-40-anos-esquecido-em-uma-gaveta/",
+            "fonte": "Super Interessante",
+            "publicado_em": "2026-06-30T21:00:34-03:00",
             "relevancia": 0.6,
             "destaque": false,
             "tags": [
-              "omega-3",
-              "memoria",
-              "saude"
+              "dinossauro",
+              "antartida",
+              "fossil"
             ]
           },
           {
-            "id": "ciencia-2026-07-02-2100-03",
-            "titulo": "NASA’s Webb Reveals Stars Sparking to Life in Cosmic Celebration",
-            "resumo": "A NASA’s James Webb Space Telescope capturou a luz infravermelha de numerousas características que anteriormente eram impossíveis de ver além da poeira espessa do sistema estelar FS Tau.",
-            "imagem": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/07/STScI-01KVX6065VS4VSDVG0S1NSVB6C.png?w=4803&h=4639&fit=clip&crop=faces%2Cfocalpoint",
-            "link": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-02T14:00:00-03:00",
+            "id": "ciencia-2026-07-02-1600-03",
+            "titulo": "Descoberta de 31 Espécies em Águas Profundas na Costa Brasileira",
+            "resumo": "Expedição usou tecnologias 3D com laser para documentar novas espécies em águas internacionais próxima à costa brasileira.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/3006-especies-aguas-profundas-layout_site-CAPA.jpg",
+            "link": "https://super.abril.com.br/ciencia/em-duas-semanas-31-especies-foram-descobertas-em-aguas-profundas-na-costa-brasileira-confira-fotos/",
+            "fonte": "Super Interessante",
+            "publicado_em": "2026-06-30T22:00:59-03:00",
             "relevancia": 0.7,
             "destaque": false,
             "tags": [
-              "nasa",
-              "webb",
-              "estrelas"
+              "especies",
+              "aguas profundas",
+              "costa brasileira"
             ]
           }
         ]
@@ -280,35 +280,35 @@
         "nome": "Tecnologia",
         "artigos": [
           {
-            "id": "tecnologia-2026-07-02-2100-01",
-            "titulo": "NASA’s Artemis II Breaks Agency Streaming Record",
-            "resumo": "A NASA’s Artemis II quebrou o recorde de transmissão da agência, com mais de 149,4 milhões de visualizações.",
-            "imagem": "https://www.nasa.gov/wp-content/uploads/2026/04/55193772552-b8cfb47b7e-o.jpg?w=2048",
-            "link": "https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-02T18:02:21-03:00",
-            "relevancia": 0.9,
-            "destaque": true,
-            "tags": [
-              "nasa",
-              "artemis",
-              "streaming"
-            ]
-          },
-          {
-            "id": "tecnologia-2026-07-02-2100-02",
-            "titulo": "ChatGPT, Gemini ou Claude: quando vale a pena pagar?",
-            "resumo": "As três principais IAs já fazem bastante coisa sem cobrar nada, mas a diferença aparece quando o usuário passa a depender delas todos os dias.",
-            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2026/06/comarativo.jpg",
-            "link": "https://gizbr.uol.com.br/planos-pagos-inteligencia-artificial-quando-vale-pena/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-01T14:16:27-03:00",
+            "id": "tecnologia-2026-07-02-1600-01",
+            "titulo": "ChatGPT e Gemini para Otimizar o Windows",
+            "resumo": "Método usa relatório nativo MSINFO32 para gerar análise de hardware e software.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/diagnosticar-pc-ia-msinfo32/",
+            "fonte": "GizBR",
+            "publicado_em": "2026-06-30T19:58:37-03:00",
             "relevancia": 0.5,
             "destaque": false,
             "tags": [
-              "ia",
               "chatgpt",
-              "gemini"
+              "gemini",
+              "windows"
+            ]
+          },
+          {
+            "id": "tecnologia-2026-07-02-1600-02",
+            "titulo": "Planos Pagos de Inteligência Artificial",
+            "resumo": "As três principais IAs já fazem bastante coisa sem cobrar nada. A diferença aparece quando o usuário passa a depender delas todos os dias.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2026/06/comarativo.jpg",
+            "link": "https://gizbr.uol.com.br/planos-pagos-inteligencia-artificial-quando-vale-pena/",
+            "fonte": "GizBR",
+            "publicado_em": "2026-07-01T14:16:27-03:00",
+            "relevancia": 0.6,
+            "destaque": true,
+            "tags": [
+              "ia",
+              "planos pagos",
+              "inteligencia artificial"
             ]
           }
         ]
@@ -318,35 +318,19 @@
         "nome": "Cultura",
         "artigos": [
           {
-            "id": "cultura-2026-07-02-2100-01",
-            "titulo": "Por que Jaspion fez mais sucesso no Brasil do que no Japão?",
-            "resumo": "A morte do ator Hikaru Kurosaki ressuscitou o interesse pelo personagem, que fez mais sucesso no Brasil do que no Japão.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-jaspion-layout_site.jpg",
-            "link": "https://super.abril.com.br/cultura/por-que-jaspion-fez-mais-sucesso-no-brasil-do-que-no-japao/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-02T20:00:08-03:00",
-            "relevancia": 0.6,
-            "destaque": true,
-            "tags": [
-              "jaspion",
-              "brasil",
-              "japao"
-            ]
-          },
-          {
-            "id": "cultura-2026-07-02-2100-02",
-            "titulo": "Além do tupi, outras línguas indígenas deixaram palavras no português?",
-            "resumo": "Palavras como 'canoa', 'cacique' e 'batata' são de origem indígena, mas não tupi.",
+            "id": "cultura-2026-07-02-1600-01",
+            "titulo": "Além do Tupi, Outras Línguas Indígenas Deixaram Palavras no Português",
+            "resumo": "Canoa, cacique e batata são palavras de origem indígena, mas não tupi. Entenda.",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/SI_488_Oraculo_palavras_indigenas.jpg",
             "link": "https://super.abril.com.br/coluna/oraculo/alem-do-tupi-outras-linguas-indigenas-deixaram-palavras-no-portugues/",
-            "fonte": "Desconhecida",
+            "fonte": "Super Interessante",
             "publicado_em": "2026-07-02T15:00:16-03:00",
-            "relevancia": 0.5,
-            "destaque": false,
+            "relevancia": 0.7,
+            "destaque": true,
             "tags": [
-              "linguas",
-              "indigenas",
-              "portugues"
+              "linguas indigenas",
+              "portugues",
+              "cultura"
             ]
           }
         ]
@@ -356,14 +340,14 @@
         "nome": "Atualidades",
         "artigos": [
           {
-            "id": "atualidades-2026-07-02-2100-01",
-            "titulo": "A vez em que a Nicarágua invadiu a Costa Rica e botou a culpa no Google Maps",
-            "resumo": "A Nicarágua invadiu a Costa Rica e botou a culpa no Google Maps.",
+            "id": "atualidades-2026-07-02-1600-01",
+            "titulo": "Nicarágua Invadiu a Costa Rica e Botou a Culpa no Google Maps",
+            "resumo": "A Nicarágua invadiu a Costa Rica e culpou o Google Maps pelo erro.",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0107-ME-google-maps-layout_site.jpg",
             "link": "https://super.abril.com.br/mundo-estranho/a-vez-em-que-a-nicaragua-invadiu-a-costa-rica-e-botou-a-culpa-no-google-maps/",
-            "fonte": "Desconhecida",
+            "fonte": "Super Interessante",
             "publicado_em": "2026-07-02T11:00:30-03:00",
-            "relevancia": 0.7,
+            "relevancia": 0.6,
             "destaque": true,
             "tags": [
               "nicaragua",
@@ -378,19 +362,19 @@
         "nome": "Comportamento & Sociedade",
         "artigos": [
           {
-            "id": "comportamento-2026-07-02-2100-01",
-            "titulo": "Jovens perdem espaço no mercado de trabalho por causa da IA",
+            "id": "comportamento-2026-07-02-1600-01",
+            "titulo": "Jovens Perdem Espaço no Mercado de Trabalho por Causa da IA",
             "resumo": "Áreas como marketing e finanças foram as mais afetadas, enquanto cargos sênior tiveram alta de 26% em funções expostas à inteligência artificial.",
             "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
             "link": "https://gizbr.uol.com.br/vagas-juniores-queda-ia-suica/",
-            "fonte": "Desconhecida",
+            "fonte": "GizBR",
             "publicado_em": "2026-07-01T21:43:08-03:00",
-            "relevancia": 0.6,
+            "relevancia": 0.7,
             "destaque": true,
             "tags": [
               "ia",
-              "jovens",
-              "mercado de trabalho"
+              "mercado de trabalho",
+              "jovens"
             ]
           }
         ]
