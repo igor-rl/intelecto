@@ -1,20 +1,20 @@
 {
   "jornal": {
     "nome": "Atualidades & Intelecto",
-    "atualizado_em": "2026-07-01T18:00:00.000Z",
+    "atualizado_em": "2026-07-01T21:00:00.000Z",
     "edicao": "2026-07-01",
     "destaques": [
-      {
-        "id": "noticias-2026-07-01-2100-01",
-        "titulo": "Prefeitura de Adamantina oferece incentivo para servidores aposentados deixarem cargos",
-        "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/07/01/prefeitura-de-adamantina-cria-programa-que-paga-ate-r-30-mil-para-servidores-aposentados-deixarem-os-cargos-entenda.ghtml",
-        "categoria_slug": "noticias"
-      },
       {
         "id": "ciencia-2026-07-01-1500-03",
         "titulo": "Robô da Nasa encontra carbono em Marte e reforça pistas sobre possível vida antiga",
         "link": "https://super.abril.com.br/ciencia/robo-da-nasa-encontra-materia-organica-em-marte-e-reforca-pistas-sobre-possivel-vida-antiga/",
         "categoria_slug": "ciencia"
+      },
+      {
+        "id": "noticias-2026-07-02-0000-01",
+        "titulo": "Piauí recebe consultórios odontológicos móveis",
+        "link": "https://g1.globo.com/pi/piaui/noticia/2026/07/01/consultorios-odontologicos-moveis.ghtml",
+        "categoria_slug": "noticias"
       },
       {
         "id": "atualidades-2026-07-01-1500-01",
@@ -23,22 +23,22 @@
         "categoria_slug": "atualidades"
       },
       {
-        "id": "tecnologia-2026-07-01-1500-01",
-        "titulo": "ChatGPT, Gemini ou Claude: quando vale a pena pagar?",
-        "link": "https://gizbr.uol.com.br/planos-pagos-inteligencia-artificial-quando-vale-pena/",
-        "categoria_slug": "tecnologia"
+        "id": "ciencia-2026-07-01-1500-01",
+        "titulo": "Nova espécie de microrganismo adaptado a frio e calor extremos na Antártida",
+        "link": "https://gizbr.uol.com.br/pesquisadoras-descobrem-nova-especie-de-microrganismo-adaptado-a-frio-e-calor-extremos-na-antartida/",
+        "categoria_slug": "ciencia"
       }
     ],
     "capa": {
-      "categoria_slug": "noticias",
-      "categoria_nome": "Notícias",
-      "titulo": "Prefeitura de Adamantina oferece incentivo para servidores aposentados deixarem cargos",
-      "subtitulo": "A prefeitura de Adamantina criou um programa para incentivar servidores aposentados a deixar seus cargos, oferecendo até R$ 30 mil.",
-      "resumo": "A prefeitura de Adamantina criou um programa para incentivar servidores aposentados a deixar seus cargos, oferecendo até R$ 30 mil. O objetivo é reduzir gastos e otimizar a gestão municipal.",
-      "imagem": "https://s2-g1.glbimg.com/HZkT5xGXrejP7swUOko7qJG5QyE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/O/c/wsMn5ETJaJkYMjbUbwlw/dsc-0701-1-1-.jpg",
-      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/07/01/prefeitura-de-adamantina-cria-programa-que-paga-ate-r-30-mil-para-servidores-aposentados-deixarem-os-cargos-entenda.ghtml",
+      "categoria_slug": "ciencia",
+      "categoria_nome": "Ciência",
+      "titulo": "Robô da Nasa encontra carbono em Marte e reforça pistas sobre possível vida antiga",
+      "subtitulo": "Achado ocorreu em rochas de uma região que já abrigou um lago; agora, cientístas tentam descobrir se as moléculas têmm origem biológica ou geológica...",
+      "resumo": "Achado ocorreu em rochas de uma região que já abrigou um lago; agora, cientístas tentam descobrir se as moléculas têmm origem biológica ou geológica.",
+      "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/2906-perseverance-layout_site.jpg",
+      "link": "https://super.abril.com.br/ciencia/robo-da-nasa-encontra-materia-organica-em-marte-e-reforca-pistas-sobre-possivel-vida-antiga/",
       "fonte": "Desconhecida",
-      "publicado_em": "2026-07-01T20:54:17-03:00"
+      "publicado_em": "2026-06-30T11:00:47-03:00"
     },
     "categorias": {
       "noticias": {
@@ -46,131 +46,147 @@
         "nome": "Notícias",
         "artigos": [
           {
-            "id": "noticias-2026-07-01-2100-01",
-            "titulo": "Prefeitura de Adamantina oferece incentivo para servidores aposentados deixarem cargos",
-            "resumo": "A prefeitura de Adamantina criou um programa para incentivar servidores aposentados a deixar seus cargos, oferecendo até R$ 30 mil. O objetivo é reduzir gastos e otimizar a gestão municipal.",
-            "imagem": "https://s2-g1.glbimg.com/HZkT5xGXrejP7swUOko7qJG5QyE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/O/c/wsMn5ETJaJkYMjbUbwlw/dsc-0701-1-1-.jpg",
-            "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/07/01/prefeitura-de-adamantina-cria-programa-que-paga-ate-r-30-mil-para-servidores-aposentados-deixarem-os-cargos-entenda.ghtml",
+            "id": "noticias-2026-07-02-0000-01",
+            "titulo": "Piauí recebe consultórios odontológicos móveis",
+            "resumo": "O Piauí recebeu 47 consultórios odontológicos móveis para ampliar o atendimento em municípios do interior. Esses consultórios serão destinados a áreas onde o acesso a serviços odontológicos é limitado.",
+            "imagem": "https://s2-g1.glbimg.com/ix-kIljEXh2MvTqdMbbyzD_3DyE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/B/8hBIIDTRmgcVR6cIZQVw/edicao-imagens-g1-2026-07-01t203735.738.jpg",
+            "link": "https://g1.globo.com/pi/piaui/noticia/2026/07/01/consultorios-odontologicos-moveis.ghtml",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-01T20:54:17-03:00",
+            "publicado_em": "2026-07-01T23:39:08-03:00",
             "relevancia": 0.8,
             "destaque": true,
             "tags": [
-              "brasil",
-              "economia",
-              "gestao publica"
+              "saúde",
+              "piauí",
+              "odontologia"
             ]
           },
           {
-            "id": "noticias-2026-07-01-2100-02",
-            "titulo": "Justiça condena servidores do Mapa por corrupção em indústria de laticínios",
-            "resumo": "A Justiça Federal condenou servidores do Ministério da Agricultura por corrupção em uma indústria de laticínios no Rio Grande do Sul. Eles receberam propina para afrouxar a fiscalização sanitária.",
-            "imagem": "https://s2-g1.glbimg.com/UBmQ8w0NI3qXcf9sBQzmZ1zpkNc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/4/tB7Y13RnqPJtn9Bc4VYQ/5079676-778c26cbaa41b0b-1-.jpg",
-            "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/01/justica-condena-servidores-do-mapa-por-afrouxar-fiscalizacao-sanitaria-em-industria-de-laticinios-em-troca-de-propina-no-rs.ghtml",
+            "id": "noticias-2026-07-02-0000-02",
+            "titulo": "Aquário de Santos será entregue até dezembro",
+            "resumo": "O Aquário Municipal de Santos, no litoral de São Paulo, tem nova previsão para conclusão das obras de revitalização. O aquário deve ser entregue até dezembro após acordos de mais de R$ 9 milhões.",
+            "imagem": "https://s2-g1.glbimg.com/4s1YlopeBqX6uJ6VOtgShACfwpc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/a/x/k9obwOQ0uJDuF2Ae8BSw/fotos-g1-2025-12-17t173608.113.png",
+            "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/01/aquario-de-santos-sera-entregue-ate-dezembro-apos-acordos-de-mais-de-r-9-milhoes-entenda.ghtml",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-01T20:39:12-03:00",
-            "relevancia": 0.7,
-            "destaque": false,
-            "tags": [
-              "brasil",
-              "corrupcao",
-              "industria"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-01-2100-03",
-            "titulo": "Justiça de Portugal condena jovem por instigar ataque em escola no Brasil",
-            "resumo": "A Justiça de Portugal condenou um jovem de 18 anos por instigar um ataque em uma escola no Brasil. O ataque resultou na morte de uma adolescente.",
-            "imagem": "https://s2-g1.glbimg.com/RGi5kfv39--c5bF7eUkrSRLTuD8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/O/D/haQj3AS0Ckqadgk632RA/acervo-sp2-limpo-20231024-1830-frame-105063.jpeg",
-            "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/01/justica-de-portugal-condena-jovem-investigado-por-instigar-ataque-que-matou-adolescente-em-escola-de-sp.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-01T20:44:40-03:00",
+            "publicado_em": "2026-07-01T23:39:20-03:00",
             "relevancia": 0.6,
             "destaque": false,
             "tags": [
-              "brasil",
-              "justica",
-              "escola"
+              "cultura",
+              "santos",
+              "aquário"
             ]
           },
           {
-            "id": "noticias-2026-07-01-2100-04",
-            "titulo": "Acidente com oito veículos causa congestionamento em rodovia",
-            "resumo": "Um acidente com oito veículos causou um grande congestionamento em uma rodovia em São José do Rio Preto, no estado de São Paulo.",
-            "imagem": "https://s2-g1.glbimg.com/9_0BoQJdlQqgk4QCjDm5aTUCuPs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/6/VO2KT0RXqJb9YLG2UkiA/whatsapp-image-2026-07-01-at-17.40.17.jpeg",
-            "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/07/01/acidente-na-rodovia-washington-luis-em-sao-jose-do-rio-preto.ghtml",
+            "id": "noticias-2026-07-02-0000-03",
+            "titulo": "Governador do Colorado demite oficiais que se opuseram à libertação de Tina Peters",
+            "resumo": "O governador do Colorado, Jared Polis, demitiu membros da comissão de clemência que se opuseram à libertação de Tina Peters, que foi condenada por manipular máquinas de votação.",
+            "imagem": null,
+            "link": "https://www.nytimes.com/2026/07/01/us/jared-polis-tina-peters-clemency-board-fired.html",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-01T20:39:43-03:00",
-            "relevancia": 0.5,
-            "destaque": false,
-            "tags": [
-              "brasil",
-              "acidente",
-              "transito"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-01-2100-05",
-            "titulo": "Investigado por homicídio é preso em operação na Bahia",
-            "resumo": "Um homem de 21 anos foi preso durante uma operação da Polícia Civil na Bahia, suspeito de envolvimento no homicídio de um jovem.",
-            "imagem": "https://s2-g1.glbimg.com/mXbGGw5Rhb_pURTmVxM-jC5RUts=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/e/BabeH3QeK0eAp9YiVwnA/foto-no-tamanho-home-2026-05-11t112542.629.png",
-            "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/07/01/investigado-por-homicidio-de-jovem-morto-apos-casa-ser-invadida-e-preso-em-santa-ines.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-01T20:39:14-03:00",
+            "publicado_em": "2026-07-01T23:34:25-03:00",
             "relevancia": 0.4,
             "destaque": false,
             "tags": [
-              "brasil",
-              "homicidio",
-              "policia"
+              "política",
+              "estados unidos",
+              "corrupção"
             ]
           },
           {
-            "id": "noticias-2026-07-01-2100-06",
-            "titulo": "Maior coruja do Brasil é registrada em área de preservação",
-            "resumo": "Uma coruja-jacurutu, considerada a maior espécie de coruja do Brasil, foi registrada em uma área de preservação em Valença, no estado do Rio de Janeiro.",
-            "imagem": "https://s2-g1.glbimg.com/DPyhdgV1lA1VzaV1P5D1qTpu1Ts=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/V/uNQ3UUSBmoMM4SwUl6sw/whatsapp-image-2026-07-01-at-17.36.54.jpeg",
-            "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/01/maior-coruja-do-brasil-e-registrada-em-area-de-preservacao-de-valenca.ghtml",
+            "id": "noticias-2026-07-02-0000-04",
+            "titulo": "Cunhado é preso por jogar álcool em mulher trans em MS",
+            "resumo": "Um cunhado foi preso por jogar álcool em uma mulher trans em Mato Grosso do Sul. A vítima sofreu queimaduras graves e está internada.",
+            "imagem": "https://s2-g1.glbimg.com/Mflp5P-5r6oZ_SgcQEtalZGc1G4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/R/xS1GhDRnGhbfP9xPfZKA/para-o-g1-60-.jpg",
+            "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/07/01/cunhado-joga-alcool-em-mulher-trans-e-e-preso-em-ms-vitima-teve-queimaduras-e-policia-investiga-crime.ghtml",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-01T20:39:09-03:00",
-            "relevancia": 0.3,
+            "publicado_em": "2026-07-01T23:32:52-03:00",
+            "relevancia": 0.7,
             "destaque": false,
             "tags": [
-              "brasil",
-              "meio ambiente",
-              "fauna"
+              "crime",
+              "mato grosso do sul",
+              "direitos humanos"
             ]
           },
           {
-            "id": "noticias-2026-07-01-2100-07",
-            "titulo": "Homem é preso por maus-tratos contra cachorro",
-            "resumo": "Um homem de 47 anos foi preso por maus-tratos contra um cachorro em Maceió, Alagoas. Ele amarrou o focinho do animal com fita isolante.",
-            "imagem": "https://s2-g1.glbimg.com/Cn7xML7TUVVPQylYDmKIv4qi4Nc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/S/iPGiJ7RRmAcHziBjTNGQ/whatsapp-image-2026-07-01-at-090157.jpeg",
-            "link": "https://g1.globo.com/al/alagoas/noticia/2026/07/01/homem-e-preso-suspeito-de-amarrar-focinho-de-cachorro-com-fita-em-maceio-video.ghtml",
+            "id": "noticias-2026-07-02-0000-05",
+            "titulo": "Menina de oito anos fica em estado grave após ser atropelada em Ribeirão Preto",
+            "resumo": "Uma menina de oito anos ficou em estado grave após ser atropelada em Ribeirão Preto, São Paulo. O acidente ocorreu na tarde de quarta-feira.",
+            "imagem": "https://s2-g1.glbimg.com/q8GvHxi7a47kF0lovs06WgcvMNM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/j/g86vm3QRmAlp4z1XpbIQ/atropelamento.jpg",
+            "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/01/menina-de-oito-anos-fica-em-estado-grave-apos-ser-atropelada-em-ribeirao-preto-video.ghtml",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-01T20:38:51-03:00",
-            "relevancia": 0.2,
+            "publicado_em": "2026-07-01T23:30:03-03:00",
+            "relevancia": 0.5,
             "destaque": false,
             "tags": [
-              "brasil",
-              "maus-tratos",
-              "animais"
+              "acidente",
+              "ribeirão preto",
+              "segurança"
             ]
           },
           {
-            "id": "noticias-2026-07-01-2100-08",
-            "titulo": "Padrasto é preso por agredir enteado dentro de carro",
-            "resumo": "Um padrasto foi preso por agredir seu enteado de 1 ano dentro de um carro em Palhoça, Santa Catarina.",
-            "imagem": "https://s2-g1.glbimg.com/5KBlki7SYInp5D9U_Bie7ScI1To=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/E/zeTG44QMadvtJ8lNIh8A/agressoes-crianca-carro-palhoca-sc.jpg",
-            "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/01/padrasto-agrediu-enteado-carro-continuar-preso.ghtml",
+            "id": "noticias-2026-07-02-0000-06",
+            "titulo": "Servidor da Prefeitura de Mirassol D’Oeste é encontrado morto",
+            "resumo": "Um servidor da Prefeitura de Mirassol D’Oeste foi encontrado morto dentro de sua casa após ser baleado. A polícia investiga o caso.",
+            "imagem": "https://s2-g1.glbimg.com/YlHMxIK9CtorYEi3itwW9P2QTfY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/6/4zAFdpQt6rPJJbTnMmfQ/videos-g1-2026-07-01t192536.554.jpg",
+            "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/01/servidor-da-prefeitura-de-mirassol-doeste-e-morto-a-tiros-dentro-de-casa-em-mt.ghtml",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-01T20:38:22-03:00",
-            "relevancia": 0.1,
+            "publicado_em": "2026-07-01T23:29:22-03:00",
+            "relevancia": 0.6,
             "destaque": false,
             "tags": [
-              "brasil",
-              "violencia",
-              "familia"
+              "crime",
+              "mato grosso",
+              "segurança"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-02-0000-07",
+            "titulo": "Piracicaba inicia entrega de uniformes escolares",
+            "resumo": "A Prefeitura de Piracicaba iniciou a entrega de uniformes escolares para a rede municipal de ensino após um ano e meio de atraso.",
+            "imagem": "https://s2-g1.glbimg.com/z5u5EC2xUHv98N6p_TaEaTvuFyY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/w/QTeMxzT5ul9JNlORFV6A/whatsapp-image-2026-07-01-at-18.39.31.jpeg",
+            "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/01/apos-um-ano-e-meio-de-atraso-piracicaba-inicia-entrega-de-uniformes-para-alunos-da-rede-municipal.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-01T23:22:20-03:00",
+            "relevancia": 0.4,
+            "destaque": false,
+            "tags": [
+              "educação",
+              "piracicaba",
+              "uniformes"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-02-0000-08",
+            "titulo": "Jovem é preso por série de furtos no Piauí",
+            "resumo": "Um jovem foi preso por uma série de furtos em Altos, no Piauí. Ele é conhecido como 'Fandango' e tem 20 anos.",
+            "imagem": "https://s2-g1.glbimg.com/47AY8elwCwxNqmnESTTNS4pTe9s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/w/iWGEwFTYytyRQd7aNJQw/edicao-imagens-g1-12-.png",
+            "link": "https://g1.globo.com/pi/piaui/noticia/2026/07/01/jovem-investigado-furtos.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-01T23:15:16-03:00",
+            "relevancia": 0.5,
+            "destaque": false,
+            "tags": [
+              "crime",
+              "piauí",
+              "furto"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-02-0000-09",
+            "titulo": "Filho de ex-deputado vai a júri por feminicídio em MT",
+            "resumo": "O filho de um ex-deputado vai a júri por feminicídio em Mato Grosso. Ele é acusado de matar uma mulher e um homem.",
+            "imagem": "https://s2-g1.glbimg.com/89_98__5UFgb9xBhBZyCJfChvl4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/w/6/Mc8NcORg2S4t4SeDM9kg/whatsapp-image-2024-02-28-at-11.20.51.jpeg",
+            "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/01/filho-de-ex-deputado-acusado-de-matar-casal-vai-a-juri-com-acesso-restrito-em-mt.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-01T23:14:47-03:00",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "crime",
+              "mato grosso",
+              "feminicídio"
             ]
           }
         ]
