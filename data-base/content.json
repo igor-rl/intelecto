@@ -5,40 +5,40 @@
     "edicao": "2026-07-03",
     "destaques": [
       {
-        "id": "noticias-2026-07-03-0000-01",
-        "titulo": "FBI investiga eleições em Georgia",
-        "link": "https://www.nytimes.com/2026/07/02/us/politics/fbi-georgia-fulton-county-2020-election.html",
+        "id": "tecnologia-2026-07-03-1000-01",
+        "titulo": "Seu relógio pode virar alerta de saúde mental",
+        "link": "https://gizbr.uol.com.br/ia-saude-mental-terapia-tempo-real/",
+        "categoria_slug": "tecnologia"
+      },
+      {
+        "id": "comportamento-2026-07-03-1000-01",
+        "titulo": "Jovens perdem espaço no mercado de trabalho por causa da IA",
+        "link": "https://gizbr.uol.com.br/vagas-juniores-queda-ia-suica/",
+        "categoria_slug": "comportamento"
+      },
+      {
+        "id": "noticias-2026-07-03-1000-01",
+        "titulo": "Terremotos na Venezuela: Cristo Redentor exibe homenagem",
+        "link": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/noticia/2026/07/03/cristo-redentor-exibe-projecao-em-homenagem-as-vitimas-de-terremotos-na-venezuela.ghtml",
         "categoria_slug": "noticias"
       },
       {
-        "id": "ciencia-2026-07-02-1600-01",
-        "titulo": "Descoberta de Nova Espécie de Microrganismo na Antártida",
-        "link": "https://gizbr.uol.com.br/pesquisadoras-descobrem-nova-especie-de-microrganismo-adaptado-a-frio-e-calor-extremos-na-antartida/",
+        "id": "ciencia-2026-07-03-1000-01",
+        "titulo": "Cientistas extraem DNA antigo de pintura rupestre",
+        "link": "https://super.abril.com.br/ciencia/pela-primeira-vez-cientistas-extraem-dna-antigo-de-uma-pintura-rupestre/",
         "categoria_slug": "ciencia"
-      },
-      {
-        "id": "cultura-2026-07-02-1600-01",
-        "titulo": "Além do Tupi, Outras Línguas Indígenas Deixaram Palavras no Português",
-        "link": "https://super.abril.com.br/coluna/oraculo/alem-do-tupi-outras-linguas-indigenas-deixaram-palavras-no-portugues/",
-        "categoria_slug": "cultura"
-      },
-      {
-        "id": "comportamento-2026-07-02-1600-01",
-        "titulo": "Jovens Perdem Espaço no Mercado de Trabalho por Causa da IA",
-        "link": "https://gizbr.uol.com.br/vagas-juniores-queda-ia-suica/",
-        "categoria_slug": "comportamento"
       }
     ],
     "capa": {
-      "categoria_slug": "noticias",
-      "categoria_nome": "Notícias",
-      "titulo": "FBI investiga eleições em Georgia",
-      "subtitulo": "A investigação do FBI sobre as eleições em Georgia reflete a tentativa do presidente Trump de provar suas alegações infundadas de fraude nas eleições de 2020...",
-      "resumo": "A investigação do FBI sobre as eleições em Georgia reflete a tentativa do presidente Trump de provar suas alegações infundadas de fraude nas eleições de 2020.",
-      "imagem": null,
-      "link": "https://www.nytimes.com/2026/07/02/us/politics/fbi-georgia-fulton-county-2020-election.html",
-      "fonte": "Desconhecida",
-      "publicado_em": "2026-07-02T23:54:32.000Z"
+      "categoria_slug": "tecnologia",
+      "categoria_nome": "Tecnologia",
+      "titulo": "Seu relógio pode virar alerta de saúde mental",
+      "subtitulo": "Pesquisadores criaram um assistente que monitora biosinais e histórico médico, superando o ChatGPT em empatia e personalização...",
+      "resumo": "Pesquisadores criaram um assistente que monitora biosinais e histórico médico, superando o ChatGPT em empatia e personalização.",
+      "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+      "link": "https://gizbr.uol.com.br/ia-saude-mental-terapia-tempo-real/",
+      "fonte": "GizBR",
+      "publicado_em": "2026-07-02T22:34:42-03:00"
     },
     "categorias": {
       "noticias": {
@@ -46,147 +46,147 @@
         "nome": "Notícias",
         "artigos": [
           {
-            "id": "noticias-2026-07-03-0000-01",
-            "titulo": "FBI investiga eleições em Georgia",
-            "resumo": "A investigação do FBI sobre as eleições em Georgia reflete a tentativa do presidente Trump de provar suas alegações infundadas de fraude nas eleições de 2020.",
-            "imagem": null,
-            "link": "https://www.nytimes.com/2026/07/02/us/politics/fbi-georgia-fulton-county-2020-election.html",
+            "id": "noticias-2026-07-03-1000-01",
+            "titulo": "Terremotos na Venezuela: Cristo Redentor exibe homenagem",
+            "resumo": "O Cristo Redentor exibiu uma projeção especial em homenagem às vítimas dos terremotos que atingiram a Venezuela. A iniciativa também teve o objetivo de mostrar solidariedade ao país.",
+            "imagem": "https://s2-g1.glbimg.com/N6laQb-NdTYbS1eYvwBzF2TRRXE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/C/nZrFrSSOqPo9SSt8uADA/bdrj-venezuela1.jpeg",
+            "link": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/noticia/2026/07/03/cristo-redentor-exibe-projecao-em-homenagem-as-vitimas-de-terremotos-na-venezuela.ghtml",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-02T23:54:32.000Z",
+            "publicado_em": "2026-07-03T09:39:02-03:00",
             "relevancia": 0.8,
             "destaque": true,
             "tags": [
-              "política",
-              "eleições",
-              "georgia"
+              "venezuela",
+              "terremoto",
+              "cristo redentor"
             ]
           },
           {
-            "id": "noticias-2026-07-03-0000-02",
-            "titulo": "Buracos em Campo Grande causam acidentes",
-            "resumo": "Os buracos nas ruas de Campo Grande têm causado acidentes e prejuízos a motoristas e motociclistas, além de aumentar a procura por atendimento de emergência.",
-            "imagem": "https://s2-g1.glbimg.com/Rfv1obPg-fqhMC6waBOIPDcc2o0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/h/VNLBLXRFih9gbd6hdkNQ/design-sem-nome-2026-07-02t185749.192.jpg",
-            "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/07/02/buracos-em-campo-grande-causam-acidentes-prejuizos-e-lotam-emergencia-da-santa-casa.ghtml",
+            "id": "noticias-2026-07-03-1000-02",
+            "titulo": "Massa de ar polar derruba temperaturas no RS",
+            "resumo": "Uma massa de ar polar está provocando uma queda acentuada das temperaturas no Rio Grande do Sul, com mínimas abaixo de 0°C em algumas regiões.",
+            "imagem": "https://s2-g1.glbimg.com/KbHYlI7IWLygfS2VxMwZknSlO0E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/A/FOWkkGSJG8VfnWe1sGrQ/g1-23-.jpg",
+            "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/03/rs-volta-a-registrar-temperaturas-negativas-quarai.ghtml",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-02T23:32:23.000Z",
-            "relevancia": 0.6,
-            "destaque": false,
-            "tags": [
-              "acidentes",
-              "campo grande",
-              "infraestrutura"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-03-0000-03",
-            "titulo": "Homem é preso após engravidar menina de 12 anos",
-            "resumo": "Um homem de 25 anos foi preso por engravidar uma menina de 12 anos no Piauí.",
-            "imagem": "https://s2-g1.glbimg.com/4OMB3BWmvt5JcTOwVaWUEZALKCs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/l/hQP4LjSAe9t1Pqhnw9Ww/edicao-imagens-g1-2026-07-02t202226.438.jpg",
-            "link": "https://g1.globo.com/pi/piaui/noticia/2026/07/02/homem-preso-engravidar-menina.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-02T23:24:11.000Z",
+            "publicado_em": "2026-07-03T09:40:29-03:00",
             "relevancia": 0.7,
             "destaque": false,
             "tags": [
-              "crime",
-              "piauí",
-              "menor"
+              "rio grande do sul",
+              "frio",
+              "massa de ar polar"
             ]
           },
           {
-            "id": "noticias-2026-07-03-0000-04",
-            "titulo": "Justiça manda suspender obras do Trecho II da Marginal Itanguá",
-            "resumo": "A Justiça de Sorocaba determinou a suspensão das obras do Trecho II da Marginal Itanguá.",
-            "imagem": "https://s2-g1.glbimg.com/4seByrQ8x78Wc-KwR4jumsb5nAw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/A/k5j7DqRASFk7OYzQF3gQ/design-sem-nome-2026-05-22t181117.733.png",
-            "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/02/justica-manda-suspender-obras-do-trecho-ii-da-marginal-itangua-em-sorocaba.ghtml",
+            "id": "noticias-2026-07-03-1000-03",
+            "titulo": "Brasil cria centro para produzir insumos farmacêuticos",
+            "resumo": "O Brasil lançou um centro de pesquisa para desenvolver insumos farmacêuticos a partir da biodiversidade brasileira, visando reduzir a dependência do país de matérias-primas importadas.",
+            "imagem": "https://s2-g1.glbimg.com/YlOhK4dymR3_AIaHC2nLTUFlMsw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/q/J3qMItQiAfAyffmBi7lQ/adobestock-540453673.jpeg",
+            "link": "https://g1.globo.com/saude/noticia/2026/07/03/brasil-cria-centro-para-produzir-insumos-farmaceuticos-e-reduzir-dependencia-do-exterior-projeto-nao-tem-prazo-nem-meta-definidos.ghtml",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-02T23:12:18.000Z",
-            "relevancia": 0.5,
-            "destaque": false,
-            "tags": [
-              "infraestrutura",
-              "sorocaba",
-              "justiça"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-03-0000-05",
-            "titulo": "Deputada Dani Portela afirma que foi agredida por PM",
-            "resumo": "A deputada estadual Dani Portela afirmou que foi agredida por um policial durante uma confusão no show de encerramento do São João do Recife.",
-            "imagem": "https://s2-g1.glbimg.com/SydhMQbOsNmVMOgRAJrsuI39nkc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/9/XUsWCWQCiyOlATCnfotA/capa-agenda-g1-2026-07-02t200205.016.jpg",
-            "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/07/02/deputada-dani-portela-pm-show.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-02T23:28:31.000Z",
+            "publicado_em": "2026-07-03T09:28:35-03:00",
             "relevancia": 0.6,
             "destaque": false,
             "tags": [
-              "política",
-              "pernambuco",
-              "violência"
+              "saude",
+              "insumos farmaceuticos",
+              "biodiversidade"
             ]
           },
           {
-            "id": "noticias-2026-07-03-0000-06",
-            "titulo": "Fiscais fazem vistoria técnica para verificar denúncia de contaminação ambiental",
-            "resumo": "Uma equipe de fiscalização ambiental fez uma vistoria técnica no Parque do Sabiá para verificar denúncia de contaminação ambiental.",
-            "imagem": "https://s2-g1.glbimg.com/gg7yw6DXayAEwhAb4Kr_GZ_j4Yk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/k/CTunWJSMmLfvoa0RA9IA/design-sem-nome-5-.png",
-            "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/02/fiscais-fazem-vistoria-tecnica-para-verificar-denuncia-de-contaminacao-ambiental-no-parque-do-sabia.ghtml",
+            "id": "noticias-2026-07-03-1000-04",
+            "titulo": "Falha afeta circulação de trens na Linha 11-Coral da CPTM",
+            "resumo": "Um problema técnico afetou a circulação de trens na Linha 11-Coral da CPTM, causando lotação nas plataformas e trens.",
+            "imagem": "https://s2-g1.glbimg.com/Vzmk6eri7p_nukO7yiGvvTzwrNU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/o/UR7YfpTo6nPD0JTxhmSA/whatsapp-image-2026-07-03-at-06.23.13-2-.jpeg",
+            "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/03/falha-afeta-circulacao-de-trens-na-linha-11-coral-da-cptm-plataformas-e-trens-ficam-lotadas-e-passageiros-passam-mal.ghtml",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-02T23:29:29.000Z",
+            "publicado_em": "2026-07-03T09:37:58-03:00",
             "relevancia": 0.5,
             "destaque": false,
             "tags": [
-              "meio ambiente",
-              "minas gerais",
-              "contaminação"
+              "cptm",
+              "trens",
+              "problema tecnico"
             ]
           },
           {
-            "id": "noticias-2026-07-03-0000-07",
-            "titulo": "Filhotes de cachorro são resgatados de porta-malas de carro",
-            "resumo": "Cinco filhotes de cachorro foram resgatados do porta-malas de um carro sob o sol forte em Goiânia.",
-            "imagem": "https://s2-g1.glbimg.com/eY1AXPq6geZzM6EJEWOk1vHkPmY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/i/0fLJFxRBusMFu3ywbozA/copia-de-copia-de-padrao-foto-g1-goias-2026-07-02t185428.163.jpg",
-            "link": "https://g1.globo.com/go/goias/noticia/2026/07/02/filhotes-de-cachorro-sao-resgatados-de-porta-malas-de-carro-sob-sol-forte-ao-lado-de-upa-veterinaria-em-goiania.ghtml",
+            "id": "noticias-2026-07-03-1000-05",
+            "titulo": "Sobe para 10 número de monges mortos em atropelamento na Tailândia",
+            "resumo": "O número de monges mortos em um atropelamento na Tailândia subiu para 10. O acidente ocorreu durante uma peregrinação.",
+            "imagem": "https://s2-g1.glbimg.com/klMOqvz1r88IhOwXipfOcoklgwM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/Q/tcfzWRQZGIhIwQqvySEA/afp-20260702-b8zk69m-v1-highres-thailandaccidentreligion.jpg",
+            "link": "https://g1.globo.com/mundo/noticia/2026/07/03/sobe-numero-monges-mortos-atropelamento-tailandia.ghtml",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-02T23:28:58.000Z",
+            "publicado_em": "2026-07-03T09:31:30-03:00",
             "relevancia": 0.4,
             "destaque": false,
             "tags": [
-              "animais",
-              "goiás",
-              "resgate"
+              "tailandia",
+              "atropelamento",
+              "monges"
             ]
           },
           {
-            "id": "noticias-2026-07-03-0000-08",
-            "titulo": "Com apoio de Zé Neto & Cristiano e Panda, hospital faz cirurgia em criança com tecnologia de alta complexidade",
-            "resumo": "Um hospital pediátrico de São José do Rio Preto fez a primeira cirurgia usando uma tecnologia de alta complexidade conhecida como ECMO.",
-            "imagem": "https://s2-g1.glbimg.com/zo6Dp22qxRiUu8jHT4b6_t4orTI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/d/6zAIS7Rrafz4SOtQozSA/formato-padrao-imagens-g1-2026-07-02t172112.588.png",
-            "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/07/02/com-apoio-de-ze-neto-and-cristiano-e-panda-hospital-fazer-1a-cirurgia-em-crianca-com-tecnologica-que-funciona-com-coracao-e-pulmao-artificiais.ghtml",
+            "id": "noticias-2026-07-03-1000-06",
+            "titulo": "Terminal da Parangaba recebe mutirão de empregos em Fortaleza",
+            "resumo": "O terminal da Parangaba em Fortaleza receberá um mutirão de empregos com 700 vagas de trabalho.",
+            "imagem": "https://s2-g1.glbimg.com/3JMmbCWAgl_54cyBlp311RCdjVM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/Y/L0QhU8RyqAAu6DX7WAkg/cateira-1.jpg",
+            "link": "https://g1.globo.com/ce/ceara/suachance/noticia/2026/07/03/terminal-da-parangaba-recebe-mutirao-de-empregos-com-700-vagas-de-trabalho-em-fortaleza.ghtml",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-02T23:16:01.000Z",
-            "relevancia": 0.5,
+            "publicado_em": "2026-07-03T09:28:11-03:00",
+            "relevancia": 0.3,
             "destaque": false,
             "tags": [
-              "saúde",
-              "são paulo",
-              "tecnologia"
+              "fortaleza",
+              "mutirao de empregos",
+              "terminal da parangaba"
             ]
           },
           {
-            "id": "noticias-2026-07-03-0000-09",
-            "titulo": "Jovem denuncia ter sido agredido por PMs durante abordagem e dentro de hospital",
-            "resumo": "Um jovem denunciou ter sido agredido por policiais durante uma abordagem e dentro de um hospital no Tocantins.",
-            "imagem": "https://s2-g1.glbimg.com/foO4GSFQXb8L0K4Q28PmYDtDCpY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/T/HXWvLDReOritSABPHTkA/copia-de-modelo-foto-fundo-borrado-2-.png",
-            "link": "https://g1.globo.com/to/tocantins/noticia/2026/07/02/jovem-denuncia-ter-sido-agredido-por-pms-durante-abordagem-e-dentro-de-hospital-no-interior-do-to.ghtml",
+            "id": "noticias-2026-07-03-1000-07",
+            "titulo": "16 mulheres trans estão mantidas em cadeias masculinas no PI",
+            "resumo": "Pelo menos 16 mulheres trans estão sendo mantidas em cadeias masculinas no Piauí, segundo um levantamento da Defensoria Pública do Estado.",
+            "imagem": "https://s2-g1.glbimg.com/W4lXyV-GcmH--q7JBOIkygyeax8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/g/TtQekhTLqF0NTa2SBIiA/edicao-imagens-g1-12-.png",
+            "link": "https://g1.globo.com/pi/piaui/noticia/2026/07/03/16-mulheres-trans-estao-mantidas-em-cadeias-masculinas-no-pi-aponta-levantamento.ghtml",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-02T23:42:02.000Z",
-            "relevancia": 0.6,
+            "publicado_em": "2026-07-03T09:23:48-03:00",
+            "relevancia": 0.2,
             "destaque": false,
             "tags": [
-              "direitos humanos",
-              "tocantins",
-              "violência"
+              "piaui",
+              "mulheres trans",
+              "cadeias masculinas"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-03-1000-08",
+            "titulo": "Festival internacional de cinema acontece em Cabaceiras",
+            "resumo": "A cidade de Cabaceiras, no Cariri paraibano, recebe o festival internacional de cinema 'Roliúde Cine Fest' com programação audiovisual gratuita.",
+            "imagem": "https://s2-g1.glbimg.com/Hl1YTwlsLGtHWYyzBLeIinRarP0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/8/Y/AOoyiGSFaGDr9SfGPYdA/tay-lopes-800x450.jpg",
+            "link": "https://g1.globo.com/pb/paraiba/noticia/2026/07/03/festival-internacional-de-cinema-acontece-em-cabaceiras-roliude-nordestina.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T09:16:35-03:00",
+            "relevancia": 0.1,
+            "destaque": false,
+            "tags": [
+              "cabaceiras",
+              "festival de cinema",
+              "roliude nordestina"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-03-1000-09",
+            "titulo": "Ciee oferece 149 vagas de estágio e jovem aprendiz no Alto Tietê",
+            "resumo": "O Centro de Integração Empresa-Escola (Ciee) oferece 149 vagas de estágio e jovem aprendiz no Alto Tietê.",
+            "imagem": "https://s2-g1.glbimg.com/ntRk_KrsnXEfss5qc7Wom2Lko2M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/U/u/WbFVUBR5ycxbPHSexWQQ/mg-7622.jpg",
+            "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/concursos-e-emprego/noticia/2026/07/03/ciee-oferece-149-vagas-de-estagio-e-jovem-aprendiz-no-alto-tiete.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T09:44:16-03:00",
+            "relevancia": 0.1,
+            "destaque": false,
+            "tags": [
+              "alto tiete",
+              "ciee",
+              "vagas de estagio"
             ]
           }
         ]
