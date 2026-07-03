@@ -5,40 +5,40 @@
     "edicao": "2026-07-03",
     "destaques": [
       {
-        "id": "noticias-2026-07-03-1600-01",
-        "titulo": "Governo brasileiro altera regras de exportação de carnes para União Europeia",
-        "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/03/governo-brasileiro-altera-regras-de-exportacao-de-carnes-para-uniao-europeia-e-tenta-evitar-embargo.ghtml",
+        "id": "noticias-2026-07-03-2100-01",
+        "titulo": "Bolsonaro mantido em prisão domiciliar",
+        "link": "https://g1.globo.com/politica/noticia/2026/07/03/moraes-mantem-bolsonaro-em-prisao-domiciliar.ghtml",
         "categoria_slug": "noticias"
       },
       {
-        "id": "tecnologia-2026-07-03-1600-01",
-        "titulo": "Google Passa a Guardar Mais Dados de Busca com IA",
-        "link": "https://gizbr.uol.com.br/google-coleta-audios-imagens-treinar-ia/",
-        "categoria_slug": "tecnologia"
-      },
-      {
-        "id": "atualidades-2026-07-03-1600-01",
+        "id": "atualidades-2026-07-03-2100-01",
         "titulo": "Brasil Teve 120 Mil Mortes Associadas a Ondas de Calor em 20 Anos",
         "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
         "categoria_slug": "atualidades"
       },
       {
-        "id": "ciencia-2026-07-03-1600-01",
-        "titulo": "NASA Captura Nuvem Vermelha com Estrelas Brancas e Azuis",
-        "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/",
+        "id": "tecnologia-2026-07-03-2100-01",
+        "titulo": "Fechar Apps para Limpar RAM Pode Piorar o Desempenho do Celular",
+        "link": "https://gizbr.uol.com.br/limpar-ram-android-prejudica-desempenho/",
+        "categoria_slug": "tecnologia"
+      },
+      {
+        "id": "ciencia-2026-07-03-2100-01",
+        "titulo": "Hubble Detecta Luz de Galáxia Primitiva",
+        "link": "https://super.abril.com.br/ciencia/hubble-detecta-luz-de-galaxia-primitiva-que-astronomos-achavam-ser-impossivel-observar/",
         "categoria_slug": "ciencia"
       }
     ],
     "capa": {
       "categoria_slug": "noticias",
       "categoria_nome": "Notícias",
-      "titulo": "Governo brasileiro altera regras de exportação de carnes para União Europeia",
-      "subtitulo": "O governo brasileiro alterou as regras de exportação de carnes para a União Europeia, visando atender às exigências da UE em relação ao uso de antimicrobianos...",
-      "resumo": "O governo brasileiro alterou as regras de exportação de carnes para a União Europeia, visando atender às exigências da UE em relação ao uso de antimicrobianos. A medida visa evitar um embargo às exportações brasileiras.",
-      "imagem": "https://s2-g1.glbimg.com/O-tKnQoSE_hInsIh1xsKBJ4WDzo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/m/nxQDNdS86poYYWsNEAOA/cindie-hansen-qt0qvgexvps-unsplash.jpg",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/03/governo-brasileiro-altera-regras-de-exportacao-de-carnes-para-uniao-europeia-e-tenta-evitar-embargo.ghtml",
-      "fonte": "Desconhecida",
-      "publicado_em": "2026-07-03T15:46:30-03:00"
+      "titulo": "Bolsonaro mantido em prisão domiciliar",
+      "subtitulo": "O ex-presidente Jair Bolsonaro foi mantido em prisão domiciliar pelo ministro Alexandre de Moraes do STF...",
+      "resumo": "O ex-presidente Jair Bolsonaro foi mantido em prisão domiciliar pelo ministro Alexandre de Moraes do STF. Ele deve entregar suas armas em 48 horas.",
+      "imagem": "https://s2-g1.glbimg.com/7j37qzn0u4Ki-8ELbdYkFUBcJDI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/Y/kQWhnWQJWqcKSTIWywmw/age20250911073.jpg",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/03/moraes-mantem-bolsonaro-em-prisao-domiciliar.ghtml",
+      "fonte": "G1",
+      "publicado_em": "2026-07-03T20:42:44-03:00"
     },
     "categorias": {
       "noticias": {
@@ -46,131 +46,147 @@
         "nome": "Notícias",
         "artigos": [
           {
-            "id": "noticias-2026-07-03-1600-01",
-            "titulo": "Governo brasileiro altera regras de exportação de carnes para União Europeia",
-            "resumo": "O governo brasileiro alterou as regras de exportação de carnes para a União Europeia, visando atender às exigências da UE em relação ao uso de antimicrobianos. A medida visa evitar um embargo às exportações brasileiras.",
-            "imagem": "https://s2-g1.glbimg.com/O-tKnQoSE_hInsIh1xsKBJ4WDzo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/m/nxQDNdS86poYYWsNEAOA/cindie-hansen-qt0qvgexvps-unsplash.jpg",
-            "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/03/governo-brasileiro-altera-regras-de-exportacao-de-carnes-para-uniao-europeia-e-tenta-evitar-embargo.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T15:46:30-03:00",
-            "relevancia": 0.8,
+            "id": "noticias-2026-07-03-2100-01",
+            "titulo": "Bolsonaro mantido em prisão domiciliar",
+            "resumo": "O ex-presidente Jair Bolsonaro foi mantido em prisão domiciliar pelo ministro Alexandre de Moraes do STF. Ele deve entregar suas armas em 48 horas.",
+            "imagem": "https://s2-g1.glbimg.com/7j37qzn0u4Ki-8ELbdYkFUBcJDI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/Y/kQWhnWQJWqcKSTIWywmw/age20250911073.jpg",
+            "link": "https://g1.globo.com/politica/noticia/2026/07/03/moraes-mantem-bolsonaro-em-prisao-domiciliar.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-03T20:42:44-03:00",
+            "relevancia": 0.9,
             "destaque": true,
             "tags": [
-              "economia",
-              "exportacao",
-              "uniao europeia"
+              "bolsonaro",
+              "prisao",
+              "stf"
             ]
           },
           {
-            "id": "noticias-2026-07-03-1600-02",
-            "titulo": "Papa Leão XIV elogia história pró-imigração dos EUA",
-            "resumo": "O papa Leão XIV enviou uma mensagem para marcar os 250 anos de independência dos Estados Unidos, celebrando a história pró-imigração do país e pedindo que os EUA trabalhem por unidade, justiça e paz.",
-            "imagem": "https://s2-g1.glbimg.com/UhHp44Ka-h3_0Coe-GgjM2OLcXU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/k/iA753ZTHCdBSoo0UNZlA/f3834450-6519-11f1-8546-8f19e4fe30f4.jpg.webp",
-            "link": "https://g1.globo.com/mundo/noticia/2026/07/03/leao-xiv-1o-papa-americano-pede-que-eua-trabalhem-por-unidade-justica-e-paz.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T15:45:40-03:00",
-            "relevancia": 0.6,
-            "destaque": false,
-            "tags": [
-              "papa",
-              "eua",
-              "independencia"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-03-1600-03",
-            "titulo": "Flávio Bolsonaro vai aos EUA defender o PIX",
-            "resumo": "O senador Flávio Bolsonaro vai aos EUA para defender o PIX, sistema de pagamentos brasileiro, em meio às discussões sobre a ferramenta.",
-            "imagem": "https://s2-g1.glbimg.com/SshX2tWajZuGygY9ZxuS6FNB3i0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/I/qnYynVQFGgz1zPJ6qXiQ/flavio1.jpg",
-            "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/03/flavio-bolsonaro-diz-que-vai-para-os-eua-defender-o-pix.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T15:46:30-03:00",
-            "relevancia": 0.4,
-            "destaque": false,
-            "tags": [
-              "politica",
-              "pix",
-              "eua"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-03-1600-04",
-            "titulo": "Trem descarrila e estação Novo Eldorado é fechada temporariamente na Grande BH",
-            "resumo": "Um trem do metrô descarrilou na manhã de sexta-feira, na Região Metropolitana de Belo Horizonte, e a estação Novo Eldorado foi fechada temporariamente.",
-            "imagem": "https://s2-g1.glbimg.com/Yn8JUCkrOnqDn5lIOZBTF6QDauA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/Y/Y/4SMMT9Slmmxy8HTxQWCQ/whatsapp-image-2023-08-15-at-10.36.01.jpeg",
-            "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/03/trem-descarrila-e-estacao-novo-eldorado-e-fechada-temporariamente-na-grande-bh.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T15:54:42-03:00",
-            "relevancia": 0.2,
+            "id": "noticias-2026-07-03-2100-02",
+            "titulo": "Três mortos em acidente na Serra Dona Francisca",
+            "resumo": "Um acidente entre um carro e uma carreta na Serra Dona Francisca, em Santa Catarina, deixou três mortos, incluindo um bebê.",
+            "imagem": "https://s2-g1.glbimg.com/eK5JKucKlIcoG61iZk6y-GfY0ec=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/N/hcnF0uSBK9f6FDCNItPg/whatsapp-image-2026-07-03-at-16.11.49.jpeg",
+            "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/03/tres-morrem-bebe-carro-colisao-frontal-carreta-serra-dona-francisca-sc.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-03T20:46:52-03:00",
+            "relevancia": 0.8,
             "destaque": false,
             "tags": [
               "acidente",
-              "trem",
-              "grande bh"
+              "serra dona francisca",
+              "morte"
             ]
           },
           {
-            "id": "noticias-2026-07-03-1600-05",
-            "titulo": "Polícia conclui que ex-companheiro matou técnica de enfermagem e tirou a própria vida no TO",
-            "resumo": "A polícia concluiu que o ex-companheiro da técnica de enfermagem Aliny Pereira de Ornelas foi o responsável por sua morte e também tirou a própria vida.",
-            "imagem": "https://s2-g1.glbimg.com/8lhe58nLJvbO--3Oq1TeQhgOLfQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/a/l/stg40JTLA0pVbfH25mLg/foto-e-montagem-vertical-65-.png",
-            "link": "https://g1.globo.com/to/tocantins/noticia/2026/07/03/policia-conclui-que-ex-companheiro-matou-tecnica-de-enfermagem-e-tirou-a-propria-vida-no-to.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T15:53:01-03:00",
-            "relevancia": 0.1,
+            "id": "noticias-2026-07-03-2100-03",
+            "titulo": "Denúncias de violações de direitos em casas para idosos crescem",
+            "resumo": "As denúncias de violações de direitos em casas para idosos cresceram 12,6% na região de Campinas.",
+            "imagem": "https://s2-g1.glbimg.com/AkFXxo3KXcIiT4W7SJtBXydmIOE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/5/uzC0P9TJqeiAp91B5hNg/idosos.png",
+            "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/03/denuncias-de-violacoes-de-direitos-em-casas-para-idosos-crescem-126percent-na-regiao-de-campinas-veja-como-escolher-uma-instituicao.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-03T20:44:01-03:00",
+            "relevancia": 0.7,
             "destaque": false,
             "tags": [
-              "crime",
-              "homicidio",
-              "tocantins"
+              "casas para idosos",
+              "violações de direitos",
+              "campinas"
             ]
           },
           {
-            "id": "noticias-2026-07-03-1600-06",
-            "titulo": "Homem é preso suspeito de matar adolescente de 15 anos com veneno em João Pessoa",
-            "resumo": "Um homem foi preso suspeito de matar uma adolescente de 15 anos com veneno em João Pessoa.",
-            "imagem": "https://s2-g1.glbimg.com/g4UIF3GjSbmsN_AlRQDptf5_Vjk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/H/y/wKAj2cTPWBSb3nfZSJbA/whatsapp-image-2023-12-07-at-18.01.16.jpeg",
-            "link": "https://g1.globo.com/pb/paraiba/noticia/2026/07/03/preso-suspeito-de-matar-adolescente-de-15-anos-com-veneno-em-joao-pessoa.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T15:51:21-03:00",
-            "relevancia": 0.1,
+            "id": "noticias-2026-07-03-2100-04",
+            "titulo": "Fazenda da maconha: deputado encontra droga enterrada",
+            "resumo": "O deputado André Fernandes encontrou droga enterrada em uma fazenda no Ceará, onde foi encontrada uma plantação de maconha.",
+            "imagem": "https://s2-g1.glbimg.com/k4fVRti3xssgIsal7_P_WeldYEI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/K/tSUoTAT2CAVwfuI3rbCg/andre-fernandes-acopiara.jpg",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/07/03/fazenda-da-maconha-andre-fernandes-volta-ao-local-e-diz-que-encontrou-droga-enterrada-apos-visita-do-governador.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-03T20:42:36-03:00",
+            "relevancia": 0.6,
             "destaque": false,
             "tags": [
-              "crime",
-              "homicidio",
-              "paraiba"
+              "fazenda da maconha",
+              "deputado",
+              "ceara"
             ]
           },
           {
-            "id": "noticias-2026-07-03-1600-07",
-            "titulo": "Prefeitura do Rio começa a entregar autorizações para taxistas auxiliares",
-            "resumo": "A Prefeitura do Rio começou a entregar autorizações para taxistas auxiliares que aguardavam na fila de espera.",
-            "imagem": "https://s2-g1.glbimg.com/rEnJwKcwBmoMhwjmosrWUlo2BJc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/f/SKKxvCQ7i4i77RAauYQw/rj1-limpo-20260703-1115-frame-121805.jpeg",
-            "link": "https://g1.globo.com/rj/rio-de-janeiro/rj1/noticia/2026/07/03/prefeitura-do-rio-autorizacoes-taxistas-auxiliares.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T15:51:07-03:00",
-            "relevancia": 0.1,
+            "id": "noticias-2026-07-03-2100-05",
+            "titulo": "Solar de Brasília: condomínio onde Bolsonaro ficará em prisão domiciliar",
+            "resumo": "O condomínio Solar de Brasília é onde o ex-presidente Jair Bolsonaro ficará em prisão domiciliar.",
+            "imagem": "https://s2-g1.glbimg.com/abq0QQJbN0676_dQJjpbrsE-QEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/4/c/iVVK1LTUyPQYWQg5iUng/solar-brasilia.jfif",
+            "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/07/03/solar-de-brasilia-veja-detalhes-do-condominio-onde-bolsonaro-seguira-em-prisao-domiciliar.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-03T20:45:23-03:00",
+            "relevancia": 0.5,
             "destaque": false,
             "tags": [
-              "politica",
-              "rio de janeiro",
-              "taxistas"
+              "solar de brasília",
+              "bolsonaro",
+              "prisão domiciliar"
             ]
           },
           {
-            "id": "noticias-2026-07-03-1600-08",
-            "titulo": "Pais entregam celular com conversas à PF e suspeito de abuso sexual infantil é preso em Macapá",
-            "resumo": "Um suspeito de abuso sexual infantil foi preso em Macapá após pais entregarem um celular com conversas à Polícia Federal.",
-            "imagem": "https://s2-g1.glbimg.com/A5nlp1mapcTRodBWdM0JNEOSfjk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/y/nyUbtpSbOwbQME1rJTaQ/01a9f874-8c8d-45a3-81d1-f94c4a75c3c2.avif",
-            "link": "https://g1.globo.com/ap/amapa/noticia/2026/07/03/pais-entregam-celular-com-conversas-a-pf-e-suspeito-de-abuso-sexual-infantil-e-preso-em-macapa.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T15:49:30-03:00",
+            "id": "noticias-2026-07-03-2100-06",
+            "titulo": "Campos do Jordão: diárias de hotéis e refeições por quilo têm preços altos",
+            "resumo": "As diárias de hotéis e refeições por quilo em Campos do Jordão têm preços altos, segundo o Procon-SP.",
+            "imagem": "https://s2-g1.glbimg.com/trQh9FAsaWMayytL7ijqOHgw2K4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/A/6bWt24QVWymYIhAS5zLA/a22547d6-4bc5-46d1-ab5a-50c277ede78f.jpg",
+            "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/03/campos-do-jordao-tem-diaria-de-hotel-media-de-r-11-mil-e-refeicao-por-quilo-a-r-9090-diz-procon-sp.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-03T20:46:25-03:00",
+            "relevancia": 0.4,
+            "destaque": false,
+            "tags": [
+              "campos do jordão",
+              "preços",
+              "hotéis"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-03-2100-07",
+            "titulo": "Estudante presa por atropelar idoso em Rondônia",
+            "resumo": "Uma estudante de Medicina foi presa por atropelar e matar um idoso em Rondônia.",
+            "imagem": "https://s2-g1.glbimg.com/YIUzVB8iey9Imss0OuzudHdB7O0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/O/UNAlHjRkG3bjyrBOnYYg/design-sem-nome-5-.png",
+            "link": "https://g1.globo.com/ro/rondonia/noticia/2026/07/03/estudante-presa-por-atropelar-idoso-em-ro-exigiu-pedido-de-desculpas-de-joelhos-antes-do-crime-aponta-peticao.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-03T20:33:14-03:00",
+            "relevancia": 0.3,
+            "destaque": false,
+            "tags": [
+              "atropelamento",
+              "idoso",
+              "rondônia"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-03-2100-08",
+            "titulo": "Três instituições para idosos interditadas em Juiz de Fora",
+            "resumo": "Três instituições para idosos foram interditadas em Juiz de Fora devido a irregularidades.",
+            "imagem": "https://s2-g1.glbimg.com/KCD-cYbK1EWbi9Cd5yum2Wa6e2U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/d/BNESd5TBORgoBAoMZUPw/operacao-pjf.jpg",
+            "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/07/03/tres-instituicoes-para-idosos-sao-interditadas-em-juiz-de-fora.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-03T20:30:51-03:00",
+            "relevancia": 0.2,
+            "destaque": false,
+            "tags": [
+              "instituições para idosos",
+              "interdição",
+              "juiz de fora"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-03-2100-09",
+            "titulo": "Fotógrafo alagoano desaparecido em rio no Pará é encontrado morto",
+            "resumo": "Um fotógrafo alagoano que desapareceu em um rio no Pará foi encontrado morto.",
+            "imagem": "https://s2-g1.glbimg.com/QyV7krQ3v9RcrAk03bxQ4AU04kQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/7/vkiJuYQPiDPHZojH75ZQ/vinicius-gomes-reproducao-redes-sociais-widexl.png",
+            "link": "https://g1.globo.com/al/alagoas/noticia/2026/07/03/fotografo-alagoano-desaparecido-em-rio-no-para-e-encontrado-morto.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-03T20:34:35-03:00",
             "relevancia": 0.1,
             "destaque": false,
             "tags": [
-              "crime",
-              "abuso sexual",
-              "amapa"
+              "fotógrafo",
+              "desaparecido",
+              "morte"
             ]
           }
         ]
