@@ -5,40 +5,40 @@
     "edicao": "2026-07-03",
     "destaques": [
       {
-        "id": "tecnologia-2026-07-03-1000-01",
-        "titulo": "Seu relógio pode virar alerta de saúde mental",
-        "link": "https://gizbr.uol.com.br/ia-saude-mental-terapia-tempo-real/",
-        "categoria_slug": "tecnologia"
-      },
-      {
-        "id": "comportamento-2026-07-03-1000-01",
-        "titulo": "Jovens perdem espaço no mercado de trabalho por causa da IA",
-        "link": "https://gizbr.uol.com.br/vagas-juniores-queda-ia-suica/",
-        "categoria_slug": "comportamento"
-      },
-      {
-        "id": "noticias-2026-07-03-1000-01",
-        "titulo": "Terremotos na Venezuela: Cristo Redentor exibe homenagem",
-        "link": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/noticia/2026/07/03/cristo-redentor-exibe-projecao-em-homenagem-as-vitimas-de-terremotos-na-venezuela.ghtml",
+        "id": "noticias-2026-07-03-1600-01",
+        "titulo": "Governo brasileiro altera regras de exportação de carnes para União Europeia",
+        "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/03/governo-brasileiro-altera-regras-de-exportacao-de-carnes-para-uniao-europeia-e-tenta-evitar-embargo.ghtml",
         "categoria_slug": "noticias"
       },
       {
-        "id": "ciencia-2026-07-03-1000-01",
-        "titulo": "Cientistas extraem DNA antigo de pintura rupestre",
-        "link": "https://super.abril.com.br/ciencia/pela-primeira-vez-cientistas-extraem-dna-antigo-de-uma-pintura-rupestre/",
+        "id": "tecnologia-2026-07-03-1600-01",
+        "titulo": "Google Passa a Guardar Mais Dados de Busca com IA",
+        "link": "https://gizbr.uol.com.br/google-coleta-audios-imagens-treinar-ia/",
+        "categoria_slug": "tecnologia"
+      },
+      {
+        "id": "atualidades-2026-07-03-1600-01",
+        "titulo": "Brasil Teve 120 Mil Mortes Associadas a Ondas de Calor em 20 Anos",
+        "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
+        "categoria_slug": "atualidades"
+      },
+      {
+        "id": "ciencia-2026-07-03-1600-01",
+        "titulo": "NASA Captura Nuvem Vermelha com Estrelas Brancas e Azuis",
+        "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/",
         "categoria_slug": "ciencia"
       }
     ],
     "capa": {
-      "categoria_slug": "tecnologia",
-      "categoria_nome": "Tecnologia",
-      "titulo": "Seu relógio pode virar alerta de saúde mental",
-      "subtitulo": "Pesquisadores criaram um assistente que monitora biosinais e histórico médico, superando o ChatGPT em empatia e personalização...",
-      "resumo": "Pesquisadores criaram um assistente que monitora biosinais e histórico médico, superando o ChatGPT em empatia e personalização.",
-      "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
-      "link": "https://gizbr.uol.com.br/ia-saude-mental-terapia-tempo-real/",
-      "fonte": "GizBR",
-      "publicado_em": "2026-07-02T22:34:42-03:00"
+      "categoria_slug": "noticias",
+      "categoria_nome": "Notícias",
+      "titulo": "Governo brasileiro altera regras de exportação de carnes para União Europeia",
+      "subtitulo": "O governo brasileiro alterou as regras de exportação de carnes para a União Europeia, visando atender às exigências da UE em relação ao uso de antimicrobianos...",
+      "resumo": "O governo brasileiro alterou as regras de exportação de carnes para a União Europeia, visando atender às exigências da UE em relação ao uso de antimicrobianos. A medida visa evitar um embargo às exportações brasileiras.",
+      "imagem": "https://s2-g1.glbimg.com/O-tKnQoSE_hInsIh1xsKBJ4WDzo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/m/nxQDNdS86poYYWsNEAOA/cindie-hansen-qt0qvgexvps-unsplash.jpg",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/03/governo-brasileiro-altera-regras-de-exportacao-de-carnes-para-uniao-europeia-e-tenta-evitar-embargo.ghtml",
+      "fonte": "Desconhecida",
+      "publicado_em": "2026-07-03T15:46:30-03:00"
     },
     "categorias": {
       "noticias": {
@@ -46,147 +46,131 @@
         "nome": "Notícias",
         "artigos": [
           {
-            "id": "noticias-2026-07-03-1000-01",
-            "titulo": "Terremotos na Venezuela: Cristo Redentor exibe homenagem",
-            "resumo": "O Cristo Redentor exibiu uma projeção especial em homenagem às vítimas dos terremotos que atingiram a Venezuela. A iniciativa também teve o objetivo de mostrar solidariedade ao país.",
-            "imagem": "https://s2-g1.glbimg.com/N6laQb-NdTYbS1eYvwBzF2TRRXE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/C/nZrFrSSOqPo9SSt8uADA/bdrj-venezuela1.jpeg",
-            "link": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/noticia/2026/07/03/cristo-redentor-exibe-projecao-em-homenagem-as-vitimas-de-terremotos-na-venezuela.ghtml",
+            "id": "noticias-2026-07-03-1600-01",
+            "titulo": "Governo brasileiro altera regras de exportação de carnes para União Europeia",
+            "resumo": "O governo brasileiro alterou as regras de exportação de carnes para a União Europeia, visando atender às exigências da UE em relação ao uso de antimicrobianos. A medida visa evitar um embargo às exportações brasileiras.",
+            "imagem": "https://s2-g1.glbimg.com/O-tKnQoSE_hInsIh1xsKBJ4WDzo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/m/nxQDNdS86poYYWsNEAOA/cindie-hansen-qt0qvgexvps-unsplash.jpg",
+            "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/03/governo-brasileiro-altera-regras-de-exportacao-de-carnes-para-uniao-europeia-e-tenta-evitar-embargo.ghtml",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T09:39:02-03:00",
+            "publicado_em": "2026-07-03T15:46:30-03:00",
             "relevancia": 0.8,
             "destaque": true,
             "tags": [
-              "venezuela",
-              "terremoto",
-              "cristo redentor"
+              "economia",
+              "exportacao",
+              "uniao europeia"
             ]
           },
           {
-            "id": "noticias-2026-07-03-1000-02",
-            "titulo": "Massa de ar polar derruba temperaturas no RS",
-            "resumo": "Uma massa de ar polar está provocando uma queda acentuada das temperaturas no Rio Grande do Sul, com mínimas abaixo de 0°C em algumas regiões.",
-            "imagem": "https://s2-g1.glbimg.com/KbHYlI7IWLygfS2VxMwZknSlO0E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/A/FOWkkGSJG8VfnWe1sGrQ/g1-23-.jpg",
-            "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/03/rs-volta-a-registrar-temperaturas-negativas-quarai.ghtml",
+            "id": "noticias-2026-07-03-1600-02",
+            "titulo": "Papa Leão XIV elogia história pró-imigração dos EUA",
+            "resumo": "O papa Leão XIV enviou uma mensagem para marcar os 250 anos de independência dos Estados Unidos, celebrando a história pró-imigração do país e pedindo que os EUA trabalhem por unidade, justiça e paz.",
+            "imagem": "https://s2-g1.glbimg.com/UhHp44Ka-h3_0Coe-GgjM2OLcXU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/k/iA753ZTHCdBSoo0UNZlA/f3834450-6519-11f1-8546-8f19e4fe30f4.jpg.webp",
+            "link": "https://g1.globo.com/mundo/noticia/2026/07/03/leao-xiv-1o-papa-americano-pede-que-eua-trabalhem-por-unidade-justica-e-paz.ghtml",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T09:40:29-03:00",
-            "relevancia": 0.7,
-            "destaque": false,
-            "tags": [
-              "rio grande do sul",
-              "frio",
-              "massa de ar polar"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-03-1000-03",
-            "titulo": "Brasil cria centro para produzir insumos farmacêuticos",
-            "resumo": "O Brasil lançou um centro de pesquisa para desenvolver insumos farmacêuticos a partir da biodiversidade brasileira, visando reduzir a dependência do país de matérias-primas importadas.",
-            "imagem": "https://s2-g1.glbimg.com/YlOhK4dymR3_AIaHC2nLTUFlMsw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/q/J3qMItQiAfAyffmBi7lQ/adobestock-540453673.jpeg",
-            "link": "https://g1.globo.com/saude/noticia/2026/07/03/brasil-cria-centro-para-produzir-insumos-farmaceuticos-e-reduzir-dependencia-do-exterior-projeto-nao-tem-prazo-nem-meta-definidos.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T09:28:35-03:00",
+            "publicado_em": "2026-07-03T15:45:40-03:00",
             "relevancia": 0.6,
             "destaque": false,
             "tags": [
-              "saude",
-              "insumos farmaceuticos",
-              "biodiversidade"
+              "papa",
+              "eua",
+              "independencia"
             ]
           },
           {
-            "id": "noticias-2026-07-03-1000-04",
-            "titulo": "Falha afeta circulação de trens na Linha 11-Coral da CPTM",
-            "resumo": "Um problema técnico afetou a circulação de trens na Linha 11-Coral da CPTM, causando lotação nas plataformas e trens.",
-            "imagem": "https://s2-g1.glbimg.com/Vzmk6eri7p_nukO7yiGvvTzwrNU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/o/UR7YfpTo6nPD0JTxhmSA/whatsapp-image-2026-07-03-at-06.23.13-2-.jpeg",
-            "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/03/falha-afeta-circulacao-de-trens-na-linha-11-coral-da-cptm-plataformas-e-trens-ficam-lotadas-e-passageiros-passam-mal.ghtml",
+            "id": "noticias-2026-07-03-1600-03",
+            "titulo": "Flávio Bolsonaro vai aos EUA defender o PIX",
+            "resumo": "O senador Flávio Bolsonaro vai aos EUA para defender o PIX, sistema de pagamentos brasileiro, em meio às discussões sobre a ferramenta.",
+            "imagem": "https://s2-g1.glbimg.com/SshX2tWajZuGygY9ZxuS6FNB3i0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/I/qnYynVQFGgz1zPJ6qXiQ/flavio1.jpg",
+            "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/03/flavio-bolsonaro-diz-que-vai-para-os-eua-defender-o-pix.ghtml",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T09:37:58-03:00",
-            "relevancia": 0.5,
-            "destaque": false,
-            "tags": [
-              "cptm",
-              "trens",
-              "problema tecnico"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-03-1000-05",
-            "titulo": "Sobe para 10 número de monges mortos em atropelamento na Tailândia",
-            "resumo": "O número de monges mortos em um atropelamento na Tailândia subiu para 10. O acidente ocorreu durante uma peregrinação.",
-            "imagem": "https://s2-g1.glbimg.com/klMOqvz1r88IhOwXipfOcoklgwM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/Q/tcfzWRQZGIhIwQqvySEA/afp-20260702-b8zk69m-v1-highres-thailandaccidentreligion.jpg",
-            "link": "https://g1.globo.com/mundo/noticia/2026/07/03/sobe-numero-monges-mortos-atropelamento-tailandia.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T09:31:30-03:00",
+            "publicado_em": "2026-07-03T15:46:30-03:00",
             "relevancia": 0.4,
             "destaque": false,
             "tags": [
-              "tailandia",
-              "atropelamento",
-              "monges"
+              "politica",
+              "pix",
+              "eua"
             ]
           },
           {
-            "id": "noticias-2026-07-03-1000-06",
-            "titulo": "Terminal da Parangaba recebe mutirão de empregos em Fortaleza",
-            "resumo": "O terminal da Parangaba em Fortaleza receberá um mutirão de empregos com 700 vagas de trabalho.",
-            "imagem": "https://s2-g1.glbimg.com/3JMmbCWAgl_54cyBlp311RCdjVM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/Y/L0QhU8RyqAAu6DX7WAkg/cateira-1.jpg",
-            "link": "https://g1.globo.com/ce/ceara/suachance/noticia/2026/07/03/terminal-da-parangaba-recebe-mutirao-de-empregos-com-700-vagas-de-trabalho-em-fortaleza.ghtml",
+            "id": "noticias-2026-07-03-1600-04",
+            "titulo": "Trem descarrila e estação Novo Eldorado é fechada temporariamente na Grande BH",
+            "resumo": "Um trem do metrô descarrilou na manhã de sexta-feira, na Região Metropolitana de Belo Horizonte, e a estação Novo Eldorado foi fechada temporariamente.",
+            "imagem": "https://s2-g1.glbimg.com/Yn8JUCkrOnqDn5lIOZBTF6QDauA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/Y/Y/4SMMT9Slmmxy8HTxQWCQ/whatsapp-image-2023-08-15-at-10.36.01.jpeg",
+            "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/03/trem-descarrila-e-estacao-novo-eldorado-e-fechada-temporariamente-na-grande-bh.ghtml",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T09:28:11-03:00",
-            "relevancia": 0.3,
-            "destaque": false,
-            "tags": [
-              "fortaleza",
-              "mutirao de empregos",
-              "terminal da parangaba"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-03-1000-07",
-            "titulo": "16 mulheres trans estão mantidas em cadeias masculinas no PI",
-            "resumo": "Pelo menos 16 mulheres trans estão sendo mantidas em cadeias masculinas no Piauí, segundo um levantamento da Defensoria Pública do Estado.",
-            "imagem": "https://s2-g1.glbimg.com/W4lXyV-GcmH--q7JBOIkygyeax8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/g/TtQekhTLqF0NTa2SBIiA/edicao-imagens-g1-12-.png",
-            "link": "https://g1.globo.com/pi/piaui/noticia/2026/07/03/16-mulheres-trans-estao-mantidas-em-cadeias-masculinas-no-pi-aponta-levantamento.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T09:23:48-03:00",
+            "publicado_em": "2026-07-03T15:54:42-03:00",
             "relevancia": 0.2,
             "destaque": false,
             "tags": [
-              "piaui",
-              "mulheres trans",
-              "cadeias masculinas"
+              "acidente",
+              "trem",
+              "grande bh"
             ]
           },
           {
-            "id": "noticias-2026-07-03-1000-08",
-            "titulo": "Festival internacional de cinema acontece em Cabaceiras",
-            "resumo": "A cidade de Cabaceiras, no Cariri paraibano, recebe o festival internacional de cinema 'Roliúde Cine Fest' com programação audiovisual gratuita.",
-            "imagem": "https://s2-g1.glbimg.com/Hl1YTwlsLGtHWYyzBLeIinRarP0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/8/Y/AOoyiGSFaGDr9SfGPYdA/tay-lopes-800x450.jpg",
-            "link": "https://g1.globo.com/pb/paraiba/noticia/2026/07/03/festival-internacional-de-cinema-acontece-em-cabaceiras-roliude-nordestina.ghtml",
+            "id": "noticias-2026-07-03-1600-05",
+            "titulo": "Polícia conclui que ex-companheiro matou técnica de enfermagem e tirou a própria vida no TO",
+            "resumo": "A polícia concluiu que o ex-companheiro da técnica de enfermagem Aliny Pereira de Ornelas foi o responsável por sua morte e também tirou a própria vida.",
+            "imagem": "https://s2-g1.glbimg.com/8lhe58nLJvbO--3Oq1TeQhgOLfQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/a/l/stg40JTLA0pVbfH25mLg/foto-e-montagem-vertical-65-.png",
+            "link": "https://g1.globo.com/to/tocantins/noticia/2026/07/03/policia-conclui-que-ex-companheiro-matou-tecnica-de-enfermagem-e-tirou-a-propria-vida-no-to.ghtml",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T09:16:35-03:00",
+            "publicado_em": "2026-07-03T15:53:01-03:00",
             "relevancia": 0.1,
             "destaque": false,
             "tags": [
-              "cabaceiras",
-              "festival de cinema",
-              "roliude nordestina"
+              "crime",
+              "homicidio",
+              "tocantins"
             ]
           },
           {
-            "id": "noticias-2026-07-03-1000-09",
-            "titulo": "Ciee oferece 149 vagas de estágio e jovem aprendiz no Alto Tietê",
-            "resumo": "O Centro de Integração Empresa-Escola (Ciee) oferece 149 vagas de estágio e jovem aprendiz no Alto Tietê.",
-            "imagem": "https://s2-g1.glbimg.com/ntRk_KrsnXEfss5qc7Wom2Lko2M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/U/u/WbFVUBR5ycxbPHSexWQQ/mg-7622.jpg",
-            "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/concursos-e-emprego/noticia/2026/07/03/ciee-oferece-149-vagas-de-estagio-e-jovem-aprendiz-no-alto-tiete.ghtml",
+            "id": "noticias-2026-07-03-1600-06",
+            "titulo": "Homem é preso suspeito de matar adolescente de 15 anos com veneno em João Pessoa",
+            "resumo": "Um homem foi preso suspeito de matar uma adolescente de 15 anos com veneno em João Pessoa.",
+            "imagem": "https://s2-g1.glbimg.com/g4UIF3GjSbmsN_AlRQDptf5_Vjk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/H/y/wKAj2cTPWBSb3nfZSJbA/whatsapp-image-2023-12-07-at-18.01.16.jpeg",
+            "link": "https://g1.globo.com/pb/paraiba/noticia/2026/07/03/preso-suspeito-de-matar-adolescente-de-15-anos-com-veneno-em-joao-pessoa.ghtml",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T09:44:16-03:00",
+            "publicado_em": "2026-07-03T15:51:21-03:00",
             "relevancia": 0.1,
             "destaque": false,
             "tags": [
-              "alto tiete",
-              "ciee",
-              "vagas de estagio"
+              "crime",
+              "homicidio",
+              "paraiba"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-03-1600-07",
+            "titulo": "Prefeitura do Rio começa a entregar autorizações para taxistas auxiliares",
+            "resumo": "A Prefeitura do Rio começou a entregar autorizações para taxistas auxiliares que aguardavam na fila de espera.",
+            "imagem": "https://s2-g1.glbimg.com/rEnJwKcwBmoMhwjmosrWUlo2BJc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/f/SKKxvCQ7i4i77RAauYQw/rj1-limpo-20260703-1115-frame-121805.jpeg",
+            "link": "https://g1.globo.com/rj/rio-de-janeiro/rj1/noticia/2026/07/03/prefeitura-do-rio-autorizacoes-taxistas-auxiliares.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T15:51:07-03:00",
+            "relevancia": 0.1,
+            "destaque": false,
+            "tags": [
+              "politica",
+              "rio de janeiro",
+              "taxistas"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-03-1600-08",
+            "titulo": "Pais entregam celular com conversas à PF e suspeito de abuso sexual infantil é preso em Macapá",
+            "resumo": "Um suspeito de abuso sexual infantil foi preso em Macapá após pais entregarem um celular com conversas à Polícia Federal.",
+            "imagem": "https://s2-g1.glbimg.com/A5nlp1mapcTRodBWdM0JNEOSfjk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/y/nyUbtpSbOwbQME1rJTaQ/01a9f874-8c8d-45a3-81d1-f94c4a75c3c2.avif",
+            "link": "https://g1.globo.com/ap/amapa/noticia/2026/07/03/pais-entregam-celular-com-conversas-a-pf-e-suspeito-de-abuso-sexual-infantil-e-preso-em-macapa.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T15:49:30-03:00",
+            "relevancia": 0.1,
+            "destaque": false,
+            "tags": [
+              "crime",
+              "abuso sexual",
+              "amapa"
             ]
           }
         ]
