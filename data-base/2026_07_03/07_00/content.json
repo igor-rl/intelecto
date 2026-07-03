@@ -1,0 +1,384 @@
+{
+  "jornal": {
+    "nome": "Atualidades & Intelecto",
+    "atualizado_em": "2026-07-03T07:00:00.000Z",
+    "edicao": "2026-07-03",
+    "destaques": [
+      {
+        "id": "noticias-2026-07-03-0000-01",
+        "titulo": "FBI investiga eleições em Georgia",
+        "link": "https://www.nytimes.com/2026/07/02/us/politics/fbi-georgia-fulton-county-2020-election.html",
+        "categoria_slug": "noticias"
+      },
+      {
+        "id": "ciencia-2026-07-02-1600-01",
+        "titulo": "Descoberta de Nova Espécie de Microrganismo na Antártida",
+        "link": "https://gizbr.uol.com.br/pesquisadoras-descobrem-nova-especie-de-microrganismo-adaptado-a-frio-e-calor-extremos-na-antartida/",
+        "categoria_slug": "ciencia"
+      },
+      {
+        "id": "cultura-2026-07-02-1600-01",
+        "titulo": "Além do Tupi, Outras Línguas Indígenas Deixaram Palavras no Português",
+        "link": "https://super.abril.com.br/coluna/oraculo/alem-do-tupi-outras-linguas-indigenas-deixaram-palavras-no-portugues/",
+        "categoria_slug": "cultura"
+      },
+      {
+        "id": "comportamento-2026-07-02-1600-01",
+        "titulo": "Jovens Perdem Espaço no Mercado de Trabalho por Causa da IA",
+        "link": "https://gizbr.uol.com.br/vagas-juniores-queda-ia-suica/",
+        "categoria_slug": "comportamento"
+      }
+    ],
+    "capa": {
+      "categoria_slug": "noticias",
+      "categoria_nome": "Notícias",
+      "titulo": "FBI investiga eleições em Georgia",
+      "subtitulo": "A investigação do FBI sobre as eleições em Georgia reflete a tentativa do presidente Trump de provar suas alegações infundadas de fraude nas eleições de 2020...",
+      "resumo": "A investigação do FBI sobre as eleições em Georgia reflete a tentativa do presidente Trump de provar suas alegações infundadas de fraude nas eleições de 2020.",
+      "imagem": null,
+      "link": "https://www.nytimes.com/2026/07/02/us/politics/fbi-georgia-fulton-county-2020-election.html",
+      "fonte": "Desconhecida",
+      "publicado_em": "2026-07-02T23:54:32.000Z"
+    },
+    "categorias": {
+      "noticias": {
+        "slug": "noticias",
+        "nome": "Notícias",
+        "artigos": [
+          {
+            "id": "noticias-2026-07-03-0000-01",
+            "titulo": "FBI investiga eleições em Georgia",
+            "resumo": "A investigação do FBI sobre as eleições em Georgia reflete a tentativa do presidente Trump de provar suas alegações infundadas de fraude nas eleições de 2020.",
+            "imagem": null,
+            "link": "https://www.nytimes.com/2026/07/02/us/politics/fbi-georgia-fulton-county-2020-election.html",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T23:54:32.000Z",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "política",
+              "eleições",
+              "georgia"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-03-0000-02",
+            "titulo": "Buracos em Campo Grande causam acidentes",
+            "resumo": "Os buracos nas ruas de Campo Grande têm causado acidentes e prejuízos a motoristas e motociclistas, além de aumentar a procura por atendimento de emergência.",
+            "imagem": "https://s2-g1.glbimg.com/Rfv1obPg-fqhMC6waBOIPDcc2o0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/h/VNLBLXRFih9gbd6hdkNQ/design-sem-nome-2026-07-02t185749.192.jpg",
+            "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/07/02/buracos-em-campo-grande-causam-acidentes-prejuizos-e-lotam-emergencia-da-santa-casa.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T23:32:23.000Z",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "acidentes",
+              "campo grande",
+              "infraestrutura"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-03-0000-03",
+            "titulo": "Homem é preso após engravidar menina de 12 anos",
+            "resumo": "Um homem de 25 anos foi preso por engravidar uma menina de 12 anos no Piauí.",
+            "imagem": "https://s2-g1.glbimg.com/4OMB3BWmvt5JcTOwVaWUEZALKCs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/l/hQP4LjSAe9t1Pqhnw9Ww/edicao-imagens-g1-2026-07-02t202226.438.jpg",
+            "link": "https://g1.globo.com/pi/piaui/noticia/2026/07/02/homem-preso-engravidar-menina.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T23:24:11.000Z",
+            "relevancia": 0.7,
+            "destaque": false,
+            "tags": [
+              "crime",
+              "piauí",
+              "menor"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-03-0000-04",
+            "titulo": "Justiça manda suspender obras do Trecho II da Marginal Itanguá",
+            "resumo": "A Justiça de Sorocaba determinou a suspensão das obras do Trecho II da Marginal Itanguá.",
+            "imagem": "https://s2-g1.glbimg.com/4seByrQ8x78Wc-KwR4jumsb5nAw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/A/k5j7DqRASFk7OYzQF3gQ/design-sem-nome-2026-05-22t181117.733.png",
+            "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/02/justica-manda-suspender-obras-do-trecho-ii-da-marginal-itangua-em-sorocaba.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T23:12:18.000Z",
+            "relevancia": 0.5,
+            "destaque": false,
+            "tags": [
+              "infraestrutura",
+              "sorocaba",
+              "justiça"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-03-0000-05",
+            "titulo": "Deputada Dani Portela afirma que foi agredida por PM",
+            "resumo": "A deputada estadual Dani Portela afirmou que foi agredida por um policial durante uma confusão no show de encerramento do São João do Recife.",
+            "imagem": "https://s2-g1.glbimg.com/SydhMQbOsNmVMOgRAJrsuI39nkc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/9/XUsWCWQCiyOlATCnfotA/capa-agenda-g1-2026-07-02t200205.016.jpg",
+            "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/07/02/deputada-dani-portela-pm-show.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T23:28:31.000Z",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "política",
+              "pernambuco",
+              "violência"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-03-0000-06",
+            "titulo": "Fiscais fazem vistoria técnica para verificar denúncia de contaminação ambiental",
+            "resumo": "Uma equipe de fiscalização ambiental fez uma vistoria técnica no Parque do Sabiá para verificar denúncia de contaminação ambiental.",
+            "imagem": "https://s2-g1.glbimg.com/gg7yw6DXayAEwhAb4Kr_GZ_j4Yk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/k/CTunWJSMmLfvoa0RA9IA/design-sem-nome-5-.png",
+            "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/02/fiscais-fazem-vistoria-tecnica-para-verificar-denuncia-de-contaminacao-ambiental-no-parque-do-sabia.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T23:29:29.000Z",
+            "relevancia": 0.5,
+            "destaque": false,
+            "tags": [
+              "meio ambiente",
+              "minas gerais",
+              "contaminação"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-03-0000-07",
+            "titulo": "Filhotes de cachorro são resgatados de porta-malas de carro",
+            "resumo": "Cinco filhotes de cachorro foram resgatados do porta-malas de um carro sob o sol forte em Goiânia.",
+            "imagem": "https://s2-g1.glbimg.com/eY1AXPq6geZzM6EJEWOk1vHkPmY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/i/0fLJFxRBusMFu3ywbozA/copia-de-copia-de-padrao-foto-g1-goias-2026-07-02t185428.163.jpg",
+            "link": "https://g1.globo.com/go/goias/noticia/2026/07/02/filhotes-de-cachorro-sao-resgatados-de-porta-malas-de-carro-sob-sol-forte-ao-lado-de-upa-veterinaria-em-goiania.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T23:28:58.000Z",
+            "relevancia": 0.4,
+            "destaque": false,
+            "tags": [
+              "animais",
+              "goiás",
+              "resgate"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-03-0000-08",
+            "titulo": "Com apoio de Zé Neto & Cristiano e Panda, hospital faz cirurgia em criança com tecnologia de alta complexidade",
+            "resumo": "Um hospital pediátrico de São José do Rio Preto fez a primeira cirurgia usando uma tecnologia de alta complexidade conhecida como ECMO.",
+            "imagem": "https://s2-g1.glbimg.com/zo6Dp22qxRiUu8jHT4b6_t4orTI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/d/6zAIS7Rrafz4SOtQozSA/formato-padrao-imagens-g1-2026-07-02t172112.588.png",
+            "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/07/02/com-apoio-de-ze-neto-and-cristiano-e-panda-hospital-fazer-1a-cirurgia-em-crianca-com-tecnologica-que-funciona-com-coracao-e-pulmao-artificiais.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T23:16:01.000Z",
+            "relevancia": 0.5,
+            "destaque": false,
+            "tags": [
+              "saúde",
+              "são paulo",
+              "tecnologia"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-03-0000-09",
+            "titulo": "Jovem denuncia ter sido agredido por PMs durante abordagem e dentro de hospital",
+            "resumo": "Um jovem denunciou ter sido agredido por policiais durante uma abordagem e dentro de um hospital no Tocantins.",
+            "imagem": "https://s2-g1.glbimg.com/foO4GSFQXb8L0K4Q28PmYDtDCpY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/T/HXWvLDReOritSABPHTkA/copia-de-modelo-foto-fundo-borrado-2-.png",
+            "link": "https://g1.globo.com/to/tocantins/noticia/2026/07/02/jovem-denuncia-ter-sido-agredido-por-pms-durante-abordagem-e-dentro-de-hospital-no-interior-do-to.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T23:42:02.000Z",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "direitos humanos",
+              "tocantins",
+              "violência"
+            ]
+          }
+        ]
+      },
+      "ciencia": {
+        "slug": "ciencia",
+        "nome": "Ciência",
+        "artigos": [
+          {
+            "id": "ciencia-2026-07-03-1000-01",
+            "titulo": "Cientistas extraem DNA antigo de pintura rupestre",
+            "resumo": "Pesquisadores conseguiram extrair DNA antigo de uma pintura rupestre, abrindo novas portas para a paleogenética.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-DNA-pintura-rupestre-layout_site-CAPA.jpg",
+            "link": "https://super.abril.com.br/ciencia/pela-primeira-vez-cientistas-extraem-dna-antigo-de-uma-pintura-rupestre/",
+            "fonte": "Super",
+            "publicado_em": "2026-07-02T19:00:19-03:00",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "dna",
+              "pintura rupestre",
+              "paleogenetica"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-03-1000-02",
+            "titulo": "Aranha mais rápida do mundo",
+            "resumo": "Uma espécie de aranha australiana foi registrada como a mais rápida do mundo, atingindo quase 3,6 metros por segundo.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-aranha-mais-rapida-layout_site.jpg",
+            "link": "https://super.abril.com.br/ciencia/conheca-a-aranha-mais-rapida-do-mundo/",
+            "fonte": "Super",
+            "publicado_em": "2026-07-02T22:00:44-03:00",
+            "relevancia": 0.4,
+            "destaque": false,
+            "tags": [
+              "aranha",
+              "rapidez",
+              "recorde"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-03-1000-03",
+            "titulo": "Ômega-3 não protege a memória",
+            "resumo": "Pesquisa com 365 adultos mostrou que o consumo de ômega-3 não protege a memória, contrariando a crença popular.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/omega-3-nao-previne-alzheimer-memoria/",
+            "fonte": "GizBR",
+            "publicado_em": "2026-07-02T18:37:04-03:00",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "omega-3",
+              "memoria",
+              "saude"
+            ]
+          }
+        ]
+      },
+      "futebol": {
+        "slug": "futebol",
+        "nome": "Futebol",
+        "artigos": [
+          {
+            "id": "f1",
+            "titulo": "Clube paulista anuncia contratação para a próxima temporada",
+            "resumo": "Reforço chega para disputar posição no meio-campo a partir do segundo semestre.",
+            "imagem": null,
+            "link": "#",
+            "fonte": "ge.globo",
+            "publicado_em": "2026-06-30T12:00:00-03:00"
+          }
+        ]
+      },
+      "curiosidades": {
+        "slug": "curiosidades",
+        "nome": "Curiosidades",
+        "artigos": [
+          {
+            "id": "u1",
+            "titulo": "Por que bocejamos? Ciência ainda não tem resposta definitiva",
+            "resumo": "Diferentes teorias tentam explicar o fenômeno, da regulação térmica à empatia social.",
+            "imagem": null,
+            "link": "#",
+            "fonte": "Mundo Estranho",
+            "publicado_em": "2026-06-29T18:00:00-03:00"
+          }
+        ]
+      },
+      "tecnologia": {
+        "slug": "tecnologia",
+        "nome": "Tecnologia",
+        "artigos": [
+          {
+            "id": "tecnologia-2026-07-03-1000-01",
+            "titulo": "Seu relógio pode virar alerta de saúde mental",
+            "resumo": "Pesquisadores criaram um assistente que monitora biosinais e histórico médico, superando o ChatGPT em empatia e personalização.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/ia-saude-mental-terapia-tempo-real/",
+            "fonte": "GizBR",
+            "publicado_em": "2026-07-02T22:34:42-03:00",
+            "relevancia": 0.9,
+            "destaque": true,
+            "tags": [
+              "saude mental",
+              "relógio",
+              "assistente"
+            ]
+          },
+          {
+            "id": "tecnologia-2026-07-03-1000-02",
+            "titulo": "Seu celular Galaxy precisa mudar o app de SMS",
+            "resumo": "A descontinuação do app de SMS do Galaxy torna o Google Messages o padrão para celulares Galaxy.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/samsung-messages-desativado-julho-2026/",
+            "fonte": "GizBR",
+            "publicado_em": "2026-07-02T22:05:16-03:00",
+            "relevancia": 0.7,
+            "destaque": false,
+            "tags": [
+              "celular",
+              "galaxy",
+              "sms"
+            ]
+          }
+        ]
+      },
+      "cultura": {
+        "slug": "cultura",
+        "nome": "Cultura",
+        "artigos": [
+          {
+            "id": "cultura-2026-07-03-1000-01",
+            "titulo": "Por que Jaspion fez mais sucesso no Brasil do que no Japão?",
+            "resumo": "A morte do ator Hikaru Kurosaki ressuscitou o interesse pelo personagem, que nunca teve o mesmo impacto no Japão.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-jaspion-layout_site.jpg",
+            "link": "https://super.abril.com.br/cultura/por-que-jaspion-fez-mais-sucesso-no-brasil-do-que-no-japao/",
+            "fonte": "Super",
+            "publicado_em": "2026-07-02T20:00:08-03:00",
+            "relevancia": 0.5,
+            "destaque": true,
+            "tags": [
+              "jaspion",
+              "brasil",
+              "japao"
+            ]
+          }
+        ]
+      },
+      "atualidades": {
+        "slug": "atualidades",
+        "nome": "Atualidades",
+        "artigos": [
+          {
+            "id": "atualidades-2026-07-03-1000-01",
+            "titulo": "A vez em que a Nicarágua invadiu a Costa Rica e botou a culpa no Google Maps",
+            "resumo": "A Nicarágua invadiu a Costa Rica e culpou o Google Maps pelo erro, que admitiu publicamente.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0107-ME-google-maps-layout_site.jpg",
+            "link": "https://super.abril.com.br/mundo-estranho/a-vez-em-que-a-nicaragua-invadiu-a-costa-rica-e-botou-a-culpa-no-google-maps/",
+            "fonte": "Super",
+            "publicado_em": "2026-07-02T11:00:30-03:00",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "nicaragua",
+              "costa rica",
+              "google maps"
+            ]
+          }
+        ]
+      },
+      "comportamento": {
+        "slug": "comportamento",
+        "nome": "Comportamento & Sociedade",
+        "artigos": [
+          {
+            "id": "comportamento-2026-07-03-1000-01",
+            "titulo": "Jovens perdem espaço no mercado de trabalho por causa da IA",
+            "resumo": "Áreas como marketing e finanças foram as mais afetadas, enquanto cargos sênior tiveram alta de 26% em funções expostas à inteligência artificial.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/vagas-juniores-queda-ia-suica/",
+            "fonte": "GizBR",
+            "publicado_em": "2026-07-01T21:43:08-03:00",
+            "relevancia": 0.9,
+            "destaque": true,
+            "tags": [
+              "jovens",
+              "mercado de trabalho",
+              "ia"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
