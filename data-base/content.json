@@ -1,7 +1,7 @@
 {
   "jornal": {
     "nome": "Atualidades & Intelecto",
-    "atualizado_em": "2026-07-02T18:00:00.000Z",
+    "atualizado_em": "2026-07-02T21:00:00.000Z",
     "edicao": "2026-07-02",
     "destaques": [
       {
@@ -196,51 +196,51 @@
         "nome": "Ciência",
         "artigos": [
           {
-            "id": "ciencia-2026-07-02-1600-01",
-            "titulo": "Descoberta de Nova Espécie de Microrganismo na Antártida",
-            "resumo": "Pesquisadoras descobrem nova espécie de microrganismo adaptado a frio e calor extremos na Antártida. A Pyroantarticum pellizari vive em uma ilha vulcânica do continente gelado.",
-            "imagem": "https://agencia.fapesp.br/files/upload/58238/n3-meio.jpg",
-            "link": "https://gizbr.uol.com.br/pesquisadoras-descobrem-nova-especie-de-microrganismo-adaptado-a-frio-e-calor-extremos-na-antartida/",
-            "fonte": "GizBR",
-            "publicado_em": "2026-07-01T10:01:25-03:00",
+            "id": "ciencia-2026-07-03-0000-01",
+            "titulo": "Cientistas extraem DNA antigo de pintura rupestre",
+            "resumo": "Pesquisadores conseguiram extrair DNA antigo de uma pintura rupestre, abrindo novas portas para a paleogenética.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-DNA-pintura-rupestre-layout_site-CAPA.jpg",
+            "link": "https://super.abril.com.br/ciencia/pela-primeira-vez-cientistas-extraem-dna-antigo-de-uma-pintura-rupestre/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T19:00:19-03:00",
             "relevancia": 0.8,
             "destaque": true,
             "tags": [
-              "antartida",
-              "microrganismo",
-              "descoberta"
+              "dna",
+              "pintura rupestre",
+              "paleogenetica"
             ]
           },
           {
-            "id": "ciencia-2026-07-02-1600-02",
-            "titulo": "Primeiro Fóssil de Dinossauro da Antártida é Descrito",
-            "resumo": "O osso de 82 milhões de anos pertenceu a um titanossauro de cerca de sete metros que viveu quando a Antártida era coberta por florestas.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/3006-dinossauro-antartica-layout_site-CAPA.jpg",
-            "link": "https://super.abril.com.br/ciencia/primeiro-fossil-de-dinossauro-da-antartida-e-descrito-apos-40-anos-esquecido-em-uma-gaveta/",
-            "fonte": "Super Interessante",
-            "publicado_em": "2026-06-30T21:00:34-03:00",
+            "id": "ciencia-2026-07-03-0000-02",
+            "titulo": "Aranha mais rápida do mundo",
+            "resumo": "Uma espécie de aranha australiana foi registrada como a mais rápida do mundo, atingindo quase 3,6 metros por segundo.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-aranha-mais-rapida-layout_site.jpg",
+            "link": "https://super.abril.com.br/ciencia/conheca-a-aranha-mais-rapida-do-mundo/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T22:00:44-03:00",
+            "relevancia": 0.4,
+            "destaque": false,
+            "tags": [
+              "aranha",
+              "rapida",
+              "australia"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-03-0000-03",
+            "titulo": "Ômega-3 não protege a memória",
+            "resumo": "Pesquisa com 365 adultos mostrou que o consumo de ômega-3 não protege a memória, contrariando a crença popular.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/omega-3-nao-previne-alzheimer-memoria/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T18:37:04-03:00",
             "relevancia": 0.6,
             "destaque": false,
             "tags": [
-              "dinossauro",
-              "antartida",
-              "fossil"
-            ]
-          },
-          {
-            "id": "ciencia-2026-07-02-1600-03",
-            "titulo": "Descoberta de 31 Espécies em Águas Profundas na Costa Brasileira",
-            "resumo": "Expedição usou tecnologias 3D com laser para documentar novas espécies em águas internacionais próxima à costa brasileira.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/3006-especies-aguas-profundas-layout_site-CAPA.jpg",
-            "link": "https://super.abril.com.br/ciencia/em-duas-semanas-31-especies-foram-descobertas-em-aguas-profundas-na-costa-brasileira-confira-fotos/",
-            "fonte": "Super Interessante",
-            "publicado_em": "2026-06-30T22:00:59-03:00",
-            "relevancia": 0.7,
-            "destaque": false,
-            "tags": [
-              "especies",
-              "aguas profundas",
-              "costa brasileira"
+              "omega-3",
+              "memoria",
+              "alzheimer"
             ]
           }
         ]
@@ -280,35 +280,35 @@
         "nome": "Tecnologia",
         "artigos": [
           {
-            "id": "tecnologia-2026-07-02-1600-01",
-            "titulo": "ChatGPT e Gemini para Otimizar o Windows",
-            "resumo": "Método usa relatório nativo MSINFO32 para gerar análise de hardware e software.",
+            "id": "tecnologia-2026-07-03-0000-01",
+            "titulo": "Seu relógio pode virar alerta de saúde mental",
+            "resumo": "Pesquisadores criaram um assistente que monitora biosinais e histórico médico, superando o ChatGPT em empatia e personalização.",
             "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
-            "link": "https://gizbr.uol.com.br/diagnosticar-pc-ia-msinfo32/",
-            "fonte": "GizBR",
-            "publicado_em": "2026-06-30T19:58:37-03:00",
-            "relevancia": 0.5,
-            "destaque": false,
+            "link": "https://gizbr.uol.com.br/ia-saude-mental-terapia-tempo-real/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T22:34:42-03:00",
+            "relevancia": 0.9,
+            "destaque": true,
             "tags": [
-              "chatgpt",
-              "gemini",
-              "windows"
+              "saude mental",
+              "relógio",
+              "ia"
             ]
           },
           {
-            "id": "tecnologia-2026-07-02-1600-02",
-            "titulo": "Planos Pagos de Inteligência Artificial",
-            "resumo": "As três principais IAs já fazem bastante coisa sem cobrar nada. A diferença aparece quando o usuário passa a depender delas todos os dias.",
-            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2026/06/comarativo.jpg",
-            "link": "https://gizbr.uol.com.br/planos-pagos-inteligencia-artificial-quando-vale-pena/",
-            "fonte": "GizBR",
-            "publicado_em": "2026-07-01T14:16:27-03:00",
-            "relevancia": 0.6,
-            "destaque": true,
+            "id": "tecnologia-2026-07-03-0000-02",
+            "titulo": "Celular Galaxy precisa mudar o app de SMS",
+            "resumo": "A descontinuação do app de SMS do Galaxy torna o Google Messages o padrão para celulares Galaxy.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/samsung-messages-desativado-julho-2026/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T22:05:16-03:00",
+            "relevancia": 0.5,
+            "destaque": false,
             "tags": [
-              "ia",
-              "planos pagos",
-              "inteligencia artificial"
+              "galaxy",
+              "sms",
+              "google messages"
             ]
           }
         ]
@@ -318,19 +318,19 @@
         "nome": "Cultura",
         "artigos": [
           {
-            "id": "cultura-2026-07-02-1600-01",
-            "titulo": "Além do Tupi, Outras Línguas Indígenas Deixaram Palavras no Português",
-            "resumo": "Canoa, cacique e batata são palavras de origem indígena, mas não tupi. Entenda.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/SI_488_Oraculo_palavras_indigenas.jpg",
-            "link": "https://super.abril.com.br/coluna/oraculo/alem-do-tupi-outras-linguas-indigenas-deixaram-palavras-no-portugues/",
-            "fonte": "Super Interessante",
-            "publicado_em": "2026-07-02T15:00:16-03:00",
+            "id": "cultura-2026-07-03-0000-01",
+            "titulo": "Jaspion fez mais sucesso no Brasil do que no Japão",
+            "resumo": "A morte do ator Hikaru Kurosaki ressuscitou o interesse pelo personagem, que nunca teve o mesmo impacto no Japão.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-jaspion-layout_site.jpg",
+            "link": "https://super.abril.com.br/cultura/por-que-jaspion-fez-mais-sucesso-no-brasil-do-que-no-japao/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T20:00:08-03:00",
             "relevancia": 0.7,
             "destaque": true,
             "tags": [
-              "linguas indigenas",
-              "portugues",
-              "cultura"
+              "jaspion",
+              "brasil",
+              "japao"
             ]
           }
         ]
@@ -340,14 +340,14 @@
         "nome": "Atualidades",
         "artigos": [
           {
-            "id": "atualidades-2026-07-02-1600-01",
-            "titulo": "Nicarágua Invadiu a Costa Rica e Botou a Culpa no Google Maps",
-            "resumo": "A Nicarágua invadiu a Costa Rica e culpou o Google Maps pelo erro.",
+            "id": "atualidades-2026-07-03-0000-01",
+            "titulo": "Nicarágua invadiu a Costa Rica e botou a culpa no Google Maps",
+            "resumo": "A Nicarágua invadiu a Costa Rica e culpou o Google Maps pelo erro, que admitiu publicamente.",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0107-ME-google-maps-layout_site.jpg",
             "link": "https://super.abril.com.br/mundo-estranho/a-vez-em-que-a-nicaragua-invadiu-a-costa-rica-e-botou-a-culpa-no-google-maps/",
-            "fonte": "Super Interessante",
+            "fonte": "Desconhecida",
             "publicado_em": "2026-07-02T11:00:30-03:00",
-            "relevancia": 0.6,
+            "relevancia": 0.8,
             "destaque": true,
             "tags": [
               "nicaragua",
@@ -362,19 +362,19 @@
         "nome": "Comportamento & Sociedade",
         "artigos": [
           {
-            "id": "comportamento-2026-07-02-1600-01",
-            "titulo": "Jovens Perdem Espaço no Mercado de Trabalho por Causa da IA",
+            "id": "comportamento-2026-07-03-0000-01",
+            "titulo": "Jovens perdem espaço no mercado de trabalho por causa da IA",
             "resumo": "Áreas como marketing e finanças foram as mais afetadas, enquanto cargos sênior tiveram alta de 26% em funções expostas à inteligência artificial.",
             "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
             "link": "https://gizbr.uol.com.br/vagas-juniores-queda-ia-suica/",
-            "fonte": "GizBR",
+            "fonte": "Desconhecida",
             "publicado_em": "2026-07-01T21:43:08-03:00",
-            "relevancia": 0.7,
+            "relevancia": 0.9,
             "destaque": true,
             "tags": [
               "ia",
-              "mercado de trabalho",
-              "jovens"
+              "jovens",
+              "mercado de trabalho"
             ]
           }
         ]
