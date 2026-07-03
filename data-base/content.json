@@ -1,7 +1,7 @@
 {
   "jornal": {
     "nome": "Atualidades & Intelecto",
-    "atualizado_em": "2026-07-03T07:00:00.000Z",
+    "atualizado_em": "2026-07-03T13:00:00.000Z",
     "edicao": "2026-07-03",
     "destaques": [
       {
@@ -196,51 +196,51 @@
         "nome": "Ciência",
         "artigos": [
           {
-            "id": "ciencia-2026-07-03-1000-01",
-            "titulo": "Cientistas extraem DNA antigo de pintura rupestre",
-            "resumo": "Pesquisadores conseguiram extrair DNA antigo de uma pintura rupestre, abrindo novas portas para a paleogenética.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-DNA-pintura-rupestre-layout_site-CAPA.jpg",
-            "link": "https://super.abril.com.br/ciencia/pela-primeira-vez-cientistas-extraem-dna-antigo-de-uma-pintura-rupestre/",
-            "fonte": "Super",
-            "publicado_em": "2026-07-02T19:00:19-03:00",
+            "id": "ciencia-2026-07-03-1600-01",
+            "titulo": "NASA Captura Nuvem Vermelha com Estrelas Brancas e Azuis",
+            "resumo": "A NASA divulgou uma imagem capturada pelo telescópio espacial Hubble, mostrando uma nuvem vermelha com estrelas brancas e azuis. A imagem é um exemplo da beleza do universo.",
+            "imagem": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/globular-clusters/Hubble_L95_3F_July4_flat_FINAL.tif?w=2048",
+            "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T15:01:17.000Z",
             "relevancia": 0.8,
             "destaque": true,
             "tags": [
-              "dna",
-              "pintura rupestre",
-              "paleogenetica"
+              "nasa",
+              "hubble",
+              "estrelas"
             ]
           },
           {
-            "id": "ciencia-2026-07-03-1000-02",
-            "titulo": "Aranha mais rápida do mundo",
-            "resumo": "Uma espécie de aranha australiana foi registrada como a mais rápida do mundo, atingindo quase 3,6 metros por segundo.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-aranha-mais-rapida-layout_site.jpg",
-            "link": "https://super.abril.com.br/ciencia/conheca-a-aranha-mais-rapida-do-mundo/",
-            "fonte": "Super",
-            "publicado_em": "2026-07-02T22:00:44-03:00",
-            "relevancia": 0.4,
-            "destaque": false,
-            "tags": [
-              "aranha",
-              "rapidez",
-              "recorde"
-            ]
-          },
-          {
-            "id": "ciencia-2026-07-03-1000-03",
-            "titulo": "Ômega-3 não protege a memória",
-            "resumo": "Pesquisa com 365 adultos mostrou que o consumo de ômega-3 não protege a memória, contrariando a crença popular.",
-            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
-            "link": "https://gizbr.uol.com.br/omega-3-nao-previne-alzheimer-memoria/",
-            "fonte": "GizBR",
-            "publicado_em": "2026-07-02T18:37:04-03:00",
+            "id": "ciencia-2026-07-03-1600-02",
+            "titulo": "Cientistas Extraem DNA Antigo de Pintura Rupestre",
+            "resumo": "Pesquisadores conseguiram extrair DNA antigo de uma pintura rupestre, abrindo novas possibilidades para a paleogenética.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-DNA-pintura-rupestre-layout_site-CAPA.jpg",
+            "link": "https://super.abril.com.br/ciencia/pela-primeira-vez-cientistas-extraem-dna-antigo-de-uma-pintura-rupestre/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T19:00:19.000Z",
             "relevancia": 0.6,
             "destaque": false,
             "tags": [
-              "omega-3",
-              "memoria",
-              "saude"
+              "dna",
+              "pintura rupestre",
+              "paleogenética"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-03-1600-03",
+            "titulo": "NASA’s Webb Revela Estrelas se Formando em Sistema Estelar",
+            "resumo": "O telescópio espacial James Webb da NASA capturou a formação de estrelas em um sistema estelar, oferecendo novas perspectivas sobre a formação de estrelas.",
+            "imagem": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/07/STScI-01KVX6065VS4VSDVG0S1NSVB6C.png?w=4803",
+            "link": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T14:00:00.000Z",
+            "relevancia": 0.7,
+            "destaque": false,
+            "tags": [
+              "nasa",
+              "webb",
+              "estrelas"
             ]
           }
         ]
@@ -280,35 +280,35 @@
         "nome": "Tecnologia",
         "artigos": [
           {
-            "id": "tecnologia-2026-07-03-1000-01",
-            "titulo": "Seu relógio pode virar alerta de saúde mental",
-            "resumo": "Pesquisadores criaram um assistente que monitora biosinais e histórico médico, superando o ChatGPT em empatia e personalização.",
+            "id": "tecnologia-2026-07-03-1600-01",
+            "titulo": "Google Passa a Guardar Mais Dados de Busca com IA",
+            "resumo": "O Google começou a armazenar mais dados de busca dos usuários, incluindo áudios e imagens, para treinar sua inteligência artificial.",
             "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
-            "link": "https://gizbr.uol.com.br/ia-saude-mental-terapia-tempo-real/",
-            "fonte": "GizBR",
-            "publicado_em": "2026-07-02T22:34:42-03:00",
+            "link": "https://gizbr.uol.com.br/google-coleta-audios-imagens-treinar-ia/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T13:43:04.000Z",
             "relevancia": 0.9,
             "destaque": true,
             "tags": [
-              "saude mental",
-              "relógio",
-              "assistente"
+              "google",
+              "ia",
+              "privacidade"
             ]
           },
           {
-            "id": "tecnologia-2026-07-03-1000-02",
-            "titulo": "Seu celular Galaxy precisa mudar o app de SMS",
-            "resumo": "A descontinuação do app de SMS do Galaxy torna o Google Messages o padrão para celulares Galaxy.",
+            "id": "tecnologia-2026-07-03-1600-02",
+            "titulo": "Seu Relógio Pode Virar Alerta de Saúde Mental",
+            "resumo": "Pesquisadores criaram um assistente que monitora biosinais e histórico médico para detectar problemas de saúde mental.",
             "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
-            "link": "https://gizbr.uol.com.br/samsung-messages-desativado-julho-2026/",
-            "fonte": "GizBR",
-            "publicado_em": "2026-07-02T22:05:16-03:00",
-            "relevancia": 0.7,
+            "link": "https://gizbr.uol.com.br/ia-saude-mental-terapia-tempo-real/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T22:34:42.000Z",
+            "relevancia": 0.5,
             "destaque": false,
             "tags": [
-              "celular",
-              "galaxy",
-              "sms"
+              "saude mental",
+              "ia",
+              "terapia"
             ]
           }
         ]
@@ -318,14 +318,14 @@
         "nome": "Cultura",
         "artigos": [
           {
-            "id": "cultura-2026-07-03-1000-01",
-            "titulo": "Por que Jaspion fez mais sucesso no Brasil do que no Japão?",
-            "resumo": "A morte do ator Hikaru Kurosaki ressuscitou o interesse pelo personagem, que nunca teve o mesmo impacto no Japão.",
+            "id": "cultura-2026-07-03-1600-01",
+            "titulo": "Jaspion Fez Mais Sucesso no Brasil do que no Japão",
+            "resumo": "O personagem Jaspion foi mais popular no Brasil do que no Japão, onde foi criado.",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-jaspion-layout_site.jpg",
             "link": "https://super.abril.com.br/cultura/por-que-jaspion-fez-mais-sucesso-no-brasil-do-que-no-japao/",
-            "fonte": "Super",
-            "publicado_em": "2026-07-02T20:00:08-03:00",
-            "relevancia": 0.5,
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T20:00:08.000Z",
+            "relevancia": 0.4,
             "destaque": true,
             "tags": [
               "jaspion",
@@ -340,19 +340,19 @@
         "nome": "Atualidades",
         "artigos": [
           {
-            "id": "atualidades-2026-07-03-1000-01",
-            "titulo": "A vez em que a Nicarágua invadiu a Costa Rica e botou a culpa no Google Maps",
-            "resumo": "A Nicarágua invadiu a Costa Rica e culpou o Google Maps pelo erro, que admitiu publicamente.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0107-ME-google-maps-layout_site.jpg",
-            "link": "https://super.abril.com.br/mundo-estranho/a-vez-em-que-a-nicaragua-invadiu-a-costa-rica-e-botou-a-culpa-no-google-maps/",
-            "fonte": "Super",
-            "publicado_em": "2026-07-02T11:00:30-03:00",
+            "id": "atualidades-2026-07-03-1600-01",
+            "titulo": "Brasil Teve 120 Mil Mortes Associadas a Ondas de Calor em 20 Anos",
+            "resumo": "Um estudo revelou que o Brasil teve 120 mil mortes associadas a ondas de calor nos últimos 20 anos.",
+            "imagem": "https://imagens.ebc.com.br/PqG3Y524AlwcKUFOacs9YtjVWMU=/754x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_dsc4326.jpg?itok=WViNF6gA",
+            "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T10:35:20.000Z",
             "relevancia": 0.8,
             "destaque": true,
             "tags": [
-              "nicaragua",
-              "costa rica",
-              "google maps"
+              "brasil",
+              "ondas de calor",
+              "mortalidade"
             ]
           }
         ]
@@ -362,19 +362,19 @@
         "nome": "Comportamento & Sociedade",
         "artigos": [
           {
-            "id": "comportamento-2026-07-03-1000-01",
-            "titulo": "Jovens perdem espaço no mercado de trabalho por causa da IA",
-            "resumo": "Áreas como marketing e finanças foram as mais afetadas, enquanto cargos sênior tiveram alta de 26% em funções expostas à inteligência artificial.",
-            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
-            "link": "https://gizbr.uol.com.br/vagas-juniores-queda-ia-suica/",
-            "fonte": "GizBR",
-            "publicado_em": "2026-07-01T21:43:08-03:00",
-            "relevancia": 0.9,
+            "id": "comportamento-2026-07-03-1600-01",
+            "titulo": "Homens São Duas Vezes Mais Propensos a Quebrar em Maratonas",
+            "resumo": "Um estudo revelou que homens são duas vezes mais propensos a quebrar em maratonas do que mulheres.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-maratona-layout_site.jpg",
+            "link": "https://super.abril.com.br/saude/homens-sao-duas-vezes-mais-propensos-a-quebrar-em-maratonas-entenda-por-que/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T13:00:57.000Z",
+            "relevancia": 0.6,
             "destaque": true,
             "tags": [
-              "jovens",
-              "mercado de trabalho",
-              "ia"
+              "maratona",
+              "homens",
+              "saude"
             ]
           }
         ]
