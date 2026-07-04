@@ -1,7 +1,7 @@
 {
   "jornal": {
     "nome": "Atualidades & Intelecto",
-    "atualizado_em": "2026-07-04T13:00:00.000Z",
+    "atualizado_em": "2026-07-04T18:00:00.000Z",
     "edicao": "2026-07-04",
     "destaques": [
       {
@@ -100,51 +100,48 @@
         "nome": "Ciência",
         "artigos": [
           {
-            "id": "ciencia-2026-07-03-2100-01",
-            "titulo": "Hubble Detecta Luz de Galáxia Primitiva",
-            "resumo": "A luz de uma galáxia primitiva foi detectada pelo telescópio Hubble, após uma viagem de mais de 12 bilhões de anos.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-hubble-detecta-luz-layout_site-CAPA.jpg",
-            "link": "https://super.abril.com.br/ciencia/hubble-detecta-luz-de-galaxia-primitiva-que-astronomos-achavam-ser-impossivel-observar/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T19:00:16+00:00",
+            "id": "ciencia-2026-07-04-2100-01",
+            "titulo": "Química explica diferenças entre manteiga e margarina",
+            "resumo": "A química por trás da composição de manteiga e margarina explica suas diferenças em termos de comportamento e sabor.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/manteiga-margarina-diferencas-composicao/",
+            "fonte": "Giz Brasil",
+            "publicado_em": "2026-07-04T20:03:04-03:00",
             "relevancia": 0.8,
             "destaque": true,
             "tags": [
-              "hubble",
-              "galaxia",
-              "astronomia"
+              "alimentacao",
+              "quimica"
             ]
           },
           {
-            "id": "ciencia-2026-07-03-2100-02",
-            "titulo": "Cientistas Investigam Mistério de Grilos que Pararam de Cantar",
-            "resumo": "Cientistas brasileiros estão investigando o mistério de algumas espécies de grilos que pararam de cantar.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-grilo-layout_site.jpg",
-            "link": "https://super.abril.com.br/ciencia/investigando-um-misterio-por-que-algumas-especies-de-grilo-pararam-de-cantar/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T17:00:09+00:00",
-            "relevancia": 0.6,
-            "destaque": false,
-            "tags": [
-              "grilo",
-              "ciencia",
-              "misterio"
-            ]
-          },
-          {
-            "id": "ciencia-2026-07-03-2100-03",
-            "titulo": "NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars",
-            "resumo": "O telescópio Hubble da NASA capturou uma imagem de uma nuvem vermelha cintilante com estrelas brancas e azuis.",
-            "imagem": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/nebulae/emission/Hubble_LMC_L95_3F_flat_FINAL.tif?w=2048",
-            "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T15:01:17+00:00",
+            "id": "ciencia-2026-07-04-2100-02",
+            "titulo": "Sintomas da doença falciforme vão além da anemia",
+            "resumo": "A doença falciforme é uma condição hereditária que pode causar dores intensas e outros sintomas além da anemia.",
+            "imagem": "https://imagens.ebc.com.br/2ZoJM55kbDj0wwb8ku6pHb-GgFU=/365x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/15/whatsapp_image_2026-06-15_at_14.00.02.jpeg",
+            "link": "https://gizbr.uol.com.br/sintomas-da-doenca-falciforme-vao-alem-da-anemia-saiba-mais/",
+            "fonte": "Giz Brasil",
+            "publicado_em": "2026-07-04T15:27:59-03:00",
             "relevancia": 0.7,
             "destaque": false,
             "tags": [
-              "hubble",
-              "nasa",
-              "estrelas"
+              "saude",
+              "doenca"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-04-2100-03",
+            "titulo": "Havaí testa estradas feitas com plástico do oceano",
+            "resumo": "Pesquisadores no Havaí estão testando pavimentos feitos com resíduos plásticos para reduzir o lixo marinho.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/asfalto-plastico-reciclado-havai/",
+            "fonte": "Giz Brasil",
+            "publicado_em": "2026-07-04T11:17:30-03:00",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "meioambiente",
+              "inovacao"
             ]
           }
         ]
@@ -184,34 +181,32 @@
         "nome": "Tecnologia",
         "artigos": [
           {
-            "id": "tecnologia-2026-07-03-2100-01",
-            "titulo": "Fechar Apps para Limpar RAM Pode Piorar o Desempenho do Celular",
-            "resumo": "Liberar memória RAM no Android é desnecessário e pode prejudicar o desempenho do celular.",
+            "id": "tecnologia-2026-07-04-2100-01",
+            "titulo": "Android: fechar apps para limpar RAM pode piorar seu celular",
+            "resumo": "Liberar memória RAM no Android é desnecessário e pode prejudicar o desempenho do dispositivo.",
             "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
             "link": "https://gizbr.uol.com.br/limpar-ram-android-prejudica-desempenho/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T16:57:25+00:00",
+            "fonte": "Giz Brasil",
+            "publicado_em": "2026-07-03T16:57:25-03:00",
             "relevancia": 0.9,
             "destaque": true,
             "tags": [
               "android",
-              "ram",
               "desempenho"
             ]
           },
           {
-            "id": "tecnologia-2026-07-03-2100-02",
-            "titulo": "Google Passou a Guardar Mais Dados de Busca com IA",
-            "resumo": "O Google passou a guardar mais dados de busca com IA, o que levanta críticas de especialistas em privacidade.",
+            "id": "tecnologia-2026-07-04-2100-02",
+            "titulo": "Google passou a guardar mais dados de busca com IA",
+            "resumo": "O Google começou a armazenar mais dados de busca com IA, o que levanta preocupações sobre privacidade.",
             "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
             "link": "https://gizbr.uol.com.br/google-coleta-audios-imagens-treinar-ia/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T13:43:04+00:00",
+            "fonte": "Giz Brasil",
+            "publicado_em": "2026-07-03T13:43:04-03:00",
             "relevancia": 0.8,
             "destaque": false,
             "tags": [
               "google",
-              "ia",
               "privacidade"
             ]
           }
@@ -222,19 +217,18 @@
         "nome": "Cultura",
         "artigos": [
           {
-            "id": "cultura-2026-07-03-2100-01",
-            "titulo": "Jaspion Fez Mais Sucesso no Brasil do que no Japão",
-            "resumo": "O personagem Jaspion fez mais sucesso no Brasil do que no Japão, onde foi criado.",
+            "id": "cultura-2026-07-04-2100-01",
+            "titulo": "Por que Jaspion fez mais sucesso no Brasil do que no Japão",
+            "resumo": "Jaspion, um personagem de uma série de TV japonesa, teve mais sucesso no Brasil do que em seu país de origem.",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-jaspion-layout_site.jpg",
             "link": "https://super.abril.com.br/cultura/por-que-jaspion-fez-mais-sucesso-no-brasil-do-que-no-japao/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-02T20:00:08+00:00",
+            "fonte": "Super Abril",
+            "publicado_em": "2026-07-02T20:00:08-03:00",
             "relevancia": 0.7,
             "destaque": true,
             "tags": [
               "jaspion",
-              "brasil",
-              "japao"
+              "tv"
             ]
           }
         ]
@@ -244,19 +238,18 @@
         "nome": "Atualidades",
         "artigos": [
           {
-            "id": "atualidades-2026-07-03-2100-01",
-            "titulo": "Brasil Teve 120 Mil Mortes Associadas a Ondas de Calor em 20 Anos",
-            "resumo": "O Brasil teve 120 mil mortes associadas a ondas de calor em 20 anos, de acordo com uma pesquisa.",
-            "imagem": "https://imagens.ebc.com.br/PqG3Y524AlwcKUFOacs9YtjVWMU=/754x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_dsc4326.jpg?itok=WViNF6gA",
+            "id": "atualidades-2026-07-04-2100-01",
+            "titulo": "Brasil teve 120 mil mortes associadas a ondas de calor em 20 anos",
+            "resumo": "Um estudo revelou que o Brasil teve 120 mil mortes associadas a ondas de calor nos últimos 20 anos.",
+            "imagem": "https://imagens.ebc.com.br/PqG3Y524AlwcKUFOacs9YtjVWMU=/754x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_dsc4326.jpg",
             "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T10:35:20+00:00",
+            "fonte": "Giz Brasil",
+            "publicado_em": "2026-07-03T10:35:20-03:00",
             "relevancia": 0.9,
             "destaque": true,
             "tags": [
               "brasil",
-              "ondas de calor",
-              "mortalidade"
+              "ondasdecalor"
             ]
           }
         ]
@@ -266,18 +259,17 @@
         "nome": "Comportamento & Sociedade",
         "artigos": [
           {
-            "id": "comportamento-2026-07-03-2100-01",
-            "titulo": "Homens São Duas Vezes Mais Propensos a ‘Quebrar’ em Maratonas",
-            "resumo": "Homens são duas vezes mais propensos a ‘quebrar’ em maratonas do que mulheres, de acordo com um estudo.",
+            "id": "comportamento-2026-07-04-2100-01",
+            "titulo": "Homens são duas vezes mais propensos a “quebrar” em maratonas",
+            "resumo": "Um estudo revelou que homens são duas vezes mais propensos a sofrer lesões em maratonas do que mulheres.",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-maratona-layout_site.jpg",
             "link": "https://super.abril.com.br/saude/homens-sao-duas-vezes-mais-propensos-a-quebrar-em-maratonas-entenda-por-que/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T13:00:57+00:00",
+            "fonte": "Super Abril",
+            "publicado_em": "2026-07-03T13:00:57-03:00",
             "relevancia": 0.8,
             "destaque": true,
             "tags": [
               "maratona",
-              "homens",
               "saude"
             ]
           }
