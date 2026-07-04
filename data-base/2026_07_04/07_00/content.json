@@ -1,0 +1,384 @@
+{
+  "jornal": {
+    "nome": "Atualidades & Intelecto",
+    "atualizado_em": "2026-07-04T07:00:00.000Z",
+    "edicao": "2026-07-04",
+    "destaques": [
+      {
+        "id": "noticias-2026-07-04-0000-01",
+        "titulo": "Trump questiona integridade das eleições nos EUA",
+        "link": "https://www.nytimes.com/2026/07/03/us/politics/trump-georgia-doubt-election-integrity.html",
+        "categoria_slug": "noticias"
+      },
+      {
+        "id": "tecnologia-2026-07-03-2100-01",
+        "titulo": "Fechar Apps para Limpar RAM Pode Piorar o Desempenho do Celular",
+        "link": "https://gizbr.uol.com.br/limpar-ram-android-prejudica-desempenho/",
+        "categoria_slug": "tecnologia"
+      },
+      {
+        "id": "atualidades-2026-07-03-2100-01",
+        "titulo": "Brasil Teve 120 Mil Mortes Associadas a Ondas de Calor em 20 Anos",
+        "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
+        "categoria_slug": "atualidades"
+      },
+      {
+        "id": "ciencia-2026-07-03-2100-01",
+        "titulo": "Hubble Detecta Luz de Galáxia Primitiva",
+        "link": "https://super.abril.com.br/ciencia/hubble-detecta-luz-de-galaxia-primitiva-que-astronomos-achavam-ser-impossivel-observar/",
+        "categoria_slug": "ciencia"
+      }
+    ],
+    "capa": {
+      "categoria_slug": "noticias",
+      "categoria_nome": "Notícias",
+      "titulo": "Trump questiona integridade das eleições nos EUA",
+      "subtitulo": "O presidente dos EUA, Donald Trump, enviou 260 analistas do FBI para a Geórgia, reforçando suas alegações infundadas de fraude nas eleições de 2020...",
+      "resumo": "O presidente dos EUA, Donald Trump, enviou 260 analistas do FBI para a Geórgia, reforçando suas alegações infundadas de fraude nas eleições de 2020. Críticos argumentam que o objetivo é minar a confiança no processo eleitoral.",
+      "imagem": null,
+      "link": "https://www.nytimes.com/2026/07/03/us/politics/trump-georgia-doubt-election-integrity.html",
+      "fonte": "Desconhecida",
+      "publicado_em": "2026-07-03T23:31:32.000Z"
+    },
+    "categorias": {
+      "noticias": {
+        "slug": "noticias",
+        "nome": "Notícias",
+        "artigos": [
+          {
+            "id": "noticias-2026-07-04-0000-01",
+            "titulo": "Trump questiona integridade das eleições nos EUA",
+            "resumo": "O presidente dos EUA, Donald Trump, enviou 260 analistas do FBI para a Geórgia, reforçando suas alegações infundadas de fraude nas eleições de 2020. Críticos argumentam que o objetivo é minar a confiança no processo eleitoral.",
+            "imagem": null,
+            "link": "https://www.nytimes.com/2026/07/03/us/politics/trump-georgia-doubt-election-integrity.html",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T23:31:32.000Z",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "eua",
+              "eleicoes",
+              "trump"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-04-0000-02",
+            "titulo": "Lula faz gesto obsceno durante evento oficial",
+            "resumo": "O presidente Luiz Inácio Lula da Silva fez um gesto obsceno durante um discurso em uma cerimônia oficial no Palácio do Planalto, em resposta a uma afirmação sobre os pobres.",
+            "imagem": "https://s2-g1.glbimg.com/NAps-8rYJcw_J3xd7eYkLCCcEP0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/a/nC5ke9QEGXvLg9D04Qrw/captura-de-tela-2026-07-03-202808.png",
+            "link": "https://g1.globo.com/politica/noticia/2026/07/03/lula-faz-gesto-obsceno-durante-evento-oficial-do-governo.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T23:28:58.000Z",
+            "relevancia": 0.7,
+            "destaque": false,
+            "tags": [
+              "brasil",
+              "lula",
+              "politica"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-04-0000-03",
+            "titulo": "Delegado da PF morto no RS combatia tráfico e corrupção em Roraima",
+            "resumo": "O delegado da Polícia Federal Michel Brasil Saliba, morto em uma operação no Rio Grande do Sul, combatia o tráfico de drogas, o garimpo ilegal e a corrupção em Roraima.",
+            "imagem": "https://s2-g1.glbimg.com/CloG_YmZvjKiINT7JnQTCdkJboI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/U/s6daxaTSSGZ4s230ZfNQ/delegado-.jpg",
+            "link": "https://g1.globo.com/rr/roraima/noticia/2026/07/03/delegado-da-pf-morto-no-rs-combatia-trafico-garimpo-e-corrupcao-em-roraima.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T23:25:46.000Z",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "brasil",
+              "pf",
+              "roraima"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-04-0000-04",
+            "titulo": "PF e Receita apreendem cocaína em carga de molho de tomate no Porto de Santos",
+            "resumo": "A Polícia Federal e a Receita Federal apreenderam 9,6 kg de cocaína escondidos em uma carga de molho de tomate no Porto de Santos, em São Paulo.",
+            "imagem": "https://s2-g1.glbimg.com/D2-l9zwIdkyFdeGcw7rV2CE3NXQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/i/xZQYngTz6a8Z0A0RWjkg/foto-carga-tomate.jpg",
+            "link": "https://g1.globo.com/sp/santos-regiao/porto-mar/noticia/2026/07/03/pf-e-receita-apreendem-quase-10-kg-de-cocaina-em-carga-de-molho-de-tomate-no-porto-de-santos.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T23:05:28.000Z",
+            "relevancia": 0.5,
+            "destaque": false,
+            "tags": [
+              "brasil",
+              "cocaína",
+              "porto de santos"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-04-0000-05",
+            "titulo": "Tecnologias transformam o agro e o combate a incêndios em MS",
+            "resumo": "A terceira edição da Pantanal Tech MS apresenta tecnologias inovadoras para o agronegócio e a preservação ambiental, incluindo drones e torres com inteligência artificial.",
+            "imagem": "https://s2-g1.glbimg.com/VhH6g6bUkDMM63SotbxjgV_Z2bs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/d/eMee7GRQWNmJ3Ael1rpw/design-sem-nome-3-.jpg",
+            "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/07/03/de-drones-a-torres-com-inteligencia-artificial-tecnologias-transformam-o-agro-e-o-combate-a-incendios-em-ms.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T23:03:52.000Z",
+            "relevancia": 0.4,
+            "destaque": false,
+            "tags": [
+              "brasil",
+              "agro",
+              "tecnologia"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-04-0000-06",
+            "titulo": "Camisas do Brasil, tênis, relógios: polícia prende empresário e apreende R$ 340 mil em produtos falsificados em Piracicaba",
+            "resumo": "A Polícia Civil prendeu um empresário e apreendeu produtos falsificados avaliados em R$ 340 mil em Piracicaba, incluindo camisas da seleção brasileira, tênis e relógios.",
+            "imagem": "https://s2-g1.glbimg.com/_zeov5VmMItQbvYIUBPX7DhVE-w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/A/6ksXurRAOKue8kHrDJyg/camisas-falsas.jpg",
+            "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/03/camisas-do-brasil-tenis-relogios-policia-prende-empresario-e-apreende-r-340-mil-em-produtos-falsificados-em-piracicaba.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T23:04:45.000Z",
+            "relevancia": 0.3,
+            "destaque": false,
+            "tags": [
+              "brasil",
+              "produtos falsificados",
+              "piracicaba"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-04-0000-07",
+            "titulo": "Jovem morre em grave acidente entre motocicleta e caminhão-cegonha em São Luís",
+            "resumo": "Um jovem morreu em um acidente grave entre uma motocicleta e um caminhão-cegonha em São Luís, no Maranhão.",
+            "imagem": "https://s2-g1.glbimg.com/euHJAH626NuJGFoSJ0m7F9O80ZY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/P/GX155MSkCbUuOIpNItBg/montagens-1920-x-1080-px-1-.png",
+            "link": "https://g1.globo.com/ma/maranhao/noticia/2026/07/03/jovem-morre-em-grave-acidente-entre-motocicleta-e-caminhao-cegonha-em-sao-luis.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T23:02:31.000Z",
+            "relevancia": 0.2,
+            "destaque": false,
+            "tags": [
+              "brasil",
+              "acidente",
+              "sao luis"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-04-0000-08",
+            "titulo": "Frente fria diminui temperaturas em até 5°C na região de Piracicaba no fim de semana",
+            "resumo": "Uma frente fria que passa pela costa de São Paulo pode provocar uma queda de até 5°C nas temperaturas na região de Piracicaba neste fim de semana.",
+            "imagem": "https://s2-g1.glbimg.com/7q3Gqhy6-OwoXhiZqkWhNPobgHg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/v/gK37vVQdiWlASnOpSBKg/whatsapp-image-2026-07-03-at-13.02.55-1-.jpeg",
+            "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/03/frente-fria-diminui-temperaturas-em-ate-5c-na-regiao-de-piracicaba-no-fim-de-semana-veja-previsao.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T23:09:40.000Z",
+            "relevancia": 0.1,
+            "destaque": false,
+            "tags": [
+              "brasil",
+              "frente fria",
+              "piracicaba"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-04-0000-09",
+            "titulo": "Eventos alteram trânsito em Petrolina neste fim de semana",
+            "resumo": "A Autarquia Municipal de Mobilidade de Petrolina informou que haverá alterações no trânsito em diferentes pontos da cidade neste fim de semana devido a eventos.",
+            "imagem": "https://s2-g1.glbimg.com/5doLeZhKnga5nHWq_QWiTyaylVI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/L/OohcEzSAGAp8rMgDcWqA/interdicao-4-.jpg",
+            "link": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/07/03/eventos-alteram-transito-em-petrolina-neste-fim-de-semana-confira-as-mudancas.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T23:09:28.000Z",
+            "relevancia": 0.1,
+            "destaque": false,
+            "tags": [
+              "brasil",
+              "petrolina",
+              "transito"
+            ]
+          }
+        ]
+      },
+      "ciencia": {
+        "slug": "ciencia",
+        "nome": "Ciência",
+        "artigos": [
+          {
+            "id": "ciencia-2026-07-04-1000-01",
+            "titulo": "Hubble Detecta Luz de Galáxia Primitiva",
+            "resumo": "A radiação sobreviveu a uma viagem de mais de 12 bilhões de anos por um Universo que, em teoria, ainda deveria impedir sua passagem.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-hubble-detecta-luz-layout_site-CAPA.jpg",
+            "link": "https://super.abril.com.br/ciencia/hubble-detecta-luz-de-galaxia-primitiva-que-astronomos-achavam-ser-impossivel-observar/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T19:00:16-03:00",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "hubble",
+              "galaxia",
+              "astronomia"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-04-1000-02",
+            "titulo": "Investigando um Mistério: Por que Algumas Espécies de Grilo Pararam de Cantar?",
+            "resumo": "Cientistas brasileiros tentam entender por quê o silêncio parece ser mais vantajoso para algumas espécies de grilo.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-grilo-layout_site.jpg",
+            "link": "https://super.abril.com.br/ciencia/investigando-um-misterio-por-que-algumas-especies-de-grilo-pararam-de-cantar/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T17:00:09-03:00",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "grilo",
+              "biologia",
+              "misterio"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-04-1000-03",
+            "titulo": "NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars",
+            "resumo": "Blue and white stars shine brightly against crimson gas in this image from NASA’s Hubble Space Telescope.",
+            "imagem": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/nebulae/emission/Hubble_LMC_L95_3F_flat_FINAL.tif?w=2048",
+            "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T15:01:17-03:00",
+            "relevancia": 0.7,
+            "destaque": false,
+            "tags": [
+              "hubble",
+              "estrelas",
+              "nebulosa"
+            ]
+          }
+        ]
+      },
+      "futebol": {
+        "slug": "futebol",
+        "nome": "Futebol",
+        "artigos": [
+          {
+            "id": "f1",
+            "titulo": "Clube paulista anuncia contratação para a próxima temporada",
+            "resumo": "Reforço chega para disputar posição no meio-campo a partir do segundo semestre.",
+            "imagem": null,
+            "link": "#",
+            "fonte": "ge.globo",
+            "publicado_em": "2026-06-30T12:00:00-03:00"
+          }
+        ]
+      },
+      "curiosidades": {
+        "slug": "curiosidades",
+        "nome": "Curiosidades",
+        "artigos": [
+          {
+            "id": "u1",
+            "titulo": "Por que bocejamos? Ciência ainda não tem resposta definitiva",
+            "resumo": "Diferentes teorias tentam explicar o fenômeno, da regulação térmica à empatia social.",
+            "imagem": null,
+            "link": "#",
+            "fonte": "Mundo Estranho",
+            "publicado_em": "2026-06-29T18:00:00-03:00"
+          }
+        ]
+      },
+      "tecnologia": {
+        "slug": "tecnologia",
+        "nome": "Tecnologia",
+        "artigos": [
+          {
+            "id": "tecnologia-2026-07-04-1000-01",
+            "titulo": "Android: Fechar Apps para Limpar RAM Pode Piorar Seu Celular",
+            "resumo": "Liberar memória RAM no Android é desnecessário e pode prejudicar o desempenho.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/limpar-ram-android-prejudica-desempenho/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T16:57:25-03:00",
+            "relevancia": 0.9,
+            "destaque": true,
+            "tags": [
+              "android",
+              "ram",
+              "desempenho"
+            ]
+          },
+          {
+            "id": "tecnologia-2026-07-04-1000-02",
+            "titulo": "Google Passou a Guardar Mais Dados de Busca com IA",
+            "resumo": "Nova configuração, ativada por padrão, armazena mídias de usuários e histórico médico.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/google-coleta-audios-imagens-treinar-ia/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T13:43:04-03:00",
+            "relevancia": 0.8,
+            "destaque": false,
+            "tags": [
+              "google",
+              "ia",
+              "privacidade"
+            ]
+          }
+        ]
+      },
+      "cultura": {
+        "slug": "cultura",
+        "nome": "Cultura",
+        "artigos": [
+          {
+            "id": "cultura-2026-07-04-1000-01",
+            "titulo": "Por que Jaspion Fez Mais Sucesso no Brasil do que no Japão?",
+            "resumo": "A morte do ator Hikaru Kurosaki ressuscitou o interesse pelo personagem.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-jaspion-layout_site.jpg",
+            "link": "https://super.abril.com.br/cultura/por-que-jaspion-fez-mais-sucesso-no-brasil-do-que-no-japao/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T20:00:08-03:00",
+            "relevancia": 0.7,
+            "destaque": true,
+            "tags": [
+              "jaspion",
+              "japao",
+              "brasil"
+            ]
+          }
+        ]
+      },
+      "atualidades": {
+        "slug": "atualidades",
+        "nome": "Atualidades",
+        "artigos": [
+          {
+            "id": "atualidades-2026-07-04-1000-01",
+            "titulo": "Brasil Teve 120 Mil Mortes Associadas a Ondas de Calor em 20 Anos",
+            "resumo": "Pesquisa aponta maior risco para idosos e população vulnerável.",
+            "imagem": "https://imagens.ebc.com.br/PqG3Y524AlwcKUFOacs9YtjVWMU=/754x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_dsc4326.jpg?itok=WViNF6gA",
+            "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T10:35:20-03:00",
+            "relevancia": 0.9,
+            "destaque": true,
+            "tags": [
+              "brasil",
+              "ondas",
+              "calor"
+            ]
+          }
+        ]
+      },
+      "comportamento": {
+        "slug": "comportamento",
+        "nome": "Comportamento & Sociedade",
+        "artigos": [
+          {
+            "id": "comportamento-2026-07-04-1000-01",
+            "titulo": "Homens São Duas Vezes Mais Propensos a “Quebrar” em Maratonas",
+            "resumo": "Análise de mais de 873 mil participações na Maratona de Berlim indica diferenças na estratégia de corrida e no metabolismo.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-maratona-layout_site.jpg",
+            "link": "https://super.abril.com.br/saude/homens-sao-duas-vezes-mais-propensos-a-quebrar-em-maratonas-entenda-por-que/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T13:00:57-03:00",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "maratona",
+              "homens",
+              "saude"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
