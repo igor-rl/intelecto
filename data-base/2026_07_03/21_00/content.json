@@ -1,0 +1,384 @@
+{
+  "jornal": {
+    "nome": "Atualidades & Intelecto",
+    "atualizado_em": "2026-07-03T21:00:00.000Z",
+    "edicao": "2026-07-03",
+    "destaques": [
+      {
+        "id": "noticias-2026-07-03-2100-01",
+        "titulo": "Bolsonaro mantido em prisão domiciliar",
+        "link": "https://g1.globo.com/politica/noticia/2026/07/03/moraes-mantem-bolsonaro-em-prisao-domiciliar.ghtml",
+        "categoria_slug": "noticias"
+      },
+      {
+        "id": "atualidades-2026-07-03-2100-01",
+        "titulo": "Brasil Teve 120 Mil Mortes Associadas a Ondas de Calor em 20 Anos",
+        "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
+        "categoria_slug": "atualidades"
+      },
+      {
+        "id": "tecnologia-2026-07-03-2100-01",
+        "titulo": "Fechar Apps para Limpar RAM Pode Piorar o Desempenho do Celular",
+        "link": "https://gizbr.uol.com.br/limpar-ram-android-prejudica-desempenho/",
+        "categoria_slug": "tecnologia"
+      },
+      {
+        "id": "ciencia-2026-07-03-2100-01",
+        "titulo": "Hubble Detecta Luz de Galáxia Primitiva",
+        "link": "https://super.abril.com.br/ciencia/hubble-detecta-luz-de-galaxia-primitiva-que-astronomos-achavam-ser-impossivel-observar/",
+        "categoria_slug": "ciencia"
+      }
+    ],
+    "capa": {
+      "categoria_slug": "noticias",
+      "categoria_nome": "Notícias",
+      "titulo": "Bolsonaro mantido em prisão domiciliar",
+      "subtitulo": "O ex-presidente Jair Bolsonaro foi mantido em prisão domiciliar pelo ministro Alexandre de Moraes do STF...",
+      "resumo": "O ex-presidente Jair Bolsonaro foi mantido em prisão domiciliar pelo ministro Alexandre de Moraes do STF. Ele deve entregar suas armas em 48 horas.",
+      "imagem": "https://s2-g1.glbimg.com/7j37qzn0u4Ki-8ELbdYkFUBcJDI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/Y/kQWhnWQJWqcKSTIWywmw/age20250911073.jpg",
+      "link": "https://g1.globo.com/politica/noticia/2026/07/03/moraes-mantem-bolsonaro-em-prisao-domiciliar.ghtml",
+      "fonte": "G1",
+      "publicado_em": "2026-07-03T20:42:44-03:00"
+    },
+    "categorias": {
+      "noticias": {
+        "slug": "noticias",
+        "nome": "Notícias",
+        "artigos": [
+          {
+            "id": "noticias-2026-07-03-2100-01",
+            "titulo": "Bolsonaro mantido em prisão domiciliar",
+            "resumo": "O ex-presidente Jair Bolsonaro foi mantido em prisão domiciliar pelo ministro Alexandre de Moraes do STF. Ele deve entregar suas armas em 48 horas.",
+            "imagem": "https://s2-g1.glbimg.com/7j37qzn0u4Ki-8ELbdYkFUBcJDI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/Y/kQWhnWQJWqcKSTIWywmw/age20250911073.jpg",
+            "link": "https://g1.globo.com/politica/noticia/2026/07/03/moraes-mantem-bolsonaro-em-prisao-domiciliar.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-03T20:42:44-03:00",
+            "relevancia": 0.9,
+            "destaque": true,
+            "tags": [
+              "bolsonaro",
+              "prisao",
+              "stf"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-03-2100-02",
+            "titulo": "Três mortos em acidente na Serra Dona Francisca",
+            "resumo": "Um acidente entre um carro e uma carreta na Serra Dona Francisca, em Santa Catarina, deixou três mortos, incluindo um bebê.",
+            "imagem": "https://s2-g1.glbimg.com/eK5JKucKlIcoG61iZk6y-GfY0ec=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/N/hcnF0uSBK9f6FDCNItPg/whatsapp-image-2026-07-03-at-16.11.49.jpeg",
+            "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/03/tres-morrem-bebe-carro-colisao-frontal-carreta-serra-dona-francisca-sc.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-03T20:46:52-03:00",
+            "relevancia": 0.8,
+            "destaque": false,
+            "tags": [
+              "acidente",
+              "serra dona francisca",
+              "morte"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-03-2100-03",
+            "titulo": "Denúncias de violações de direitos em casas para idosos crescem",
+            "resumo": "As denúncias de violações de direitos em casas para idosos cresceram 12,6% na região de Campinas.",
+            "imagem": "https://s2-g1.glbimg.com/AkFXxo3KXcIiT4W7SJtBXydmIOE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/5/uzC0P9TJqeiAp91B5hNg/idosos.png",
+            "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/03/denuncias-de-violacoes-de-direitos-em-casas-para-idosos-crescem-126percent-na-regiao-de-campinas-veja-como-escolher-uma-instituicao.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-03T20:44:01-03:00",
+            "relevancia": 0.7,
+            "destaque": false,
+            "tags": [
+              "casas para idosos",
+              "violações de direitos",
+              "campinas"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-03-2100-04",
+            "titulo": "Fazenda da maconha: deputado encontra droga enterrada",
+            "resumo": "O deputado André Fernandes encontrou droga enterrada em uma fazenda no Ceará, onde foi encontrada uma plantação de maconha.",
+            "imagem": "https://s2-g1.glbimg.com/k4fVRti3xssgIsal7_P_WeldYEI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/K/tSUoTAT2CAVwfuI3rbCg/andre-fernandes-acopiara.jpg",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/07/03/fazenda-da-maconha-andre-fernandes-volta-ao-local-e-diz-que-encontrou-droga-enterrada-apos-visita-do-governador.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-03T20:42:36-03:00",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "fazenda da maconha",
+              "deputado",
+              "ceara"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-03-2100-05",
+            "titulo": "Solar de Brasília: condomínio onde Bolsonaro ficará em prisão domiciliar",
+            "resumo": "O condomínio Solar de Brasília é onde o ex-presidente Jair Bolsonaro ficará em prisão domiciliar.",
+            "imagem": "https://s2-g1.glbimg.com/abq0QQJbN0676_dQJjpbrsE-QEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/4/c/iVVK1LTUyPQYWQg5iUng/solar-brasilia.jfif",
+            "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/07/03/solar-de-brasilia-veja-detalhes-do-condominio-onde-bolsonaro-seguira-em-prisao-domiciliar.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-03T20:45:23-03:00",
+            "relevancia": 0.5,
+            "destaque": false,
+            "tags": [
+              "solar de brasília",
+              "bolsonaro",
+              "prisão domiciliar"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-03-2100-06",
+            "titulo": "Campos do Jordão: diárias de hotéis e refeições por quilo têm preços altos",
+            "resumo": "As diárias de hotéis e refeições por quilo em Campos do Jordão têm preços altos, segundo o Procon-SP.",
+            "imagem": "https://s2-g1.glbimg.com/trQh9FAsaWMayytL7ijqOHgw2K4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/A/6bWt24QVWymYIhAS5zLA/a22547d6-4bc5-46d1-ab5a-50c277ede78f.jpg",
+            "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/03/campos-do-jordao-tem-diaria-de-hotel-media-de-r-11-mil-e-refeicao-por-quilo-a-r-9090-diz-procon-sp.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-03T20:46:25-03:00",
+            "relevancia": 0.4,
+            "destaque": false,
+            "tags": [
+              "campos do jordão",
+              "preços",
+              "hotéis"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-03-2100-07",
+            "titulo": "Estudante presa por atropelar idoso em Rondônia",
+            "resumo": "Uma estudante de Medicina foi presa por atropelar e matar um idoso em Rondônia.",
+            "imagem": "https://s2-g1.glbimg.com/YIUzVB8iey9Imss0OuzudHdB7O0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/O/UNAlHjRkG3bjyrBOnYYg/design-sem-nome-5-.png",
+            "link": "https://g1.globo.com/ro/rondonia/noticia/2026/07/03/estudante-presa-por-atropelar-idoso-em-ro-exigiu-pedido-de-desculpas-de-joelhos-antes-do-crime-aponta-peticao.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-03T20:33:14-03:00",
+            "relevancia": 0.3,
+            "destaque": false,
+            "tags": [
+              "atropelamento",
+              "idoso",
+              "rondônia"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-03-2100-08",
+            "titulo": "Três instituições para idosos interditadas em Juiz de Fora",
+            "resumo": "Três instituições para idosos foram interditadas em Juiz de Fora devido a irregularidades.",
+            "imagem": "https://s2-g1.glbimg.com/KCD-cYbK1EWbi9Cd5yum2Wa6e2U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/d/BNESd5TBORgoBAoMZUPw/operacao-pjf.jpg",
+            "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/07/03/tres-instituicoes-para-idosos-sao-interditadas-em-juiz-de-fora.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-03T20:30:51-03:00",
+            "relevancia": 0.2,
+            "destaque": false,
+            "tags": [
+              "instituições para idosos",
+              "interdição",
+              "juiz de fora"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-03-2100-09",
+            "titulo": "Fotógrafo alagoano desaparecido em rio no Pará é encontrado morto",
+            "resumo": "Um fotógrafo alagoano que desapareceu em um rio no Pará foi encontrado morto.",
+            "imagem": "https://s2-g1.glbimg.com/QyV7krQ3v9RcrAk03bxQ4AU04kQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/7/vkiJuYQPiDPHZojH75ZQ/vinicius-gomes-reproducao-redes-sociais-widexl.png",
+            "link": "https://g1.globo.com/al/alagoas/noticia/2026/07/03/fotografo-alagoano-desaparecido-em-rio-no-para-e-encontrado-morto.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-03T20:34:35-03:00",
+            "relevancia": 0.1,
+            "destaque": false,
+            "tags": [
+              "fotógrafo",
+              "desaparecido",
+              "morte"
+            ]
+          }
+        ]
+      },
+      "ciencia": {
+        "slug": "ciencia",
+        "nome": "Ciência",
+        "artigos": [
+          {
+            "id": "ciencia-2026-07-04-0000-01",
+            "titulo": "Hubble Detecta Luz de Galáxia Primitiva",
+            "resumo": "A radiação sobreviveu a uma viagem de mais de 12 bilhões de anos por um Universo que, em teoria, ainda deveria impedir sua passagem.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-hubble-detecta-luz-layout_site-CAPA.jpg",
+            "link": "https://super.abril.com.br/ciencia/hubble-detecta-luz-de-galaxia-primitiva-que-astronomos-achavam-ser-impossivel-observar/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T19:00:16.000Z",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "hubble",
+              "galaxia",
+              "radiação"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-04-0000-02",
+            "titulo": "Investigando um Mistério: Por que Algumas Espécies de Grilo Pararam de Cantar?",
+            "resumo": "Cientistas brasileiros tentam entender por quê o silêncio parece ser mais vantajoso para algumas espécies de grilo.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-grilo-layout_site.jpg",
+            "link": "https://super.abril.com.br/ciencia/investigando-um-misterio-por-que-algumas-especies-de-grilo-pararam-de-cantar/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T17:00:09.000Z",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "grilo",
+              "silêncio",
+              "espécies"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-04-0000-03",
+            "titulo": "NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars",
+            "resumo": "Blue and white stars shine brightly against crimson gas in this image from NASA’s Hubble Space Telescope.",
+            "imagem": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/nebulae/emission/Hubble_LMC_L95_3F_flat_FINAL.tif?w=2048",
+            "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T15:01:17.000Z",
+            "relevancia": 0.7,
+            "destaque": false,
+            "tags": [
+              "hubble",
+              "nebulosa",
+              "estrelas"
+            ]
+          }
+        ]
+      },
+      "futebol": {
+        "slug": "futebol",
+        "nome": "Futebol",
+        "artigos": [
+          {
+            "id": "f1",
+            "titulo": "Clube paulista anuncia contratação para a próxima temporada",
+            "resumo": "Reforço chega para disputar posição no meio-campo a partir do segundo semestre.",
+            "imagem": null,
+            "link": "#",
+            "fonte": "ge.globo",
+            "publicado_em": "2026-06-30T12:00:00-03:00"
+          }
+        ]
+      },
+      "curiosidades": {
+        "slug": "curiosidades",
+        "nome": "Curiosidades",
+        "artigos": [
+          {
+            "id": "u1",
+            "titulo": "Por que bocejamos? Ciência ainda não tem resposta definitiva",
+            "resumo": "Diferentes teorias tentam explicar o fenômeno, da regulação térmica à empatia social.",
+            "imagem": null,
+            "link": "#",
+            "fonte": "Mundo Estranho",
+            "publicado_em": "2026-06-29T18:00:00-03:00"
+          }
+        ]
+      },
+      "tecnologia": {
+        "slug": "tecnologia",
+        "nome": "Tecnologia",
+        "artigos": [
+          {
+            "id": "tecnologia-2026-07-04-0000-01",
+            "titulo": "Android: Fechar Apps para Limpar RAM Pode Piorar Seu Celular",
+            "resumo": "Liberar memória RAM no Android é desnecessário e pode prejudicar o desempenho.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/limpar-ram-android-prejudica-desempenho/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T16:57:25.000Z",
+            "relevancia": 0.9,
+            "destaque": true,
+            "tags": [
+              "android",
+              "ram",
+              "desempenho"
+            ]
+          },
+          {
+            "id": "tecnologia-2026-07-04-0000-02",
+            "titulo": "Google Passou a Guardar Mais Dados de Busca com IA",
+            "resumo": "Nova configuração, ativada por padrão, armazena mídias de usuários e levanta críticas de especialistas em privacidade.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/google-coleta-audios-imagens-treinar-ia/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T13:43:04.000Z",
+            "relevancia": 0.8,
+            "destaque": false,
+            "tags": [
+              "google",
+              "ia",
+              "privacidade"
+            ]
+          }
+        ]
+      },
+      "cultura": {
+        "slug": "cultura",
+        "nome": "Cultura",
+        "artigos": [
+          {
+            "id": "cultura-2026-07-04-0000-01",
+            "titulo": "Por que Jaspion Fez Mais Sucesso no Brasil do que no Japão?",
+            "resumo": "A morte do ator Hikaru Kurosaki ressuscitou o interesse pelo personagem.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-jaspion-layout_site.jpg",
+            "link": "https://super.abril.com.br/cultura/por-que-jaspion-fez-mais-sucesso-no-brasil-do-que-no-japao/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T20:00:08.000Z",
+            "relevancia": 0.7,
+            "destaque": true,
+            "tags": [
+              "jaspion",
+              "brasil",
+              "japao"
+            ]
+          }
+        ]
+      },
+      "atualidades": {
+        "slug": "atualidades",
+        "nome": "Atualidades",
+        "artigos": [
+          {
+            "id": "atualidades-2026-07-04-0000-01",
+            "titulo": "Brasil Teve 120 Mil Mortes Associadas a Ondas de Calor em 20 Anos",
+            "resumo": "Pesquisa aponta maior risco para idosos e população vulnerável.",
+            "imagem": "https://imagens.ebc.com.br/PqG3Y524AlwcKUFOacs9YtjVWMU=/754x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_dsc4326.jpg?itok=WViNF6gA",
+            "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T10:35:20.000Z",
+            "relevancia": 0.9,
+            "destaque": true,
+            "tags": [
+              "brasil",
+              "ondas de calor",
+              "mortes"
+            ]
+          }
+        ]
+      },
+      "comportamento": {
+        "slug": "comportamento",
+        "nome": "Comportamento & Sociedade",
+        "artigos": [
+          {
+            "id": "comportamento-2026-07-04-0000-01",
+            "titulo": "Homens São Duas Vezes Mais Propensos a “Quebrar” em Maratonas",
+            "resumo": "Análise de mais de 873 mil participações na Maratona de Berlim indica diferenças na estratégia de corrida e no metabolismo.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-maratona-layout_site.jpg",
+            "link": "https://super.abril.com.br/saude/homens-sao-duas-vezes-mais-propensos-a-quebrar-em-maratonas-entenda-por-que/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T13:00:57.000Z",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "maratona",
+              "homens",
+              "saude"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
