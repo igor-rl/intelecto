@@ -1,0 +1,400 @@
+{
+  "jornal": {
+    "nome": "Atualidades & Intelecto",
+    "atualizado_em": "2026-07-04T13:00:00.000Z",
+    "edicao": "2026-07-04",
+    "destaques": [
+      {
+        "id": "noticias-2026-07-04-1000-01",
+        "titulo": "Funeral do Líder Supremo do Irã Atrai Multidões em Teerã",
+        "link": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
+        "categoria_slug": "noticias"
+      },
+      {
+        "id": "ciencia-2026-07-03-2100-01",
+        "titulo": "Hubble Detecta Luz de Galáxia Primitiva",
+        "link": "https://super.abril.com.br/ciencia/hubble-detecta-luz-de-galaxia-primitiva-que-astronomos-achavam-ser-impossivel-observar/",
+        "categoria_slug": "ciencia"
+      },
+      {
+        "id": "tecnologia-2026-07-03-2100-01",
+        "titulo": "Fechar Apps para Limpar RAM Pode Piorar o Desempenho do Celular",
+        "link": "https://gizbr.uol.com.br/limpar-ram-android-prejudica-desempenho/",
+        "categoria_slug": "tecnologia"
+      },
+      {
+        "id": "atualidades-2026-07-03-2100-01",
+        "titulo": "Brasil Teve 120 Mil Mortes Associadas a Ondas de Calor em 20 Anos",
+        "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
+        "categoria_slug": "atualidades"
+      }
+    ],
+    "capa": {
+      "categoria_slug": "noticias",
+      "categoria_nome": "Notícias",
+      "titulo": "Funeral do Líder Supremo do Irã Atrai Multidões em Teerã",
+      "subtitulo": "O funeral do aiatolá Ali Khamenei, líder supremo do Irã, atraiu grandes multidões em Teerã...",
+      "resumo": "O funeral do aiatolá Ali Khamenei, líder supremo do Irã, atraiu grandes multidões em Teerã. Seu corpo será velado até segunda-feira antes de ser levado para o Iraque.",
+      "imagem": null,
+      "link": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC",
+      "publicado_em": "2026-07-04T09:45:55.000Z"
+    },
+    "categorias": {
+      "noticias": {
+        "slug": "noticias",
+        "nome": "Notícias",
+        "artigos": [
+          {
+            "id": "noticias-2026-07-04-1000-01",
+            "titulo": "Funeral do Líder Supremo do Irã Atrai Multidões em Teerã",
+            "resumo": "O funeral do aiatolá Ali Khamenei, líder supremo do Irã, atraiu grandes multidões em Teerã. Seu corpo será velado até segunda-feira antes de ser levado para o Iraque.",
+            "imagem": null,
+            "link": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
+            "fonte": "BBC",
+            "publicado_em": "2026-07-04T09:45:55.000Z",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "iran",
+              "funeral",
+              "politica"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-04-1000-02",
+            "titulo": "Tocantins: Projeto de Arroz é um dos Maiores do País",
+            "resumo": "O Projeto Rio Formoso, no Tocantins, é um dos maiores produtores de arroz do país. O estado é o terceiro maior produtor de arroz irrigado do Brasil.",
+            "imagem": "https://s2-g1.glbimg.com/1VYiz3U1jig3yfR1mRfr5QHQIzw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/9/foRcVhQYWMAz7VcMJXUg/466916.jfif",
+            "link": "https://g1.globo.com/to/tocantins/noticia/2026/07/04/conheca-projeto-em-cidade-do-to-que-e-um-dos-maiores-polos-produtores-de-arroz-do-pais.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-04T09:30:10.000Z",
+            "relevancia": 0.4,
+            "destaque": false,
+            "tags": [
+              "tocantins",
+              "arroz",
+              "agricultura"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-04-1000-03",
+            "titulo": "Iranianos Presos no Brasil por Tráfico de Drogas",
+            "resumo": "Dois iranianos foram presos em Santos por tentar enviar 180 kg de cocaína para Dubai. O caso está sendo investigado pelo Ministério Público Federal.",
+            "imagem": "https://s2-g1.glbimg.com/cCIqQKQh_Si9U-Eb_f9nXkhAVtE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/9/U88PSiQO2AofiQKTDuaQ/design-sem-nome.jpg",
+            "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/04/mpf-denuncia-iranianos-presos-em-sp-acusados-de-tentar-enviar-180-kg-de-cocaina-para-dubai.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-04T09:19:54.000Z",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "iran",
+              "trafico",
+              "drogas"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-04-1000-04",
+            "titulo": "Trump Reflete sobre Outras Presidências",
+            "resumo": "O presidente dos EUA, Donald Trump, tem refletido sobre outras presidências, comparando-se com alguns e distanciando-se dos fracassos de outros.",
+            "imagem": null,
+            "link": "https://www.nytimes.com/2026/07/03/us/politics/trump-takes-stock-of-other-presidencies-shedding-light-on-his-own.html",
+            "fonte": "The New York Times",
+            "publicado_em": "2026-07-04T09:02:27.000Z",
+            "relevancia": 0.5,
+            "destaque": false,
+            "tags": [
+              "trump",
+              "presidencia",
+              "eua"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-04-1000-05",
+            "titulo": "Unidade Momentânea no Funeral do Líder Supremo do Irã Mascara Divisões Profundas",
+            "resumo": "O funeral do líder supremo do Irã, Ali Khamenei, trouxe uma unidade momentânea entre os líderes iranianos, mas mascara divisões profundas.",
+            "imagem": null,
+            "link": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-supreme-leader-funeral-divisions.html",
+            "fonte": "The New York Times",
+            "publicado_em": "2026-07-04T09:01:35.000Z",
+            "relevancia": 0.7,
+            "destaque": false,
+            "tags": [
+              "iran",
+              "funeral",
+              "politica"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-04-1000-06",
+            "titulo": "Venda de Veículos em São José e Taubaté Aumenta",
+            "resumo": "A venda de veículos em São José e Taubaté aumentou no semestre, de acordo com a Federação Nacional da Distribuição de Veículos Automotores.",
+            "imagem": "https://s2-g1.glbimg.com/Y9QWBe0C1Sd40mq2AjAD2HaCYJU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/s/c/QGBNBtR9aMWJjQKO1B9g/venda-carros-novos-2018-07-13-q98a7885-fabio-tito-g1.jpg",
+            "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/04/sao-jose-e-taubate-fecham-semestre-com-alta-em-veiculos-emplacados-segundo-a-fenabrave.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-04T09:00:55.000Z",
+            "relevancia": 0.3,
+            "destaque": false,
+            "tags": [
+              "venda",
+              "veiculos",
+              "economia"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-04-1000-07",
+            "titulo": "Reajuste na Conta de Água em Natal",
+            "resumo": "A conta de água em Natal terá um reajuste de 6,98% a partir de agosto, de acordo com a previsão do Instituto Nacional de Meteorologia.",
+            "imagem": "https://s2-g1.glbimg.com/FpVr61CeN4qgr5Cf3ohOgIWTmGs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/R/k/YY4utNR0CvyiT9go46wg/es1-vix-pgm-nota-cesan.mp4-snapshot-00.23.676.jpg",
+            "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/04/conta-de-agua-em-natal-tera-reajuste-de-698percent-a-partir-de-agosto-veja-novos-valores.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-04T09:00:41.000Z",
+            "relevancia": 0.2,
+            "destaque": false,
+            "tags": [
+              "natal",
+              "conta",
+              "agua"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-04-1000-08",
+            "titulo": "Amazonas Deve Ter Menos Chuva em Julho",
+            "resumo": "O Amazonas deve ter menos chuva e temperaturas acima da média em julho, de acordo com a previsão do Instituto Nacional de Meteorologia.",
+            "imagem": "https://s2-g1.glbimg.com/_9Iez0QvN3slvluGjTdH77TsVhE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/H/3/9iOXrxT7apyppGbtutzA/itacoatiara-seca-2024.jpeg",
+            "link": "https://g1.globo.com/am/amazonas/noticia/2026/07/04/amazonas-deve-ter-menos-chuva-e-temperaturas-acima-da-media-em-julho-aponta-inmet.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-04T09:00:58.000Z",
+            "relevancia": 0.1,
+            "destaque": false,
+            "tags": [
+              "amazonas",
+              "chuva",
+              "clima"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-04-1000-09",
+            "titulo": "Comemorações do 250º Aniversário da Independência dos EUA",
+            "resumo": "Os EUA comemoram o 250º aniversário da independência com rodeios, música e celebrações em todo o país.",
+            "imagem": null,
+            "link": "https://www.nytimes.com/2026/07/04/us/america-250-us-independence-day-celebrations.html",
+            "fonte": "The New York Times",
+            "publicado_em": "2026-07-04T09:00:58.000Z",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "eua",
+              "independencia",
+              "celebracao"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-04-1000-10",
+            "titulo": "MPF Denuncia Iranianos Presos em SP por Tráfico de Drogas",
+            "resumo": "O Ministério Público Federal denunciou dois iranianos presos em Santos por tentar enviar 180 kg de cocaína para Dubai.",
+            "imagem": "https://s2-g1.glbimg.com/cCIqQKQh_Si9U-Eb_f9nXkhAVtE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/9/U88PSiQO2AofiQKTDuaQ/design-sem-nome.jpg",
+            "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/04/mpf-denuncia-iranianos-presos-em-sp-acusados-de-tentar-enviar-180-kg-de-cocaina-para-dubai.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-04T09:19:54.000Z",
+            "relevancia": 0.5,
+            "destaque": false,
+            "tags": [
+              "iran",
+              "trafico",
+              "drogas"
+            ]
+          }
+        ]
+      },
+      "ciencia": {
+        "slug": "ciencia",
+        "nome": "Ciência",
+        "artigos": [
+          {
+            "id": "ciencia-2026-07-04-1600-01",
+            "titulo": "Estradas feitas com plástico do oceano são testadas no Havaí",
+            "resumo": "Pesquisadores testam pavimentos com resíduos plásticos para reduzir lixo marinho nas ilhas. Estudo inicial indica que o novo asfalto não libera mais microplásticos que o convencional.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/asfalto-plastico-reciclado-havai/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-04T11:17:30-03:00",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "plastico",
+              "oceano",
+              "havai"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-04-1600-02",
+            "titulo": "NASA’s Hubble Spies Stellar Sparkler for July 4th",
+            "resumo": "A NASA divulgou uma imagem capturada pelo telescópio Hubble, mostrando estrelas brilhantes como um sparkler.",
+            "imagem": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/globular-clusters/Hubble_NGC6426_3_July4_FINAL2.tif?w=2048",
+            "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-04T11:15:37-03:00",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "nasa",
+              "hubble",
+              "estrelas"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-04-1600-03",
+            "titulo": "Hubble detecta luz de galáxia primitiva que astrônomos achavam ser “impossível observar”",
+            "resumo": "A radiação sobreviveu a uma viagem de mais de 12 bilhões de anos por um Universo que, em teoria, ainda deveria impedir sua passagem.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-hubble-detecta-luz-layout_site-CAPA.jpg",
+            "link": "https://super.abril.com.br/ciencia/hubble-detecta-luz-de-galaxia-primitiva-que-astronomos-achavam-ser-impossivel-observar/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T19:00:16-03:00",
+            "relevancia": 0.9,
+            "destaque": false,
+            "tags": [
+              "hubble",
+              "galaxia",
+              "primitiva"
+            ]
+          }
+        ]
+      },
+      "futebol": {
+        "slug": "futebol",
+        "nome": "Futebol",
+        "artigos": [
+          {
+            "id": "f1",
+            "titulo": "Clube paulista anuncia contratação para a próxima temporada",
+            "resumo": "Reforço chega para disputar posição no meio-campo a partir do segundo semestre.",
+            "imagem": null,
+            "link": "#",
+            "fonte": "ge.globo",
+            "publicado_em": "2026-06-30T12:00:00-03:00"
+          }
+        ]
+      },
+      "curiosidades": {
+        "slug": "curiosidades",
+        "nome": "Curiosidades",
+        "artigos": [
+          {
+            "id": "u1",
+            "titulo": "Por que bocejamos? Ciência ainda não tem resposta definitiva",
+            "resumo": "Diferentes teorias tentam explicar o fenômeno, da regulação térmica à empatia social.",
+            "imagem": null,
+            "link": "#",
+            "fonte": "Mundo Estranho",
+            "publicado_em": "2026-06-29T18:00:00-03:00"
+          }
+        ]
+      },
+      "tecnologia": {
+        "slug": "tecnologia",
+        "nome": "Tecnologia",
+        "artigos": [
+          {
+            "id": "tecnologia-2026-07-04-1600-01",
+            "titulo": "Android: fechar apps para limpar RAM pode piorar seu celular",
+            "resumo": "Liberar memória RAM no Android é desnecessário e pode prejudicar o desempenho.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/limpar-ram-android-prejudica-desempenho/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T16:57:25-03:00",
+            "relevancia": 0.7,
+            "destaque": true,
+            "tags": [
+              "android",
+              "ram",
+              "desempenho"
+            ]
+          },
+          {
+            "id": "tecnologia-2026-07-04-1600-02",
+            "titulo": "Google passou a guardar mais dados de busca com IA",
+            "resumo": "Nova configuração, ativada por padrão, armazena mídias de usuários e levanta críticas de especialistas em privacidade.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/google-coleta-audios-imagens-treinar-ia/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T13:43:04-03:00",
+            "relevancia": 0.5,
+            "destaque": false,
+            "tags": [
+              "google",
+              "ia",
+              "privacidade"
+            ]
+          }
+        ]
+      },
+      "cultura": {
+        "slug": "cultura",
+        "nome": "Cultura",
+        "artigos": [
+          {
+            "id": "cultura-2026-07-04-1600-01",
+            "titulo": "Por que Jaspion fez mais sucesso no Brasil do que no Japão",
+            "resumo": "A morte do ator Hikaru Kurosaki ressuscitou o interesse pelo personagem. Fora daqui, porém, ele nunca teve o mesmo impacto.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-jaspion-layout_site.jpg",
+            "link": "https://super.abril.com.br/cultura/por-que-jaspion-fez-mais-sucesso-no-brasil-do-que-no-japao/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T20:00:08-03:00",
+            "relevancia": 0.4,
+            "destaque": true,
+            "tags": [
+              "jaspion",
+              "brasil",
+              "japao"
+            ]
+          }
+        ]
+      },
+      "atualidades": {
+        "slug": "atualidades",
+        "nome": "Atualidades",
+        "artigos": [
+          {
+            "id": "atualidades-2026-07-04-1600-01",
+            "titulo": "Brasil teve 120 mil mortes associadas a ondas de calor em 20 anos",
+            "resumo": "Pesquisa aponta maior risco para idosos e população vulnerável.",
+            "imagem": "https://imagens.ebc.com.br/PqG3Y524AlwcKUFOacs9YtjVWMU=/754x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_dsc4326.jpg?itok=WViNF6gA",
+            "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T10:35:20-03:00",
+            "relevancia": 0.9,
+            "destaque": true,
+            "tags": [
+              "brasil",
+              "mortes",
+              "ondas de calor"
+            ]
+          }
+        ]
+      },
+      "comportamento": {
+        "slug": "comportamento",
+        "nome": "Comportamento & Sociedade",
+        "artigos": [
+          {
+            "id": "comportamento-2026-07-04-1600-01",
+            "titulo": "Homens são duas vezes mais propensos a “quebrar” em maratonas",
+            "resumo": "Análise de mais de 873 mil participações na Maratona de Berlim indica diferenças na estratégia de corrida e no metabolismo.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-maratona-layout_site.jpg",
+            "link": "https://super.abril.com.br/saude/homens-sao-duas-vezes-mais-propensos-a-quebrar-em-maratonas-entenda-por-que/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T13:00:57-03:00",
+            "relevancia": 0.6,
+            "destaque": true,
+            "tags": [
+              "homens",
+              "maratonas",
+              "saude"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
