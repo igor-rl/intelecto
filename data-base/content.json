@@ -1,8 +1,8 @@
 {
   "jornal": {
     "nome": "Atualidades & Intelecto",
-    "atualizado_em": "2026-07-03T21:00:00.000Z",
-    "edicao": "2026-07-03",
+    "atualizado_em": "2026-07-04T07:00:00.000Z",
+    "edicao": "2026-07-04",
     "destaques": [
       {
         "id": "noticias-2026-07-04-0000-01",
@@ -196,13 +196,13 @@
         "nome": "Ciência",
         "artigos": [
           {
-            "id": "ciencia-2026-07-03-2100-01",
+            "id": "ciencia-2026-07-04-1000-01",
             "titulo": "Hubble Detecta Luz de Galáxia Primitiva",
-            "resumo": "A luz de uma galáxia primitiva foi detectada pelo telescópio Hubble, após uma viagem de mais de 12 bilhões de anos.",
+            "resumo": "A radiação sobreviveu a uma viagem de mais de 12 bilhões de anos por um Universo que, em teoria, ainda deveria impedir sua passagem.",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-hubble-detecta-luz-layout_site-CAPA.jpg",
             "link": "https://super.abril.com.br/ciencia/hubble-detecta-luz-de-galaxia-primitiva-que-astronomos-achavam-ser-impossivel-observar/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T19:00:16+00:00",
+            "publicado_em": "2026-07-03T19:00:16-03:00",
             "relevancia": 0.8,
             "destaque": true,
             "tags": [
@@ -212,35 +212,35 @@
             ]
           },
           {
-            "id": "ciencia-2026-07-03-2100-02",
-            "titulo": "Cientistas Investigam Mistério de Grilos que Pararam de Cantar",
-            "resumo": "Cientistas brasileiros estão investigando o mistério de algumas espécies de grilos que pararam de cantar.",
+            "id": "ciencia-2026-07-04-1000-02",
+            "titulo": "Investigando um Mistério: Por que Algumas Espécies de Grilo Pararam de Cantar?",
+            "resumo": "Cientistas brasileiros tentam entender por quê o silêncio parece ser mais vantajoso para algumas espécies de grilo.",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-grilo-layout_site.jpg",
             "link": "https://super.abril.com.br/ciencia/investigando-um-misterio-por-que-algumas-especies-de-grilo-pararam-de-cantar/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T17:00:09+00:00",
+            "publicado_em": "2026-07-03T17:00:09-03:00",
             "relevancia": 0.6,
             "destaque": false,
             "tags": [
               "grilo",
-              "ciencia",
+              "biologia",
               "misterio"
             ]
           },
           {
-            "id": "ciencia-2026-07-03-2100-03",
+            "id": "ciencia-2026-07-04-1000-03",
             "titulo": "NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars",
-            "resumo": "O telescópio Hubble da NASA capturou uma imagem de uma nuvem vermelha cintilante com estrelas brancas e azuis.",
+            "resumo": "Blue and white stars shine brightly against crimson gas in this image from NASA’s Hubble Space Telescope.",
             "imagem": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/nebulae/emission/Hubble_LMC_L95_3F_flat_FINAL.tif?w=2048",
             "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T15:01:17+00:00",
+            "publicado_em": "2026-07-03T15:01:17-03:00",
             "relevancia": 0.7,
             "destaque": false,
             "tags": [
               "hubble",
-              "nasa",
-              "estrelas"
+              "estrelas",
+              "nebulosa"
             ]
           }
         ]
@@ -280,13 +280,13 @@
         "nome": "Tecnologia",
         "artigos": [
           {
-            "id": "tecnologia-2026-07-03-2100-01",
-            "titulo": "Fechar Apps para Limpar RAM Pode Piorar o Desempenho do Celular",
-            "resumo": "Liberar memória RAM no Android é desnecessário e pode prejudicar o desempenho do celular.",
+            "id": "tecnologia-2026-07-04-1000-01",
+            "titulo": "Android: Fechar Apps para Limpar RAM Pode Piorar Seu Celular",
+            "resumo": "Liberar memória RAM no Android é desnecessário e pode prejudicar o desempenho.",
             "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
             "link": "https://gizbr.uol.com.br/limpar-ram-android-prejudica-desempenho/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T16:57:25+00:00",
+            "publicado_em": "2026-07-03T16:57:25-03:00",
             "relevancia": 0.9,
             "destaque": true,
             "tags": [
@@ -296,13 +296,13 @@
             ]
           },
           {
-            "id": "tecnologia-2026-07-03-2100-02",
+            "id": "tecnologia-2026-07-04-1000-02",
             "titulo": "Google Passou a Guardar Mais Dados de Busca com IA",
-            "resumo": "O Google passou a guardar mais dados de busca com IA, o que levanta críticas de especialistas em privacidade.",
+            "resumo": "Nova configuração, ativada por padrão, armazena mídias de usuários e histórico médico.",
             "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
             "link": "https://gizbr.uol.com.br/google-coleta-audios-imagens-treinar-ia/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T13:43:04+00:00",
+            "publicado_em": "2026-07-03T13:43:04-03:00",
             "relevancia": 0.8,
             "destaque": false,
             "tags": [
@@ -318,19 +318,19 @@
         "nome": "Cultura",
         "artigos": [
           {
-            "id": "cultura-2026-07-03-2100-01",
-            "titulo": "Jaspion Fez Mais Sucesso no Brasil do que no Japão",
-            "resumo": "O personagem Jaspion fez mais sucesso no Brasil do que no Japão, onde foi criado.",
+            "id": "cultura-2026-07-04-1000-01",
+            "titulo": "Por que Jaspion Fez Mais Sucesso no Brasil do que no Japão?",
+            "resumo": "A morte do ator Hikaru Kurosaki ressuscitou o interesse pelo personagem.",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-jaspion-layout_site.jpg",
             "link": "https://super.abril.com.br/cultura/por-que-jaspion-fez-mais-sucesso-no-brasil-do-que-no-japao/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-02T20:00:08+00:00",
+            "publicado_em": "2026-07-02T20:00:08-03:00",
             "relevancia": 0.7,
             "destaque": true,
             "tags": [
               "jaspion",
-              "brasil",
-              "japao"
+              "japao",
+              "brasil"
             ]
           }
         ]
@@ -340,19 +340,19 @@
         "nome": "Atualidades",
         "artigos": [
           {
-            "id": "atualidades-2026-07-03-2100-01",
+            "id": "atualidades-2026-07-04-1000-01",
             "titulo": "Brasil Teve 120 Mil Mortes Associadas a Ondas de Calor em 20 Anos",
-            "resumo": "O Brasil teve 120 mil mortes associadas a ondas de calor em 20 anos, de acordo com uma pesquisa.",
+            "resumo": "Pesquisa aponta maior risco para idosos e população vulnerável.",
             "imagem": "https://imagens.ebc.com.br/PqG3Y524AlwcKUFOacs9YtjVWMU=/754x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_dsc4326.jpg?itok=WViNF6gA",
             "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T10:35:20+00:00",
+            "publicado_em": "2026-07-03T10:35:20-03:00",
             "relevancia": 0.9,
             "destaque": true,
             "tags": [
               "brasil",
-              "ondas de calor",
-              "mortalidade"
+              "ondas",
+              "calor"
             ]
           }
         ]
@@ -362,13 +362,13 @@
         "nome": "Comportamento & Sociedade",
         "artigos": [
           {
-            "id": "comportamento-2026-07-03-2100-01",
-            "titulo": "Homens São Duas Vezes Mais Propensos a ‘Quebrar’ em Maratonas",
-            "resumo": "Homens são duas vezes mais propensos a ‘quebrar’ em maratonas do que mulheres, de acordo com um estudo.",
+            "id": "comportamento-2026-07-04-1000-01",
+            "titulo": "Homens São Duas Vezes Mais Propensos a “Quebrar” em Maratonas",
+            "resumo": "Análise de mais de 873 mil participações na Maratona de Berlim indica diferenças na estratégia de corrida e no metabolismo.",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-maratona-layout_site.jpg",
             "link": "https://super.abril.com.br/saude/homens-sao-duas-vezes-mais-propensos-a-quebrar-em-maratonas-entenda-por-que/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T13:00:57+00:00",
+            "publicado_em": "2026-07-03T13:00:57-03:00",
             "relevancia": 0.8,
             "destaque": true,
             "tags": [
