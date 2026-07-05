@@ -5,40 +5,40 @@
     "edicao": "2026-07-05",
     "destaques": [
       {
-        "id": "noticias-2026-07-05-1600-01",
-        "titulo": "Líder Iraniano Ausente em Funeral de Alto Oficial",
-        "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-        "categoria_slug": "noticias"
-      },
-      {
-        "id": "ciencia-2026-07-05-1600-01",
-        "titulo": "Descoberta de DNA antigo em pintura rupestre",
-        "link": "https://super.abril.com.br/ciencia/pela-primeira-vez-cientistas-extraem-dna-antigo-de-uma-pintura-rupestre/",
-        "categoria_slug": "ciencia"
-      },
-      {
-        "id": "tecnologia-2026-07-05-1600-01",
-        "titulo": "Google passou a guardar mais dados de busca com IA",
+        "id": "tecnologia-2026-07-05-2100-01",
+        "titulo": "Google Passou a Guardar Mais Dados de Busca com IA",
         "link": "https://gizbr.uol.com.br/google-coleta-audios-imagens-treinar-ia/",
         "categoria_slug": "tecnologia"
       },
       {
-        "id": "atualidades-2026-07-05-1600-01",
-        "titulo": "Brasil teve 120 mil mortes associadas a ondas de calor em 20 anos",
+        "id": "noticias-2026-07-05-2100-01",
+        "titulo": "Trump pede revisão da suspensão de jogador de futebol",
+        "link": "https://www.nytimes.com/2026/07/05/us/trump-fifa-balogun-world-cup.html",
+        "categoria_slug": "noticias"
+      },
+      {
+        "id": "ciencia-2026-07-05-2100-01",
+        "titulo": "Megalodon: Descoberta de Fóssil Revela Detalhes do Tubarão Gigante",
+        "link": "https://super.abril.com.br/ciencia/megalodon-redescoberta-de-fossil-revela-detalhes-sobre-o-lendario-tubarao-gigante/",
+        "categoria_slug": "ciencia"
+      },
+      {
+        "id": "atualidades-2026-07-05-2100-01",
+        "titulo": "Brasil Teve 120 Mil Mortes Associadas a Ondas de Calor em 20 Anos",
         "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
         "categoria_slug": "atualidades"
       }
     ],
     "capa": {
-      "categoria_slug": "noticias",
-      "categoria_nome": "Notícias",
-      "titulo": "Líder Iraniano Ausente em Funeral de Alto Oficial",
-      "subtitulo": "O líder supremo do Irã, Mojtaba Khamenei, não foi visto em público desde o ataque que matou seu pai no início da guerra entre os EUA, Israel e o Irã...",
-      "resumo": "O líder supremo do Irã, Mojtaba Khamenei, não foi visto em público desde o ataque que matou seu pai no início da guerra entre os EUA, Israel e o Irã. Seu paradeiro é desconhecido.",
-      "imagem": null,
-      "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC",
-      "publicado_em": "2026-07-05T15:48:55.000Z"
+      "categoria_slug": "tecnologia",
+      "categoria_nome": "Tecnologia",
+      "titulo": "Google Passou a Guardar Mais Dados de Busca com IA",
+      "subtitulo": "O Google ativou uma nova configuração que armazena mídias de usuários e histórico médico para treinar sua IA...",
+      "resumo": "O Google ativou uma nova configuração que armazena mídias de usuários e histórico médico para treinar sua IA.",
+      "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+      "link": "https://gizbr.uol.com.br/google-coleta-audios-imagens-treinar-ia/",
+      "fonte": "Desconhecida",
+      "publicado_em": "2026-07-03T13:43:04.000Z"
     },
     "categorias": {
       "noticias": {
@@ -46,147 +46,147 @@
         "nome": "Notícias",
         "artigos": [
           {
-            "id": "noticias-2026-07-05-1600-01",
-            "titulo": "Líder Iraniano Ausente em Funeral de Alto Oficial",
-            "resumo": "O líder supremo do Irã, Mojtaba Khamenei, não foi visto em público desde o ataque que matou seu pai no início da guerra entre os EUA, Israel e o Irã. Seu paradeiro é desconhecido.",
+            "id": "noticias-2026-07-05-2100-01",
+            "titulo": "Trump pede revisão da suspensão de jogador de futebol",
+            "resumo": "O ex-presidente dos EUA, Donald Trump, solicitou que a FIFA revisse a suspensão do jogador Folarin Balogun. A decisão foi revertida, permitindo que o jogador participe da Copa do Mundo.",
             "imagem": null,
-            "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-            "fonte": "BBC",
-            "publicado_em": "2026-07-05T15:48:55.000Z",
+            "link": "https://www.nytimes.com/2026/07/05/us/trump-fifa-balogun-world-cup.html",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T20:38:35.000Z",
             "relevancia": 0.8,
             "destaque": true,
             "tags": [
-              "irã",
-              "política",
-              "guerra"
+              "esportes",
+              "fifa",
+              "copedomundo"
             ]
           },
           {
-            "id": "noticias-2026-07-05-1600-02",
-            "titulo": "Marcelly Malta Lisboa, Lutadora pelos Direitos Trans, Morre Aos 75 Anos",
-            "resumo": "Marcelly Malta Lisboa, uma figura importante na luta pelos direitos das pessoas trans no Brasil, faleceu aos 75 anos. Ela foi uma referência na comunidade trans e deixou um legado importante.",
-            "imagem": "https://s2-g1.glbimg.com/xCJeV_XtJO-8xBAlXhycuPiUOHY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/M/V/MGfSoNTqCsTG8xpvBquw/marcelly.jpeg",
-            "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/05/morre-marcelly-malta-lisboa-referencia-na-luta-pelos-direitos-de-travestis-e-transexuais-aos-75-anos.ghtml",
-            "fonte": "G1",
-            "publicado_em": "2026-07-05T15:44:20.000Z",
-            "relevancia": 0.6,
+            "id": "noticias-2026-07-05-2100-02",
+            "titulo": "Administração Trump revoga dezenas de regulamentações de armas",
+            "resumo": "A administração Trump revogou dezenas de regulamentações de armas, o que foi criticado por muitos como uma medida que enfraquece a segurança pública.",
+            "imagem": null,
+            "link": "https://www.nytimes.com/2026/07/05/us/politics/trump-gun-rights-laws.html",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T20:37:10.000Z",
+            "relevancia": 0.7,
             "destaque": false,
             "tags": [
-              "direitos humanos",
-              "trans",
-              "brasil"
+              "politica",
+              "armas",
+              "seguranca"
             ]
           },
           {
-            "id": "noticias-2026-07-05-1600-03",
-            "titulo": "Cacique Raoni Tem Dreno de Tórax Retirado e Permanece Estável",
-            "resumo": "O líder indígena Cacique Raoni Metuktire, de 93 anos, teve o dreno de tórax retirado e permanece em estado estável na UTI. Ele é uma figura importante na luta pelos direitos indígenas no Brasil.",
-            "imagem": "https://s2-g1.glbimg.com/bqSZYq2QVxFi1f4DoeQwAWt1FPg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/D/g/P1Y4ARQ36Tx30RbrmAbg/whatsapp-image-2023-07-27-at-15.13.50.jpeg",
-            "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/05/cacique-raoni-tem-dreno-de-torax-retirado-e-segue-estavel-na-uti-diz-hospital.ghtml",
-            "fonte": "G1",
-            "publicado_em": "2026-07-05T15:40:37.000Z",
+            "id": "noticias-2026-07-05-2100-03",
+            "titulo": "Morte de mulher em incêndio em Araguaína",
+            "resumo": "Uma mulher de 22 anos morreu em um incêndio em uma casa em Araguaína, no Tocantins. O corpo foi encontrado carbonizado.",
+            "imagem": "https://s2-g1.glbimg.com/8O6ytlUGbhMWkXDJZySuQhZ2o60=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/K/499TPLRZOESLaU2S6kBA/foto-e-montagem-vertical-17-.jpg",
+            "link": "https://g1.globo.com/to/tocantins/noticia/2026/07/05/cadeirante-morre-carbonizada-durante-incendio-dentro-de-casa-no-interior-do-tocantins-dizem-bombeiros.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T20:29:43.000Z",
             "relevancia": 0.5,
             "destaque": false,
             "tags": [
-              "indígenas",
-              "saúde",
-              "brasil"
+              "incendio",
+              "morte",
+              "araguaina"
             ]
           },
           {
-            "id": "noticias-2026-07-05-1600-04",
-            "titulo": "Mulher Escapa de Sequestrador em Pedágio da BR-116",
-            "resumo": "Uma mulher de 43 anos conseguiu escapar de seu sequestrador em um pedágio da BR-116. O suspeito foi preso em Governador Valadares.",
-            "imagem": "https://s2-g1.glbimg.com/TVxfeBoXya2-r68qQ25q1nXzPMI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/I/IXP7nmQoGL462ElpVIRA/carol-9-.png",
-            "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/07/05/mulher-escapa-de-sequestrador-em-pedagio-da-br-116-suspeito-e-preso-em-governador-valadares.ghtml",
-            "fonte": "G1",
-            "publicado_em": "2026-07-05T15:39:40.000Z",
+            "id": "noticias-2026-07-05-2100-04",
+            "titulo": "Expoacre Juruá 2026: Feira agropecuária no Acre",
+            "resumo": "A Expoacre Juruá 2026 está sendo realizada no Acre, com a participação de quase 450 expositores. A feira tem como objetivo impulsionar a economia local.",
+            "imagem": "https://s2-g1.glbimg.com/Gu1K1ISN3YmUWi5KojT6azZ9JGw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/z/6YsToqRaWcwy7VnBehTg/midia-de-distribuicao-g1-2026-07-05t115607.094.jpg",
+            "link": "https://g1.globo.com/ac/acre/noticia/2026/07/05/expositores-do-acre-aproveitam-feira-agropecuaria-para-faturar-e-conquistar-clientes-da-para-lucrar.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T20:06:00.000Z",
             "relevancia": 0.4,
             "destaque": false,
             "tags": [
-              "segurança",
-              "brasil",
-              "mulheres"
+              "economia",
+              "agropecuaria",
+              "acre"
             ]
           },
           {
-            "id": "noticias-2026-07-05-1600-05",
-            "titulo": "Homem É Preso por Tentativa de Feminicídio em Limeira",
-            "resumo": "Um homem foi preso por tentativa de feminicídio após esfaquear a amiga em Limeira. A vítima conseguiu fugir e o suspeito foi detido.",
-            "imagem": "https://s2-g1.glbimg.com/MA17SJyN7uMegshe8oph2ILqmC0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/B/AdWlKXToem1pBskPBZAw/design-sem-nome-21-.png",
-            "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/05/homem-esfaqueia-rosto-de-amiga-e-e-preso-por-tentativa-de-feminicidio-em-limeira.ghtml",
-            "fonte": "G1",
-            "publicado_em": "2026-07-05T15:33:06.000Z",
+            "id": "noticias-2026-07-05-2100-05",
+            "titulo": "Toada do Boi Garantido viraliza na Copa do Mundo",
+            "resumo": "A toada 'Pode Remar' do Boi Garantido viralizou nas redes sociais durante a Copa do Mundo. O amo do boi, João Paulo Faria, destacou a força da toada.",
+            "imagem": "https://s2-g1.glbimg.com/LM9c0eT0axpyGGoMmsHYL8lavBs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/o/Ac5pDLTKKa0Lq8M1QwZA/captura-de-tela-2026-07-01-144448.png",
+            "link": "https://g1.globo.com/am/amazonas/noticia/2026/07/05/joao-paulo-faria-amo-do-boi-garantido-destaca-forca-da-toada-pode-remar-apos-viralizar-na-copa.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T20:04:01.000Z",
             "relevancia": 0.3,
             "destaque": false,
             "tags": [
-              "violência",
-              "gênero",
-              "brasil"
+              "copadomundo",
+              "boigarantido",
+              "toada"
             ]
           },
           {
-            "id": "noticias-2026-07-05-1600-06",
-            "titulo": "Suspeito de Agredir Companheira Grávida É Preso no Piauí",
-            "resumo": "Um homem foi preso no Piauí por agredir a companheira grávida. O suspeito tentou fugir, mas foi detido pela polícia.",
-            "imagem": "https://s2-g1.glbimg.com/1Pd3u1hDc0XwdXowiRD1wWebhyY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/G/wLAWtHQUy2JhbZNmLtBg/edicao-imagens-g1-19-.png",
-            "link": "https://g1.globo.com/pi/piaui/noticia/2026/07/05/suspeito-agredir-piaui.ghtml",
-            "fonte": "G1",
-            "publicado_em": "2026-07-05T15:30:55.000Z",
-            "relevancia": 0.2,
+            "id": "noticias-2026-07-05-2100-06",
+            "titulo": "Vacinação contra pneumonia em Bauru",
+            "resumo": "A Secretaria de Saúde de Bauru iniciou a vacinação contra pneumonia com a vacina Pneumocócica 20-valente.",
+            "imagem": "https://s2-g1.glbimg.com/GYPJZ33BzOGFBVE5fpLBB0-F2DI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/V/DXlUaITnuHoBpBNBrNkw/vacina.jpg",
+            "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/07/05/secretaria-de-saude-de-bauru-inicia-aplicacao-da-vacina-pneumococica-20-valente-nesta-segunda-veja-locais.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T20:00:09.000Z",
+            "relevancia": 0.6,
             "destaque": false,
             "tags": [
-              "violência",
-              "gênero",
-              "brasil"
+              "saude",
+              "vacina",
+              "pneumonia"
             ]
           },
           {
-            "id": "noticias-2026-07-05-1600-07",
-            "titulo": "Motociclista Morre em Acidente na MT-060",
-            "resumo": "Um motociclista morreu em um acidente na MT-060, em Nossa Senhora do Livramento. A vítima foi identificada como João Batista de Campos.",
-            "imagem": "https://s2-g1.glbimg.com/wM8jft_gVy4T3VVCkNCYlcTzqzc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/x/AnHtYhTyq9SHhuyoVk2w/design-sem-nome-80-.png",
-            "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/05/motociclista-morre-em-acidente-na-mt-060-em-nossa-senhora-do-livramento-mt.ghtml",
-            "fonte": "G1",
-            "publicado_em": "2026-07-05T15:29:33.000Z",
-            "relevancia": 0.1,
+            "id": "noticias-2026-07-05-2100-07",
+            "titulo": "Doenças respiratórias lotam hospitais em Sorocaba",
+            "resumo": "Os hospitais e unidades de pronto atendimento em Sorocaba estão superlotados devido ao aumento de doenças respiratórias.",
+            "imagem": "https://s2-g1.glbimg.com/mCpqn6bIG2UG_bzwv5xS48Jqqg0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/T/hd3xXBRheEkXQ78GQ5MQ/sor-tn2-040726-frame-64626.jpeg",
+            "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/05/doencas-respiratorias-lotam-hospitais-de-sorocaba-medicos-alertam-para-automedicacao.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T20:00:08.000Z",
+            "relevancia": 0.5,
             "destaque": false,
             "tags": [
-              "trânsito",
-              "acidente",
-              "brasil"
+              "saude",
+              "doencas",
+              "sorocaba"
             ]
           },
           {
-            "id": "noticias-2026-07-05-1600-08",
-            "titulo": "Firjan SENAI SESI Oferece Vagas para Ensino Médio com Curso Técnico",
-            "resumo": "A Firjan SENAI SESI está oferecendo vagas para ensino médio com curso técnico para o ano de 2027. As inscrições estão abertas e são destinadas a pessoas de baixa renda.",
-            "imagem": "https://s2-g1.glbimg.com/uFybcMueULfUKO2NwSRtU5s52Jo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/Q/qwCEfIQeO6gPnAsMAmnQ/senais.png",
-            "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/05/firjan-senai-sesi-abre-inscricoes-para-ensino-medio-com-curso-tecnico-para-2027.ghtml",
-            "fonte": "G1",
-            "publicado_em": "2026-07-05T15:29:13.000Z",
-            "relevancia": 0.1,
+            "id": "noticias-2026-07-05-2100-08",
+            "titulo": "Operação apreende veículos irregulares em Cabo Frio",
+            "resumo": "Uma operação realizada em Cabo Frio resultou na apreensão de 13 motocicletas e dois automóveis em situação irregular.",
+            "imagem": "https://s2-g1.glbimg.com/aFHNVX5gkukzgP_wBGppLihZLCU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/t/T55ywwQCiRvFsJRdebaQ/montagem-1-ok.jpg",
+            "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/07/05/operacao-apreende-13-motos-e-dois-carros-irregulares-em-cabo-frio.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T19:59:54.000Z",
+            "relevancia": 0.4,
             "destaque": false,
             "tags": [
-              "educação",
-              "brasil",
-              "oportunidades"
+              "seguranca",
+              "operacao",
+              "cabofrio"
             ]
           },
           {
-            "id": "noticias-2026-07-05-1600-09",
-            "titulo": "Torneio de Pesca Esportiva Atrai Mais de 300 Participantes no Amazonas",
-            "resumo": "Um torneio de pesca esportiva no Amazonas atraiu mais de 300 participantes. O evento foi realizado em Lábrea e movimentou a economia local.",
-            "imagem": "https://s2-g1.glbimg.com/bt-kj9ZdGzVGBKKniZ8RdZ0e5SY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/C/oKiRUySPighDg1aABpWQ/captura-de-tela-2026-07-05-111351.png",
-            "link": "https://g1.globo.com/am/amazonas/amazonia-negocios/noticia/2026/07/05/torneio-de-pesca-esportiva-atrai-mais-de-300-participantes-e-movimenta-economia-no-interior-do-am.ghtml",
-            "fonte": "G1",
-            "publicado_em": "2026-07-05T15:28:01.000Z",
-            "relevancia": 0.1,
+            "id": "noticias-2026-07-05-2100-09",
+            "titulo": "Homem morre afogado em praia de Boa Viagem",
+            "resumo": "Um homem morreu afogado na praia de Boa Viagem, no Recife. O corpo foi encontrado perto do Quiosque 28.",
+            "imagem": "https://s2-g1.glbimg.com/yK3czgO3ynq7Vg_uCzKF5KyHpjk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/8/riVx6OTRSBclW8euDiRA/boaviagem.jpg",
+            "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/07/05/homem-morre-afogado-na-praia-de-boa-viagem-no-recife.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T19:55:51.000Z",
+            "relevancia": 0.3,
             "destaque": false,
             "tags": [
-              "esportes",
-              "amazonas",
-              "economia"
+              "morte",
+              "afogamento",
+              "boaviagem"
             ]
           }
         ]
