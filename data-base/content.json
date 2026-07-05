@@ -1,7 +1,7 @@
 {
   "jornal": {
     "nome": "Atualidades & Intelecto",
-    "atualizado_em": "2026-07-05T13:00:00.000Z",
+    "atualizado_em": "2026-07-05T18:00:00.000Z",
     "edicao": "2026-07-05",
     "destaques": [
       {
@@ -196,51 +196,51 @@
         "nome": "Ciência",
         "artigos": [
           {
-            "id": "ciencia-2026-07-05-1600-01",
-            "titulo": "Descoberta de DNA antigo em pintura rupestre",
-            "resumo": "Cientistas conseguiram extrair DNA antigo de uma pintura rupestre, abrindo novas portas para a paleogenética.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-DNA-pintura-rupestre-layout_site-CAPA.jpg",
-            "link": "https://super.abril.com.br/ciencia/pela-primeira-vez-cientistas-extraem-dna-antigo-de-uma-pintura-rupestre/",
+            "id": "ciencia-2026-07-05-2100-01",
+            "titulo": "Megalodon: Descoberta de Fóssil Revela Detalhes do Tubarão Gigante",
+            "resumo": "Um estudo recente sobre um fóssil de Megalodon revelou detalhes sobre o lendário tubarão gigante, incluindo seu comprimento estimado em mais de 24 metros.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2022/06/SI_megalodon_site.jpg",
+            "link": "https://super.abril.com.br/ciencia/megalodon-redescoberta-de-fossil-revela-detalhes-sobre-o-lendario-tubarao-gigante/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-02T19:00:19+00:00",
+            "publicado_em": "2026-07-05T19:00:42.000Z",
             "relevancia": 0.8,
             "destaque": true,
             "tags": [
-              "dna",
-              "pintura rupestre",
-              "paleogenetica"
+              "megalodon",
+              "tubarao",
+              "fossil"
             ]
           },
           {
-            "id": "ciencia-2026-07-05-1600-02",
-            "titulo": "Hubble detecta luz de galáxia primitiva",
-            "resumo": "A radiação sobreviveu a uma viagem de mais de 12 bilhões de anos por um Universo que, em teoria, ainda deveria impedir sua passagem.",
+            "id": "ciencia-2026-07-05-2100-02",
+            "titulo": "Hubble Detecta Luz de Galáxia Primitiva",
+            "resumo": "A radiação de uma galáxia primitiva foi detectada pelo telescópio Hubble, sobrevivendo a uma viagem de mais de 12 bilhões de anos.",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-hubble-detecta-luz-layout_site-CAPA.jpg",
             "link": "https://super.abril.com.br/ciencia/hubble-detecta-luz-de-galaxia-primitiva-que-astronomos-achavam-ser-impossivel-observar/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T19:00:16+00:00",
+            "publicado_em": "2026-07-03T19:00:16.000Z",
             "relevancia": 0.7,
             "destaque": false,
             "tags": [
               "hubble",
-              "galaxia primitiva",
-              "astronomia"
+              "galaxia",
+              "primitiva"
             ]
           },
           {
-            "id": "ciencia-2026-07-05-1600-03",
-            "titulo": "Investigando um mistério: por que algumas espécies de grilo pararam de cantar?",
-            "resumo": "Cientistas brasileiros tentam entender por quê o silêncio parece ser mais vantajoso para algumas espécies de grilo",
+            "id": "ciencia-2026-07-05-2100-03",
+            "titulo": "Investigando um Mistério: Por que Algumas Espécies de Grilo Pararam de Cantar?",
+            "resumo": "Cientistas brasileiros estão investigando o mistério por trás do silêncio de algumas espécies de grilo.",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-grilo-layout_site.jpg",
             "link": "https://super.abril.com.br/ciencia/investigando-um-misterio-por-que-algumas-especies-de-grilo-pararam-de-cantar/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T17:00:09+00:00",
+            "publicado_em": "2026-07-03T17:00:09.000Z",
             "relevancia": 0.6,
             "destaque": false,
             "tags": [
               "grilo",
-              "silencio",
-              "biologia"
+              "misterio",
+              "silencio"
             ]
           }
         ]
@@ -280,13 +280,13 @@
         "nome": "Tecnologia",
         "artigos": [
           {
-            "id": "tecnologia-2026-07-05-1600-01",
-            "titulo": "Google passou a guardar mais dados de busca com IA",
-            "resumo": "Nova configuração, ativada por padrão, armazena mídias de usuários e levanta críticas de especialistas em privacidade.",
+            "id": "tecnologia-2026-07-05-2100-01",
+            "titulo": "Google Passou a Guardar Mais Dados de Busca com IA",
+            "resumo": "O Google ativou uma nova configuração que armazena mídias de usuários e histórico médico para treinar sua IA.",
             "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
             "link": "https://gizbr.uol.com.br/google-coleta-audios-imagens-treinar-ia/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T13:43:04+00:00",
+            "publicado_em": "2026-07-03T13:43:04.000Z",
             "relevancia": 0.9,
             "destaque": true,
             "tags": [
@@ -296,19 +296,19 @@
             ]
           },
           {
-            "id": "tecnologia-2026-07-05-1600-02",
-            "titulo": "Android: fechar apps para limpar RAM pode piorar seu celular",
-            "resumo": "Liberar memória RAM no Android é desnecessário e pode prejudicar o desempenho.",
+            "id": "tecnologia-2026-07-05-2100-02",
+            "titulo": "Seu Celular Galaxy Precisa Mudar o App de SMS",
+            "resumo": "A Samsung descontinuou o app de SMS padrão em seus celulares Galaxy, recomendando a mudança para o Google Messages.",
             "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
-            "link": "https://gizbr.uol.com.br/limpar-ram-android-prejudica-desempenho/",
+            "link": "https://gizbr.uol.com.br/samsung-messages-desativado-julho-2026/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T16:57:25+00:00",
+            "publicado_em": "2026-07-02T22:05:16.000Z",
             "relevancia": 0.8,
             "destaque": false,
             "tags": [
-              "android",
-              "ram",
-              "desempenho"
+              "samsung",
+              "sms",
+              "google"
             ]
           }
         ]
@@ -318,13 +318,13 @@
         "nome": "Cultura",
         "artigos": [
           {
-            "id": "cultura-2026-07-05-1600-01",
-            "titulo": "Por que Jaspion fez mais sucesso no Brasil do que no Japão?",
-            "resumo": "A morte do ator Hikaru Kurosaki ressuscitou o interesse pelo personagem.",
+            "id": "cultura-2026-07-05-2100-01",
+            "titulo": "Por que Jaspion Fez Mais Sucesso no Brasil do que no Japão?",
+            "resumo": "O personagem Jaspion teve um impacto significativo no Brasil, mas não alcançou o mesmo nível de sucesso em seu país de origem, o Japão.",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-jaspion-layout_site.jpg",
             "link": "https://super.abril.com.br/cultura/por-que-jaspion-fez-mais-sucesso-no-brasil-do-que-no-japao/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-02T20:00:08+00:00",
+            "publicado_em": "2026-07-02T20:00:08.000Z",
             "relevancia": 0.7,
             "destaque": true,
             "tags": [
@@ -340,19 +340,19 @@
         "nome": "Atualidades",
         "artigos": [
           {
-            "id": "atualidades-2026-07-05-1600-01",
-            "titulo": "Brasil teve 120 mil mortes associadas a ondas de calor em 20 anos",
-            "resumo": "Pesquisa aponta maior risco para idosos e população vulnerável.",
-            "imagem": "https://imagens.ebc.com.br/PqG3Y524AlwcKUFOacs9YtjVWMU=/754x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_dsc4326.jpg?itok=WViNF6gA",
+            "id": "atualidades-2026-07-05-2100-01",
+            "titulo": "Brasil Teve 120 Mil Mortes Associadas a Ondas de Calor em 20 Anos",
+            "resumo": "Um estudo recente revelou que o Brasil teve um número significativo de mortes relacionadas a ondas de calor nos últimos 20 anos.",
+            "imagem": "https://imagens.ebc.com.br/PqG3Y524AlwcKUFOacs9YtjVWMU=/754x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_dsc4326.jpg",
             "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T10:35:20+00:00",
-            "relevancia": 0.9,
+            "publicado_em": "2026-07-03T10:35:20.000Z",
+            "relevancia": 0.8,
             "destaque": true,
             "tags": [
               "brasil",
-              "ondas de calor",
-              "mortalidade"
+              "ondas",
+              "calor"
             ]
           }
         ]
@@ -362,19 +362,19 @@
         "nome": "Comportamento & Sociedade",
         "artigos": [
           {
-            "id": "comportamento-2026-07-05-1600-01",
-            "titulo": "Homens são duas vezes mais propensos a “quebrar” em maratonas",
-            "resumo": "Análise de mais de 873 mil participações na Maratona de Berlim indica diferenças na estratégia de corrida e no metabolismo.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-maratona-layout_site.jpg",
-            "link": "https://super.abril.com.br/saude/homens-sao-duas-vezes-mais-propensos-a-quebrar-em-maratonas-entenda-por-que/",
+            "id": "comportamento-2026-07-05-2100-01",
+            "titulo": "Alta Demanda Faz SUS Ampliar Teleatendimento a Jogadores Compulsivos",
+            "resumo": "O SUS está ampliando o teleatendimento para jogadores compulsivos devido à alta demanda.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/alta-demanda-faz-sus-ampliar-teleatendimento-a-jogadores-compulsivos/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T13:00:57+00:00",
-            "relevancia": 0.8,
+            "publicado_em": "2026-07-05T15:15:49.000Z",
+            "relevancia": 0.7,
             "destaque": true,
             "tags": [
-              "maratona",
-              "homens",
-              "saude"
+              "sus",
+              "jogadores",
+              "compulsivos"
             ]
           }
         ]
