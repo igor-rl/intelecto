@@ -1,0 +1,400 @@
+{
+  "jornal": {
+    "nome": "Atualidades & Intelecto",
+    "atualizado_em": "2026-07-05T13:00:00.000Z",
+    "edicao": "2026-07-05",
+    "destaques": [
+      {
+        "id": "noticias-2026-07-05-1000-02",
+        "titulo": "Funerais do líder supremo do Irã são marcados por pedidos de vingança",
+        "link": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-supreme-leader.html",
+        "categoria_slug": "noticias"
+      },
+      {
+        "id": "tecnologia-2026-07-03-2100-01",
+        "titulo": "Fechar Apps para Limpar RAM Pode Piorar o Desempenho do Celular",
+        "link": "https://gizbr.uol.com.br/limpar-ram-android-prejudica-desempenho/",
+        "categoria_slug": "tecnologia"
+      },
+      {
+        "id": "atualidades-2026-07-03-2100-01",
+        "titulo": "Brasil Teve 120 Mil Mortes Associadas a Ondas de Calor em 20 Anos",
+        "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
+        "categoria_slug": "atualidades"
+      },
+      {
+        "id": "noticias-2026-07-05-1000-01",
+        "titulo": "Tufão se aproxima de Guam, causando evacuações",
+        "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+        "categoria_slug": "noticias"
+      }
+    ],
+    "capa": {
+      "categoria_slug": "noticias",
+      "categoria_nome": "Notícias",
+      "titulo": "Funerais do líder supremo do Irã são marcados por pedidos de vingança",
+      "subtitulo": "Funerais do líder supremo do Irã são marcados por pedidos de vingança...",
+      "resumo": "Os funerais do líder supremo do Irã, Ayatollah Ali Khamenei, foram marcados por pedidos de vingança. O evento foi realizado no segundo dia de luto nacional.",
+      "imagem": null,
+      "link": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-supreme-leader.html",
+      "fonte": "Desconhecida",
+      "publicado_em": "2026-07-05T09:44:56+00:00"
+    },
+    "categorias": {
+      "noticias": {
+        "slug": "noticias",
+        "nome": "Notícias",
+        "artigos": [
+          {
+            "id": "noticias-2026-07-05-1000-01",
+            "titulo": "Tufão se aproxima de Guam, causando evacuações",
+            "resumo": "Um super tufão está se aproximando de Guam, levando a evacuações e alertas de tempestade. O tufão Bavi está previsto para atingir a ilha na segunda-feira, trazendo ventos fortes e ondas altas.",
+            "imagem": null,
+            "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T09:26:56-00:00",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "tufão",
+              "guam",
+              "evacuação"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-05-1000-02",
+            "titulo": "Funerais do líder supremo do Irã são marcados por pedidos de vingança",
+            "resumo": "Os funerais do líder supremo do Irã, Ayatollah Ali Khamenei, foram marcados por pedidos de vingança. O evento foi realizado no segundo dia de luto nacional.",
+            "imagem": null,
+            "link": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-supreme-leader.html",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T09:44:56+00:00",
+            "relevancia": 0.9,
+            "destaque": false,
+            "tags": [
+              "irã",
+              "funerais",
+              "vingança"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-05-1000-03",
+            "titulo": "Conflito na Ucrânia: soldados lutam em ruínas e evitam drones",
+            "resumo": "Soldados ucranianos estão lutando em ruínas e evitando drones na região de Donetsk. O conflito na Ucrânia continua a causar destruição e perdas de vidas.",
+            "imagem": null,
+            "link": "https://www.nytimes.com/2026/07/05/world/europe/ukraine-russia-donetsk-front.html",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T09:17:30+00:00",
+            "relevancia": 0.7,
+            "destaque": false,
+            "tags": [
+              "ucrânia",
+              "conflito",
+              "donetsk"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-05-1000-04",
+            "titulo": "EUA comemoram 250 anos de independência com tempestades e incêndios",
+            "resumo": "Os EUA comemoraram 250 anos de independência com tempestades e incêndios. O evento foi marcado por celebrações em todo o país.",
+            "imagem": null,
+            "link": "https://www.nytimes.com/2026/07/05/us/america-250-celebrations.html",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T09:02:23+00:00",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "eua",
+              "independência",
+              "celebrações"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-05-1000-05",
+            "titulo": "Venezuela: alertas sobre habitação pública precederam terremotos",
+            "resumo": "Alertas sobre a habitação pública na Venezuela precederam os terremotos que atingiram o país. Moradores e especialistas haviam alertado sobre a vulnerabilidade das construções.",
+            "imagem": null,
+            "link": "https://www.nytimes.com/2026/07/05/world/americas/venezuela-earthquake-la-guaira-building-collapse-government.html",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T09:02:15+00:00",
+            "relevancia": 0.5,
+            "destaque": false,
+            "tags": [
+              "venezuela",
+              "terremotos",
+              "habitação"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-05-1000-06",
+            "titulo": "Trump revoga dezenas de regulamentações de armas",
+            "resumo": "A administração Trump revogou dezenas de regulamentações de armas. A medida foi criticada por defensores da segurança pública.",
+            "imagem": null,
+            "link": "https://www.nytimes.com/2026/07/05/us/politics/trump-gun-rights-laws.html",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T09:01:31+00:00",
+            "relevancia": 0.4,
+            "destaque": false,
+            "tags": [
+              "eua",
+              "armas",
+              "regulamentações"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-05-1000-07",
+            "titulo": "Justiça condena centro automotivo por abusos",
+            "resumo": "A Justiça condenou um centro automotivo por abusos contra clientes. A empresa foi obrigada a pagar R$ 100 mil por danos morais.",
+            "imagem": "https://s2-g1.glbimg.com/QiBx715iplvdwjHTP8ipKqdeasY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/v/iqWMXnSVu5Bwy7hFXBVA/inserir-um-titulo-91-.jpg",
+            "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/05/justica-condena-centro-automotivo-em-r-100-mil-por-abusos-cliente-pagou-r-117-mil-apos-troca-de-pneus.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T09:16:58-00:00",
+            "relevancia": 0.3,
+            "destaque": false,
+            "tags": [
+              "brasil",
+              "justiça",
+              "centro automotivo"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-05-1000-08",
+            "titulo": "Detran RJ oferece curso gratuito de habilitação para pessoas com deficiência",
+            "resumo": "O Detran RJ está oferecendo um curso gratuito de habilitação para pessoas com deficiência. O curso é destinado a pessoas que precisam de veículos adaptados.",
+            "imagem": "https://s2-g1.glbimg.com/JpX4o3_3CKFlG3pYL9L02njGNxQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/4/hamHgASEGqShFNghxHKw/whatsapp-image-2026-07-03-at-17.46.43.jpeg",
+            "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/05/detran-rj-oferece-curso-gratuito-de-primeira-habilitacao-para-pessoas-com-deficiencia-que-precisam-de-carro-adaptado.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T09:00:41-00:00",
+            "relevancia": 0.2,
+            "destaque": false,
+            "tags": [
+              "brasil",
+              "detran",
+              "pessoas com deficiência"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-05-1000-09",
+            "titulo": "Varizes não são apenas um problema estético",
+            "resumo": "Varizes não são apenas um problema estético, mas também podem causar problemas de saúde. É importante tratar as varizes para evitar complicações.",
+            "imagem": "https://s2-g1.glbimg.com/jTHVlhsMv-5rlQSI9aTS_3VJmBU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/d/aoM4MJSXe4fRO3K0UyWQ/imagem-materia-11.jpg",
+            "link": "https://g1.globo.com/mg/centro-oeste/especial-publicitario/lys-clinica-vascular-tratamento-de-varizes-sem-internacao-e-com-tecnologia-de-ponta/noticia/2026/07/05/varizes-vasinhos-nao-sao-so-problema-estetico.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T09:01:06-00:00",
+            "relevancia": 0.1,
+            "destaque": false,
+            "tags": [
+              "saúde",
+              "varizes",
+              "problema estético"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-05-1000-10",
+            "titulo": "Pudim gigante vira sensação em feiras de Goiânia",
+            "resumo": "Um pudim gigante feito por um casal viralizou nas redes sociais e se tornou uma sensação em feiras de Goiânia. O doce de quase 5 quilos é uma atração nas feiras.",
+            "imagem": "https://s2-g1.glbimg.com/1dBvLoLyDyC2JnsZBtlAn9_uGWo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/n/0Zb6A7RxqhnsY5BgAPCg/g1-28-.jpg",
+            "link": "https://g1.globo.com/go/goias/noticia/2026/07/05/pudim-gigante-doce-feito-por-casal-viraliza-e-vira-sensacao-em-feiras-de-goiania.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T09:00:39-00:00",
+            "relevancia": 0,
+            "destaque": false,
+            "tags": [
+              "culinária",
+              "pudim",
+              "feiras"
+            ]
+          }
+        ]
+      },
+      "ciencia": {
+        "slug": "ciencia",
+        "nome": "Ciência",
+        "artigos": [
+          {
+            "id": "ciencia-2026-07-05-1600-01",
+            "titulo": "Descoberta de DNA antigo em pintura rupestre",
+            "resumo": "Cientistas conseguiram extrair DNA antigo de uma pintura rupestre, abrindo novas portas para a paleogenética.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-DNA-pintura-rupestre-layout_site-CAPA.jpg",
+            "link": "https://super.abril.com.br/ciencia/pela-primeira-vez-cientistas-extraem-dna-antigo-de-uma-pintura-rupestre/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T19:00:19+00:00",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "dna",
+              "pintura rupestre",
+              "paleogenetica"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-05-1600-02",
+            "titulo": "Hubble detecta luz de galáxia primitiva",
+            "resumo": "A radiação sobreviveu a uma viagem de mais de 12 bilhões de anos por um Universo que, em teoria, ainda deveria impedir sua passagem.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-hubble-detecta-luz-layout_site-CAPA.jpg",
+            "link": "https://super.abril.com.br/ciencia/hubble-detecta-luz-de-galaxia-primitiva-que-astronomos-achavam-ser-impossivel-observar/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T19:00:16+00:00",
+            "relevancia": 0.7,
+            "destaque": false,
+            "tags": [
+              "hubble",
+              "galaxia primitiva",
+              "astronomia"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-05-1600-03",
+            "titulo": "Investigando um mistério: por que algumas espécies de grilo pararam de cantar?",
+            "resumo": "Cientistas brasileiros tentam entender por quê o silêncio parece ser mais vantajoso para algumas espécies de grilo",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-grilo-layout_site.jpg",
+            "link": "https://super.abril.com.br/ciencia/investigando-um-misterio-por-que-algumas-especies-de-grilo-pararam-de-cantar/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T17:00:09+00:00",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "grilo",
+              "silencio",
+              "biologia"
+            ]
+          }
+        ]
+      },
+      "futebol": {
+        "slug": "futebol",
+        "nome": "Futebol",
+        "artigos": [
+          {
+            "id": "f1",
+            "titulo": "Clube paulista anuncia contratação para a próxima temporada",
+            "resumo": "Reforço chega para disputar posição no meio-campo a partir do segundo semestre.",
+            "imagem": null,
+            "link": "#",
+            "fonte": "ge.globo",
+            "publicado_em": "2026-06-30T12:00:00-03:00"
+          }
+        ]
+      },
+      "curiosidades": {
+        "slug": "curiosidades",
+        "nome": "Curiosidades",
+        "artigos": [
+          {
+            "id": "u1",
+            "titulo": "Por que bocejamos? Ciência ainda não tem resposta definitiva",
+            "resumo": "Diferentes teorias tentam explicar o fenômeno, da regulação térmica à empatia social.",
+            "imagem": null,
+            "link": "#",
+            "fonte": "Mundo Estranho",
+            "publicado_em": "2026-06-29T18:00:00-03:00"
+          }
+        ]
+      },
+      "tecnologia": {
+        "slug": "tecnologia",
+        "nome": "Tecnologia",
+        "artigos": [
+          {
+            "id": "tecnologia-2026-07-05-1600-01",
+            "titulo": "Google passou a guardar mais dados de busca com IA",
+            "resumo": "Nova configuração, ativada por padrão, armazena mídias de usuários e levanta críticas de especialistas em privacidade.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/google-coleta-audios-imagens-treinar-ia/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T13:43:04+00:00",
+            "relevancia": 0.9,
+            "destaque": true,
+            "tags": [
+              "google",
+              "ia",
+              "privacidade"
+            ]
+          },
+          {
+            "id": "tecnologia-2026-07-05-1600-02",
+            "titulo": "Android: fechar apps para limpar RAM pode piorar seu celular",
+            "resumo": "Liberar memória RAM no Android é desnecessário e pode prejudicar o desempenho.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/limpar-ram-android-prejudica-desempenho/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T16:57:25+00:00",
+            "relevancia": 0.8,
+            "destaque": false,
+            "tags": [
+              "android",
+              "ram",
+              "desempenho"
+            ]
+          }
+        ]
+      },
+      "cultura": {
+        "slug": "cultura",
+        "nome": "Cultura",
+        "artigos": [
+          {
+            "id": "cultura-2026-07-05-1600-01",
+            "titulo": "Por que Jaspion fez mais sucesso no Brasil do que no Japão?",
+            "resumo": "A morte do ator Hikaru Kurosaki ressuscitou o interesse pelo personagem.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-jaspion-layout_site.jpg",
+            "link": "https://super.abril.com.br/cultura/por-que-jaspion-fez-mais-sucesso-no-brasil-do-que-no-japao/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T20:00:08+00:00",
+            "relevancia": 0.7,
+            "destaque": true,
+            "tags": [
+              "jaspion",
+              "brasil",
+              "japao"
+            ]
+          }
+        ]
+      },
+      "atualidades": {
+        "slug": "atualidades",
+        "nome": "Atualidades",
+        "artigos": [
+          {
+            "id": "atualidades-2026-07-05-1600-01",
+            "titulo": "Brasil teve 120 mil mortes associadas a ondas de calor em 20 anos",
+            "resumo": "Pesquisa aponta maior risco para idosos e população vulnerável.",
+            "imagem": "https://imagens.ebc.com.br/PqG3Y524AlwcKUFOacs9YtjVWMU=/754x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_dsc4326.jpg?itok=WViNF6gA",
+            "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T10:35:20+00:00",
+            "relevancia": 0.9,
+            "destaque": true,
+            "tags": [
+              "brasil",
+              "ondas de calor",
+              "mortalidade"
+            ]
+          }
+        ]
+      },
+      "comportamento": {
+        "slug": "comportamento",
+        "nome": "Comportamento & Sociedade",
+        "artigos": [
+          {
+            "id": "comportamento-2026-07-05-1600-01",
+            "titulo": "Homens são duas vezes mais propensos a “quebrar” em maratonas",
+            "resumo": "Análise de mais de 873 mil participações na Maratona de Berlim indica diferenças na estratégia de corrida e no metabolismo.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-maratona-layout_site.jpg",
+            "link": "https://super.abril.com.br/saude/homens-sao-duas-vezes-mais-propensos-a-quebrar-em-maratonas-entenda-por-que/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T13:00:57+00:00",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "maratona",
+              "homens",
+              "saude"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
