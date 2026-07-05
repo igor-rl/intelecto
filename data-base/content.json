@@ -1,7 +1,7 @@
 {
   "jornal": {
     "nome": "Atualidades & Intelecto",
-    "atualizado_em": "2026-07-05T07:00:00.000Z",
+    "atualizado_em": "2026-07-05T13:00:00.000Z",
     "edicao": "2026-07-05",
     "destaques": [
       {
@@ -212,25 +212,41 @@
         "nome": "Ciência",
         "artigos": [
           {
-            "id": "ciencia-2026-07-03-2100-01",
-            "titulo": "Hubble Detecta Luz de Galáxia Primitiva",
-            "resumo": "A luz de uma galáxia primitiva foi detectada pelo telescópio Hubble, após uma viagem de mais de 12 bilhões de anos.",
+            "id": "ciencia-2026-07-05-1600-01",
+            "titulo": "Descoberta de DNA antigo em pintura rupestre",
+            "resumo": "Cientistas conseguiram extrair DNA antigo de uma pintura rupestre, abrindo novas portas para a paleogenética.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-DNA-pintura-rupestre-layout_site-CAPA.jpg",
+            "link": "https://super.abril.com.br/ciencia/pela-primeira-vez-cientistas-extraem-dna-antigo-de-uma-pintura-rupestre/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T19:00:19+00:00",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "dna",
+              "pintura rupestre",
+              "paleogenetica"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-05-1600-02",
+            "titulo": "Hubble detecta luz de galáxia primitiva",
+            "resumo": "A radiação sobreviveu a uma viagem de mais de 12 bilhões de anos por um Universo que, em teoria, ainda deveria impedir sua passagem.",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-hubble-detecta-luz-layout_site-CAPA.jpg",
             "link": "https://super.abril.com.br/ciencia/hubble-detecta-luz-de-galaxia-primitiva-que-astronomos-achavam-ser-impossivel-observar/",
             "fonte": "Desconhecida",
             "publicado_em": "2026-07-03T19:00:16+00:00",
-            "relevancia": 0.8,
-            "destaque": true,
+            "relevancia": 0.7,
+            "destaque": false,
             "tags": [
               "hubble",
-              "galaxia",
+              "galaxia primitiva",
               "astronomia"
             ]
           },
           {
-            "id": "ciencia-2026-07-03-2100-02",
-            "titulo": "Cientistas Investigam Mistério de Grilos que Pararam de Cantar",
-            "resumo": "Cientistas brasileiros estão investigando o mistério de algumas espécies de grilos que pararam de cantar.",
+            "id": "ciencia-2026-07-05-1600-03",
+            "titulo": "Investigando um mistério: por que algumas espécies de grilo pararam de cantar?",
+            "resumo": "Cientistas brasileiros tentam entender por quê o silêncio parece ser mais vantajoso para algumas espécies de grilo",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-grilo-layout_site.jpg",
             "link": "https://super.abril.com.br/ciencia/investigando-um-misterio-por-que-algumas-especies-de-grilo-pararam-de-cantar/",
             "fonte": "Desconhecida",
@@ -239,24 +255,8 @@
             "destaque": false,
             "tags": [
               "grilo",
-              "ciencia",
-              "misterio"
-            ]
-          },
-          {
-            "id": "ciencia-2026-07-03-2100-03",
-            "titulo": "NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars",
-            "resumo": "O telescópio Hubble da NASA capturou uma imagem de uma nuvem vermelha cintilante com estrelas brancas e azuis.",
-            "imagem": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/nebulae/emission/Hubble_LMC_L95_3F_flat_FINAL.tif?w=2048",
-            "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T15:01:17+00:00",
-            "relevancia": 0.7,
-            "destaque": false,
-            "tags": [
-              "hubble",
-              "nasa",
-              "estrelas"
+              "silencio",
+              "biologia"
             ]
           }
         ]
@@ -296,35 +296,35 @@
         "nome": "Tecnologia",
         "artigos": [
           {
-            "id": "tecnologia-2026-07-03-2100-01",
-            "titulo": "Fechar Apps para Limpar RAM Pode Piorar o Desempenho do Celular",
-            "resumo": "Liberar memória RAM no Android é desnecessário e pode prejudicar o desempenho do celular.",
-            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
-            "link": "https://gizbr.uol.com.br/limpar-ram-android-prejudica-desempenho/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T16:57:25+00:00",
-            "relevancia": 0.9,
-            "destaque": true,
-            "tags": [
-              "android",
-              "ram",
-              "desempenho"
-            ]
-          },
-          {
-            "id": "tecnologia-2026-07-03-2100-02",
-            "titulo": "Google Passou a Guardar Mais Dados de Busca com IA",
-            "resumo": "O Google passou a guardar mais dados de busca com IA, o que levanta críticas de especialistas em privacidade.",
+            "id": "tecnologia-2026-07-05-1600-01",
+            "titulo": "Google passou a guardar mais dados de busca com IA",
+            "resumo": "Nova configuração, ativada por padrão, armazena mídias de usuários e levanta críticas de especialistas em privacidade.",
             "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
             "link": "https://gizbr.uol.com.br/google-coleta-audios-imagens-treinar-ia/",
             "fonte": "Desconhecida",
             "publicado_em": "2026-07-03T13:43:04+00:00",
-            "relevancia": 0.8,
-            "destaque": false,
+            "relevancia": 0.9,
+            "destaque": true,
             "tags": [
               "google",
               "ia",
               "privacidade"
+            ]
+          },
+          {
+            "id": "tecnologia-2026-07-05-1600-02",
+            "titulo": "Android: fechar apps para limpar RAM pode piorar seu celular",
+            "resumo": "Liberar memória RAM no Android é desnecessário e pode prejudicar o desempenho.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/limpar-ram-android-prejudica-desempenho/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T16:57:25+00:00",
+            "relevancia": 0.8,
+            "destaque": false,
+            "tags": [
+              "android",
+              "ram",
+              "desempenho"
             ]
           }
         ]
@@ -334,9 +334,9 @@
         "nome": "Cultura",
         "artigos": [
           {
-            "id": "cultura-2026-07-03-2100-01",
-            "titulo": "Jaspion Fez Mais Sucesso no Brasil do que no Japão",
-            "resumo": "O personagem Jaspion fez mais sucesso no Brasil do que no Japão, onde foi criado.",
+            "id": "cultura-2026-07-05-1600-01",
+            "titulo": "Por que Jaspion fez mais sucesso no Brasil do que no Japão?",
+            "resumo": "A morte do ator Hikaru Kurosaki ressuscitou o interesse pelo personagem.",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-jaspion-layout_site.jpg",
             "link": "https://super.abril.com.br/cultura/por-que-jaspion-fez-mais-sucesso-no-brasil-do-que-no-japao/",
             "fonte": "Desconhecida",
@@ -356,9 +356,9 @@
         "nome": "Atualidades",
         "artigos": [
           {
-            "id": "atualidades-2026-07-03-2100-01",
-            "titulo": "Brasil Teve 120 Mil Mortes Associadas a Ondas de Calor em 20 Anos",
-            "resumo": "O Brasil teve 120 mil mortes associadas a ondas de calor em 20 anos, de acordo com uma pesquisa.",
+            "id": "atualidades-2026-07-05-1600-01",
+            "titulo": "Brasil teve 120 mil mortes associadas a ondas de calor em 20 anos",
+            "resumo": "Pesquisa aponta maior risco para idosos e população vulnerável.",
             "imagem": "https://imagens.ebc.com.br/PqG3Y524AlwcKUFOacs9YtjVWMU=/754x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_dsc4326.jpg?itok=WViNF6gA",
             "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
             "fonte": "Desconhecida",
@@ -378,9 +378,9 @@
         "nome": "Comportamento & Sociedade",
         "artigos": [
           {
-            "id": "comportamento-2026-07-03-2100-01",
-            "titulo": "Homens São Duas Vezes Mais Propensos a ‘Quebrar’ em Maratonas",
-            "resumo": "Homens são duas vezes mais propensos a ‘quebrar’ em maratonas do que mulheres, de acordo com um estudo.",
+            "id": "comportamento-2026-07-05-1600-01",
+            "titulo": "Homens são duas vezes mais propensos a “quebrar” em maratonas",
+            "resumo": "Análise de mais de 873 mil participações na Maratona de Berlim indica diferenças na estratégia de corrida e no metabolismo.",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-maratona-layout_site.jpg",
             "link": "https://super.abril.com.br/saude/homens-sao-duas-vezes-mais-propensos-a-quebrar-em-maratonas-entenda-por-que/",
             "fonte": "Desconhecida",
