@@ -1,0 +1,368 @@
+{
+  "jornal": {
+    "nome": "Atualidades & Intelecto",
+    "atualizado_em": "2026-07-04T21:00:00.000Z",
+    "edicao": "2026-07-04",
+    "destaques": [
+      {
+        "id": "noticias-2026-07-04-2100-01",
+        "titulo": "Suspeito de atacar irmã e ex-mulher é preso no Pará",
+        "link": "https://g1.globo.com/pa/para/noticia/2026/07/04/suspeito-de-atacar-irma-com-machado-e-ex-mulher-com-facao-e-preso-em-itaituba-no-pa.ghtml",
+        "categoria_slug": "noticias"
+      },
+      {
+        "id": "ciencia-2026-07-03-2100-01",
+        "titulo": "Hubble Detecta Luz de Galáxia Primitiva",
+        "link": "https://super.abril.com.br/ciencia/hubble-detecta-luz-de-galaxia-primitiva-que-astronomos-achavam-ser-impossivel-observar/",
+        "categoria_slug": "ciencia"
+      },
+      {
+        "id": "tecnologia-2026-07-03-2100-01",
+        "titulo": "Fechar Apps para Limpar RAM Pode Piorar o Desempenho do Celular",
+        "link": "https://gizbr.uol.com.br/limpar-ram-android-prejudica-desempenho/",
+        "categoria_slug": "tecnologia"
+      },
+      {
+        "id": "atualidades-2026-07-03-2100-01",
+        "titulo": "Brasil Teve 120 Mil Mortes Associadas a Ondas de Calor em 20 Anos",
+        "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
+        "categoria_slug": "atualidades"
+      }
+    ],
+    "capa": {
+      "categoria_slug": "noticias",
+      "categoria_nome": "Notícias",
+      "titulo": "Suspeito de atacar irmã e ex-mulher é preso no Pará",
+      "subtitulo": "Um homem foi preso por tentativas de feminicídio e homicídio contra a ex-companheira e a própria irmã...",
+      "resumo": "Um homem foi preso por tentativas de feminicídio e homicídio contra a ex-companheira e a própria irmã. A prisão ocorreu na comunidade do Livramento, em Itaituba.",
+      "imagem": "https://s2-g1.glbimg.com/yY8w3q9zwzy9R3cV6GpWAWpKIHs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/w/HUHB6kSce0ArVFppq09g/fotonoticia.jpg",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/07/04/suspeito-de-atacar-irma-com-machado-e-ex-mulher-com-facao-e-preso-em-itaituba-no-pa.ghtml",
+      "fonte": "Desconhecida",
+      "publicado_em": "2026-07-04T20:38:07-03:00"
+    },
+    "categorias": {
+      "noticias": {
+        "slug": "noticias",
+        "nome": "Notícias",
+        "artigos": [
+          {
+            "id": "noticias-2026-07-04-2100-01",
+            "titulo": "Suspeito de atacar irmã e ex-mulher é preso no Pará",
+            "resumo": "Um homem foi preso por tentativas de feminicídio e homicídio contra a ex-companheira e a própria irmã. A prisão ocorreu na comunidade do Livramento, em Itaituba.",
+            "imagem": "https://s2-g1.glbimg.com/yY8w3q9zwzy9R3cV6GpWAWpKIHs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/w/HUHB6kSce0ArVFppq09g/fotonoticia.jpg",
+            "link": "https://g1.globo.com/pa/para/noticia/2026/07/04/suspeito-de-atacar-irma-com-machado-e-ex-mulher-com-facao-e-preso-em-itaituba-no-pa.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-04T20:38:07-03:00",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "crime",
+              "para",
+              "itaituba"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-04-2100-02",
+            "titulo": "Idosa é vítima de golpe do bilhete premiado em Salvador",
+            "resumo": "Dois homens suspeitos de aplicar o golpe do bilhete premiado contra uma idosa foram presos em flagrante em Salvador. A dupla é investigada por estelionato.",
+            "imagem": "https://s2-g1.glbimg.com/4PXxUYvYO53xOKrUyFwPpxNrGL0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/r/2/MfmIFRQMm9PvQOGmqa9A/bilhete-premiado.jpg",
+            "link": "https://g1.globo.com/ba/bahia/noticia/2026/07/04/suspeitos-de-aplicar-golpe-do-bilhete-premiado-contra-idosa-sao-presos-em-salvador.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-04T20:46:09-03:00",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "crime",
+              "bahia",
+              "salvador"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-04-2100-03",
+            "titulo": "Adolescente é apreendido por roubo e estupro em Assis",
+            "resumo": "Um adolescente foi apreendido suspeito de roubar um celular e estuprar a vítima dona do aparelho em Assis, São Paulo.",
+            "imagem": "https://s2-g1.glbimg.com/dK6zxb1DqMddff8dOK1JMviWv4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/P/0/kc54BAS8AnsimoBmzftg/novo-projeto-2-.png",
+            "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/07/04/adolescente-e-apreendido-suspeito-de-roubar-celular-e-estuprar-vitima-em-assis.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-04T20:43:30-03:00",
+            "relevancia": 0.7,
+            "destaque": false,
+            "tags": [
+              "crime",
+              "sao paulo",
+              "assis"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-04-2100-04",
+            "titulo": "Polícia apreende armas e aves abatidas em ação contra caça ilegal no Ceará",
+            "resumo": "A Polícia Militar apreendeu duas espingardas de pressão, 14 aves abatidas e uma motocicleta durante uma ação contra a caça ilegal em Tamboril, no interior do Ceará.",
+            "imagem": "https://s2-g1.glbimg.com/cmhZ1-6NIJQd8Cp8PMhpTn6Zxkc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/H/j7MEkYQhAupBt08A8Z7A/pmce-apreende-armas-aves-abatidas-e-motocicleta-durante-combate-a-caca-ilegal-em-tamboril.jpg",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/07/04/pm-apreende-armas-e-aves-abatidas-durante-acao-contra-caca-ilegal-no-interior-do-ceara.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-04T20:41:00-03:00",
+            "relevancia": 0.5,
+            "destaque": false,
+            "tags": [
+              "meio ambiente",
+              "ceara",
+              "tamboril"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-04-2100-05",
+            "titulo": "Mulher usa arma de choque para fugir de marido agressor em Vila Velha",
+            "resumo": "Uma mulher usou uma arma de choque para se defender e fugir das agressões do marido em Vila Velha, Espírito Santo.",
+            "imagem": "https://s2-g1.glbimg.com/DsrV2Ihbh3eEzvVy-AYRp_TzPuI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/k/bPBG0YR22R8Xxp5oNiIQ/thumb-fotos-6-.jpg",
+            "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/07/04/mulher-usa-arma-de-choque-para-fugir-de-marido-que-comprou-equipamento-para-agredi-la-em-vila-velha.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-04T20:32:26-03:00",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "crime",
+              "espirito santo",
+              "vila velha"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-04-2100-06",
+            "titulo": "Carcaças de jacarés abatidos são encontradas em operação no Pantanal",
+            "resumo": "Três homens investigados por furtos de gado, ameaças, posse ilegal de armas e crimes ambientais foram presos durante uma operação no Pantanal.",
+            "imagem": "https://s2-g1.glbimg.com/oQEFNsIysM2VF31noc_g_j0ATfo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/g/1jdBB7Q0acIg8YSJHdBA/para-o-g1-4-.jpg",
+            "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/07/04/carcacas-de-seis-jacares-abatidos-sao-encontrados-em-operacao-que-prendeu-trio-investigado-por-crimes-no-pantanal.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-04T20:31:36-03:00",
+            "relevancia": 0.5,
+            "destaque": false,
+            "tags": [
+              "meio ambiente",
+              "mato grosso do sul",
+              "pantanal"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-04-2100-07",
+            "titulo": "GCM prende suspeitos de roubo de celulares em São Paulo",
+            "resumo": "A Guarda Civil Metropolitana prendeu dois homens suspeitos de integrar quadrilha de roubo de celulares em São Paulo.",
+            "imagem": "https://s2-g1.glbimg.com/ZDh57oQserX-OPyrMPMsIu7Xhuo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/8/MIzjYgSfmLHElDdmgX3w/gcm-prende-dois-por-roubo.png",
+            "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/04/gcm-prende-dois-suspeitos-de-integrar-quadrilha-de-roubo-de-celulares-com-moto-na-avenida-paulista.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-04T20:30:21-03:00",
+            "relevancia": 0.5,
+            "destaque": false,
+            "tags": [
+              "crime",
+              "sao paulo",
+              "gcm"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-04-2100-08",
+            "titulo": "Projeto propõe mudanças na aposentadoria de servidores em Piracicaba",
+            "resumo": "Um projeto de lei da Prefeitura de Piracicaba propõe mudar as regras da aposentadoria dos servidores municipais, incluindo a criação de uma idade mínima de 69 anos.",
+            "imagem": "https://s2-g1.glbimg.com/kQucvBZSwQcaa0LThZjDFwEvjrc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/Y/6xd87fRsGz59N7eWi4LQ/pref-pira.jpeg",
+            "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/04/idade-minima-de-69-anos-e-contribuicao-de-14percent-entenda-projeto-para-mudar-aposentadoria-dos-servidores-em-piracicaba.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-04T20:30:06-03:00",
+            "relevancia": 0.4,
+            "destaque": false,
+            "tags": [
+              "politica",
+              "piracicaba",
+              "aposentadoria"
+            ]
+          }
+        ]
+      },
+      "ciencia": {
+        "slug": "ciencia",
+        "nome": "Ciência",
+        "artigos": [
+          {
+            "id": "ciencia-2026-07-05-0000-01",
+            "titulo": "Origem da Yoga",
+            "resumo": "A origem da yoga é diferente do que se pensa, com influências da ginástica sueca e exercícios militares.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0407-ME-origem-yoga-layout_site.jpg",
+            "link": "https://super.abril.com.br/mundo-estranho/ginastica-sueca-e-exercicios-militares-a-origem-da-yoga-e-bem-diferente-do-que-voce-pensa/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-04T21:01:31.000Z",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "yoga",
+              "ginastica",
+              "exercicios"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-05-0000-02",
+            "titulo": "Diferenças entre Manteiga e Margarina",
+            "resumo": "Manteiga e margarina têm composições distintas, resultando em comportamentos e sabores diferentes.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/manteiga-margarina-diferencas-composicao/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-04T20:03:04.000Z",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "manteiga",
+              "margarina",
+              "alimentacao"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-05-0000-03",
+            "titulo": "Sintomas da Doença Falciforme",
+            "resumo": "A doença falciforme é uma doença hereditária e genética que pode causar dores intensas.",
+            "imagem": "https://imagens.ebc.com.br/2ZoJM55kbDj0wwb8ku6pHb-GgFU=/365x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/15/whatsapp_image_2026-06-15_at_14.00.02.jpeg",
+            "link": "https://gizbr.uol.com.br/sintomas-da-doenca-falciforme-vao-alem-da-anemia-saiba-mais/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-04T15:27:59.000Z",
+            "relevancia": 0.7,
+            "destaque": false,
+            "tags": [
+              "doenca falciforme",
+              "sintomas",
+              "saude"
+            ]
+          }
+        ]
+      },
+      "futebol": {
+        "slug": "futebol",
+        "nome": "Futebol",
+        "artigos": [
+          {
+            "id": "f1",
+            "titulo": "Clube paulista anuncia contratação para a próxima temporada",
+            "resumo": "Reforço chega para disputar posição no meio-campo a partir do segundo semestre.",
+            "imagem": null,
+            "link": "#",
+            "fonte": "ge.globo",
+            "publicado_em": "2026-06-30T12:00:00-03:00"
+          }
+        ]
+      },
+      "curiosidades": {
+        "slug": "curiosidades",
+        "nome": "Curiosidades",
+        "artigos": [
+          {
+            "id": "u1",
+            "titulo": "Por que bocejamos? Ciência ainda não tem resposta definitiva",
+            "resumo": "Diferentes teorias tentam explicar o fenômeno, da regulação térmica à empatia social.",
+            "imagem": null,
+            "link": "#",
+            "fonte": "Mundo Estranho",
+            "publicado_em": "2026-06-29T18:00:00-03:00"
+          }
+        ]
+      },
+      "tecnologia": {
+        "slug": "tecnologia",
+        "nome": "Tecnologia",
+        "artigos": [
+          {
+            "id": "tecnologia-2026-07-05-0000-01",
+            "titulo": "Estradas Feitas com Plástico do Oceano",
+            "resumo": "Pesquisadores testam pavimentos com resíduos plásticos para reduzir lixo marinho nas ilhas.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/asfalto-plastico-reciclado-havai/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-04T11:17:30.000Z",
+            "relevancia": 0.9,
+            "destaque": true,
+            "tags": [
+              "plastico",
+              "oceano",
+              "estradas"
+            ]
+          },
+          {
+            "id": "tecnologia-2026-07-05-0000-02",
+            "titulo": "Fechar Apps para Limpar RAM",
+            "resumo": "Liberar memória RAM no Android é desnecessário e pode prejudicar o desempenho.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/limpar-ram-android-prejudica-desempenho/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T16:57:25.000Z",
+            "relevancia": 0.5,
+            "destaque": false,
+            "tags": [
+              "android",
+              "ram",
+              "desempenho"
+            ]
+          }
+        ]
+      },
+      "cultura": {
+        "slug": "cultura",
+        "nome": "Cultura",
+        "artigos": [
+          {
+            "id": "cultura-2026-07-05-0000-01",
+            "titulo": "Jaspion no Brasil",
+            "resumo": "Jaspion fez mais sucesso no Brasil do que no Japão.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-jaspion-layout_site.jpg",
+            "link": "https://super.abril.com.br/cultura/por-que-jaspion-fez-mais-sucesso-no-brasil-do-que-no-japao/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T20:00:08.000Z",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "jaspion",
+              "brasil",
+              "japao"
+            ]
+          }
+        ]
+      },
+      "atualidades": {
+        "slug": "atualidades",
+        "nome": "Atualidades",
+        "artigos": [
+          {
+            "id": "atualidades-2026-07-05-0000-01",
+            "titulo": "Invasão da Nicarágua na Costa Rica",
+            "resumo": "A Nicarágua invadiu a Costa Rica e culpou o Google Maps.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0107-ME-google-maps-layout_site.jpg",
+            "link": "https://super.abril.com.br/mundo-estranho/a-vez-em-que-a-nicaragua-invadiu-a-costa-rica-e-botou-a-culpa-no-google-maps/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T11:00:30.000Z",
+            "relevancia": 0.9,
+            "destaque": true,
+            "tags": [
+              "nicaragua",
+              "costa rica",
+              "google maps"
+            ]
+          }
+        ]
+      },
+      "comportamento": {
+        "slug": "comportamento",
+        "nome": "Comportamento & Sociedade",
+        "artigos": [
+          {
+            "id": "comportamento-2026-07-05-0000-01",
+            "titulo": "Homens e Maratonas",
+            "resumo": "Homens são duas vezes mais propensos a 'quebrar' em maratonas.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-maratona-layout_site.jpg",
+            "link": "https://super.abril.com.br/saude/homens-sao-duas-vezes-mais-propensos-a-quebrar-em-maratonas-entenda-por-que/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T13:00:57.000Z",
+            "relevancia": 0.7,
+            "destaque": true,
+            "tags": [
+              "homens",
+              "maratonas",
+              "saude"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
