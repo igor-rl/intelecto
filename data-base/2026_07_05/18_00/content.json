@@ -1,0 +1,384 @@
+{
+  "jornal": {
+    "nome": "Atualidades & Intelecto",
+    "atualizado_em": "2026-07-05T18:00:00.000Z",
+    "edicao": "2026-07-05",
+    "destaques": [
+      {
+        "id": "noticias-2026-07-05-1600-01",
+        "titulo": "Líder Iraniano Ausente em Funeral de Alto Oficial",
+        "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+        "categoria_slug": "noticias"
+      },
+      {
+        "id": "ciencia-2026-07-05-1600-01",
+        "titulo": "Descoberta de DNA antigo em pintura rupestre",
+        "link": "https://super.abril.com.br/ciencia/pela-primeira-vez-cientistas-extraem-dna-antigo-de-uma-pintura-rupestre/",
+        "categoria_slug": "ciencia"
+      },
+      {
+        "id": "tecnologia-2026-07-05-1600-01",
+        "titulo": "Google passou a guardar mais dados de busca com IA",
+        "link": "https://gizbr.uol.com.br/google-coleta-audios-imagens-treinar-ia/",
+        "categoria_slug": "tecnologia"
+      },
+      {
+        "id": "atualidades-2026-07-05-1600-01",
+        "titulo": "Brasil teve 120 mil mortes associadas a ondas de calor em 20 anos",
+        "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
+        "categoria_slug": "atualidades"
+      }
+    ],
+    "capa": {
+      "categoria_slug": "noticias",
+      "categoria_nome": "Notícias",
+      "titulo": "Líder Iraniano Ausente em Funeral de Alto Oficial",
+      "subtitulo": "O líder supremo do Irã, Mojtaba Khamenei, não foi visto em público desde o ataque que matou seu pai no início da guerra entre os EUA, Israel e o Irã...",
+      "resumo": "O líder supremo do Irã, Mojtaba Khamenei, não foi visto em público desde o ataque que matou seu pai no início da guerra entre os EUA, Israel e o Irã. Seu paradeiro é desconhecido.",
+      "imagem": null,
+      "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC",
+      "publicado_em": "2026-07-05T15:48:55.000Z"
+    },
+    "categorias": {
+      "noticias": {
+        "slug": "noticias",
+        "nome": "Notícias",
+        "artigos": [
+          {
+            "id": "noticias-2026-07-05-1600-01",
+            "titulo": "Líder Iraniano Ausente em Funeral de Alto Oficial",
+            "resumo": "O líder supremo do Irã, Mojtaba Khamenei, não foi visto em público desde o ataque que matou seu pai no início da guerra entre os EUA, Israel e o Irã. Seu paradeiro é desconhecido.",
+            "imagem": null,
+            "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+            "fonte": "BBC",
+            "publicado_em": "2026-07-05T15:48:55.000Z",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "irã",
+              "política",
+              "guerra"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-05-1600-02",
+            "titulo": "Marcelly Malta Lisboa, Lutadora pelos Direitos Trans, Morre Aos 75 Anos",
+            "resumo": "Marcelly Malta Lisboa, uma figura importante na luta pelos direitos das pessoas trans no Brasil, faleceu aos 75 anos. Ela foi uma referência na comunidade trans e deixou um legado importante.",
+            "imagem": "https://s2-g1.glbimg.com/xCJeV_XtJO-8xBAlXhycuPiUOHY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/M/V/MGfSoNTqCsTG8xpvBquw/marcelly.jpeg",
+            "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/05/morre-marcelly-malta-lisboa-referencia-na-luta-pelos-direitos-de-travestis-e-transexuais-aos-75-anos.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-05T15:44:20.000Z",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "direitos humanos",
+              "trans",
+              "brasil"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-05-1600-03",
+            "titulo": "Cacique Raoni Tem Dreno de Tórax Retirado e Permanece Estável",
+            "resumo": "O líder indígena Cacique Raoni Metuktire, de 93 anos, teve o dreno de tórax retirado e permanece em estado estável na UTI. Ele é uma figura importante na luta pelos direitos indígenas no Brasil.",
+            "imagem": "https://s2-g1.glbimg.com/bqSZYq2QVxFi1f4DoeQwAWt1FPg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/D/g/P1Y4ARQ36Tx30RbrmAbg/whatsapp-image-2023-07-27-at-15.13.50.jpeg",
+            "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/05/cacique-raoni-tem-dreno-de-torax-retirado-e-segue-estavel-na-uti-diz-hospital.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-05T15:40:37.000Z",
+            "relevancia": 0.5,
+            "destaque": false,
+            "tags": [
+              "indígenas",
+              "saúde",
+              "brasil"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-05-1600-04",
+            "titulo": "Mulher Escapa de Sequestrador em Pedágio da BR-116",
+            "resumo": "Uma mulher de 43 anos conseguiu escapar de seu sequestrador em um pedágio da BR-116. O suspeito foi preso em Governador Valadares.",
+            "imagem": "https://s2-g1.glbimg.com/TVxfeBoXya2-r68qQ25q1nXzPMI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/I/IXP7nmQoGL462ElpVIRA/carol-9-.png",
+            "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/07/05/mulher-escapa-de-sequestrador-em-pedagio-da-br-116-suspeito-e-preso-em-governador-valadares.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-05T15:39:40.000Z",
+            "relevancia": 0.4,
+            "destaque": false,
+            "tags": [
+              "segurança",
+              "brasil",
+              "mulheres"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-05-1600-05",
+            "titulo": "Homem É Preso por Tentativa de Feminicídio em Limeira",
+            "resumo": "Um homem foi preso por tentativa de feminicídio após esfaquear a amiga em Limeira. A vítima conseguiu fugir e o suspeito foi detido.",
+            "imagem": "https://s2-g1.glbimg.com/MA17SJyN7uMegshe8oph2ILqmC0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/B/AdWlKXToem1pBskPBZAw/design-sem-nome-21-.png",
+            "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/05/homem-esfaqueia-rosto-de-amiga-e-e-preso-por-tentativa-de-feminicidio-em-limeira.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-05T15:33:06.000Z",
+            "relevancia": 0.3,
+            "destaque": false,
+            "tags": [
+              "violência",
+              "gênero",
+              "brasil"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-05-1600-06",
+            "titulo": "Suspeito de Agredir Companheira Grávida É Preso no Piauí",
+            "resumo": "Um homem foi preso no Piauí por agredir a companheira grávida. O suspeito tentou fugir, mas foi detido pela polícia.",
+            "imagem": "https://s2-g1.glbimg.com/1Pd3u1hDc0XwdXowiRD1wWebhyY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/G/wLAWtHQUy2JhbZNmLtBg/edicao-imagens-g1-19-.png",
+            "link": "https://g1.globo.com/pi/piaui/noticia/2026/07/05/suspeito-agredir-piaui.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-05T15:30:55.000Z",
+            "relevancia": 0.2,
+            "destaque": false,
+            "tags": [
+              "violência",
+              "gênero",
+              "brasil"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-05-1600-07",
+            "titulo": "Motociclista Morre em Acidente na MT-060",
+            "resumo": "Um motociclista morreu em um acidente na MT-060, em Nossa Senhora do Livramento. A vítima foi identificada como João Batista de Campos.",
+            "imagem": "https://s2-g1.glbimg.com/wM8jft_gVy4T3VVCkNCYlcTzqzc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/x/AnHtYhTyq9SHhuyoVk2w/design-sem-nome-80-.png",
+            "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/05/motociclista-morre-em-acidente-na-mt-060-em-nossa-senhora-do-livramento-mt.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-05T15:29:33.000Z",
+            "relevancia": 0.1,
+            "destaque": false,
+            "tags": [
+              "trânsito",
+              "acidente",
+              "brasil"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-05-1600-08",
+            "titulo": "Firjan SENAI SESI Oferece Vagas para Ensino Médio com Curso Técnico",
+            "resumo": "A Firjan SENAI SESI está oferecendo vagas para ensino médio com curso técnico para o ano de 2027. As inscrições estão abertas e são destinadas a pessoas de baixa renda.",
+            "imagem": "https://s2-g1.glbimg.com/uFybcMueULfUKO2NwSRtU5s52Jo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/Q/qwCEfIQeO6gPnAsMAmnQ/senais.png",
+            "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/05/firjan-senai-sesi-abre-inscricoes-para-ensino-medio-com-curso-tecnico-para-2027.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-05T15:29:13.000Z",
+            "relevancia": 0.1,
+            "destaque": false,
+            "tags": [
+              "educação",
+              "brasil",
+              "oportunidades"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-05-1600-09",
+            "titulo": "Torneio de Pesca Esportiva Atrai Mais de 300 Participantes no Amazonas",
+            "resumo": "Um torneio de pesca esportiva no Amazonas atraiu mais de 300 participantes. O evento foi realizado em Lábrea e movimentou a economia local.",
+            "imagem": "https://s2-g1.glbimg.com/bt-kj9ZdGzVGBKKniZ8RdZ0e5SY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/C/oKiRUySPighDg1aABpWQ/captura-de-tela-2026-07-05-111351.png",
+            "link": "https://g1.globo.com/am/amazonas/amazonia-negocios/noticia/2026/07/05/torneio-de-pesca-esportiva-atrai-mais-de-300-participantes-e-movimenta-economia-no-interior-do-am.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-05T15:28:01.000Z",
+            "relevancia": 0.1,
+            "destaque": false,
+            "tags": [
+              "esportes",
+              "amazonas",
+              "economia"
+            ]
+          }
+        ]
+      },
+      "ciencia": {
+        "slug": "ciencia",
+        "nome": "Ciência",
+        "artigos": [
+          {
+            "id": "ciencia-2026-07-05-2100-01",
+            "titulo": "Megalodon: Descoberta de Fóssil Revela Detalhes do Tubarão Gigante",
+            "resumo": "Um estudo recente sobre um fóssil de Megalodon revelou detalhes sobre o lendário tubarão gigante, incluindo seu comprimento estimado em mais de 24 metros.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2022/06/SI_megalodon_site.jpg",
+            "link": "https://super.abril.com.br/ciencia/megalodon-redescoberta-de-fossil-revela-detalhes-sobre-o-lendario-tubarao-gigante/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T19:00:42.000Z",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "megalodon",
+              "tubarao",
+              "fossil"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-05-2100-02",
+            "titulo": "Hubble Detecta Luz de Galáxia Primitiva",
+            "resumo": "A radiação de uma galáxia primitiva foi detectada pelo telescópio Hubble, sobrevivendo a uma viagem de mais de 12 bilhões de anos.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-hubble-detecta-luz-layout_site-CAPA.jpg",
+            "link": "https://super.abril.com.br/ciencia/hubble-detecta-luz-de-galaxia-primitiva-que-astronomos-achavam-ser-impossivel-observar/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T19:00:16.000Z",
+            "relevancia": 0.7,
+            "destaque": false,
+            "tags": [
+              "hubble",
+              "galaxia",
+              "primitiva"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-05-2100-03",
+            "titulo": "Investigando um Mistério: Por que Algumas Espécies de Grilo Pararam de Cantar?",
+            "resumo": "Cientistas brasileiros estão investigando o mistério por trás do silêncio de algumas espécies de grilo.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-grilo-layout_site.jpg",
+            "link": "https://super.abril.com.br/ciencia/investigando-um-misterio-por-que-algumas-especies-de-grilo-pararam-de-cantar/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T17:00:09.000Z",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "grilo",
+              "misterio",
+              "silencio"
+            ]
+          }
+        ]
+      },
+      "futebol": {
+        "slug": "futebol",
+        "nome": "Futebol",
+        "artigos": [
+          {
+            "id": "f1",
+            "titulo": "Clube paulista anuncia contratação para a próxima temporada",
+            "resumo": "Reforço chega para disputar posição no meio-campo a partir do segundo semestre.",
+            "imagem": null,
+            "link": "#",
+            "fonte": "ge.globo",
+            "publicado_em": "2026-06-30T12:00:00-03:00"
+          }
+        ]
+      },
+      "curiosidades": {
+        "slug": "curiosidades",
+        "nome": "Curiosidades",
+        "artigos": [
+          {
+            "id": "u1",
+            "titulo": "Por que bocejamos? Ciência ainda não tem resposta definitiva",
+            "resumo": "Diferentes teorias tentam explicar o fenômeno, da regulação térmica à empatia social.",
+            "imagem": null,
+            "link": "#",
+            "fonte": "Mundo Estranho",
+            "publicado_em": "2026-06-29T18:00:00-03:00"
+          }
+        ]
+      },
+      "tecnologia": {
+        "slug": "tecnologia",
+        "nome": "Tecnologia",
+        "artigos": [
+          {
+            "id": "tecnologia-2026-07-05-2100-01",
+            "titulo": "Google Passou a Guardar Mais Dados de Busca com IA",
+            "resumo": "O Google ativou uma nova configuração que armazena mídias de usuários e histórico médico para treinar sua IA.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/google-coleta-audios-imagens-treinar-ia/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T13:43:04.000Z",
+            "relevancia": 0.9,
+            "destaque": true,
+            "tags": [
+              "google",
+              "ia",
+              "privacidade"
+            ]
+          },
+          {
+            "id": "tecnologia-2026-07-05-2100-02",
+            "titulo": "Seu Celular Galaxy Precisa Mudar o App de SMS",
+            "resumo": "A Samsung descontinuou o app de SMS padrão em seus celulares Galaxy, recomendando a mudança para o Google Messages.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/samsung-messages-desativado-julho-2026/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T22:05:16.000Z",
+            "relevancia": 0.8,
+            "destaque": false,
+            "tags": [
+              "samsung",
+              "sms",
+              "google"
+            ]
+          }
+        ]
+      },
+      "cultura": {
+        "slug": "cultura",
+        "nome": "Cultura",
+        "artigos": [
+          {
+            "id": "cultura-2026-07-05-2100-01",
+            "titulo": "Por que Jaspion Fez Mais Sucesso no Brasil do que no Japão?",
+            "resumo": "O personagem Jaspion teve um impacto significativo no Brasil, mas não alcançou o mesmo nível de sucesso em seu país de origem, o Japão.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-jaspion-layout_site.jpg",
+            "link": "https://super.abril.com.br/cultura/por-que-jaspion-fez-mais-sucesso-no-brasil-do-que-no-japao/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T20:00:08.000Z",
+            "relevancia": 0.7,
+            "destaque": true,
+            "tags": [
+              "jaspion",
+              "brasil",
+              "japao"
+            ]
+          }
+        ]
+      },
+      "atualidades": {
+        "slug": "atualidades",
+        "nome": "Atualidades",
+        "artigos": [
+          {
+            "id": "atualidades-2026-07-05-2100-01",
+            "titulo": "Brasil Teve 120 Mil Mortes Associadas a Ondas de Calor em 20 Anos",
+            "resumo": "Um estudo recente revelou que o Brasil teve um número significativo de mortes relacionadas a ondas de calor nos últimos 20 anos.",
+            "imagem": "https://imagens.ebc.com.br/PqG3Y524AlwcKUFOacs9YtjVWMU=/754x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_dsc4326.jpg",
+            "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T10:35:20.000Z",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "brasil",
+              "ondas",
+              "calor"
+            ]
+          }
+        ]
+      },
+      "comportamento": {
+        "slug": "comportamento",
+        "nome": "Comportamento & Sociedade",
+        "artigos": [
+          {
+            "id": "comportamento-2026-07-05-2100-01",
+            "titulo": "Alta Demanda Faz SUS Ampliar Teleatendimento a Jogadores Compulsivos",
+            "resumo": "O SUS está ampliando o teleatendimento para jogadores compulsivos devido à alta demanda.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/alta-demanda-faz-sus-ampliar-teleatendimento-a-jogadores-compulsivos/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T15:15:49.000Z",
+            "relevancia": 0.7,
+            "destaque": true,
+            "tags": [
+              "sus",
+              "jogadores",
+              "compulsivos"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
