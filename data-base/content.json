@@ -5,16 +5,10 @@
     "edicao": "2026-07-05",
     "destaques": [
       {
-        "id": "noticias-2026-07-05-0000-01",
-        "titulo": "Ônibus cai de ponte no Rio Grande do Sul",
-        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/04/onibus-passageiros-despenca-de-ponte-no-rs.ghtml",
+        "id": "noticias-2026-07-05-1000-02",
+        "titulo": "Funerais do líder supremo do Irã são marcados por pedidos de vingança",
+        "link": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-supreme-leader.html",
         "categoria_slug": "noticias"
-      },
-      {
-        "id": "ciencia-2026-07-03-2100-01",
-        "titulo": "Hubble Detecta Luz de Galáxia Primitiva",
-        "link": "https://super.abril.com.br/ciencia/hubble-detecta-luz-de-galaxia-primitiva-que-astronomos-achavam-ser-impossivel-observar/",
-        "categoria_slug": "ciencia"
       },
       {
         "id": "tecnologia-2026-07-03-2100-01",
@@ -27,18 +21,24 @@
         "titulo": "Brasil Teve 120 Mil Mortes Associadas a Ondas de Calor em 20 Anos",
         "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
         "categoria_slug": "atualidades"
+      },
+      {
+        "id": "noticias-2026-07-05-1000-01",
+        "titulo": "Tufão se aproxima de Guam, causando evacuações",
+        "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+        "categoria_slug": "noticias"
       }
     ],
     "capa": {
       "categoria_slug": "noticias",
       "categoria_nome": "Notícias",
-      "titulo": "Ônibus cai de ponte no Rio Grande do Sul",
-      "subtitulo": "Um ônibus que transportava passageiros caiu de uma ponte na ERS-324, no Rio Grande do Sul, causando um acidente grave...",
-      "resumo": "Um ônibus que transportava passageiros caiu de uma ponte na ERS-324, no Rio Grande do Sul, causando um acidente grave.",
-      "imagem": "https://s2-g1.glbimg.com/HisHnvqPyxKeVIwEc5p-zNlJEyE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/b/WiVE1AQWG5Os7K8JpQPA/g1-2026-07-04t204733.518.jpg",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/04/onibus-passageiros-despenca-de-ponte-no-rs.ghtml",
+      "titulo": "Funerais do líder supremo do Irã são marcados por pedidos de vingança",
+      "subtitulo": "Funerais do líder supremo do Irã são marcados por pedidos de vingança...",
+      "resumo": "Os funerais do líder supremo do Irã, Ayatollah Ali Khamenei, foram marcados por pedidos de vingança. O evento foi realizado no segundo dia de luto nacional.",
+      "imagem": null,
+      "link": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-supreme-leader.html",
       "fonte": "Desconhecida",
-      "publicado_em": "2026-07-04T23:56:00-03:00"
+      "publicado_em": "2026-07-05T09:44:56+00:00"
     },
     "categorias": {
       "noticias": {
@@ -46,147 +46,163 @@
         "nome": "Notícias",
         "artigos": [
           {
-            "id": "noticias-2026-07-05-0000-01",
-            "titulo": "Ônibus cai de ponte no Rio Grande do Sul",
-            "resumo": "Um ônibus que transportava passageiros caiu de uma ponte na ERS-324, no Rio Grande do Sul, causando um acidente grave.",
-            "imagem": "https://s2-g1.glbimg.com/HisHnvqPyxKeVIwEc5p-zNlJEyE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/b/WiVE1AQWG5Os7K8JpQPA/g1-2026-07-04t204733.518.jpg",
-            "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/04/onibus-passageiros-despenca-de-ponte-no-rs.ghtml",
+            "id": "noticias-2026-07-05-1000-01",
+            "titulo": "Tufão se aproxima de Guam, causando evacuações",
+            "resumo": "Um super tufão está se aproximando de Guam, levando a evacuações e alertas de tempestade. O tufão Bavi está previsto para atingir a ilha na segunda-feira, trazendo ventos fortes e ondas altas.",
+            "imagem": null,
+            "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-04T23:56:00-03:00",
+            "publicado_em": "2026-07-05T09:26:56-00:00",
             "relevancia": 0.8,
             "destaque": true,
             "tags": [
-              "acidente",
-              "rio grande do sul",
-              "ônibus"
+              "tufão",
+              "guam",
+              "evacuação"
             ]
           },
           {
-            "id": "noticias-2026-07-05-0000-02",
-            "titulo": "Policial militar é morta a tiros em Salvador",
-            "resumo": "Uma policial militar foi morta a tiros dentro de sua casa em Salvador, Bahia. O suspeito é o marido da vítima, que também é policial.",
-            "imagem": "https://s2-g1.glbimg.com/2V7leDIYhyHVzJmTkK2kAVUsvak=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/j/IkgVBtRpGbQVdSK5iacg/edimilsson-6-.jpg",
-            "link": "https://g1.globo.com/ba/bahia/noticia/2026/07/04/policial-militar-morta-a-tiros-em-salvador-foi-baleada-na-nuca.ghtml",
+            "id": "noticias-2026-07-05-1000-02",
+            "titulo": "Funerais do líder supremo do Irã são marcados por pedidos de vingança",
+            "resumo": "Os funerais do líder supremo do Irã, Ayatollah Ali Khamenei, foram marcados por pedidos de vingança. O evento foi realizado no segundo dia de luto nacional.",
+            "imagem": null,
+            "link": "https://www.nytimes.com/2026/07/05/world/middleeast/iran-funeral-supreme-leader.html",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-04T23:19:13-03:00",
+            "publicado_em": "2026-07-05T09:44:56+00:00",
+            "relevancia": 0.9,
+            "destaque": false,
+            "tags": [
+              "irã",
+              "funerais",
+              "vingança"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-05-1000-03",
+            "titulo": "Conflito na Ucrânia: soldados lutam em ruínas e evitam drones",
+            "resumo": "Soldados ucranianos estão lutando em ruínas e evitando drones na região de Donetsk. O conflito na Ucrânia continua a causar destruição e perdas de vidas.",
+            "imagem": null,
+            "link": "https://www.nytimes.com/2026/07/05/world/europe/ukraine-russia-donetsk-front.html",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T09:17:30+00:00",
             "relevancia": 0.7,
             "destaque": false,
             "tags": [
-              "crime",
-              "bahia",
-              "policial"
+              "ucrânia",
+              "conflito",
+              "donetsk"
             ]
           },
           {
-            "id": "noticias-2026-07-05-0000-03",
-            "titulo": "Afundamento interdita parte da Avenida do Estado em São Paulo",
-            "resumo": "Um afundamento na Avenida do Estado, em São Paulo, interditou faixas da via. A causa do afundamento ainda não foi divulgada.",
-            "imagem": "https://s2-g1.glbimg.com/mCdkk_c00Z9xL0E8WrbIE9uyypk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/9/o26g9HTBAmR20wumv4Mg/avenida-do-estado.jpeg",
-            "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/04/afundamento-de-via-interdita-parte-da-avenida-do-estado-no-centro-de-sp.ghtml",
+            "id": "noticias-2026-07-05-1000-04",
+            "titulo": "EUA comemoram 250 anos de independência com tempestades e incêndios",
+            "resumo": "Os EUA comemoraram 250 anos de independência com tempestades e incêndios. O evento foi marcado por celebrações em todo o país.",
+            "imagem": null,
+            "link": "https://www.nytimes.com/2026/07/05/us/america-250-celebrations.html",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-04T23:29:25-03:00",
+            "publicado_em": "2026-07-05T09:02:23+00:00",
             "relevancia": 0.6,
             "destaque": false,
             "tags": [
-              "trânsito",
-              "são paulo",
-              "afundamento"
+              "eua",
+              "independência",
+              "celebrações"
             ]
           },
           {
-            "id": "noticias-2026-07-05-0000-04",
-            "titulo": "Motorista fica ferido após carro capotar em Janaúba",
-            "resumo": "Um motorista de 49 anos ficou ferido após o carro que ele dirigia capotar e cair dentro de um canal em Janaúba, Minas Gerais.",
-            "imagem": "https://s2-g1.glbimg.com/iJ6rLXqmuoC5bkWpgTa5aG23sgs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/0/jfLzpEQ8A2vxasijB1vg/whatsapp-image-2026-07-04-at-18.45.25.jpeg",
-            "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/07/04/motorista-fica-ferido-apos-carro-capotar-e-cair-em-corrego-em-janauba.ghtml",
+            "id": "noticias-2026-07-05-1000-05",
+            "titulo": "Venezuela: alertas sobre habitação pública precederam terremotos",
+            "resumo": "Alertas sobre a habitação pública na Venezuela precederam os terremotos que atingiram o país. Moradores e especialistas haviam alertado sobre a vulnerabilidade das construções.",
+            "imagem": null,
+            "link": "https://www.nytimes.com/2026/07/05/world/americas/venezuela-earthquake-la-guaira-building-collapse-government.html",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-04T23:17:27-03:00",
+            "publicado_em": "2026-07-05T09:02:15+00:00",
             "relevancia": 0.5,
             "destaque": false,
             "tags": [
-              "acidente",
-              "minas gerais",
-              "carro"
+              "venezuela",
+              "terremotos",
+              "habitação"
             ]
           },
           {
-            "id": "noticias-2026-07-05-0000-05",
-            "titulo": "Carro desgovernado desce morro e bate em muro em Governador Valadares",
-            "resumo": "Um carro desgovernado desceu um morro e bateu em um muro em Governador Valadares, Minas Gerais. A motorista e a passageira estavam no veículo.",
-            "imagem": "https://s2-g1.glbimg.com/Ph4qcp_1e2Y449GZ1vFmvBr5C2g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/n/UK3ggbRcAlWo8BVOmUpQ/whatsapp-image-2026-07-04-at-18.37.55-1-1-.jpeg",
-            "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/07/04/carro-desgovernado-desce-morro-com-motorista-e-passageira-e-bate-em-muro-em-governador-valadares.ghtml",
+            "id": "noticias-2026-07-05-1000-06",
+            "titulo": "Trump revoga dezenas de regulamentações de armas",
+            "resumo": "A administração Trump revogou dezenas de regulamentações de armas. A medida foi criticada por defensores da segurança pública.",
+            "imagem": null,
+            "link": "https://www.nytimes.com/2026/07/05/us/politics/trump-gun-rights-laws.html",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-04T23:15:33-03:00",
+            "publicado_em": "2026-07-05T09:01:31+00:00",
             "relevancia": 0.4,
             "destaque": false,
             "tags": [
-              "acidente",
-              "minas gerais",
-              "carro"
+              "eua",
+              "armas",
+              "regulamentações"
             ]
           },
           {
-            "id": "noticias-2026-07-05-0000-06",
-            "titulo": "Cubatão investe R$ 3,1 milhões em centro de convivência",
-            "resumo": "A prefeitura de Cubatão, em São Paulo, investiu R$ 3,1 milhões em um centro de convivência para moradores de seis comunidades.",
-            "imagem": "https://s2-g1.glbimg.com/m1VmvD0QlRaUKc6U5c0F3kK044M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/W/c6AJmdRUGxGJHTnu52Tg/fotos-materias-2026-07-04t115323.739.jpg",
-            "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/04/cubatao-investe-r-31-mi-em-centro-de-convivencia-para-moradores-de-seis-comunidades.ghtml",
+            "id": "noticias-2026-07-05-1000-07",
+            "titulo": "Justiça condena centro automotivo por abusos",
+            "resumo": "A Justiça condenou um centro automotivo por abusos contra clientes. A empresa foi obrigada a pagar R$ 100 mil por danos morais.",
+            "imagem": "https://s2-g1.glbimg.com/QiBx715iplvdwjHTP8ipKqdeasY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/v/iqWMXnSVu5Bwy7hFXBVA/inserir-um-titulo-91-.jpg",
+            "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/05/justica-condena-centro-automotivo-em-r-100-mil-por-abusos-cliente-pagou-r-117-mil-apos-troca-de-pneus.ghtml",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-04T23:10:08-03:00",
+            "publicado_em": "2026-07-05T09:16:58-00:00",
             "relevancia": 0.3,
             "destaque": false,
             "tags": [
-              "investimento",
-              "são paulo",
-              "cubatão"
+              "brasil",
+              "justiça",
+              "centro automotivo"
             ]
           },
           {
-            "id": "noticias-2026-07-05-0000-07",
-            "titulo": "Corpo de guia de pesca é encontrado após quatro dias de buscas em Mato Grosso do Sul",
-            "resumo": "O corpo de um guia de pesca foi encontrado após quatro dias de buscas em um rio de Mato Grosso do Sul. A vítima desapareceu enquanto trabalhava.",
-            "imagem": "https://s2-g1.glbimg.com/myLLXEGFJXoKGXKowF0BurWXBG4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/S/AfnRK6QQGyB5BtvhQuTA/humhkgmjb.png",
-            "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/07/04/corpo-de-guia-de-pesca-e-encontrado-apos-quatro-dias-de-buscas-em-rio-de-ms.ghtml",
+            "id": "noticias-2026-07-05-1000-08",
+            "titulo": "Detran RJ oferece curso gratuito de habilitação para pessoas com deficiência",
+            "resumo": "O Detran RJ está oferecendo um curso gratuito de habilitação para pessoas com deficiência. O curso é destinado a pessoas que precisam de veículos adaptados.",
+            "imagem": "https://s2-g1.glbimg.com/JpX4o3_3CKFlG3pYL9L02njGNxQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/4/hamHgASEGqShFNghxHKw/whatsapp-image-2026-07-03-at-17.46.43.jpeg",
+            "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/05/detran-rj-oferece-curso-gratuito-de-primeira-habilitacao-para-pessoas-com-deficiencia-que-precisam-de-carro-adaptado.ghtml",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-04T23:04:46-03:00",
+            "publicado_em": "2026-07-05T09:00:41-00:00",
             "relevancia": 0.2,
             "destaque": false,
             "tags": [
-              "busca",
-              "mato grosso do sul",
-              "guia de pesca"
+              "brasil",
+              "detran",
+              "pessoas com deficiência"
             ]
           },
           {
-            "id": "noticias-2026-07-05-0000-08",
-            "titulo": "Rinha de galo é desmantelada em Duque de Caxias",
-            "resumo": "Uma rinha de galo foi desmantelada em Duque de Caxias, no Rio de Janeiro. Quinze pessoas foram detidas e 50 animais foram apreendidos.",
-            "imagem": null,
-            "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/04/rinha-de-galo-em-duque-de-caxias.ghtml",
+            "id": "noticias-2026-07-05-1000-09",
+            "titulo": "Varizes não são apenas um problema estético",
+            "resumo": "Varizes não são apenas um problema estético, mas também podem causar problemas de saúde. É importante tratar as varizes para evitar complicações.",
+            "imagem": "https://s2-g1.glbimg.com/jTHVlhsMv-5rlQSI9aTS_3VJmBU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/d/aoM4MJSXe4fRO3K0UyWQ/imagem-materia-11.jpg",
+            "link": "https://g1.globo.com/mg/centro-oeste/especial-publicitario/lys-clinica-vascular-tratamento-de-varizes-sem-internacao-e-com-tecnologia-de-ponta/noticia/2026/07/05/varizes-vasinhos-nao-sao-so-problema-estetico.ghtml",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-04T23:33:13-03:00",
+            "publicado_em": "2026-07-05T09:01:06-00:00",
             "relevancia": 0.1,
             "destaque": false,
             "tags": [
-              "rinha de galo",
-              "rio de janeiro",
-              "duque de caxias"
+              "saúde",
+              "varizes",
+              "problema estético"
             ]
           },
           {
-            "id": "noticias-2026-07-05-0000-09",
-            "titulo": "Bruno Guimarães é o jogador que mais correu na seleção",
-            "resumo": "Bruno Guimarães é o jogador que mais correu na seleção brasileira até agora. Ele já percorreu uma distância superior a uma maratona.",
-            "imagem": "https://s2-g1.glbimg.com/IOpuepLVLETiRtpvq_uDitf0iOs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/5/MXDfdvSqSyK9r50XuN8g/captura-de-tela-2026-07-04-205037.png",
-            "link": "https://g1.globo.com/jornal-nacional/noticia/2026/07/04/pronto-para-correr-bruno-guimaraes-e-o-jogador-que-mais-correu-na-selecao-ate-agora.ghtml",
+            "id": "noticias-2026-07-05-1000-10",
+            "titulo": "Pudim gigante vira sensação em feiras de Goiânia",
+            "resumo": "Um pudim gigante feito por um casal viralizou nas redes sociais e se tornou uma sensação em feiras de Goiânia. O doce de quase 5 quilos é uma atração nas feiras.",
+            "imagem": "https://s2-g1.glbimg.com/1dBvLoLyDyC2JnsZBtlAn9_uGWo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/n/0Zb6A7RxqhnsY5BgAPCg/g1-28-.jpg",
+            "link": "https://g1.globo.com/go/goias/noticia/2026/07/05/pudim-gigante-doce-feito-por-casal-viraliza-e-vira-sensacao-em-feiras-de-goiania.ghtml",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-04T23:51:48-03:00",
-            "relevancia": 0.1,
+            "publicado_em": "2026-07-05T09:00:39-00:00",
+            "relevancia": 0,
             "destaque": false,
             "tags": [
-              "futebol",
-              "seleção",
-              "bruno guimarães"
+              "culinária",
+              "pudim",
+              "feiras"
             ]
           }
         ]
@@ -196,51 +212,51 @@
         "nome": "Ciência",
         "artigos": [
           {
-            "id": "ciencia-2026-07-05-1000-01",
-            "titulo": "Origem da Yoga",
-            "resumo": "A origem da yoga é diferente do que se pensa, com influências da ginástica sueca e exercícios militares.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0407-ME-origem-yoga-layout_site.jpg",
-            "link": "https://super.abril.com.br/mundo-estranho/ginastica-sueca-e-exercicios-militares-a-origem-da-yoga-e-bem-diferente-do-que-voce-pensa/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-04T21:01:31.000Z",
-            "relevancia": 0.8,
-            "destaque": true,
-            "tags": [
-              "yoga",
-              "ginastica",
-              "exercicios"
-            ]
-          },
-          {
-            "id": "ciencia-2026-07-05-1000-02",
-            "titulo": "Diferenças entre Manteiga e Margarina",
-            "resumo": "Manteiga e margarina têm composições distintas, resultando em comportamentos e sabores diferentes.",
-            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
-            "link": "https://gizbr.uol.com.br/manteiga-margarina-diferencas-composicao/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-04T20:03:04.000Z",
-            "relevancia": 0.6,
-            "destaque": false,
-            "tags": [
-              "manteiga",
-              "margarina",
-              "alimentacao"
-            ]
-          },
-          {
-            "id": "ciencia-2026-07-05-1000-03",
+            "id": "ciencia-2026-07-03-2100-01",
             "titulo": "Hubble Detecta Luz de Galáxia Primitiva",
-            "resumo": "A radiação sobreviveu a uma viagem de mais de 12 bilhões de anos por um Universo que, em teoria, ainda deveria impedir sua passagem.",
+            "resumo": "A luz de uma galáxia primitiva foi detectada pelo telescópio Hubble, após uma viagem de mais de 12 bilhões de anos.",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-hubble-detecta-luz-layout_site-CAPA.jpg",
             "link": "https://super.abril.com.br/ciencia/hubble-detecta-luz-de-galaxia-primitiva-que-astronomos-achavam-ser-impossivel-observar/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T19:00:16.000Z",
-            "relevancia": 0.9,
-            "destaque": false,
+            "publicado_em": "2026-07-03T19:00:16+00:00",
+            "relevancia": 0.8,
+            "destaque": true,
             "tags": [
               "hubble",
               "galaxia",
-              "universo"
+              "astronomia"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-03-2100-02",
+            "titulo": "Cientistas Investigam Mistério de Grilos que Pararam de Cantar",
+            "resumo": "Cientistas brasileiros estão investigando o mistério de algumas espécies de grilos que pararam de cantar.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-grilo-layout_site.jpg",
+            "link": "https://super.abril.com.br/ciencia/investigando-um-misterio-por-que-algumas-especies-de-grilo-pararam-de-cantar/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T17:00:09+00:00",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "grilo",
+              "ciencia",
+              "misterio"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-03-2100-03",
+            "titulo": "NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars",
+            "resumo": "O telescópio Hubble da NASA capturou uma imagem de uma nuvem vermelha cintilante com estrelas brancas e azuis.",
+            "imagem": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/nebulae/emission/Hubble_LMC_L95_3F_flat_FINAL.tif?w=2048",
+            "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T15:01:17+00:00",
+            "relevancia": 0.7,
+            "destaque": false,
+            "tags": [
+              "hubble",
+              "nasa",
+              "estrelas"
             ]
           }
         ]
@@ -280,14 +296,14 @@
         "nome": "Tecnologia",
         "artigos": [
           {
-            "id": "tecnologia-2026-07-05-1000-01",
-            "titulo": "Fechar Apps para Limpar RAM no Android",
-            "resumo": "Liberar memória RAM no Android é desnecessário e pode prejudicar o desempenho.",
+            "id": "tecnologia-2026-07-03-2100-01",
+            "titulo": "Fechar Apps para Limpar RAM Pode Piorar o Desempenho do Celular",
+            "resumo": "Liberar memória RAM no Android é desnecessário e pode prejudicar o desempenho do celular.",
             "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
             "link": "https://gizbr.uol.com.br/limpar-ram-android-prejudica-desempenho/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T16:57:25.000Z",
-            "relevancia": 0.7,
+            "publicado_em": "2026-07-03T16:57:25+00:00",
+            "relevancia": 0.9,
             "destaque": true,
             "tags": [
               "android",
@@ -296,13 +312,13 @@
             ]
           },
           {
-            "id": "tecnologia-2026-07-05-1000-02",
+            "id": "tecnologia-2026-07-03-2100-02",
             "titulo": "Google Passou a Guardar Mais Dados de Busca com IA",
-            "resumo": "Nova configuração armazena mídias de usuários e levanta críticas de especialistas em privacidade.",
+            "resumo": "O Google passou a guardar mais dados de busca com IA, o que levanta críticas de especialistas em privacidade.",
             "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
             "link": "https://gizbr.uol.com.br/google-coleta-audios-imagens-treinar-ia/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T13:43:04.000Z",
+            "publicado_em": "2026-07-03T13:43:04+00:00",
             "relevancia": 0.8,
             "destaque": false,
             "tags": [
@@ -318,14 +334,14 @@
         "nome": "Cultura",
         "artigos": [
           {
-            "id": "cultura-2026-07-05-1000-01",
+            "id": "cultura-2026-07-03-2100-01",
             "titulo": "Jaspion Fez Mais Sucesso no Brasil do que no Japão",
-            "resumo": "A morte do ator Hikaru Kurosaki ressuscitou o interesse pelo personagem.",
+            "resumo": "O personagem Jaspion fez mais sucesso no Brasil do que no Japão, onde foi criado.",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-jaspion-layout_site.jpg",
             "link": "https://super.abril.com.br/cultura/por-que-jaspion-fez-mais-sucesso-no-brasil-do-que-no-japao/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-02T20:00:08.000Z",
-            "relevancia": 0.6,
+            "publicado_em": "2026-07-02T20:00:08+00:00",
+            "relevancia": 0.7,
             "destaque": true,
             "tags": [
               "jaspion",
@@ -340,19 +356,19 @@
         "nome": "Atualidades",
         "artigos": [
           {
-            "id": "atualidades-2026-07-05-1000-01",
+            "id": "atualidades-2026-07-03-2100-01",
             "titulo": "Brasil Teve 120 Mil Mortes Associadas a Ondas de Calor em 20 Anos",
-            "resumo": "Pesquisa aponta maior risco para idosos e população vulnerável.",
-            "imagem": "https://imagens.ebc.com.br/PqG3Y524AlwcKUFOacs9YtjVWMU=/754x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_dsc4326.jpg",
+            "resumo": "O Brasil teve 120 mil mortes associadas a ondas de calor em 20 anos, de acordo com uma pesquisa.",
+            "imagem": "https://imagens.ebc.com.br/PqG3Y524AlwcKUFOacs9YtjVWMU=/754x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_dsc4326.jpg?itok=WViNF6gA",
             "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T10:35:20.000Z",
+            "publicado_em": "2026-07-03T10:35:20+00:00",
             "relevancia": 0.9,
             "destaque": true,
             "tags": [
               "brasil",
-              "ondas",
-              "calor"
+              "ondas de calor",
+              "mortalidade"
             ]
           }
         ]
@@ -362,18 +378,18 @@
         "nome": "Comportamento & Sociedade",
         "artigos": [
           {
-            "id": "comportamento-2026-07-05-1000-01",
-            "titulo": "Homens São Duas Vezes Mais Propensos a Quebrar em Maratonas",
-            "resumo": "Análise de mais de 873 mil participações na Maratona de Berlim indica diferenças na estratégia de corrida e no metabolismo.",
+            "id": "comportamento-2026-07-03-2100-01",
+            "titulo": "Homens São Duas Vezes Mais Propensos a ‘Quebrar’ em Maratonas",
+            "resumo": "Homens são duas vezes mais propensos a ‘quebrar’ em maratonas do que mulheres, de acordo com um estudo.",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-maratona-layout_site.jpg",
             "link": "https://super.abril.com.br/saude/homens-sao-duas-vezes-mais-propensos-a-quebrar-em-maratonas-entenda-por-que/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T13:00:57.000Z",
-            "relevancia": 0.7,
+            "publicado_em": "2026-07-03T13:00:57+00:00",
+            "relevancia": 0.8,
             "destaque": true,
             "tags": [
+              "maratona",
               "homens",
-              "maratonas",
               "saude"
             ]
           }
