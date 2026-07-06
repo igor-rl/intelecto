@@ -1,7 +1,7 @@
 {
   "jornal": {
     "nome": "Atualidades & Intelecto",
-    "atualizado_em": "2026-07-05T18:00:00.000Z",
+    "atualizado_em": "2026-07-05T21:00:00.000Z",
     "edicao": "2026-07-05",
     "destaques": [
       {
@@ -196,51 +196,48 @@
         "nome": "Ciência",
         "artigos": [
           {
-            "id": "ciencia-2026-07-05-2100-01",
-            "titulo": "Megalodon: Descoberta de Fóssil Revela Detalhes do Tubarão Gigante",
-            "resumo": "Um estudo recente sobre um fóssil de Megalodon revelou detalhes sobre o lendário tubarão gigante, incluindo seu comprimento estimado em mais de 24 metros.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2022/06/SI_megalodon_site.jpg",
-            "link": "https://super.abril.com.br/ciencia/megalodon-redescoberta-de-fossil-revela-detalhes-sobre-o-lendario-tubarao-gigante/",
+            "id": "ciencia-2026-07-06-0000-01",
+            "titulo": "Canetas 'emagrecedoras' podem ajudar no tratamento do câncer",
+            "resumo": "Estudos sugerem que medicamentos como semaglutida e tirzepatida podem reduzir o risco da doença ou beneficiar pacientes.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/0506-Ozempic-layout_site.jpg",
+            "link": "https://super.abril.com.br/saude/canetas-emagrecedoras-podem-ajudar-a-tratar-o-cancer-veja-o-que-a-ciencia-ja-sabe/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-05T19:00:42.000Z",
+            "publicado_em": "2026-07-05T21:00:26-03:00",
             "relevancia": 0.8,
             "destaque": true,
             "tags": [
-              "megalodon",
+              "saude",
+              "cancer"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-06-0000-02",
+            "titulo": "Megalodon: fóssil revela detalhes sobre o lendário tubarão gigante",
+            "resumo": "Estudo confirma que esses animais poderiam ter mais de 24 metros de comprimento, mais do dobro dos maiores tubarões atuais.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2022/06/SI_megalodon_site.jpg",
+            "link": "https://super.abril.com.br/ciencia/megalodon-redescoberta-de-fossil-revela-detalhes-sobre-o-lendario-tubarao-gigante/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T19:00:42-03:00",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
               "tubarao",
               "fossil"
             ]
           },
           {
-            "id": "ciencia-2026-07-05-2100-02",
-            "titulo": "Hubble Detecta Luz de Galáxia Primitiva",
-            "resumo": "A radiação de uma galáxia primitiva foi detectada pelo telescópio Hubble, sobrevivendo a uma viagem de mais de 12 bilhões de anos.",
+            "id": "ciencia-2026-07-06-0000-03",
+            "titulo": "Hubble detecta luz de galáxia primitiva que astrônomos achavam ser 'impossível observar'",
+            "resumo": "A radiação sobreviveu a uma viagem de mais de 12 bilhões de anos por um Universo que, em teoria, ainda deveria impedir sua passagem.",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-hubble-detecta-luz-layout_site-CAPA.jpg",
             "link": "https://super.abril.com.br/ciencia/hubble-detecta-luz-de-galaxia-primitiva-que-astronomos-achavam-ser-impossivel-observar/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T19:00:16.000Z",
-            "relevancia": 0.7,
+            "publicado_em": "2026-07-03T19:00:16-03:00",
+            "relevancia": 0.9,
             "destaque": false,
             "tags": [
               "hubble",
-              "galaxia",
-              "primitiva"
-            ]
-          },
-          {
-            "id": "ciencia-2026-07-05-2100-03",
-            "titulo": "Investigando um Mistério: Por que Algumas Espécies de Grilo Pararam de Cantar?",
-            "resumo": "Cientistas brasileiros estão investigando o mistério por trás do silêncio de algumas espécies de grilo.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-grilo-layout_site.jpg",
-            "link": "https://super.abril.com.br/ciencia/investigando-um-misterio-por-que-algumas-especies-de-grilo-pararam-de-cantar/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T17:00:09.000Z",
-            "relevancia": 0.6,
-            "destaque": false,
-            "tags": [
-              "grilo",
-              "misterio",
-              "silencio"
+              "galaxia"
             ]
           }
         ]
@@ -280,35 +277,33 @@
         "nome": "Tecnologia",
         "artigos": [
           {
-            "id": "tecnologia-2026-07-05-2100-01",
-            "titulo": "Google Passou a Guardar Mais Dados de Busca com IA",
-            "resumo": "O Google ativou uma nova configuração que armazena mídias de usuários e histórico médico para treinar sua IA.",
+            "id": "tecnologia-2026-07-06-0000-01",
+            "titulo": "Google passou a guardar mais dados de busca com IA",
+            "resumo": "Nova configuração, ativada por padrão, armazena mídias de usuários e histórico médico.",
             "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
             "link": "https://gizbr.uol.com.br/google-coleta-audios-imagens-treinar-ia/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T13:43:04.000Z",
-            "relevancia": 0.9,
+            "publicado_em": "2026-07-03T13:43:04-03:00",
+            "relevancia": 0.7,
             "destaque": true,
             "tags": [
               "google",
-              "ia",
-              "privacidade"
+              "ia"
             ]
           },
           {
-            "id": "tecnologia-2026-07-05-2100-02",
-            "titulo": "Seu Celular Galaxy Precisa Mudar o App de SMS",
-            "resumo": "A Samsung descontinuou o app de SMS padrão em seus celulares Galaxy, recomendando a mudança para o Google Messages.",
+            "id": "tecnologia-2026-07-06-0000-02",
+            "titulo": "Android: fechar apps para limpar RAM pode piorar seu celular",
+            "resumo": "Liberar memória RAM no Android é desnecessário e pode prejudicar o desempenho.",
             "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
-            "link": "https://gizbr.uol.com.br/samsung-messages-desativado-julho-2026/",
+            "link": "https://gizbr.uol.com.br/limpar-ram-android-prejudica-desempenho/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-02T22:05:16.000Z",
-            "relevancia": 0.8,
+            "publicado_em": "2026-07-03T16:57:25-03:00",
+            "relevancia": 0.5,
             "destaque": false,
             "tags": [
-              "samsung",
-              "sms",
-              "google"
+              "android",
+              "ram"
             ]
           }
         ]
@@ -318,18 +313,17 @@
         "nome": "Cultura",
         "artigos": [
           {
-            "id": "cultura-2026-07-05-2100-01",
-            "titulo": "Por que Jaspion Fez Mais Sucesso no Brasil do que no Japão?",
-            "resumo": "O personagem Jaspion teve um impacto significativo no Brasil, mas não alcançou o mesmo nível de sucesso em seu país de origem, o Japão.",
+            "id": "cultura-2026-07-06-0000-01",
+            "titulo": "Por que Jaspion fez mais sucesso no Brasil do que no Japão",
+            "resumo": "A morte do ator Hikaru Kurosaki ressuscitou o interesse pelo personagem.",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-jaspion-layout_site.jpg",
             "link": "https://super.abril.com.br/cultura/por-que-jaspion-fez-mais-sucesso-no-brasil-do-que-no-japao/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-02T20:00:08.000Z",
-            "relevancia": 0.7,
+            "publicado_em": "2026-07-02T20:00:08-03:00",
+            "relevancia": 0.8,
             "destaque": true,
             "tags": [
               "jaspion",
-              "brasil",
               "japao"
             ]
           }
@@ -340,19 +334,18 @@
         "nome": "Atualidades",
         "artigos": [
           {
-            "id": "atualidades-2026-07-05-2100-01",
-            "titulo": "Brasil Teve 120 Mil Mortes Associadas a Ondas de Calor em 20 Anos",
-            "resumo": "Um estudo recente revelou que o Brasil teve um número significativo de mortes relacionadas a ondas de calor nos últimos 20 anos.",
+            "id": "atualidades-2026-07-06-0000-01",
+            "titulo": "Brasil teve 120 mil mortes associadas a ondas de calor em 20 anos",
+            "resumo": "Pesquisa aponta maior risco para idosos e população vulnerável.",
             "imagem": "https://imagens.ebc.com.br/PqG3Y524AlwcKUFOacs9YtjVWMU=/754x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_dsc4326.jpg",
             "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T10:35:20.000Z",
-            "relevancia": 0.8,
+            "publicado_em": "2026-07-03T10:35:20-03:00",
+            "relevancia": 0.9,
             "destaque": true,
             "tags": [
               "brasil",
-              "ondas",
-              "calor"
+              "ondas de calor"
             ]
           }
         ]
@@ -362,19 +355,18 @@
         "nome": "Comportamento & Sociedade",
         "artigos": [
           {
-            "id": "comportamento-2026-07-05-2100-01",
-            "titulo": "Alta Demanda Faz SUS Ampliar Teleatendimento a Jogadores Compulsivos",
-            "resumo": "O SUS está ampliando o teleatendimento para jogadores compulsivos devido à alta demanda.",
+            "id": "comportamento-2026-07-06-0000-01",
+            "titulo": "Este hábito simples que aumenta admiração e bem-estar",
+            "resumo": "Pesquisa verificou que o foco intencional em admiração produz benefícios físicos e emocionais mensuráveis.",
             "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
-            "link": "https://gizbr.uol.com.br/alta-demanda-faz-sus-ampliar-teleatendimento-a-jogadores-compulsivos/",
+            "link": "https://gizbr.uol.com.br/caminhada-admiracao-beneficios-estresse/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-05T15:15:49.000Z",
+            "publicado_em": "2026-07-05T20:18:42-03:00",
             "relevancia": 0.7,
             "destaque": true,
             "tags": [
-              "sus",
-              "jogadores",
-              "compulsivos"
+              "admiracao",
+              "bem-estar"
             ]
           }
         ]
