@@ -5,22 +5,22 @@
     "edicao": "2026-07-06",
     "destaques": [
       {
-        "id": "noticias-2026-07-06-1000-01",
-        "titulo": "Ucrânia sofre ataque maciço da Rússia, com 14 mortos",
-        "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+        "id": "noticias-2026-07-06-1600-01",
+        "titulo": "Intervenção de Trump na Copa do Mundo aumenta tensão com a Europa",
+        "link": "https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html",
         "categoria_slug": "noticias"
-      },
-      {
-        "id": "atualidades-2026-07-06-1000-01",
-        "titulo": "Brasil teve 120 mil mortes associadas a ondas de calor em 20 anos",
-        "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
-        "categoria_slug": "atualidades"
       },
       {
         "id": "tecnologia-2026-07-06-1000-01",
         "titulo": "Android: fechar apps para limpar RAM pode piorar seu celular",
         "link": "https://gizbr.uol.com.br/limpar-ram-android-prejudica-desempenho/",
         "categoria_slug": "tecnologia"
+      },
+      {
+        "id": "atualidades-2026-07-06-1000-01",
+        "titulo": "Brasil teve 120 mil mortes associadas a ondas de calor em 20 anos",
+        "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
+        "categoria_slug": "atualidades"
       },
       {
         "id": "ciencia-2026-07-06-1000-01",
@@ -32,13 +32,13 @@
     "capa": {
       "categoria_slug": "noticias",
       "categoria_nome": "Notícias",
-      "titulo": "Ucrânia sofre ataque maciço da Rússia, com 14 mortos",
-      "subtitulo": "A Ucrânia foi alvo de um ataque maciço da Rússia, com 68 mísseis e 351 drones, resultando em 14 mortos...",
-      "resumo": "A Ucrânia foi alvo de um ataque maciço da Rússia, com 68 mísseis e 351 drones, resultando em 14 mortos. O presidente Zelensky denunciou o ataque como 'massivo' e condenou a ação russa.",
+      "titulo": "Intervenção de Trump na Copa do Mundo aumenta tensão com a Europa",
+      "subtitulo": "A decisão de reverter a suspensão de um jogador causou mal-estar na Europa, aumentando a tensão geopolítica com os EUA...",
+      "resumo": "A decisão de reverter a suspensão de um jogador causou mal-estar na Europa, aumentando a tensão geopolítica com os EUA. A medida foi vista como uma interferência indevida na competição esportiva.",
       "imagem": null,
-      "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC",
-      "publicado_em": "2026-07-06T09:35:43.000Z"
+      "link": "https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html",
+      "fonte": "Desconhecida",
+      "publicado_em": "2026-07-06T15:52:46.000Z"
     },
     "categorias": {
       "noticias": {
@@ -46,147 +46,147 @@
         "nome": "Notícias",
         "artigos": [
           {
-            "id": "noticias-2026-07-06-1000-01",
-            "titulo": "Ucrânia sofre ataque maciço da Rússia, com 14 mortos",
-            "resumo": "A Ucrânia foi alvo de um ataque maciço da Rússia, com 68 mísseis e 351 drones, resultando em 14 mortos. O presidente Zelensky denunciou o ataque como 'massivo' e condenou a ação russa.",
+            "id": "noticias-2026-07-06-1600-01",
+            "titulo": "Intervenção de Trump na Copa do Mundo aumenta tensão com a Europa",
+            "resumo": "A decisão de reverter a suspensão de um jogador causou mal-estar na Europa, aumentando a tensão geopolítica com os EUA. A medida foi vista como uma interferência indevida na competição esportiva.",
             "imagem": null,
-            "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
-            "fonte": "BBC",
-            "publicado_em": "2026-07-06T09:35:43.000Z",
-            "relevancia": 0.9,
+            "link": "https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-06T15:52:46.000Z",
+            "relevancia": 0.8,
             "destaque": true,
             "tags": [
-              "ucrania",
-              "russia",
-              "ataque"
+              "política",
+              "esportes",
+              "eua"
             ]
           },
           {
-            "id": "noticias-2026-07-06-1000-02",
-            "titulo": "China testa míssil balístico de longo alcance no Pacífico",
-            "resumo": "A China realizou um teste de míssil balístico de longo alcance no Pacífico, o que gerou preocupação entre os países da região. O teste ocorreu enquanto a Austrália firmava acordos de defesa com nações do Pacífico.",
-            "imagem": null,
-            "link": "https://www.nytimes.com/2026/07/06/world/asia/china-pacific-nuclear-missile-launch.html",
-            "fonte": "The New York Times",
-            "publicado_em": "2026-07-06T09:23:30.000Z",
-            "relevancia": 0.8,
-            "destaque": false,
-            "tags": [
-              "china",
-              "missil",
-              "pacifico"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-06-1000-03",
-            "titulo": "STF restabelece prisão de traficante conhecido como 'Mancha'",
-            "resumo": "O Supremo Tribunal Federal (STF) restabeleceu a prisão preventiva do traficante Douglas de Azevedo Carvalho, conhecido como 'Mancha'. A decisão foi tomada após um recurso apresentado pela defesa.",
-            "imagem": "https://s2-g1.glbimg.com/x7UFJNxQJvwdqUSEDr2OoemYbTk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/0/vjbsMAQTWAKuNSraGQ2Q/preso-bolivia.jpg",
-            "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/06/stf-restabelece-prisao-de-mancha-traficante-segue-detido-por-duas-decisoes-judiciais.ghtml",
-            "fonte": "G1",
-            "publicado_em": "2026-07-06T09:55:22.000Z",
+            "id": "noticias-2026-07-06-1600-02",
+            "titulo": "Juiz dos EUA rejeita pedido de Elon Musk para anular veredito sobre fraude",
+            "resumo": "Um juiz federal nos EUA rejeitou o pedido de Elon Musk para anular o veredito de um júri que o considerou culpado de fraude contra investidores do Twitter.",
+            "imagem": "https://s2-g1.glbimg.com/FRrYHhKHhpIpbIXB2qbm0Qv8040=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/G/N/Gl9pAoRHyuIIySx02SBw/2025-03-20t143340z-580507215-rc2tfca9bece-rtrmadp-3-india-x-censorship.jpg",
+            "link": "https://g1.globo.com/tecnologia/noticia/2026/07/06/juiz-dos-eua-rejeita-pedido-de-elon-musk-para-anular-veredito-sobre-fraude-contra-investidores-do-twitter.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-06T15:35:53.000Z",
             "relevancia": 0.7,
             "destaque": false,
             "tags": [
-              "stf",
-              "prisao",
-              "traficante"
+              "tecnologia",
+              "eua",
+              "justiça"
             ]
           },
           {
-            "id": "noticias-2026-07-06-1000-04",
-            "titulo": "Ponte é incendiada em Goiás, deixando moradores em risco de isolamento",
-            "resumo": "Uma ponte de madeira foi incendiada em Niquelândia, Goiás, deixando moradores em risco de isolamento. A prefeitura informou que a estrutura ligava uma vila à cidade.",
-            "imagem": "https://s2-g1.glbimg.com/YwG71z1fYpKS7vbGhK6bTdkmRO0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/z/o3eB0PRMKjoexCg6VIaw/ponte-queimada-niquelandia.jpg",
-            "link": "https://g1.globo.com/go/goias/noticia/2026/07/06/ponte-e-incendiada-e-moradores-de-assentamento-rural-correm-risco-de-isolamento-em-goias.ghtml",
-            "fonte": "G1",
-            "publicado_em": "2026-07-06T09:54:54.000Z",
-            "relevancia": 0.6,
-            "destaque": false,
-            "tags": [
-              "ponte",
-              "incendio",
-              "goias"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-06-1000-05",
-            "titulo": "Menina conta como sobreviveu por 32 horas após terremotos na Venezuela",
-            "resumo": "Uma menina venezuelana contou como sobreviveu por 32 horas após os terremotos que atingiram o país. Ela disse que levará um tempo para se recuperar, mas que sua família seguirá em frente.",
-            "imagem": "https://s2-g1.glbimg.com/AWUgxMDpzzbMxv9DtVtUm45E09s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/k/a0taK2TcmqSWwebRnMRA/novo-projeto-13-.jpg",
-            "link": "https://g1.globo.com/mundo/noticia/2026/07/06/com-ketchup-e-queijo-menina-conta-como-sobreviveu-por-32h-a-espera-de-resgate-apos-terremotos-na-venezuela.ghtml",
-            "fonte": "G1",
-            "publicado_em": "2026-07-06T09:52:09.000Z",
-            "relevancia": 0.5,
-            "destaque": false,
-            "tags": [
-              "terremoto",
-              "venezuela",
-              "sobrevivencia"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-06-1000-06",
-            "titulo": "Nigéria denuncia morte de dois nacionais em ataques xenofóbicos na África do Sul",
-            "resumo": "A Nigéria denunciou a morte de dois de seus nacionais em ataques xenofóbicos na África do Sul. O governo nigeriano condenou os ataques e exigiu que as autoridades sul-africanas tomem medidas para proteger os imigrantes.",
+            "id": "noticias-2026-07-06-1600-03",
+            "titulo": "Empresário americano Bryan Johnson revela ter gastrite autoimune",
+            "resumo": "Bryan Johnson, conhecido por sua busca pela juventude, revelou que descobriu ter gastrite autoimune. Ele compartilhou a notícia em uma rede social.",
             "imagem": null,
-            "link": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
-            "fonte": "BBC",
-            "publicado_em": "2026-07-06T09:50:30.000Z",
+            "link": "https://g1.globo.com/saude/noticia/2026/07/06/empresario-americano-bryan-johnson-revela-ter-gastrite-autoimune.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-06T15:36:52.000Z",
             "relevancia": 0.4,
             "destaque": false,
             "tags": [
-              "nigeria",
-              "ataque",
-              "xenofobia"
+              "saúde",
+              "eua",
+              "celebridades"
             ]
           },
           {
-            "id": "noticias-2026-07-06-1000-07",
-            "titulo": "Três pessoas morrem em acidente na Rodovia Castello Branco, em Osasco",
-            "resumo": "Três pessoas morreram em um acidente envolvendo dois carros na Rodovia Castello Branco, em Osasco. O acidente ocorreu na altura do quilômetro 17,6, e as vítimas ainda não foram identificadas.",
-            "imagem": "https://s2-g1.glbimg.com/pVKto95KZMTELBq41tJcXpdCrGA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/v/qCTKAnQYWzAfgFTy8Y1g/acervo-bdsp-limpo-20260706-0540-frame-60791-1-.jpeg",
-            "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/06/tres-pessoas-morrem-apos-carro-pegar-fogo-e-explodir-em-acidente-na-rodovia-castello-branco-em-osasco.ghtml",
-            "fonte": "G1",
-            "publicado_em": "2026-07-06T09:43:31.000Z",
-            "relevancia": 0.3,
+            "id": "noticias-2026-07-06-1600-04",
+            "titulo": "Mulher morre após ser espancada por ex-companheiro em Jaboticabal, SP",
+            "resumo": "Uma mulher de 40 anos morreu após ser espancada pelo ex-companheiro em Jaboticabal, SP. A vítima havia sofrido agressões seguidas.",
+            "imagem": "https://s2-g1.glbimg.com/dEUDsJUJ6Nd1PLu3jGzHvFo22c4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/r/Rs1vjBTvAx0XeMPIsp0Q/molduras-g1-.png",
+            "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/06/mulher-morre-apos-ser-espancada-por-ex-companheiro-em-jaboticabal-sp.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-06T15:32:09.000Z",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "violência",
+              "feminicídio",
+              "brasil"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-06-1600-05",
+            "titulo": "MP e Defensoria pedem restituição em dobro para clientes afetados por falhas no faturamento em contas de energia no RN",
+            "resumo": "O Ministério Público e a Defensoria Pública do RN pediram restituição em dobro para clientes afetados por falhas no faturamento em contas de energia no estado.",
+            "imagem": "https://s2-g1.glbimg.com/YS06l5BVor16D6lMe_bNnW5udZE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/p/AswGOfSkC8X4tBXAfwXg/captura-de-tela-2026-03-28-212041.jpg",
+            "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/06/mp-e-defensoria-pedem-restituicao-em-dobro-para-clientes-afetados-por-falhas-no-faturamento-em-contas-de-energia-no-rn.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-06T15:34:33.000Z",
+            "relevancia": 0.5,
+            "destaque": false,
+            "tags": [
+              "energia",
+              "rn",
+              "justiça"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-06-1600-06",
+            "titulo": "Homem morre durante abordagem da PM no centro de Palmas",
+            "resumo": "Um homem de 32 anos morreu após ser baleado durante uma abordagem da Polícia Militar em Palmas.",
+            "imagem": "https://s2-g1.glbimg.com/pZMLqvkJysyGPP7yUJas6wG1ZhE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/P/aj2V1PQaKANmaSHDvYFw/anotacao-2026-07-06-123757.png",
+            "link": "https://g1.globo.com/to/tocantins/noticia/2026/07/06/homem-morre-durante-abordagem-da-pm-no-centro-de-palmas.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-06T15:39:28.000Z",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "violência",
+              "pm",
+              "brasil"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-06-1600-07",
+            "titulo": "Batida entre embarcações no Rio Araguaia deixa seis feridos",
+            "resumo": "Uma batida entre duas embarcações deixou seis pessoas feridas no Rio Araguaia, em Aruanã, no noroeste de Goiás.",
+            "imagem": "https://s2-g1.glbimg.com/zdrCWyf0yqp8MbDPaaaGSwIk2Gc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/z/otsUktRK2tV6hGAWt4AA/embarcacoes.jpg",
+            "link": "https://g1.globo.com/go/goias/noticia/2026/07/06/batida-entre-embarcacoes-no-rio-araguaia-deixa-feridos.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-06T15:45:45.000Z",
+            "relevancia": 0.5,
             "destaque": false,
             "tags": [
               "acidente",
-              "rodovia",
-              "osasco"
+              "rio araguaia",
+              "goiás"
             ]
           },
           {
-            "id": "noticias-2026-07-06-1000-08",
-            "titulo": "Incêndio em hotel de Chapecó deixa feridos e compromete rotas de fuga",
-            "resumo": "Um incêndio em um hotel de Chapecó, Santa Catarina, deixou feridos e comprometeu as rotas de fuga. O Corpo de Bombeiros foi acionado e conseguiu resgatar nove hóspedes.",
-            "imagem": "https://s2-g1.glbimg.com/dUjxdzxXASOYxPmETtPmUSdiI1A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/l/KHfdJ6Sri0zThfiL7cwA/incendio-em-hotel-de-chapeco-bloqueia-rotas-de-fuga-e-deixa-feridos.jpg",
-            "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/06/incendio-hotel-chapeco-bloqueia-rotas-de-fuga-feridos-hospede-caiu-escapar.ghtml",
-            "fonte": "G1",
-            "publicado_em": "2026-07-06T09:39:49.000Z",
-            "relevancia": 0.2,
+            "id": "noticias-2026-07-06-1600-08",
+            "titulo": "Jovem encontrada morta em apartamento havia se mudado de cidade para fugir de ex",
+            "resumo": "Uma jovem de 21 anos foi encontrada morta em seu apartamento em Lajeado, RS. Ela havia se mudado recentemente para a cidade para fugir de seu ex-companheiro.",
+            "imagem": "https://s2-g1.glbimg.com/ITzlYChJgr3wuwX06QBij3fWmec=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/e/4BchZCQ5qysYxNDgi3hQ/g1-5-.jpg",
+            "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/06/jovem-encontrada-morta-em-apartamento-havia-se-mudado-de-cidade-para-fugir-de-ex-relata-familia.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-06T15:48:40.000Z",
+            "relevancia": 0.7,
             "destaque": false,
             "tags": [
-              "incendio",
-              "hotel",
-              "chapeco"
+              "violência",
+              "feminicídio",
+              "rs"
             ]
           },
           {
-            "id": "noticias-2026-07-06-1000-09",
-            "titulo": "Paciente foge de hospital em Fortaleza usando corda feita com lençóis",
-            "resumo": "Um paciente fugiu de um hospital em Fortaleza, Ceará, usando uma corda feita com lençóis. O paciente estava sob escolta policial e conseguiu escapar.",
-            "imagem": "https://s2-g1.glbimg.com/PYdJ2Wmy_cLHXhvhhRFo7D9xjfQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/D/lvA5lYQmKMhyNraovlRg/fuga-ijf-2-1-.jpg",
-            "link": "https://g1.globo.com/ce/ceara/noticia/2026/07/06/paciente-sob-escolta-policial-foge-do-ijf-em-fortaleza-usando-corda-feita-com-lencois-video.ghtml",
-            "fonte": "G1",
-            "publicado_em": "2026-07-06T09:34:02.000Z",
-            "relevancia": 0.1,
+            "id": "noticias-2026-07-06-1600-09",
+            "titulo": "Venezuelanos no RS organizam doações para vítimas de terremotos",
+            "resumo": "Venezuelanos e brasileiros residentes no RS organizaram uma rede de solidariedade para arrecadar e enviar doações às vítimas dos terremotos que atingiram a Venezuela.",
+            "imagem": "https://s2-g1.glbimg.com/kWrtQbBcbj3hyJN2hBAnHO7gi_Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/E/F39aOoS42vdgKBqfgfrg/venezuela-canoas-ja-0307-2-0085.mov-frame-27.png",
+            "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/06/rs-arrecada-doacoes-vitimas-terremotos-venezuela.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-06T15:28:48.000Z",
+            "relevancia": 0.4,
             "destaque": false,
             "tags": [
-              "paciente",
-              "fuga",
-              "hospital"
+              "solidariedade",
+              "venezuela",
+              "rs"
             ]
           }
         ]
@@ -196,48 +196,51 @@
         "nome": "Ciência",
         "artigos": [
           {
-            "id": "ciencia-2026-07-06-1600-01",
-            "titulo": "NASA busca input da indústria para estações espaciais comerciais",
-            "resumo": "A NASA está buscando feedback de empresas americanas para a próxima fase de sua estratégia de estações espaciais comerciais.",
-            "imagem": "https://www.nasa.gov/wp-content/uploads/2026/06/nasa-meatball-11-black-background.jpg?w=1080",
-            "link": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-industry-input-on-second-phase-of-commercial-space-stations/",
+            "id": "ciencia-2026-07-06-1000-01",
+            "titulo": "Canetas 'emagrecedoras' podem ajudar no tratamento do câncer",
+            "resumo": "Estudos sugerem que medicamentos como semaglutida e tirzepatida podem reduzir o risco da doença ou beneficiar pacientes, mas são necessárias mais evidências.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/0506-Ozempic-layout_site.jpg",
+            "link": "https://super.abril.com.br/saude/canetas-emagrecedoras-podem-ajudar-a-tratar-o-cancer-veja-o-que-a-ciencia-ja-sabe/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-06T15:33:00-03:00",
+            "publicado_em": "2026-07-05T21:00:26-03:00",
             "relevancia": 0.8,
             "destaque": true,
             "tags": [
-              "nasa",
-              "estacoes espaciais"
+              "saude",
+              "cancer",
+              "medicamentos"
             ]
           },
           {
-            "id": "ciencia-2026-07-06-1600-02",
-            "titulo": "Morte de uma estrela não é o fim de um sistema planetário",
-            "resumo": "Um novo estudo aponta o que pode acontecer quando uma estrela morre, e como isso afeta o sistema planetário.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/01/2601-sol-layout_site.jpg",
-            "link": "https://super.abril.com.br/ciencia/a-morte-de-uma-estrela-nao-e-o-fim-de-um-sistema-planetario/",
+            "id": "ciencia-2026-07-06-1000-02",
+            "titulo": "Megalodon: Redescoberta de fóssil revela detalhes sobre o lendário tubarão gigante",
+            "resumo": "Estudo confirma que esses animais poderiam ter mais de 24 metros de comprimento – mais do dobro dos maiores tubarões atuais.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2022/06/SI_megalodon_site.jpg",
+            "link": "https://super.abril.com.br/ciencia/megalodon-redescoberta-de-fossil-revela-detalhes-sobre-o-lendario-tubarao-gigante/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-06T15:00:12-03:00",
+            "publicado_em": "2026-07-05T19:00:42-03:00",
             "relevancia": 0.6,
             "destaque": false,
             "tags": [
-              "estrelas",
-              "sistemas planetarios"
+              "tubarao",
+              "megalodon",
+              "fossil"
             ]
           },
           {
-            "id": "ciencia-2026-07-06-1600-03",
-            "titulo": "NASA Webb descobre galáxia incomum formada por colisão cósmica",
-            "resumo": "A NASA Webb Space Telescope descobriu uma galáxia incomum que foi formada por uma colisão cósmica.",
-            "imagem": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/07/STScI-01KVT4GQMQ5MXV6XDPFPZMXG65.png?w=4490",
-            "link": "https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/",
+            "id": "ciencia-2026-07-06-1000-03",
+            "titulo": "Hubble detecta luz de galáxia primitiva que astrônomos achavam ser 'impossível observar'",
+            "resumo": "A radiação sobreviveu a uma viagem de mais de 12 bilhões de anos por um Universo que, em teoria, ainda deveria impedir sua passagem.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-hubble-detecta-luz-layout_site-CAPA.jpg",
+            "link": "https://super.abril.com.br/ciencia/hubble-detecta-luz-de-galaxia-primitiva-que-astronomos-achavam-ser-impossivel-observar/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-06T14:00:00-03:00",
+            "publicado_em": "2026-07-03T19:00:16-03:00",
             "relevancia": 0.7,
             "destaque": false,
             "tags": [
-              "nasa",
-              "galaxias"
+              "hubble",
+              "galaxia",
+              "astronomia"
             ]
           }
         ]
@@ -277,33 +280,35 @@
         "nome": "Tecnologia",
         "artigos": [
           {
-            "id": "tecnologia-2026-07-06-1600-01",
-            "titulo": "Ajustes da conta Google que você deveria revisar hoje",
-            "resumo": "Ações simples permitem controlar anúncios, histórico de localização, contatos de recuperação e dados expostos em serviços como Gmail e Maps.",
+            "id": "tecnologia-2026-07-06-1000-01",
+            "titulo": "Android: fechar apps para limpar RAM pode piorar seu celular",
+            "resumo": "Liberar memória RAM no Android é desnecessário e pode prejudicar o desempenho. Saiba por que o sistema gerencia RAM automaticamente e quais práticas realmente funcionam.",
             "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
-            "link": "https://gizbr.uol.com.br/configuracoes-privacidade-google/",
+            "link": "https://gizbr.uol.com.br/limpar-ram-android-prejudica-desempenho/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-06T13:25:07-03:00",
-            "relevancia": 0.5,
-            "destaque": false,
+            "publicado_em": "2026-07-03T16:57:25-03:00",
+            "relevancia": 0.9,
+            "destaque": true,
             "tags": [
-              "google",
-              "privacidade"
+              "android",
+              "ram",
+              "desempenho"
             ]
           },
           {
-            "id": "tecnologia-2026-07-06-1600-02",
+            "id": "tecnologia-2026-07-06-1000-02",
             "titulo": "Google passou a guardar mais dados de busca com IA",
-            "resumo": "Nova configuração, ativada por padrão, armazena mídias de usuários e levanta críticas de especialistas em privacidade.",
+            "resumo": "Nova configuração, ativada por padrão, armazena mídias de usuários e histórico médico. O sistema, avaliado por terapeutas, supera o ChatGPT em empatia e personalização, agindo antes mesmo que o usuário perceba a necessidade de ajuda.",
             "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
             "link": "https://gizbr.uol.com.br/google-coleta-audios-imagens-treinar-ia/",
             "fonte": "Desconhecida",
             "publicado_em": "2026-07-03T13:43:04-03:00",
-            "relevancia": 0.6,
+            "relevancia": 0.8,
             "destaque": false,
             "tags": [
               "google",
-              "ia"
+              "ia",
+              "privacidade"
             ]
           }
         ]
@@ -313,18 +318,19 @@
         "nome": "Cultura",
         "artigos": [
           {
-            "id": "cultura-2026-07-06-1600-01",
-            "titulo": "Conheça Toby, o gato que nasceu com 28 dedos e entrou para o Guinness Book",
-            "resumo": "Um gato chamado Toby nasceu com 28 dedos e entrou para o Guinness Book.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0607-gato-28-dedos-layout_site-CAPA.jpg",
-            "link": "https://super.abril.com.br/cultura/conheca-toby-o-gato-que-nasceu-com-28-dedos-e-entrou-para-o-guinness-book/",
+            "id": "cultura-2026-07-06-1000-01",
+            "titulo": "Por que Jaspion fez mais sucesso no Brasil do que no Japão?",
+            "resumo": "A morte do ator Hikaru Kurosaki ressuscitou o interesse pelo personagem. Fora daqui, porém, ele nunca teve o mesmo impacto.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-jaspion-layout_site.jpg",
+            "link": "https://super.abril.com.br/cultura/por-que-jaspion-fez-mais-sucesso-no-brasil-do-que-no-japao/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-06T13:00:13-03:00",
-            "relevancia": 0.4,
-            "destaque": false,
+            "publicado_em": "2026-07-02T20:00:08-03:00",
+            "relevancia": 0.7,
+            "destaque": true,
             "tags": [
-              "gatos",
-              "guinness book"
+              "jaspion",
+              "brasil",
+              "japao"
             ]
           }
         ]
@@ -334,18 +340,19 @@
         "nome": "Atualidades",
         "artigos": [
           {
-            "id": "atualidades-2026-07-06-1600-01",
-            "titulo": "Brasil deverá ter centro para enfrentamento de emergências em saúde",
-            "resumo": "O Brasil deverá ter um centro para enfrentamento de emergências em saúde.",
-            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
-            "link": "https://gizbr.uol.com.br/brasil-devera-ter-centro-para-enfrentamento-de-emergencias-em-saude/",
+            "id": "atualidades-2026-07-06-1000-01",
+            "titulo": "Brasil teve 120 mil mortes associadas a ondas de calor em 20 anos",
+            "resumo": "Pesquisa aponta maior risco para idosos e população vulnerável",
+            "imagem": "https://imagens.ebc.com.br/PqG3Y524AlwcKUFOacs9YtjVWMU=/754x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_dsc4326.jpg",
+            "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-06T10:20:05-03:00",
-            "relevancia": 0.7,
+            "publicado_em": "2026-07-03T10:35:20-03:00",
+            "relevancia": 0.9,
             "destaque": true,
             "tags": [
               "brasil",
-              "saude"
+              "ondas de calor",
+              "mortalidade"
             ]
           }
         ]
@@ -355,18 +362,19 @@
         "nome": "Comportamento & Sociedade",
         "artigos": [
           {
-            "id": "comportamento-2026-07-06-1600-01",
+            "id": "comportamento-2026-07-06-1000-01",
             "titulo": "Este hábito simples que aumenta admiração e bem-estar",
-            "resumo": "Um estudo verificou que o foco intencional em admiração produz benefícios físicos e emocionais mensuráveis.",
+            "resumo": "Pesquisa verificou que o foco intencional em admiração produz benefícios físicos e emocionais mensuráveis. Adultos mais velhos relataram mais alegria e gratidão, além de menor estresse cotidiano.",
             "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
             "link": "https://gizbr.uol.com.br/caminhada-admiracao-beneficios-estresse/",
             "fonte": "Desconhecida",
             "publicado_em": "2026-07-05T20:18:42-03:00",
-            "relevancia": 0.5,
-            "destaque": false,
+            "relevancia": 0.8,
+            "destaque": true,
             "tags": [
-              "comportamento",
-              "bem-estar"
+              "admiracao",
+              "bem-estar",
+              "estresse"
             ]
           }
         ]
