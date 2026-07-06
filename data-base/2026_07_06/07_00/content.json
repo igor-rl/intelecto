@@ -1,0 +1,384 @@
+{
+  "jornal": {
+    "nome": "Atualidades & Intelecto",
+    "atualizado_em": "2026-07-06T07:00:00.000Z",
+    "edicao": "2026-07-06",
+    "destaques": [
+      {
+        "id": "noticias-2026-07-06-0000-03",
+        "titulo": "Eliminação do Brasil na Copa do Mundo",
+        "link": "https://g1.globo.com/mundo/noticia/2026/07/05/noruega-ja-ganhou-copa.ghtml",
+        "categoria_slug": "noticias"
+      },
+      {
+        "id": "ciencia-2026-07-06-0000-03",
+        "titulo": "Hubble detecta luz de galáxia primitiva que astrônomos achavam ser 'impossível observar'",
+        "link": "https://super.abril.com.br/ciencia/hubble-detecta-luz-de-galaxia-primitiva-que-astronomos-achavam-ser-impossivel-observar/",
+        "categoria_slug": "ciencia"
+      },
+      {
+        "id": "atualidades-2026-07-06-0000-01",
+        "titulo": "Brasil teve 120 mil mortes associadas a ondas de calor em 20 anos",
+        "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
+        "categoria_slug": "atualidades"
+      },
+      {
+        "id": "ciencia-2026-07-06-0000-01",
+        "titulo": "Canetas 'emagrecedoras' podem ajudar no tratamento do câncer",
+        "link": "https://super.abril.com.br/saude/canetas-emagrecedoras-podem-ajudar-a-tratar-o-cancer-veja-o-que-a-ciencia-ja-sabe/",
+        "categoria_slug": "ciencia"
+      }
+    ],
+    "capa": {
+      "categoria_slug": "noticias",
+      "categoria_nome": "Notícias",
+      "titulo": "Eliminação do Brasil na Copa do Mundo",
+      "subtitulo": "O Brasil foi eliminado da Copa do Mundo após perder para a Noruega por 2 a 1 nas oitavas de final...",
+      "resumo": "O Brasil foi eliminado da Copa do Mundo após perder para a Noruega por 2 a 1 nas oitavas de final.",
+      "imagem": "https://s2-g1.glbimg.com/avumVILTq5JryAaRScrvBDiO5LY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/y/Zyn79tTAqkYrXxO0qYoQ/2026-07-05t223545z-978672979-up1em751qrkyl-rtrmadp-3-soccer-worldcup-bra-nor.jpg",
+      "link": "https://g1.globo.com/mundo/noticia/2026/07/05/noruega-ja-ganhou-copa.ghtml",
+      "fonte": "Desconhecida",
+      "publicado_em": "2026-07-05T23:27:52-00:00"
+    },
+    "categorias": {
+      "noticias": {
+        "slug": "noticias",
+        "nome": "Notícias",
+        "artigos": [
+          {
+            "id": "noticias-2026-07-06-0000-01",
+            "titulo": "Mudanças no Metrô de Belo Horizonte",
+            "resumo": "O Metrô de Belo Horizonte terá mudanças na operação até o fim de julho devido às obras de modernização da Linha 1. Os passageiros devem ficar atentos às alterações na circulação dos trens.",
+            "imagem": "https://s2-g1.glbimg.com/HGmfU9YzefcmMSFMCs-ZmWgk49U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/6/9/cEBOZSTQuEf7OEUXgjMQ/metrobh.jpg",
+            "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/05/metro-bh-tera-mudancas-na-operacao-ate-o-fim-de-julho-veja-as-alteracoes-para-as-obras-na-linha-1.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T23:43:38-00:00",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "metro",
+              "belo horizonte",
+              "obras"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-06-0000-02",
+            "titulo": "Fragmento de drone encontrado em avião",
+            "resumo": "Um fragmento compatível com uma peça de drone foi encontrado em um avião da Aerolíneas Argentinas que pousou no Aeroporto Internacional do Galeão, no Rio de Janeiro.",
+            "imagem": "https://s2-g1.glbimg.com/QDb0TmASgB8gEICVCQWoYepPetI=/s.glbimg.com/jo/g1/f/original/2014/08/28/galeao_maio2014-0034.jpg",
+            "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/05/fragmento-de-drone-e-encontrado-em-aviao-da-aerolineas-argentinas-que-pousou-no-galeao.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T23:43:20-00:00",
+            "relevancia": 0.7,
+            "destaque": false,
+            "tags": [
+              "aviao",
+              "drone",
+              "galeao"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-06-0000-03",
+            "titulo": "Eliminação do Brasil na Copa do Mundo",
+            "resumo": "O Brasil foi eliminado da Copa do Mundo após perder para a Noruega por 2 a 1 nas oitavas de final.",
+            "imagem": "https://s2-g1.glbimg.com/avumVILTq5JryAaRScrvBDiO5LY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/y/Zyn79tTAqkYrXxO0qYoQ/2026-07-05t223545z-978672979-up1em751qrkyl-rtrmadp-3-soccer-worldcup-bra-nor.jpg",
+            "link": "https://g1.globo.com/mundo/noticia/2026/07/05/noruega-ja-ganhou-copa.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T23:27:52-00:00",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "copa do mundo",
+              "brasil",
+              "noruega"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-06-0000-04",
+            "titulo": "IPTU no Rio de Janeiro",
+            "resumo": "A sexta cota do IPTU no Rio de Janeiro vence na terça-feira e os moradores podem baixar e imprimir a guia de pagamento no site Carioca Digital.",
+            "imagem": "https://s2-g1.glbimg.com/l7eWoykiNsAU6xOmatG9bmcn56U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/3/BJPYTVSJCoTTcSt9V26A/03laje0.jpeg",
+            "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/05/iptu-sexta-cota-vence-na-terca-feira-no-rio-guia-para-pagamento-esta-no-site-carioca-digital.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T23:08:21-00:00",
+            "relevancia": 0.5,
+            "destaque": false,
+            "tags": [
+              "iptu",
+              "rio de janeiro",
+              "carioca digital"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-06-0000-05",
+            "titulo": "Acidente em Piauí",
+            "resumo": "Um homem morreu após ser atropelado por um caminhão na PI-115, em Piauí.",
+            "imagem": "https://s2-g1.glbimg.com/Zb3Ktu-Z4GWDbEVd47z4qapg_kc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/P/wHAkP8TjWh6vWUrKouQQ/edicao-imagens-g1-2026-07-05t200826.340.jpg",
+            "link": "https://g1.globo.com/pi/piaui/noticia/2026/07/05/homem-morre-atropelado.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T23:04:15-00:00",
+            "relevancia": 0.4,
+            "destaque": false,
+            "tags": [
+              "acidente",
+              "piaui",
+              "caminhao"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-06-0000-06",
+            "titulo": "Programação gratuita em Santos",
+            "resumo": "A cidade de Santos oferecerá uma programação gratuita em parques durante as férias de julho.",
+            "imagem": "https://s2-g1.glbimg.com/vv_Z74rrM8FpysA2-Zm8WVV-Ipc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/x/Wd9OixRSCPjjDko2NrTg/jardim-botanico-santos-torre-de-observacao-de-aves.jpg",
+            "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/05/santos-oferece-programacao-gratuita-em-parques-durante-as-ferias-de-julho-confira.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T23:00:08-00:00",
+            "relevancia": 0.3,
+            "destaque": false,
+            "tags": [
+              "santos",
+              "programacao",
+              "parques"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-06-0000-07",
+            "titulo": "Carro apreendido pela Justiça",
+            "resumo": "Uma mulher teve seu carro apreendido pela Justiça após descobrir que o veículo estava financiado para outra pessoa.",
+            "imagem": "https://s2-g1.glbimg.com/I6xdIddlEcM8c7zXD3cznHLJvpM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/R/X7l61USgK2QdG6mLBpsg/golpe-carro.jpg",
+            "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/05/mulher-tem-carro-apreendido-pela-justica-e-descobre-que-veiculo-estava-financiado-para-outra-pessoa-no-interior-de-sp.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T22:52:46-00:00",
+            "relevancia": 0.2,
+            "destaque": false,
+            "tags": [
+              "carro",
+              "justica",
+              "financiamento"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-06-0000-08",
+            "titulo": "Memes sobre a derrota do Brasil",
+            "resumo": "A eliminação do Brasil na Copa do Mundo rendeu uma enxurrada de memes nas redes sociais.",
+            "imagem": "https://s2-g1.glbimg.com/TvFSmN2cQSrBQwLnBxwnUuh0np4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/i/BhFKfhTYWdPZ7a074Fxw/brazil.jpg",
+            "link": "https://g1.globo.com/mundo/noticia/2026/07/05/penalti-perdido-e-neymar-na-partida-veja-memes-que-marcaram-derrota-do-brasil-para-noruega.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T22:47:45-00:00",
+            "relevancia": 0.1,
+            "destaque": false,
+            "tags": [
+              "memes",
+              "brasil",
+              "copa do mundo"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-06-0000-09",
+            "titulo": "Trump e a FIFA",
+            "resumo": "O presidente dos EUA, Donald Trump, pediu à FIFA que revisse a suspensão de um jogador americano.",
+            "imagem": null,
+            "link": "https://www.nytimes.com/2026/07/05/us/trump-fifa-balogun-world-cup.html",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T22:41:52-00:00",
+            "relevancia": 0.9,
+            "destaque": false,
+            "tags": [
+              "trump",
+              "fifa",
+              "suspensao"
+            ]
+          }
+        ]
+      },
+      "ciencia": {
+        "slug": "ciencia",
+        "nome": "Ciência",
+        "artigos": [
+          {
+            "id": "ciencia-2026-07-06-1000-01",
+            "titulo": "Canetas 'emagrecedoras' podem ajudar no tratamento do câncer",
+            "resumo": "Estudos sugerem que medicamentos como semaglutida e tirzepatida podem reduzir o risco da doença ou beneficiar pacientes, mas são necessárias mais evidências.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/0506-Ozempic-layout_site.jpg",
+            "link": "https://super.abril.com.br/saude/canetas-emagrecedoras-podem-ajudar-a-tratar-o-cancer-veja-o-que-a-ciencia-ja-sabe/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T21:00:26-03:00",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "saude",
+              "cancer",
+              "medicamentos"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-06-1000-02",
+            "titulo": "Megalodon: Redescoberta de fóssil revela detalhes sobre o lendário tubarão gigante",
+            "resumo": "Estudo confirma que esses animais poderiam ter mais de 24 metros de comprimento – mais do dobro dos maiores tubarões atuais.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2022/06/SI_megalodon_site.jpg",
+            "link": "https://super.abril.com.br/ciencia/megalodon-redescoberta-de-fossil-revela-detalhes-sobre-o-lendario-tubarao-gigante/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T19:00:42-03:00",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "tubarao",
+              "megalodon",
+              "fossil"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-06-1000-03",
+            "titulo": "Hubble detecta luz de galáxia primitiva que astrônomos achavam ser 'impossível observar'",
+            "resumo": "A radiação sobreviveu a uma viagem de mais de 12 bilhões de anos por um Universo que, em teoria, ainda deveria impedir sua passagem.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-hubble-detecta-luz-layout_site-CAPA.jpg",
+            "link": "https://super.abril.com.br/ciencia/hubble-detecta-luz-de-galaxia-primitiva-que-astronomos-achavam-ser-impossivel-observar/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T19:00:16-03:00",
+            "relevancia": 0.7,
+            "destaque": false,
+            "tags": [
+              "hubble",
+              "galaxia",
+              "astronomia"
+            ]
+          }
+        ]
+      },
+      "futebol": {
+        "slug": "futebol",
+        "nome": "Futebol",
+        "artigos": [
+          {
+            "id": "f1",
+            "titulo": "Clube paulista anuncia contratação para a próxima temporada",
+            "resumo": "Reforço chega para disputar posição no meio-campo a partir do segundo semestre.",
+            "imagem": null,
+            "link": "#",
+            "fonte": "ge.globo",
+            "publicado_em": "2026-06-30T12:00:00-03:00"
+          }
+        ]
+      },
+      "curiosidades": {
+        "slug": "curiosidades",
+        "nome": "Curiosidades",
+        "artigos": [
+          {
+            "id": "u1",
+            "titulo": "Por que bocejamos? Ciência ainda não tem resposta definitiva",
+            "resumo": "Diferentes teorias tentam explicar o fenômeno, da regulação térmica à empatia social.",
+            "imagem": null,
+            "link": "#",
+            "fonte": "Mundo Estranho",
+            "publicado_em": "2026-06-29T18:00:00-03:00"
+          }
+        ]
+      },
+      "tecnologia": {
+        "slug": "tecnologia",
+        "nome": "Tecnologia",
+        "artigos": [
+          {
+            "id": "tecnologia-2026-07-06-1000-01",
+            "titulo": "Android: fechar apps para limpar RAM pode piorar seu celular",
+            "resumo": "Liberar memória RAM no Android é desnecessário e pode prejudicar o desempenho. Saiba por que o sistema gerencia RAM automaticamente e quais práticas realmente funcionam.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/limpar-ram-android-prejudica-desempenho/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T16:57:25-03:00",
+            "relevancia": 0.9,
+            "destaque": true,
+            "tags": [
+              "android",
+              "ram",
+              "desempenho"
+            ]
+          },
+          {
+            "id": "tecnologia-2026-07-06-1000-02",
+            "titulo": "Google passou a guardar mais dados de busca com IA",
+            "resumo": "Nova configuração, ativada por padrão, armazena mídias de usuários e histórico médico. O sistema, avaliado por terapeutas, supera o ChatGPT em empatia e personalização, agindo antes mesmo que o usuário perceba a necessidade de ajuda.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/google-coleta-audios-imagens-treinar-ia/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T13:43:04-03:00",
+            "relevancia": 0.8,
+            "destaque": false,
+            "tags": [
+              "google",
+              "ia",
+              "privacidade"
+            ]
+          }
+        ]
+      },
+      "cultura": {
+        "slug": "cultura",
+        "nome": "Cultura",
+        "artigos": [
+          {
+            "id": "cultura-2026-07-06-1000-01",
+            "titulo": "Por que Jaspion fez mais sucesso no Brasil do que no Japão?",
+            "resumo": "A morte do ator Hikaru Kurosaki ressuscitou o interesse pelo personagem. Fora daqui, porém, ele nunca teve o mesmo impacto.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-jaspion-layout_site.jpg",
+            "link": "https://super.abril.com.br/cultura/por-que-jaspion-fez-mais-sucesso-no-brasil-do-que-no-japao/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-02T20:00:08-03:00",
+            "relevancia": 0.7,
+            "destaque": true,
+            "tags": [
+              "jaspion",
+              "brasil",
+              "japao"
+            ]
+          }
+        ]
+      },
+      "atualidades": {
+        "slug": "atualidades",
+        "nome": "Atualidades",
+        "artigos": [
+          {
+            "id": "atualidades-2026-07-06-1000-01",
+            "titulo": "Brasil teve 120 mil mortes associadas a ondas de calor em 20 anos",
+            "resumo": "Pesquisa aponta maior risco para idosos e população vulnerável",
+            "imagem": "https://imagens.ebc.com.br/PqG3Y524AlwcKUFOacs9YtjVWMU=/754x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_dsc4326.jpg",
+            "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T10:35:20-03:00",
+            "relevancia": 0.9,
+            "destaque": true,
+            "tags": [
+              "brasil",
+              "ondas de calor",
+              "mortalidade"
+            ]
+          }
+        ]
+      },
+      "comportamento": {
+        "slug": "comportamento",
+        "nome": "Comportamento & Sociedade",
+        "artigos": [
+          {
+            "id": "comportamento-2026-07-06-1000-01",
+            "titulo": "Este hábito simples que aumenta admiração e bem-estar",
+            "resumo": "Pesquisa verificou que o foco intencional em admiração produz benefícios físicos e emocionais mensuráveis. Adultos mais velhos relataram mais alegria e gratidão, além de menor estresse cotidiano.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/caminhada-admiracao-beneficios-estresse/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T20:18:42-03:00",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "admiracao",
+              "bem-estar",
+              "estresse"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
