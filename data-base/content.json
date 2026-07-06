@@ -5,40 +5,40 @@
     "edicao": "2026-07-05",
     "destaques": [
       {
-        "id": "tecnologia-2026-07-05-2100-01",
-        "titulo": "Google Passou a Guardar Mais Dados de Busca com IA",
-        "link": "https://gizbr.uol.com.br/google-coleta-audios-imagens-treinar-ia/",
-        "categoria_slug": "tecnologia"
-      },
-      {
-        "id": "noticias-2026-07-05-2100-01",
-        "titulo": "Trump pede revisão da suspensão de jogador de futebol",
-        "link": "https://www.nytimes.com/2026/07/05/us/trump-fifa-balogun-world-cup.html",
+        "id": "noticias-2026-07-06-0000-03",
+        "titulo": "Eliminação do Brasil na Copa do Mundo",
+        "link": "https://g1.globo.com/mundo/noticia/2026/07/05/noruega-ja-ganhou-copa.ghtml",
         "categoria_slug": "noticias"
       },
       {
-        "id": "ciencia-2026-07-05-2100-01",
-        "titulo": "Megalodon: Descoberta de Fóssil Revela Detalhes do Tubarão Gigante",
-        "link": "https://super.abril.com.br/ciencia/megalodon-redescoberta-de-fossil-revela-detalhes-sobre-o-lendario-tubarao-gigante/",
+        "id": "ciencia-2026-07-06-0000-03",
+        "titulo": "Hubble detecta luz de galáxia primitiva que astrônomos achavam ser 'impossível observar'",
+        "link": "https://super.abril.com.br/ciencia/hubble-detecta-luz-de-galaxia-primitiva-que-astronomos-achavam-ser-impossivel-observar/",
         "categoria_slug": "ciencia"
       },
       {
-        "id": "atualidades-2026-07-05-2100-01",
-        "titulo": "Brasil Teve 120 Mil Mortes Associadas a Ondas de Calor em 20 Anos",
+        "id": "atualidades-2026-07-06-0000-01",
+        "titulo": "Brasil teve 120 mil mortes associadas a ondas de calor em 20 anos",
         "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
         "categoria_slug": "atualidades"
+      },
+      {
+        "id": "ciencia-2026-07-06-0000-01",
+        "titulo": "Canetas 'emagrecedoras' podem ajudar no tratamento do câncer",
+        "link": "https://super.abril.com.br/saude/canetas-emagrecedoras-podem-ajudar-a-tratar-o-cancer-veja-o-que-a-ciencia-ja-sabe/",
+        "categoria_slug": "ciencia"
       }
     ],
     "capa": {
-      "categoria_slug": "tecnologia",
-      "categoria_nome": "Tecnologia",
-      "titulo": "Google Passou a Guardar Mais Dados de Busca com IA",
-      "subtitulo": "O Google ativou uma nova configuração que armazena mídias de usuários e histórico médico para treinar sua IA...",
-      "resumo": "O Google ativou uma nova configuração que armazena mídias de usuários e histórico médico para treinar sua IA.",
-      "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
-      "link": "https://gizbr.uol.com.br/google-coleta-audios-imagens-treinar-ia/",
+      "categoria_slug": "noticias",
+      "categoria_nome": "Notícias",
+      "titulo": "Eliminação do Brasil na Copa do Mundo",
+      "subtitulo": "O Brasil foi eliminado da Copa do Mundo após perder para a Noruega por 2 a 1 nas oitavas de final...",
+      "resumo": "O Brasil foi eliminado da Copa do Mundo após perder para a Noruega por 2 a 1 nas oitavas de final.",
+      "imagem": "https://s2-g1.glbimg.com/avumVILTq5JryAaRScrvBDiO5LY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/y/Zyn79tTAqkYrXxO0qYoQ/2026-07-05t223545z-978672979-up1em751qrkyl-rtrmadp-3-soccer-worldcup-bra-nor.jpg",
+      "link": "https://g1.globo.com/mundo/noticia/2026/07/05/noruega-ja-ganhou-copa.ghtml",
       "fonte": "Desconhecida",
-      "publicado_em": "2026-07-03T13:43:04.000Z"
+      "publicado_em": "2026-07-05T23:27:52-00:00"
     },
     "categorias": {
       "noticias": {
@@ -46,147 +46,147 @@
         "nome": "Notícias",
         "artigos": [
           {
-            "id": "noticias-2026-07-05-2100-01",
-            "titulo": "Trump pede revisão da suspensão de jogador de futebol",
-            "resumo": "O ex-presidente dos EUA, Donald Trump, solicitou que a FIFA revisse a suspensão do jogador Folarin Balogun. A decisão foi revertida, permitindo que o jogador participe da Copa do Mundo.",
-            "imagem": null,
-            "link": "https://www.nytimes.com/2026/07/05/us/trump-fifa-balogun-world-cup.html",
+            "id": "noticias-2026-07-06-0000-01",
+            "titulo": "Mudanças no Metrô de Belo Horizonte",
+            "resumo": "O Metrô de Belo Horizonte terá mudanças na operação até o fim de julho devido às obras de modernização da Linha 1. Os passageiros devem ficar atentos às alterações na circulação dos trens.",
+            "imagem": "https://s2-g1.glbimg.com/HGmfU9YzefcmMSFMCs-ZmWgk49U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/6/9/cEBOZSTQuEf7OEUXgjMQ/metrobh.jpg",
+            "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/05/metro-bh-tera-mudancas-na-operacao-ate-o-fim-de-julho-veja-as-alteracoes-para-as-obras-na-linha-1.ghtml",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-05T20:38:35.000Z",
-            "relevancia": 0.8,
-            "destaque": true,
-            "tags": [
-              "esportes",
-              "fifa",
-              "copedomundo"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-05-2100-02",
-            "titulo": "Administração Trump revoga dezenas de regulamentações de armas",
-            "resumo": "A administração Trump revogou dezenas de regulamentações de armas, o que foi criticado por muitos como uma medida que enfraquece a segurança pública.",
-            "imagem": null,
-            "link": "https://www.nytimes.com/2026/07/05/us/politics/trump-gun-rights-laws.html",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-05T20:37:10.000Z",
-            "relevancia": 0.7,
-            "destaque": false,
-            "tags": [
-              "politica",
-              "armas",
-              "seguranca"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-05-2100-03",
-            "titulo": "Morte de mulher em incêndio em Araguaína",
-            "resumo": "Uma mulher de 22 anos morreu em um incêndio em uma casa em Araguaína, no Tocantins. O corpo foi encontrado carbonizado.",
-            "imagem": "https://s2-g1.glbimg.com/8O6ytlUGbhMWkXDJZySuQhZ2o60=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/K/499TPLRZOESLaU2S6kBA/foto-e-montagem-vertical-17-.jpg",
-            "link": "https://g1.globo.com/to/tocantins/noticia/2026/07/05/cadeirante-morre-carbonizada-durante-incendio-dentro-de-casa-no-interior-do-tocantins-dizem-bombeiros.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-05T20:29:43.000Z",
-            "relevancia": 0.5,
-            "destaque": false,
-            "tags": [
-              "incendio",
-              "morte",
-              "araguaina"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-05-2100-04",
-            "titulo": "Expoacre Juruá 2026: Feira agropecuária no Acre",
-            "resumo": "A Expoacre Juruá 2026 está sendo realizada no Acre, com a participação de quase 450 expositores. A feira tem como objetivo impulsionar a economia local.",
-            "imagem": "https://s2-g1.glbimg.com/Gu1K1ISN3YmUWi5KojT6azZ9JGw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/z/6YsToqRaWcwy7VnBehTg/midia-de-distribuicao-g1-2026-07-05t115607.094.jpg",
-            "link": "https://g1.globo.com/ac/acre/noticia/2026/07/05/expositores-do-acre-aproveitam-feira-agropecuaria-para-faturar-e-conquistar-clientes-da-para-lucrar.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-05T20:06:00.000Z",
-            "relevancia": 0.4,
-            "destaque": false,
-            "tags": [
-              "economia",
-              "agropecuaria",
-              "acre"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-05-2100-05",
-            "titulo": "Toada do Boi Garantido viraliza na Copa do Mundo",
-            "resumo": "A toada 'Pode Remar' do Boi Garantido viralizou nas redes sociais durante a Copa do Mundo. O amo do boi, João Paulo Faria, destacou a força da toada.",
-            "imagem": "https://s2-g1.glbimg.com/LM9c0eT0axpyGGoMmsHYL8lavBs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/o/Ac5pDLTKKa0Lq8M1QwZA/captura-de-tela-2026-07-01-144448.png",
-            "link": "https://g1.globo.com/am/amazonas/noticia/2026/07/05/joao-paulo-faria-amo-do-boi-garantido-destaca-forca-da-toada-pode-remar-apos-viralizar-na-copa.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-05T20:04:01.000Z",
-            "relevancia": 0.3,
-            "destaque": false,
-            "tags": [
-              "copadomundo",
-              "boigarantido",
-              "toada"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-05-2100-06",
-            "titulo": "Vacinação contra pneumonia em Bauru",
-            "resumo": "A Secretaria de Saúde de Bauru iniciou a vacinação contra pneumonia com a vacina Pneumocócica 20-valente.",
-            "imagem": "https://s2-g1.glbimg.com/GYPJZ33BzOGFBVE5fpLBB0-F2DI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/V/DXlUaITnuHoBpBNBrNkw/vacina.jpg",
-            "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/07/05/secretaria-de-saude-de-bauru-inicia-aplicacao-da-vacina-pneumococica-20-valente-nesta-segunda-veja-locais.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-05T20:00:09.000Z",
+            "publicado_em": "2026-07-05T23:43:38-00:00",
             "relevancia": 0.6,
             "destaque": false,
             "tags": [
-              "saude",
-              "vacina",
-              "pneumonia"
+              "metro",
+              "belo horizonte",
+              "obras"
             ]
           },
           {
-            "id": "noticias-2026-07-05-2100-07",
-            "titulo": "Doenças respiratórias lotam hospitais em Sorocaba",
-            "resumo": "Os hospitais e unidades de pronto atendimento em Sorocaba estão superlotados devido ao aumento de doenças respiratórias.",
-            "imagem": "https://s2-g1.glbimg.com/mCpqn6bIG2UG_bzwv5xS48Jqqg0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/T/hd3xXBRheEkXQ78GQ5MQ/sor-tn2-040726-frame-64626.jpeg",
-            "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/05/doencas-respiratorias-lotam-hospitais-de-sorocaba-medicos-alertam-para-automedicacao.ghtml",
+            "id": "noticias-2026-07-06-0000-02",
+            "titulo": "Fragmento de drone encontrado em avião",
+            "resumo": "Um fragmento compatível com uma peça de drone foi encontrado em um avião da Aerolíneas Argentinas que pousou no Aeroporto Internacional do Galeão, no Rio de Janeiro.",
+            "imagem": "https://s2-g1.glbimg.com/QDb0TmASgB8gEICVCQWoYepPetI=/s.glbimg.com/jo/g1/f/original/2014/08/28/galeao_maio2014-0034.jpg",
+            "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/05/fragmento-de-drone-e-encontrado-em-aviao-da-aerolineas-argentinas-que-pousou-no-galeao.ghtml",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-05T20:00:08.000Z",
+            "publicado_em": "2026-07-05T23:43:20-00:00",
+            "relevancia": 0.7,
+            "destaque": false,
+            "tags": [
+              "aviao",
+              "drone",
+              "galeao"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-06-0000-03",
+            "titulo": "Eliminação do Brasil na Copa do Mundo",
+            "resumo": "O Brasil foi eliminado da Copa do Mundo após perder para a Noruega por 2 a 1 nas oitavas de final.",
+            "imagem": "https://s2-g1.glbimg.com/avumVILTq5JryAaRScrvBDiO5LY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/y/Zyn79tTAqkYrXxO0qYoQ/2026-07-05t223545z-978672979-up1em751qrkyl-rtrmadp-3-soccer-worldcup-bra-nor.jpg",
+            "link": "https://g1.globo.com/mundo/noticia/2026/07/05/noruega-ja-ganhou-copa.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T23:27:52-00:00",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "copa do mundo",
+              "brasil",
+              "noruega"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-06-0000-04",
+            "titulo": "IPTU no Rio de Janeiro",
+            "resumo": "A sexta cota do IPTU no Rio de Janeiro vence na terça-feira e os moradores podem baixar e imprimir a guia de pagamento no site Carioca Digital.",
+            "imagem": "https://s2-g1.glbimg.com/l7eWoykiNsAU6xOmatG9bmcn56U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/3/BJPYTVSJCoTTcSt9V26A/03laje0.jpeg",
+            "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/05/iptu-sexta-cota-vence-na-terca-feira-no-rio-guia-para-pagamento-esta-no-site-carioca-digital.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T23:08:21-00:00",
             "relevancia": 0.5,
             "destaque": false,
             "tags": [
-              "saude",
-              "doencas",
-              "sorocaba"
+              "iptu",
+              "rio de janeiro",
+              "carioca digital"
             ]
           },
           {
-            "id": "noticias-2026-07-05-2100-08",
-            "titulo": "Operação apreende veículos irregulares em Cabo Frio",
-            "resumo": "Uma operação realizada em Cabo Frio resultou na apreensão de 13 motocicletas e dois automóveis em situação irregular.",
-            "imagem": "https://s2-g1.glbimg.com/aFHNVX5gkukzgP_wBGppLihZLCU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/t/T55ywwQCiRvFsJRdebaQ/montagem-1-ok.jpg",
-            "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/07/05/operacao-apreende-13-motos-e-dois-carros-irregulares-em-cabo-frio.ghtml",
+            "id": "noticias-2026-07-06-0000-05",
+            "titulo": "Acidente em Piauí",
+            "resumo": "Um homem morreu após ser atropelado por um caminhão na PI-115, em Piauí.",
+            "imagem": "https://s2-g1.glbimg.com/Zb3Ktu-Z4GWDbEVd47z4qapg_kc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/P/wHAkP8TjWh6vWUrKouQQ/edicao-imagens-g1-2026-07-05t200826.340.jpg",
+            "link": "https://g1.globo.com/pi/piaui/noticia/2026/07/05/homem-morre-atropelado.ghtml",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-05T19:59:54.000Z",
+            "publicado_em": "2026-07-05T23:04:15-00:00",
             "relevancia": 0.4,
             "destaque": false,
             "tags": [
-              "seguranca",
-              "operacao",
-              "cabofrio"
+              "acidente",
+              "piaui",
+              "caminhao"
             ]
           },
           {
-            "id": "noticias-2026-07-05-2100-09",
-            "titulo": "Homem morre afogado em praia de Boa Viagem",
-            "resumo": "Um homem morreu afogado na praia de Boa Viagem, no Recife. O corpo foi encontrado perto do Quiosque 28.",
-            "imagem": "https://s2-g1.glbimg.com/yK3czgO3ynq7Vg_uCzKF5KyHpjk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/8/riVx6OTRSBclW8euDiRA/boaviagem.jpg",
-            "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/07/05/homem-morre-afogado-na-praia-de-boa-viagem-no-recife.ghtml",
+            "id": "noticias-2026-07-06-0000-06",
+            "titulo": "Programação gratuita em Santos",
+            "resumo": "A cidade de Santos oferecerá uma programação gratuita em parques durante as férias de julho.",
+            "imagem": "https://s2-g1.glbimg.com/vv_Z74rrM8FpysA2-Zm8WVV-Ipc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/x/Wd9OixRSCPjjDko2NrTg/jardim-botanico-santos-torre-de-observacao-de-aves.jpg",
+            "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/07/05/santos-oferece-programacao-gratuita-em-parques-durante-as-ferias-de-julho-confira.ghtml",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-05T19:55:51.000Z",
+            "publicado_em": "2026-07-05T23:00:08-00:00",
             "relevancia": 0.3,
             "destaque": false,
             "tags": [
-              "morte",
-              "afogamento",
-              "boaviagem"
+              "santos",
+              "programacao",
+              "parques"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-06-0000-07",
+            "titulo": "Carro apreendido pela Justiça",
+            "resumo": "Uma mulher teve seu carro apreendido pela Justiça após descobrir que o veículo estava financiado para outra pessoa.",
+            "imagem": "https://s2-g1.glbimg.com/I6xdIddlEcM8c7zXD3cznHLJvpM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/R/X7l61USgK2QdG6mLBpsg/golpe-carro.jpg",
+            "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/07/05/mulher-tem-carro-apreendido-pela-justica-e-descobre-que-veiculo-estava-financiado-para-outra-pessoa-no-interior-de-sp.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T22:52:46-00:00",
+            "relevancia": 0.2,
+            "destaque": false,
+            "tags": [
+              "carro",
+              "justica",
+              "financiamento"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-06-0000-08",
+            "titulo": "Memes sobre a derrota do Brasil",
+            "resumo": "A eliminação do Brasil na Copa do Mundo rendeu uma enxurrada de memes nas redes sociais.",
+            "imagem": "https://s2-g1.glbimg.com/TvFSmN2cQSrBQwLnBxwnUuh0np4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/i/BhFKfhTYWdPZ7a074Fxw/brazil.jpg",
+            "link": "https://g1.globo.com/mundo/noticia/2026/07/05/penalti-perdido-e-neymar-na-partida-veja-memes-que-marcaram-derrota-do-brasil-para-noruega.ghtml",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T22:47:45-00:00",
+            "relevancia": 0.1,
+            "destaque": false,
+            "tags": [
+              "memes",
+              "brasil",
+              "copa do mundo"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-06-0000-09",
+            "titulo": "Trump e a FIFA",
+            "resumo": "O presidente dos EUA, Donald Trump, pediu à FIFA que revisse a suspensão de um jogador americano.",
+            "imagem": null,
+            "link": "https://www.nytimes.com/2026/07/05/us/trump-fifa-balogun-world-cup.html",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T22:41:52-00:00",
+            "relevancia": 0.9,
+            "destaque": false,
+            "tags": [
+              "trump",
+              "fifa",
+              "suspensao"
             ]
           }
         ]
