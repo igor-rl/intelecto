@@ -1,385 +1,470 @@
 {
-  "jornal": {
-    "nome": "Intelecto News",
-    "atualizado_em": "2026-07-06T13:00:00.000Z",
-    "edicao": "2026-07-06",
-    "itens_urgentes": {},
-    "destaques": [
-      {
-        "id": "noticias-2026-07-06-1600-01",
-        "titulo": "Intervenção de Trump na Copa do Mundo aumenta tensão com a Europa",
-        "link": "https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html",
-        "categoria_slug": "noticias"
-      },
-      {
-        "id": "tecnologia-2026-07-06-1000-01",
-        "titulo": "Android: fechar apps para limpar RAM pode piorar seu celular",
-        "link": "https://gizbr.uol.com.br/limpar-ram-android-prejudica-desempenho/",
-        "categoria_slug": "tecnologia"
-      },
-      {
-        "id": "atualidades-2026-07-06-1000-01",
-        "titulo": "Brasil teve 120 mil mortes associadas a ondas de calor em 20 anos",
-        "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
-        "categoria_slug": "atualidades"
-      },
-      {
-        "id": "ciencia-2026-07-06-1000-01",
-        "titulo": "Canetas 'emagrecedoras' podem ajudar no tratamento do câncer",
-        "link": "https://super.abril.com.br/saude/canetas-emagrecedoras-podem-ajudar-a-tratar-o-cancer-veja-o-que-a-ciencia-ja-sabe/",
-        "categoria_slug": "ciencia"
-      }
-    ],
-    "capa": {
-      "categoria_slug": "noticias",
-      "categoria_nome": "Notícias",
+  "nome": "Intelecto News",
+  "atualizado_em": "2026-07-06T13:00:00.000Z",
+  "edicao": "2026-07-06",
+  "itens_urgentes": {},
+  "destaques": [
+    {
+      "id": "noticias-2026-07-06-1600-01",
       "titulo": "Intervenção de Trump na Copa do Mundo aumenta tensão com a Europa",
-      "subtitulo": "A decisão de reverter a suspensão de um jogador causou mal-estar na Europa, aumentando a tensão geopolítica com os EUA...",
-      "resumo": "A decisão de reverter a suspensão de um jogador causou mal-estar na Europa, aumentando a tensão geopolítica com os EUA. A medida foi vista como uma interferência indevida na competição esportiva.",
-      "imagem": null,
       "link": "https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html",
-      "fonte": "Desconhecida",
-      "publicado_em": "2026-07-06T15:52:46.000Z"
+      "categoria_slug": "noticias"
     },
-    "categorias": {
-      "noticias": {
-        "slug": "noticias",
-        "nome": "Notícias",
-        "artigos": [
-          {
-            "id": "noticias-2026-07-06-1600-01",
-            "titulo": "Intervenção de Trump na Copa do Mundo aumenta tensão com a Europa",
-            "resumo": "A decisão de reverter a suspensão de um jogador causou mal-estar na Europa, aumentando a tensão geopolítica com os EUA. A medida foi vista como uma interferência indevida na competição esportiva.",
-            "imagem": null,
-            "link": "https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-06T15:52:46.000Z",
-            "relevancia": 0.8,
-            "destaque": true,
-            "tags": [
-              "política",
-              "esportes",
-              "eua"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-06-1600-02",
-            "titulo": "Juiz dos EUA rejeita pedido de Elon Musk para anular veredito sobre fraude",
-            "resumo": "Um juiz federal nos EUA rejeitou o pedido de Elon Musk para anular o veredito de um júri que o considerou culpado de fraude contra investidores do Twitter.",
-            "imagem": "https://s2-g1.glbimg.com/FRrYHhKHhpIpbIXB2qbm0Qv8040=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/G/N/Gl9pAoRHyuIIySx02SBw/2025-03-20t143340z-580507215-rc2tfca9bece-rtrmadp-3-india-x-censorship.jpg",
-            "link": "https://g1.globo.com/tecnologia/noticia/2026/07/06/juiz-dos-eua-rejeita-pedido-de-elon-musk-para-anular-veredito-sobre-fraude-contra-investidores-do-twitter.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-06T15:35:53.000Z",
-            "relevancia": 0.7,
-            "destaque": false,
-            "tags": [
-              "tecnologia",
-              "eua",
-              "justiça"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-06-1600-03",
-            "titulo": "Empresário americano Bryan Johnson revela ter gastrite autoimune",
-            "resumo": "Bryan Johnson, conhecido por sua busca pela juventude, revelou que descobriu ter gastrite autoimune. Ele compartilhou a notícia em uma rede social.",
-            "imagem": null,
-            "link": "https://g1.globo.com/saude/noticia/2026/07/06/empresario-americano-bryan-johnson-revela-ter-gastrite-autoimune.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-06T15:36:52.000Z",
-            "relevancia": 0.4,
-            "destaque": false,
-            "tags": [
-              "saúde",
-              "eua",
-              "celebridades"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-06-1600-04",
-            "titulo": "Mulher morre após ser espancada por ex-companheiro em Jaboticabal, SP",
-            "resumo": "Uma mulher de 40 anos morreu após ser espancada pelo ex-companheiro em Jaboticabal, SP. A vítima havia sofrido agressões seguidas.",
-            "imagem": "https://s2-g1.glbimg.com/dEUDsJUJ6Nd1PLu3jGzHvFo22c4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/r/Rs1vjBTvAx0XeMPIsp0Q/molduras-g1-.png",
-            "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/06/mulher-morre-apos-ser-espancada-por-ex-companheiro-em-jaboticabal-sp.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-06T15:32:09.000Z",
-            "relevancia": 0.6,
-            "destaque": false,
-            "tags": [
-              "violência",
-              "feminicídio",
-              "brasil"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-06-1600-05",
-            "titulo": "MP e Defensoria pedem restituição em dobro para clientes afetados por falhas no faturamento em contas de energia no RN",
-            "resumo": "O Ministério Público e a Defensoria Pública do RN pediram restituição em dobro para clientes afetados por falhas no faturamento em contas de energia no estado.",
-            "imagem": "https://s2-g1.glbimg.com/YS06l5BVor16D6lMe_bNnW5udZE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/p/AswGOfSkC8X4tBXAfwXg/captura-de-tela-2026-03-28-212041.jpg",
-            "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/06/mp-e-defensoria-pedem-restituicao-em-dobro-para-clientes-afetados-por-falhas-no-faturamento-em-contas-de-energia-no-rn.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-06T15:34:33.000Z",
-            "relevancia": 0.5,
-            "destaque": false,
-            "tags": [
-              "energia",
-              "rn",
-              "justiça"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-06-1600-06",
-            "titulo": "Homem morre durante abordagem da PM no centro de Palmas",
-            "resumo": "Um homem de 32 anos morreu após ser baleado durante uma abordagem da Polícia Militar em Palmas.",
-            "imagem": "https://s2-g1.glbimg.com/pZMLqvkJysyGPP7yUJas6wG1ZhE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/P/aj2V1PQaKANmaSHDvYFw/anotacao-2026-07-06-123757.png",
-            "link": "https://g1.globo.com/to/tocantins/noticia/2026/07/06/homem-morre-durante-abordagem-da-pm-no-centro-de-palmas.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-06T15:39:28.000Z",
-            "relevancia": 0.6,
-            "destaque": false,
-            "tags": [
-              "violência",
-              "pm",
-              "brasil"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-06-1600-07",
-            "titulo": "Batida entre embarcações no Rio Araguaia deixa seis feridos",
-            "resumo": "Uma batida entre duas embarcações deixou seis pessoas feridas no Rio Araguaia, em Aruanã, no noroeste de Goiás.",
-            "imagem": "https://s2-g1.glbimg.com/zdrCWyf0yqp8MbDPaaaGSwIk2Gc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/z/otsUktRK2tV6hGAWt4AA/embarcacoes.jpg",
-            "link": "https://g1.globo.com/go/goias/noticia/2026/07/06/batida-entre-embarcacoes-no-rio-araguaia-deixa-feridos.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-06T15:45:45.000Z",
-            "relevancia": 0.5,
-            "destaque": false,
-            "tags": [
-              "acidente",
-              "rio araguaia",
-              "goiás"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-06-1600-08",
-            "titulo": "Jovem encontrada morta em apartamento havia se mudado de cidade para fugir de ex",
-            "resumo": "Uma jovem de 21 anos foi encontrada morta em seu apartamento em Lajeado, RS. Ela havia se mudado recentemente para a cidade para fugir de seu ex-companheiro.",
-            "imagem": "https://s2-g1.glbimg.com/ITzlYChJgr3wuwX06QBij3fWmec=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/e/4BchZCQ5qysYxNDgi3hQ/g1-5-.jpg",
-            "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/06/jovem-encontrada-morta-em-apartamento-havia-se-mudado-de-cidade-para-fugir-de-ex-relata-familia.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-06T15:48:40.000Z",
-            "relevancia": 0.7,
-            "destaque": false,
-            "tags": [
-              "violência",
-              "feminicídio",
-              "rs"
-            ]
-          },
-          {
-            "id": "noticias-2026-07-06-1600-09",
-            "titulo": "Venezuelanos no RS organizam doações para vítimas de terremotos",
-            "resumo": "Venezuelanos e brasileiros residentes no RS organizaram uma rede de solidariedade para arrecadar e enviar doações às vítimas dos terremotos que atingiram a Venezuela.",
-            "imagem": "https://s2-g1.glbimg.com/kWrtQbBcbj3hyJN2hBAnHO7gi_Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/E/F39aOoS42vdgKBqfgfrg/venezuela-canoas-ja-0307-2-0085.mov-frame-27.png",
-            "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/06/rs-arrecada-doacoes-vitimas-terremotos-venezuela.ghtml",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-06T15:28:48.000Z",
-            "relevancia": 0.4,
-            "destaque": false,
-            "tags": [
-              "solidariedade",
-              "venezuela",
-              "rs"
-            ]
-          }
-        ]
-      },
-      "ciencia": {
-        "slug": "ciencia",
-        "nome": "Ciência",
-        "artigos": [
-          {
-            "id": "ciencia-2026-07-06-1000-01",
-            "titulo": "Canetas 'emagrecedoras' podem ajudar no tratamento do câncer",
-            "resumo": "Estudos sugerem que medicamentos como semaglutida e tirzepatida podem reduzir o risco da doença ou beneficiar pacientes, mas são necessárias mais evidências.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/0506-Ozempic-layout_site.jpg",
-            "link": "https://super.abril.com.br/saude/canetas-emagrecedoras-podem-ajudar-a-tratar-o-cancer-veja-o-que-a-ciencia-ja-sabe/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-05T21:00:26-03:00",
-            "relevancia": 0.8,
-            "destaque": true,
-            "tags": [
-              "saude",
-              "cancer",
-              "medicamentos"
-            ]
-          },
-          {
-            "id": "ciencia-2026-07-06-1000-02",
-            "titulo": "Megalodon: Redescoberta de fóssil revela detalhes sobre o lendário tubarão gigante",
-            "resumo": "Estudo confirma que esses animais poderiam ter mais de 24 metros de comprimento – mais do dobro dos maiores tubarões atuais.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2022/06/SI_megalodon_site.jpg",
-            "link": "https://super.abril.com.br/ciencia/megalodon-redescoberta-de-fossil-revela-detalhes-sobre-o-lendario-tubarao-gigante/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-05T19:00:42-03:00",
-            "relevancia": 0.6,
-            "destaque": false,
-            "tags": [
-              "tubarao",
-              "megalodon",
-              "fossil"
-            ]
-          },
-          {
-            "id": "ciencia-2026-07-06-1000-03",
-            "titulo": "Hubble detecta luz de galáxia primitiva que astrônomos achavam ser 'impossível observar'",
-            "resumo": "A radiação sobreviveu a uma viagem de mais de 12 bilhões de anos por um Universo que, em teoria, ainda deveria impedir sua passagem.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-hubble-detecta-luz-layout_site-CAPA.jpg",
-            "link": "https://super.abril.com.br/ciencia/hubble-detecta-luz-de-galaxia-primitiva-que-astronomos-achavam-ser-impossivel-observar/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T19:00:16-03:00",
-            "relevancia": 0.7,
-            "destaque": false,
-            "tags": [
-              "hubble",
-              "galaxia",
-              "astronomia"
-            ]
-          }
-        ]
-      },
-      "futebol": {
-        "slug": "futebol",
-        "nome": "Futebol",
-        "artigos": [
-          {
-            "id": "f1",
-            "titulo": "Clube paulista anuncia contratação para a próxima temporada",
-            "resumo": "Reforço chega para disputar posição no meio-campo a partir do segundo semestre.",
-            "imagem": null,
-            "link": "#",
-            "fonte": "ge.globo",
-            "publicado_em": "2026-06-30T12:00:00-03:00"
-          }
-        ]
-      },
-      "curiosidades": {
-        "slug": "curiosidades",
-        "nome": "Curiosidades",
-        "artigos": [
-          {
-            "id": "u1",
-            "titulo": "Por que bocejamos? Ciência ainda não tem resposta definitiva",
-            "resumo": "Diferentes teorias tentam explicar o fenômeno, da regulação térmica à empatia social.",
-            "imagem": null,
-            "link": "#",
-            "fonte": "Mundo Estranho",
-            "publicado_em": "2026-06-29T18:00:00-03:00"
-          }
-        ]
-      },
-      "tecnologia": {
-        "slug": "tecnologia",
-        "nome": "Tecnologia",
-        "artigos": [
-          {
-            "id": "tecnologia-2026-07-06-1000-01",
-            "titulo": "Android: fechar apps para limpar RAM pode piorar seu celular",
-            "resumo": "Liberar memória RAM no Android é desnecessário e pode prejudicar o desempenho. Saiba por que o sistema gerencia RAM automaticamente e quais práticas realmente funcionam.",
-            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
-            "link": "https://gizbr.uol.com.br/limpar-ram-android-prejudica-desempenho/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T16:57:25-03:00",
-            "relevancia": 0.9,
-            "destaque": true,
-            "tags": [
-              "android",
-              "ram",
-              "desempenho"
-            ]
-          },
-          {
-            "id": "tecnologia-2026-07-06-1000-02",
-            "titulo": "Google passou a guardar mais dados de busca com IA",
-            "resumo": "Nova configuração, ativada por padrão, armazena mídias de usuários e histórico médico. O sistema, avaliado por terapeutas, supera o ChatGPT em empatia e personalização, agindo antes mesmo que o usuário perceba a necessidade de ajuda.",
-            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
-            "link": "https://gizbr.uol.com.br/google-coleta-audios-imagens-treinar-ia/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T13:43:04-03:00",
-            "relevancia": 0.8,
-            "destaque": false,
-            "tags": [
-              "google",
-              "ia",
-              "privacidade"
-            ]
-          }
-        ]
-      },
-      "cultura": {
-        "slug": "cultura",
-        "nome": "Cultura",
-        "artigos": [
-          {
-            "id": "cultura-2026-07-06-1000-01",
-            "titulo": "Por que Jaspion fez mais sucesso no Brasil do que no Japão?",
-            "resumo": "A morte do ator Hikaru Kurosaki ressuscitou o interesse pelo personagem. Fora daqui, porém, ele nunca teve o mesmo impacto.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-jaspion-layout_site.jpg",
-            "link": "https://super.abril.com.br/cultura/por-que-jaspion-fez-mais-sucesso-no-brasil-do-que-no-japao/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-02T20:00:08-03:00",
-            "relevancia": 0.7,
-            "destaque": true,
-            "tags": [
-              "jaspion",
-              "brasil",
-              "japao"
-            ]
-          }
-        ]
-      },
-      "atualidades": {
-        "slug": "atualidades",
-        "nome": "Atualidades",
-        "artigos": [
-          {
-            "id": "atualidades-2026-07-06-1000-01",
-            "titulo": "Brasil teve 120 mil mortes associadas a ondas de calor em 20 anos",
-            "resumo": "Pesquisa aponta maior risco para idosos e população vulnerável",
-            "imagem": "https://imagens.ebc.com.br/PqG3Y524AlwcKUFOacs9YtjVWMU=/754x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_dsc4326.jpg",
-            "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T10:35:20-03:00",
-            "relevancia": 0.9,
-            "destaque": true,
-            "tags": [
-              "brasil",
-              "ondas de calor",
-              "mortalidade"
-            ]
-          }
-        ]
-      },
-      "comportamento": {
-        "slug": "comportamento",
-        "nome": "Comportamento & Sociedade",
-        "artigos": [
-          {
-            "id": "comportamento-2026-07-06-1000-01",
-            "titulo": "Este hábito simples que aumenta admiração e bem-estar",
-            "resumo": "Pesquisa verificou que o foco intencional em admiração produz benefícios físicos e emocionais mensuráveis. Adultos mais velhos relataram mais alegria e gratidão, além de menor estresse cotidiano.",
-            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
-            "link": "https://gizbr.uol.com.br/caminhada-admiracao-beneficios-estresse/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-05T20:18:42-03:00",
-            "relevancia": 0.8,
-            "destaque": true,
-            "tags": [
-              "admiracao",
-              "bem-estar",
-              "estresse"
-            ]
-          }
-        ]
-      }
+    {
+      "id": "tecnologia-2026-07-06-1000-01",
+      "titulo": "Android: fechar apps para limpar RAM pode piorar seu celular",
+      "link": "https://gizbr.uol.com.br/limpar-ram-android-prejudica-desempenho/",
+      "categoria_slug": "tecnologia"
+    },
+    {
+      "id": "atualidades-2026-07-06-1000-01",
+      "titulo": "Brasil teve 120 mil mortes associadas a ondas de calor em 20 anos",
+      "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
+      "categoria_slug": "atualidades"
+    },
+    {
+      "id": "ciencia-2026-07-06-1000-01",
+      "titulo": "Canetas 'emagrecedoras' podem ajudar no tratamento do câncer",
+      "link": "https://super.abril.com.br/saude/canetas-emagrecedoras-podem-ajudar-a-tratar-o-cancer-veja-o-que-a-ciencia-ja-sabe/",
+      "categoria_slug": "ciencia"
+    }
+  ],
+  "capa": {
+    "categoria_slug": "noticias",
+    "categoria_nome": "Notícias",
+    "titulo": "Intervenção de Trump na Copa do Mundo aumenta tensão com a Europa",
+    "subtitulo": "A decisão de reverter a suspensão de um jogador causou mal-estar na Europa, aumentando a tensão geopolítica com os EUA...",
+    "resumo": "A decisão de reverter a suspensão de um jogador causou mal-estar na Europa, aumentando a tensão geopolítica com os EUA. A medida foi vista como uma interferência indevida na competição esportiva.",
+    "imagem": null,
+    "link": "https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html",
+    "fonte": "Desconhecida",
+    "publicado_em": "2026-07-06T15:52:46.000Z"
+  },
+  "categorias": {
+    "noticias": {
+      "slug": "noticias",
+      "nome": "Notícias",
+      "artigos": [
+        {
+          "id": "noticias-2026-07-06-1600-01",
+          "titulo": "Intervenção de Trump na Copa do Mundo aumenta tensão com a Europa",
+          "resumo": "A decisão de reverter a suspensão de um jogador causou mal-estar na Europa, aumentando a tensão geopolítica com os EUA. A medida foi vista como uma interferência indevida na competição esportiva.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html",
+          "fonte": "Desconhecida",
+          "publicado_em": "2026-07-06T15:52:46.000Z",
+          "relevancia": 0.8,
+          "destaque": true,
+          "tags": [
+            "política",
+            "esportes",
+            "eua"
+          ]
+        },
+        {
+          "id": "noticias-2026-07-06-1600-02",
+          "titulo": "Juiz dos EUA rejeita pedido de Elon Musk para anular veredito sobre fraude",
+          "resumo": "Um juiz federal nos EUA rejeitou o pedido de Elon Musk para anular o veredito de um júri que o considerou culpado de fraude contra investidores do Twitter.",
+          "imagem": "https://s2-g1.glbimg.com/FRrYHhKHhpIpbIXB2qbm0Qv8040=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/G/N/Gl9pAoRHyuIIySx02SBw/2025-03-20t143340z-580507215-rc2tfca9bece-rtrmadp-3-india-x-censorship.jpg",
+          "link": "https://g1.globo.com/tecnologia/noticia/2026/07/06/juiz-dos-eua-rejeita-pedido-de-elon-musk-para-anular-veredito-sobre-fraude-contra-investidores-do-twitter.ghtml",
+          "fonte": "Desconhecida",
+          "publicado_em": "2026-07-06T15:35:53.000Z",
+          "relevancia": 0.7,
+          "destaque": false,
+          "tags": [
+            "tecnologia",
+            "eua",
+            "justiça"
+          ]
+        },
+        {
+          "id": "noticias-2026-07-06-1600-03",
+          "titulo": "Empresário americano Bryan Johnson revela ter gastrite autoimune",
+          "resumo": "Bryan Johnson, conhecido por sua busca pela juventude, revelou que descobriu ter gastrite autoimune. Ele compartilhou a notícia em uma rede social.",
+          "imagem": null,
+          "link": "https://g1.globo.com/saude/noticia/2026/07/06/empresario-americano-bryan-johnson-revela-ter-gastrite-autoimune.ghtml",
+          "fonte": "Desconhecida",
+          "publicado_em": "2026-07-06T15:36:52.000Z",
+          "relevancia": 0.4,
+          "destaque": false,
+          "tags": [
+            "saúde",
+            "eua",
+            "celebridades"
+          ]
+        },
+        {
+          "id": "noticias-2026-07-06-1600-04",
+          "titulo": "Mulher morre após ser espancada por ex-companheiro em Jaboticabal, SP",
+          "resumo": "Uma mulher de 40 anos morreu após ser espancada pelo ex-companheiro em Jaboticabal, SP. A vítima havia sofrido agressões seguidas.",
+          "imagem": "https://s2-g1.glbimg.com/dEUDsJUJ6Nd1PLu3jGzHvFo22c4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/r/Rs1vjBTvAx0XeMPIsp0Q/molduras-g1-.png",
+          "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/06/mulher-morre-apos-ser-espancada-por-ex-companheiro-em-jaboticabal-sp.ghtml",
+          "fonte": "Desconhecida",
+          "publicado_em": "2026-07-06T15:32:09.000Z",
+          "relevancia": 0.6,
+          "destaque": false,
+          "tags": [
+            "violência",
+            "feminicídio",
+            "brasil"
+          ]
+        },
+        {
+          "id": "noticias-2026-07-06-1600-05",
+          "titulo": "MP e Defensoria pedem restituição em dobro para clientes afetados por falhas no faturamento em contas de energia no RN",
+          "resumo": "O Ministério Público e a Defensoria Pública do RN pediram restituição em dobro para clientes afetados por falhas no faturamento em contas de energia no estado.",
+          "imagem": "https://s2-g1.glbimg.com/YS06l5BVor16D6lMe_bNnW5udZE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/p/AswGOfSkC8X4tBXAfwXg/captura-de-tela-2026-03-28-212041.jpg",
+          "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/06/mp-e-defensoria-pedem-restituicao-em-dobro-para-clientes-afetados-por-falhas-no-faturamento-em-contas-de-energia-no-rn.ghtml",
+          "fonte": "Desconhecida",
+          "publicado_em": "2026-07-06T15:34:33.000Z",
+          "relevancia": 0.5,
+          "destaque": false,
+          "tags": [
+            "energia",
+            "rn",
+            "justiça"
+          ]
+        },
+        {
+          "id": "noticias-2026-07-06-1600-06",
+          "titulo": "Homem morre durante abordagem da PM no centro de Palmas",
+          "resumo": "Um homem de 32 anos morreu após ser baleado durante uma abordagem da Polícia Militar em Palmas.",
+          "imagem": "https://s2-g1.glbimg.com/pZMLqvkJysyGPP7yUJas6wG1ZhE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/P/aj2V1PQaKANmaSHDvYFw/anotacao-2026-07-06-123757.png",
+          "link": "https://g1.globo.com/to/tocantins/noticia/2026/07/06/homem-morre-durante-abordagem-da-pm-no-centro-de-palmas.ghtml",
+          "fonte": "Desconhecida",
+          "publicado_em": "2026-07-06T15:39:28.000Z",
+          "relevancia": 0.6,
+          "destaque": false,
+          "tags": [
+            "violência",
+            "pm",
+            "brasil"
+          ]
+        },
+        {
+          "id": "noticias-2026-07-06-1600-07",
+          "titulo": "Batida entre embarcações no Rio Araguaia deixa seis feridos",
+          "resumo": "Uma batida entre duas embarcações deixou seis pessoas feridas no Rio Araguaia, em Aruanã, no noroeste de Goiás.",
+          "imagem": "https://s2-g1.glbimg.com/zdrCWyf0yqp8MbDPaaaGSwIk2Gc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/z/otsUktRK2tV6hGAWt4AA/embarcacoes.jpg",
+          "link": "https://g1.globo.com/go/goias/noticia/2026/07/06/batida-entre-embarcacoes-no-rio-araguaia-deixa-feridos.ghtml",
+          "fonte": "Desconhecida",
+          "publicado_em": "2026-07-06T15:45:45.000Z",
+          "relevancia": 0.5,
+          "destaque": false,
+          "tags": [
+            "acidente",
+            "rio araguaia",
+            "goiás"
+          ]
+        },
+        {
+          "id": "noticias-2026-07-06-1600-08",
+          "titulo": "Jovem encontrada morta em apartamento havia se mudado de cidade para fugir de ex",
+          "resumo": "Uma jovem de 21 anos foi encontrada morta em seu apartamento em Lajeado, RS. Ela havia se mudado recentemente para a cidade para fugir de seu ex-companheiro.",
+          "imagem": "https://s2-g1.glbimg.com/ITzlYChJgr3wuwX06QBij3fWmec=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/e/4BchZCQ5qysYxNDgi3hQ/g1-5-.jpg",
+          "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/06/jovem-encontrada-morta-em-apartamento-havia-se-mudado-de-cidade-para-fugir-de-ex-relata-familia.ghtml",
+          "fonte": "Desconhecida",
+          "publicado_em": "2026-07-06T15:48:40.000Z",
+          "relevancia": 0.7,
+          "destaque": false,
+          "tags": [
+            "violência",
+            "feminicídio",
+            "rs"
+          ]
+        },
+        {
+          "id": "noticias-2026-07-06-1600-09",
+          "titulo": "Venezuelanos no RS organizam doações para vítimas de terremotos",
+          "resumo": "Venezuelanos e brasileiros residentes no RS organizaram uma rede de solidariedade para arrecadar e enviar doações às vítimas dos terremotos que atingiram a Venezuela.",
+          "imagem": "https://s2-g1.glbimg.com/kWrtQbBcbj3hyJN2hBAnHO7gi_Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/E/F39aOoS42vdgKBqfgfrg/venezuela-canoas-ja-0307-2-0085.mov-frame-27.png",
+          "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/06/rs-arrecada-doacoes-vitimas-terremotos-venezuela.ghtml",
+          "fonte": "Desconhecida",
+          "publicado_em": "2026-07-06T15:28:48.000Z",
+          "relevancia": 0.4,
+          "destaque": false,
+          "tags": [
+            "solidariedade",
+            "venezuela",
+            "rs"
+          ]
+        }
+      ]
+    },
+    "ciencia": {
+      "slug": "ciencia",
+      "nome": "Ciência",
+      "artigos": [
+        {
+          "id": "ciencia-2026-07-06-1000-01",
+          "titulo": "Canetas 'emagrecedoras' podem ajudar no tratamento do câncer",
+          "resumo": "Estudos sugerem que medicamentos como semaglutida e tirzepatida podem reduzir o risco da doença ou beneficiar pacientes, mas são necessárias mais evidências.",
+          "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/0506-Ozempic-layout_site.jpg",
+          "link": "https://super.abril.com.br/saude/canetas-emagrecedoras-podem-ajudar-a-tratar-o-cancer-veja-o-que-a-ciencia-ja-sabe/",
+          "fonte": "Desconhecida",
+          "publicado_em": "2026-07-05T21:00:26-03:00",
+          "relevancia": 0.8,
+          "destaque": true,
+          "tags": [
+            "saude",
+            "cancer",
+            "medicamentos"
+          ]
+        },
+        {
+          "id": "ciencia-2026-07-06-1000-02",
+          "titulo": "Megalodon: Redescoberta de fóssil revela detalhes sobre o lendário tubarão gigante",
+          "resumo": "Estudo confirma que esses animais poderiam ter mais de 24 metros de comprimento – mais do dobro dos maiores tubarões atuais.",
+          "imagem": "https://super.abril.com.br/wp-content/uploads/2022/06/SI_megalodon_site.jpg",
+          "link": "https://super.abril.com.br/ciencia/megalodon-redescoberta-de-fossil-revela-detalhes-sobre-o-lendario-tubarao-gigante/",
+          "fonte": "Desconhecida",
+          "publicado_em": "2026-07-05T19:00:42-03:00",
+          "relevancia": 0.6,
+          "destaque": false,
+          "tags": [
+            "tubarao",
+            "megalodon",
+            "fossil"
+          ]
+        },
+        {
+          "id": "ciencia-2026-07-06-1000-03",
+          "titulo": "Hubble detecta luz de galáxia primitiva que astrônomos achavam ser 'impossível observar'",
+          "resumo": "A radiação sobreviveu a uma viagem de mais de 12 bilhões de anos por um Universo que, em teoria, ainda deveria impedir sua passagem.",
+          "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-hubble-detecta-luz-layout_site-CAPA.jpg",
+          "link": "https://super.abril.com.br/ciencia/hubble-detecta-luz-de-galaxia-primitiva-que-astronomos-achavam-ser-impossivel-observar/",
+          "fonte": "Desconhecida",
+          "publicado_em": "2026-07-03T19:00:16-03:00",
+          "relevancia": 0.7,
+          "destaque": false,
+          "tags": [
+            "hubble",
+            "galaxia",
+            "astronomia"
+          ]
+        }
+      ]
+    },
+    "futebol": {
+      "slug": "futebol",
+      "nome": "Futebol",
+      "artigos": [
+        {
+          "id": "f1",
+          "titulo": "Clube paulista anuncia contratação para a próxima temporada",
+          "resumo": "Reforço chega para disputar posição no meio-campo a partir do segundo semestre.",
+          "imagem": null,
+          "link": "#",
+          "fonte": "ge.globo",
+          "publicado_em": "2026-06-30T12:00:00-03:00"
+        }
+      ]
+    },
+    "curiosidades": {
+      "slug": "curiosidades",
+      "nome": "Curiosidades",
+      "artigos": [
+        {
+          "id": "u1",
+          "titulo": "Por que bocejamos? Ciência ainda não tem resposta definitiva",
+          "resumo": "Diferentes teorias tentam explicar o fenômeno, da regulação térmica à empatia social.",
+          "imagem": null,
+          "link": "#",
+          "fonte": "Mundo Estranho",
+          "publicado_em": "2026-06-29T18:00:00-03:00"
+        }
+      ]
+    },
+    "tecnologia": {
+      "slug": "tecnologia",
+      "nome": "Tecnologia",
+      "artigos": [
+        {
+          "id": "tecnologia-2026-07-06-1000-01",
+          "titulo": "Android: fechar apps para limpar RAM pode piorar seu celular",
+          "resumo": "Liberar memória RAM no Android é desnecessário e pode prejudicar o desempenho. Saiba por que o sistema gerencia RAM automaticamente e quais práticas realmente funcionam.",
+          "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+          "link": "https://gizbr.uol.com.br/limpar-ram-android-prejudica-desempenho/",
+          "fonte": "Desconhecida",
+          "publicado_em": "2026-07-03T16:57:25-03:00",
+          "relevancia": 0.9,
+          "destaque": true,
+          "tags": [
+            "android",
+            "ram",
+            "desempenho"
+          ]
+        },
+        {
+          "id": "tecnologia-2026-07-06-1000-02",
+          "titulo": "Google passou a guardar mais dados de busca com IA",
+          "resumo": "Nova configuração, ativada por padrão, armazena mídias de usuários e histórico médico. O sistema, avaliado por terapeutas, supera o ChatGPT em empatia e personalização, agindo antes mesmo que o usuário perceba a necessidade de ajuda.",
+          "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+          "link": "https://gizbr.uol.com.br/google-coleta-audios-imagens-treinar-ia/",
+          "fonte": "Desconhecida",
+          "publicado_em": "2026-07-03T13:43:04-03:00",
+          "relevancia": 0.8,
+          "destaque": false,
+          "tags": [
+            "google",
+            "ia",
+            "privacidade"
+          ]
+        }
+      ]
+    },
+    "cultura": {
+      "slug": "cultura",
+      "nome": "Cultura",
+      "artigos": [
+        {
+          "id": "cultura-2026-07-06-1000-01",
+          "titulo": "Por que Jaspion fez mais sucesso no Brasil do que no Japão?",
+          "resumo": "A morte do ator Hikaru Kurosaki ressuscitou o interesse pelo personagem. Fora daqui, porém, ele nunca teve o mesmo impacto.",
+          "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-jaspion-layout_site.jpg",
+          "link": "https://super.abril.com.br/cultura/por-que-jaspion-fez-mais-sucesso-no-brasil-do-que-no-japao/",
+          "fonte": "Desconhecida",
+          "publicado_em": "2026-07-02T20:00:08-03:00",
+          "relevancia": 0.7,
+          "destaque": true,
+          "tags": [
+            "jaspion",
+            "brasil",
+            "japao"
+          ]
+        }
+      ]
+    },
+    "atualidades": {
+      "slug": "atualidades",
+      "nome": "Atualidades",
+      "artigos": [
+        {
+          "id": "atualidades-2026-07-06-1000-01",
+          "titulo": "Brasil teve 120 mil mortes associadas a ondas de calor em 20 anos",
+          "resumo": "Pesquisa aponta maior risco para idosos e população vulnerável",
+          "imagem": "https://imagens.ebc.com.br/PqG3Y524AlwcKUFOacs9YtjVWMU=/754x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_dsc4326.jpg",
+          "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
+          "fonte": "Desconhecida",
+          "publicado_em": "2026-07-03T10:35:20-03:00",
+          "relevancia": 0.9,
+          "destaque": true,
+          "tags": [
+            "brasil",
+            "ondas de calor",
+            "mortalidade"
+          ]
+        }
+      ]
+    },
+    "comportamento": {
+      "slug": "comportamento",
+      "nome": "Comportamento & Sociedade",
+      "artigos": [
+        {
+          "id": "comportamento-2026-07-06-1000-01",
+          "titulo": "Este hábito simples que aumenta admiração e bem-estar",
+          "resumo": "Pesquisa verificou que o foco intencional em admiração produz benefícios físicos e emocionais mensuráveis. Adultos mais velhos relataram mais alegria e gratidão, além de menor estresse cotidiano.",
+          "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+          "link": "https://gizbr.uol.com.br/caminhada-admiracao-beneficios-estresse/",
+          "fonte": "Desconhecida",
+          "publicado_em": "2026-07-05T20:18:42-03:00",
+          "relevancia": 0.8,
+          "destaque": true,
+          "tags": [
+            "admiracao",
+            "bem-estar",
+            "estresse"
+          ]
+        }
+      ]
+    },
+    "the_guardian": {
+      "slug": "the_guardian",
+      "nome": "The Guardian",
+      "gerado_em": "2026-07-06T20:08:40.169Z",
+      "artigos": [
+        {
+          "id": "the_guardian-2026-07-06-2002",
+          "titulo": "A situação é terrível: trabalhadores humanitários sobre a vida na cidade sudanesa bombardeada por drones",
+          "resumo": "El Obeid se torna um campo de batalha crucial na guerra entre as forças armadas do Sudão e seus inimigos paramilitares, o RSF",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
+          "publicado_em": "2026-07-04T15:14:18.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-06-2005",
+          "titulo": "Inundações na Costa do Marfim matam 59 pessoas, enquanto a África Ocidental enfrenta chuvas torrenciais",
+          "resumo": "As autoridades dizem que a estação das chuvas está se tornando mais letal, com Gana relatando 13 mortes e inundações atingindo Benim, Togo e Nigéria",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
+          "publicado_em": "2026-07-02T11:01:32.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-06-2006",
+          "titulo": "Cuba sofre seu terceiro apagão nacional em seis meses",
+          "resumo": "A ilha empobrecida já estava lutando para manter as luzes acesas antes dos EUA imporem um bloqueio em janeiro",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/jul/06/cuba-suffers-third-nationwide-blackout-in-six-months",
+          "publicado_em": "2026-07-06T19:30:09.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-06-2007",
+          "titulo": "Canadá compra 12 submarinos de tecnologia avançada da Alemanha após uma guerra de lances",
+          "resumo": "A TKMS supera um rival sul-coreano para ganhar um contrato de vários bilhões de dólares que aprofundará os laços do Canadá com a OTAN",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
+          "publicado_em": "2026-07-06T16:41:47.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-06-2012",
+          "titulo": "A China testa um míssil de longo alcance no Pacífico Sul em uma movimentação condenada pela Austrália como 'destabilizadora para a região'",
+          "resumo": "O lançamento ocorre apenas horas após a Austrália e Fiji assinarem um acordo de defesa, enquanto um especialista diz que a coincidência não é acidental",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/jul/06/china-missile-test-south-pacific",
+          "publicado_em": "2026-07-06T10:15:35.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-06-2021",
+          "titulo": "Onda de ataques russos na Ucrânia mata pelo menos 21 pessoas na véspera da cúpula da OTAN",
+          "resumo": "Zelenskyy pede 'decisões fortes' nas conversas após o ataque a Kyiv e regiões circundantes expor lacunas na defesa aérea",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/jul/06/russia-launches-deadly-missile-drone-attacks-kyiv-ukraine",
+          "publicado_em": "2026-07-06T16:06:23.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-06-2026",
+          "titulo": "Milhões se juntam ao cortejo fúnebre do líder supremo do Irã, Ali Khamenei",
+          "resumo": "Multidões se reúnem em Teerã enquanto os enlutados vestidos de preto carregam bandeiras proclamando: 'Nosso levante'",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/jul/06/ali-khamenei-funeral-procession-iran-supreme-leader",
+          "publicado_em": "2026-07-06T17:25:12.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-06-2028",
+          "titulo": "Caridade do Reino Unido financia escola no coração da expansão ilegal de assentamentos israelenses",
+          "resumo": "Amigos de Yeshivat Shavei Hevron enviaram quase £200.000 para a escola em Hebron - onde Israel foi acusado de impor o apartheid - entre 2019 e 2024",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/jul/06/british-charity-friends-of-yeshivat-shavei-illegal-settlement-hebron",
+          "publicado_em": "2026-07-06T14:10:08.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-06-2030",
+          "titulo": "Sistema de comando israelense identificou 850.000 alvos na Guerra de Gaza e no Líbano, afirma fornecedor",
+          "resumo": "A Elbit Systems forneceu o programa digital do exército Tzayad para mapear pessoas, veículos e outros objetos em tempo real",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/jul/06/israel-command-system-identified-850000-targets-gaza-lebanon-war-supplier-elbit-systems",
+          "publicado_em": "2026-07-06T08:00:05.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-06-2031",
+          "titulo": "Desabamento de teto em centro de tutoria no Paquistão mata 14 crianças",
+          "resumo": "Oficiais locais disseram que relatórios preliminares mostraram que o centro era não registrado e operava dentro de um prédio residencial de propriedade privada",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/jul/01/pakistan-roof-collapse-lahore-tutoring-learning-centre",
+          "publicado_em": "2026-06-30T23:34:00.000Z"
+        }
+      ]
     }
   }
 }
