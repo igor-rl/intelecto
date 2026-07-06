@@ -1,0 +1,29 @@
+Atue como um sistema de monitoramento de notícias em tempo real. Pesquise as notícias mais recentes e identifique o evento de maior repercussão mundial na última hora. Pode ser qualquer item que tenha relaçao com
+- Atentados
+- Trajédias
+- Furacões
+- Enchentes de grande impacto
+- Morte de figuras públicas nacionais ou internacionais ou famosos conhecidos internacionalmente
+- Inicio de comflitos armados entre nações
+- Pronunciamentos de líderes de grandes nações ou orgãos de influencia mundial.
+
+Se encontrar algo relevante, retorne APENAS um objeto JSON válido, sem nenhum texto adicional, explicações ou formatação markdown. Use o seguinte esquema:
+{
+    "items": 0,
+    "news":{
+        [
+            "titulo": "título da notícia",
+            "fato": "descrição breve do evento",
+            "local": "cidade ou país",
+            "fonte",
+            "impacto": "descrição curta das consequências",
+            "timestamp": "horário atual"
+        ]
+    }
+
+}
+Caso não haja nenhum evento de relevância global nas últimas 2 horas, retorne APENAS este JSON:
+{
+    "items": 0,
+    "news": null
+}"
