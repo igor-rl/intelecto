@@ -1,7 +1,7 @@
 {
   "jornal": {
     "nome": "Atualidades & Intelecto",
-    "atualizado_em": "2026-07-06T07:00:00.000Z",
+    "atualizado_em": "2026-07-06T13:00:00.000Z",
     "edicao": "2026-07-06",
     "destaques": [
       {
@@ -196,51 +196,48 @@
         "nome": "Ciência",
         "artigos": [
           {
-            "id": "ciencia-2026-07-06-1000-01",
-            "titulo": "Canetas 'emagrecedoras' podem ajudar no tratamento do câncer",
-            "resumo": "Estudos sugerem que medicamentos como semaglutida e tirzepatida podem reduzir o risco da doença ou beneficiar pacientes, mas são necessárias mais evidências.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/0506-Ozempic-layout_site.jpg",
-            "link": "https://super.abril.com.br/saude/canetas-emagrecedoras-podem-ajudar-a-tratar-o-cancer-veja-o-que-a-ciencia-ja-sabe/",
+            "id": "ciencia-2026-07-06-1600-01",
+            "titulo": "NASA busca input da indústria para estações espaciais comerciais",
+            "resumo": "A NASA está buscando feedback de empresas americanas para a próxima fase de sua estratégia de estações espaciais comerciais.",
+            "imagem": "https://www.nasa.gov/wp-content/uploads/2026/06/nasa-meatball-11-black-background.jpg?w=1080",
+            "link": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-industry-input-on-second-phase-of-commercial-space-stations/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-05T21:00:26-03:00",
+            "publicado_em": "2026-07-06T15:33:00-03:00",
             "relevancia": 0.8,
             "destaque": true,
             "tags": [
-              "saude",
-              "cancer",
-              "medicamentos"
+              "nasa",
+              "estacoes espaciais"
             ]
           },
           {
-            "id": "ciencia-2026-07-06-1000-02",
-            "titulo": "Megalodon: Redescoberta de fóssil revela detalhes sobre o lendário tubarão gigante",
-            "resumo": "Estudo confirma que esses animais poderiam ter mais de 24 metros de comprimento – mais do dobro dos maiores tubarões atuais.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2022/06/SI_megalodon_site.jpg",
-            "link": "https://super.abril.com.br/ciencia/megalodon-redescoberta-de-fossil-revela-detalhes-sobre-o-lendario-tubarao-gigante/",
+            "id": "ciencia-2026-07-06-1600-02",
+            "titulo": "Morte de uma estrela não é o fim de um sistema planetário",
+            "resumo": "Um novo estudo aponta o que pode acontecer quando uma estrela morre, e como isso afeta o sistema planetário.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/01/2601-sol-layout_site.jpg",
+            "link": "https://super.abril.com.br/ciencia/a-morte-de-uma-estrela-nao-e-o-fim-de-um-sistema-planetario/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-05T19:00:42-03:00",
+            "publicado_em": "2026-07-06T15:00:12-03:00",
             "relevancia": 0.6,
             "destaque": false,
             "tags": [
-              "tubarao",
-              "megalodon",
-              "fossil"
+              "estrelas",
+              "sistemas planetarios"
             ]
           },
           {
-            "id": "ciencia-2026-07-06-1000-03",
-            "titulo": "Hubble detecta luz de galáxia primitiva que astrônomos achavam ser 'impossível observar'",
-            "resumo": "A radiação sobreviveu a uma viagem de mais de 12 bilhões de anos por um Universo que, em teoria, ainda deveria impedir sua passagem.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-hubble-detecta-luz-layout_site-CAPA.jpg",
-            "link": "https://super.abril.com.br/ciencia/hubble-detecta-luz-de-galaxia-primitiva-que-astronomos-achavam-ser-impossivel-observar/",
+            "id": "ciencia-2026-07-06-1600-03",
+            "titulo": "NASA Webb descobre galáxia incomum formada por colisão cósmica",
+            "resumo": "A NASA Webb Space Telescope descobriu uma galáxia incomum que foi formada por uma colisão cósmica.",
+            "imagem": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/07/STScI-01KVT4GQMQ5MXV6XDPFPZMXG65.png?w=4490",
+            "link": "https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T19:00:16-03:00",
+            "publicado_em": "2026-07-06T14:00:00-03:00",
             "relevancia": 0.7,
             "destaque": false,
             "tags": [
-              "hubble",
-              "galaxia",
-              "astronomia"
+              "nasa",
+              "galaxias"
             ]
           }
         ]
@@ -280,35 +277,33 @@
         "nome": "Tecnologia",
         "artigos": [
           {
-            "id": "tecnologia-2026-07-06-1000-01",
-            "titulo": "Android: fechar apps para limpar RAM pode piorar seu celular",
-            "resumo": "Liberar memória RAM no Android é desnecessário e pode prejudicar o desempenho. Saiba por que o sistema gerencia RAM automaticamente e quais práticas realmente funcionam.",
+            "id": "tecnologia-2026-07-06-1600-01",
+            "titulo": "Ajustes da conta Google que você deveria revisar hoje",
+            "resumo": "Ações simples permitem controlar anúncios, histórico de localização, contatos de recuperação e dados expostos em serviços como Gmail e Maps.",
             "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
-            "link": "https://gizbr.uol.com.br/limpar-ram-android-prejudica-desempenho/",
+            "link": "https://gizbr.uol.com.br/configuracoes-privacidade-google/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T16:57:25-03:00",
-            "relevancia": 0.9,
-            "destaque": true,
+            "publicado_em": "2026-07-06T13:25:07-03:00",
+            "relevancia": 0.5,
+            "destaque": false,
             "tags": [
-              "android",
-              "ram",
-              "desempenho"
+              "google",
+              "privacidade"
             ]
           },
           {
-            "id": "tecnologia-2026-07-06-1000-02",
+            "id": "tecnologia-2026-07-06-1600-02",
             "titulo": "Google passou a guardar mais dados de busca com IA",
-            "resumo": "Nova configuração, ativada por padrão, armazena mídias de usuários e histórico médico. O sistema, avaliado por terapeutas, supera o ChatGPT em empatia e personalização, agindo antes mesmo que o usuário perceba a necessidade de ajuda.",
+            "resumo": "Nova configuração, ativada por padrão, armazena mídias de usuários e levanta críticas de especialistas em privacidade.",
             "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
             "link": "https://gizbr.uol.com.br/google-coleta-audios-imagens-treinar-ia/",
             "fonte": "Desconhecida",
             "publicado_em": "2026-07-03T13:43:04-03:00",
-            "relevancia": 0.8,
+            "relevancia": 0.6,
             "destaque": false,
             "tags": [
               "google",
-              "ia",
-              "privacidade"
+              "ia"
             ]
           }
         ]
@@ -318,19 +313,18 @@
         "nome": "Cultura",
         "artigos": [
           {
-            "id": "cultura-2026-07-06-1000-01",
-            "titulo": "Por que Jaspion fez mais sucesso no Brasil do que no Japão?",
-            "resumo": "A morte do ator Hikaru Kurosaki ressuscitou o interesse pelo personagem. Fora daqui, porém, ele nunca teve o mesmo impacto.",
-            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-jaspion-layout_site.jpg",
-            "link": "https://super.abril.com.br/cultura/por-que-jaspion-fez-mais-sucesso-no-brasil-do-que-no-japao/",
+            "id": "cultura-2026-07-06-1600-01",
+            "titulo": "Conheça Toby, o gato que nasceu com 28 dedos e entrou para o Guinness Book",
+            "resumo": "Um gato chamado Toby nasceu com 28 dedos e entrou para o Guinness Book.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0607-gato-28-dedos-layout_site-CAPA.jpg",
+            "link": "https://super.abril.com.br/cultura/conheca-toby-o-gato-que-nasceu-com-28-dedos-e-entrou-para-o-guinness-book/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-02T20:00:08-03:00",
-            "relevancia": 0.7,
-            "destaque": true,
+            "publicado_em": "2026-07-06T13:00:13-03:00",
+            "relevancia": 0.4,
+            "destaque": false,
             "tags": [
-              "jaspion",
-              "brasil",
-              "japao"
+              "gatos",
+              "guinness book"
             ]
           }
         ]
@@ -340,19 +334,18 @@
         "nome": "Atualidades",
         "artigos": [
           {
-            "id": "atualidades-2026-07-06-1000-01",
-            "titulo": "Brasil teve 120 mil mortes associadas a ondas de calor em 20 anos",
-            "resumo": "Pesquisa aponta maior risco para idosos e população vulnerável",
-            "imagem": "https://imagens.ebc.com.br/PqG3Y524AlwcKUFOacs9YtjVWMU=/754x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_dsc4326.jpg",
-            "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
+            "id": "atualidades-2026-07-06-1600-01",
+            "titulo": "Brasil deverá ter centro para enfrentamento de emergências em saúde",
+            "resumo": "O Brasil deverá ter um centro para enfrentamento de emergências em saúde.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/brasil-devera-ter-centro-para-enfrentamento-de-emergencias-em-saude/",
             "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T10:35:20-03:00",
-            "relevancia": 0.9,
+            "publicado_em": "2026-07-06T10:20:05-03:00",
+            "relevancia": 0.7,
             "destaque": true,
             "tags": [
               "brasil",
-              "ondas de calor",
-              "mortalidade"
+              "saude"
             ]
           }
         ]
@@ -362,19 +355,18 @@
         "nome": "Comportamento & Sociedade",
         "artigos": [
           {
-            "id": "comportamento-2026-07-06-1000-01",
+            "id": "comportamento-2026-07-06-1600-01",
             "titulo": "Este hábito simples que aumenta admiração e bem-estar",
-            "resumo": "Pesquisa verificou que o foco intencional em admiração produz benefícios físicos e emocionais mensuráveis. Adultos mais velhos relataram mais alegria e gratidão, além de menor estresse cotidiano.",
+            "resumo": "Um estudo verificou que o foco intencional em admiração produz benefícios físicos e emocionais mensuráveis.",
             "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
             "link": "https://gizbr.uol.com.br/caminhada-admiracao-beneficios-estresse/",
             "fonte": "Desconhecida",
             "publicado_em": "2026-07-05T20:18:42-03:00",
-            "relevancia": 0.8,
-            "destaque": true,
+            "relevancia": 0.5,
+            "destaque": false,
             "tags": [
-              "admiracao",
-              "bem-estar",
-              "estresse"
+              "comportamento",
+              "bem-estar"
             ]
           }
         ]
