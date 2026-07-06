@@ -465,6 +465,93 @@
           "publicado_em": "2026-06-30T23:34:00.000Z"
         }
       ]
+    },
+    "new_york_times": {
+      "slug": "new_york_times",
+      "nome": "New York Times",
+      "gerado_em": "2026-07-06T20:26:01.751Z",
+      "artigos": [
+        {
+          "id": "new_york_times-2026-07-06-2001",
+          "titulo": "Intervenção de Trump na suspensão da Copa do Mundo de Balogun aumenta o conflito com a Europa",
+          "resumo": "A decisão de reverter a suspensão de um jogo foi mal recebida na Europa, num momento de tensão geopolítica já alta com os Estados Unidos.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html",
+          "publicado_em": "2026-07-06T19:25:38.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-06-2008",
+          "titulo": "À medida que Trump esfria em relação à OTAN, a Turquia hospeda reunião de cúpula",
+          "resumo": "À medida que o presidente Trump esfria em relação à aliança, seus membros veem o grande exército e o vibrante setor de defesa da Turquia como ativos.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/06/world/middleeast/nato-summit-turkey-erdogan-trump.html",
+          "publicado_em": "2026-07-06T09:01:44.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-06-2009",
+          "titulo": "Rússia ataca Kiev, capital da Ucrânia, na véspera da cúpula da OTAN",
+          "resumo": "Mísseis balísticos foram disparados contra a capital da Ucrânia, enquanto a Rússia lançava seu segundo grande ataque em menos de uma semana. Pelo menos 12 pessoas foram mortas, disseram autoridades.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/05/world/europe/kyiv-ukraine-russia-attack-nato.html",
+          "publicado_em": "2026-07-06T18:52:57.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-06-2010",
+          "titulo": "Ucrânia refez sua defesa aérea, mas a Rússia mudou seus ataques",
+          "resumo": "A Ucrânia mudou a forma como os militares usam os sistemas Patriot. No entanto, ataques recentes provam que adaptações inteligentes não podem superar a falta de interceptores.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/06/world/europe/ukraine-russia-patriot-air-defense.html",
+          "publicado_em": "2026-07-06T12:38:51.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-06-2011",
+          "titulo": "Turquia hospeda cúpula da OTAN enquanto reprime críticos",
+          "resumo": "Nas semanas que antecederam o evento de dois dias, as autoridades turcas bloquearam sites, prenderam dezenas de pessoas por alegações de terrorismo e prenderam um comediante proeminente.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/06/world/middleeast/turkey-hosts-nato-summit-while-cracking-down-on-critics.html",
+          "publicado_em": "2026-07-06T18:58:48.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-06-2013",
+          "titulo": "Esforços para ajudar fumantes a parar estagnam sob Trump",
+          "resumo": "O escritório de controle de tabaco do CDC foi fechado por mais de um ano. Depois que sua campanha antifumo mais proeminente saiu do ar, as ligações para as linhas 1-800-QUIT-NOW despencaram.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/06/us/trump-anti-smoking-cuts.html",
+          "publicado_em": "2026-07-06T15:22:56.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-06-2015",
+          "titulo": "Um e-mail. Uma batida na porta. Um processo alega uma ameaça à liberdade de expressão.",
+          "resumo": "Um homem enviou uma nota contundente a um oficial de imigração após dois manifestantes serem mortos. Um processo diz que os agentes que foram à sua casa estavam tentando intimidá-lo.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/06/nyregion/ice-email-lawsuit.html",
+          "publicado_em": "2026-07-06T18:17:36.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-06-2018",
+          "titulo": "Ondas de calor estão cobrando um grande tributo dos frangos",
+          "resumo": "As aves são particularmente vulneráveis a altas temperaturas, e o junho tórrido da França teve um impacto pesado.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/06/climate/dead-chickens-heat-wave-france.html",
+          "publicado_em": "2026-07-06T18:39:08.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-06-2019",
+          "titulo": "Calor extremo atinge a Europa pela terceira vez este ano",
+          "resumo": "É o terceiro período de tempo escaldante no continente desde maio. A Europa é o continente que mais esquenta no mundo.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/06/weather/europe-heat-wave-latest-wildfire.html",
+          "publicado_em": "2026-07-06T15:49:18.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-06-2023",
+          "titulo": "Iranianos lamentam um líder assassinado e pedem vingança",
+          "resumo": "Milhões de pessoas encheram as ruas do Irã para se despedir do aiatolá Ali Khamenei, que foi morto na guerra com os Estados Unidos e Israel.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/06/world/middleeast/iran-khamenei-funeral.html",
+          "publicado_em": "2026-07-06T19:45:16.000Z"
+        }
+      ]
     }
   }
 }
