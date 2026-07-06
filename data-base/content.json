@@ -1,8 +1,8 @@
 {
   "jornal": {
     "nome": "Atualidades & Intelecto",
-    "atualizado_em": "2026-07-05T21:00:00.000Z",
-    "edicao": "2026-07-05",
+    "atualizado_em": "2026-07-06T07:00:00.000Z",
+    "edicao": "2026-07-06",
     "destaques": [
       {
         "id": "noticias-2026-07-06-0000-03",
@@ -196,9 +196,9 @@
         "nome": "Ciência",
         "artigos": [
           {
-            "id": "ciencia-2026-07-06-0000-01",
+            "id": "ciencia-2026-07-06-1000-01",
             "titulo": "Canetas 'emagrecedoras' podem ajudar no tratamento do câncer",
-            "resumo": "Estudos sugerem que medicamentos como semaglutida e tirzepatida podem reduzir o risco da doença ou beneficiar pacientes.",
+            "resumo": "Estudos sugerem que medicamentos como semaglutida e tirzepatida podem reduzir o risco da doença ou beneficiar pacientes, mas são necessárias mais evidências.",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2026/06/0506-Ozempic-layout_site.jpg",
             "link": "https://super.abril.com.br/saude/canetas-emagrecedoras-podem-ajudar-a-tratar-o-cancer-veja-o-que-a-ciencia-ja-sabe/",
             "fonte": "Desconhecida",
@@ -207,13 +207,14 @@
             "destaque": true,
             "tags": [
               "saude",
-              "cancer"
+              "cancer",
+              "medicamentos"
             ]
           },
           {
-            "id": "ciencia-2026-07-06-0000-02",
-            "titulo": "Megalodon: fóssil revela detalhes sobre o lendário tubarão gigante",
-            "resumo": "Estudo confirma que esses animais poderiam ter mais de 24 metros de comprimento, mais do dobro dos maiores tubarões atuais.",
+            "id": "ciencia-2026-07-06-1000-02",
+            "titulo": "Megalodon: Redescoberta de fóssil revela detalhes sobre o lendário tubarão gigante",
+            "resumo": "Estudo confirma que esses animais poderiam ter mais de 24 metros de comprimento – mais do dobro dos maiores tubarões atuais.",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2022/06/SI_megalodon_site.jpg",
             "link": "https://super.abril.com.br/ciencia/megalodon-redescoberta-de-fossil-revela-detalhes-sobre-o-lendario-tubarao-gigante/",
             "fonte": "Desconhecida",
@@ -222,22 +223,24 @@
             "destaque": false,
             "tags": [
               "tubarao",
+              "megalodon",
               "fossil"
             ]
           },
           {
-            "id": "ciencia-2026-07-06-0000-03",
+            "id": "ciencia-2026-07-06-1000-03",
             "titulo": "Hubble detecta luz de galáxia primitiva que astrônomos achavam ser 'impossível observar'",
             "resumo": "A radiação sobreviveu a uma viagem de mais de 12 bilhões de anos por um Universo que, em teoria, ainda deveria impedir sua passagem.",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0307-hubble-detecta-luz-layout_site-CAPA.jpg",
             "link": "https://super.abril.com.br/ciencia/hubble-detecta-luz-de-galaxia-primitiva-que-astronomos-achavam-ser-impossivel-observar/",
             "fonte": "Desconhecida",
             "publicado_em": "2026-07-03T19:00:16-03:00",
-            "relevancia": 0.9,
+            "relevancia": 0.7,
             "destaque": false,
             "tags": [
               "hubble",
-              "galaxia"
+              "galaxia",
+              "astronomia"
             ]
           }
         ]
@@ -277,33 +280,35 @@
         "nome": "Tecnologia",
         "artigos": [
           {
-            "id": "tecnologia-2026-07-06-0000-01",
-            "titulo": "Google passou a guardar mais dados de busca com IA",
-            "resumo": "Nova configuração, ativada por padrão, armazena mídias de usuários e histórico médico.",
-            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
-            "link": "https://gizbr.uol.com.br/google-coleta-audios-imagens-treinar-ia/",
-            "fonte": "Desconhecida",
-            "publicado_em": "2026-07-03T13:43:04-03:00",
-            "relevancia": 0.7,
-            "destaque": true,
-            "tags": [
-              "google",
-              "ia"
-            ]
-          },
-          {
-            "id": "tecnologia-2026-07-06-0000-02",
+            "id": "tecnologia-2026-07-06-1000-01",
             "titulo": "Android: fechar apps para limpar RAM pode piorar seu celular",
-            "resumo": "Liberar memória RAM no Android é desnecessário e pode prejudicar o desempenho.",
+            "resumo": "Liberar memória RAM no Android é desnecessário e pode prejudicar o desempenho. Saiba por que o sistema gerencia RAM automaticamente e quais práticas realmente funcionam.",
             "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
             "link": "https://gizbr.uol.com.br/limpar-ram-android-prejudica-desempenho/",
             "fonte": "Desconhecida",
             "publicado_em": "2026-07-03T16:57:25-03:00",
-            "relevancia": 0.5,
-            "destaque": false,
+            "relevancia": 0.9,
+            "destaque": true,
             "tags": [
               "android",
-              "ram"
+              "ram",
+              "desempenho"
+            ]
+          },
+          {
+            "id": "tecnologia-2026-07-06-1000-02",
+            "titulo": "Google passou a guardar mais dados de busca com IA",
+            "resumo": "Nova configuração, ativada por padrão, armazena mídias de usuários e histórico médico. O sistema, avaliado por terapeutas, supera o ChatGPT em empatia e personalização, agindo antes mesmo que o usuário perceba a necessidade de ajuda.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/google-coleta-audios-imagens-treinar-ia/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T13:43:04-03:00",
+            "relevancia": 0.8,
+            "destaque": false,
+            "tags": [
+              "google",
+              "ia",
+              "privacidade"
             ]
           }
         ]
@@ -313,17 +318,18 @@
         "nome": "Cultura",
         "artigos": [
           {
-            "id": "cultura-2026-07-06-0000-01",
-            "titulo": "Por que Jaspion fez mais sucesso no Brasil do que no Japão",
-            "resumo": "A morte do ator Hikaru Kurosaki ressuscitou o interesse pelo personagem.",
+            "id": "cultura-2026-07-06-1000-01",
+            "titulo": "Por que Jaspion fez mais sucesso no Brasil do que no Japão?",
+            "resumo": "A morte do ator Hikaru Kurosaki ressuscitou o interesse pelo personagem. Fora daqui, porém, ele nunca teve o mesmo impacto.",
             "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0207-jaspion-layout_site.jpg",
             "link": "https://super.abril.com.br/cultura/por-que-jaspion-fez-mais-sucesso-no-brasil-do-que-no-japao/",
             "fonte": "Desconhecida",
             "publicado_em": "2026-07-02T20:00:08-03:00",
-            "relevancia": 0.8,
+            "relevancia": 0.7,
             "destaque": true,
             "tags": [
               "jaspion",
+              "brasil",
               "japao"
             ]
           }
@@ -334,9 +340,9 @@
         "nome": "Atualidades",
         "artigos": [
           {
-            "id": "atualidades-2026-07-06-0000-01",
+            "id": "atualidades-2026-07-06-1000-01",
             "titulo": "Brasil teve 120 mil mortes associadas a ondas de calor em 20 anos",
-            "resumo": "Pesquisa aponta maior risco para idosos e população vulnerável.",
+            "resumo": "Pesquisa aponta maior risco para idosos e população vulnerável",
             "imagem": "https://imagens.ebc.com.br/PqG3Y524AlwcKUFOacs9YtjVWMU=/754x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_dsc4326.jpg",
             "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
             "fonte": "Desconhecida",
@@ -345,7 +351,8 @@
             "destaque": true,
             "tags": [
               "brasil",
-              "ondas de calor"
+              "ondas de calor",
+              "mortalidade"
             ]
           }
         ]
@@ -355,18 +362,19 @@
         "nome": "Comportamento & Sociedade",
         "artigos": [
           {
-            "id": "comportamento-2026-07-06-0000-01",
+            "id": "comportamento-2026-07-06-1000-01",
             "titulo": "Este hábito simples que aumenta admiração e bem-estar",
-            "resumo": "Pesquisa verificou que o foco intencional em admiração produz benefícios físicos e emocionais mensuráveis.",
+            "resumo": "Pesquisa verificou que o foco intencional em admiração produz benefícios físicos e emocionais mensuráveis. Adultos mais velhos relataram mais alegria e gratidão, além de menor estresse cotidiano.",
             "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
             "link": "https://gizbr.uol.com.br/caminhada-admiracao-beneficios-estresse/",
             "fonte": "Desconhecida",
             "publicado_em": "2026-07-05T20:18:42-03:00",
-            "relevancia": 0.7,
+            "relevancia": 0.8,
             "destaque": true,
             "tags": [
               "admiracao",
-              "bem-estar"
+              "bem-estar",
+              "estresse"
             ]
           }
         ]
