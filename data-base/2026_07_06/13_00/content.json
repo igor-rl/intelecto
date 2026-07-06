@@ -1,0 +1,376 @@
+{
+  "jornal": {
+    "nome": "Atualidades & Intelecto",
+    "atualizado_em": "2026-07-06T13:00:00.000Z",
+    "edicao": "2026-07-06",
+    "destaques": [
+      {
+        "id": "noticias-2026-07-06-1000-01",
+        "titulo": "Ucrânia sofre ataque maciço da Rússia, com 14 mortos",
+        "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+        "categoria_slug": "noticias"
+      },
+      {
+        "id": "atualidades-2026-07-06-1000-01",
+        "titulo": "Brasil teve 120 mil mortes associadas a ondas de calor em 20 anos",
+        "link": "https://gizbr.uol.com.br/brasil-teve-120-mil-mortes-associadas-a-ondas-de-calor-em-20-anos/",
+        "categoria_slug": "atualidades"
+      },
+      {
+        "id": "tecnologia-2026-07-06-1000-01",
+        "titulo": "Android: fechar apps para limpar RAM pode piorar seu celular",
+        "link": "https://gizbr.uol.com.br/limpar-ram-android-prejudica-desempenho/",
+        "categoria_slug": "tecnologia"
+      },
+      {
+        "id": "ciencia-2026-07-06-1000-01",
+        "titulo": "Canetas 'emagrecedoras' podem ajudar no tratamento do câncer",
+        "link": "https://super.abril.com.br/saude/canetas-emagrecedoras-podem-ajudar-a-tratar-o-cancer-veja-o-que-a-ciencia-ja-sabe/",
+        "categoria_slug": "ciencia"
+      }
+    ],
+    "capa": {
+      "categoria_slug": "noticias",
+      "categoria_nome": "Notícias",
+      "titulo": "Ucrânia sofre ataque maciço da Rússia, com 14 mortos",
+      "subtitulo": "A Ucrânia foi alvo de um ataque maciço da Rússia, com 68 mísseis e 351 drones, resultando em 14 mortos...",
+      "resumo": "A Ucrânia foi alvo de um ataque maciço da Rússia, com 68 mísseis e 351 drones, resultando em 14 mortos. O presidente Zelensky denunciou o ataque como 'massivo' e condenou a ação russa.",
+      "imagem": null,
+      "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC",
+      "publicado_em": "2026-07-06T09:35:43.000Z"
+    },
+    "categorias": {
+      "noticias": {
+        "slug": "noticias",
+        "nome": "Notícias",
+        "artigos": [
+          {
+            "id": "noticias-2026-07-06-1000-01",
+            "titulo": "Ucrânia sofre ataque maciço da Rússia, com 14 mortos",
+            "resumo": "A Ucrânia foi alvo de um ataque maciço da Rússia, com 68 mísseis e 351 drones, resultando em 14 mortos. O presidente Zelensky denunciou o ataque como 'massivo' e condenou a ação russa.",
+            "imagem": null,
+            "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+            "fonte": "BBC",
+            "publicado_em": "2026-07-06T09:35:43.000Z",
+            "relevancia": 0.9,
+            "destaque": true,
+            "tags": [
+              "ucrania",
+              "russia",
+              "ataque"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-06-1000-02",
+            "titulo": "China testa míssil balístico de longo alcance no Pacífico",
+            "resumo": "A China realizou um teste de míssil balístico de longo alcance no Pacífico, o que gerou preocupação entre os países da região. O teste ocorreu enquanto a Austrália firmava acordos de defesa com nações do Pacífico.",
+            "imagem": null,
+            "link": "https://www.nytimes.com/2026/07/06/world/asia/china-pacific-nuclear-missile-launch.html",
+            "fonte": "The New York Times",
+            "publicado_em": "2026-07-06T09:23:30.000Z",
+            "relevancia": 0.8,
+            "destaque": false,
+            "tags": [
+              "china",
+              "missil",
+              "pacifico"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-06-1000-03",
+            "titulo": "STF restabelece prisão de traficante conhecido como 'Mancha'",
+            "resumo": "O Supremo Tribunal Federal (STF) restabeleceu a prisão preventiva do traficante Douglas de Azevedo Carvalho, conhecido como 'Mancha'. A decisão foi tomada após um recurso apresentado pela defesa.",
+            "imagem": "https://s2-g1.glbimg.com/x7UFJNxQJvwdqUSEDr2OoemYbTk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/0/vjbsMAQTWAKuNSraGQ2Q/preso-bolivia.jpg",
+            "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/06/stf-restabelece-prisao-de-mancha-traficante-segue-detido-por-duas-decisoes-judiciais.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-06T09:55:22.000Z",
+            "relevancia": 0.7,
+            "destaque": false,
+            "tags": [
+              "stf",
+              "prisao",
+              "traficante"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-06-1000-04",
+            "titulo": "Ponte é incendiada em Goiás, deixando moradores em risco de isolamento",
+            "resumo": "Uma ponte de madeira foi incendiada em Niquelândia, Goiás, deixando moradores em risco de isolamento. A prefeitura informou que a estrutura ligava uma vila à cidade.",
+            "imagem": "https://s2-g1.glbimg.com/YwG71z1fYpKS7vbGhK6bTdkmRO0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/z/o3eB0PRMKjoexCg6VIaw/ponte-queimada-niquelandia.jpg",
+            "link": "https://g1.globo.com/go/goias/noticia/2026/07/06/ponte-e-incendiada-e-moradores-de-assentamento-rural-correm-risco-de-isolamento-em-goias.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-06T09:54:54.000Z",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "ponte",
+              "incendio",
+              "goias"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-06-1000-05",
+            "titulo": "Menina conta como sobreviveu por 32 horas após terremotos na Venezuela",
+            "resumo": "Uma menina venezuelana contou como sobreviveu por 32 horas após os terremotos que atingiram o país. Ela disse que levará um tempo para se recuperar, mas que sua família seguirá em frente.",
+            "imagem": "https://s2-g1.glbimg.com/AWUgxMDpzzbMxv9DtVtUm45E09s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/k/a0taK2TcmqSWwebRnMRA/novo-projeto-13-.jpg",
+            "link": "https://g1.globo.com/mundo/noticia/2026/07/06/com-ketchup-e-queijo-menina-conta-como-sobreviveu-por-32h-a-espera-de-resgate-apos-terremotos-na-venezuela.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-06T09:52:09.000Z",
+            "relevancia": 0.5,
+            "destaque": false,
+            "tags": [
+              "terremoto",
+              "venezuela",
+              "sobrevivencia"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-06-1000-06",
+            "titulo": "Nigéria denuncia morte de dois nacionais em ataques xenofóbicos na África do Sul",
+            "resumo": "A Nigéria denunciou a morte de dois de seus nacionais em ataques xenofóbicos na África do Sul. O governo nigeriano condenou os ataques e exigiu que as autoridades sul-africanas tomem medidas para proteger os imigrantes.",
+            "imagem": null,
+            "link": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
+            "fonte": "BBC",
+            "publicado_em": "2026-07-06T09:50:30.000Z",
+            "relevancia": 0.4,
+            "destaque": false,
+            "tags": [
+              "nigeria",
+              "ataque",
+              "xenofobia"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-06-1000-07",
+            "titulo": "Três pessoas morrem em acidente na Rodovia Castello Branco, em Osasco",
+            "resumo": "Três pessoas morreram em um acidente envolvendo dois carros na Rodovia Castello Branco, em Osasco. O acidente ocorreu na altura do quilômetro 17,6, e as vítimas ainda não foram identificadas.",
+            "imagem": "https://s2-g1.glbimg.com/pVKto95KZMTELBq41tJcXpdCrGA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/v/qCTKAnQYWzAfgFTy8Y1g/acervo-bdsp-limpo-20260706-0540-frame-60791-1-.jpeg",
+            "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/06/tres-pessoas-morrem-apos-carro-pegar-fogo-e-explodir-em-acidente-na-rodovia-castello-branco-em-osasco.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-06T09:43:31.000Z",
+            "relevancia": 0.3,
+            "destaque": false,
+            "tags": [
+              "acidente",
+              "rodovia",
+              "osasco"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-06-1000-08",
+            "titulo": "Incêndio em hotel de Chapecó deixa feridos e compromete rotas de fuga",
+            "resumo": "Um incêndio em um hotel de Chapecó, Santa Catarina, deixou feridos e comprometeu as rotas de fuga. O Corpo de Bombeiros foi acionado e conseguiu resgatar nove hóspedes.",
+            "imagem": "https://s2-g1.glbimg.com/dUjxdzxXASOYxPmETtPmUSdiI1A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/l/KHfdJ6Sri0zThfiL7cwA/incendio-em-hotel-de-chapeco-bloqueia-rotas-de-fuga-e-deixa-feridos.jpg",
+            "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/06/incendio-hotel-chapeco-bloqueia-rotas-de-fuga-feridos-hospede-caiu-escapar.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-06T09:39:49.000Z",
+            "relevancia": 0.2,
+            "destaque": false,
+            "tags": [
+              "incendio",
+              "hotel",
+              "chapeco"
+            ]
+          },
+          {
+            "id": "noticias-2026-07-06-1000-09",
+            "titulo": "Paciente foge de hospital em Fortaleza usando corda feita com lençóis",
+            "resumo": "Um paciente fugiu de um hospital em Fortaleza, Ceará, usando uma corda feita com lençóis. O paciente estava sob escolta policial e conseguiu escapar.",
+            "imagem": "https://s2-g1.glbimg.com/PYdJ2Wmy_cLHXhvhhRFo7D9xjfQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/D/lvA5lYQmKMhyNraovlRg/fuga-ijf-2-1-.jpg",
+            "link": "https://g1.globo.com/ce/ceara/noticia/2026/07/06/paciente-sob-escolta-policial-foge-do-ijf-em-fortaleza-usando-corda-feita-com-lencois-video.ghtml",
+            "fonte": "G1",
+            "publicado_em": "2026-07-06T09:34:02.000Z",
+            "relevancia": 0.1,
+            "destaque": false,
+            "tags": [
+              "paciente",
+              "fuga",
+              "hospital"
+            ]
+          }
+        ]
+      },
+      "ciencia": {
+        "slug": "ciencia",
+        "nome": "Ciência",
+        "artigos": [
+          {
+            "id": "ciencia-2026-07-06-1600-01",
+            "titulo": "NASA busca input da indústria para estações espaciais comerciais",
+            "resumo": "A NASA está buscando feedback de empresas americanas para a próxima fase de sua estratégia de estações espaciais comerciais.",
+            "imagem": "https://www.nasa.gov/wp-content/uploads/2026/06/nasa-meatball-11-black-background.jpg?w=1080",
+            "link": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-industry-input-on-second-phase-of-commercial-space-stations/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-06T15:33:00-03:00",
+            "relevancia": 0.8,
+            "destaque": true,
+            "tags": [
+              "nasa",
+              "estacoes espaciais"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-06-1600-02",
+            "titulo": "Morte de uma estrela não é o fim de um sistema planetário",
+            "resumo": "Um novo estudo aponta o que pode acontecer quando uma estrela morre, e como isso afeta o sistema planetário.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/01/2601-sol-layout_site.jpg",
+            "link": "https://super.abril.com.br/ciencia/a-morte-de-uma-estrela-nao-e-o-fim-de-um-sistema-planetario/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-06T15:00:12-03:00",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "estrelas",
+              "sistemas planetarios"
+            ]
+          },
+          {
+            "id": "ciencia-2026-07-06-1600-03",
+            "titulo": "NASA Webb descobre galáxia incomum formada por colisão cósmica",
+            "resumo": "A NASA Webb Space Telescope descobriu uma galáxia incomum que foi formada por uma colisão cósmica.",
+            "imagem": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/07/STScI-01KVT4GQMQ5MXV6XDPFPZMXG65.png?w=4490",
+            "link": "https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-06T14:00:00-03:00",
+            "relevancia": 0.7,
+            "destaque": false,
+            "tags": [
+              "nasa",
+              "galaxias"
+            ]
+          }
+        ]
+      },
+      "futebol": {
+        "slug": "futebol",
+        "nome": "Futebol",
+        "artigos": [
+          {
+            "id": "f1",
+            "titulo": "Clube paulista anuncia contratação para a próxima temporada",
+            "resumo": "Reforço chega para disputar posição no meio-campo a partir do segundo semestre.",
+            "imagem": null,
+            "link": "#",
+            "fonte": "ge.globo",
+            "publicado_em": "2026-06-30T12:00:00-03:00"
+          }
+        ]
+      },
+      "curiosidades": {
+        "slug": "curiosidades",
+        "nome": "Curiosidades",
+        "artigos": [
+          {
+            "id": "u1",
+            "titulo": "Por que bocejamos? Ciência ainda não tem resposta definitiva",
+            "resumo": "Diferentes teorias tentam explicar o fenômeno, da regulação térmica à empatia social.",
+            "imagem": null,
+            "link": "#",
+            "fonte": "Mundo Estranho",
+            "publicado_em": "2026-06-29T18:00:00-03:00"
+          }
+        ]
+      },
+      "tecnologia": {
+        "slug": "tecnologia",
+        "nome": "Tecnologia",
+        "artigos": [
+          {
+            "id": "tecnologia-2026-07-06-1600-01",
+            "titulo": "Ajustes da conta Google que você deveria revisar hoje",
+            "resumo": "Ações simples permitem controlar anúncios, histórico de localização, contatos de recuperação e dados expostos em serviços como Gmail e Maps.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/configuracoes-privacidade-google/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-06T13:25:07-03:00",
+            "relevancia": 0.5,
+            "destaque": false,
+            "tags": [
+              "google",
+              "privacidade"
+            ]
+          },
+          {
+            "id": "tecnologia-2026-07-06-1600-02",
+            "titulo": "Google passou a guardar mais dados de busca com IA",
+            "resumo": "Nova configuração, ativada por padrão, armazena mídias de usuários e levanta críticas de especialistas em privacidade.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/google-coleta-audios-imagens-treinar-ia/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-03T13:43:04-03:00",
+            "relevancia": 0.6,
+            "destaque": false,
+            "tags": [
+              "google",
+              "ia"
+            ]
+          }
+        ]
+      },
+      "cultura": {
+        "slug": "cultura",
+        "nome": "Cultura",
+        "artigos": [
+          {
+            "id": "cultura-2026-07-06-1600-01",
+            "titulo": "Conheça Toby, o gato que nasceu com 28 dedos e entrou para o Guinness Book",
+            "resumo": "Um gato chamado Toby nasceu com 28 dedos e entrou para o Guinness Book.",
+            "imagem": "https://super.abril.com.br/wp-content/uploads/2026/07/0607-gato-28-dedos-layout_site-CAPA.jpg",
+            "link": "https://super.abril.com.br/cultura/conheca-toby-o-gato-que-nasceu-com-28-dedos-e-entrou-para-o-guinness-book/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-06T13:00:13-03:00",
+            "relevancia": 0.4,
+            "destaque": false,
+            "tags": [
+              "gatos",
+              "guinness book"
+            ]
+          }
+        ]
+      },
+      "atualidades": {
+        "slug": "atualidades",
+        "nome": "Atualidades",
+        "artigos": [
+          {
+            "id": "atualidades-2026-07-06-1600-01",
+            "titulo": "Brasil deverá ter centro para enfrentamento de emergências em saúde",
+            "resumo": "O Brasil deverá ter um centro para enfrentamento de emergências em saúde.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/brasil-devera-ter-centro-para-enfrentamento-de-emergencias-em-saude/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-06T10:20:05-03:00",
+            "relevancia": 0.7,
+            "destaque": true,
+            "tags": [
+              "brasil",
+              "saude"
+            ]
+          }
+        ]
+      },
+      "comportamento": {
+        "slug": "comportamento",
+        "nome": "Comportamento & Sociedade",
+        "artigos": [
+          {
+            "id": "comportamento-2026-07-06-1600-01",
+            "titulo": "Este hábito simples que aumenta admiração e bem-estar",
+            "resumo": "Um estudo verificou que o foco intencional em admiração produz benefícios físicos e emocionais mensuráveis.",
+            "imagem": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/10/banner-assine-outro-prompt.jpg",
+            "link": "https://gizbr.uol.com.br/caminhada-admiracao-beneficios-estresse/",
+            "fonte": "Desconhecida",
+            "publicado_em": "2026-07-05T20:18:42-03:00",
+            "relevancia": 0.5,
+            "destaque": false,
+            "tags": [
+              "comportamento",
+              "bem-estar"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
