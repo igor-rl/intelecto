@@ -754,6 +754,93 @@
           "publicado_em": "2026-07-07T09:12:04-03:00"
         }
       ]
+    },
+    "guardian": {
+      "slug": "guardian",
+      "nome": "The Guardian",
+      "gerado_em": "2026-07-07T12:15:35.776Z",
+      "artigos": [
+        {
+          "id": "guardian-2026-07-07-1201",
+          "titulo": "O que definirá o legado de Elon Musk? Cortes na USAID para programas de ebola",
+          "resumo": "Especialistas dizem que cortes prejudicaram a resposta ao surto de ebola na RDC e resultaram em 'números significativos' de mortes",
+          "imagem": null,
+          "link": "https://www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola",
+          "publicado_em": "2026-07-07T11:00:06.000Z"
+        },
+        {
+          "id": "guardian-2026-07-07-1202",
+          "titulo": "Cinco pessoas acusadas na Libéria após apreensão de mais de 200kg de cocaína",
+          "resumo": "Remessa descoberta no aeroporto de Monróvia e avaliada em £14,2 milhões havia sido falsamente declarada como cubos de tempero",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust",
+          "publicado_em": "2026-07-07T06:30:31.000Z"
+        },
+        {
+          "id": "guardian-2026-07-07-1204",
+          "titulo": "A situação é terrível: trabalhadores humanitários sobre a vida na cidade sudanesa bombardeada por drones",
+          "resumo": "El Obeid se torna um campo de batalha importante na guerra entre as forças armadas do Sudão e seus inimigos paramilitares, o RSF",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
+          "publicado_em": "2026-07-04T15:14:18.000Z"
+        },
+        {
+          "id": "guardian-2026-07-07-1205",
+          "titulo": "Projeto de educação no exterior para mulheres e meninas cancelado pelo Reino Unido após dois anos",
+          "resumo": "O programa, destinado a manter 1 milhão de meninas na escola em toda a África, Ásia e Oriente Médio, foi retirado após cortes na ajuda",
+          "imagem": null,
+          "link": "https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years",
+          "publicado_em": "2026-07-04T08:00:08.000Z"
+        },
+        {
+          "id": "guardian-2026-07-07-1206",
+          "titulo": "Viver assim é uma agonia: Cuba sofre seu terceiro blecaute nacional em seis meses",
+          "resumo": "A ilha empobrecida já estava lutando para manter as luzes acesas antes dos EUA imporem um bloqueio em janeiro",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/jul/06/cuba-suffers-third-nationwide-blackout-in-six-months",
+          "publicado_em": "2026-07-06T19:30:09.000Z"
+        },
+        {
+          "id": "guardian-2026-07-07-1207",
+          "titulo": "Canadá compra 12 submarinos de tecnologia alemã após guerra de lances",
+          "resumo": "TKMS supera rival sul-coreano em contrato de vários bilhões de dólares que aprofundará os laços do Canadá com a OTAN",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
+          "publicado_em": "2026-07-06T16:41:47.000Z"
+        },
+        {
+          "id": "guardian-2026-07-07-1209",
+          "titulo": "Rodríguez defende a resposta de emergência do Venezuela ao terremoto enquanto o número de corpos é esperado para aumentar",
+          "resumo": "Presidente interina diz que a agitação não irá eclodir apesar da raiva pela resposta oficial ao desastre de 24 de junho",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/jul/05/rodriguez-defends-venezuelas-emergency-earthquake-response-as-bodies-expected-to-soar",
+          "publicado_em": "2026-07-05T21:50:42.000Z"
+        },
+        {
+          "id": "guardian-2026-07-07-1210",
+          "titulo": "Republicano da Flórida diz que deportar haitianos com TPS seria um 'grande erro'",
+          "resumo": "'Haiti é um estado falido', diz Carlos Giménez, congressista e exilado cubano de Miami, após decisão judicial controversa",
+          "imagem": null,
+          "link": "https://www.theguardian.com/us-news/2026/jul/05/haitians-tps-republican-carlos-gimenez",
+          "publicado_em": "2026-07-05T19:54:38.000Z"
+        },
+        {
+          "id": "guardian-2026-07-07-1211",
+          "titulo": "Tempestades severas na China trazem tornados e deslizamentos de terra que mataram 15 pessoas",
+          "resumo": "Líder chinês Xi Jinping pede esforço de resgate 'total' à medida que o número de mortos aumenta e 16 pessoas permanecem enterradas após um deslizamento de terra no oeste do país",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/jul/07/china-severe-storms-death-toll-xi-jinping-rescue-efforts-landslides-tornadoes",
+          "publicado_em": "2026-07-07T06:51:54.000Z"
+        },
+        {
+          "id": "guardian-2026-07-07-1212",
+          "titulo": "Primeiro-ministro australiano diz que teste de mísseis chineses poderia ter causado 'danos consideráveis' se fosse armado",
+          "resumo": "Primeiro-ministro das Ilhas Salomão diz que não quer ver mais países testando mísseis balísticos intercontinentais no Pacífico, acrescentando 'seja nosso amigo, mas não nos ameace'",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/jul/07/chinese-government-tells-critics-not-to-overinterpret-missile-test-in-pacific-as-criticism-grows",
+          "publicado_em": "2026-07-07T04:28:02.000Z"
+        }
+      ]
     }
   }
 }
