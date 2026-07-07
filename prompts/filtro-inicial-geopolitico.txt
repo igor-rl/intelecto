@@ -18,20 +18,20 @@ REGRAS DE MAPEAMENTO DOS CAMPOS:
 - "link": sempre use o campo U correspondente.
 - "imagem": use o campo I se vier preenchido; caso contrário, use null. Nunca invente uma URL.
 - "publicado_em": campo D convertido para ISO 8601 com timezone -03:00 quando possível; se não der pra inferir, repita o timestamp de geração.
-- "id": formato "{{CATEGORIA_SLUG}}-{{DATA_ISO}}-{{HORA_ISO}}-NN", onde NN é a posição de 2 dígitos (01, 02, ...).
+- "id": formato "{{JORNAL_SLUG}}-{{DATA_ISO}}-{{HORA_ISO}}-NN", onde NN é a posição de 2 dígitos (01, 02, ...).
 - Se nenhum artigo for relevante, responda com "artigos": [].
 - Responda APENAS com JSON válido, sem comentários, sem markdown, sem texto fora do JSON.
 
-Gere o conteudo.json da categoria "{{CATEGORIA_NOME}}" para a geração de {{GERADO_EM}}.
+Gere o conteudo.json do jornal "{{JORNAL_NOME}}" para a geração de {{GERADO_EM}}.
 
 ARTIGOS BRUTOS:
 {{ARTIGOS}}
 
 FORMATO OBRIGATÓRIO DA RESPOSTA:
 {
-  "{{CATEGORIA_SLUG}}": {
-    "slug": "{{CATEGORIA_SLUG}}",
-    "nome": "{{CATEGORIA_NOME}}",
+  "{{JORNAL_SLUG}}": {
+    "slug": "{{JORNAL_SLUG}}",
+    "nome": "{{JORNAL_NOME}}",
     "gerado_em": "{{GERADO_EM}}",
     "artigos": [
       {
