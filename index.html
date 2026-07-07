@@ -18,9 +18,9 @@
 </div>
 
 <header class="masthead">
-  <div class="kicker">Geopolítica &amp; Mídia Global · Principais jornais mundiais</div>
+  <div class="kicker">Geopolítica &amp; Mídia Global · Principais jornais mundiais · Inteligência Artificial</div>
   <h1><span>The Intelecto News</span></h1>
-  <div class="tagline">Fique por dentro de tudo que acontece no mundo.</div>
+  <div class="tagline">As principais notícias dos blocos geopolíticos mundiais selecionados por Inteligencia Artificia.</div>
 </header>
 
 <div class="ticker-bar">
@@ -36,6 +36,7 @@
   <div class="wrap">
     <div class="nav-scroll" id="nav-scroll">
       <a href="#capa">Capa</a>
+      <a href="#temas">Temas</a>
     </div>
   </div>
 </nav>
@@ -44,6 +45,8 @@
   <section class="capa" id="capa">
     <div id="capa-content" class="state-msg">Carregando edição…</div>
   </section>
+
+  <div id="temas-root"></div>
 
   <div id="sections-root"></div>
 </main>
@@ -128,6 +131,81 @@
     `;
   }
 
+  function fonteLabel(slug){
+    // slug de jornal (ex: "the_guardian") -> rótulo mais legível ("The Guardian")
+    if(!slug) return '';
+    return String(slug)
+      .replace(/_/g, ' ')
+      .replace(/\b\w/g, c => c.toUpperCase());
+  }
+
+  function renderFontesRow(list, label, cls){
+    if(!list || !list.length) return '';
+    const pills = list.map(s => `<span class="pill ${cls}">${escapeHtml(fonteLabel(s))}</span>`).join('');
+    return `<div class="fontes-row"><span class="fontes-row-label">${escapeHtml(label)}</span>${pills}</div>`;
+  }
+
+  function temaCardHtml(t){
+    return `
+      <div class="tema-card">
+        <h4>${escapeHtml(t.tema || '')}</h4>
+        ${t.descricao ? `<p class="tema-desc">${escapeHtml(t.descricao)}</p>` : ''}
+        ${t.divergencia_de_enquadramento ? `
+          <div class="tema-diverg">
+            <span class="tema-label">Divergência de enquadramento</span>
+            <p>${escapeHtml(t.divergencia_de_enquadramento)}</p>
+          </div>` : ''}
+        <div class="tema-fontes">
+          ${renderFontesRow(t.fontes_que_cobriram, 'Cobriram', 'pill-cobriu')}
+          ${renderFontesRow(t.fontes_que_ignoraram_ou_minimizaram, 'Ignoraram / minimizaram', 'pill-ignorou')}
+        </div>
+      </div>
+    `;
+  }
+
+  function subcobertoHtml(t){
+    return `
+      <div class="subcoberto-item">
+        <h5>${escapeHtml(t.tema || '')}</h5>
+        ${t.por_que_importa ? `<p>${escapeHtml(t.por_que_importa)}</p>` : ''}
+        ${t.cobertura ? `<div class="subcoberto-cobertura">${escapeHtml(t.cobertura)}</div>` : ''}
+      </div>
+    `;
+  }
+
+  function renderTemas(principais, subcobertos){
+    const root = document.getElementById('temas-root');
+    const temPrincipais = principais && principais.length;
+    const temSubcobertos = subcobertos && subcobertos.length;
+
+    if(!temPrincipais && !temSubcobertos){
+      root.innerHTML = '';
+      return;
+    }
+
+    let html = `<section class="section temas-section" id="temas">
+      <div class="section-head">
+        <h3>Temas &amp; Divergências</h3>
+        <span class="count">${temPrincipais ? principais.length : 0}${temPrincipais && principais.length === 1 ? ' tema cruzado' : ' temas cruzados'}</span>
+      </div>`;
+
+    if(temPrincipais){
+      html += `<div class="temas-grid">${principais.map(temaCardHtml).join('')}</div>`;
+    }
+
+    if(temSubcobertos){
+      html += `
+        <div class="subcobertos-block">
+          <span class="capa-eyebrow">Fora do radar</span>
+          ${subcobertos.map(subcobertoHtml).join('')}
+        </div>
+      `;
+    }
+
+    html += `</section>`;
+    root.innerHTML = html;
+  }
+
   function cardHtml(art){
     const img = art.imagem
       ? `<img src="${art.imagem}" alt="${escapeHtml(art.titulo)}" loading="lazy" onerror="this.outerHTML='&lt;div class=&quot;img-placeholder&quot;&gt;Sem imagem&lt;/div&gt;'">`
@@ -183,6 +261,7 @@
     renderDateline(data);
     renderTicker(data.destaques);
     renderCapa(data.capa);
+    renderTemas(data.temas_principais, data.temas_subcobertos);
 
     // jornais é um objeto { slug: {...} }, precisa virar array
     const jornaisArray = data.jornais ? Object.values(data.jornais) : [];

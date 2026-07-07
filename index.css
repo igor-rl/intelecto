@@ -218,6 +218,122 @@ font-family:'Space Mono',monospace;font-size:11px;color:var(--ink-soft);
 text-transform:uppercase;letter-spacing:.1em;
 }
 
+/* ---------- Temas & Divergências ---------- */
+.temas-section{
+padding:34px 0 40px;
+}
+.temas-grid{
+display:grid;
+grid-template-columns:repeat(auto-fill, minmax(280px, 1fr));
+gap:24px;
+margin-bottom:8px;
+}
+.tema-card{
+border:1px solid var(--line);
+background:var(--paper-dim);
+padding:18px 20px;
+}
+.tema-card h4{
+font-family:'Fraunces', serif;
+font-weight:600;
+font-size:19px;
+line-height:1.2;
+margin:0 0 8px;
+color:var(--brick);
+}
+.tema-desc{
+font-size:14px;
+line-height:1.55;
+color:var(--ink-soft);
+margin:0 0 12px;
+}
+.tema-diverg{
+border-left:2px solid var(--gold);
+padding-left:12px;
+margin:0 0 14px;
+}
+.tema-diverg p{
+font-size:13.5px;
+line-height:1.55;
+margin:2px 0 0;
+}
+.tema-label{
+display:block;
+font-family:'Space Mono', monospace;
+font-size:10px;
+text-transform:uppercase;
+letter-spacing:.08em;
+color:var(--gold);
+}
+.tema-fontes{
+display:flex;
+flex-direction:column;
+gap:8px;
+}
+.fontes-row{
+display:flex;
+flex-wrap:wrap;
+align-items:center;
+gap:6px;
+}
+.fontes-row-label{
+font-family:'Space Mono', monospace;
+font-size:9.5px;
+text-transform:uppercase;
+letter-spacing:.06em;
+color:var(--ink-soft);
+margin-right:2px;
+white-space:nowrap;
+}
+.pill{
+font-family:'Space Mono', monospace;
+font-size:10px;
+padding:2px 8px;
+border:1px solid var(--ink);
+text-transform:uppercase;
+letter-spacing:.03em;
+white-space:nowrap;
+}
+.pill-cobriu{
+background:var(--ink);
+color:var(--paper);
+}
+.pill-ignorou{
+background:transparent;
+color:var(--brick);
+border-color:var(--brick);
+}
+
+.subcobertos-block{
+border-top:1px dashed var(--line);
+padding-top:22px;
+margin-top:8px;
+}
+.subcoberto-item{
+margin-bottom:16px;
+}
+.subcoberto-item:last-child{
+margin-bottom:0;
+}
+.subcoberto-item h5{
+font-family:'Fraunces', serif;
+font-weight:600;
+font-size:16px;
+margin:0 0 4px;
+}
+.subcoberto-item p{
+font-size:14px;
+line-height:1.5;
+color:var(--ink-soft);
+margin:0 0 4px;
+}
+.subcoberto-cobertura{
+font-family:'Space Mono', monospace;
+font-size:11px;
+color:var(--ink-soft);
+letter-spacing:.02em;
+}
+
 /* ---------- Sections / Cards ---------- */
 .section{
 padding:34px 0;
@@ -326,6 +442,7 @@ font-size:12px;color:var(--ink-soft);text-transform:uppercase;letter-spacing:.06
 .card-grid{grid-template-columns:1fr;}
 .dateline{font-size:10px;}
 .capa .resumo::first-letter{font-size:42px;}
+.temas-grid{grid-template-columns:1fr;}
 }
 @media (prefers-reduced-motion: reduce){
 .ticker-track{animation:none;}
