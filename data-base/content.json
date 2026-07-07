@@ -95,144 +95,112 @@
     },
     "new_york_times": {
       "slug": "new_york_times",
-      "nome": "New York Times",
-      "gerado_em": "2026-07-07T09:00:00.589Z",
+      "nome": "The New York Times",
+      "gerado_em": "2026-07-07T14:51:16.827Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-07-07-0901",
-          "titulo": "Platner’s Democratic Support Evaporates After Sexual Assault Allegation",
-          "resumo": "Graham Platner, the Democratic Senate candidate in Maine, called the allegation false but said he would “reflect” on his political path forward, as many allies rescinded their endorsements.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/06/us/politics/graham-platner-maine-assault.html",
-          "publicado_em": "2026-07-07T02:33:43.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-07-0902",
-          "titulo": "In CNN Interview, Woman Details Alleged Sexual Assault by Graham Platner",
-          "resumo": "“This is something that I tried for many years to forget,” the woman, Jenny Racicot, said on CNN.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/06/us/politics/jenny-racicot-cnn-interview-graham-platner.html",
-          "publicado_em": "2026-07-07T00:50:45.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-07-0903",
-          "titulo": "Who Might Replace Graham Platner if He Drops Out of the Maine Senate Race?",
-          "resumo": "Graham Platner can be replaced on the ballot if he withdraws in the next week. If he does, Maine Democrats would face an uncertain two-week race to choose a replacement.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/06/us/politics/who-would-replace-graham-platner-maine.html",
-          "publicado_em": "2026-07-06T22:30:20.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-07-0904",
-          "titulo": "Trump Wanted a U.S. Soccer Star to Play in the World Cup. FIFA Found a Way.",
-          "resumo": "There was nothing unusual about a call from President Trump or the reversal of Folarin Balogun’s suspension, said the president of FIFA, Gianni Infantino.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/06/world/europe/fifa-trump-infantino-world-cup-red-card.html",
-          "publicado_em": "2026-07-07T07:33:41.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-07-0905",
-          "titulo": "In NATO’s Next Act, Can Europe Play the Leading Role?",
-          "resumo": "The focus at a leaders’ summit in Turkey this week will be on building a new model for the alliance, as President Trump pushes to do less and pressures others do more.",
+          "id": "new_york_times-2026-07-07-1401",
+          "titulo": "No Próximo Ato da OTAN, a Europa Pode Liderar?",
+          "resumo": "A focus no encontro de líderes na Turquia esta semana será em construir um novo modelo para a aliança, enquanto o presidente Trump pressiona para fazer menos e pressiona outros a fazer mais.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/07/world/europe/nato-trump-rutte-ankara-turkey.html",
-          "publicado_em": "2026-07-07T06:59:47.000Z"
+          "publicado_em": "2026-07-07T12:37:26.000Z"
         },
         {
-          "id": "new_york_times-2026-07-07-0906",
-          "titulo": "Canada Bets on NATO Partners for Its Expanded Submarine Fleet",
-          "resumo": "In selecting a joint bid from Germany and Norway, Prime Minister Mark Carney is elevating Canada’s naval power and reducing its military and economic dependency on the United States.",
+          "id": "new_york_times-2026-07-07-1402",
+          "titulo": "Trump Espera Dizer à Turquia que Está Pronto para Restaurar o Acesso aos Caças F-35",
+          "resumo": "O presidente, que está indo para uma cúpula da OTAN em Ancara esta semana, havia imposto a proibição ele mesmo em meio a preocupações de que dar à Turquia os caças pudesse permitir que a Rússia aprendesse sobre a tecnologia stealth.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/06/world/canada/carney-submariness-canada-military.html",
-          "publicado_em": "2026-07-06T21:48:59.000Z"
+          "link": "https://www.nytimes.com/2026/07/06/us/politics/trump-turkey-f35.html",
+          "publicado_em": "2026-07-07T10:01:11.000Z"
         },
         {
-          "id": "new_york_times-2026-07-07-0907",
-          "titulo": "McConnell Has Been Hospitalized for 3 Weeks, and Aides Won’t Say Why",
-          "resumo": "Senator Mitch McConnell was admitted to the hospital on June 14, and his office has provided few updates about his condition. Here’s what we know.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/06/us/politics/mitch-mcconell-health-hospitalization.html",
-          "publicado_em": "2026-07-06T23:41:43.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-07-0908",
-          "titulo": "Michigan Senate Primary Gives Democrats Stark Choice Between Progressive and Moderate Candidate",
-          "resumo": "The state’s important Senate primary just became a head-to-head battle between Abdul El-Sayed, an outspoken left-wing candidate, and Haley Stevens, a moderate backed by party leaders.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/06/us/politics/michigan-primary-democrats-stevens-el-sayed.html",
-          "publicado_em": "2026-07-06T18:29:13.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-07-0909",
-          "titulo": "Inside Trump’s Ideological Fight With the Smithsonian",
-          "resumo": "Publicly and behind the scenes, the president continues to try to impose his own views of American history and culture, presenting an ongoing challenge to Lonnie Bunch, the institution’s leader.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/06/us/politics/trump-smithsonian-ideological-fight.html",
-          "publicado_em": "2026-07-06T22:01:35.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-07-0910",
-          "titulo": "Historians Reject Trump Administration’s Criticism of Smithsonian Museum",
-          "resumo": "The nation’s largest group of scholars of U.S. history denounced a White House report attacking the Smithsonian’s National Museum of American History.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/06/arts/smithsonian-trump-activism-american-history.html",
-          "publicado_em": "2026-07-06T21:02:47.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-07-0911",
-          "titulo": "Joining a Human Tide of Mourners Flowing Through Tehran’s Streets",
-          "resumo": "After days of public mourning ceremonies in the Iranian capital, Ayatollah Ali Khamenei’s coffin arrived in Tehran’s Azadi Square. This is what I saw covering the miles-long procession on Monday.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/07/world/middleeast/tehran-khamenei-funeral-procession.html",
-          "publicado_em": "2026-07-07T07:15:30.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-07-0912",
-          "titulo": "New Strikes on Ships in Strait of Hormuz Test U.S.-Iran Cease-Fire",
-          "resumo": "A U.S. official said Iranian missiles struck two commercial ships. There was no immediate comment from Iranian officials on the reported attacks.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html",
-          "publicado_em": "2026-07-07T08:06:10.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-07-0917",
-          "titulo": "The Chinese Company That Could Start a Trade War With Europe",
-          "resumo": "Nuctech’s rise from a Chinese state-backed start-up to a global border-security supplier has made it a lightning rod in trade and subsidy disputes.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/06/business/china-europe-nuctech.html",
-          "publicado_em": "2026-07-06T09:00:42.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-07-0920",
-          "titulo": "Death Toll From Oppressive Heat in New Jersey May Be as High as 29",
-          "resumo": "In New York City, emergency rooms last week logged the highest number of patients treated for heat-related illnesses in years.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/06/nyregion/new-jersey-nyc-heat-deaths.html",
-          "publicado_em": "2026-07-07T01:00:30.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-07-0921",
-          "titulo": "Heat Waves Are Taking a Big Toll on Chickens",
-          "resumo": "The birds are particularly vulnerable to high temperatures, and France’s torrid June took a heavy toll.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/06/climate/dead-chickens-heat-wave-france.html",
-          "publicado_em": "2026-07-06T18:39:08.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-07-0922",
-          "titulo": "Extreme Heat Hits Europe for the Third Time This Year",
-          "resumo": "It is continent’s third spell of scorching weather since May. Europe is the world’s fastest-warming continent.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/06/weather/europe-heat-wave-latest-wildfire.html",
-          "publicado_em": "2026-07-07T02:56:08.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-07-0927",
-          "titulo": "A Long-Awaited Verdict for Marine Le Pen Could Reshape France’s Politics",
-          "resumo": "A court will decide on Tuesday whether to uphold Ms. Le Pen’s embezzlement conviction. If it does, the far-right leader will probably be barred from running for the presidency next year.",
+          "id": "new_york_times-2026-07-07-1404",
+          "titulo": "Tribunal Mantém a Condenação de Marine Le Pen, mas Deixa Aberto o Caminho para a Presidência",
+          "resumo": "Embora tenha confirmado a condenação por desvio de fundos de Marine Le Pen, o tribunal também encurtou a proibição de sua elegibilidade para cargos eletivos. Isso pode permitir que a líder de extrema-direita concorra à presidência no próximo ano.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/07/world/europe/marine-le-pen-verdict-election-ban-appeal.html",
-          "publicado_em": "2026-07-07T04:01:06.000Z"
+          "publicado_em": "2026-07-07T12:20:12.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-07-1408",
+          "titulo": "Trump Prometeu um Boom de Investimento Estrangeiro. Está Ficando Difícil de Cumprir",
+          "resumo": "A ameaça de tarifas pode ter ajudado a impulsionar mais capital para os Estados Unidos, mas outros fatores estão empurrando o capital para longe.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/07/business/economy/trump-foreign-investment.html",
+          "publicado_em": "2026-07-07T13:23:42.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-07-1409",
+          "titulo": "Déficit Comercial dos EUA Aumenta em Maio com Importações de Bens Recorde",
+          "resumo": "As importações de bens estrangeiros, incluindo medicamentos e equipamentos para centros de dados, atingiram um recorde, impulsionando o déficit comercial mensal para seu nível mais alto em mais de um ano.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/07/business/economy/us-trade-deficit-may.html",
+          "publicado_em": "2026-07-07T13:50:47.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-07-1410",
+          "titulo": "A Estônia Venceu a Guerra Contra o Fentanil. O que Veio em Seguida Foi Pior",
+          "resumo": "Em 2018, as overdoses de fentanil na Estônia haviam despencado. No entanto, novas drogas poderosas estão surgindo rapidamente, com as autoridades correndo para responder.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/07/world/europe/estonia-fentanyl-new-drugs.html",
+          "publicado_em": "2026-07-07T11:58:01.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-07-1411",
+          "titulo": "Como uma Família Cubana de Quatro Gerações Sobrevive com $60 por Mês",
+          "resumo": "O bloqueio de petróleo dos EUA aprofundou uma crise humanitária, forçando os cubanos a se apoiar na longa tradição de solidariedade comunitária da ilha para fornecer um amortecedor.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/07/world/americas/cuba-power-crisis-oil-blockade.html",
+          "publicado_em": "2026-07-07T09:12:04.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-07-1413",
+          "titulo": "Toll de Mortos devido ao Calor Opressivo em Nova Jersey Pode Chegar a 29",
+          "resumo": "Em Nova York, os pronto-socorros registraram o maior número de pacientes tratados por doenças relacionadas ao calor em anos.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/06/nyregion/new-jersey-nyc-heat-deaths.html",
+          "publicado_em": "2026-07-07T12:57:39.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-07-1414",
+          "titulo": "Trump Prometeu Reduzir o Desemprego Negro, mas Agora Minimiza o Problema",
+          "resumo": "O presidente tem minimizado o desemprego persistente entre os afro-americanos, um grupo que ele precisava para garantir um segundo mandato.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/07/us/politics/trump-black-voters-unemployment.html",
+          "publicado_em": "2026-07-07T09:01:42.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-07-1416",
+          "titulo": "Príncipe Harry Perde Processo por Privacidade Contra Editora do Daily Mail",
+          "resumo": "O caso movido por Harry e outras celebridades contra a Associated Newspapers foi uma das várias batalhas legais que o príncipe travou contra os tabloides britânicos nos últimos anos.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/07/world/europe/prince-harry-lawsuit-daily-mail-uk-associated-newspapers.html",
+          "publicado_em": "2026-07-07T13:11:57.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-07-1417",
+          "titulo": "Esses Soldados que Inundam suas Redes Sociais? Eles Podem Não Ser Reais",
+          "resumo": "Vídeos gerados por inteligência artificial invadem as mídias sociais para explorar o apoio público às tropas dos EUA para outros fins.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/07/business/soldiers-ai-disinformation.html",
+          "publicado_em": "2026-07-07T09:03:01.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-07-1421",
+          "titulo": "Desigualdade no Caribe",
+          "resumo": "Analisamos os esforços de alívio dos EUA no Haiti em 2010 e na Venezuela agora.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/07/briefing/earthquake-response-venezuela-haiti.html",
+          "publicado_em": "2026-07-07T10:54:15.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-07-1423",
+          "titulo": "Ayatollah Ali Khamenei, Líder Iraniano Assassinado, é Lamentado em Qom",
+          "resumo": "A cerimônia para o Ayatollah Ali Khamenei, realizada em um local considerado sagrado por muitos xiitas, foi o último passo em um funeral de uma semana organizado pelo governo iraniano.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-khamenei-qom-funeral.html",
+          "publicado_em": "2026-07-07T13:32:27.000Z"
         }
       ]
     },
