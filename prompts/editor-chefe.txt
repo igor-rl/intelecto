@@ -90,7 +90,7 @@ crases, sem texto antes ou depois. O objeto deve ter exatamente esta forma:
 ```json
 {
   "capa": {
-    "categoria_nome": "Análise",
+    "categoria_nome": "O que marcou o dia?",
     "titulo": "Manchete curta e direta do tema-âncora do dia (máx. ~90 caracteres, sem aspas literais de nenhuma fonte)",
     "subtitulo": "Uma frase (1 linha) que situa o ângulo cruzado da análise, não apenas repete o título",
     "resumo": "Texto corrido de 300–500 palavras, em português, tom analítico e sóbrio — o corpo completo da análise (ver estrutura abaixo)",
