@@ -4,7 +4,16 @@
   "edicao": "2026-07-06",
   "itens_urgentes": {},
   "destaques": [],
-  "capa": {},
+  "capa": {
+    "categoria_nome": "Análise",
+    "titulo": "Tensões Globais: Conflitos e Alianças",
+    "subtitulo": "Análise das principais notícias do dia, com foco em conflitos, alianças e tensões globais",
+    "resumo": "O cenário global está marcado por tensões e conflitos em várias regiões. A guerra na Ucrânia continua, com a Rússia realizando ataques a Kiev e a Ucrânia respondendo com ataques a alvos russos. A OTAN realizou uma cúpula em Ancara, na Turquia, para discutir a segurança europeia e a relação com a Rússia. Além disso, a China realizou um teste de míssil no Pacífico Sul, o que gerou preocupações em relação à estabilidade na região. Já na África, a Costa do Marfim enfrenta inundações que mataram 59 pessoas, enquanto a Libéria enfrenta um julgamento de tráfico de pessoas. Esses eventos demonstram a complexidade e a interconexão dos conflitos e desafios globais.",
+    "fonte": "Intelecto News · Redação",
+    "publicado_em": "2026-07-07T08:00:00-03:00",
+    "link": null,
+    "imagem": null
+  },
   "jornais": {
     "the_guardian": {
       "slug": "the_guardian",
@@ -955,5 +964,61 @@
         }
       ]
     }
-  }
+  },
+  "temas_principais": [
+    {
+      "tema": "Guerra na Ucrânia",
+      "descricao": "A guerra na Ucrânia continua, com a Rússia realizando ataques a Kiev e a Ucrânia respondendo com ataques a alvos russos.",
+      "fontes_que_cobriram": [
+        "the_guardian",
+        "new_york_times",
+        "rt",
+        "mt"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "scmp",
+        "st"
+      ],
+      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar a agressão russa, enquanto as fontes russas e de esquerda tendem a destacar a resposta ucraniana e a interferência ocidental."
+    },
+    {
+      "tema": "OTAN e Segurança Europeia",
+      "descricao": "A OTAN realizou uma cúpula em Ancara, na Turquia, para discutir a segurança europeia e a relação com a Rússia.",
+      "fontes_que_cobriram": [
+        "new_york_times",
+        "euronews",
+        "st"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "rt",
+        "mt"
+      ],
+      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar a importância da OTAN para a segurança europeia, enquanto as fontes russas e de esquerda tendem a questionar a legitimidade e a eficácia da aliança."
+    },
+    {
+      "tema": "Tensões na Ásia-Pacífico",
+      "descricao": "A China realizou um teste de míssil no Pacífico Sul, o que gerou preocupações em relação à estabilidade na região.",
+      "fontes_que_cobriram": [
+        "scmp",
+        "the_guardian"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "rt",
+        "mt"
+      ],
+      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar a ameaça representada pela China, enquanto as fontes chinesas e de esquerda tendem a destacar a necessidade de defesa nacional e a resposta às ameaças externas."
+    }
+  ],
+  "temas_subcobertos": [
+    {
+      "tema": "Inundações na Costa do Marfim",
+      "por_que_importa": "As inundações na Costa do Marfim mataram 59 pessoas e afetaram milhares de outras, destacando a vulnerabilidade das comunidades africanas a desastres naturais.",
+      "cobertura": "A cobertura foi limitada, com apenas algumas fontes ocidentais e africanas noticiando o evento."
+    },
+    {
+      "tema": "Julgamento de tráfico de pessoas na Libéria",
+      "por_que_importa": "O julgamento de tráfico de pessoas na Libéria é um exemplo da luta contra a exploração humana na África, e destaca a necessidade de justiça e proteção para as vítimas.",
+      "cobertura": "A cobertura foi limitada, com apenas algumas fontes africanas e de direitos humanos noticiando o evento."
+    }
+  ]
 }
