@@ -101,14 +101,94 @@
     track.innerHTML = items + items; // duplicado para loop contínuo
   }
 
-  function renderCapa(capa){
-    const root = document.getElementById('capa-content');
-    if(!capa){
-      root.className = 'state-msg';
-      root.textContent = 'Nenhuma matéria de capa disponível no momento.';
-      return;
-    }
-    root.className = '';
+  // ---------- Capa: helpers do bloco editorial ----------
+
+  function outletName(jornaisMap, slug){
+    if(jornaisMap && jornaisMap[slug] && jornaisMap[slug].nome) return jornaisMap[slug].nome;
+    return slug;
+  }
+
+  function pillsHtml(list, jornaisMap, cls){
+    if(!list || !list.length) return '<span class="tema-pill-empty">—</span>';
+    return list.map(s =>
+      `<span class="tema-pill ${cls}">${escapeHtml(outletName(jornaisMap, s))}</span>`
+    ).join('');
+  }
+
+  function temaHtml(tema, idx, jornaisMap){
+    return `
+      <div class="tema-item">
+        <div class="tema-num">${String(idx + 1).padStart(2, '0')}</div>
+        <div class="tema-body">
+          <h4>${escapeHtml(tema.tema || '')}</h4>
+          ${tema.descricao ? `<p class="tema-desc">${escapeHtml(tema.descricao)}</p>` : ''}
+          <div class="tema-cobertura">
+            <div class="tema-col">
+              <span class="tema-col-label">Cobriram</span>
+              <div class="tema-pills">${pillsHtml(tema.fontes_que_cobriram, jornaisMap, 'pill-in')}</div>
+            </div>
+            <div class="tema-col">
+              <span class="tema-col-label">Ignoraram / minimizaram</span>
+              <div class="tema-pills">${pillsHtml(tema.fontes_que_ignoraram_ou_minimizaram, jornaisMap, 'pill-out')}</div>
+            </div>
+          </div>
+          ${tema.divergencia_de_enquadramento ? `<p class="tema-divergencia">${escapeHtml(tema.divergencia_de_enquadramento)}</p>` : ''}
+        </div>
+      </div>
+    `;
+  }
+
+  function subcobertoHtml(item){
+    return `
+      <div class="blindspot-item">
+        <h5>${escapeHtml(item.tema || '')}</h5>
+        ${item.por_que_importa ? `<p>${escapeHtml(item.por_que_importa)}</p>` : ''}
+        ${item.cobertura ? `<div class="blindspot-cobertura">${escapeHtml(item.cobertura)}</div>` : ''}
+      </div>
+    `;
+  }
+
+  // ---------- Capa: render principal ----------
+
+  function renderCapaEditorial(root, capa, jornaisMap){
+    const paragrafos = (capa.texto_editorial || '')
+      .split(/\n\s*\n/)
+      .filter(p => p.trim().length)
+      .map(p => `<p class="editorial-p">${escapeHtml(p.trim())}</p>`)
+      .join('');
+
+    const temasHtml = (capa.temas_principais || [])
+      .map((t, i) => temaHtml(t, i, jornaisMap))
+      .join('');
+
+    const subHtml = (capa.temas_subcobertos || [])
+      .map(subcobertoHtml)
+      .join('');
+
+    root.innerHTML = `
+      <span class="capa-eyebrow">${escapeHtml(capa.categoria_nome || 'Editorial do dia')}</span>
+      <h2>${escapeHtml(capa.titulo || '')}</h2>
+      ${capa.subtitulo ? `<p class="subtitulo">${escapeHtml(capa.subtitulo)}</p>` : ''}
+      <div class="editorial-text">${paragrafos}</div>
+      ${capa.publicado_em ? `<div class="capa-meta">Editorial · ${fmtDate(capa.publicado_em)}</div>` : ''}
+
+      ${temasHtml ? `
+        <div class="temas-block">
+          <div class="temas-block-head">Temas do dia</div>
+          <div class="temas-list">${temasHtml}</div>
+        </div>
+      ` : ''}
+
+      ${subHtml ? `
+        <div class="blindspot-block">
+          <div class="blindspot-kicker">Ponto cego da cobertura</div>
+          <div class="blindspot-list">${subHtml}</div>
+        </div>
+      ` : ''}
+    `;
+  }
+
+  function renderCapaMateria(root, capa){
     root.innerHTML = `
       <div class="capa-grid">
         <div>
@@ -126,6 +206,25 @@
         </div>
       </div>
     `;
+  }
+
+  function renderCapa(capa, jornaisMap){
+    const root = document.getElementById('capa-content');
+    if(!capa){
+      root.className = 'state-msg';
+      root.textContent = 'Nenhuma matéria de capa disponível no momento.';
+      return;
+    }
+    root.className = '';
+
+    // Se o editor-chefe (LLM) gerou texto_editorial, usamos o formato novo.
+    // Caso contrário, cai no formato antigo (matéria única em destaque),
+    // mantendo compatibilidade com edições antigas do content.json.
+    if(capa.texto_editorial){
+      renderCapaEditorial(root, capa, jornaisMap);
+    } else {
+      renderCapaMateria(root, capa);
+    }
   }
 
   function cardHtml(art){
@@ -182,10 +281,13 @@
     // o JSON agora vem sem o wrapper "jornal": os campos ficam direto na raiz
     renderDateline(data);
     renderTicker(data.destaques);
-    renderCapa(data.capa);
 
-    // jornais é um objeto { slug: {...} }, precisa virar array
-    const jornaisArray = data.jornais ? Object.values(data.jornais) : [];
+    // jornais é um objeto { slug: {...} }, usado tanto pelas seções
+    // quanto para resolver nomes de fonte no bloco editorial da capa
+    const jornaisMap = data.jornais || {};
+    const jornaisArray = Object.values(jornaisMap);
+
+    renderCapa(data.capa, jornaisMap);
     renderSections(jornaisArray);
   }
 
