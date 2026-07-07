@@ -179,13 +179,13 @@
   }
 
   function render(data){
-    const jornal = data.jornal || {};
-    renderDateline(jornal);
-    renderTicker(jornal.destaques);
-    renderCapa(jornal.capa);
+    // o JSON agora vem sem o wrapper "jornal": os campos ficam direto na raiz
+    renderDateline(data);
+    renderTicker(data.destaques);
+    renderCapa(data.capa);
 
-    // categorias agora é um objeto { slug: {...} }, precisa virar array
-    const categoriasArray = jornal.categorias ? Object.values(jornal.categorias) : [];
+    // categorias é um objeto { slug: {...} }, precisa virar array
+    const categoriasArray = data.categorias ? Object.values(data.categorias) : [];
     renderSections(categoriasArray);
   }
 
