@@ -424,175 +424,111 @@
     "euronews": {
       "slug": "euronews",
       "nome": "Euro News",
-      "gerado_em": "2026-07-07T00:37:28.366Z",
+      "gerado_em": "2026-07-07T12:34:00.004Z",
       "artigos": [
         {
-          "id": "euronews-2026-07-06T16-14-14-01",
-          "titulo": "Forças paramilitares do Sudão arrasam vilas na região de Darfur, matando dezenas",
-          "resumo": "As Forças de Apoio Rápido do Sudão arrasaram várias vilas na região de Darfur, matando muitas pessoas e deslocando milhares, enquanto um relatório separado da ONU destaca que mais de 300 crianças foram mortas nos ataques deste ano",
+          "id": "euronews-2026-07-07-1201",
+          "titulo": "Lei sul-coreana que visa 'notícias falsas' entra em vigor enquanto grupos de jornalistas expressam preocupações",
+          "resumo": "A Coreia do Sul viu um aumento de desinformação online após a tentativa fracassada de lei marcial em 2024, incluindo alegações infundadas de interferência chinesa no sistema eleitoral.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/07/south-korean-law-targeting-fake-news-takes-effect-as-journalists-groups-raise-concerns",
+          "publicado_em": "2026-07-07T10:29:11.000Z"
+        },
+        {
+          "id": "euronews-2026-07-07-1202",
+          "titulo": "Macron visita a Mesquita Umayyad em Damasco durante viagem à Síria",
+          "resumo": "O presidente francês Emmanuel Macron visita a Mesquita Umayyad em Damasco com o líder sírio Ahmed al-Sharaa e assina o livro de visitas durante sua viagem à Síria.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/07/macron-tours-damascus-umayyad-mosque-during-syria-visit",
+          "publicado_em": "2026-07-07T09:53:17.000Z"
+        },
+        {
+          "id": "euronews-2026-07-07-1205",
+          "titulo": "Pelo menos 18 feridos em explosões em Damasco durante visita de Macron, dizem autoridades sírias",
+          "resumo": "Macron havia entrado no palácio presidencial para se encontrar com o presidente sírio Ahmad al-Sharaa quando as explosões ocorreram perto do Hotel Four Seasons.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/07/explosions-heard-in-damascus-during-visit-by-frances-president-emmanuel-macron",
+          "publicado_em": "2026-07-07T07:40:22.000Z"
+        },
+        {
+          "id": "euronews-2026-07-07-1207",
+          "titulo": "Não há paz duradoura no Oriente Médio sem um estado palestino, diz o presidente egípcio al-Sisi",
+          "resumo": "O presidente egípcio renovou o apelo do Cairo por um estado palestino independente durante a inauguração do novo Quartel-General Estratégico do país, conhecido como o Octágono.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/07/no-lasting-peace-in-the-middle-east-without-a-palestinian-state-egypts-al-sisi-says",
+          "publicado_em": "2026-07-07T07:00:18.000Z"
+        },
+        {
+          "id": "euronews-2026-07-07-1208",
+          "titulo": "Ativista de Hong Kong Joshua Wong deve ser julgado em setembro em segundo caso de segurança nacional",
+          "resumo": "Wong ganhou destaque em Hong Kong em 2012 como um estudante do ensino médio liderando protestos contra a introdução da educação nacional nas escolas da cidade.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/07/hong-kong-activist-joshua-wong-set-for-september-sentencing-in-second-national-security-ca",
+          "publicado_em": "2026-07-07T06:38:34.000Z"
+        },
+        {
+          "id": "euronews-2026-07-07-1209",
+          "titulo": "Mortos em tempestades e inundações na China sobem para 15, diz a mídia estatal",
+          "resumo": "Cientistas alertam que a intensidade e a frequência de eventos climáticos extremos globais aumentarão à medida que o planeta continua a esquentar devido às emissões de combustíveis fósseis.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/07/death-toll-from-china-storms-and-floods-rises-to-15-state-media-says",
+          "publicado_em": "2026-07-07T05:28:18.000Z"
+        },
+        {
+          "id": "euronews-2026-07-07-1210",
+          "titulo": "Euronews explica: O veredito que pode acabar com Marine Le Pen – e lançar Jordan Bardella",
+          "resumo": "Se o Tribunal de Apelação de Paris manter a proibição de cinco anos de Marine Le Pen de exercer cargos públicos, as ambições presidenciais de longa data do líder do National Rally seriam efetivamente encerradas.",
+          "imagem": null,
+          "link": "http://www.euronews.com/my-europe/2026/07/07/euronews-explains-the-verdict-that-could-end-marine-le-pen-and-launch-jordan-bardella",
+          "publicado_em": "2026-07-07T05:00:47.000Z"
+        },
+        {
+          "id": "euronews-2026-07-07-1211",
+          "titulo": "Petroleiro atingido por 'projétil desconhecido' no Estreito de Ormuz, diz o exército britânico",
+          "resumo": "A televisão estatal iraniana disse que um navio-tanque de gás natural liquefeito foi atacado na terça-feira no Estreito de Ormuz, ao largo de Omã, após ignorar avisos, implicando que Teerã realizou o ataque ao navio-tanque.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/07/oil-tanker-hit-by-unknown-projectile-in-strait-of-hormuz-british-military-says",
+          "publicado_em": "2026-07-07T03:43:48.000Z"
+        },
+        {
+          "id": "euronews-2026-07-07-1214",
+          "titulo": "Forças de Apoio Rápido da RSF arrasam várias aldeias no Darfur, matando dezenas, enquanto a ONU alerta sobre ataques crescentes a crianças",
+          "resumo": "As forças paramilitares da RSF arrasaram várias aldeias nas regiões ocidentais do país, na fronteira com o Chade, matando muitas pessoas e deslocando milhares, enquanto um relatório separado da ONU destaca que...",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/06/rsf-razes-multiple-villages-in-darfur-killing-dozens-as-un-warns-of-rising-attacks-on-chil",
           "publicado_em": "2026-07-06T16:14:14.000Z"
         },
         {
-          "id": "euronews-2026-07-06T11-35-13-02",
-          "titulo": "Incêndio florestal na Espanha força centenas de pessoas a fugir",
-          "resumo": "Um incêndio florestal em Castellon, na Espanha, forçou 500 evacuações, enquanto bombeiros e aeronaves combatem as chamas que se espalham pela região da Valência",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/07/06/wildfire-rages-in-eastern-spain-forcing-hundreds-to-flee",
-          "publicado_em": "2026-07-06T11:35:13.000Z"
-        },
-        {
-          "id": "euronews-2026-07-06T10-48-15-03",
-          "titulo": "Hamas anuncia dissolução do governo da Faixa de Gaza, abrindo caminho para um comitê tecnocrático",
-          "resumo": "A medida marca uma mudança política significativa por parte do Hamas, que controla a Faixa de Gaza desde que seus combatentes tomaram o controle do movimento rival palestino Fatah em 2007",
+          "id": "euronews-2026-07-07-1216",
+          "titulo": "Hamas anuncia dissolução do corpo governante da Faixa de Gaza, abrindo caminho para um comitê tecnocrático",
+          "resumo": "A medida marca uma mudança política significativa por parte do Hamas, que controla a Faixa de Gaza desde que seus combatentes tomaram o controle do território em 2007.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/06/hamas-announces-dissolution-gaza-governing-body-paves-way-for-technocratic-committee",
           "publicado_em": "2026-07-06T10:48:15.000Z"
         },
         {
-          "id": "euronews-2026-07-06T09-53-51-04",
-          "titulo": "Pelo menos 19 mortos e mais de 100 feridos em tumulto na prisão do Sri Lanka, dizem autoridades",
-          "resumo": "Os feridos foram levados ao hospital de Negombo, ao norte da capital Colombo, após confrontos noturnos entre presos de duas gangues de drogas, disseram a polícia",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/06/at-least-19-killed-and-more-than-100-wounded-in-sri-lanka-prison-riot-officials-say",
-          "publicado_em": "2026-07-06T09:53:51.000Z"
-        },
-        {
-          "id": "euronews-2026-07-06T07-18-35-05",
-          "titulo": "Austrália e Fiji selam pacto de defesa mútua para contrariar a China no Pacífico",
-          "resumo": "A assinatura do tratado de defesa ocorre no mesmo dia em que a mídia estatal chinesa relatou que um submarino realizou um teste de lançamento de um míssil balístico de longo alcance no Pacífico Sul, uma ação criticada pela Austrália",
+          "id": "euronews-2026-07-07-1220",
+          "titulo": "Austrália e Fiji selam pacto de defesa mútua em um esforço para contrabalançar a China no Pacífico",
+          "resumo": "A assinatura do tratado de defesa ocorre no mesmo dia em que a mídia estatal chinesa relatou que um submarino havia testado um míssil balístico de longo alcance no Pacífico Sul, uma medida criticada pela Austrália...",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/06/australia-and-fiji-seal-mutual-defence-pact-in-push-to-counter-china-in-pacific",
           "publicado_em": "2026-07-06T07:18:35.000Z"
         },
         {
-          "id": "euronews-2026-07-06T06-56-03-06",
+          "id": "euronews-2026-07-07-1221",
           "titulo": "O caixão de Ali Khamenei é carregado pelas ruas de Teerã",
-          "resumo": "Milhares de pessoas se reuniram em Teerã quando o Irã começou as cerimônias fúnebres para o falecido Líder Supremo Ayatollah Ali Khamenei",
+          "resumo": "Milhares de pessoas se reuniram em Teerã à medida que o Irã começou as cerimônias fúnebres para o falecido Líder Supremo, o aiatolá Ali Khamenei.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/07/06/ali-khameneis-coffin-carried-through-the-streets-of-tehran",
           "publicado_em": "2026-07-06T06:56:03.000Z"
         },
         {
-          "id": "euronews-2026-07-06T03-27-30-07",
-          "titulo": "Tufão Super Bavi causa 'danos significativos' ao fazer landfall nas ilhas do Pacífico dos EUA",
-          "resumo": "O olho do super tufão de categoria 5 passou sobre a pequena ilha de Rota na manhã de segunda-feira, horário local, trazendo ventos de mais de 241 km/h, atingindo também as ilhas próximas de Guam, Tinian e Saipan",
+          "id": "euronews-2026-07-07-1224",
+          "titulo": "Super Tufão Bavi causa 'danos significativos' ao fazer landfall nas ilhas do Pacífico dos EUA",
+          "resumo": "O olho do super tufão de categoria 5 passou sobre a pequena ilha de Rota na segunda-feira de manhã, horário local, trazendo ventos de mais de 241 km/h, atingindo também as ilhas próximas de Guam, Tinian e Saipan.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/06/major-damage-as-super-typhoon-bavi-makes-landfall-on-us-pacific-islands",
           "publicado_em": "2026-07-06T03:27:30.000Z"
-        },
-        {
-          "id": "euronews-2026-07-05T09-57-44-08",
-          "titulo": "Navio de carga relata ter sido atacado no Mar Vermelho, diz agência marítima",
-          "resumo": "As embarcações são aconselhadas a transitar com cautela e relatar qualquer atividade suspeita ao UKMTO, disse a agência",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/05/cargo-ship-attacked-in-the-red-sea-maritime-agency-says",
-          "publicado_em": "2026-07-05T09:57:44.000Z"
-        },
-        {
-          "id": "euronews-2026-07-05T09-32-18-09",
-          "titulo": "Elogista no funeral de Khamenei no Irã pede a morte de Donald Trump",
-          "resumo": "Trump disse em janeiro que havia dado 'instruções muito firmes' para 'apagar do rosto da Terra' se o Irã tentasse assassiná-lo",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/05/eulogist-at-khamenei-funeral-in-iran-calls-for-death-of-donald-trump",
-          "publicado_em": "2026-07-05T09:32:18.000Z"
-        },
-        {
-          "id": "euronews-2026-07-05T08-43-05-10",
-          "titulo": "Zelenskyy e Putin realizam ligações telefônicas com Trump no Dia da Independência",
-          "resumo": "Yuri Ushakov, um auxiliar presidencial russo, disse que Putin e Trump discutiram 'a questão do assentamento ucraniano' em uma ligação que durou uma hora e vinte e cinco minutos",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/05/zelenskyy-and-putin-hold-fourth-of-july-phone-calls-with-trump",
-          "publicado_em": "2026-07-05T08:43:05.000Z"
-        },
-        {
-          "id": "euronews-2026-07-05T06-48-37-11",
-          "titulo": "Trump diz que 'o sonho americano está de volta' durante discurso do Dia da Independência",
-          "resumo": "Nossos guerreiros não lutaram contra o comunismo nos campos de batalha em todo o mundo apenas para que essa ameaça ressurja aqui mesmo nos EUA, disse Trump a uma multidão em festa",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/05/the-american-dream-is-back-trump-says-during-fourth-of-july-speech",
-          "publicado_em": "2026-07-05T06:48:37.000Z"
-        },
-        {
-          "id": "euronews-2026-07-05T06-26-04-12",
-          "titulo": "Fogos de artifício iluminam o céu de Washington pelo 250º aniversário da América",
-          "resumo": "Um show de fogos de artifício iluminou o National Mall em Washington quando os EUA marcaram o 250º aniversário de sua independência",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/07/05/fireworks-light-up-washington-sky-for-americas-250th-anniversary",
-          "publicado_em": "2026-07-05T06:26:04.000Z"
-        },
-        {
-          "id": "euronews-2026-07-04T14-41-02-13",
-          "titulo": "Líderes mundiais e monarquias celebram o 250º aniversário dos EUA",
-          "resumo": "A história da relação entre nossas duas nações é uma de evolução extraordinária, desde superar conflitos até forjar uma das alianças mais próximas e produtivas que o mundo já viu, disse o rei Charles III",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/04/world-leaders-and-royals-celebrate-the-uss-250th-birthday",
-          "publicado_em": "2026-07-04T14:41:02.000Z"
-        },
-        {
-          "id": "euronews-2026-07-04T10-17-11-14",
-          "titulo": "Trump alerta sobre ameaça comunista enquanto desfile em Washington é cancelado devido à onda de calor",
-          "resumo": "O comunismo é uma ameaça mortal à liberdade americana, disse Trump durante um discurso na sexta-feira",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/04/trump-warns-of-communist-threat-as-washington-parade-cancelled",
-          "publicado_em": "2026-07-04T10:17:11.000Z"
-        },
-        {
-          "id": "euronews-2026-07-04T09-23-52-15",
-          "titulo": "Iranianos lamentam enquanto as cerimônias fúnebres de Khamenei começam",
-          "resumo": "Grandes multidões se reuniram em Teerã quando o Irã começou seis dias de cerimônias fúnebres para o falecido Líder Supremo Ali Khamenei, que foi morto durante o conflito EUA-Israel",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/07/04/iranians-mourn-as-khamenei-funeral-ceremonies-begin",
-          "publicado_em": "2026-07-04T09:23:52.000Z"
-        },
-        {
-          "id": "euronews-2026-07-03T19-06-12-16",
-          "titulo": "Candidata conservadora Keiko Fujimori vence eleição presidencial no Peru em segundo turno",
-          "resumo": "Os eleitores estavam principalmente preocupados com o aumento dos níveis de crime, especialmente extorsão por gangues de crime organizado violentas, e Fujimori prometeu combater o crime com mão de ferro",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/03/conservative-candidate-keiko-fujimori-wins-perus-presidential-election-in-runoff",
-          "publicado_em": "2026-07-03T19:06:12.000Z"
-        },
-        {
-          "id": "euronews-2026-07-03T15-36-27-17",
-          "titulo": "Mourners em Damasco enterram vítimas de ataque a bomba em cafeteria enquanto autoridades prometem justiça",
-          "resumo": "Embora não haja indicação de quem realizou o ataque, muitos culparam rapidamente lealistas do ex-presidente Bashar al-Assad, que foi deposto em uma ofensiva insurgente em dezembro de 2024",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/03/mourners-in-damascus-bury-cafe-bomb-blast-victims-as-officials-promise-justice",
-          "publicado_em": "2026-07-03T15:36:27.000Z"
-        },
-        {
-          "id": "euronews-2026-07-03T15-21-13-18",
-          "titulo": "Ministro das Relações Exteriores do Irã confirma relatos de que Israel planejou atacar negociadores de Teerã",
-          "resumo": "O ministro das Relações Exteriores do Irã corroborou relatos da mídia americana de que Washington alertou Teerã de que Israel pode ter incluído seus principais negociadores em uma lista de alvos durante as conversas de abril em Islamabad, as mesmas conversas que produziram o acordo-quadro assinado em 17 de junho",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/03/iran-fm-confirms-reports-israel-planned-to-target-tehrans-negotiators",
-          "publicado_em": "2026-07-03T15:21:13.000Z"
-        },
-        {
-          "id": "euronews-2026-07-03T13-59-02-19",
-          "titulo": "Ônibus superlotado cai em ravina no sudoeste do Paquistão, matando 40 passageiros",
-          "resumo": "O presidente do Paquistão, Asif Ali Zardari, expressou pesar pelo acidente, ofereceu condolências às famílias das vítimas e desejou uma recuperação rápida aos feridos",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/03/overcrowded-bus-plunges-into-ravine-in-southwest-pakistan-killing-40-passengers",
-          "publicado_em": "2026-07-03T13:59:02.000Z"
-        },
-        {
-          "id": "euronews-2026-07-03T12-46-57-20",
-          "titulo": "Irã sediará dezenas de líderes estrangeiros para o funeral de Khamenei, com nações ocidentais ausentes",
-          "resumo": "Medvedev, da Rússia, o primeiro-ministro do Paquistão e funcionários do Talibã estão entre as delegações de cerca de 30 países esperados, enquanto o Irã enterra o falecido Líder Supremo Ali Khamenei esta semana",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/03/iran-to-host-dozens-of-foreign-leaders-for-khameneis-funeral-with-western-nations-absent",
-          "publicado_em": "2026-07-03T12:46:57.000Z"
-        },
-        {
-          "id": "euronews-2026-07-03T10-17-08-21",
-          "titulo": "Líder interino da Venezuela defende resposta a terremoto enquanto o número de mortos ultrapassa 2.500",
-          "resumo": "Delcy Rodríguez rejeitou críticas à resposta de seu governo ao terremoto, rejeitando acusações de esforços de resgate lentos e alegações de que as cifras oficiais de vítimas foram subestimadas",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/03/venezuelas-interim-leader-defends-earthquake-response-as-death-toll-tops-2500",
-          "publicado_em": "2026-07-03T10:17:08.000Z"
         }
       ]
     },
