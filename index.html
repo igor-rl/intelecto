@@ -145,17 +145,17 @@
     `;
   }
 
-  function renderSections(categorias){
+  function renderSections(jornais){
     const navScroll = document.getElementById('nav-scroll');
     const root = document.getElementById('sections-root');
     root.innerHTML = '';
 
-    if(!categorias || !categorias.length){
+    if(!jornais || !jornais.length){
       root.appendChild(el('div','state-msg','Nenhuma categoria com conteúdo no momento.'));
       return;
     }
 
-    categorias.forEach(cat => {
+    jornais.forEach(cat => {
       if(!cat.artigos || !cat.artigos.length) return;
 
       const navLink = el('a', null, escapeHtml(cat.nome));
@@ -184,9 +184,9 @@
     renderTicker(data.destaques);
     renderCapa(data.capa);
 
-    // categorias é um objeto { slug: {...} }, precisa virar array
-    const categoriasArray = data.categorias ? Object.values(data.categorias) : [];
-    renderSections(categoriasArray);
+    // jornais é um objeto { slug: {...} }, precisa virar array
+    const jornaisArray = data.jornais ? Object.values(data.jornais) : [];
+    renderSections(jornaisArray);
   }
 
   function showError(){
