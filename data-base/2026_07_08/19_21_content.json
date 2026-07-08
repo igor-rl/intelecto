@@ -1,0 +1,1007 @@
+{
+  "nome": "Intelecto News",
+  "atualizado_em": "2026-07-06T13:00:00.000Z",
+  "edicao": "2026-07-06",
+  "itens_urgentes": {},
+  "destaques": [],
+  "capa": {
+    "categoria_nome": "Conflitos Globais",
+    "titulo": "EUA e Irã: Nova Rodada de Ataques",
+    "subtitulo": "Cessar-fogo colapsa, Trump ordena novos ataques ao Irã",
+    "resumo": "O cenário geopolítico global foi marcado por uma escalada nos conflitos entre os EUA e o Irã, com o colapso do cessar-fogo e a ordenação de novos ataques pelo presidente Trump. Enquanto isso, a Rússia e a Ucrânia continuam em conflito, com a Ucrânia atingindo refinarias de petróleo na Rússia. A OTAN realizou sua cúpula, com Trump surpreendendo aliados com acordos de armas e elogios. A situação no Sudão também é crítica, com a cidade de El Obeid se tornando um campo de batalha crucial na guerra entre as forças armadas do Sudão e seus inimigos paramilitares. Além disso, a Libéria apreendeu mais de 200 kg de cocaína, e a China alertou sobre riscos de 'backdoor' no Claude Code. O mercado de petróleo foi abalado pelos ataques ao Irã, com preços disparando. A Austrália também foi afetada, com a Telstra investigando uma segunda falha na rede.",
+    "fonte": "Intelecto News · Redação",
+    "publicado_em": "2026-07-08T08:00:00-03:00",
+    "link": null,
+    "imagem": null
+  },
+  "jornais": {
+    "the_guardian": {
+      "slug": "the_guardian",
+      "nome": "The Guardian",
+      "gerado_em": "2026-07-08T21:00:11.774Z",
+      "artigos": [
+        {
+          "id": "the_guardian-2026-07-07T15:17:19.000Z-01",
+          "titulo": "Lote de catnip é tão eficaz quanto o Deet para repelir mosquitos, estudo descobre",
+          "resumo": "Pesquisadores testando um óleo caseiro barato em Uganda descobriram o que os gatos sempre souberam – ele funciona tão bem quanto o químico artificial usado globalmente",
+          "link": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
+          "imagem": null,
+          "fonte": "The Guardian",
+          "publicado_em": "2026-07-07T15:17:19.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-07T11:00:06.000Z-02",
+          "titulo": "O que definirá o legado de Elon Musk? Cortes de Doge para programas de Ebola da USAID",
+          "resumo": "Especialistas dizem que cortes prejudicaram a resposta ao surto de Ebola na República Democrática do Congo e resultaram em 'números significativos' de mortes",
+          "link": "https://www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola",
+          "imagem": null,
+          "fonte": "The Guardian",
+          "publicado_em": "2026-07-07T11:00:06.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-07T06:30:31.000Z-03",
+          "titulo": "Cinco pessoas são acusadas na Libéria após apreensão de mais de 200 kg de cocaína",
+          "resumo": "Remessa descoberta no aeroporto de Monróvia e avaliada em £14,2 milhões havia sido falsamente declarada como cubos de tempero",
+          "link": "https://www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust",
+          "imagem": null,
+          "fonte": "The Guardian",
+          "publicado_em": "2026-07-07T06:30:31.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-04T20:32:52.000Z-04",
+          "titulo": "Arqueólogos descobrem cidade bizantina antiga no deserto ocidental do Egito",
+          "resumo": "Quartos bem preservados do século IV revelam detalhes da vida cotidiana, desenvolvimento urbano e atividades econômicas",
+          "link": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+          "imagem": null,
+          "fonte": "The Guardian",
+          "publicado_em": "2026-07-04T20:32:52.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-04T15:14:18.000Z-05",
+          "titulo": "A situação é terrível: trabalhadores humanitários descrevem vida em cidade sudanesa atingida por ataques de drones",
+          "resumo": "El Obeid se torna um campo de batalha crucial na guerra entre as forças armadas do Sudão e seus inimigos paramilitares, o RSF",
+          "link": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
+          "imagem": null,
+          "fonte": "The Guardian",
+          "publicado_em": "2026-07-04T15:14:18.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-08T14:01:35.000Z-06",
+          "titulo": "Juízes do Reino Unido começam a ouvir apelação sobre lei anti-homossexual de Trinidad e Tobago",
+          "resumo": "Ativista desafia decisão do ano passado que restaurou lei colonial homofóbica contra a intimidade entre pessoas do mesmo sexo",
+          "link": "https://www.theguardian.com/world/2026/jul/08/uk-judges-appeal-trinidad-and-tobago-homophobic-law",
+          "imagem": null,
+          "fonte": "The Guardian",
+          "publicado_em": "2026-07-08T14:01:35.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-07T15:06:41.000Z-07",
+          "titulo": "Promotores franceses investigam abuso racista contra Kylian Mbappé por senador paraguaio",
+          "resumo": "Celeste Amarilla pode enfrentar acusações após a Federação Francesa de Futebol reclamar sobre postagens nas redes sociais sobre uma partida da Copa do Mundo",
+          "link": "https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe",
+          "imagem": null,
+          "fonte": "The Guardian",
+          "publicado_em": "2026-07-07T15:06:41.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-06T19:30:09.000Z-08",
+          "titulo": "Cuba sofre terceira apagão nacional em seis meses",
+          "resumo": "Ilha empobrecida já estava lutando para manter as luzes acesas antes dos EUA imporem um bloqueio em janeiro",
+          "link": "https://www.theguardian.com/world/2026/jul/06/cuba-suffers-third-nationwide-blackout-in-six-months",
+          "imagem": null,
+          "fonte": "The Guardian",
+          "publicado_em": "2026-07-06T19:30:09.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-06T16:41:47.000Z-09",
+          "titulo": "Canadá compra 12 submarinos de tecnologia avançada da Alemanha após guerra de lances",
+          "resumo": "TKMS supera rival sul-coreano em contrato multibilionário que aprofundará os laços do Canadá com a OTAN",
+          "link": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
+          "imagem": null,
+          "fonte": "The Guardian",
+          "publicado_em": "2026-07-06T16:41:47.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-07T06:51:54.000Z-10",
+          "titulo": "Tempestades severas na China trazem tornado e deslizamentos de terra que mataram 15 pessoas",
+          "resumo": "Líder chinês Xi Jinping pede esforço de resgate 'total' à medida que o número de mortos aumenta e 16 pessoas permanecem soterradas após um deslizamento de terra no oeste do país",
+          "link": "https://www.theguardian.com/world/2026/jul/07/china-severe-storms-death-toll-xi-jinping-rescue-efforts-landslides-tornadoes",
+          "imagem": null,
+          "fonte": "The Guardian",
+          "publicado_em": "2026-07-07T06:51:54.000Z"
+        }
+      ]
+    },
+    "new_york_times": {
+      "slug": "new_york_times",
+      "nome": "The New York Times",
+      "gerado_em": "2026-07-08T21:00:00.703Z",
+      "artigos": [
+        {
+          "id": "new_york_times-2026-07-08-2101",
+          "titulo": "A Trégua entre EUA e Irã se Desfaz, Trump Enfrenta uma Guerra Nebulosa e Opções Desagradáveis",
+          "resumo": "O presidente parece estar enfrentando as consequências de um acordo de trégua feito às pressas, com pouca movimentação para resolver as principais questões que impulsionam o conflito.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/08/us/politics/trump-iran-war.html",
+          "publicado_em": "2026-07-08T19:31:19.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-08-2102",
+          "titulo": "Mercado de Petróleo Calmo é Abalado por Novas Hostilidades entre EUA e Irã",
+          "resumo": "Os preços do petróleo provavelmente permanecerão voláteis enquanto os EUA e o Irã não conseguirem resolver o status do Estreito de Ormuz.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/08/business/energy-environment/iran-war-oil-prices.html",
+          "publicado_em": "2026-07-08T18:45:17.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-08-2103",
+          "titulo": "Licença para Fabricar Mísseis Patriot Pode Ajudar a Ucrânia a se Defender contra a Rússia",
+          "resumo": "Com interceptores Patriot em curto suprimento, a declaração do presidente Trump de que permitiria que a Ucrânia os fabricasse é um benefício para Kiev, que luta contra ataques de mísseis russos.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/08/world/europe/a-license-to-make-patriot-defense-systems-may-be-a-big-boost-for-ukraine.html",
+          "publicado_em": "2026-07-08T20:07:35.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-08-2104",
+          "titulo": "Após Insultar Aliados na Cúpula da OTAN, Trump Diz que Eles o Amam",
+          "resumo": "A reunião na Turquia apresentou o presidente Trump em seu estado mais mercurial, variando de desprezo a elogios para os países europeus, incluindo alguns cuja paciência em aplacá-lo está se esgotando.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/08/world/europe/nato-trump-europe.html",
+          "publicado_em": "2026-07-08T20:17:04.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-08-2105",
+          "titulo": "Juiz Ordena que Julgamento de $5 Milhões contra Trump Seja Liberado para E. Jean Carroll",
+          "resumo": "A Sra. Carroll havia pedido a um juiz federal que ordenasse ao presidente que pagasse o julgamento após um júri ter decidido que ele a agrediu sexualmente e a difamou.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/08/us/politics/trump-e-jean-carroll-5-million-payment.html",
+          "publicado_em": "2026-07-08T18:07:27.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-08-2107",
+          "titulo": "Estes Democratas do Maine Podem Substituir Graham Platner na Corrida ao Senado",
+          "resumo": "O Sr. Platner ainda não se retirou da corrida após uma acusação de estupro, mas os democratas no estado e nacionalmente já estão explorando alternativas potenciais.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-replacements-maine-democrats.html",
+          "publicado_em": "2026-07-08T18:48:45.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-08-2114",
+          "titulo": "À Medida que Progressistas Acumulam Vitórias, Hakeem Jeffries Rejeita Possíveis Desafios",
+          "resumo": "Em uma entrevista ampla com o The New York Times, Hakeem Jeffries, o líder democrata da Câmara, disse que não considerava as vitórias recentes anti-estabelecimento como uma crítica geral ao partido.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/08/us/politics/hakeem-jeffries-house-democrats-midterms.html",
+          "publicado_em": "2026-07-08T20:05:02.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-08-2115",
+          "titulo": "Governador do Kentucky Exige Atualização sobre a Saúde de Mitch McConnell",
+          "resumo": "O senador Mitch McConnell está hospitalizado desde 14 de junho. Especulações sobre sua saúde se espalharam nos últimos dias.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/08/us/beshear-mcconnell-kentucky-health.html",
+          "publicado_em": "2026-07-08T18:25:28.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-08-2116",
+          "titulo": "Família do Homem Morto por Agente do ICE Pedem Inquérito Independente",
+          "resumo": "O homem morto, Lorenzo Salgado Araujo, foi lamentado por seus filhos como um pai, marido e proprietário de negócios. Detalhes do encontro permanecem incertos.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/08/us/houston-ice-shooting.html",
+          "publicado_em": "2026-07-08T20:05:37.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-08-2117",
+          "titulo": "O que Sabemos sobre Oficiais de Imigração Atirando em Pessoas em Veículos",
+          "resumo": "Agentes federais atiraram em pelo menos 21 pessoas, muitas delas em seus carros, como parte da ofensiva de deportação do presidente Trump. Pelo menos cinco pessoas foram mortas, incluindo três cidadãos americanos.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/08/us/immigration-agent-shootings-vehicles.html",
+          "publicado_em": "2026-07-08T19:14:38.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-08-2118",
+          "titulo": "Juíza Hannah C. Dugan Enfrenta Multa, mas Não Tempo de Prisão",
+          "resumo": "A ex-juíza do Wisconsin, Hannah C. Dugan, foi acusada de levar um imigrante indocumentado para fora de uma porta lateral enquanto agentes federais o esperavam perto de sua sala de audiências em Milwaukee.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/08/us/hannah-dugan-judge-sentencing-milwaukee.html",
+          "publicado_em": "2026-07-08T19:23:35.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-08-2120",
+          "titulo": "Fax e Telegrama? Requisitos Arcaicos de Nova York Recebem uma Reformulação com IA",
+          "resumo": "A governadora Kathy Hochul ordenará que as agências estaduais eliminem ou modernizem requisitos antiquados e examinem se forças-tarefas ou conselhos ultrapassaram seu propósito.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/08/nyregion/hochul-ai-redtape-rules.html",
+          "publicado_em": "2026-07-08T11:27:44.000Z"
+        }
+      ]
+    },
+    "euronews": {
+      "slug": "euronews",
+      "nome": "Euro News",
+      "gerado_em": "2026-07-08T21:00:19.312Z",
+      "artigos": [
+        {
+          "id": "euronews-2026-07-08-2101",
+          "titulo": "Trump evita novo Air Force One ao retornar da cúpula da OTAN na Turquia",
+          "resumo": "Trump foi questionado durante uma coletiva de imprensa se a mudança foi por razões de segurança relacionadas ao Irã, mas ele evitou a pergunta falando sobre supostas tentativas de assassinato anteriores por Teerã.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/08/trump-skips-new-air-force-one-on-return-from-turkey-nato-summit",
+          "publicado_em": "2026-07-08T19:09:18.000Z"
+        },
+        {
+          "id": "euronews-2026-07-08-2102",
+          "titulo": "Venezuela pede liberação de ativos congelados para ajudar esforços de recuperação após terremoto",
+          "resumo": "Enquanto isso, as Nações Unidas lançaram um apelo urgente na quarta-feira para arrecadar €259 milhões para operações de socorro.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/08/venezuela-calls-for-release-of-frozen-assets-to-help-earthquake-recovery-efforts",
+          "publicado_em": "2026-07-08T16:36:52.000Z"
+        },
+        {
+          "id": "euronews-2026-07-08-2103",
+          "titulo": "Resgatistas procuram por cinco pessoas desaparecidas após deslizamento de terra mortal na Índia",
+          "resumo": "Especialistas dizem que a mudança climática causada pelo homem está intensificando os monções da Ásia do Sul, que tradicionalmente ocorrem de junho a setembro e novamente de outubro a dezembro.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/08/rescuers-search-for-five-missing-people-after-deadly-landslide-in-indias-kerala-state",
+          "publicado_em": "2026-07-08T15:59:49.000Z"
+        },
+        {
+          "id": "euronews-2026-08-07-2104",
+          "titulo": "Milhares embarcam em marcha pela paz na Bósnia para lembrar vítimas de Srebrenica",
+          "resumo": "Mais de 6.500 pessoas participaram de uma marcha pela paz para lembrar as vítimas do genocídio de Srebrenica e os sobreviventes que caminharam por dias para salvar suas vidas.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/08/thousands-embark-on-bosnia-peace-march-to-remember-srebrenica-victims",
+          "publicado_em": "2026-07-08T15:34:59.000Z"
+        },
+        {
+          "id": "euronews-2026-07-08-2105",
+          "titulo": "Forças dos EUA lançam novos ataques ao Irã para conter ameaça ao Hormuz, diz o exército",
+          "resumo": "Trump havia dito que o cessar-fogo com o Irã estava \"acabado\" após Washington lançar ataques ao país durante a noite, ao que o Irã respondeu atacando bases dos EUA no Golfo.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/08/were-gonna-hit-em-hard-tonight-trump-says-about-further-air-strikes-on-iran",
+          "publicado_em": "2026-07-08T14:09:23.000Z"
+        },
+        {
+          "id": "euronews-2026-07-08-2106",
+          "titulo": "Estados do Golfo se preparam novamente para um confronto entre EUA e Irã à medida que as tensões aumentam",
+          "resumo": "A partir da linha de frente do confronto entre EUA e Irã, as nações do Golfo pediram novamente que ambas as partes, com restrição estratégica, não abandonem as negociações, enquanto Teerã está transmitindo que a estrada...",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/08/gulf-states-brace-again-for-fiery-us-iran-showdown-as-tensions-spiral",
+          "publicado_em": "2026-07-08T11:43:36.000Z"
+        },
+        {
+          "id": "euronews-2026-07-08-2107",
+          "titulo": "Pelo menos sete mortos em novos ataques russos à Ucrânia enquanto líderes da OTAN se reúnem na Turquia",
+          "resumo": "A Rússia atingiu a capital ucraniana com vários ataques mortais grandes nos últimos dias, matando mais de 50 este mês em uma série de ataques com mísseis balísticos e drones.",
+          "imagem": null,
+          "link": "http://www.euronews.com/my-europe/2026/07/08/at-least-seven-killed-in-fresh-russian-strikes-on-ukraine-as-nato-leaders-meet-in-turkey",
+          "publicado_em": "2026-07-08T09:01:50.000Z"
+        },
+        {
+          "id": "euronews-2026-07-08-2108",
+          "titulo": "Erdogan dá boas-vindas cerimoniais a líderes mundiais antes da cúpula da OTAN",
+          "resumo": "Líderes da OTAN, incluindo Trump e Zelenskyy, chegam a Ancara para um jantar de estado oferecido por Erdogan antes de discussões importantes na cúpula na Turquia.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/08/erdogan-gives-world-leaders-a-ceremonial-welcome-ahead-of-nato-summit",
+          "publicado_em": "2026-07-08T08:50:02.000Z"
+        },
+        {
+          "id": "euronews-2026-07-08-2109",
+          "titulo": "O caixão de Ali Khamenei passa por milhares de manifestantes na cidade santa de Najaf, no Iraque",
+          "resumo": "O cortejo fúnebre de Ali Khamenei passa por Najaf enquanto milhares de manifestantes se reúnem, tocando o caminhão fúnebre e homenageando o líder falecido.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/08/ali-khameneis-coffin-passes-through-thousands-of-mourners-in-iraqs-holy-city-of-najaf",
+          "publicado_em": "2026-07-08T06:57:43.000Z"
+        },
+        {
+          "id": "euronews-2026-07-08-2110",
+          "titulo": "Trump diz que o cessar-fogo com Teerã está 'acabado' após EUA e Irã trocarem tiros",
+          "resumo": "Washington iniciou ataques ao Irã durante a noite em resposta a navios cargueiros sendo atingidos no Estreito de Hormuz. Teerã então lançou seu próprio ataque, visando bases dos EUA no Golfo.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/08/us-launches-fresh-strikes-on-iran-after-ships-attacked-in-strait-of-hormuz",
+          "publicado_em": "2026-07-08T03:07:25.000Z"
+        },
+        {
+          "id": "euronews-2026-07-08-2114",
+          "titulo": "Ucrânia rotula a decisão do COI de levantar a proibição de atletas russos como 'prematuro' e 'injustificado'",
+          "resumo": "Atletas russos que buscam retornar à competição internacional agora poderão competir desde que atendam aos requisitos antidoping relevantes, disse o COI.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/07/international-olympic-committee-provisionally-lifts-restrictions-on-russian-athletes",
+          "publicado_em": "2026-07-07T16:37:05.000Z"
+        },
+        {
+          "id": "euronews-2026-07-08-2115",
+          "titulo": "Terceiro petroleiro atingido no Estreito de Hormuz em 24 horas, diz agência marítima",
+          "resumo": "A agência marítima UKMTO está investigando os incidentes e aconselhou os navios na área a proceder com cautela.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/07/third-tanker-hit-in-strait-of-hormuz-in-24-hours-maritime-agency-says",
+          "publicado_em": "2026-07-07T15:01:47.000Z"
+        },
+        {
+          "id": "euronews-2026-07-08-2122",
+          "titulo": "Pelo menos 18 feridos em explosões em Damasco durante visita de Macron, dizem autoridades sírias",
+          "resumo": "Macron havia entrado no palácio presidencial para se encontrar com o presidente sírio Ahmad al-Sharaa quando as explosões ocorreram perto do Hotel Four Seasons.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/07/explosions-heard-in-damascus-during-visit-by-frances-president-emmanuel-macron",
+          "publicado_em": "2026-07-07T07:40:22.000Z"
+        },
+        {
+          "id": "euronews-2026-07-08-2124",
+          "titulo": "Não há 'paz duradoura' no Oriente Médio sem um Estado palestino, diz o presidente do Egito, el-Sisi",
+          "resumo": "O presidente egípcio renovou o apelo do Cairo por um Estado palestino independente durante a inauguração do novo Quartel-General Estratégico do país, conhecido como o Octágono.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/07/no-lasting-peace-in-the-middle-east-without-a-palestinian-state-egypts-al-sisi-says",
+          "publicado_em": "2026-07-07T07:00:18.000Z"
+        }
+      ]
+    },
+    "scmp": {
+      "slug": "scmp",
+      "nome": "South China Morning Post",
+      "gerado_em": "2026-07-08T21:15:37.502Z",
+      "artigos": [
+        {
+          "id": "scmp-2026-07-08-2101",
+          "titulo": "Trump surpreende aliados da Otan com acordos de armas e elogios à medida que a cúpula termina positivamente",
+          "resumo": "O presidente dos EUA, Donald Trump, prometeu novas vendas de armas na Europa, incluindo sistemas de defesa aérea avançados para aliados da Otan e Ucrânia, à medida que a aliança transatlântica aumenta sua parceria militar.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/09/f46b1ee7-2c07-4cc4-91de-8151150b6647_35e1c38e.jpg?itok=GuPcI3yB&v=1783544258",
+          "link": "https://www.scmp.com/news/us/diplomacy/article/3359902/trump-surprises-nato-allies-arms-deals-and-praise-summit-ends-positively?utm_source=rss_feed",
+          "publicado_em": "2026-07-08T20:57:49.000Z"
+        },
+        {
+          "id": "scmp-2026-07-08-2102",
+          "titulo": "Anthropic rebate após a China alertar sobre riscos de 'backdoor' no Claude Code",
+          "resumo": "A empresa de inteligência artificial dos EUA, Anthropic, disse que os usuários na China que foram aconselhados a desinstalar seu produto de código Claude não deveriam estar usando-o no primeiro lugar.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/09/2a64e7a6-ec9b-4a59-9fa8-5d0b6636978e_bb4575ce.jpg?itok=pqhZwefd&v=1783543314",
+          "link": "https://www.scmp.com/news/china/article/3359901/anthropic-hits-back-after-china-warns-claude-code-backdoor-risks?utm_source=rss_feed",
+          "publicado_em": "2026-07-08T20:41:55.000Z"
+        },
+        {
+          "id": "scmp-2026-07-08-2103",
+          "titulo": "Homem dos EUA, Jeffrey Ying, preso por roubar manuscrito chinês raro da UCLA",
+          "resumo": "Um homem da Califórnia que trocou um manuscrito chinês do século XVII por uma falsificação foi preso por um ano após admitir o roubo de uma obra de arte importante.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/09/2b325b28-810e-45b0-8529-e1120e34c4e4_e845945e.jpg?itok=ofWvXJkA&v=1783542482",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3359900/us-man-jeffrey-ying-jailed-stealing-rare-chinese-manuscript-ucla?utm_source=rss_feed",
+          "publicado_em": "2026-07-08T20:23:33.000Z"
+        },
+        {
+          "id": "scmp-2026-07-08-2104",
+          "titulo": "E. Jean Carroll pode receber US$ 5 milhões em danos de Trump, diz juiz dos EUA",
+          "resumo": "Um juiz autorizou o pagamento de uma indenização de vários milhões de dólares à escritora E. Jean Carroll para satisfazer um veredicto civil de 2023.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/09/ba140457-a325-498c-995a-ede7ee2e788f_2b7504ce.jpg?itok=ACQxD0X5&v=1783540443",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3359899/e-jean-carroll-can-collect-us5-million-damages-trump-us-judge-says?utm_source=rss_feed",
+          "publicado_em": "2026-07-08T19:54:14.000Z"
+        },
+        {
+          "id": "scmp-2026-07-08-2105",
+          "titulo": "Farage vs Count Binface: como o líder de direita do Reino Unido pode perder nas eleições",
+          "resumo": "O político anti-imigração do Reino Unido, Nigel Farage, pode enfrentar um candidato de brincadeira nas eleições.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/09/cf035f51-7bf1-4c8f-9462-99b22e4b9a74_d1278fad.jpg?itok=lfQ5dD-9&v=1783542122",
+          "link": "https://www.scmp.com/news/world/europe/article/3359898/farage-vs-count-binface-how-uk-hard-right-leaders-poll-gambit-could-backfire?utm_source=rss_feed",
+          "publicado_em": "2026-07-08T18:39:02.000Z"
+        },
+        {
+          "id": "scmp-2026-07-08-2106",
+          "titulo": "Trump muda de avião, levantando questões sobre o jato doado pelo Catar",
+          "resumo": "O presidente dos EUA, Donald Trump, mudou de avião, o que levantou questões sobre o jato doado pelo Catar.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/09/13ecb26a-4ef9-4e83-b11f-5a79a562f706_7c82f4ba.jpg?itok=VfOSkAGZ&v=1783532589",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3359897/trump-unexpectedly-switches-back-old-air-force-one-sidelining-qatari-jet?utm_source=rss_feed",
+          "publicado_em": "2026-07-08T17:43:14.000Z"
+        },
+        {
+          "id": "scmp-2026-07-08-2108",
+          "titulo": "Espanha minimiza ameaça de embargo comercial de Trump, dizendo que não há 'tensão'",
+          "resumo": "A Espanha minimizou a ameaça de embargo comercial do presidente dos EUA, Donald Trump.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/08/71385f83-1402-4a20-b15f-a532124362b8_79d2aaf5.jpg?itok=35CpGJos&v=1783525851",
+          "link": "https://www.scmp.com/economy/global-economy/article/3359895/spain-plays-down-trumps-trade-embargo-threat-saying-there-no-tension?utm_source=rss_feed",
+          "publicado_em": "2026-07-08T15:51:00.000Z"
+        },
+        {
+          "id": "scmp-2026-07-08-2110",
+          "titulo": "Busca por tripulantes continua após destroços de avião serem encontrados na costa do Paquistão",
+          "resumo": "Os destroços de um avião de carga que desapareceu ao se aproximar do porto de Karachi, no Paquistão, foram encontrados.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/09/21b3f38d-5ae7-4138-9fe0-6621ba9ff473_c714350f.jpg?itok=7YUA2qcv&v=1783531736",
+          "link": "https://www.scmp.com/news/asia/south-asia/article/3359891/search-crew-goes-plane-wreckage-found-pakistans-coast?utm_source=rss_feed",
+          "publicado_em": "2026-07-08T15:06:45.000Z"
+        },
+        {
+          "id": "scmp-2026-07-08-2111",
+          "titulo": "Xi Jinping pede reforma do sistema de inovação para superar rivais tecnológicos globais",
+          "resumo": "O presidente chinês, Xi Jinping, pediu esforços mais fortes para atrair talentos estrangeiros e resolver falhas no ecossistema de inovação do país.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/09/11d3a0e1-e9b6-4137-b2f0-64ea1f2f4512_2ba595ef.jpg?itok=2MPzz3RP&v=1783534661",
+          "link": "https://www.scmp.com/news/china/politics/article/3359886/chinas-xi-jinping-calls-innovation-system-overhaul-beat-global-tech-rivals?utm_source=rss_feed",
+          "publicado_em": "2026-07-08T15:00:17.000Z"
+        },
+        {
+          "id": "scmp-2026-07-08-2113",
+          "titulo": "FMI prevê que a economia global crescerá apenas 3% este ano devido à guerra no Irã",
+          "resumo": "O Fundo Monetário Internacional (FMI) revisou ligeiramente para baixo sua previsão para a economia global este ano, citando o choque energético causado pela guerra no Irã.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/09/394a8dee-e3a5-423f-92e0-dbed338571da_578d1802.jpg?itok=XGwN4fNa&v=1783536269",
+          "link": "https://www.scmp.com/news/world/article/3359890/imf-sees-world-economy-growing-just-3-year-amid-iran-war?utm_source=rss_feed",
+          "publicado_em": "2026-07-08T14:41:23.000Z"
+        },
+        {
+          "id": "scmp-2026-07-08-2114",
+          "titulo": "Adolescente de 16 anos preso após duas garotas serem feridas em ataque a escola na Alemanha",
+          "resumo": "Um adolescente de 16 anos foi preso após um ataque a uma escola na Alemanha que deixou duas garotas feridas.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/08/a3674a5b-3207-4b74-bea8-aa25c5c9bfb2_cb86c33d.jpg?itok=sr5rMeKn&v=1783520688",
+          "link": "https://www.scmp.com/news/world/europe/article/3359889/teen-16-arrested-over-germany-school-attack?utm_source=rss_feed",
+          "publicado_em": "2026-07-08T14:24:59.000Z"
+        },
+        {
+          "id": "scmp-2026-07-08-2117",
+          "titulo": "Pequim busca estabilidade e acesso justo ao mercado de chips durante visita do ministro do Comércio holandês",
+          "resumo": "A China pediu à Holanda que garantisse um tratamento justo para as empresas chinesas e mantivesse estáveis as cadeias de suprimento de chips durante a visita do ministro do Comércio holandês.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/08/96b3eef2-478f-4f7c-a09e-fcf270fb9d91_ba187e50.jpg?itok=C9DLTw2J&v=1783509841",
+          "link": "https://www.scmp.com/economy/global-economy/article/3359872/beijing-seeks-chip-stability-and-fair-market-access-during-dutch-trade-ministers-trip?utm_source=rss_feed",
+          "publicado_em": "2026-07-08T13:00:07.000Z"
+        },
+        {
+          "id": "scmp-2026-07-08-2118",
+          "titulo": "Ações da Alibaba disparam 12% em Hong Kong à medida que os investidores esperam por um aumento nas receitas",
+          "resumo": "As ações da Alibaba Group Holding dispararam 12% em Hong Kong à medida que os investidores esperam por um aumento nas receitas.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/08/b3874098-9d9b-4565-9861-b2dd333ca395_92d9849c.jpg?itok=Dphu46Ws&v=1783512242",
+          "link": "https://www.scmp.com/tech/article/3359878/alibaba-shares-spike-12-hong-kong-t-head-chips-ai-revenue-fuel-earnings-optimism?utm_source=rss_feed",
+          "publicado_em": "2026-07-08T12:30:13.000Z"
+        }
+      ]
+    },
+    "rt": {
+      "slug": "rt",
+      "nome": "Russia Today",
+      "gerado_em": "2026-07-08T21:15:56.055Z",
+      "artigos": [
+        {
+          "id": "rt-2026-07-08-21-01",
+          "titulo": "EUA atacam o Irã pela segunda noite enquanto Trump diz que o cessar-fogo está 'acabado'",
+          "resumo": "O CENTCOM dos EUA anunciou novos ataques ao Irã para degradar sua capacidade de projetar força no Estreito de Ormuz",
+          "imagem": "https://mf.b37mrtl.ru/files/static.en/thumbnail/breaking.jpg",
+          "link": "https://www.rt.com/news/642781-us-strikes-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-08T20:28:54.000Z"
+        },
+        {
+          "id": "rt-2026-07-08-21-02",
+          "titulo": "Devastador Cuba: O império americano está em declínio e tentando arrastar todos para baixo",
+          "resumo": "À medida que Washington se enfraquece, está apertando os parafusos em Havana – usando bloqueio, apagões e sofrimento em massa para punir a desobediência",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e99cd85f54029b9022744.jpg",
+          "link": "https://www.rt.com/news/642779-devastating-cuba-us-empire/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-08T19:55:35.000Z"
+        },
+        {
+          "id": "rt-2026-07-08-21-03",
+          "titulo": "Corrupção suspeita na empresa de navegação ucraniana – mídia",
+          "resumo": "A empresa estatal ucraniana de navegação do Danúbio foi afetada por corrupção 'por décadas', de acordo com uma carta vazada",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e998885f54011eb78f285.jpg",
+          "link": "https://www.rt.com/business/642778-corruption-suspected-ukrainian-shipping-giant/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-08T19:09:26.000Z"
+        },
+        {
+          "id": "rt-2026-07-08-21-04",
+          "titulo": "EUA acusam gângster indiano de ordenar assassinato de líder separatista no Canadá",
+          "resumo": "Os EUA acusaram um gângster indiano de ordenar o assassinato de Hardeep Singh Nijjar, um líder separatista do Khalistan no Canadá",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e88a620302771eb0fa401.jpg",
+          "link": "https://www.rt.com/india/642747-lawrence-bishnoi-trudeau-nijjar/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-08T17:29:04.000Z"
+        },
+        {
+          "id": "rt-2026-07-08-21-05",
+          "titulo": "Ucrânia não pode destabilizar a Rússia por meio de ataques à energia – Putin",
+          "resumo": "Os ataques da Ucrânia à infraestrutura energética da Rússia não enfraquecerão a economia nem criarão pânico público, disse Vladimir Putin",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e7a7a85f540250b03f361.jpg",
+          "link": "https://www.rt.com/russia/642761-putin-russia-energy-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-08T16:34:18.000Z"
+        },
+        {
+          "id": "rt-2026-07-08-21-06",
+          "titulo": "Rússia é o principal parceiro contra o terrorismo – Níger",
+          "resumo": "A Rússia permanece como o principal parceiro dos Estados do Sahel contra o terrorismo, disse o ministro do Níger",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e694f2030276362136462.jpeg",
+          "link": "https://www.rt.com/africa/642751-niger-alls-russia-main-partner-against-terrorism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-08T16:07:14.000Z"
+        },
+        {
+          "id": "rt-2026-07-08-21-07",
+          "titulo": "Polícia do Reino Unido saca cassetetes em multidão enfurecida que protesta contra estupro (VÍDEO)",
+          "resumo": "Pelo menos um homem foi preso após confrontos entre a polícia do Reino Unido e uma multidão enfurecida que protestava contra dois homens acusados de estupro",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e6ec485f54011eb78f26c.png",
+          "link": "https://www.rt.com/news/642758-uk-police-batons-protest-rape/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-08T16:04:27.000Z"
+        },
+        {
+          "id": "rt-2026-07-08-21-08",
+          "titulo": "Parlamento Europeu apoia a Polônia em disputa com a Ucrânia sobre colaboradores nazistas",
+          "resumo": "O Parlamento Europeu repreendeu a Ucrânia por renomear uma unidade militar de elite em homenagem a colaboradores nazistas da Segunda Guerra Mundial",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e60122030276b1e273d2e.jpg",
+          "link": "https://www.rt.com/news/642736-eu-parliament-poland-nazi-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-08T15:13:33.000Z"
+        },
+        {
+          "id": "rt-2026-07-08-21-09",
+          "titulo": "Suspeito de local de munição causa devastação em cidade ucraniana (VÍDEO)",
+          "resumo": "Um vídeo supostamente filmado em Vishnyovoe, Ucrânia, mostra uma área residencial devastada após um ataque russo a um local militar embutido",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e4ba320302732c350bdac.png",
+          "link": "https://www.rt.com/russia/642737-vishnyovoe-devastation-ammo-site/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-08T15:03:24.000Z"
+        },
+        {
+          "id": "rt-2026-07-08-21-10",
+          "titulo": "Violência no Sudão do Sul aumenta após oficial local ser morto",
+          "resumo": "Um comissário do Sudão do Sul foi morto após confrontos entre forças do governo e combatentes da oposição no estado de Jonglei",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e55e285f540131c1ee637.jpg",
+          "link": "https://www.rt.com/africa/642739-south-sudan-county-commissioner-killed-violence-escalates/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-08T14:47:05.000Z"
+        },
+        {
+          "id": "rt-2026-07-08-21-11",
+          "titulo": "Ucrânia ataca instalação de exportação de gás ligada à Turquia – Gazprom",
+          "resumo": "Um ataque de drone ucraniano atingiu uma instalação de exportação de gás ligada à Turquia na região de Krasnodar, na Rússia, disse a Gazprom",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e620f85f540682e2a2247.jpg",
+          "link": "https://www.rt.com/russia/642749-ukraine-attacks-turkiye-gas-facility/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-08T14:45:45.000Z"
+        },
+        {
+          "id": "rt-2026-07-08-21-12",
+          "titulo": "Drone ucraniano ataca ônibus de passageiros russo (FOTO)",
+          "resumo": "Um drone ucraniano atacou um ônibus de passageiros na região de Zaporozhye, na Rússia, em um 'ato de terrorismo flagrante', disse o governador local",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e569d203027636213644b.jpg",
+          "link": "https://www.rt.com/russia/642743-ukrainian-drone-strikes-russian-passenger/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-08T14:41:26.000Z"
+        },
+        {
+          "id": "rt-2026-07-08-21-13",
+          "titulo": "Índia planeja atualizar blindados fabricados na Rússia – mídia",
+          "resumo": "O exército indiano está planejando atualizar tanques e veículos blindados de origem russa, ao custo estimado de US$ 7,85 bilhões",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e5e2320302761593669db.jpg",
+          "link": "https://www.rt.com/india/642742-india-upgrade-russian-tanks/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-08T14:23:51.000Z"
+        },
+        {
+          "id": "rt-2026-07-08-21-14",
+          "titulo": "Cúpula da OTAN no segundo dia: Trump, impulso de defesa, armas para a Ucrânia e ameaças ao Irã (Como aconteceu)",
+          "resumo": "A cúpula anual da OTAN em Ancara concluiu com gastos militares e os conflitos Rússia-Ucrânia e Irã dominando a agenda",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e589f85f54011eb78f261.png",
+          "link": "https://www.rt.com/news/642740-nato-summit-turkiye-trump/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-08T13:46:50.000Z"
+        },
+        {
+          "id": "rt-2026-07-08-21-15",
+          "titulo": "Explosão em Mônaco prova que o Ocidente criou um 'monstro terrorista' em Kiev – Moscou",
+          "resumo": "Maria Zakharova diz que a explosão em Mônaco é outro 'mordisco sangrento' do 'terrorismo do regime de Kiev', alertando que o Ocidente provavelmente enfrentará mais",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e402620302761593669bb.jpg",
+          "link": "https://www.rt.com/russia/642731-monaco-ukraine-terrorist-monster-zakharova/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-08T12:38:30.000Z"
+        },
+        {
+          "id": "rt-2026-07-08-21-16",
+          "titulo": "'Você está brincando com fogo', editora-chefe do RT avisa a Europa (ENTREVISTA COMPLETA)",
+          "resumo": "A Europa está 'brincando com fogo' ao ajudar os ataques ucranianos contra civis e arrisca-se a retaliação, diz Margarita Simonyan",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e2bfd203027271b4b3c83.jpg",
+          "link": "https://www.rt.com/news/642730-simonyan-interview-die-weltwoche/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-08T12:32:09.000Z"
+        },
+        {
+          "id": "rt-2026-07-08-21-17",
+          "titulo": "Outro membro da OTAN fica sem armas para a Ucrânia",
+          "resumo": "A Bulgária não consegue fornecer mais armas e equipamentos militares à Ucrânia, disse o primeiro-ministro Rumen Radev",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e385620302732c350bda2.jpg",
+          "link": "https://www.rt.com/news/642735-bulgaria-no-weapons-ukraine-nato/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-08T12:11:56.000Z"
+        },
+        {
+          "id": "rt-2026-07-08-21-18",
+          "titulo": "Flerte de Trump com a Turquia deixa Israel nervoso",
+          "resumo": "A aproximação de Donald Trump com a Turquia está perturbando Israel, mas o verdadeiro teste é se os F-35 e os acordos de motores realmente passarão pelo Congresso",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e3521203027282676400f.jpg",
+          "link": "https://www.rt.com/news/642734-trump-turkey-israel-f35/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-08T11:52:01.000Z"
+        },
+        {
+          "id": "rt-2026-07-08-21-19",
+          "titulo": "UE 'perdeu a cabeça' com a suposta ameaça da Rússia – editora-chefe do RT",
+          "resumo": "Moscou 'não tocou em um dedo' na Europa, apesar dos esforços ocidentais para armar a Ucrânia para atacar a Rússia, diz Margarita Simonyan",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e34e0203027271b4b3c8b.png",
+          "link": "https://www.rt.com/russia/642732-eu-gone-crazy-over-russia-threat-simonyan/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-08T11:46:49.000Z"
+        },
+        {
+          "id": "rt-2026-07-08-21-20",
+          "titulo": "Preços do petróleo disparam à medida que EUA e Irã retornam às hostilidades",
+          "resumo": "Os preços do petróleo dispararam após os EUA banirem as exportações iranianas e renovarem os ataques após relatos de ataques a petroleiros no Estreito de Ormuz",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e2b1885f54028fb5f6512.jpg",
+          "link": "https://www.rt.com/news/642716-oil-surge-us-iran-escalation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-08T11:30:16.000Z"
+        }
+      ]
+    },
+    "st": {
+      "slug": "st",
+      "nome": "The Straits Times",
+      "gerado_em": "2026-07-08T21:16:10.877Z",
+      "artigos": [
+        {
+          "id": "st-2026-07-08-2101",
+          "titulo": "Agricultor condenado a 16 anos de prisão na Itália por abandonar trabalhador indiano ferido",
+          "resumo": "Satnam Singh teve o braço arrancado e as pernas esmagadas por uma máquina em 2024.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/europe/farmer-jailed-for-16-years-in-italy-for-abandoning-injured-indian-worker",
+          "publicado_em": "2026-07-08T21:15:50.000Z"
+        },
+        {
+          "id": "st-2026-07-08-2102",
+          "titulo": "Tribunal rejeita pedido de Trump para restaurar seu nome no Kennedy Center",
+          "resumo": "O nome de Trump foi removido do prédio que abriga o local de artes cênicas em Washington em junho.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/united-states/court-rejects-trump-request-to-restore-his-name-to-kennedy-center",
+          "publicado_em": "2026-07-08T21:07:14.000Z"
+        },
+        {
+          "id": "st-2026-07-08-2103",
+          "titulo": "Jovens de Johor frustrados e sub-representados buscam uma voz política mais forte",
+          "resumo": "Alguns dão um passo à frente nas eleições, alegando que os políticos não entendem completamente as pressões econômicas que enfrentam.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/young-frustrated-and-under-represented-johor-youth-seek-a-bigger-political-voice",
+          "publicado_em": "2026-07-08T21:00:00.000Z"
+        },
+        {
+          "id": "st-2026-07-08-2104",
+          "titulo": "Onze deportados de Trump chegam em Eswatini dos EUA, afirma advogado",
+          "resumo": "JOHANNESBURGO, 8 de julho - Onze migrantes deportados pela administração Trump sob uma política de enviá-los a países terceiros chegaram em Eswatini dos EUA na quarta-feira, afirma um advogado americano.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/eleven-more-trump-deportees-arrive-in-eswatini-from-the-united-states-lawyer-says",
+          "publicado_em": "2026-07-08T19:52:14.000Z"
+        },
+        {
+          "id": "st-2026-07-08-2105",
+          "titulo": "Visita de Trump é uma vitória para Erdogan da Turquia, apesar das tensões da OTAN",
+          "resumo": "ANCARA, 8 de julho - A Turquia realizou um show aéreo vermelho, branco e azul e nomeou um novo prédio do aeroporto após o presidente Donald Trump, buscando levar sua relação com os EUA a novas alturas em uma cúpula da OTAN.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/europe/trumps-visit-a-win-for-turkeys-erdogan-nato-tensions-aside",
+          "publicado_em": "2026-07-08T18:52:55.000Z"
+        },
+        {
+          "id": "st-2026-07-08-2106",
+          "titulo": "Rutte da OTAN afirma que a aliança de defesa está reunida na cúpula de Ancara após a 'discussão' de Trump",
+          "resumo": "Trump abalou a cúpula, ameaçando publicamente cortar laços comerciais com a Espanha e renovando reivindicações sobre a Groenlândia.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/europe/natos-rutte-says-alliance-reunited-at-ankara-summit-after-trump-quarrel",
+          "publicado_em": "2026-07-08T18:27:31.000Z"
+        },
+        {
+          "id": "st-2026-07-08-2107",
+          "titulo": "EUA removerão a Síria da lista negra de terrorismo, um novo impulso para Sharaa",
+          "resumo": "A designação de décadas tem impedido severamente o investimento na Síria.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/middle-east/trump-decides-to-remove-syria-from-us-terrorism-sponsor-list",
+          "publicado_em": "2026-07-08T18:27:20.000Z"
+        },
+        {
+          "id": "st-2026-07-08-2108",
+          "titulo": "Pentágono busca reunir a América Latina atrás de uma nova Doutrina Monroe",
+          "resumo": "A política do século XIX afirma a primazia dos EUA em todo o continente americano.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/united-states/pentagon-seeks-to-rally-latin-america-behind-new-monroe-doctrine",
+          "publicado_em": "2026-07-08T18:22:20.000Z"
+        },
+        {
+          "id": "st-2026-07-08-2109",
+          "titulo": "Oficina de moda venezuelana troca vestidos por sacos para cadáveres após terremotos mortais",
+          "resumo": "MARACAY, Venezuela, 8 de julho - Sentado em seu escritório ao lado de esboços de vestidos elegantes, o designer de moda Efrain Mogollon começa o dia de trabalho na Venezuela como qualquer outro.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/venezuelan-fashion-workshop-swaps-gowns-for-body-bags-after-deadly-earthquakes",
+          "publicado_em": "2026-07-08T17:52:20.000Z"
+        },
+        {
+          "id": "st-2026-07-08-2110",
+          "titulo": "Ex-comandante da marinha argentina condenado por desastre de submarino em 2017 no qual 44 marinheiros morreram",
+          "resumo": "Claudio Villamide recebeu uma sentença suspensa de três anos por negligência agravada e violação de deveres.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/argentine-ex-navy-commander-convicted-over-2017-sub-disaster-in-which-44-sailors-died",
+          "publicado_em": "2026-07-08T17:48:37.000Z"
+        }
+      ]
+    },
+    "mt": {
+      "slug": "mt",
+      "nome": "The Moscow Times",
+      "gerado_em": "2026-07-08T21:46:20.725Z",
+      "artigos": [
+        {
+          "id": "mt-2026-07-08-01",
+          "titulo": "Autoridades de Belgorod pedem ação de oficiais à medida que ataques ucranianos intensificam falhas de infraestrutura",
+          "resumo": "Autoridades regionais são acusadas de não restaurar água e eletricidade rapidamente o suficiente após os repetidos ataques.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/08/belgorod-pleads-for-officials-to-act-as-ukrainian-strikes-intensify-infrastructure-failures-a93203",
+          "publicado_em": "2026-07-08T16:48:57.000Z"
+        },
+        {
+          "id": "mt-2026-07-08-02",
+          "titulo": "Rússia proíbe exportação de diesel para garantir suprimento doméstico após ataques de drones ucranianos",
+          "resumo": "O governo disse que a proibição, que inclui produtores de combustível, estará em vigor até 31 de julho.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/08/russia-bans-diesel-exports-to-ensure-domestic-supply-after-targeted-ukrainian-drone-strikes-a93202",
+          "publicado_em": "2026-07-08T15:58:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-08-03",
+          "titulo": "Pelo menos 2 mortos na Rússia após Ucrânia atingir várias refinarias de petróleo",
+          "resumo": "O presidente ucraniano Volodymyr Zelensky disse que seu exército atingiu refinarias de petróleo na região de Saratov e nas repúblicas de Tatarstão e Bashkortostão.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/08/at-least-2-killed-in-russia-as-ukraine-hits-multiple-oil-refineries-a93193",
+          "publicado_em": "2026-07-08T08:18:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-08-04",
+          "titulo": "Comitê Olímpico Russo tem banimento provisoriamente levantado, atletas podem retornar às competições internacionais",
+          "resumo": "O COI disse que seu conselho executivo havia levantado a suspensão, mas ainda não decidiu se a Rússia pode exibir sua bandeira, cores ou ter seu hino tocado nos Jogos.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/07/ioc-provisionally-lifts-ban-on-russian-olympic-committee-athletes-to-return-to-international-competitions-a93189",
+          "publicado_em": "2026-07-07T16:14:10.000Z"
+        },
+        {
+          "id": "mt-2026-07-08-05",
+          "titulo": "Itália prende 2 pessoas por suposta espionagem para a Rússia",
+          "resumo": "Promotores disseram que o principal suspeito, que não foi nomeado, era um ex-oficial de 59 anos da polícia militar Carabinieri que anteriormente trabalhava na comunidade de inteligência.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/07/italy-arrests-2-over-alleged-spying-for-russia-a93188",
+          "publicado_em": "2026-07-07T15:02:38.000Z"
+        },
+        {
+          "id": "mt-2026-07-08-06",
+          "titulo": "Kremlin diz que está acompanhando de perto a cúpula da OTAN",
+          "resumo": "O porta-voz Dmitry Peskov disse que uma série de declarações \"confrontacionais\" sobre a Rússia havia precedido a cúpula desta semana.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/07/kremlin-says-its-closely-following-nato-summit-a93182",
+          "publicado_em": "2026-07-07T12:07:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-08-07",
+          "titulo": "Ucrânia diz que atingiu 8 tanques da 'frota sombra' perto da Crimeia",
+          "resumo": "As forças de drones da Ucrânia disseram que atingiram os navios no Mar de Azov.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/07/ukraine-says-it-struck-8-shadow-fleet-tankers-near-crimea-a93185",
+          "publicado_em": "2026-07-07T13:39:37.000Z"
+        },
+        {
+          "id": "mt-2026-07-08-08",
+          "titulo": "Mais de 430 drones ucranianos atingem Moscou em grande ataque noturno",
+          "resumo": "Embora não tenham sido relatados feridos ou danos, a mídia estatal russa disse que foi o maior ataque de drones a Moscou em dois anos.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/07/over-430-ukrainian-drones-target-moscow-in-major-overnight-raid-a93179",
+          "publicado_em": "2026-07-07T08:35:17.000Z"
+        }
+      ]
+    },
+    "aa": {
+      "slug": "aa",
+      "nome": "AllAfrica",
+      "gerado_em": "2026-07-08T21:46:27.490Z",
+      "artigos": [
+        {
+          "id": "aa-2026-07-08-01",
+          "titulo": "Nigéria: Parlamentares em Sessão Tempestuosa Sobre Pedido para Convocar Tinubu para Explicar a Implementação Pobre do Orçamento",
+          "resumo": "Os parlamentares estavam engajados em um debate tempestuoso sobre se o Presidente Bola Tinubu deveria ser convidado para abordar preocupações sobre a falta de financiamento de agências governamentais e atrasos na implementação do orçamento.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607080717.html",
+          "publicado_em": "2026-07-08T18:01:37.000Z"
+        },
+        {
+          "id": "aa-2026-07-08-02",
+          "titulo": "Sudão: Forças Armadas Sudanesas Anunciam Libertação de Al-Kormuk em Blue Nile State",
+          "resumo": "As Forças Armadas Sudanesas (SAF), juntamente com forças aliadas, anunciaram na quarta-feira que haviam libertado a cidade de Al-Kormuk em Blue Nile State após batalhas ferozes que terminaram em vitória.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607080666.html",
+          "publicado_em": "2026-07-08T16:35:35.000Z"
+        },
+        {
+          "id": "aa-2026-07-08-03",
+          "titulo": "Somália: Governo da Somália e Oposição Concordam em Continuar Diálogo Político",
+          "resumo": "O governo federal da Somália e representantes da oposição concordaram em continuar o diálogo político visando aliviar as tensões sobre o futuro político do país.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607080659.html",
+          "publicado_em": "2026-07-08T16:28:23.000Z"
+        },
+        {
+          "id": "aa-2026-07-08-04",
+          "titulo": "África do Sul: Mais de 50.000 Imigrantes Fugiram da África do Sul",
+          "resumo": "38.000 pessoas abandonaram o país via Musina desde o início da onda de xenofobia.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607080655.html",
+          "publicado_em": "2026-07-08T16:25:28.000Z"
+        },
+        {
+          "id": "aa-2026-07-08-05",
+          "titulo": "Quênia: Jornalista Queniano Escapa de Sequestro Após Críticas ao Presidente, Diz CPJ",
+          "resumo": "O Comitê para a Proteção dos Jornalistas (CPJ) pediu uma investigação sobre a tentativa de sequestro de um jornalista sênior no Quênia, que seguiu críticas furiosas do presidente ao jornal.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607080474.html",
+          "publicado_em": "2026-07-08T12:12:32.000Z"
+        },
+        {
+          "id": "aa-2026-07-08-06",
+          "titulo": "África Central: Governança Fraca da Mineração de Ouro Ainda Impulsiona Conflitos na África Central",
+          "resumo": "Nem o Camarões nem a República Democrática do Congo estão fazendo o suficiente para melhorar a supervisão e gestão da mineração de ouro não regulamentada.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607080473.html",
+          "publicado_em": "2026-07-08T12:12:31.000Z"
+        },
+        {
+          "id": "aa-2026-07-08-07",
+          "titulo": "Tunísia: Alarme Sobre a Repressão na Tunísia",
+          "resumo": "Peritos da ONU e sociedade civil destacam a repressão em profundidade.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607080239.html",
+          "publicado_em": "2026-07-08T10:14:39.000Z"
+        },
+        {
+          "id": "aa-2026-07-08-08",
+          "titulo": "Uganda: Quatro Agricultores Ugandenses Processam para Parar Oleoduto Antes do Primeiro Petróleo - EACOP",
+          "resumo": "Quatro ugandenses entraram com uma ação judicial histórica no Tribunal Superior do Reino Unido para impedir que o Oleoduto de Petróleo Bruto da África Oriental (EACOP) comece a operar.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607080144.html",
+          "publicado_em": "2026-07-08T08:58:24.000Z"
+        },
+        {
+          "id": "aa-2026-07-08-09",
+          "titulo": "Quênia: Ativistas Pedem Investigação Parlamentar sobre Alegações de Violações de Direitos por Agências de Segurança",
+          "resumo": "Defensores dos direitos humanos estão pedindo a formação de um comitê parlamentar conjunto para investigar alegações de assassinatos extrajudiciais, desaparecimentos forçados, tortura e abusos.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607080133.html",
+          "publicado_em": "2026-07-08T08:53:36.000Z"
+        },
+        {
+          "id": "aa-2026-07-08-10",
+          "titulo": "Nigéria: Escândalo de Falsificação - Ex-Ministro Nnaji Enfrenta Cargos Criminais",
+          "resumo": "O ICPC apresentou as acusações ao Tribunal Federal de Abuja na segunda-feira, de acordo com uma folha de acusações obtida exclusivamente pelo PREMIUM TIMES.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607080114.html",
+          "publicado_em": "2026-07-08T07:12:37.000Z"
+        },
+        {
+          "id": "aa-2026-07-08-11",
+          "titulo": "Egito: Prisioneiro com Aparente Tumor Cerebral Negado Cuidados",
+          "resumo": "Beirute - Condenação à morte após desaparecimento forçado, julgamento injusto, alegada tortura.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607080110.html",
+          "publicado_em": "2026-07-08T07:12:35.000Z"
+        },
+        {
+          "id": "aa-2026-07-08-12",
+          "titulo": "Etiópia: Participantes Chegam a Addis Abeba Antes do Fórum Nacional de Diálogo da Etiópia",
+          "resumo": "Milhares de participantes de toda a Etiópia e do exterior começaram a chegar a Addis Abeba antes do fórum nacional de diálogo do país.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607080665.html",
+          "publicado_em": "2026-07-08T16:33:28.000Z"
+        },
+        {
+          "id": "aa-2026-07-08-13",
+          "titulo": "Namíbia: UE Deve Remover a Namíbia da Lista de Risco de Dinheiro Sujo",
+          "resumo": "A Namíbia deve ser removida da lista da União Europeia de jurisdições de alto risco para lavagem de dinheiro e financiamento do terrorismo até o final do ano.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607080461.html",
+          "publicado_em": "2026-07-08T11:59:57.000Z"
+        },
+        {
+          "id": "aa-2026-07-08-14",
+          "titulo": "Uganda: Uganda Fortalece Controle sobre Gastos Públicos",
+          "resumo": "O governo ugandense começou a monitorar digitalmente projetos públicos no valor de aproximadamente Shs1,2 trilhão ($320 milhões) à medida que as autoridades intensificam as reformas visando melhorar os gastos.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607080414.html",
+          "publicado_em": "2026-07-08T11:42:13.000Z"
+        }
+      ]
+    },
+    "smh": {
+      "slug": "smh",
+      "nome": "The Sydney Morning Herald (SMH)",
+      "gerado_em": "2026-07-08T21:46:35.771Z",
+      "artigos": [
+        {
+          "id": "smh-2026-07-08-2103",
+          "titulo": "EUA lançam segunda rodada de ataques ao Irã",
+          "resumo": "O exército dos EUA começou novos ataques ao Irã, após o colapso do cessar-fogo.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/690db11bcdec63daf65e047c57b57539ea0ac1c3",
+          "link": "https://www.smh.com.au/world/us-launches-second-round-of-strikes-on-iran-20260709-p60du6.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-08T21:22:50-03:00"
+        },
+        {
+          "id": "smh-2026-07-08-2104",
+          "titulo": "Notícias da Austrália AO VIVO: EUA lançam ataques contra o Irã; Telstra investiga segunda falha na rede; PM indiano inicia visita à Austrália",
+          "resumo": "Acompanhe as últimas atualizações ao vivo das notícias da Austrália e do mundo.",
+          "imagem": "https://static.ffx.io/images/$zoom_0.27350206611570244%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/fa172962a6ce20118ce3f6406f97c7b1096c3013",
+          "link": "https://www.smh.com.au/national/australia-news-live-us-launches-strikes-against-iran-telstra-investigating-second-network-fault-indian-pm-kicks-off-australian-visit-20260709-p60dtt.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-08T21:15:15-03:00"
+        },
+        {
+          "id": "smh-2026-07-08-2105",
+          "titulo": "‘Grande ataque’: Trump lança segunda noite de ataques contra o Irã",
+          "resumo": "Os EUA lançaram novos ataques, enquanto o cessar-fogo e o acordo de paz tentativo continuam a se desintegrar após a renovação da agressão iraniana no Estreito de Ormuz.",
+          "imagem": "https://static.ffx.io/images/$zoom_0.2862%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_3/t_crop_custom/q_86%2Cf_auto/df64bf5a0ab241f30196cc1140063c6496291f5f",
+          "link": "https://www.smh.com.au/world/north-america/trump-launches-second-day-of-strikes-against-iran-20260709-p60dtx.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-08T21:14:14-03:00"
+        },
+        {
+          "id": "smh-2026-07-08-2108",
+          "titulo": "Ações caem em todo o mundo; petróleo dispara; Telstra atingida por novas falhas",
+          "resumo": "Os ataques escalonados na guerra com o Irã e o aumento nos preços do petróleo devem abalar ainda mais o mercado de ações da Austrália.",
+          "imagem": "https://static.ffx.io/images/$zoom_0.2511%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_82/t_crop_custom/q_86%2Cf_jpg/d88af038065ffb4fea6ebe777a36fd9116ce92d1",
+          "link": "https://www.smh.com.au/business/markets/stocks-drop-worldwide-oil-spikes-telstra-hit-by-fresh-faults-20260709-p60dtg.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-08T20:30:24-03:00"
+        },
+        {
+          "id": "smh-2026-07-08-2110",
+          "titulo": "PM indiano chega à Austrália",
+          "resumo": "O PM indiano, Narendra Mohdi, chegou à Austrália para discutir comércio e segurança.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/27526e7ab3fe664e446923b05d233b6dcc4830e5",
+          "link": "https://www.smh.com.au/national/indian-pm-lands-in-australia-20260709-p60dtq.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-08T20:06:54-03:00"
+        },
+        {
+          "id": "smh-2026-07-08-2111",
+          "titulo": "Marinha descobre destroços de avião de carga",
+          "resumo": "Destroços de um avião de carga foram encontrados ao largo da costa do Paquistão, enquanto a busca por cinco tripulantes continua.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/e0236fef8188ef115540a74fc31bafbf06c8f06a",
+          "link": "https://www.smh.com.au/national/navy-discovers-cargo-plane-wreckage-20260709-p60dts.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-08T20:06:39-03:00"
+        },
+        {
+          "id": "smh-2026-07-08-2113",
+          "titulo": "Trump avisa sobre mais ataques contra o Irã",
+          "resumo": "Os EUA estão se preparando para novos ataques contra o Irã, alertou Donald Trump.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/d1d138db7917c67a5289bdc5cf5076060546f59e",
+          "link": "https://www.smh.com.au/national/trump-warns-of-more-strikes-against-iran-20260709-p60dto.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-08T20:01:29-03:00"
+        }
+      ]
+    }
+  },
+  "temas_principais": [
+    {
+      "tema": "Conflito EUA-Irã",
+      "descricao": "Nova rodada de ataques após o colapso do cessar-fogo",
+      "fontes_que_cobriram": [
+        "new_york_times",
+        "euronews",
+        "smh"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "rt"
+      ],
+      "divergencia_de_enquadramento": "Enquanto a mídia ocidental destaca a agressão iraniana, a RT enfatiza a resposta dos EUA como uma escalada desnecessária."
+    },
+    {
+      "tema": "Conflito Rússia-Ucrânia",
+      "descricao": "Ucrânia atinge refinarias de petróleo na Rússia",
+      "fontes_que_cobriram": [
+        "mt",
+        "st"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "the_guardian"
+      ],
+      "divergencia_de_enquadramento": "A mídia russa destaca a agressão ucraniana, enquanto a mídia ocidental tende a ignorar ou minimizar o tema."
+    },
+    {
+      "tema": "Cúpula da OTAN",
+      "descricao": "Trump surpreende aliados com acordos de armas e elogios",
+      "fontes_que_cobriram": [
+        "scmp",
+        "st"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "rt"
+      ],
+      "divergencia_de_enquadramento": "A mídia ocidental destaca a surpresa dos aliados, enquanto a RT enfatiza a postura assertiva de Trump."
+    }
+  ],
+  "temas_subcobertos": [
+    {
+      "tema": "Sudão",
+      "por_que_importa": "A cidade de El Obeid se tornou um campo de batalha crucial na guerra entre as forças armadas do Sudão e seus inimigos paramilitares.",
+      "cobertura": "Apenas a AllAfrica e o The Guardian cobriram o tema."
+    },
+    {
+      "tema": "Libéria",
+      "por_que_importa": "A apreensão de mais de 200 kg de cocaína é um tema importante de segurança regional.",
+      "cobertura": "Apenas o The Guardian cobriu o tema."
+    }
+  ]
+}
