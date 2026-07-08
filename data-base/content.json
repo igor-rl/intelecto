@@ -18,103 +18,97 @@
     "the_guardian": {
       "slug": "the_guardian",
       "nome": "The Guardian",
-      "gerado_em": "2026-07-08T09:38:03.150Z",
+      "gerado_em": "2026-07-08T21:00:11.774Z",
       "artigos": [
         {
-          "id": "the_guardian-2026-07-07T15:17:19-01",
+          "id": "the_guardian-2026-07-07T15:17:19.000Z-01",
           "titulo": "Lote de catnip é tão eficaz quanto o Deet para repelir mosquitos, estudo descobre",
           "resumo": "Pesquisadores testando um óleo caseiro barato em Uganda descobriram o que os gatos sempre souberam – ele funciona tão bem quanto o químico artificial usado globalmente",
-          "imagem": null,
           "link": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
-          "publicado_em": "2026-07-07T15:17:19-03:00"
+          "imagem": null,
+          "fonte": "The Guardian",
+          "publicado_em": "2026-07-07T15:17:19.000Z"
         },
         {
-          "id": "the_guardian-2026-07-07T11:00:06-02",
+          "id": "the_guardian-2026-07-07T11:00:06.000Z-02",
           "titulo": "O que definirá o legado de Elon Musk? Cortes de Doge para programas de Ebola da USAID",
           "resumo": "Especialistas dizem que cortes prejudicaram a resposta ao surto de Ebola na República Democrática do Congo e resultaram em 'números significativos' de mortes",
-          "imagem": null,
           "link": "https://www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola",
-          "publicado_em": "2026-07-07T11:00:06-03:00"
+          "imagem": null,
+          "fonte": "The Guardian",
+          "publicado_em": "2026-07-07T11:00:06.000Z"
         },
         {
-          "id": "the_guardian-2026-07-07T06:30:31-03",
+          "id": "the_guardian-2026-07-07T06:30:31.000Z-03",
           "titulo": "Cinco pessoas são acusadas na Libéria após apreensão de mais de 200 kg de cocaína",
           "resumo": "Remessa descoberta no aeroporto de Monróvia e avaliada em £14,2 milhões havia sido falsamente declarada como cubos de tempero",
-          "imagem": null,
           "link": "https://www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust",
-          "publicado_em": "2026-07-07T06:30:31-03:00"
+          "imagem": null,
+          "fonte": "The Guardian",
+          "publicado_em": "2026-07-07T06:30:31.000Z"
         },
         {
-          "id": "the_guardian-2026-07-04T20:32:52-04",
+          "id": "the_guardian-2026-07-04T20:32:52.000Z-04",
           "titulo": "Arqueólogos descobrem cidade bizantina antiga no deserto ocidental do Egito",
-          "resumo": "Quartos bem preservados do século IV revelam detalhes da vida diária, desenvolvimento urbano e atividades econômicas",
-          "imagem": null,
+          "resumo": "Quartos bem preservados do século IV revelam detalhes da vida cotidiana, desenvolvimento urbano e atividades econômicas",
           "link": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
-          "publicado_em": "2026-07-04T20:32:52-03:00"
+          "imagem": null,
+          "fonte": "The Guardian",
+          "publicado_em": "2026-07-04T20:32:52.000Z"
         },
         {
-          "id": "the_guardian-2026-07-04T15:14:18-05",
-          "titulo": "A situação é terrível: trabalhadores humanitários descrevem vida em cidade sudanesa bombardeada por drones",
-          "resumo": "El Obeid se torna campo de batalha importante na guerra entre as forças armadas do Sudão e seus inimigos paramilitares, o RSF",
-          "imagem": null,
+          "id": "the_guardian-2026-07-04T15:14:18.000Z-05",
+          "titulo": "A situação é terrível: trabalhadores humanitários descrevem vida em cidade sudanesa atingida por ataques de drones",
+          "resumo": "El Obeid se torna um campo de batalha crucial na guerra entre as forças armadas do Sudão e seus inimigos paramilitares, o RSF",
           "link": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
-          "publicado_em": "2026-07-04T15:14:18-03:00"
+          "imagem": null,
+          "fonte": "The Guardian",
+          "publicado_em": "2026-07-04T15:14:18.000Z"
         },
         {
-          "id": "the_guardian-2026-07-07T15:06:41-06",
+          "id": "the_guardian-2026-07-08T14:01:35.000Z-06",
+          "titulo": "Juízes do Reino Unido começam a ouvir apelação sobre lei anti-homossexual de Trinidad e Tobago",
+          "resumo": "Ativista desafia decisão do ano passado que restaurou lei colonial homofóbica contra a intimidade entre pessoas do mesmo sexo",
+          "link": "https://www.theguardian.com/world/2026/jul/08/uk-judges-appeal-trinidad-and-tobago-homophobic-law",
+          "imagem": null,
+          "fonte": "The Guardian",
+          "publicado_em": "2026-07-08T14:01:35.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-07T15:06:41.000Z-07",
           "titulo": "Promotores franceses investigam abuso racista contra Kylian Mbappé por senador paraguaio",
-          "resumo": "Celeste Amarilla pode enfrentar acusações após a Federação Francesa de Futebol reclamar sobre postagens em redes sociais sobre uma partida da Copa do Mundo",
-          "imagem": null,
+          "resumo": "Celeste Amarilla pode enfrentar acusações após a Federação Francesa de Futebol reclamar sobre postagens nas redes sociais sobre uma partida da Copa do Mundo",
           "link": "https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe",
-          "publicado_em": "2026-07-07T15:06:41-03:00"
+          "imagem": null,
+          "fonte": "The Guardian",
+          "publicado_em": "2026-07-07T15:06:41.000Z"
         },
         {
-          "id": "the_guardian-2026-07-06T19:30:09-07",
-          "titulo": "Vivendo assim é uma agonia: Cuba sofre terceiro apagão nacional em seis meses",
+          "id": "the_guardian-2026-07-06T19:30:09.000Z-08",
+          "titulo": "Cuba sofre terceira apagão nacional em seis meses",
           "resumo": "Ilha empobrecida já estava lutando para manter as luzes acesas antes dos EUA imporem um bloqueio em janeiro",
-          "imagem": null,
           "link": "https://www.theguardian.com/world/2026/jul/06/cuba-suffers-third-nationwide-blackout-in-six-months",
-          "publicado_em": "2026-07-06T19:30:09-03:00"
+          "imagem": null,
+          "fonte": "The Guardian",
+          "publicado_em": "2026-07-06T19:30:09.000Z"
         },
         {
-          "id": "the_guardian-2026-07-06T16:41:47-08",
-          "titulo": "Canadá compra 12 submarinos de alta tecnologia da Alemanha após guerra de lances",
-          "resumo": "TKMS supera rival sul-coreano em contrato de vários bilhões de dólares que aprofundará os laços do Canadá com a OTAN",
-          "imagem": null,
+          "id": "the_guardian-2026-07-06T16:41:47.000Z-09",
+          "titulo": "Canadá compra 12 submarinos de tecnologia avançada da Alemanha após guerra de lances",
+          "resumo": "TKMS supera rival sul-coreano em contrato multibilionário que aprofundará os laços do Canadá com a OTAN",
           "link": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
-          "publicado_em": "2026-07-06T16:41:47-03:00"
-        },
-        {
-          "id": "the_guardian-2026-07-06T15:58:26-09",
-          "titulo": "Zoológico cubano comemora nascimento de tigres-bengalas em meio à crise energética",
-          "resumo": "Chegada de felinos em perigo, incluindo um raro filhote branco, revitaliza equipe que luta com escassez de combustível e medicamentos",
           "imagem": null,
-          "link": "https://www.theguardian.com/world/2026/jul/06/cuban-zoo-celebrates-birth-of-bengal-tigers-amid-energy-crisis",
-          "publicado_em": "2026-07-06T15:58:26-03:00"
+          "fonte": "The Guardian",
+          "publicado_em": "2026-07-06T16:41:47.000Z"
         },
         {
-          "id": "the_guardian-2026-07-05T21:50:42-10",
-          "titulo": "Rodríguez defende resposta de emergência do Venezuela ao terremoto enquanto o número de corpos deve aumentar",
-          "resumo": "Presidente interina diz que a agitação não irromperá apesar da raiva pela resposta oficial ao desastre de 24 de junho",
-          "imagem": null,
-          "link": "https://www.theguardian.com/world/2026/jul/05/rodriguez-defends-venezuelas-emergency-earthquake-response-as-bodies-expected-to-soar",
-          "publicado_em": "2026-07-05T21:50:42-03:00"
-        },
-        {
-          "id": "the_guardian-2026-07-08T08:35:29-11",
-          "titulo": "Falha de software é culpada por apagão em massa – como aconteceu",
-          "resumo": "Este blog agora está fechado. Apagão da Telstra: empresa de telecomunicações pede desculpas por problema de manutenção do tempo que atingiu celulares, trens e chamadas de emergência",
-          "imagem": null,
-          "link": "https://www.theguardian.com/australia-news/live/2026/jul/08/anthony-albanese-pacific-diplomacy-state-of-origin-labor-coalition-recession-unemployment-ntwnfb",
-          "publicado_em": "2026-07-08T08:35:29-03:00"
-        },
-        {
-          "id": "the_guardian-2026-07-07T06:51:54-12",
+          "id": "the_guardian-2026-07-07T06:51:54.000Z-10",
           "titulo": "Tempestades severas na China trazem tornado e deslizamentos de terra que mataram 15 pessoas",
           "resumo": "Líder chinês Xi Jinping pede esforço de resgate 'total' à medida que o número de mortos aumenta e 16 pessoas permanecem soterradas após um deslizamento de terra no oeste do país",
-          "imagem": null,
           "link": "https://www.theguardian.com/world/2026/jul/07/china-severe-storms-death-toll-xi-jinping-rescue-efforts-landslides-tornadoes",
-          "publicado_em": "2026-07-07T06:51:54-03:00"
+          "imagem": null,
+          "fonte": "The Guardian",
+          "publicado_em": "2026-07-07T06:51:54.000Z"
         }
       ]
     },
