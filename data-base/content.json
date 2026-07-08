@@ -337,47 +337,111 @@
     "scmp": {
       "slug": "scmp",
       "nome": "South China Morning Post",
-      "gerado_em": "2026-07-08T09:53:24.407Z",
+      "gerado_em": "2026-07-08T21:15:37.502Z",
       "artigos": [
         {
-          "id": "scmp-2026-07-08-0903-01",
-          "titulo": "Indonésia-Índia: Acordo de mísseis BrahMos compra seguro contra conflitos para Jacarta",
-          "resumo": "A Indonésia se tornou o terceiro país do Sudeste Asiático a comprar o sistema de mísseis de cruzeiro supersônicos BrahMos, desenvolvido conjuntamente pela Índia e Rússia.",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/08/f13f92d6-0515-4010-a76f-0d79d9a20886_8d551435.jpg?itok=SNG_pXYX&v=1783499086",
-          "link": "https://www.scmp.com/week-asia/politics/article/3359837/indonesia-india-brahmos-deal-buys-jakarta-conflict-insurance?utm_source=rss_feed",
-          "publicado_em": "2026-07-08T09:30:10.000Z"
+          "id": "scmp-2026-07-08-2101",
+          "titulo": "Trump surpreende aliados da Otan com acordos de armas e elogios à medida que a cúpula termina positivamente",
+          "resumo": "O presidente dos EUA, Donald Trump, prometeu novas vendas de armas na Europa, incluindo sistemas de defesa aérea avançados para aliados da Otan e Ucrânia, à medida que a aliança transatlântica aumenta sua parceria militar.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/09/f46b1ee7-2c07-4cc4-91de-8151150b6647_35e1c38e.jpg?itok=GuPcI3yB&v=1783544258",
+          "link": "https://www.scmp.com/news/us/diplomacy/article/3359902/trump-surprises-nato-allies-arms-deals-and-praise-summit-ends-positively?utm_source=rss_feed",
+          "publicado_em": "2026-07-08T20:57:49.000Z"
         },
         {
-          "id": "scmp-2026-07-08-0906-02",
-          "titulo": "Donald Trump declara que o cessar-fogo com o Irã está 'encerrado'",
-          "resumo": "O presidente dos EUA, Donald Trump, declarou que o cessar-fogo com o Irã está 'encerrado', após o lançamento de novos ataques militares contra a República Islâmica.",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/08/91d4d2ef-4e52-4ad2-b22f-218cfda0ea81_72b8b816.jpg?itok=BTjYDuBN&v=1783501480",
-          "link": "https://www.scmp.com/news/china/diplomacy/article/3359842/trump-declares-ceasefire-iran-over?utm_source=rss_feed",
-          "publicado_em": "2026-07-08T08:53:06.000Z"
+          "id": "scmp-2026-07-08-2102",
+          "titulo": "Anthropic rebate após a China alertar sobre riscos de 'backdoor' no Claude Code",
+          "resumo": "A empresa de inteligência artificial dos EUA, Anthropic, disse que os usuários na China que foram aconselhados a desinstalar seu produto de código Claude não deveriam estar usando-o no primeiro lugar.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/09/2a64e7a6-ec9b-4a59-9fa8-5d0b6636978e_bb4575ce.jpg?itok=pqhZwefd&v=1783543314",
+          "link": "https://www.scmp.com/news/china/article/3359901/anthropic-hits-back-after-china-warns-claude-code-backdoor-risks?utm_source=rss_feed",
+          "publicado_em": "2026-07-08T20:41:55.000Z"
         },
         {
-          "id": "scmp-2026-07-08-0907-03",
-          "titulo": "Modelos de IA dos EUA são melhores que os da China? Isso pode ser irrelevante",
-          "resumo": "À medida que outra onda de calor varre a Europa, os armazéns esvaziaram antes que a política pudesse acompanhá-los. Ar condicionados e ventiladores esgotaram em toda a Espanha, Itália e Alemanha, a maioria deles chineses.",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/03/f9bb7f60-cecd-4a28-b991-a3b7567e6bd8_c4b701a1.jpg?itok=NY2m-Xjc&v=1783082432",
-          "link": "https://www.scmp.com/opinion/china-opinion/article/3359364/are-us-ai-models-better-chinas-may-be-beside-point?utm_source=rss_feed",
-          "publicado_em": "2026-07-08T08:30:09.000Z"
+          "id": "scmp-2026-07-08-2103",
+          "titulo": "Homem dos EUA, Jeffrey Ying, preso por roubar manuscrito chinês raro da UCLA",
+          "resumo": "Um homem da Califórnia que trocou um manuscrito chinês do século XVII por uma falsificação foi preso por um ano após admitir o roubo de uma obra de arte importante.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/09/2b325b28-810e-45b0-8529-e1120e34c4e4_e845945e.jpg?itok=ofWvXJkA&v=1783542482",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3359900/us-man-jeffrey-ying-jailed-stealing-rare-chinese-manuscript-ucla?utm_source=rss_feed",
+          "publicado_em": "2026-07-08T20:23:33.000Z"
         },
         {
-          "id": "scmp-2026-07-08-0912-04",
-          "titulo": "Província canadense prepara ação judicial contra a OpenAI após tiroteio em escola",
-          "resumo": "A província canadense da Colúmbia Britânica está preparando uma ação judicial contra a OpenAI devido à falha da empresa em relatar atividades violentas do ChatGPT por parte da pessoa que cometeu um tiroteio em massa em uma escola no oeste do Canadá.",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/08/8bbaafde-716a-4e1a-b114-1688c72e5c57_0f490ae9.jpg?itok=5Q1oeHcD&v=1783493855",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3359825/canadian-province-prepares-lawsuit-against-openai-after-school-mass-shooting?utm_source=rss_feed",
-          "publicado_em": "2026-07-08T06:57:37.000Z"
+          "id": "scmp-2026-07-08-2104",
+          "titulo": "E. Jean Carroll pode receber US$ 5 milhões em danos de Trump, diz juiz dos EUA",
+          "resumo": "Um juiz autorizou o pagamento de uma indenização de vários milhões de dólares à escritora E. Jean Carroll para satisfazer um veredicto civil de 2023.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/09/ba140457-a325-498c-995a-ede7ee2e788f_2b7504ce.jpg?itok=ACQxD0X5&v=1783540443",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3359899/e-jean-carroll-can-collect-us5-million-damages-trump-us-judge-says?utm_source=rss_feed",
+          "publicado_em": "2026-07-08T19:54:14.000Z"
         },
         {
-          "id": "scmp-2026-07-08-0914-05",
-          "titulo": "Chefe de finanças de Hong Kong promete segunda viagem à Arábia Saudita para fortalecer laços no Oriente Médio",
-          "resumo": "O chefe de finanças de Hong Kong, Paul Chan, liderará outra delegação comercial à Arábia Saudita no final do ano, anunciando a notícia enquanto a cidade sediava a primeira edição internacional de uma das principais tecnologias do reino.",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/08/2d49bbd9-8bca-459c-b309-9901772c8cc5_f20fefab.jpg?itok=4SZGvbcn&v=1783492175",
-          "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3359822/hong-kongs-paul-chan-pledges-second-trip-saudi-arabia-build-mideast-ties?utm_source=rss_feed",
-          "publicado_em": "2026-07-08T06:29:40.000Z"
+          "id": "scmp-2026-07-08-2105",
+          "titulo": "Farage vs Count Binface: como o líder de direita do Reino Unido pode perder nas eleições",
+          "resumo": "O político anti-imigração do Reino Unido, Nigel Farage, pode enfrentar um candidato de brincadeira nas eleições.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/09/cf035f51-7bf1-4c8f-9462-99b22e4b9a74_d1278fad.jpg?itok=lfQ5dD-9&v=1783542122",
+          "link": "https://www.scmp.com/news/world/europe/article/3359898/farage-vs-count-binface-how-uk-hard-right-leaders-poll-gambit-could-backfire?utm_source=rss_feed",
+          "publicado_em": "2026-07-08T18:39:02.000Z"
+        },
+        {
+          "id": "scmp-2026-07-08-2106",
+          "titulo": "Trump muda de avião, levantando questões sobre o jato doado pelo Catar",
+          "resumo": "O presidente dos EUA, Donald Trump, mudou de avião, o que levantou questões sobre o jato doado pelo Catar.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/09/13ecb26a-4ef9-4e83-b11f-5a79a562f706_7c82f4ba.jpg?itok=VfOSkAGZ&v=1783532589",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3359897/trump-unexpectedly-switches-back-old-air-force-one-sidelining-qatari-jet?utm_source=rss_feed",
+          "publicado_em": "2026-07-08T17:43:14.000Z"
+        },
+        {
+          "id": "scmp-2026-07-08-2108",
+          "titulo": "Espanha minimiza ameaça de embargo comercial de Trump, dizendo que não há 'tensão'",
+          "resumo": "A Espanha minimizou a ameaça de embargo comercial do presidente dos EUA, Donald Trump.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/08/71385f83-1402-4a20-b15f-a532124362b8_79d2aaf5.jpg?itok=35CpGJos&v=1783525851",
+          "link": "https://www.scmp.com/economy/global-economy/article/3359895/spain-plays-down-trumps-trade-embargo-threat-saying-there-no-tension?utm_source=rss_feed",
+          "publicado_em": "2026-07-08T15:51:00.000Z"
+        },
+        {
+          "id": "scmp-2026-07-08-2110",
+          "titulo": "Busca por tripulantes continua após destroços de avião serem encontrados na costa do Paquistão",
+          "resumo": "Os destroços de um avião de carga que desapareceu ao se aproximar do porto de Karachi, no Paquistão, foram encontrados.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/09/21b3f38d-5ae7-4138-9fe0-6621ba9ff473_c714350f.jpg?itok=7YUA2qcv&v=1783531736",
+          "link": "https://www.scmp.com/news/asia/south-asia/article/3359891/search-crew-goes-plane-wreckage-found-pakistans-coast?utm_source=rss_feed",
+          "publicado_em": "2026-07-08T15:06:45.000Z"
+        },
+        {
+          "id": "scmp-2026-07-08-2111",
+          "titulo": "Xi Jinping pede reforma do sistema de inovação para superar rivais tecnológicos globais",
+          "resumo": "O presidente chinês, Xi Jinping, pediu esforços mais fortes para atrair talentos estrangeiros e resolver falhas no ecossistema de inovação do país.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/09/11d3a0e1-e9b6-4137-b2f0-64ea1f2f4512_2ba595ef.jpg?itok=2MPzz3RP&v=1783534661",
+          "link": "https://www.scmp.com/news/china/politics/article/3359886/chinas-xi-jinping-calls-innovation-system-overhaul-beat-global-tech-rivals?utm_source=rss_feed",
+          "publicado_em": "2026-07-08T15:00:17.000Z"
+        },
+        {
+          "id": "scmp-2026-07-08-2113",
+          "titulo": "FMI prevê que a economia global crescerá apenas 3% este ano devido à guerra no Irã",
+          "resumo": "O Fundo Monetário Internacional (FMI) revisou ligeiramente para baixo sua previsão para a economia global este ano, citando o choque energético causado pela guerra no Irã.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/09/394a8dee-e3a5-423f-92e0-dbed338571da_578d1802.jpg?itok=XGwN4fNa&v=1783536269",
+          "link": "https://www.scmp.com/news/world/article/3359890/imf-sees-world-economy-growing-just-3-year-amid-iran-war?utm_source=rss_feed",
+          "publicado_em": "2026-07-08T14:41:23.000Z"
+        },
+        {
+          "id": "scmp-2026-07-08-2114",
+          "titulo": "Adolescente de 16 anos preso após duas garotas serem feridas em ataque a escola na Alemanha",
+          "resumo": "Um adolescente de 16 anos foi preso após um ataque a uma escola na Alemanha que deixou duas garotas feridas.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/08/a3674a5b-3207-4b74-bea8-aa25c5c9bfb2_cb86c33d.jpg?itok=sr5rMeKn&v=1783520688",
+          "link": "https://www.scmp.com/news/world/europe/article/3359889/teen-16-arrested-over-germany-school-attack?utm_source=rss_feed",
+          "publicado_em": "2026-07-08T14:24:59.000Z"
+        },
+        {
+          "id": "scmp-2026-07-08-2117",
+          "titulo": "Pequim busca estabilidade e acesso justo ao mercado de chips durante visita do ministro do Comércio holandês",
+          "resumo": "A China pediu à Holanda que garantisse um tratamento justo para as empresas chinesas e mantivesse estáveis as cadeias de suprimento de chips durante a visita do ministro do Comércio holandês.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/08/96b3eef2-478f-4f7c-a09e-fcf270fb9d91_ba187e50.jpg?itok=C9DLTw2J&v=1783509841",
+          "link": "https://www.scmp.com/economy/global-economy/article/3359872/beijing-seeks-chip-stability-and-fair-market-access-during-dutch-trade-ministers-trip?utm_source=rss_feed",
+          "publicado_em": "2026-07-08T13:00:07.000Z"
+        },
+        {
+          "id": "scmp-2026-07-08-2118",
+          "titulo": "Ações da Alibaba disparam 12% em Hong Kong à medida que os investidores esperam por um aumento nas receitas",
+          "resumo": "As ações da Alibaba Group Holding dispararam 12% em Hong Kong à medida que os investidores esperam por um aumento nas receitas.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/08/b3874098-9d9b-4565-9861-b2dd333ca395_92d9849c.jpg?itok=Dphu46Ws&v=1783512242",
+          "link": "https://www.scmp.com/tech/article/3359878/alibaba-shares-spike-12-hong-kong-t-head-chips-ai-revenue-fuel-earnings-optimism?utm_source=rss_feed",
+          "publicado_em": "2026-07-08T12:30:13.000Z"
         }
       ]
     },
