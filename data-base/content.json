@@ -894,63 +894,47 @@
     "smh": {
       "slug": "smh",
       "nome": "The Sydney Morning Herald (SMH)",
-      "gerado_em": "2026-07-08T08:11:22.404Z",
+      "gerado_em": "2026-07-08T10:27:33.166Z",
       "artigos": [
         {
-          "id": "smh-2026-07-08-0808",
-          "titulo": "Irã ataca locais no Bahrein e Kuwait após onda de ataques dos EUA",
-          "resumo": "Os EUA e o Irã trocaram fogo no Golfo por várias horas na quarta-feira, enquanto o Pentágono advertiu que iria responsabilizar o Irã e Teerã descartou um 'ato de agressão flagrante'.",
-          "imagem": "https://static.ffx.io/images/$zoom_0.1226%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_56/t_crop_custom/q_86%2Cf_auto/7a53c9490207d6fd99d8d1af16010bc0d3bc52e6",
+          "id": "smh-2026-07-08-01",
+          "titulo": "Trump diz que cessar-fogo com o Irã está 'acabado'",
+          "resumo": "Trump diz que negociadores estão 'perdendo tempo' após o Irã atacar bases americanas no Golfo em resposta a novos ataques americanos na quarta-feira, descartados por Teerã como 'ato de agressão flagrante'.",
+          "imagem": "https://static.ffx.io/images/$zoom_0.1914%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/dd1bc5903199c90af27c225a4145629df256a8e2",
           "link": "https://www.smh.com.au/world/middle-east/us-military-launches-strikes-against-iran-central-command-says-20260708-p60dhr.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "publicado_em": "2026-07-08T07:38:25.000Z"
+          "publicado_em": "2026-07-08T09:30:03-03:00"
         },
         {
-          "id": "smh-2026-07-08-0806",
-          "titulo": "Notícias da Austrália AO VIVO: falha na Telstra afeta chamadas para o Triple Zero, interrompe serviços de trem na Victoria e NSW",
-          "resumo": "Siga nossa cobertura em tempo real das últimas notícias e desenvolvimentos da Austrália e do mundo.",
-          "imagem": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/q_86%2Cf_jpg/39937da73224f470ec24d40a22c167b3f9f3fd80",
-          "link": "https://www.smh.com.au/national/australia-news-as-it-happened-telstra-investigates-outage-albanese-s-origin-diplomacy-push-farage-resigns-from-parliament-20260708-p60dh2.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "publicado_em": "2026-07-08T07:47:21.000Z"
+          "id": "smh-2026-07-08-02",
+          "titulo": "Cientistas australianos desenvolvem alternativa indolor às vacinas tradicionais",
+          "resumo": "Há esperança para uma alternativa potencialmente indolor às vacinas, pois cientistas australianos ajudam a desenvolver um patch dissolúvel para substituir injeções tradicionais.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/9126e51e7d23c3d8e68f20fb6fdd56f20dd96566",
+          "link": "https://www.smh.com.au/national/australians-scientists-develop-painless-alternative-to-traditional-vaccines-20260708-p60ds2.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-08T09:32:22-03:00"
         },
         {
-          "id": "smh-2026-07-08-0809",
-          "titulo": "Interrupções nos trens da V/Line AO VIVO: a rede de trens regionais da Victoria permanece suspensa após uma falha nacional na Telstra; serviços de emergência lutam com problemas",
-          "resumo": "Uma falha generalizada na Telstra interrompeu conexões móveis e de dados em toda a rede, interrompendo pagamentos de empresas locais e paralisando completamente os serviços de trem da V-Line em toda a Victoria.",
-          "imagem": "https://static.ffx.io/images/$zoom_0.1888%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_jpg/1a61bd469b44ed659f9f21923dca8a6d4fa3e38c253b2200078f525f4ce22bb4",
-          "link": "https://www.smh.com.au/national/victoria/v-line-train-disruptions-live-updates-telstra-outage-sparks-mass-delays-across-victoria-s-regional-train-network-20260708-p60di3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "publicado_em": "2026-07-08T07:36:31.000Z"
+          "id": "smh-2026-07-08-03",
+          "titulo": "Trump diz que cessar-fogo com o Irã está 'acabado'",
+          "resumo": "Donald Trump disse que o cessar-fogo com o Irã está 'acabado' e que é 'perda de tempo' negociar com Teerã.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/d3a088b8a44ff7bc521dd4688a3668581331aea3",
+          "link": "https://www.smh.com.au/national/trump-says-iran-ceasefire-over-20260708-p60dry.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-08T08:56:21-03:00"
         },
         {
-          "id": "smh-2026-07-08-0811",
-          "titulo": "Bug de 'viagem no tempo' é culpado por falha catastrófica na Telstra",
-          "resumo": "A falha generalizada levou a pelo menos 300 chamadas para o Triple Zero que falharam, e seis clientes disseram à Telstra que precisavam de mais ajuda quando verificações de bem-estar foram realizadas.",
-          "imagem": "https://static.ffx.io/images/$zoom_0.2763%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_111%2C$y_93/t_crop_custom/q_86%2Cf_auto/1920313c98455c089bf0e5e04f10e7c0f0632c38",
-          "link": "https://www.smh.com.au/business/consumer-affairs/telstra-investigating-outage-affecting-thousands-of-customers-20260708-p60dho.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "publicado_em": "2026-07-08T07:30:59.000Z"
+          "id": "smh-2026-07-08-04",
+          "titulo": "Vizinhos da Austrália unificados após lançamento de míssil chinês",
+          "resumo": "O lançamento de um míssil nuclear-capaz pela China sobre o Pacífico Sul unificou os vizinhos da Austrália.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/eeacbd3cb4ff6d6ed0a0a289fc56b43657aae992",
+          "link": "https://www.smh.com.au/national/australia-s-neighbours-unified-following-chinese-missile-launch-20260708-p60drw.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-08T08:42:52-03:00"
         },
         {
-          "id": "smh-2026-07-08-0813",
-          "titulo": "Membro da família Alameddine é acusado de grooming de criança",
-          "resumo": "Um homem de Sydney com ligações com o crime organizado foi recusado liberdade condicional por 'alegações ousadas' que incluem o envio de imagens explícitas.",
-          "imagem": "https://static.ffx.io/images/$zoom_0.1511%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/e341255b53ea447437b2ae285de76cb7bebfc189",
-          "link": "https://www.smh.com.au/national/nsw/alameddine-family-member-charged-with-child-grooming-20260708-p60dob.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "publicado_em": "2026-07-08T07:13:05.000Z"
-        },
-        {
-          "id": "smh-2026-07-08-0814",
-          "titulo": "Príncipe Harry e várias celebridades perdem batalha legal contra o Daily Mail",
-          "resumo": "O príncipe Harry e seis outras celebridades perderam uma dispendiosa batalha legal contra o editor do Daily Mail, após falharem em provar que sua privacidade foi violada.",
-          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/bbec2c6f0cf5c40d0e83779798263baa92833d5a",
-          "link": "https://www.smh.com.au/national/prince-harry-and-multiple-celebs-lose-daily-mail-legal-battle-20260708-p60dr6.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "publicado_em": "2026-07-08T07:06:31.000Z"
-        },
-        {
-          "id": "smh-2026-07-08-0820",
-          "titulo": "Nova York está em alerta devido a possível colapso de arranha-céu",
-          "resumo": "Um prédio de arranha-céu no meio de Nova York está em risco de colapso após vigas internas se dobrarem repentinamente.",
-          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/6087021a5d78bad2d99e4f545da0194817c1744d",
-          "link": "https://www.smh.com.au/national/nyc-on-edge-over-potential-skyscraper-collapse-20260708-p60dka.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "publicado_em": "2026-07-08T06:47:33.000Z"
+          "id": "smh-2026-07-08-05",
+          "titulo": "Telstra investiga apagão nacional",
+          "resumo": "A Telstra está investigando o que causou um apagão nacional que paralisou trens, transações e algumas chamadas para o Triple Zero.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/e2861071893fd9581d0ba540592d08922c572e49",
+          "link": "https://www.smh.com.au/national/telstra-investigating-nationwide-outage-20260708-p60dqe.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-08T08:43:59-03:00"
         }
       ]
     }
