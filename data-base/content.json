@@ -702,167 +702,71 @@
     "mt": {
       "slug": "mt",
       "nome": "The Moscow Times",
-      "gerado_em": "2026-07-08T10:27:13.123Z",
+      "gerado_em": "2026-07-08T21:46:20.725Z",
       "artigos": [
         {
           "id": "mt-2026-07-08-01",
-          "titulo": "Região de Kemerovo, na Sibéria, Restringe Movimento de Caminhões devido a Preocupações com Ataques de Drones",
-          "resumo": "As autoridades citaram a ameaça de 'possíveis ataques de drones' e disseram que apenas caminhões com documentação de empresas locais são agora permitidos para entrar na capital regional de Kemerovo.",
+          "titulo": "Autoridades de Belgorod pedem ação de oficiais à medida que ataques ucranianos intensificam falhas de infraestrutura",
+          "resumo": "Autoridades regionais são acusadas de não restaurar água e eletricidade rapidamente o suficiente após os repetidos ataques.",
           "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/08/siberias-kemerovo-region-restricts-truck-movement-amid-drone-attack-concerns-a93192",
-          "publicado_em": "2026-07-08T09:01:00.000Z"
+          "link": "https://www.themoscowtimes.com/2026/07/08/belgorod-pleads-for-officials-to-act-as-ukrainian-strikes-intensify-infrastructure-failures-a93203",
+          "publicado_em": "2026-07-08T16:48:57.000Z"
         },
         {
           "id": "mt-2026-07-08-02",
-          "titulo": "Pelo Menos 2 Mortos na Rússia após Ucrânia Atacar Múltiplas Refinarias de Petróleo",
-          "resumo": "O presidente ucraniano Volodymyr Zelensky disse que seu exército atacou refinarias de petróleo na região de Saratov e nas repúblicas de Tatarstão e Bashkortostão.",
+          "titulo": "Rússia proíbe exportação de diesel para garantir suprimento doméstico após ataques de drones ucranianos",
+          "resumo": "O governo disse que a proibição, que inclui produtores de combustível, estará em vigor até 31 de julho.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/08/russia-bans-diesel-exports-to-ensure-domestic-supply-after-targeted-ukrainian-drone-strikes-a93202",
+          "publicado_em": "2026-07-08T15:58:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-08-03",
+          "titulo": "Pelo menos 2 mortos na Rússia após Ucrânia atingir várias refinarias de petróleo",
+          "resumo": "O presidente ucraniano Volodymyr Zelensky disse que seu exército atingiu refinarias de petróleo na região de Saratov e nas repúblicas de Tatarstão e Bashkortostão.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/08/at-least-2-killed-in-russia-as-ukraine-hits-multiple-oil-refineries-a93193",
           "publicado_em": "2026-07-08T08:18:00.000Z"
         },
         {
-          "id": "mt-2026-07-08-03",
-          "titulo": "Comitê Olímpico Internacional Provisionalmente Revoga Banimento do Comitê Olímpico Russo, Atletas Podem Voltar a Competições Internacionais",
-          "resumo": "O COI disse que sua diretoria executiva havia revogado a suspensão, mas ainda não decidiu se a Rússia pode exibir sua bandeira, cores ou ter seu hino tocado nos Jogos.",
+          "id": "mt-2026-07-08-04",
+          "titulo": "Comitê Olímpico Russo tem banimento provisoriamente levantado, atletas podem retornar às competições internacionais",
+          "resumo": "O COI disse que seu conselho executivo havia levantado a suspensão, mas ainda não decidiu se a Rússia pode exibir sua bandeira, cores ou ter seu hino tocado nos Jogos.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/07/ioc-provisionally-lifts-ban-on-russian-olympic-committee-athletes-to-return-to-international-competitions-a93189",
           "publicado_em": "2026-07-07T16:14:10.000Z"
         },
         {
-          "id": "mt-2026-07-08-04",
-          "titulo": "Maior Refinaria de Petróleo da Rússia Pára Produção após Ataque de Drone, Dizem Fontes",
-          "resumo": "A paralisação das operações na usina provavelmente agravará a escassez de combustível em todo o país.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/07/russias-largest-oil-refinery-halts-production-after-drone-attack-sources-say-a93190",
-          "publicado_em": "2026-07-07T15:31:35.000Z"
-        },
-        {
           "id": "mt-2026-07-08-05",
-          "titulo": "Itália Prende 2 Pessoas por Suposta Espionagem para a Rússia",
-          "resumo": "Os promotores disseram que o principal suspeito, que não foi nomeado, era um ex-oficial de 59 anos da polícia militar Carabinieri que anteriormente trabalhava na comunidade de inteligência.",
+          "titulo": "Itália prende 2 pessoas por suposta espionagem para a Rússia",
+          "resumo": "Promotores disseram que o principal suspeito, que não foi nomeado, era um ex-oficial de 59 anos da polícia militar Carabinieri que anteriormente trabalhava na comunidade de inteligência.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/07/italy-arrests-2-over-alleged-spying-for-russia-a93188",
           "publicado_em": "2026-07-07T15:02:38.000Z"
         },
         {
           "id": "mt-2026-07-08-06",
-          "titulo": "Deportação de Russo Anti-Guerra pela Turquia Sinaliza Riscos Crescentes para Críticos do Kremlin no Exterior",
-          "resumo": "Advogados de direitos humanos alertam que a deportação está se tornando uma ferramenta cada vez mais comum de repressão transnacional contra ativistas anti-guerra no exterior.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/07/turkeys-deportation-of-anti-war-russian-signals-growing-risks-for-kremlin-critics-abroad-a93170",
-          "publicado_em": "2026-07-07T14:45:00.000Z"
-        },
-        {
-          "id": "mt-2026-07-08-07",
-          "titulo": "Juiz de Moscou Condena Cantora Monetochka a um Ano de Prisão em Ausência",
-          "resumo": "Monetochka deixou a Rússia logo após a invasão em grande escala da Ucrânia. Ela agora vive na Letônia, onde continua a se apresentar e gravar música.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/07/moscow-judge-sentences-singer-monetochka-to-year-in-prison-in-absentia-a93187",
-          "publicado_em": "2026-07-07T14:37:32.000Z"
-        },
-        {
-          "id": "mt-2026-07-08-08",
-          "titulo": "Ucrânia Diz que Atacou 8 'Frota Fantasma' de Petroleiros Perto da Crimeia",
-          "resumo": "As forças de drones da Ucrânia disseram que atacaram os navios no Mar de Azov.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/07/ukraine-says-it-struck-8-shadow-fleet-tankers-near-crimea-a93185",
-          "publicado_em": "2026-07-07T13:39:37.000Z"
-        },
-        {
-          "id": "mt-2026-07-08-09",
-          "titulo": "Hotéis Russos Ordenados a Usar o Serviço de Mensagens do Estado Max para Check-in de Hóspedes",
-          "resumo": "De acordo com a nova regulamentação, hotéis com mais de 50 quartos devem comprar hardware e treinar funcionários para usar o Max antes que a lei entre em vigor em 1 de setembro.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/07/russian-hotels-ordered-to-use-state-messenger-max-for-guest-check-ins-a93183",
-          "publicado_em": "2026-07-07T13:20:18.000Z"
-        },
-        {
-          "id": "mt-2026-07-08-10",
-          "titulo": "Kremlin Diz que Está Acompanhando Closamente a Cúpula da OTAN",
-          "resumo": "O porta-voz Dmitry Peskov disse que uma série de declarações 'confrontacionais' sobre a Rússia precederam a cúpula desta semana.",
+          "titulo": "Kremlin diz que está acompanhando de perto a cúpula da OTAN",
+          "resumo": "O porta-voz Dmitry Peskov disse que uma série de declarações \"confrontacionais\" sobre a Rússia havia precedido a cúpula desta semana.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/07/kremlin-says-its-closely-following-nato-summit-a93182",
           "publicado_em": "2026-07-07T12:07:00.000Z"
         },
         {
-          "id": "mt-2026-07-08-11",
-          "titulo": "Governador de Vologda Acaba de Gasolina após Dizer ao Público para Não Entrar em Pânico com a Escassez de Combustível",
-          "resumo": "O governador da região de Vologda, Georgy Filimonov, disse que ficou sem gasolina enquanto dirigia e teve que pegar carona com a polícia de trânsito.",
+          "id": "mt-2026-07-08-07",
+          "titulo": "Ucrânia diz que atingiu 8 tanques da 'frota sombra' perto da Crimeia",
+          "resumo": "As forças de drones da Ucrânia disseram que atingiram os navios no Mar de Azov.",
           "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/07/vologda-governor-runs-out-of-gasoline-after-telling-public-not-to-panic-over-fuel-shortages-a93181",
-          "publicado_em": "2026-07-07T10:50:51.000Z"
+          "link": "https://www.themoscowtimes.com/2026/07/07/ukraine-says-it-struck-8-shadow-fleet-tankers-near-crimea-a93185",
+          "publicado_em": "2026-07-07T13:39:37.000Z"
         },
         {
-          "id": "mt-2026-07-08-12",
-          "titulo": "Eslováquia Suspensa Vistos de Curta Duração para Turistas Russos Durante o Verão",
-          "resumo": "A Associação de Operadores Turísticos da Rússia disse que a suspensão da Eslováquia do processamento de vistos durante o verão é improvável que cause problemas significativos, dado que o país não é um destino turístico popular entre os russos.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/07/slovakia-suspends-short-stay-visas-for-russian-tourists-through-summer-a93180",
-          "publicado_em": "2026-07-07T10:08:00.000Z"
-        },
-        {
-          "id": "mt-2026-07-08-13",
-          "titulo": "Mais de 430 Drones Ucranianos Atacam Moscou em um Grande Ataque Noturno",
+          "id": "mt-2026-07-08-08",
+          "titulo": "Mais de 430 drones ucranianos atingem Moscou em grande ataque noturno",
           "resumo": "Embora não tenham sido relatados feridos ou danos, a mídia estatal russa disse que foi o maior ataque de drones a Moscou em dois anos.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/07/over-430-ukrainian-drones-target-moscow-in-major-overnight-raid-a93179",
           "publicado_em": "2026-07-07T08:35:17.000Z"
-        },
-        {
-          "id": "mt-2026-07-08-14",
-          "titulo": "Ucrânia Ataca Maior Refinaria de Petróleo da Rússia na Sibéria Ocidental",
-          "resumo": "A refinaria operada pela Gazprom Neft na cidade de Omsk está localizada a cerca de 2.500 quilômetros da fronteira com a Ucrânia.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/06/ukraine-strikes-russias-largest-oil-refinery-in-western-siberia-a93177",
-          "publicado_em": "2026-07-06T14:47:00.000Z"
-        },
-        {
-          "id": "mt-2026-07-08-15",
-          "titulo": "Serviço Antitruste Intensifica Repressão a Suposta Fixação de Preços em Postos de Gasolina",
-          "resumo": "Seis cadeias de postos de gasolina na região de Moscou foram acusadas de coordenar ilegalmente aumentos de preços simultâneos nos postos.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/06/antitrust-service-ramps-up-crackdown-on-alleged-price-fixing-at-gas-stations-a93175",
-          "publicado_em": "2026-07-06T13:32:22.000Z"
-        },
-        {
-          "id": "mt-2026-07-08-16",
-          "titulo": "Primeiro-Ministro da Armênia Faz Primeira Viagem à Rússia desde a Reeleição e Proibição de Importação de Alimentos",
-          "resumo": "Nikol Pashinyan estava na cidade de Ecaterimburgo para participar da sessão plenária da exposição industrial anual Innoprom.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/06/armenian-pm-makes-first-trip-to-russia-since-re-election-food-import-ban-a93174",
-          "publicado_em": "2026-07-06T11:13:00.000Z"
-        },
-        {
-          "id": "mt-2026-07-08-17",
-          "titulo": "Ministério das Relações Exteriores Chama Embaixador da Suécia sobre 'Ataque' de Drone à Embaixada Russa",
-          "resumo": "A embaixada da Rússia na Suécia acusou as autoridades locais de não garantir a segurança da missão diplomática após dois drones caírem em seu território.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/06/mfa-summons-swedish-ambassador-over-drone-attack-on-russian-embassy-a93173",
-          "publicado_em": "2026-07-06T10:12:33.000Z"
-        },
-        {
-          "id": "mt-2026-07-08-18",
-          "titulo": "Gazprom Formará Unidades de Reserva Militar para Proteger Infraestrutura de Energia contra Ataques de Drones",
-          "resumo": "Em vez de confiar apenas nas forças militares regulares, as autoridades têm cada vez mais recorrido a unidades de voluntários regionais e formações de reserva para reforçar a defesa aérea em torno de sites estratégicos.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/06/gazprom-to-form-military-reserve-units-to-guard-energy-infrastructure-from-drone-attacks-a93172",
-          "publicado_em": "2026-07-06T09:58:34.000Z"
-        },
-        {
-          "id": "mt-2026-07-08-19",
-          "titulo": "Chipre Retoma Processamento Regular de Vistos na Rússia",
-          "resumo": "A retomada do serviço ocorre quase um mês após a expiração de um contrato que forçou os consulados do país a assumir temporariamente as operações.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/06/cyprus-resumes-regular-visa-processing-in-russia-a93171",
-          "publicado_em": "2026-07-06T09:19:09.000Z"
-        },
-        {
-          "id": "mt-2026-07-08-20",
-          "titulo": "Apagão em Toda a Região atinge a Crimeia após Ataques Ucranianos Matar 1 Pessoa",
-          "resumo": "A energia foi parcialmente restaurada em partes do sul e leste da Crimeia na tarde de segunda-feira, disse o governo regional.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/06/regionwide-blackout-hits-crimea-after-ukrainian-strikes-kill-1-a93169",
-          "publicado_em": "2026-07-06T08:44:00.000Z"
         }
       ]
     },
