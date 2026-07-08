@@ -525,71 +525,87 @@
     "st": {
       "slug": "st",
       "nome": "The Straits Times",
-      "gerado_em": "2026-07-08T08:05:52.685Z",
+      "gerado_em": "2026-07-08T10:12:01.352Z",
       "artigos": [
         {
-          "id": "st-2026-07-08-0801",
-          "titulo": "Trump e aliados da OTAN começam negociações-chave na cúpula da Turquia",
-          "resumo": "As negociações começaram sob a sombra de novas tensões no Oriente Médio.",
+          "id": "st-2026-07-08-01",
+          "titulo": "Equipe de Trump testa mensagem anti-comunista para as eleições de meio de mandato à medida que a retórica se intensifica",
+          "resumo": "WASHINGTON, 8 de julho - O presidente dos EUA, Donald Trump, intensificou seus alertas sobre uma tomada de poder comunista do Partido Democrata à frente das eleições de meio de mandato de novembro, à medida que sua equipe política testa...",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/trump-team-tests-anti-communist-message-for-midterms-as-rhetoric-intensifies",
+          "publicado_em": "2026-07-08T10:07:28.000Z"
+        },
+        {
+          "id": "st-2026-07-08-02",
+          "titulo": "Ex-juíza do Wisconsin será sentenciada por obstruir prisão de imigração",
+          "resumo": "MILWAUKEE, Wisconsin, 8 de julho - Uma ex-juíza do Wisconsin enfrenta sentença na quarta-feira após ser considerada culpada de obstruir uma prisão de imigração planejada fora de sua sala de audiências no ano passado.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/ex-wisconsin-judge-to-be-sentenced-for-obstructing-immigration-arrest",
+          "publicado_em": "2026-07-08T10:07:16.000Z"
+        },
+        {
+          "id": "st-2026-07-08-03",
+          "titulo": "Navio-tanque de GNL qatariano danificado aguarda resgate após ataque perto do Hormuz",
+          "resumo": "LONDRES/DOHA, 8 de julho - O navio-tanque de GNL qatariano Al Rekayyat está estacionado perto do Estreito de Hormuz e aguarda operações de resgate após um incêndio a bordo ter sido extinto, de acordo com dados de rastreamento de navios...",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/middle-east/damaged-qatari-lng-tanker-awaits-salvage-after-strike-near-hormuz",
+          "publicado_em": "2026-07-08T09:47:16.000Z"
+        },
+        {
+          "id": "st-2026-07-08-04",
+          "titulo": "Hegseth se reunirá com Netanyahu sobre possível venda de F-35s para a Turquia, diz fonte à Reuters",
+          "resumo": "JERUSALÉM, 8 de julho - O secretário de Defesa dos EUA, Pete Hegseth, discutirá a possível venda de caças F-35 para a Turquia na quarta-feira com o primeiro-ministro israelense Benjamin Netanyahu, disse uma fonte familiarizada...",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/europe/hegseth-to-meet-netanyahu-over-possible-sale-of-f-35s-to-turkey-source-tells-reuters",
+          "publicado_em": "2026-07-08T08:47:26.000Z"
+        },
+        {
+          "id": "st-2026-07-08-05",
+          "titulo": "Trump diz em cúpula da OTAN que ordenou corte de comércio com a Espanha",
+          "resumo": "ANCARA, 8 de julho - O presidente dos EUA, Donald Trump, disse na quarta-feira em uma cúpula da OTAN que ordenou ao seu secretário do Tesouro, Scott Bessent, cortar todo o comércio com a Espanha, chamando Madrid de \"parceiro terrível\"...",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/europe/trump-says-at-nato-summit-he-has-ordered-cutoff-of-us-trade-with-spain",
+          "publicado_em": "2026-07-08T08:47:15.000Z"
+        },
+        {
+          "id": "st-2026-07-08-06",
+          "titulo": "Trump diz que o cessar-fogo com o Irã está encerrado após ataques",
+          "resumo": "Ele declarou o fim do cessar-fogo após ataques iranianos a navios no Estreito de Hormuz.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/update-2-trump-says-deal-with-iran-is-over-to-cut-trade-with-spain",
+          "publicado_em": "2026-07-08T08:41:27.000Z"
+        },
+        {
+          "id": "st-2026-07-08-07",
+          "titulo": "Cardeal espanhol se suspende após acusações de assalto sexual",
+          "resumo": "CIDADE DO VATICANO, 8 de julho - O cardeal espanhol Cristobal Lopez Romero, que também é arcebispo de Rabat, no Marrocos, se suspendeu após ser acusado de molestar mulheres, disse o Vaticano em seu próprio...",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/europe/spanish-cardinal-suspends-himself-after-sexual-assault-allegations",
+          "publicado_em": "2026-07-08T08:22:16.000Z"
+        },
+        {
+          "id": "st-2026-07-08-08",
+          "titulo": "Legisladores franceses apoiam lei de tiros da polícia criticada por críticos",
+          "resumo": "A lei proposta daria aos policiais envolvidos em tiros o benefício da dúvida.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/europe/french-lawmakers-back-police-shootings-law-dubbed-licence-to-kill-by-critics",
+          "publicado_em": "2026-07-08T08:07:18.000Z"
+        },
+        {
+          "id": "st-2026-07-08-09",
+          "titulo": "Trump e aliados da OTAN começam conversas-chave na cúpula da Turquia",
+          "resumo": "As conversas começaram sob a sombra de novas tensões no Oriente Médio.",
           "imagem": null,
           "link": "https://www.straitstimes.com/world/trump-and-nato-allies-to-begin-key-talks-at-turkey-summit",
           "publicado_em": "2026-07-08T07:42:00.000Z"
         },
         {
-          "id": "st-2026-07-08-0802",
+          "id": "st-2026-07-08-10",
           "titulo": "Milhares marcham enquanto o cortejo fúnebre de Khamenei cruza para o Iraque",
           "resumo": "Os enlutados cantaram slogans contra os EUA e Israel e exibiram bandeiras iraquianas e iranianas.",
           "imagem": null,
           "link": "https://www.straitstimes.com/world/middle-east/thousands-march-as-khameneis-funeral-procession-crosses-into-iraq",
           "publicado_em": "2026-07-08T07:22:14.000Z"
-        },
-        {
-          "id": "st-2026-07-08-0803",
-          "titulo": "Explosão de IA leva investimentos intangíveis a nível recorde: ONU",
-          "resumo": "Os investimentos intangíveis provaram ser mais resilientes do que os tangíveis nos últimos anos.",
-          "imagem": null,
-          "link": "https://www.straitstimes.com/world/ai-boom-drives-intangible-investment-to-record-level-un",
-          "publicado_em": "2026-07-08T07:00:00.000Z"
-        },
-        {
-          "id": "st-2026-07-08-0804",
-          "titulo": "Rússia tenta bloquear sistemas Starlink da Musk para contrariar drones ucranianos",
-          "resumo": "Forças russas estão tentando contrariar ataques de drones ucranianos \"no meio do ataque\" camuflando cargas e instalando poderosos sistemas de bloqueio para interromper os sistemas Starlink da Elon Musk.",
-          "imagem": null,
-          "link": "https://www.straitstimes.com/world/europe/russia-tries-to-jam-musks-starlink-systems-to-counter-ukrainian-drones",
-          "publicado_em": "2026-07-08T06:37:15.000Z"
-        },
-        {
-          "id": "st-2026-07-08-0805",
-          "titulo": "Quatro petroleiros e gasodutos retornam do estreito de Hormuz após ataques a embarcações",
-          "resumo": "Ataques renovados a embarcações na via aquática crítica aumentaram as preocupações com segurança e segurança.",
-          "imagem": null,
-          "link": "https://www.straitstimes.com/world/middle-east/four-oil-and-gas-tankers-turn-back-from-hormuz-strait-after-vessel-attacks",
-          "publicado_em": "2026-07-08T06:15:00.000Z"
-        },
-        {
-          "id": "st-2026-07-08-0806",
-          "titulo": "Novos ataques dos EUA ao Irã foram absolutamente necessários, diz chefe da OTAN",
-          "resumo": "O secretário-geral da OTAN, Mark Rutte, disse que os novos ataques dos EUA ao Irã foram \"absolutamente necessários\".",
-          "imagem": null,
-          "link": "https://www.straitstimes.com/world/europe/new-us-attacks-on-iran-were-absolutely-necessary-nato-chief-says",
-          "publicado_em": "2026-07-08T06:12:12.000Z"
-        },
-        {
-          "id": "st-2026-07-08-0808",
-          "titulo": "Dinamarca está pronta para defender 'cada polegada da OTAN', incluindo o reino dinamarquês, diz primeira-ministra",
-          "resumo": "A primeira-ministra dinamarquesa, Mette Frederiksen, disse que a Dinamarca está pronta para defender cada polegada da OTAN, incluindo o reino dinamarquês.",
-          "imagem": null,
-          "link": "https://www.straitstimes.com/world/europe/denmark-ready-to-defend-every-inch-of-nato-including-danish-kingdom-pm-says",
-          "publicado_em": "2026-07-08T06:02:13.000Z"
-        },
-        {
-          "id": "st-2026-07-08-0809",
-          "titulo": "Drones ucranianos matam uma pessoa e danificam dois petroleiros vazios, diz Rússia",
-          "resumo": "O governador da região de Saratov, na Rússia, disse que várias pessoas foram feridas em um ataque de drone ucraniano.",
-          "imagem": null,
-          "link": "https://www.straitstimes.com/world/europe/ukrainian-drones-kill-one-person-damage-two-empty-oil-tankers-russia-says",
-          "publicado_em": "2026-07-08T05:57:05.000Z"
         }
       ]
     },
