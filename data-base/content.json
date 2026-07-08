@@ -105,175 +105,79 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-07-08T01:46:23.113Z",
+      "gerado_em": "2026-07-08T08:00:02.246Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-07-07T23:02:05-01",
-          "titulo": "EUA Atacam o Irã e Reimplantam Sanções Após Ataques a Petroleiros",
-          "resumo": "A operação militar ocorreu horas após o Tesouro dos EUA revogar uma isenção que permitia a venda global de petróleo iraniano.",
+          "id": "new_york_times-2026-07-08-0801",
+          "titulo": "Preços do Petróleo Disparam Após EUA e Irã Trocarem Golpes no Golfo Pérsico",
+          "resumo": "Ataques a navios no Estreito de Ormuz desencadearam um novo ciclo de retaliação que pode estrangular o fluxo de energia da região.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/07/us/politics/us-strikes-iran-tanker-attacks.html",
-          "publicado_em": "2026-07-07T23:02:05.000-03:00"
+          "link": "https://www.nytimes.com/2026/07/08/business/oil-gas-markets-shipping-hormuz.html",
+          "publicado_em": "2026-07-08T07:03:47.000Z"
         },
         {
-          "id": "new_york_times-2026-07-07T23:23:59-02",
+          "id": "new_york_times-2026-07-08-0802",
           "titulo": "À Medida que Israel Perde Apoio nos EUA, Rahm Emanuel Critica Netanyahu",
-          "resumo": "O ex-prefeito de Chicago, um democrata que explora uma corrida presidencial em 2028, está em Tel Aviv pedindo o fim do apoio incondicional dos EUA a Israel.",
+          "resumo": "O ex-prefeito de Chicago, um democrata explorando uma corrida presidencial em 2028, está em Tel Aviv pedindo o fim do apoio incondicional dos EUA a Israel.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/07/us/politics/rahm-emanuel-speech-israel.html",
-          "publicado_em": "2026-07-07T23:23:59.000-03:00"
+          "publicado_em": "2026-07-07T23:23:59.000Z"
         },
         {
-          "id": "new_york_times-2026-07-07T23:00:30-07",
-          "titulo": "Evacuações em Midtown Desorganizam Planos de Hóspedes de Hotel",
-          "resumo": "Pelo menos dois hotéis perto do prédio instável foram evacuados, deixando viajantes sem rumo e forçando hóspedes a procurar acomodações alternativas.",
+          "id": "new_york_times-2026-07-08-0803",
+          "titulo": "Chegada de Trump à Turquia para Cúpula da OTAN Adiciona Drama e Espectáculo",
+          "resumo": "Assim que o segundo presidente Trump chegou à Turquia, o centro de gravidade mudou para onde ele gosta mais: ele mesmo.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/07/travel/midtown-hotels-building-collapse.html",
-          "publicado_em": "2026-07-07T23:00:30.000-03:00"
+          "link": "https://www.nytimes.com/2026/07/08/world/europe/trump-nato-summit.html",
+          "publicado_em": "2026-07-08T04:00:07.000Z"
         },
         {
-          "id": "new_york_times-2026-07-07T20:49:09-14",
-          "titulo": "Le Pen Diz que irá Concorrer à Presidência Após Corte Levantar Proibição",
-          "resumo": "Um tribunal de apelação confirmou a condenação por desvio de fundos de Marine Le Pen, mas encurtou a proibição de sua elegibilidade para cargos eletivos. Isso significa que a líder de extrema-direita francesa pode concorrer à presidência em 2027.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/07/world/europe/marine-le-pen-verdict-election-ban-appeal.html",
-          "publicado_em": "2026-07-07T20:49:09.000-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-07T21:41:33-13",
-          "titulo": "Batalha de Marine Le Pen nos Tribunais é o Último Confronto entre Populistas e Fiscalizadores",
+          "id": "new_york_times-2026-07-08-0809",
+          "titulo": "Batalha de Marine Le Pen nos Tribunais é o Último Conflito entre Populistas e Fiscalizadores",
           "resumo": "A batalha da líder de extrema-direita com a justiça francesa evoca confrontos em todo o mundo populista, incluindo os com o presidente Trump e Nigel Farage.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/07/world/europe/le-pen-populists-vs-courts.html",
-          "publicado_em": "2026-07-07T21:41:33.000-03:00"
+          "publicado_em": "2026-07-08T03:51:15.000Z"
         },
         {
-          "id": "new_york_times-2026-07-07T18:23:46-10",
-          "titulo": "Bernie Sanders Pediu que Graham Platner Desista da Candidatura ao Senado Após Alegação de Estupro",
-          "resumo": "O senador Sanders foi um dos últimos aliados proeminentes de Graham Platner, o candidato democrata ao Senado pelo Maine, a pedir que ele desistisse após uma alegação de estupro.",
+          "id": "new_york_times-2026-07-08-0810",
+          "titulo": "Le Pen Diz que Irá se Candidatar à Presidência Após Tribunal Levantar Proibição",
+          "resumo": "Um tribunal de apelação confirmou a condenação por desvio de fundos de Marine Le Pen, mas encurtou uma proibição sobre sua elegibilidade para cargos eletivos. Isso significa que a líder de extrema-direita francesa pode se candidatar à presidência em 2027.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-bernie-sanders-maine.html",
-          "publicado_em": "2026-07-07T18:23:46.000-03:00"
+          "link": "https://www.nytimes.com/2026/07/07/world/europe/marine-le-pen-verdict-election-ban-appeal.html",
+          "publicado_em": "2026-07-07T20:49:09.000Z"
         },
         {
-          "id": "new_york_times-2026-07-07T23:18:49-11",
-          "titulo": "Apoiantes de Platner Lutam para Aceitar o Fim da Campanha",
-          "resumo": "Muitos eleitores disseram que esperavam que Graham Platner, o candidato democrata ao Senado pelo Maine, saísse da corrida após uma ex-namorada acusá-lo publicamente de agressão sexual.",
+          "id": "new_york_times-2026-07-08-0811",
+          "titulo": "A Copa do Mundo Era uma Pausa na Política dos EUA. Então Trump Interviu",
+          "resumo": "A ligação do presidente para o chefe da FIFA destaca que ele ainda não encontrou uma área da vida americana, ou mesmo global, onde ele esteja disposto a se afirmar.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/07/us/maine-voters-platner.html",
-          "publicado_em": "2026-07-07T23:18:49.000-03:00"
+          "link": "https://www.nytimes.com/2026/07/07/us/politics/trump-world-cup-fifa.html",
+          "publicado_em": "2026-07-07T18:29:23.000Z"
         },
         {
-          "id": "new_york_times-2026-07-07T20:11:04-22",
-          "titulo": "Os 39 Mais Estilosos de 2026, Até Agora",
-          "resumo": "Em tapetes vermelhos, nos sets, nos palcos e até no espaço, eles capturaram nossa atenção com seus looks.",
+          "id": "new_york_times-2026-07-08-0812",
+          "titulo": "Agente do ICE Mata um Homem Mexicano em Houston",
+          "resumo": "A agência disse que o homem era um 'alienígena ilegal' que havia tentado atropelar o agente, embora nenhuma evidência tenha sido apresentada imediatamente.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/07/style/most-stylish-people-of-2026-so-far.html",
-          "publicado_em": "2026-07-07T20:11:04.000-03:00"
+          "link": "https://www.nytimes.com/2026/07/07/us/immigration-ice-shooting-houston.html",
+          "publicado_em": "2026-07-08T03:10:20.000Z"
         },
         {
-          "id": "new_york_times-2026-07-07T21:00:06-23",
-          "titulo": "Socialistas Democráticos Estão em Ascensão. Já Vimos Esse Filme Antes.",
-          "resumo": "Líderes de partidos mainstream não podem evitar uma luta com sua esquerda.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/07/opinion/democratic-socialist-liberal-progressive.html",
-          "publicado_em": "2026-07-07T21:00:06.000-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-07T16:41:35-24",
-          "titulo": "JD Vance Está Preocupado",
-          "resumo": "A teologia do vice-presidente vem em forma de livro.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/07/opinion/jd-vance-communion-clash-civilizations.html",
-          "publicado_em": "2026-07-07T16:41:35.000-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-07T15:20:33-25",
-          "titulo": "Por Que Morangos Estão Em Todos os Lugares, Em Toda Estação? Driscoll’s.",
-          "resumo": "O gigante californiano ajudou a transformar um tratado local e sazonal em um refrigerador padrão mundial e uma máquina de marketing.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/07/dining/driscolls-berries.html",
-          "publicado_em": "2026-07-07T15:20:33.000-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-07T15:30:22-21",
-          "titulo": "A Estônia Venceu a Guerra Contra o Fentanil. O Que Veio em Seguida Foi Ainda Pior.",
-          "resumo": "Até 2018, as overdoses de fentanil na Estônia haviam despencado. No entanto, novas drogas poderosas estão surgindo rapidamente, com as autoridades correndo para responder.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/07/world/europe/estonia-fentanyl-new-drugs.html",
-          "publicado_em": "2026-07-07T15:30:22.000-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-07T21:42:44-19",
-          "titulo": "Andrea Shaw, Autora de uma Ação Contra Vacinas, é Acusada de Assassinato de Seus Gêmeos",
-          "resumo": "Uma ação movida pela Children’s Health Defense, uma organização fundada por Robert F. Kennedy Jr., afirma que as vacinas causaram a morte dos gêmeos. No entanto, um júri em Idaho indiciou Andrea por acusações de... ",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/07/us/idaho-twins-death-shaw-vaccines-murder.html",
-          "publicado_em": "2026-07-07T21:42:44.000-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-07T21:52:43-20",
-          "titulo": "Os Desaparecidos Buffets de Las Vegas Refletem a Alma Americana",
-          "resumo": "À medida que uma vez grandiosa tradição americana entra em seu crepúsculo, nosso crítico viaja para o deserto para descobrir o que tudo isso significa.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/07/dining/las-vegas-buffets.html",
-          "publicado_em": "2026-07-07T21:52:43.000-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-07T18:08:40-18",
-          "titulo": "A Faculdade de Direito de Yale Luta para Impedir um Acordo com Trump",
-          "resumo": "A universidade tem estado em negociações para resolver investigações sobre suas práticas de admissão. O decano da faculdade de direito e alguns professores argumentaram que um acordo poderia comprometer sua independência.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/07/us/yale-law-school-dean-trump-deal.html",
-          "publicado_em": "2026-07-07T18:08:40.000-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-07T23:59:10-17",
-          "titulo": "Juiz Ordena que o Departamento de Segurança Nacional Restaure o Acesso a Dados de Cidadania de 4 Estados",
+          "id": "new_york_times-2026-07-08-0813",
+          "titulo": "Juiz Ordena que o DHS Restaure o Acesso de 4 Estados a Dados de Cidadania",
           "resumo": "A decisão, baseada em um acordo que a administração Trump assinou com a Flórida no ano passado, contradiz uma ordem anterior de um juiz em Washington que exigia a suspensão do acesso.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/07/us/politics/florida-judge-dhs-citizenship-data.html",
-          "publicado_em": "2026-07-07T23:59:10.000-03:00"
+          "publicado_em": "2026-07-07T23:59:10.000Z"
         },
         {
-          "id": "new_york_times-2026-07-07T22:28:19-06",
-          "titulo": "Juiz Anula Subpoena do Departamento de Justiça em Inquérito sobre a Eleição de 2020",
-          "resumo": "A decisão lançou sérias dúvidas sobre os esforços do departamento para reinvestigar a corrida, concluindo que era tarde demais para apresentar acusações criminais no caso.",
+          "id": "new_york_times-2026-07-08-0816",
+          "titulo": "Suspeito Interagiu com o Grupo de Charlie Kirk Antes de Matar, Dizem Promotores",
+          "resumo": "Em uma audiência, promotores usaram vídeos para traçar os passos do homem que acusam de assassinar o Sr. Kirk, enquanto advogados de defesa tentaram criar buracos na evidência de DNA.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/07/us/politics/2020-election-inquiry-trump-georgia.html",
-          "publicado_em": "2026-07-07T22:28:19.000-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-07T21:05:53-04",
-          "titulo": "Novas Regras Exigem Mudanças nas Eleições para que os Estados Recebam Subsídios Contra o Terrorismo",
-          "resumo": "Funcionários federais disseram que retinham alguns fundos a menos que os estados buscassem sistemas de cédulas de papel, verificassem a cidadania e realizassem auditorias custosas.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/07/climate/fema-grants-states-election-changes.html",
-          "publicado_em": "2026-07-07T21:05:53.000-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-08T00:19:49-05",
-          "titulo": "Departamento de Justiça Ameaça Principais Funcionários de Eleições sobre Votação de Não Cidadãos",
-          "resumo": "As cartas vêm em meio aos esforços do presidente Trump para endurecer as regras eleitorais para prevenir um problema que não existe: a votação generalizada de não cidadãos.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/07/us/politics/justice-department-elections-noncitizen-voting.html",
-          "publicado_em": "2026-07-08T00:19:49.000-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-08T01:25:38-16",
-          "titulo": "Agente do ICE Mata um Homem Mexicano em Houston",
-          "resumo": "A agência disse que o homem era um “alienígena ilegal” que havia tentado atropelar o agente, embora nenhuma evidência tenha sido apresentada imediatamente.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/07/us/immigration-ice-shooting-houston.html",
-          "publicado_em": "2026-07-08T01:25:38.000-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-07T20:49:09-14",
-          "titulo": "Le Pen Diz que irá Concorrer à Presidência Após Corte Levantar Proibição",
-          "resumo": "Um tribunal de apelação confirmou a condenação por desvio de fundos de Marine Le Pen, mas encurtou a proibição de sua elegibilidade para cargos eletivos. Isso significa que a líder de extrema-direita francesa pode concorrer à presidência em 2027.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/07/world/europe/marine-le-pen-verdict-election-ban-appeal.html",
-          "publicado_em": "2026-07-07T20:49:09.000-03:00"
+          "link": "https://www.nytimes.com/2026/07/07/us/charlie-kirk-tyler-robinson-hearing.html",
+          "publicado_em": "2026-07-08T00:57:11.000Z"
         }
       ]
     },
