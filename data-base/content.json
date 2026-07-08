@@ -105,7 +105,7 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-07-08T00:40:00.870Z",
+      "gerado_em": "2026-07-08T00:56:00.814Z",
       "artigos": [
         {
           "id": "new_york_times-2026-07-07T23:02:04-01",
@@ -134,106 +134,50 @@
         {
           "id": "new_york_times-2026-07-07T21:05:53-04",
           "titulo": "Novas Regras Exigem Mudanças nas Eleições para que os Estados Recebam Subsídios Contra o Terrorismo",
-          "resumo": "Funcionários federais disseram que retinham alguns recursos a menos que os estados buscassem sistemas de cédulas de papel, verificassem a cidadania e realizassem auditorias custosas.",
+          "resumo": "Funcionários federais disseram que retinham alguns recursos a menos que os estados buscassem sistemas de cédulas de papel, verificassem a cidadania e realizassem auditorias dispendiosas.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/07/climate/fema-grants-states-election-changes.html",
           "publicado_em": "2026-07-07T21:05:53-03:00"
         },
         {
-          "id": "new_york_times-2026-07-07T00:19:49-05",
-          "titulo": "Departamento de Justiça Ameaça Oficiais de Eleições de Alto Nível Sobre Votação de Não Cidadãos",
-          "resumo": "As cartas vêm no meio dos esforços do presidente Trump para endurecer as regras eleitorais para prevenir um problema que não existe: a votação generalizada de não cidadãos.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/07/us/politics/justice-department-elections-noncitizen-voting.html",
-          "publicado_em": "2026-07-08T00:19:49-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-07T22:28:19-06",
-          "titulo": "Juiz Anula Subpoena do Departamento de Justiça em Inquérito sobre a Eleição de 2020",
-          "resumo": "A decisão lançou sérias dúvidas sobre os esforços do departamento para reinvestigar a corrida, encontrando que era tarde demais para apresentar acusações criminais no caso.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/07/us/politics/2020-election-inquiry-trump-georgia.html",
-          "publicado_em": "2026-07-07T22:28:19-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-07T23:18:49-11",
-          "titulo": "Apoiadores de Platner Lutam para Aceitar o Fim da Campanha",
-          "resumo": "Muitos eleitores disseram que esperavam que Graham Platner, o candidato democrata ao Senado do estado, saísse da corrida após uma ex-namorada acusá-lo publicamente de agressão sexual.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/07/us/maine-voters-platner.html",
-          "publicado_em": "2026-07-07T23:18:49-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-08T00:22:08-12",
-          "titulo": "Esses Democratas de Maine Podem Substituir Graham Platner na Corrida ao Senado",
-          "resumo": "O Sr. Platner ainda não se retirou da corrida após uma acusação de estupro, mas democratas no estado e nacionalmente já exploram alternativas potenciais.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-replacements-maine-democrats.html",
-          "publicado_em": "2026-07-08T00:22:08-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-07T21:41:33-13",
-          "titulo": "A Batalha de Marine Le Pen nos Tribunais é o Último Conflito entre Populistas e Fiscalizadores",
-          "resumo": "A batalha da líder de extrema-direita com a justiça francesa evoca confrontos em todo o mundo populista, incluindo os com o presidente Trump e Nigel Farage.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/07/world/europe/le-pen-populists-vs-courts.html",
-          "publicado_em": "2026-07-07T21:41:33-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-07T20:49:09-14",
-          "titulo": "Le Pen Diz que irá Candidatar-se à Presidência após a Corte Levantar a Proibição",
-          "resumo": "Um tribunal de apelação confirmou a condenação por desvio de fundos de Marine Le Pen, mas encurtou uma proibição de sua elegibilidade para cargos eletivos. Isso significa que a líder de extrema-direita francesa pode concorrer à presidência em 2027.",
+          "id": "new_york_times-2026-07-07T20:49:09-05",
+          "titulo": "Le Pen Diz que irá Candidatar-se à Presidência Após a Corte Levantar a Proibição",
+          "resumo": "Um tribunal de apelação confirmou a condenação por desfalque de Marine Le Pen, mas encurtou uma proibição sobre sua elegibilidade para cargos eletivos. Isso significa que a líder de extrema-direita francesa pode concorrer à presidência em 2027.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/07/world/europe/marine-le-pen-verdict-election-ban-appeal.html",
           "publicado_em": "2026-07-07T20:49:09-03:00"
         },
         {
-          "id": "new_york_times-2026-07-07T18:29:22-15",
-          "titulo": "A Copa do Mundo Foi um Descanso da Política dos EUA. Então Trump se Intrometeu.",
+          "id": "new_york_times-2026-07-07T21:41:33-06",
+          "titulo": "Batalha de Marine Le Pen nos Tribunais é o Último Conflito entre Populistas e Vigilantes",
+          "resumo": "A batalha da líder de extrema-direita com a justiça francesa evoca confrontos em todo o mundo populista, incluindo aqueles com o presidente Trump e Nigel Farage.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/07/world/europe/le-pen-populists-vs-courts.html",
+          "publicado_em": "2026-07-07T21:41:33-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-07T18:29:22-07",
+          "titulo": "A Copa do Mundo Foi um Descanso da Política dos EUA. Então, Trump Interviu.",
           "resumo": "A ligação do presidente para o chefe da FIFA destaca que ele ainda não encontrou uma área da vida americana, ou mesmo global, onde ele não esteja disposto a se impor.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/07/us/politics/trump-world-cup-fifa.html",
           "publicado_em": "2026-07-07T18:29:22-03:00"
         },
         {
-          "id": "new_york_times-2026-07-08T00:03:06-16",
-          "titulo": "Oficial do ICE Mata um Mexicano em Houston",
-          "resumo": "A agência disse que o homem era um “alienígena ilegal” que havia tentado atropelar o agente, embora nenhuma evidência tenha sido imediatamente apresentada.",
+          "id": "new_york_times-2026-07-08T00:39:37-08",
+          "titulo": "Oficial do ICE Mata um Homem Mexicano em Houston",
+          "resumo": "A agência disse que o homem era um 'alienígena ilegal' que havia tentado atropelar o agente, embora nenhuma evidência tenha sido apresentada imediatamente.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/07/us/immigration-ice-shooting-houston.html",
-          "publicado_em": "2026-07-08T00:03:06-03:00"
+          "publicado_em": "2026-07-08T00:39:37-03:00"
         },
         {
-          "id": "new_york_times-2026-07-07T23:59:10-17",
-          "titulo": "Juiz Ordena que o D.H.S. Restaure o Acesso de 4 Estados aos Dados de Cidadania",
+          "id": "new_york_times-2026-07-07T23:59:10-09",
+          "titulo": "Juiz Ordena que o DHS Restaure o Acesso de 4 Estados aos Dados de Cidadania",
           "resumo": "A decisão, baseada em um acordo que a administração Trump assinou com a Flórida no ano passado, contradiz uma ordem anterior de um juiz em Washington que exigia a suspensão do acesso.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/07/us/politics/florida-judge-dhs-citizenship-data.html",
           "publicado_em": "2026-07-07T23:59:10-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-07T18:08:40-18",
-          "titulo": "A Faculdade de Direito de Yale Luta para Parar um Acordo com Trump",
-          "resumo": "A universidade tem estado em negociações para resolver investigações sobre suas práticas de admissão. O decano da faculdade de direito e alguns professores argumentaram que um acordo poderia comprometer sua independência.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/07/us/yale-law-school-dean-trump-deal.html",
-          "publicado_em": "2026-07-07T18:08:40-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-07T21:42:44-19",
-          "titulo": "Andrea Shaw, Autora de uma Ação Contra Vacinas, é Acusada de Assassinato de seus Gêmeos",
-          "resumo": "Um processo movido pela Children’s Health Defense, uma organização fundada por Robert F. Kennedy Jr., afirma que as vacinas causaram a morte dos gêmeos. Mas um júri em Idaho indiciou-a por... ",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/07/us/idaho-twins-death-shaw-vaccines-murder.html",
-          "publicado_em": "2026-07-07T21:42:44-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-07T15:30:22-21",
-          "titulo": "A Estônia Venceu a Guerra Contra o Fentanil. O que Veio em Seguida Foi Ainda Pior.",
-          "resumo": "Até 2018, as overdoses de fentanil na Estônia haviam despencado. Mas novas drogas poderosas estão surgindo rapidamente, com as autoridades correndo para responder.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/07/world/europe/estonia-fentanyl-new-drugs.html",
-          "publicado_em": "2026-07-07T15:30:22-03:00"
         }
       ]
     },
