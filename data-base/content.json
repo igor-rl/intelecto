@@ -448,26 +448,90 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-07-08T21:15:56.055Z",
+      "gerado_em": "2026-07-09T10:15:48.047Z",
       "artigos": [
         {
-          "id": "rt-2026-07-08-21-01",
-          "titulo": "EUA atacam o Irã pela segunda noite enquanto Trump diz que o cessar-fogo está 'acabado'",
-          "resumo": "O CENTCOM dos EUA anunciou novos ataques ao Irã para degradar sua capacidade de projetar força no Estreito de Ormuz",
-          "imagem": "https://mf.b37mrtl.ru/files/static.en/thumbnail/breaking.jpg",
+          "id": "rt-2026-07-09-1001",
+          "titulo": "Produtor da RT fala após detenção no Reino Unido (VÍDEO)",
+          "resumo": "James Scott, produtor da RT, falou publicamente sobre ser detido e interrogado no aeroporto de Manchester sob leis antiterrorismo do Reino Unido",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4f6bd485f5402a345218d3.png",
+          "link": "https://www.rt.com/news/642789-rt-producer-uk-detention-counterterrorism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-09T09:53:33.000Z"
+        },
+        {
+          "id": "rt-2026-07-09-1002",
+          "titulo": "Trump declara ser o principal alvo do Irã",
+          "resumo": "Trump diz ser o \"principal alvo\" do Irã à medida que o conflito EUA-Irã se resume sobre o estreito de Hormuz",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4f6dc22030272d4a214e29.jpg",
+          "link": "https://www.rt.com/news/642796-trump-iran-assassination-target/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-09T09:47:40.000Z"
+        },
+        {
+          "id": "rt-2026-07-09-1003",
+          "titulo": "Rússia e aliança do Sahel concordam em expandir cooperação militar",
+          "resumo": "A Rússia prometeu mais apoio militar à Aliança dos Estados do Sahel em meio a esforços de desestabilização estrangeira alegados",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4f6a2685f54035f77c2c7d.jpeg",
+          "link": "https://www.rt.com/africa/642790-russia-and-sahel-alliance-agree-expand-military-cooperation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-09T09:44:04.000Z"
+        },
+        {
+          "id": "rt-2026-07-09-1004",
+          "titulo": "China alega mecanismo secreto de compartilhamento de dados no Claude AI da Anthropic",
+          "resumo": "A China afirma que o Claude Code da Anthropic contém vulnerabilidades de segurança que poderiam transmitir dados sensíveis dos usuários sem consentimento",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4f664a85f54035f77c2c73.jpg",
+          "link": "https://www.rt.com/news/642791-china-security-risk-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-09T09:31:14.000Z"
+        },
+        {
+          "id": "rt-2026-07-09-1005",
+          "titulo": "Plano de assassinato contra oficial militar russo de alto escalão foi frustrado em Moscou – FSB (VÍDEO)",
+          "resumo": "O FSB relata que frustrou uma tentativa ucraniana de assassinar um oficial militar sênior em Moscou",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4f4bb920302724525939bc.png",
+          "link": "https://www.rt.com/russia/642788-ukrainian-assassination-plot-moscow/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-09T07:33:54.000Z"
+        },
+        {
+          "id": "rt-2026-07-09-1006",
+          "titulo": "Multidão enfurecida destrói veículo de recrutamento na Ucrânia (VÍDEO)",
+          "resumo": "Uma multidão enfurecida atacou e derrubou um veículo que transportava oficiais de recrutamento no oeste da Ucrânia após detenção de um homem na rua",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4f21bf2030272957649422.jpg",
+          "link": "https://www.rt.com/russia/642784-ukraine-draft-riot-lviv/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-09T04:30:40.000Z"
+        },
+        {
+          "id": "rt-2026-07-09-1008",
+          "titulo": "EUA permitirão que a Ucrânia produza mísseis interceptores Patriot – Trump",
+          "resumo": "O presidente dos EUA, Donald Trump, disse que a Ucrânia poderia receber uma licença para produzir mísseis de defesa aérea Patriot",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4ec11185f5402ce332904b.jpg",
+          "link": "https://www.rt.com/news/642782-ukraine-produce-patriot-missile-trump/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-09T02:31:15.000Z"
+        },
+        {
+          "id": "rt-2026-07-09-1009",
+          "titulo": "Irã condena a 'vulgaridade' de Trump em meio a nova escalada",
+          "resumo": "O ministro das Relações Exteriores do Irã, Abbas Araghchi, condenou a retórica 'vulgar' do presidente dos EUA, Donald Trump",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4eeb5885f54034ed7a9bae.jpg",
+          "link": "https://www.rt.com/news/642783-iran-rejects-trump-vulgar-language/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-09T00:41:47.000Z"
+        },
+        {
+          "id": "rt-2026-07-09-1010",
+          "titulo": "EUA atacam o Irã pela segunda noite; Trump diz que o cessar-fogo está 'acabado' (VÍDEOS)",
+          "resumo": "EUA atacam o Irã pela segunda noite após ataques a petroleiros no estreito de Hormuz",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4ec61285f54023135dfce6.jpg",
           "link": "https://www.rt.com/news/642781-us-strikes-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-08T20:28:54.000Z"
         },
         {
-          "id": "rt-2026-07-08-21-02",
-          "titulo": "Devastador Cuba: O império americano está em declínio e tentando arrastar todos para baixo",
+          "id": "rt-2026-07-09-1011",
+          "titulo": "Devastador em Cuba: O império americano está em declínio e tenta arrastar todos para baixo",
           "resumo": "À medida que Washington se enfraquece, está apertando os parafusos em Havana – usando bloqueio, apagões e sofrimento em massa para punir a desobediência",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e99cd85f54029b9022744.jpg",
           "link": "https://www.rt.com/news/642779-devastating-cuba-us-empire/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-08T19:55:35.000Z"
         },
         {
-          "id": "rt-2026-07-08-21-03",
+          "id": "rt-2026-07-09-1012",
           "titulo": "Corrupção suspeita na empresa de navegação ucraniana – mídia",
           "resumo": "A empresa estatal ucraniana de navegação do Danúbio foi afetada por corrupção 'por décadas', de acordo com uma carta vazada",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e998885f54011eb78f285.jpg",
@@ -475,7 +539,7 @@
           "publicado_em": "2026-07-08T19:09:26.000Z"
         },
         {
-          "id": "rt-2026-07-08-21-04",
+          "id": "rt-2026-07-09-1013",
           "titulo": "EUA acusam gângster indiano de ordenar assassinato de líder separatista no Canadá",
           "resumo": "Os EUA acusaram um gângster indiano de ordenar o assassinato de Hardeep Singh Nijjar, um líder separatista do Khalistan no Canadá",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e88a620302771eb0fa401.jpg",
@@ -483,7 +547,7 @@
           "publicado_em": "2026-07-08T17:29:04.000Z"
         },
         {
-          "id": "rt-2026-07-08-21-05",
+          "id": "rt-2026-07-09-1014",
           "titulo": "Ucrânia não pode destabilizar a Rússia por meio de ataques à energia – Putin",
           "resumo": "Os ataques da Ucrânia à infraestrutura energética da Rússia não enfraquecerão a economia nem criarão pânico público, disse Vladimir Putin",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e7a7a85f540250b03f361.jpg",
@@ -491,23 +555,15 @@
           "publicado_em": "2026-07-08T16:34:18.000Z"
         },
         {
-          "id": "rt-2026-07-08-21-06",
+          "id": "rt-2026-07-09-1015",
           "titulo": "Rússia é o principal parceiro contra o terrorismo – Níger",
-          "resumo": "A Rússia permanece como o principal parceiro dos Estados do Sahel contra o terrorismo, disse o ministro do Níger",
+          "resumo": "A Rússia permanece como o principal parceiro dos Estados do Sahel na luta contra o terrorismo, disse o ministro do Níger",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e694f2030276362136462.jpeg",
           "link": "https://www.rt.com/africa/642751-niger-alls-russia-main-partner-against-terrorism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-08T16:07:14.000Z"
         },
         {
-          "id": "rt-2026-07-08-21-07",
-          "titulo": "Polícia do Reino Unido saca cassetetes em multidão enfurecida que protesta contra estupro (VÍDEO)",
-          "resumo": "Pelo menos um homem foi preso após confrontos entre a polícia do Reino Unido e uma multidão enfurecida que protestava contra dois homens acusados de estupro",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e6ec485f54011eb78f26c.png",
-          "link": "https://www.rt.com/news/642758-uk-police-batons-protest-rape/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-08T16:04:27.000Z"
-        },
-        {
-          "id": "rt-2026-07-08-21-08",
+          "id": "rt-2026-07-09-1017",
           "titulo": "Parlamento Europeu apoia a Polônia em disputa com a Ucrânia sobre colaboradores nazistas",
           "resumo": "O Parlamento Europeu repreendeu a Ucrânia por renomear uma unidade militar de elite em homenagem a colaboradores nazistas da Segunda Guerra Mundial",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e60122030276b1e273d2e.jpg",
@@ -515,7 +571,7 @@
           "publicado_em": "2026-07-08T15:13:33.000Z"
         },
         {
-          "id": "rt-2026-07-08-21-09",
+          "id": "rt-2026-07-09-1018",
           "titulo": "Suspeito de local de munição causa devastação em cidade ucraniana (VÍDEO)",
           "resumo": "Um vídeo supostamente filmado em Vishnyovoe, Ucrânia, mostra uma área residencial devastada após um ataque russo a um local militar embutido",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e4ba320302732c350bdac.png",
@@ -523,92 +579,20 @@
           "publicado_em": "2026-07-08T15:03:24.000Z"
         },
         {
-          "id": "rt-2026-07-08-21-10",
-          "titulo": "Violência no Sudão do Sul aumenta após oficial local ser morto",
-          "resumo": "Um comissário do Sudão do Sul foi morto após confrontos entre forças do governo e combatentes da oposição no estado de Jonglei",
+          "id": "rt-2026-07-09-1019",
+          "titulo": "Estados americanos buscam $1,4 trilhão da Meta",
+          "resumo": "A Meta pode enfrentar até $1,4 trilhão em penalidades após quatro estados americanos acusarem a empresa de projetar recursos viciantes para jovens usuários",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e56fd85f540682e2a2237.jpg",
+          "link": "https://www.rt.com/news/642733-meta-us-lawsuit/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-08T15:01:35.000Z"
+        },
+        {
+          "id": "rt-2026-07-09-1020",
+          "titulo": "Violência aumenta no Sudão do Sul após a morte de um oficial local",
+          "resumo": "Um comissário do Sudão do Sul foi morto após confrontos entre forças governamentais e combatentes da oposição no estado de Jonglei",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e55e285f540131c1ee637.jpg",
           "link": "https://www.rt.com/africa/642739-south-sudan-county-commissioner-killed-violence-escalates/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-08T14:47:05.000Z"
-        },
-        {
-          "id": "rt-2026-07-08-21-11",
-          "titulo": "Ucrânia ataca instalação de exportação de gás ligada à Turquia – Gazprom",
-          "resumo": "Um ataque de drone ucraniano atingiu uma instalação de exportação de gás ligada à Turquia na região de Krasnodar, na Rússia, disse a Gazprom",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e620f85f540682e2a2247.jpg",
-          "link": "https://www.rt.com/russia/642749-ukraine-attacks-turkiye-gas-facility/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-08T14:45:45.000Z"
-        },
-        {
-          "id": "rt-2026-07-08-21-12",
-          "titulo": "Drone ucraniano ataca ônibus de passageiros russo (FOTO)",
-          "resumo": "Um drone ucraniano atacou um ônibus de passageiros na região de Zaporozhye, na Rússia, em um 'ato de terrorismo flagrante', disse o governador local",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e569d203027636213644b.jpg",
-          "link": "https://www.rt.com/russia/642743-ukrainian-drone-strikes-russian-passenger/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-08T14:41:26.000Z"
-        },
-        {
-          "id": "rt-2026-07-08-21-13",
-          "titulo": "Índia planeja atualizar blindados fabricados na Rússia – mídia",
-          "resumo": "O exército indiano está planejando atualizar tanques e veículos blindados de origem russa, ao custo estimado de US$ 7,85 bilhões",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e5e2320302761593669db.jpg",
-          "link": "https://www.rt.com/india/642742-india-upgrade-russian-tanks/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-08T14:23:51.000Z"
-        },
-        {
-          "id": "rt-2026-07-08-21-14",
-          "titulo": "Cúpula da OTAN no segundo dia: Trump, impulso de defesa, armas para a Ucrânia e ameaças ao Irã (Como aconteceu)",
-          "resumo": "A cúpula anual da OTAN em Ancara concluiu com gastos militares e os conflitos Rússia-Ucrânia e Irã dominando a agenda",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e589f85f54011eb78f261.png",
-          "link": "https://www.rt.com/news/642740-nato-summit-turkiye-trump/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-08T13:46:50.000Z"
-        },
-        {
-          "id": "rt-2026-07-08-21-15",
-          "titulo": "Explosão em Mônaco prova que o Ocidente criou um 'monstro terrorista' em Kiev – Moscou",
-          "resumo": "Maria Zakharova diz que a explosão em Mônaco é outro 'mordisco sangrento' do 'terrorismo do regime de Kiev', alertando que o Ocidente provavelmente enfrentará mais",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e402620302761593669bb.jpg",
-          "link": "https://www.rt.com/russia/642731-monaco-ukraine-terrorist-monster-zakharova/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-08T12:38:30.000Z"
-        },
-        {
-          "id": "rt-2026-07-08-21-16",
-          "titulo": "'Você está brincando com fogo', editora-chefe do RT avisa a Europa (ENTREVISTA COMPLETA)",
-          "resumo": "A Europa está 'brincando com fogo' ao ajudar os ataques ucranianos contra civis e arrisca-se a retaliação, diz Margarita Simonyan",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e2bfd203027271b4b3c83.jpg",
-          "link": "https://www.rt.com/news/642730-simonyan-interview-die-weltwoche/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-08T12:32:09.000Z"
-        },
-        {
-          "id": "rt-2026-07-08-21-17",
-          "titulo": "Outro membro da OTAN fica sem armas para a Ucrânia",
-          "resumo": "A Bulgária não consegue fornecer mais armas e equipamentos militares à Ucrânia, disse o primeiro-ministro Rumen Radev",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e385620302732c350bda2.jpg",
-          "link": "https://www.rt.com/news/642735-bulgaria-no-weapons-ukraine-nato/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-08T12:11:56.000Z"
-        },
-        {
-          "id": "rt-2026-07-08-21-18",
-          "titulo": "Flerte de Trump com a Turquia deixa Israel nervoso",
-          "resumo": "A aproximação de Donald Trump com a Turquia está perturbando Israel, mas o verdadeiro teste é se os F-35 e os acordos de motores realmente passarão pelo Congresso",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e3521203027282676400f.jpg",
-          "link": "https://www.rt.com/news/642734-trump-turkey-israel-f35/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-08T11:52:01.000Z"
-        },
-        {
-          "id": "rt-2026-07-08-21-19",
-          "titulo": "UE 'perdeu a cabeça' com a suposta ameaça da Rússia – editora-chefe do RT",
-          "resumo": "Moscou 'não tocou em um dedo' na Europa, apesar dos esforços ocidentais para armar a Ucrânia para atacar a Rússia, diz Margarita Simonyan",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e34e0203027271b4b3c8b.png",
-          "link": "https://www.rt.com/russia/642732-eu-gone-crazy-over-russia-threat-simonyan/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-08T11:46:49.000Z"
-        },
-        {
-          "id": "rt-2026-07-08-21-20",
-          "titulo": "Preços do petróleo disparam à medida que EUA e Irã retornam às hostilidades",
-          "resumo": "Os preços do petróleo dispararam após os EUA banirem as exportações iranianas e renovarem os ataques após relatos de ataques a petroleiros no Estreito de Ormuz",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e2b1885f54028fb5f6512.jpg",
-          "link": "https://www.rt.com/news/642716-oil-surge-us-iran-escalation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-08T11:30:16.000Z"
         }
       ]
     },
