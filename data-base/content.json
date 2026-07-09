@@ -5,10 +5,10 @@
   "itens_urgentes": {},
   "destaques": [],
   "capa": {
-    "categoria_nome": "Conflitos Globais",
-    "titulo": "Cessar-fogo EUA-Irã em Colapso",
-    "subtitulo": "Retomada de ataques no Oriente Médio e implicações globais",
-    "resumo": "O cessar-fogo entre os EUA e o Irã está em colapso, com ambos os lados retomando ataques no Oriente Médio. Esse desenvolvimento tem implicações significativas para a estabilidade global e os mercados econômicos. Enquanto o Irã relata vítimas e danos à infraestrutura após ataques dos EUA, Trump declara ser o principal alvo do Irã. A Rússia, por sua vez, anuncia planos para iniciar um centro logístico comercial no porto sírio em meados de julho, intensificando sua presença na região. A Ucrânia também está no centro dos conflitos, com drones ucranianos atacando instalações de óleo e petroleiros russos, e a Rússia proibindo exportações de diesel para garantir o fornecimento doméstico. Além disso, o Sudão enfrenta uma crise humanitária, com a cidade de El Obeid se tornando um campo de batalha importante na guerra entre as forças armadas do Sudão e seus inimigos paramilitares. A comunidade internacional está vigilante, com a ONU advertindo sobre a crise de responsabilidade no Sudão e a necessidade de uma mudança estrutural para abordar a situação. Enquanto isso, a Austrália e a Índia fortalecem suas relações, com o primeiro-ministro indiano, Narendra Modi, elogiando a parceria durante sua viagem a Melbourne.",
+    "categoria_nome": "O que marcou o dia?",
+    "titulo": "Tensões Globais: Conflitos e Desafios",
+    "subtitulo": "Ucrânia, Oriente Médio e África: Pontos Quentes do Planeta",
+    "resumo": "O dia foi marcado por uma série de eventos que destacam as tensões globais. A Ucrânia continua a ser um ponto de conflito, com a Rússia atingindo um depósito de munições na região de Kyiv, segundo o presidente ucraniano Volodymyr Zelenskiy. No Oriente Médio, os EUA lançaram novos ataques ao Irã, enquanto as conversações de paz estão em impasse. Na África, o surto de ebola na República Democrática do Congo é considerado o 'mais rápido' já registrado, com 600 mortes. Além disso, a Nigéria enfrenta um sequestro em Oyo, com terroristas exigindo a libertação de comandantes. A Austrália recebeu o primeiro-ministro da Índia, Narendra Modi, com uma recepção de rockstar. Esses eventos mostram a complexidade e a gravidade dos desafios globais atuais.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-07-09T08:00:00-03:00",
     "link": null,
@@ -905,55 +905,52 @@
   },
   "temas_principais": [
     {
-      "tema": "Conflito EUA-Irã",
-      "descricao": "Colapso do cessar-fogo e retomada de ataques no Oriente Médio",
+      "tema": "Conflito na Ucrânia",
+      "descricao": "A Rússia atingiu um depósito de munições na região de Kyiv, segundo o presidente ucraniano Volodymyr Zelenskiy.",
       "fontes_que_cobriram": [
-        "new_york_times",
-        "euronews",
-        "rt"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "scmp"
-      ],
-      "divergencia_de_enquadramento": "Enquanto a New York Times destaca a declaração de Trump sobre ser o principal alvo do Irã, a RT enfatiza a retomada de ataques dos EUA ao Irã."
-    },
-    {
-      "tema": "Guerra na Ucrânia",
-      "descricao": "Drones ucranianos atacam instalações de óleo e petroleiros russos",
-      "fontes_que_cobriram": [
-        "the_guardian",
         "st",
         "mt"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "aa"
+        "rt"
       ],
-      "divergencia_de_enquadramento": "A The Guardian relata os ataques como uma escalada da guerra, enquanto a RT destaca a proibição de exportações de diesel pela Rússia."
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a agressão russa, enquanto a Rússia e seus aliados tendem a minimizar ou justificar as ações."
     },
     {
-      "tema": "Crise no Sudão",
-      "descricao": "El Obeid se torna um campo de batalha importante na guerra entre as forças armadas do Sudão e seus inimigos paramilitares",
+      "tema": "Surto de Ebola na República Democrática do Congo",
+      "descricao": "O surto de ebola é considerado o 'mais rápido' já registrado, com 600 mortes.",
       "fontes_que_cobriram": [
         "aa",
+        "scmp"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "euronews"
+      ],
+      "divergencia_de_enquadramento": "As fontes africanas e asiáticas destacam a gravidade do surto, enquanto as fontes ocidentais tendem a dar menos atenção."
+    },
+    {
+      "tema": "Tensões no Oriente Médio",
+      "descricao": "Os EUA lançaram novos ataques ao Irã, enquanto as conversações de paz estão em impasse.",
+      "fontes_que_cobriram": [
+        "smh",
         "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "new_york_times",
-        "scmp"
+        "rt"
       ],
-      "divergencia_de_enquadramento": "A AllAfrica destaca a crise humanitária no Sudão, enquanto a The Straits Times relata a libertação da cidade de Al-Kormuk pelas Forças Armadas Sudanesas."
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a ameaça iraniana, enquanto a Rússia e seus aliados tendem a criticar as ações dos EUA."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Relações Austrália-Índia",
-      "por_que_importa": "Fortalecimento das relações bilaterais e implicações para a região Ásia-Pacífico",
-      "cobertura": "Apenas o The Sydney Morning Herald cobriu a viagem de Narendra Modi a Melbourne."
+      "tema": "Sequestro em Oyo, Nigéria",
+      "por_que_importa": "O sequestro destaca a instabilidade e a violência no país.",
+      "cobertura": "Apenas a AllAfrica deu cobertura significativa ao evento."
     },
     {
-      "tema": "Deslizamento de terra na Índia",
-      "por_que_importa": "Desastre natural com potenciais implicações humanitárias",
-      "cobertura": "Apenas a Euronews cobriu o deslizamento de terra na Índia."
+      "tema": "Visita de Narendra Modi à Austrália",
+      "por_que_importa": "A visita reflete a importância das relações entre a Índia e a Austrália.",
+      "cobertura": "Apenas o Sydney Morning Herald deu cobertura detalhada à visita."
     }
   ]
 }
