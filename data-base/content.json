@@ -6,11 +6,11 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "Conflitos Globais",
-    "titulo": "EUA e Irã: Nova Rodada de Ataques",
-    "subtitulo": "Cessar-fogo colapsa, Trump ordena novos ataques ao Irã",
-    "resumo": "O cenário geopolítico global foi marcado por uma escalada nos conflitos entre os EUA e o Irã, com o colapso do cessar-fogo e a ordenação de novos ataques pelo presidente Trump. Enquanto isso, a Rússia e a Ucrânia continuam em conflito, com a Ucrânia atingindo refinarias de petróleo na Rússia. A OTAN realizou sua cúpula, com Trump surpreendendo aliados com acordos de armas e elogios. A situação no Sudão também é crítica, com a cidade de El Obeid se tornando um campo de batalha crucial na guerra entre as forças armadas do Sudão e seus inimigos paramilitares. Além disso, a Libéria apreendeu mais de 200 kg de cocaína, e a China alertou sobre riscos de 'backdoor' no Claude Code. O mercado de petróleo foi abalado pelos ataques ao Irã, com preços disparando. A Austrália também foi afetada, com a Telstra investigando uma segunda falha na rede.",
+    "titulo": "Cessar-fogo EUA-Irã em Colapso",
+    "subtitulo": "Retomada de ataques no Oriente Médio e implicações globais",
+    "resumo": "O cessar-fogo entre os EUA e o Irã está em colapso, com ambos os lados retomando ataques no Oriente Médio. Esse desenvolvimento tem implicações significativas para a estabilidade global e os mercados econômicos. Enquanto o Irã relata vítimas e danos à infraestrutura após ataques dos EUA, Trump declara ser o principal alvo do Irã. A Rússia, por sua vez, anuncia planos para iniciar um centro logístico comercial no porto sírio em meados de julho, intensificando sua presença na região. A Ucrânia também está no centro dos conflitos, com drones ucranianos atacando instalações de óleo e petroleiros russos, e a Rússia proibindo exportações de diesel para garantir o fornecimento doméstico. Além disso, o Sudão enfrenta uma crise humanitária, com a cidade de El Obeid se tornando um campo de batalha importante na guerra entre as forças armadas do Sudão e seus inimigos paramilitares. A comunidade internacional está vigilante, com a ONU advertindo sobre a crise de responsabilidade no Sudão e a necessidade de uma mudança estrutural para abordar a situação. Enquanto isso, a Austrália e a Índia fortalecem suas relações, com o primeiro-ministro indiano, Narendra Modi, elogiando a parceria durante sua viagem a Melbourne.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-07-08T08:00:00-03:00",
+    "publicado_em": "2026-07-09T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -948,52 +948,54 @@
   "temas_principais": [
     {
       "tema": "Conflito EUA-Irã",
-      "descricao": "Nova rodada de ataques após o colapso do cessar-fogo",
+      "descricao": "Colapso do cessar-fogo e retomada de ataques no Oriente Médio",
       "fontes_que_cobriram": [
         "new_york_times",
         "euronews",
-        "smh"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
         "rt"
       ],
-      "divergencia_de_enquadramento": "Enquanto a mídia ocidental destaca a agressão iraniana, a RT enfatiza a resposta dos EUA como uma escalada desnecessária."
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "scmp"
+      ],
+      "divergencia_de_enquadramento": "Enquanto a New York Times destaca a declaração de Trump sobre ser o principal alvo do Irã, a RT enfatiza a retomada de ataques dos EUA ao Irã."
     },
     {
-      "tema": "Conflito Rússia-Ucrânia",
-      "descricao": "Ucrânia atinge refinarias de petróleo na Rússia",
+      "tema": "Guerra na Ucrânia",
+      "descricao": "Drones ucranianos atacam instalações de óleo e petroleiros russos",
       "fontes_que_cobriram": [
-        "mt",
+        "the_guardian",
+        "st",
+        "mt"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "aa"
+      ],
+      "divergencia_de_enquadramento": "A The Guardian relata os ataques como uma escalada da guerra, enquanto a RT destaca a proibição de exportações de diesel pela Rússia."
+    },
+    {
+      "tema": "Crise no Sudão",
+      "descricao": "El Obeid se torna um campo de batalha importante na guerra entre as forças armadas do Sudão e seus inimigos paramilitares",
+      "fontes_que_cobriram": [
+        "aa",
         "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian"
+        "new_york_times",
+        "scmp"
       ],
-      "divergencia_de_enquadramento": "A mídia russa destaca a agressão ucraniana, enquanto a mídia ocidental tende a ignorar ou minimizar o tema."
-    },
-    {
-      "tema": "Cúpula da OTAN",
-      "descricao": "Trump surpreende aliados com acordos de armas e elogios",
-      "fontes_que_cobriram": [
-        "scmp",
-        "st"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "rt"
-      ],
-      "divergencia_de_enquadramento": "A mídia ocidental destaca a surpresa dos aliados, enquanto a RT enfatiza a postura assertiva de Trump."
+      "divergencia_de_enquadramento": "A AllAfrica destaca a crise humanitária no Sudão, enquanto a The Straits Times relata a libertação da cidade de Al-Kormuk pelas Forças Armadas Sudanesas."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Sudão",
-      "por_que_importa": "A cidade de El Obeid se tornou um campo de batalha crucial na guerra entre as forças armadas do Sudão e seus inimigos paramilitares.",
-      "cobertura": "Apenas a AllAfrica e o The Guardian cobriram o tema."
+      "tema": "Relações Austrália-Índia",
+      "por_que_importa": "Fortalecimento das relações bilaterais e implicações para a região Ásia-Pacífico",
+      "cobertura": "Apenas o The Sydney Morning Herald cobriu a viagem de Narendra Modi a Melbourne."
     },
     {
-      "tema": "Libéria",
-      "por_que_importa": "A apreensão de mais de 200 kg de cocaína é um tema importante de segurança regional.",
-      "cobertura": "Apenas o The Guardian cobriu o tema."
+      "tema": "Deslizamento de terra na Índia",
+      "por_que_importa": "Desastre natural com potenciais implicações humanitárias",
+      "cobertura": "Apenas a Euronews cobriu o deslizamento de terra na Índia."
     }
   ]
 }
