@@ -612,127 +612,135 @@
     "mt": {
       "slug": "mt",
       "nome": "The Moscow Times",
-      "gerado_em": "2026-07-09T10:46:09.259Z",
+      "gerado_em": "2026-07-09T21:46:05.908Z",
       "artigos": [
         {
-          "id": "mt-2026-07-09-1001",
-          "titulo": "Corte do Cazaquistão Derruba Prêmio de Arbitragem de $1,4 Bilhão da Naftogaz Contra a Gazprom",
-          "resumo": "O Centro Financeiro Internacional de Astana havia decidido anteriormente que a empresa estatal de óleo e gás da Ucrânia, Naftogaz, poderia coletar um prêmio de arbitragem internacional de $1,4 bilhão da Gazprom da Rússia...",
+          "id": "mt-2026-07-09-2101",
+          "titulo": "Regiões Chamando: O Hub de Produção de Combustível da Rússia Luta para Superar a Crise de Abastecimento",
+          "resumo": "Mesmo Bashkortostan, o principal produtor russo de diesel e gasolina, sente o impacto da crise de combustível deste verão.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/09/regions-calling-russias-fuel-producing-hub-struggles-to-shake-off-supply-crisis-a93210",
+          "publicado_em": "2026-07-09T16:33:00.000-03:00"
+        },
+        {
+          "id": "mt-2026-07-09-2102",
+          "titulo": "Tribunal Polonês Condena Ativista Russo e Esposa por Espionagem para o FSB",
+          "resumo": "Igor Rogov, ex-funcionário da extinta organização sem fins lucrativos Open Russia, foi condenado a sete anos de prisão por passar informações sobre grupos e ativistas da oposição russa baseados na Polônia para o...",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/09/polish-court-jails-russian-activist-and-wife-for-spying-for-fsb-a93213",
+          "publicado_em": "2026-07-09T15:02:09.000-03:00"
+        },
+        {
+          "id": "mt-2026-07-09-2103",
+          "titulo": "Juiz de Moscou Condena Ativista Veterano Lev Ponomaryov a 5,5 Anos de Prisão em Ausência",
+          "resumo": "O juiz condenou Ponomaryov por evitar suas obrigações de \"agente estrangeiro\" e por participar de uma organização \"indesejada\".",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/09/moscow-judge-sentences-veteran-activist-lev-ponomaryov-to-55-years-in-prison-in-absentia-a93212",
+          "publicado_em": "2026-07-09T13:59:02.000-03:00"
+        },
+        {
+          "id": "mt-2026-07-09-2104",
+          "titulo": "FSB Afirma Ter Frustado Planos de Assassinato Ucranianos Contra Oficiais Militares",
+          "resumo": "O FSB acusou a inteligência ucraniana de recrutar uma jovem mulher de Moscou e um ex-presidiário russo que vive na Ucrânia para realizar os ataques.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/09/fsb-claims-it-foiled-ukrainian-assassination-plots-against-military-officials-a93209",
+          "publicado_em": "2026-07-09T13:11:41.000-03:00"
+        },
+        {
+          "id": "mt-2026-07-09-2105",
+          "titulo": "Rússia e Estados do Sahel Prometem Fortalecer Laços Militares Amidst Ataques de Insurgentes",
+          "resumo": "A Rússia disse que continuará a ajudar a fortalecer as forças armadas de Mali, Níger e Burkina Faso.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/09/russia-and-sahel-states-pledge-stronger-military-ties-amid-insurgent-attacks-a93211",
+          "publicado_em": "2026-07-09T12:16:13.000-03:00"
+        },
+        {
+          "id": "mt-2026-07-09-2106",
+          "titulo": "Itália Expulsa 2 Funcionários da Embaixada Russa por Espionagem",
+          "resumo": "O Ministério das Relações Exteriores da Rússia disse que responderia à expulsão dos dois funcionários pela Itália.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/09/italy-expels-2-russian-embassy-employees-for-spying-a93208",
+          "publicado_em": "2026-07-09T11:59:24.000-03:00"
+        },
+        {
+          "id": "mt-2026-07-09-2107",
+          "titulo": "Tribunal do Cazaquistão Derruba Prêmio de Arbitragem de US$ 1,4 Bilhão Contra a Gazprom",
+          "resumo": "O Centro Financeiro Internacional de Astana havia decidido anteriormente que a empresa estatal de óleo e gás da Ucrânia, Naftogaz, poderia cobrar um prêmio de arbitragem internacional de US$ 1,4 bilhão da Gazprom russa.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/09/kazakhstan-court-overturns-14bln-naftogaz-arbitration-award-against-gazprom-a93207",
-          "publicado_em": "2026-07-09T10:22:40.000Z"
+          "publicado_em": "2026-07-09T10:22:40.000-03:00"
         },
         {
-          "id": "mt-2026-07-09-1002",
+          "id": "mt-2026-07-09-2108",
           "titulo": "Drones Ucranianos Atacam Instalações de Óleo e Petroleiros Russos",
-          "resumo": "Pelo menos uma pessoa foi morta na Crimeia anexada durante os ataques aéreos noturnos, que visaram sites industriais em todo o país.",
+          "resumo": "Pelo menos uma pessoa morreu na Crimeia anexada durante os ataques aéreos noturnos, que atingiram sites industriais em todo o país.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/09/ukrainian-drones-strike-russian-oil-sites-and-tankers-a93206",
-          "publicado_em": "2026-07-09T09:25:32.000Z"
+          "publicado_em": "2026-07-09T09:25:32.000-03:00"
         },
         {
-          "id": "mt-2026-07-09-1004",
-          "titulo": "Trump Rejeita Novas Sanções à Rússia na Cúpula da OTAN Cheia de Grandes Gastos e Emoções",
+          "id": "mt-2026-07-09-2110",
+          "titulo": "Trump Rejeita Novas Sanções Contra a Rússia na Cúpula da OTAN Cheia de Grandes Gastos e Emoções",
           "resumo": "Apesar da postura agressiva de Trump no início da cúpula, ele mais tarde adotou uma nota mais promissora com Zelensky.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/09/trump-rejects-new-russia-sanctions-at-nato-summit-filled-with-big-spending-and-big-emotions-a93204",
-          "publicado_em": "2026-07-08T21:51:00.000Z"
+          "publicado_em": "2026-07-08T21:51:00.000-03:00"
         },
         {
-          "id": "mt-2026-07-09-1005",
+          "id": "mt-2026-07-09-2111",
           "titulo": "Belgorod Pede que Oficiais Ajam à Medida que Ataques Ucranianos Intensificam Falhas de Infraestrutura",
           "resumo": "As autoridades regionais estão sendo acusadas de falhar em restaurar água e eletricidade rapidamente o suficiente após os ataques repetidos.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/08/belgorod-pleads-for-officials-to-act-as-ukrainian-strikes-intensify-infrastructure-failures-a93203",
-          "publicado_em": "2026-07-08T16:48:57.000Z"
+          "publicado_em": "2026-07-08T16:48:00.000-03:00"
         },
         {
-          "id": "mt-2026-07-09-1006",
-          "titulo": "Rússia Proíbe Exportações de Diesel para Garantir Fornecimento Doméstico Após Ataques de Drones Ucranianos",
+          "id": "mt-2026-07-09-2112",
+          "titulo": "Rússia Proíbe Exportação de Diesel para Garantir Fornecimento Doméstico Após Ataques de Drones Ucranianos",
           "resumo": "O governo disse que a proibição, que inclui produtores de combustível, estará em vigor até 31 de julho.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/08/russia-bans-diesel-exports-to-ensure-domestic-supply-after-targeted-ukrainian-drone-strikes-a93202",
-          "publicado_em": "2026-07-08T15:58:00.000Z"
+          "publicado_em": "2026-07-08T15:58:00.000-03:00"
         },
         {
-          "id": "mt-2026-07-09-1008",
+          "id": "mt-2026-07-09-2114",
           "titulo": "Duma Estadual Aperta Regras para Trabalhadores Migrantes e seus Filhos",
           "resumo": "Trabalhadores estrangeiros devem provar que ganham renda suficiente para se sustentar e sustentar seus dependentes.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/08/state-duma-tightens-rules-for-migrant-workers-and-their-children-a93201",
-          "publicado_em": "2026-07-08T15:15:00.000Z"
+          "publicado_em": "2026-07-08T15:15:00.000-03:00"
         },
         {
-          "id": "mt-2026-07-09-1010",
-          "titulo": "Legisladores Russos Devem Receber Bônus Antecipados de $59 Mil Antes do Voto de Setembro – Relatórios",
-          "resumo": "O presidente da Duma Estadual, Vyacheslav Volodin, supostamente disse que os pagamentos visavam reduzir a diferença salarial com os ministros do governo.",
+          "id": "mt-2026-07-09-2116",
+          "titulo": "Legisladores Russos Devem Receber Bônus Antecipados de US$ 59.000 Antes do Voto de Setembro – Relatórios",
+          "resumo": "O presidente da Duma Estadual, Vyacheslav Volodin, disse que os pagamentos visam reduzir a diferença salarial com os ministros do governo.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/08/russian-lawmakers-to-receive-early-59k-bonuses-ahead-of-september-vote-reports-a93200",
-          "publicado_em": "2026-07-08T13:44:19.000Z"
+          "publicado_em": "2026-07-08T13:44:19.000-03:00"
         },
         {
-          "id": "mt-2026-07-09-1011",
+          "id": "mt-2026-07-09-2117",
           "titulo": "Kremlin Saúda Decisão de Levantar Proibição do Comitê Olímpico Russo",
-          "resumo": "O porta-voz Dmitry Peskov chamou a decisão de \"passo importante\" para o retorno dos atletas russos ao \"seu lugar legítimo nas competições internacionais\".",
+          "resumo": "O porta-voz Dmitry Peskov chamou a decisão de \"passo importante\" para devolver os atletas russos ao \"seu lugar legítimo nas competições internacionais\".",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/08/kremlin-welcomes-decision-to-lift-ban-on-russian-olympic-committee-a93195",
-          "publicado_em": "2026-07-08T12:07:40.000Z"
+          "publicado_em": "2026-07-08T12:07:40.000-03:00"
         },
         {
-          "id": "mt-2026-07-09-1012",
-          "titulo": "Região de Kemerovo, na Sibéria, Restringe Movimento de Caminhões devido a Preocupações com Ataques de Drones",
-          "resumo": "As autoridades, citando a ameaça de \"possíveis ataques de drones\", disseram que apenas caminhões com documentação de empresas locais agora são permitidos para entrar na capital regional de Kemerovo.",
+          "id": "mt-2026-07-09-2118",
+          "titulo": "Região de Kemerovo na Sibéria Restringe Movimento de Caminhões devido a Preocupações com Ataques de Drones",
+          "resumo": "As autoridades, citando a ameaça de \"possíveis ataques de drones\", disseram que apenas caminhões com documentação de empresas locais estão agora autorizados a entrar na capital regional de Kemerovo.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/08/siberias-kemerovo-region-restricts-truck-movement-amid-drone-attack-concerns-a93192",
-          "publicado_em": "2026-07-08T09:01:00.000Z"
+          "publicado_em": "2026-07-08T09:01:00.000-03:00"
         },
         {
-          "id": "mt-2026-07-09-1013",
-          "titulo": "Pelo Menos 2 Mortos na Rússia após a Ucrânia Atacar Múltiplas Refinarias de Óleo",
-          "resumo": "O presidente ucraniano Volodymyr Zelensky disse que seu exército atacou refinarias de óleo nas regiões de Saratov e nas repúblicas de Tatarstão e Bashkortostão.",
+          "id": "mt-2026-07-09-2119",
+          "titulo": "Pelo Menos 2 Mortos na Rússia à Medida que a Ucrânia Ataca Múltiplas Refinarias de Petróleo",
+          "resumo": "O presidente ucraniano Volodymyr Zelensky disse que seu exército atacou refinarias de petróleo na região de Saratov e nas repúblicas de Tatarstão e Bashkortostão.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/08/at-least-2-killed-in-russia-as-ukraine-hits-multiple-oil-refineries-a93193",
-          "publicado_em": "2026-07-08T08:18:00.000Z"
-        },
-        {
-          "id": "mt-2026-07-09-1014",
-          "titulo": "COI Levanta Provisoriamente a Proibição do Comitê Olímpico Russo, Atletas Podem Voltar às Competições Internacionais",
-          "resumo": "O COI disse que sua diretoria executiva havia levantado a suspensão, mas ainda não decidiu se a Rússia poderia exibir sua bandeira, cores ou ter seu hino tocado nos Jogos.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/07/ioc-provisionally-lifts-ban-on-russian-olympic-committee-athletes-to-return-to-international-competitions-a93189",
-          "publicado_em": "2026-07-07T16:14:10.000Z"
-        },
-        {
-          "id": "mt-2026-07-09-1015",
-          "titulo": "Maior Refinaria de Óleo da Rússia Pára Produção Após Ataque de Drone, Dizem Fontes",
-          "resumo": "A paralisação das operações na usina provavelmente agravará as escassezes de combustível em todo o país.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/07/russias-largest-oil-refinery-halts-production-after-drone-attack-sources-say-a93190",
-          "publicado_em": "2026-07-07T15:31:35.000Z"
-        },
-        {
-          "id": "mt-2026-07-09-1016",
-          "titulo": "Itália Prende 2 Pessoas por Suposta Espionagem para a Rússia",
-          "resumo": "Os promotores disseram que o principal suspeito, que não foi nomeado, era um ex-oficial de 59 anos da polícia militar Carabinieri que anteriormente trabalhava na comunidade de inteligência.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/07/italy-arrests-2-over-alleged-spying-for-russia-a93188",
-          "publicado_em": "2026-07-07T15:02:38.000Z"
-        },
-        {
-          "id": "mt-2026-07-09-1017",
-          "titulo": "Deportação de Russo Anti-Guerra pela Turquia Sinaliza Riscos Cada Vez Maiores para Críticos do Kremlin no Exterior",
-          "resumo": "Advogados de direitos humanos alertam que a deportação está se tornando uma ferramenta cada vez mais comum de repressão transnacional contra ativistas anti-guerra no exterior.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/07/turkeys-deportation-of-anti-war-russian-signals-growing-risks-for-kremlin-critics-abroad-a93170",
-          "publicado_em": "2026-07-07T14:45:00.000Z"
-        },
-        {
-          "id": "mt-2026-07-09-1019",
-          "titulo": "Ucrânia Diz que Atacou 8 Petroleiros da 'Frota Fantasma' Perto da Crimeia",
-          "resumo": "As forças de drones da Ucrânia disseram que atacaram os navios no Mar de Azov.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/07/ukraine-says-it-struck-8-shadow-fleet-tankers-near-crimea-a93185",
-          "publicado_em": "2026-07-07T13:39:37.000Z"
+          "publicado_em": "2026-07-08T08:18:00.000-03:00"
         }
       ]
     },
