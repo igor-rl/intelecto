@@ -366,151 +366,167 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-07-09T10:15:48.047Z",
+      "gerado_em": "2026-07-09T21:15:43.537Z",
       "artigos": [
         {
-          "id": "rt-2026-07-09-1001",
-          "titulo": "Produtor da RT fala após detenção no Reino Unido (VÍDEO)",
-          "resumo": "James Scott, produtor da RT, falou publicamente sobre ser detido e interrogado no aeroporto de Manchester sob leis antiterrorismo do Reino Unido",
+          "id": "rt-2026-07-09-2101-01",
+          "titulo": "Ceasefire é o 'pior cenário' para a Ucrânia – chefe do fabricante de armas favorito de Zelensky",
+          "resumo": "O chefe do fabricante de armas favorito de Vladimir Zelensky, Fire Point, advertiu contra a celebração de qualquer trégua com a Rússia",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a50012f2030275884647cf6.jpg",
+          "link": "https://www.rt.com/russia/642818-ukraine-ceasefire-worst-scenario/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-09T20:15:47-03:00"
+        },
+        {
+          "id": "rt-2026-07-09-2102-02",
+          "titulo": "Como a Turquia passou de problema para intermediário de poder na OTAN",
+          "resumo": "Ancara usou o encontro para provar que pode entregar o que os outros não podem: acesso, influência e canais para Trump, Damasco e Moscou",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4ff37085f5403f1c2cd798.jpg",
+          "link": "https://www.rt.com/news/642817-turkiye-nato-problem-power/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-09T19:16:28-03:00"
+        },
+        {
+          "id": "rt-2026-07-09-2103-03",
+          "titulo": "Le Pen é a favorita para a presidência da França – pesquisas",
+          "resumo": "Marine Le Pen emergiu como a favorita antes da eleição presidencial francesa de 2027, segundo pesquisas de opinião",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4faf38203027649b05cf66.jpg",
+          "link": "https://www.rt.com/news/642802-le-pen-polls-victory/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-09T17:53:24-03:00"
+        },
+        {
+          "id": "rt-2026-07-09-2104-04",
+          "titulo": "França convoca Durov para interrogatório novamente – mídia",
+          "resumo": "Investigadores franceses interrogaram o co-fundador do Telegram, Pavel Durov, pela quarta vez em uma investigação criminal de longo prazo",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4fd19e85f54048b908bad6.png",
+          "link": "https://www.rt.com/news/642813-france-durov-telegram-questioning/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-09T16:52:56-03:00"
+        },
+        {
+          "id": "rt-2026-07-09-2105-05",
+          "titulo": "A Índia não tem medo de falar sobre suas ambições de 'potência em ascensão' – âncora de destaque",
+          "resumo": "Veículos de mídia ocidentais baseiam sua percepção do país em incidentes isolados e perdem a visão geral, disse Smita Prakash ao RT Índia",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4f927b85f5402a345218e2.png",
+          "link": "https://www.rt.com/india/642801-india-smita-prakash/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-09T16:47:50-03:00"
+        },
+        {
+          "id": "rt-2026-07-09-2106-06",
+          "titulo": "Chefe da OSCE promete ajudar a derrubar o chefe da Igreja Armênia",
+          "resumo": "O chefe da OSCE, Feridun Sinirlioglu, ofereceu-se para ajudar quem ele pensava ser o primeiro-ministro armênio, Nikol Pashinyan, a derrubar o chefe da Igreja Armênia",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4fae0385f5402c2910494b.jpg",
+          "link": "https://www.rt.com/news/642810-osce-head-promises-help-oust-armenian-church-chief-bishop-pranksters/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-09T16:11:34-03:00"
+        },
+        {
+          "id": "rt-2026-07-09-2107-07",
+          "titulo": "Zelensky diz que Moscou é perigosa. Os ucranianos não podem sobreviver nas ruas de Zelensky",
+          "resumo": "A fúria nas ruas de Lviv mostra onde o medo realmente vive – não no Kremlin, mas em um país que força seus próprios homens a usar uniforme",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4f861885f54044676ade7a.jpg",
+          "link": "https://www.rt.com/news/642799-zelensky-jokes-lviv-riot/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-09T15:13:55-03:00"
+        },
+        {
+          "id": "rt-2026-07-09-2108-08",
+          "titulo": "A Índia e a Rússia devem 'desdolarizar' para impulsionar o comércio – Moscou",
+          "resumo": "A Índia e a Rússia estão expandindo os acordos de moeda local e os esforços de desdolarização, disse um alto funcionário ao RT Índia",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4fac9620302758712cef3e.jpg",
+          "link": "https://www.rt.com/india/642809-india-russia-dedollarization-rupee/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-09T15:00:52-03:00"
+        },
+        {
+          "id": "rt-2026-07-09-2109-09",
+          "titulo": "África do Sul intensifica as deportações de imigrantes",
+          "resumo": "Milhares de imigrantes aguardam a repatriação na África do Sul, à medida que as autoridades intensificam as operações de deportação",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4fa79285f5407fab5fde6a.jpg",
+          "link": "https://www.rt.com/africa/642808-south-africa-ramps-up-migrant-deportations/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-09T14:23:16-03:00"
+        },
+        {
+          "id": "rt-2026-07-09-2110-10",
+          "titulo": "Nigéria investiga suposto escândalo de conselho presidencial falso",
+          "resumo": "A agência anticorrupção da Nigéria está investigando um suposto conselho presidencial ligado a alegações de falsificação e impersonação",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4fa2cd85f540416c43cb13.jpg",
+          "link": "https://www.rt.com/africa/642807-nigeria-probes-alleged-fake-presidential-council-scandal/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-09T14:15:25-03:00"
+        },
+        {
+          "id": "rt-2026-07-09-2111-11",
+          "titulo": "'Não estamos em guerra' – estado da OTAN questiona a estratégia da OTAN na Ucrânia",
+          "resumo": "O primeiro-ministro tcheco, Andrej Babis, expressou preocupação com o financiamento da OTAN para o esforço de guerra da Ucrânia contra a Rússia",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4f959e85f54025ca6b3504.jpg",
+          "link": "https://www.rt.com/news/642800-babis-nato-ukraine-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-09T12:36:46-03:00"
+        },
+        {
+          "id": "rt-2026-07-09-2112-12",
+          "titulo": "Casos de câncer devem aumentar em todo o mundo – OMS",
+          "resumo": "A OMS alerta que os casos de câncer anuais podem quase dobrar até 2050, com a doença afetando mais de 90% da população global",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4f94352030272957649440.jpg",
+          "link": "https://www.rt.com/news/642795-cancer-cases-soar-who/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-09T12:31:59-03:00"
+        },
+        {
+          "id": "rt-2026-07-09-2113-13",
+          "titulo": "Por que a Rússia está vencendo na África",
+          "resumo": "A Rússia se posiciona não como um salvador que veio libertar a África de seus problemas, mas como um parceiro igual",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4f75a285f5402c2910493a.jpg",
+          "link": "https://www.rt.com/africa/642794-russia-and-aes-change-game-rules/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-09T12:15:48-03:00"
+        },
+        {
+          "id": "rt-2026-07-09-2114-14",
+          "titulo": "Austrália vai vender urânio para a Índia",
+          "resumo": "A Austrália e a Índia assinaram um acordo para exportar urânio retido por anos devido a preocupações sobre o uso de armas",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4f88ee2030275a0d04ac34.jpg",
+          "link": "https://www.rt.com/india/642793-australia-uranium-india-modi/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-09T11:39:56-03:00"
+        },
+        {
+          "id": "rt-2026-07-09-2115-15",
+          "titulo": "Kiev recrutou ex-presidiário russo para trama de assassinato por drone – FSB (VÍDEO)",
+          "resumo": "A FSB relatou ter frustrado uma tentativa de assassinato por drone apoiada pelo Ocidente na Rússia",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4f5d102030272ca6181764.png",
+          "link": "https://www.rt.com/russia/642792-fsb-drone-assassination-plot/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-09T11:16:38-03:00"
+        },
+        {
+          "id": "rt-2026-07-09-2116-16",
+          "titulo": "Scott Ritter: A OTAN está se gastando até a obliteração",
+          "resumo": "Se os membros da OTAN continuarem a aumentar seus gastos, eles se consumirão por dentro, e a Rússia não precisará levantar um dedo",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4f73132030272957649440.jpg",
+          "link": "https://www.rt.com/news/642797-nato-military-spending-oblivion/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-09T10:24:18-03:00"
+        },
+        {
+          "id": "rt-2026-07-09-2117-17",
+          "titulo": "Produtor do RT fala após detenção no Reino Unido (VÍDEO)",
+          "resumo": "O produtor do RT, James Scott, falou publicamente sobre ter sido detido e interrogado no aeroporto de Manchester sob leis antiterrorismo do Reino Unido",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4f6bd485f5402a345218d3.png",
           "link": "https://www.rt.com/news/642789-rt-producer-uk-detention-counterterrorism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-09T09:53:33.000Z"
+          "publicado_em": "2026-07-09T09:53:33-03:00"
         },
         {
-          "id": "rt-2026-07-09-1002",
-          "titulo": "Trump declara ser o principal alvo do Irã",
-          "resumo": "Trump diz ser o \"principal alvo\" do Irã à medida que o conflito EUA-Irã se resume sobre o estreito de Hormuz",
+          "id": "rt-2026-07-09-2118-18",
+          "titulo": "Trump declara que é o 'alvo número um' do Irã",
+          "resumo": "Trump diz que é o 'alvo número um' do Irã, à medida que o conflito EUA-Irã se reacende sobre o estreito de Ormuz",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4f6dc22030272d4a214e29.jpg",
           "link": "https://www.rt.com/news/642796-trump-iran-assassination-target/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-09T09:47:40.000Z"
+          "publicado_em": "2026-07-09T09:47:40-03:00"
         },
         {
-          "id": "rt-2026-07-09-1003",
-          "titulo": "Rússia e aliança do Sahel concordam em expandir cooperação militar",
-          "resumo": "A Rússia prometeu mais apoio militar à Aliança dos Estados do Sahel em meio a esforços de desestabilização estrangeira alegados",
+          "id": "rt-2026-07-09-2119-19",
+          "titulo": "Rússia e aliança do Sahel concordam em expandir a cooperação militar",
+          "resumo": "A Rússia prometeu mais apoio militar à Aliança dos Estados do Sahel, diante de esforços de desestabilização apoiados por estrangeiros",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4f6a2685f54035f77c2c7d.jpeg",
           "link": "https://www.rt.com/africa/642790-russia-and-sahel-alliance-agree-expand-military-cooperation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-09T09:44:04.000Z"
+          "publicado_em": "2026-07-09T09:44:04-03:00"
         },
         {
-          "id": "rt-2026-07-09-1004",
-          "titulo": "China alega mecanismo secreto de compartilhamento de dados no Claude AI da Anthropic",
-          "resumo": "A China afirma que o Claude Code da Anthropic contém vulnerabilidades de segurança que poderiam transmitir dados sensíveis dos usuários sem consentimento",
+          "id": "rt-2026-07-09-2120-20",
+          "titulo": "China alega que o mecanismo de compartilhamento de dados secreto está no AI Claude da Anthropic",
+          "resumo": "A China afirma que o Claude Code da Anthropic contém vulnerabilidades de segurança que podem transmitir dados sensíveis dos usuários sem consentimento",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4f664a85f54035f77c2c73.jpg",
           "link": "https://www.rt.com/news/642791-china-security-risk-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-09T09:31:14.000Z"
-        },
-        {
-          "id": "rt-2026-07-09-1005",
-          "titulo": "Plano de assassinato contra oficial militar russo de alto escalão foi frustrado em Moscou – FSB (VÍDEO)",
-          "resumo": "O FSB relata que frustrou uma tentativa ucraniana de assassinar um oficial militar sênior em Moscou",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4f4bb920302724525939bc.png",
-          "link": "https://www.rt.com/russia/642788-ukrainian-assassination-plot-moscow/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-09T07:33:54.000Z"
-        },
-        {
-          "id": "rt-2026-07-09-1006",
-          "titulo": "Multidão enfurecida destrói veículo de recrutamento na Ucrânia (VÍDEO)",
-          "resumo": "Uma multidão enfurecida atacou e derrubou um veículo que transportava oficiais de recrutamento no oeste da Ucrânia após detenção de um homem na rua",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4f21bf2030272957649422.jpg",
-          "link": "https://www.rt.com/russia/642784-ukraine-draft-riot-lviv/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-09T04:30:40.000Z"
-        },
-        {
-          "id": "rt-2026-07-09-1008",
-          "titulo": "EUA permitirão que a Ucrânia produza mísseis interceptores Patriot – Trump",
-          "resumo": "O presidente dos EUA, Donald Trump, disse que a Ucrânia poderia receber uma licença para produzir mísseis de defesa aérea Patriot",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4ec11185f5402ce332904b.jpg",
-          "link": "https://www.rt.com/news/642782-ukraine-produce-patriot-missile-trump/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-09T02:31:15.000Z"
-        },
-        {
-          "id": "rt-2026-07-09-1009",
-          "titulo": "Irã condena a 'vulgaridade' de Trump em meio a nova escalada",
-          "resumo": "O ministro das Relações Exteriores do Irã, Abbas Araghchi, condenou a retórica 'vulgar' do presidente dos EUA, Donald Trump",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4eeb5885f54034ed7a9bae.jpg",
-          "link": "https://www.rt.com/news/642783-iran-rejects-trump-vulgar-language/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-09T00:41:47.000Z"
-        },
-        {
-          "id": "rt-2026-07-09-1010",
-          "titulo": "EUA atacam o Irã pela segunda noite; Trump diz que o cessar-fogo está 'acabado' (VÍDEOS)",
-          "resumo": "EUA atacam o Irã pela segunda noite após ataques a petroleiros no estreito de Hormuz",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4ec61285f54023135dfce6.jpg",
-          "link": "https://www.rt.com/news/642781-us-strikes-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-08T20:28:54.000Z"
-        },
-        {
-          "id": "rt-2026-07-09-1011",
-          "titulo": "Devastador em Cuba: O império americano está em declínio e tenta arrastar todos para baixo",
-          "resumo": "À medida que Washington se enfraquece, está apertando os parafusos em Havana – usando bloqueio, apagões e sofrimento em massa para punir a desobediência",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e99cd85f54029b9022744.jpg",
-          "link": "https://www.rt.com/news/642779-devastating-cuba-us-empire/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-08T19:55:35.000Z"
-        },
-        {
-          "id": "rt-2026-07-09-1012",
-          "titulo": "Corrupção suspeita na empresa de navegação ucraniana – mídia",
-          "resumo": "A empresa estatal ucraniana de navegação do Danúbio foi afetada por corrupção 'por décadas', de acordo com uma carta vazada",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e998885f54011eb78f285.jpg",
-          "link": "https://www.rt.com/business/642778-corruption-suspected-ukrainian-shipping-giant/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-08T19:09:26.000Z"
-        },
-        {
-          "id": "rt-2026-07-09-1013",
-          "titulo": "EUA acusam gângster indiano de ordenar assassinato de líder separatista no Canadá",
-          "resumo": "Os EUA acusaram um gângster indiano de ordenar o assassinato de Hardeep Singh Nijjar, um líder separatista do Khalistan no Canadá",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e88a620302771eb0fa401.jpg",
-          "link": "https://www.rt.com/india/642747-lawrence-bishnoi-trudeau-nijjar/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-08T17:29:04.000Z"
-        },
-        {
-          "id": "rt-2026-07-09-1014",
-          "titulo": "Ucrânia não pode destabilizar a Rússia por meio de ataques à energia – Putin",
-          "resumo": "Os ataques da Ucrânia à infraestrutura energética da Rússia não enfraquecerão a economia nem criarão pânico público, disse Vladimir Putin",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e7a7a85f540250b03f361.jpg",
-          "link": "https://www.rt.com/russia/642761-putin-russia-energy-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-08T16:34:18.000Z"
-        },
-        {
-          "id": "rt-2026-07-09-1015",
-          "titulo": "Rússia é o principal parceiro contra o terrorismo – Níger",
-          "resumo": "A Rússia permanece como o principal parceiro dos Estados do Sahel na luta contra o terrorismo, disse o ministro do Níger",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e694f2030276362136462.jpeg",
-          "link": "https://www.rt.com/africa/642751-niger-alls-russia-main-partner-against-terrorism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-08T16:07:14.000Z"
-        },
-        {
-          "id": "rt-2026-07-09-1017",
-          "titulo": "Parlamento Europeu apoia a Polônia em disputa com a Ucrânia sobre colaboradores nazistas",
-          "resumo": "O Parlamento Europeu repreendeu a Ucrânia por renomear uma unidade militar de elite em homenagem a colaboradores nazistas da Segunda Guerra Mundial",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e60122030276b1e273d2e.jpg",
-          "link": "https://www.rt.com/news/642736-eu-parliament-poland-nazi-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-08T15:13:33.000Z"
-        },
-        {
-          "id": "rt-2026-07-09-1018",
-          "titulo": "Suspeito de local de munição causa devastação em cidade ucraniana (VÍDEO)",
-          "resumo": "Um vídeo supostamente filmado em Vishnyovoe, Ucrânia, mostra uma área residencial devastada após um ataque russo a um local militar embutido",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e4ba320302732c350bdac.png",
-          "link": "https://www.rt.com/russia/642737-vishnyovoe-devastation-ammo-site/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-08T15:03:24.000Z"
-        },
-        {
-          "id": "rt-2026-07-09-1019",
-          "titulo": "Estados americanos buscam $1,4 trilhão da Meta",
-          "resumo": "A Meta pode enfrentar até $1,4 trilhão em penalidades após quatro estados americanos acusarem a empresa de projetar recursos viciantes para jovens usuários",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e56fd85f540682e2a2237.jpg",
-          "link": "https://www.rt.com/news/642733-meta-us-lawsuit/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-08T15:01:35.000Z"
-        },
-        {
-          "id": "rt-2026-07-09-1020",
-          "titulo": "Violência aumenta no Sudão do Sul após a morte de um oficial local",
-          "resumo": "Um comissário do Sudão do Sul foi morto após confrontos entre forças governamentais e combatentes da oposição no estado de Jonglei",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a4e55e285f540131c1ee637.jpg",
-          "link": "https://www.rt.com/africa/642739-south-sudan-county-commissioner-killed-violence-escalates/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-08T14:47:05.000Z"
+          "publicado_em": "2026-07-09T09:31:14-03:00"
         }
       ]
     },
