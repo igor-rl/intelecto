@@ -256,58 +256,82 @@
     "euronews": {
       "slug": "euronews",
       "nome": "Euro News",
-      "gerado_em": "2026-07-10T10:00:22.367Z",
+      "gerado_em": "2026-07-10T21:00:26.058Z",
       "artigos": [
         {
-          "id": "euronews-2026-07-10-1001",
-          "titulo": "Incêndio na Espanha perto de Almeria mata 11 e causa evacuações em massa",
-          "resumo": "A Espanha está lutando contra um incêndio mortal em Los Gallardos, perto de Almeria, onde pelo menos 11 pessoas morreram em 10 de julho após chamas varrerem uma área semiárida perto da Sierra de los Filabres.",
+          "id": "euronews-2026-07-10-2101",
+          "titulo": "Geórgia excluída da lista de parceiros da cúpula da OTAN",
+          "resumo": "O governo da Geórgia enfrenta acusações de isolamento internacional após não ser convidado para a cúpula da OTAN na Turquia, pela primeira vez um parceiro-chave foi excluído da agenda da aliança...",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/10/georgia-left-off-nato-summit-partner-list-as-critics-decry-isolation",
+          "publicado_em": "2026-07-10T19:36:46.000Z"
+        },
+        {
+          "id": "euronews-2026-07-10-2103",
+          "titulo": "China alcança primeira recuperação controlada de foguete",
+          "resumo": "A China recuperou com sucesso a primeira etapa de um foguete após um lançamento na sexta-feira, um avanço para o programa espacial do país, segundo a mídia estatal.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/10/china-achieves-first-ever-controlled-rocket-booster-recovery",
+          "publicado_em": "2026-07-10T16:02:08.000Z"
+        },
+        {
+          "id": "euronews-2026-07-10-2105",
+          "titulo": "Presente de arma de Erdoğan: gafe ou tradição diplomática?",
+          "resumo": "Quando os líderes da OTAN abriram as caixas de presentes do presidente turco e encontraram uma revólver .357 Magnum, alguns se alarmaram e outros riram.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/10/was-erdogans-gun-gift-a-faux-pas-or-an-old-school-diplomatic-tradition",
+          "publicado_em": "2026-07-10T15:26:24.000Z"
+        },
+        {
+          "id": "euronews-2026-07-10-2108",
+          "titulo": "Incêndio na Espanha perto de Almeria mata 11 e causa evacuações",
+          "resumo": "A Espanha está lutando contra um incêndio mortal perto de Almeria, onde pelo menos 11 pessoas morreram após as chamas varrerem uma área semiárida perto da Sierra de los Filabres.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/07/10/spain-wildfire-near-almeria-kills-11-and-sparks-major-evacuations",
           "publicado_em": "2026-07-10T08:52:52.000Z"
         },
         {
-          "id": "euronews-2026-07-10-1002",
-          "titulo": "Incêndio mortal em fábrica de calçados na China desencadeia ordem de Xi Jinping para investigação completa",
+          "id": "euronews-2026-07-10-2109",
+          "titulo": "Incêndio em fábrica de calçados na China mata 28 e gera investigação",
           "resumo": "A China está investigando um incêndio que matou 28 pessoas em uma fábrica de calçados em Jinjiang, província de Fujian, em 9 de julho.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/07/10/deadly-fire-at-china-shoe-factory-sparks-xi-jinping-order-for-full-probe",
           "publicado_em": "2026-07-10T07:00:30.000Z"
         },
         {
-          "id": "euronews-2026-07-10-1003",
-          "titulo": "Pyongyang promete fortalecer força nuclear 'em qualidade e quantidade'",
-          "resumo": "Líderes norte-coreanos também detalharam planos para acelerar a construção de bases navais modernas e atualizar sistemas de combate, de acordo com a KCNA.",
+          "id": "euronews-2026-07-10-2110",
+          "titulo": "Coreia do Norte promete fortalecer força nuclear",
+          "resumo": "Líderes norte-coreanos também apresentaram planos para acelerar a construção de bases navais modernas e melhorar sistemas de combate.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/10/pyongyang-vows-to-strengthen-nuclear-force-in-quality-and-quantity",
           "publicado_em": "2026-07-10T06:45:21.000Z"
         },
         {
-          "id": "euronews-2026-07-10-1004",
-          "titulo": "Irã se despede do aiatolá Ali Khamenei em meio a tensões com os EUA",
-          "resumo": "Grandes multidões de enlutados marcharam por Mashhad em 9 de julho para o enterro do ex-líder supremo aiatolá Ali Khamenei no santuário Imam Reza.",
+          "id": "euronews-2026-07-10-2111",
+          "titulo": "Irã se despede de Ali Khamenei em meio a tensões com EUA",
+          "resumo": "Grandes multidões de enlutados marcharam em Mashhad em 9 de julho para o funeral do ex-líder supremo Ali Khamenei no santuário do Imã Reza.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/07/10/iran-bids-farewell-to-ayatollah-ali-khamenei-amid-tensions-with-us",
           "publicado_em": "2026-07-10T06:22:33.000Z"
         },
         {
-          "id": "euronews-2026-07-10-1007",
-          "titulo": "Irã enterra Khamenei enquanto novos combates testam frágil acordo de cessar-fogo",
-          "resumo": "O caixão coberto com a bandeira de Khamenei foi carregado para o santuário de Imam Reza em sua cidade natal de Mashhad, no leste do Irã, enquanto uma multidão aguardava do lado de fora e ouvia orações, sem sinais de uma pausa nas hostilidades.",
+          "id": "euronews-2026-07-10-2114",
+          "titulo": "Irã enterra Khamenei enquanto luta renova teste de frágil acordo de cessar-fogo",
+          "resumo": "O caixão de Khamenei foi carregado em direção ao santuário do Imã Reza em sua cidade natal de Mashhad, no leste do Irã, enquanto uma multidão aguardava do lado de fora e ouvia orações.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/10/iran-buries-khamenei-as-renewed-fighting-tests-shaky-ceasefire-deal",
           "publicado_em": "2026-07-10T04:57:11.000Z"
         },
         {
-          "id": "euronews-2026-07-10-1008",
-          "titulo": "Aeroporto de Palm Beach, na Flórida, é renomeado para Presidente Donald J. Trump International",
-          "resumo": "Desde seu retorno à Casa Branca, Trump tomou medidas repetidas para colocar seu nome e imagem em espaços oficiais, uma quebra abrupta com a tradição política americana.",
+          "id": "euronews-2026-07-10-2115",
+          "titulo": "Aeroporto de Palm Beach renomeado para Presidente Donald J. Trump International",
+          "resumo": "Desde que retornou à Casa Branca, Trump tomou medidas repetidas para colocar seu nome e imagem em espaços oficiais, uma ruptura abrupta com a tradição política americana.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/09/south-floridas-palm-beach-airport-renamed-president-donald-j-trump-international",
           "publicado_em": "2026-07-09T19:05:41.000Z"
         },
         {
-          "id": "euronews-2026-07-10-1009",
+          "id": "euronews-2026-07-10-2116",
           "titulo": "OPCW restaura direitos de voto da Síria, citando 'mudança significativa nas circunstâncias'",
           "resumo": "Em 2013, a Síria concordou em aderir à OPCW e divulgar e entregar seu estoque tóxico sob pressão russa e americana e para evitar a ameaça de ataques aéreos por Washington e seus aliados.",
           "imagem": null,
@@ -315,44 +339,36 @@
           "publicado_em": "2026-07-09T17:41:11.000Z"
         },
         {
-          "id": "euronews-2026-07-10-1014",
-          "titulo": "Pelo menos 28 mortos em incêndio em fábrica de calçados no leste da China, relata mídia estatal",
-          "resumo": "Imagens compartilhadas pela televisão estatal CCTV mostram bombeiros jogando água no exterior e interior de um grande prédio branco de vários andares com mangueiras de incêndio, enquanto fumaça preta espessa saía.",
+          "id": "euronews-2026-07-10-2117",
+          "titulo": "Papais Noéis lotam ruas da Dinamarca para congresso anual",
+          "resumo": "Dúzias de Papais Noéis e Donas Noéis se reúnem em Aalborg, Dinamarca, para o Congresso Mundial de Papai Noel, com desfiles, atividades familiares e festas de verão.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/09/santas-fill-danish-streets-for-annual-congress",
+          "publicado_em": "2026-07-09T16:56:29.000Z"
+        },
+        {
+          "id": "euronews-2026-07-10-2120",
+          "titulo": "Réplica de mesquita e sinais anti-imigração aparecem em fogueira na Irlanda do Norte",
+          "resumo": "Uma fogueira lealista em Moygashel, Irlanda do Norte, exibe uma réplica de mesquita e sinais anti-imigração à frente das celebrações da Ordem Laranja.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/09/mosque-replica-and-anti-immigration-signs-appear-on-northern-ireland-bonfire",
+          "publicado_em": "2026-07-09T15:21:10.000Z"
+        },
+        {
+          "id": "euronews-2026-07-10-2121",
+          "titulo": "Pelo menos 28 mortos em incêndio em fábrica de calçados na China",
+          "resumo": "Imagens compartilhadas pela televisão estatal CCTV mostram bombeiros jogando água no exterior e interior de um grande prédio branco de vários andares com mangueiras de incêndio, enquanto fumaça preta grossa saía.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/09/at-least-28-dead-in-fire-at-shoe-factory-in-eastern-china-state-media-reports",
           "publicado_em": "2026-07-09T14:39:46.000Z"
         },
         {
-          "id": "euronews-2026-07-10-1015",
-          "titulo": "Lama e detritos são deixados para trás após inundações mortais no sul da China",
-          "resumo": "Moradores em Guangxi, no sul da China, limpam lama e detritos após inundações mortais danificarem casas e ruas após fortes chuvas.",
+          "id": "euronews-2026-07-10-2122",
+          "titulo": "Lama e detritos deixados após inundações mortais no sul da China",
+          "resumo": "Moradores em Guangxi, sul da China, limpam lama e detritos após inundações mortais danificarem casas e ruas após fortes chuvas.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/07/09/mud-and-debris-left-behind-after-deadly-floods-in-southern-china",
           "publicado_em": "2026-07-09T13:44:11.000Z"
-        },
-        {
-          "id": "euronews-2026-07-10-1022",
-          "titulo": "Irã relata vítimas e danos à infraestrutura após ataques dos EUA, enquanto as tensões no Golfo aumentam",
-          "resumo": "O Ministério das Relações Exteriores do Irã disse que a última onda de ataques dos EUA constituiu 'um crime de guerra flagrante' e condenou o que chamou de 'ações agressivas' pelo exército americano. Teerã respondeu com ataques retaliatórios.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/09/iran-launches-retaliatory-strikes-on-gulf-states-as-trump-warns-us-bombing-could-get-much-",
-          "publicado_em": "2026-07-09T03:26:58.000Z"
-        },
-        {
-          "id": "euronews-2026-07-10-1024",
-          "titulo": "Venezuela pede liberação de ativos congelados para ajudar esforços de recuperação após terremoto",
-          "resumo": "Enquanto isso, as Nações Unidas lançaram um apelo urgente na quarta-feira para arrecadar €259 milhões para operações de socorro.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/08/venezuela-calls-for-release-of-frozen-assets-to-help-earthquake-recovery-efforts",
-          "publicado_em": "2026-07-08T16:36:52.000Z"
-        },
-        {
-          "id": "euronews-2026-07-10-1025",
-          "titulo": "Resgatistas procuram por cinco pessoas desaparecidas após deslizamento de terra mortal no estado de Kerala, na Índia",
-          "resumo": "Especialistas dizem que a mudança climática causada pelo homem está intensificando os monsoons da Ásia Meridional, que tradicionalmente ocorrem de junho a setembro e novamente de outubro a dezembro.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/08/rescuers-search-for-five-missing-people-after-deadly-landslide-in-indias-kerala-state",
-          "publicado_em": "2026-07-08T15:59:49.000Z"
         }
       ]
     },
