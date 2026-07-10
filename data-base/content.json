@@ -6,11 +6,11 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Tensões Globais: Conflitos e Desafios",
-    "subtitulo": "Ucrânia, Oriente Médio e África: Pontos Quentes do Planeta",
-    "resumo": "O dia foi marcado por uma série de eventos que destacam as tensões globais. A Ucrânia continua a ser um ponto de conflito, com a Rússia atingindo um depósito de munições na região de Kyiv, segundo o presidente ucraniano Volodymyr Zelenskiy. No Oriente Médio, os EUA lançaram novos ataques ao Irã, enquanto as conversações de paz estão em impasse. Na África, o surto de ebola na República Democrática do Congo é considerado o 'mais rápido' já registrado, com 600 mortes. Além disso, a Nigéria enfrenta um sequestro em Oyo, com terroristas exigindo a libertação de comandantes. A Austrália recebeu o primeiro-ministro da Índia, Narendra Modi, com uma recepção de rockstar. Esses eventos mostram a complexidade e a gravidade dos desafios globais atuais.",
+    "titulo": "Tensões Globais: Irã, Ucrânia e Conflitos Esquecidos",
+    "subtitulo": "Enquanto o mundo acompanha as tensões no Irã e na Ucrânia, crises esquecidas como o surto de cólera no Sudão e a epidemia de Ebola na África continuam sem a devida atenção",
+    "resumo": "O dia foi marcado por tensões globais, com o Irã realizando o funeral do aiatolá Ali Khamenei e a Ucrânia enfrentando novos combates. No entanto, crises esquecidas como o surto de cólera no Sudão e a epidemia de Ebola na África continuam sem a devida atenção. A comunidade internacional deve se mobilizar para ajudar a combater essas crises esquecidas. Além disso, a relação entre os EUA e a Rússia continua tensa, com ambos os lados realizando manobras militares. A situação no Oriente Médio também é delicada, com Israel e o Irã realizando operações militares. É fundamental que a comunidade internacional trabalhe juntos para resolver esses conflitos e crises.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-07-09T08:00:00-03:00",
+    "publicado_em": "2026-07-10T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -831,52 +831,56 @@
   },
   "temas_principais": [
     {
-      "tema": "Conflito na Ucrânia",
-      "descricao": "A Rússia atingiu um depósito de munições na região de Kyiv, segundo o presidente ucraniano Volodymyr Zelenskiy.",
+      "tema": "Tensões no Irã",
+      "descricao": "O funeral do aiatolá Ali Khamenei e as tensões com os EUA",
       "fontes_que_cobriram": [
-        "st",
-        "mt"
+        "the_guardian",
+        "new_york_times",
+        "euronews"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
         "rt"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a agressão russa, enquanto a Rússia e seus aliados tendem a minimizar ou justificar as ações."
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam as tensões com os EUA, enquanto a RT destaca a importância do funeral para a comunidade iraniana"
     },
     {
-      "tema": "Surto de Ebola na República Democrática do Congo",
-      "descricao": "O surto de ebola é considerado o 'mais rápido' já registrado, com 600 mortes.",
+      "tema": "Conflitos na Ucrânia",
+      "descricao": "Novos combates e a relação com a Rússia",
       "fontes_que_cobriram": [
-        "aa",
-        "scmp"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
+        "the_guardian",
+        "new_york_times",
         "euronews"
       ],
-      "divergencia_de_enquadramento": "As fontes africanas e asiáticas destacam a gravidade do surto, enquanto as fontes ocidentais tendem a dar menos atenção."
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "rt"
+      ],
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a agressão russa, enquanto a RT destaca a importância da segurança nacional ucraniana"
     },
     {
-      "tema": "Tensões no Oriente Médio",
-      "descricao": "Os EUA lançaram novos ataques ao Irã, enquanto as conversações de paz estão em impasse.",
+      "tema": "Crises esquecidas",
+      "descricao": "Surto de cólera no Sudão e epidemia de Ebola na África",
       "fontes_que_cobriram": [
-        "smh",
+        "all_africa",
         "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "rt"
+        "the_guardian",
+        "new_york_times",
+        "euronews"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a ameaça iraniana, enquanto a Rússia e seus aliados tendem a criticar as ações dos EUA."
+      "divergencia_de_enquadramento": "As fontes africanas enfatizam a gravidade das crises, enquanto as fontes ocidentais as ignoram ou minimizam"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Sequestro em Oyo, Nigéria",
-      "por_que_importa": "O sequestro destaca a instabilidade e a violência no país.",
-      "cobertura": "Apenas a AllAfrica deu cobertura significativa ao evento."
+      "tema": "Surto de cólera no Sudão",
+      "por_que_importa": "O surto de cólera no Sudão é uma crise de saúde pública que afeta milhares de pessoas",
+      "cobertura": "Apenas a AllAfrica e o The Straits Times cobriram o tema"
     },
     {
-      "tema": "Visita de Narendra Modi à Austrália",
-      "por_que_importa": "A visita reflete a importância das relações entre a Índia e a Austrália.",
-      "cobertura": "Apenas o Sydney Morning Herald deu cobertura detalhada à visita."
+      "tema": "Epidemia de Ebola na África",
+      "por_que_importa": "A epidemia de Ebola na África é uma crise de saúde pública que afeta vários países",
+      "cobertura": "Apenas a AllAfrica e o The Straits Times cobriram o tema"
     }
   ]
 }
