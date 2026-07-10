@@ -208,74 +208,90 @@
     "euronews": {
       "slug": "euronews",
       "nome": "Euro News",
-      "gerado_em": "2026-07-09T21:00:16.190Z",
+      "gerado_em": "2026-07-10T10:00:22.367Z",
       "artigos": [
         {
-          "id": "euronews-2026-07-09-2101",
-          "titulo": "Aeroporto de Palm Beach renomeado para Presidente Donald J. Trump International",
-          "resumo": "Desde seu retorno à Casa Branca, Trump tem tomado medidas repetidas para colocar seu nome e imagem em espaços oficiais, uma quebra abrupta com a tradição política americana.",
+          "id": "euronews-2026-07-10-1001",
+          "titulo": "Incêndio na Espanha perto de Almeria mata 11 e causa evacuações em massa",
+          "resumo": "A Espanha está lutando contra um incêndio mortal em Los Gallardos, perto de Almeria, onde pelo menos 11 pessoas morreram em 10 de julho após chamas varrerem uma área semiárida perto da Sierra de los Filabres.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/10/spain-wildfire-near-almeria-kills-11-and-sparks-major-evacuations",
+          "publicado_em": "2026-07-10T08:52:52.000Z"
+        },
+        {
+          "id": "euronews-2026-07-10-1002",
+          "titulo": "Incêndio mortal em fábrica de calçados na China desencadeia ordem de Xi Jinping para investigação completa",
+          "resumo": "A China está investigando um incêndio que matou 28 pessoas em uma fábrica de calçados em Jinjiang, província de Fujian, em 9 de julho.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/10/deadly-fire-at-china-shoe-factory-sparks-xi-jinping-order-for-full-probe",
+          "publicado_em": "2026-07-10T07:00:30.000Z"
+        },
+        {
+          "id": "euronews-2026-07-10-1003",
+          "titulo": "Pyongyang promete fortalecer força nuclear 'em qualidade e quantidade'",
+          "resumo": "Líderes norte-coreanos também detalharam planos para acelerar a construção de bases navais modernas e atualizar sistemas de combate, de acordo com a KCNA.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/10/pyongyang-vows-to-strengthen-nuclear-force-in-quality-and-quantity",
+          "publicado_em": "2026-07-10T06:45:21.000Z"
+        },
+        {
+          "id": "euronews-2026-07-10-1004",
+          "titulo": "Irã se despede do aiatolá Ali Khamenei em meio a tensões com os EUA",
+          "resumo": "Grandes multidões de enlutados marcharam por Mashhad em 9 de julho para o enterro do ex-líder supremo aiatolá Ali Khamenei no santuário Imam Reza.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/10/iran-bids-farewell-to-ayatollah-ali-khamenei-amid-tensions-with-us",
+          "publicado_em": "2026-07-10T06:22:33.000Z"
+        },
+        {
+          "id": "euronews-2026-07-10-1007",
+          "titulo": "Irã enterra Khamenei enquanto novos combates testam frágil acordo de cessar-fogo",
+          "resumo": "O caixão coberto com a bandeira de Khamenei foi carregado para o santuário de Imam Reza em sua cidade natal de Mashhad, no leste do Irã, enquanto uma multidão aguardava do lado de fora e ouvia orações, sem sinais de uma pausa nas hostilidades.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/10/iran-buries-khamenei-as-renewed-fighting-tests-shaky-ceasefire-deal",
+          "publicado_em": "2026-07-10T04:57:11.000Z"
+        },
+        {
+          "id": "euronews-2026-07-10-1008",
+          "titulo": "Aeroporto de Palm Beach, na Flórida, é renomeado para Presidente Donald J. Trump International",
+          "resumo": "Desde seu retorno à Casa Branca, Trump tomou medidas repetidas para colocar seu nome e imagem em espaços oficiais, uma quebra abrupta com a tradição política americana.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/09/south-floridas-palm-beach-airport-renamed-president-donald-j-trump-international",
           "publicado_em": "2026-07-09T19:05:41.000Z"
         },
         {
-          "id": "euronews-2026-07-09-2102",
+          "id": "euronews-2026-07-10-1009",
           "titulo": "OPCW restaura direitos de voto da Síria, citando 'mudança significativa nas circunstâncias'",
-          "resumo": "Em 2013, a Síria concordou em aderir à OPCW e divulgar e entregar seu arsenal tóxico sob pressão russa e americana e para evitar a ameaça de ataques aéreos por Washington e seus aliados.",
+          "resumo": "Em 2013, a Síria concordou em aderir à OPCW e divulgar e entregar seu estoque tóxico sob pressão russa e americana e para evitar a ameaça de ataques aéreos por Washington e seus aliados.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/09/opcw-reinstates-syrias-voting-rights-citing-significant-change-in-circumstances",
           "publicado_em": "2026-07-09T17:41:11.000Z"
         },
         {
-          "id": "euronews-2026-07-09-2105",
-          "titulo": "Imagens recentemente divulgadas mostram revólver dado por Erdogan a líderes da OTAN",
-          "resumo": "Imagens compartilhadas pela Presidência da Lituânia mostram um revólver dado por Erdogan a cada líder da OTAN como um presente de despedida após a cúpula em Ancara.",
-          "imagem": null,
-          "link": "http://www.euronews.com/my-europe/2026/07/09/newly-released-footage-shows-revolver-gifted-by-erdogan-to-nato-leaders",
-          "publicado_em": "2026-07-09T15:47:16.000Z"
-        },
-        {
-          "id": "euronews-2026-07-09-2106",
-          "titulo": "Réplica de mesquita e sinais anti-imigração aparecem em fogueira na Irlanda do Norte",
-          "resumo": "Uma fogueira lealista em Moygashel, Irlanda do Norte, exibe uma réplica de mesquita e sinais anti-imigração à frente das celebrações da Ordem Laranja.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/07/09/mosque-replica-and-anti-immigration-signs-appear-on-northern-ireland-bonfire",
-          "publicado_em": "2026-07-09T15:21:10.000Z"
-        },
-        {
-          "id": "euronews-2026-07-09-2107",
-          "titulo": "Pelo menos 28 mortos em incêndio em fábrica de calçados na China oriental, relata mídia estatal",
-          "resumo": "Imagens compartilhadas pela televisão estatal CCTV mostram bombeiros jogando água no exterior e interior de um grande prédio branco de vários andares com mangueiras de incêndio, enquanto fumaça preta grossa saía.",
+          "id": "euronews-2026-07-10-1014",
+          "titulo": "Pelo menos 28 mortos em incêndio em fábrica de calçados no leste da China, relata mídia estatal",
+          "resumo": "Imagens compartilhadas pela televisão estatal CCTV mostram bombeiros jogando água no exterior e interior de um grande prédio branco de vários andares com mangueiras de incêndio, enquanto fumaça preta espessa saía.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/09/at-least-28-dead-in-fire-at-shoe-factory-in-eastern-china-state-media-reports",
           "publicado_em": "2026-07-09T14:39:46.000Z"
         },
         {
-          "id": "euronews-2026-07-09-2108",
-          "titulo": "Lama e detritos deixados após inundações mortais no sul da China",
-          "resumo": "Moradores em Guangxi, sul da China, limpam lama e detritos após inundações mortais danificarem casas e ruas após fortes chuvas.",
+          "id": "euronews-2026-07-10-1015",
+          "titulo": "Lama e detritos são deixados para trás após inundações mortais no sul da China",
+          "resumo": "Moradores em Guangxi, no sul da China, limpam lama e detritos após inundações mortais danificarem casas e ruas após fortes chuvas.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/07/09/mud-and-debris-left-behind-after-deadly-floods-in-southern-china",
           "publicado_em": "2026-07-09T13:44:11.000Z"
         },
         {
-          "id": "euronews-2026-07-09-2115",
+          "id": "euronews-2026-07-10-1022",
           "titulo": "Irã relata vítimas e danos à infraestrutura após ataques dos EUA, enquanto as tensões no Golfo aumentam",
-          "resumo": "O Ministério das Relações Exteriores do Irã disse que a última onda de ataques dos EUA constituiu \"um crime de guerra flagrante\" e condenou o que chamou de \"ações agressivas\" do exército americano.",
+          "resumo": "O Ministério das Relações Exteriores do Irã disse que a última onda de ataques dos EUA constituiu 'um crime de guerra flagrante' e condenou o que chamou de 'ações agressivas' pelo exército americano. Teerã respondeu com ataques retaliatórios.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/09/iran-launches-retaliatory-strikes-on-gulf-states-as-trump-warns-us-bombing-could-get-much-",
           "publicado_em": "2026-07-09T03:26:58.000Z"
         },
         {
-          "id": "euronews-2026-07-09-2116",
-          "titulo": "Trump pula novo Air Force One ao retornar da cúpula da OTAN na Turquia",
-          "resumo": "Questionado durante uma coletiva de imprensa se a mudança foi por razões de segurança relacionadas ao Irã, Trump evitou a pergunta falando sobre supostas tentativas de assassinato anteriores por Teerã.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/08/trump-skips-new-air-force-one-on-return-from-turkey-nato-summit",
-          "publicado_em": "2026-07-08T19:09:18.000Z"
-        },
-        {
-          "id": "euronews-2026-07-09-2117",
+          "id": "euronews-2026-07-10-1024",
           "titulo": "Venezuela pede liberação de ativos congelados para ajudar esforços de recuperação após terremoto",
           "resumo": "Enquanto isso, as Nações Unidas lançaram um apelo urgente na quarta-feira para arrecadar €259 milhões para operações de socorro.",
           "imagem": null,
@@ -283,68 +299,12 @@
           "publicado_em": "2026-07-08T16:36:52.000Z"
         },
         {
-          "id": "euronews-2026-07-09-2118",
+          "id": "euronews-2026-07-10-1025",
           "titulo": "Resgatistas procuram por cinco pessoas desaparecidas após deslizamento de terra mortal no estado de Kerala, na Índia",
-          "resumo": "Especialistas dizem que a mudança climática causada pelo homem está intensificando os monções da Ásia do Sul, que tradicionalmente ocorrem de junho a setembro e novamente de outubro a dezembro.",
+          "resumo": "Especialistas dizem que a mudança climática causada pelo homem está intensificando os monsoons da Ásia Meridional, que tradicionalmente ocorrem de junho a setembro e novamente de outubro a dezembro.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/08/rescuers-search-for-five-missing-people-after-deadly-landslide-in-indias-kerala-state",
           "publicado_em": "2026-07-08T15:59:49.000Z"
-        },
-        {
-          "id": "euronews-2026-07-09-2119",
-          "titulo": "Milhares participam de marcha pela paz na Bósnia para lembrar as vítimas de Srebrenica",
-          "resumo": "Mais de 6.500 pessoas participaram de uma marcha pela paz para lembrar as vítimas do genocídio de Srebrenica e os sobreviventes que caminharam por dias para salvar suas vidas.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/07/08/thousands-embark-on-bosnia-peace-march-to-remember-srebrenica-victims",
-          "publicado_em": "2026-07-08T15:34:59.000Z"
-        },
-        {
-          "id": "euronews-2026-07-09-2120",
-          "titulo": "Forças americanas lançam novos ataques ao Irã para conter ameaça ao Hormuz, diz o exército",
-          "resumo": "Trump havia dito que o cessar-fogo com o Irã estava \"acabado\" após Washington lançar ataques ao país durante a noite, ao que o Irã respondeu atacando bases americanas no Golfo.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/08/were-gonna-hit-em-hard-tonight-trump-says-about-further-air-strikes-on-iran",
-          "publicado_em": "2026-07-08T14:09:23.000Z"
-        },
-        {
-          "id": "euronews-2026-07-09-2121",
-          "titulo": "Estados do Golfo se preparam novamente para um confronto inflamado entre EUA e Irã à medida que as tensões aumentam",
-          "resumo": "Das linhas de frente do confronto entre EUA e Irã, as nações do Golfo pediram novamente a ambas as partes, com contenção estratégica, que não abandonem as negociações, enquanto Teerã está transmitindo que o Estreito de Hormuz...",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/08/gulf-states-brace-again-for-fiery-us-iran-showdown-as-tensions-spiral",
-          "publicado_em": "2026-07-08T11:43:36.000Z"
-        },
-        {
-          "id": "euronews-2026-07-09-2122",
-          "titulo": "Pelo menos sete mortos em novos ataques russos à Ucrânia enquanto líderes da OTAN se reúnem na Turquia",
-          "resumo": "A Rússia atingiu a capital ucraniana com vários ataques letais nos últimos dias, matando mais de 50 este mês em uma onda de ataques de mísseis balísticos e drones.",
-          "imagem": null,
-          "link": "http://www.euronews.com/my-europe/2026/07/08/at-least-seven-killed-in-fresh-russian-strikes-on-ukraine-as-nato-leaders-meet-in-turkey",
-          "publicado_em": "2026-07-08T09:01:50.000Z"
-        },
-        {
-          "id": "euronews-2026-07-09-2123",
-          "titulo": "Erdogan dá as boas-vindas cerimoniais a líderes mundiais antes da cúpula da OTAN",
-          "resumo": "Líderes da OTAN, incluindo Trump e Zelenskyy, chegam a Ancara para um jantar de Estado oferecido por Erdogan antes de discussões importantes na Turquia.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/07/08/erdogan-gives-world-leaders-a-ceremonial-welcome-ahead-of-nato-summit",
-          "publicado_em": "2026-07-08T08:50:02.000Z"
-        },
-        {
-          "id": "euronews-2026-07-09-2124",
-          "titulo": "O caixão de Ali Khamenei passa por milhares de manifestantes no santuário de Najaf, no Iraque",
-          "resumo": "O cortejo fúnebre de Ali Khamenei passa por Najaf enquanto milhares de manifestantes se reúnem, tocando o caminhão fúnebre e honrando o líder falecido.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/07/08/ali-khameneis-coffin-passes-through-thousands-of-mourners-in-iraqs-holy-city-of-najaf",
-          "publicado_em": "2026-07-08T06:57:43.000Z"
-        },
-        {
-          "id": "euronews-2026-07-09-2125",
-          "titulo": "Trump diz que o cessar-fogo com Teerã está 'acabado' após EUA e Irã trocarem tiros",
-          "resumo": "Washington iniciou ataques ao Irã durante a noite em resposta a navios de carga sendo atingidos no Estreito de Hormuz. Teerã então lançou seu próprio ataque, visando bases americanas no Golfo.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/08/us-launches-fresh-strikes-on-iran-after-ships-attacked-in-strait-of-hormuz",
-          "publicado_em": "2026-07-08T03:07:25.000Z"
         }
       ]
     },
