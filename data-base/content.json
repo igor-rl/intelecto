@@ -121,87 +121,135 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-07-10T10:00:01.855Z",
+      "gerado_em": "2026-07-10T21:00:00.939Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-07-10-1001",
+          "id": "new_york_times-2026-07-10-2101",
+          "titulo": "Morte por ICE em Houston Coloca Foco em Aumento de Prisões de Imigração",
+          "resumo": "A morte por tiros de Lorenzo Salgado Araujo ocorreu quando a aplicação da lei de imigração aumentou em todo o país, com milhares sendo presos diariamente.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/10/us/ice-immigration-arrests-surge.html",
+          "publicado_em": "2026-07-10T20:18:35-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-10-2102",
+          "titulo": "Testemunhas de Morte por ICE em Houston Contestam a Conta Oficial",
+          "resumo": "A agência disse que um imigrante mexicano dirigindo uma van tentou atropelar agentes antes de ser baleado até a morte. Um advogado de três passageiros disse que isso era falso.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/10/us/houston-ice-shooting-witnesses.html",
+          "publicado_em": "2026-07-10T18:10:28-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-10-2103",
+          "titulo": "ICE Deporta Imigrante que Foi Indultado por Condenação por Abuso Sexual",
+          "resumo": "Oficiais do estado de Minnesota haviam concedido um indulto a Tou Lue Vang, um homem hmong, o que gerou críticas de que líderes democratas estavam frustrando esforços para expulsar criminosos.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/10/us/politics/ice-deports-immigrant-pardoned-minnesota.html",
+          "publicado_em": "2026-07-10T20:54:18-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-10-2104",
+          "titulo": "Trump Corta Proteções de Habitat para Espécies Ameaçadas",
+          "resumo": "A mudança na regra encerra uma salvaguarda que estava em vigor por 50 anos e pode apressar o declínio de animais em perigo.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/10/climate/endangered-species-act-harm.html",
+          "publicado_em": "2026-07-10T20:31:27-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-10-2105",
+          "titulo": "Administração Trump Nomeia Crítico da Ciência Climática para Supervisionar Avaliação Nacional do Clima",
+          "resumo": "Matthew M. Wielicki criticou o consenso científico sobre o aquecimento global como alarmista. Agora ele supervisionará um relatório federal importante sobre o assunto.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/10/climate/trump-climate-assessment-wielicki.html",
+          "publicado_em": "2026-07-10T20:27:57-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-10-2106",
+          "titulo": "Ele Queria Monitorar Microplásticos no Mar. A EPA o Demitiu.",
+          "resumo": "O funcionário pediu que uma fazenda de peixes monitorasse as pequenas partículas de plástico. A EPA disse que ele havia tomado medidas para constranger a agência.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/10/climate/fish-farm-microplastics-maha-epa-firing.html",
+          "publicado_em": "2026-07-10T19:54:15-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-10-2107",
+          "titulo": "Trump Diz que Negociações com o Irã Continuarão à Medida que os EUA Aumentam os Ataques",
+          "resumo": "Forças dos EUA atingiram mais de 170 alvos, incluindo sistemas de defesa aérea, depósitos de drones e mísseis, e barcos militares de alta velocidade.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html",
+          "publicado_em": "2026-07-10T15:16:05-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-10-2108",
           "titulo": "Líder Supremo do Irã Permanece Ausente, um Vazio no Topo do Regime",
           "resumo": "O aiatolá Mojtaba Khamenei não apareceu no funeral de seu pai esta semana, alimentando especulações sobre sua condição física e deixando um vazio de poder em um país dividido.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html",
-          "publicado_em": "2026-07-10T09:00:06.000Z"
+          "publicado_em": "2026-07-10T16:00:29-03:00"
         },
         {
-          "id": "new_york_times-2026-07-10-1002",
-          "titulo": "EUA e Irã Estão Lutando Novamente. O Cease-Fire Acabou?",
-          "resumo": "Eric Schmitt, correspondente de Segurança Nacional do New York Times, analisa os recentes confrontos entre os EUA e o Irã e se eles ameaçam as negociações em andamento para um acordo de paz.",
+          "id": "new_york_times-2026-07-10-2109",
+          "titulo": "Armadores Enfrentam Dilema Cada Vez Mais Profundo à Medida que os EUA e o Irã Disputam o Controle do Estreito",
+          "resumo": "Empresas desesperadamente querem que seus navios passem pelo Estreito de Ormuz, mas enfrentam riscos crescentes. 'As coisas estão ficando feias a cada minuto', disse um executivo.",
           "imagem": null,
-          "link": "https://www.nytimes.com/video/us/politics/100000011019171/the-us-and-iran-are-fighting-again-is-the-cease-fire-over.html",
-          "publicado_em": "2026-07-10T02:23:38.000Z"
+          "link": "https://www.nytimes.com/2026/07/10/business/iran-shipping-strait-of-hormuz.html",
+          "publicado_em": "2026-07-10T18:02:56-03:00"
         },
         {
-          "id": "new_york_times-2026-07-10-1003",
-          "titulo": "Bombas no Irã, Então um Acordo Tentativo Não Funcionou. O Trump Tem um Plano C?",
-          "resumo": "A administração parece estar revertendo para uma abordagem de todos os pauzinhos, sem cenoura. Mas ainda não respondeu por que acredita que a guerra econômica e os bombardeios vão produzir um resultado diferente desta vez.",
+          "id": "new_york_times-2026-07-10-2110",
+          "titulo": "Democratas Assombrados pela Troca Biden-Harris à Medida que Substituem Platner no Maine",
+          "resumo": "A corrida de última hora para nomear um substituto lembra alguns no partido dos desafios que enfrentaram em 2024.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/09/us/politics/trump-iran-war.html",
-          "publicado_em": "2026-07-10T01:05:12.000Z"
+          "link": "https://www.nytimes.com/2026/07/10/us/platner-replacement-maine-biden-harris.html",
+          "publicado_em": "2026-07-10T17:57:28-03:00"
         },
         {
-          "id": "new_york_times-2026-07-10-1004",
+          "id": "new_york_times-2026-07-10-2111",
+          "titulo": "Democratas do Maine Preveem Convenção no Fim de Julho para Escolher Substituto de Platner",
+          "resumo": "Com planos ainda sendo finalizados, funcionários estão discutindo uma convenção durante o fim de semana de 25-26 de julho e estão avaliando opções para escolher delegados.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/10/us/maine-democrats-platner-replacement-convention.html",
+          "publicado_em": "2026-07-10T20:08:35-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-10-2115",
+          "titulo": "Trump Diz que Não Assinará Projeto de Lei de Habitação em Protesto contra Medida de Votação Paralisada",
+          "resumo": "O presidente não disse que vetaria a legislação de habitação, então ela ainda se tornaria lei a menos que ele o faça. Mas sua declaração reflete uma fissura crescente entre ele e os republicanos do Senado.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/10/us/politics/trump-housing-bill.html",
+          "publicado_em": "2026-07-10T15:28:22-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-10-2116",
           "titulo": "Novo Air Force One Carece de Contra-Medidas Defensivas do Modelo Anterior, Dizem Oficiais",
           "resumo": "Especialistas disseram que a falta de tais capacidades representa um risco potencial quando o presidente viaja para o exterior. A Casa Branca defendeu a segurança da aeronave.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/09/us/politics/new-air-force-one-defensive-countermeasures.html",
-          "publicado_em": "2026-07-10T00:47:57.000Z"
+          "publicado_em": "2026-07-10T00:47:57-03:00"
         },
         {
-          "id": "new_york_times-2026-07-10-1005",
-          "titulo": "Homem Mexicano Morto a Tiros Pela ICE Não Era o Alvo Pretendido",
-          "resumo": "Oficiais disseram que os agentes acreditavam que um passageiro se parecia com um suspeito, mas o encontro rapidamente se transformou em um tiroteio fatal.",
+          "id": "new_york_times-2026-07-10-2117",
+          "titulo": "Um Assassino Envelhecido Foi Preso pelo ICE. Os EUA o Deportarão?",
+          "resumo": "Ele ajudou a planejar um atentado a bomba em Washington que matou duas pessoas em 1976. Cinquenta anos depois, segredos governamentais antigos podem decidir seu destino.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/09/us/witnesses-houston-ice-shooting.html",
-          "publicado_em": "2026-07-10T06:18:27.000Z"
+          "link": "https://www.nytimes.com/2026/07/10/us/politics/assassin-caught-by-ice-chile.html",
+          "publicado_em": "2026-07-10T17:14:19-03:00"
         },
         {
-          "id": "new_york_times-2026-07-10-1007",
-          "titulo": "Comida Contaminada, Mãos Não Lavadas: Dentro de um Centro de Detenção da ICE",
-          "resumo": "Detentos no centro Delaney Hall, em Newark, reclamaram por meses sobre condições de vida sujas e insalubres. Documentos ecoam suas reclamações.",
+          "id": "new_york_times-2026-07-10-2118",
+          "titulo": "Homem Preso sob Suspeita de Assassinar Ann Widdecombe, Ex-Política do Reino Unido",
+          "resumo": "A polícia disse que havia prendido um homem britânico de 26 anos após Ann Widdecombe, uma ex-parlamentar de 78 anos, ser encontrada morta com ferimentos graves na quinta-feira.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/10/nyregion/delaney-hall-ice-conditions-unsanitary.html",
-          "publicado_em": "2026-07-10T07:00:13.000Z"
+          "link": "https://www.nytimes.com/2026/07/10/world/europe/murder-investigation-uk-ann-widdecombe.html",
+          "publicado_em": "2026-07-10T17:35:52-03:00"
         },
         {
-          "id": "new_york_times-2026-07-10-1012",
-          "titulo": "Após Terremotos na Venezuela, uma Liga de Beisebol Juvenil Conta os Mortos",
-          "resumo": "Crianças que jogavam na liga de beisebol juvenil da Venezuela, um símbolo de orgulho nacional, foram deixadas feridas, órfãs ou mortas.",
+          "id": "new_york_times-2026-07-10-2124",
+          "titulo": "Como uma Tempestade Mortal Pegou os Barqueiros de Wisconsin de Surpresa",
+          "resumo": "Três crianças morreram no fim de semana passado quando uma tempestade gerou ventos de 80 milhas por hora e ondas grandes no Lago Geneva, em Wisconsin.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/10/world/americas/venezuela-earthquake-death-baseball-los-criollitos.html",
-          "publicado_em": "2026-07-10T09:01:59.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-10-1013",
-          "titulo": "12 Pessoas Morrem em Incêndio Florestal no Sul da Espanha",
-          "resumo": "O incêndio em Andalusia provocou uma grande operação de contenção. Ondas de calor em toda a Europa neste verão aumentaram o risco de incêndios como esse, dizem os meteorologistas.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html",
-          "publicado_em": "2026-07-10T08:18:51.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-10-1014",
-          "titulo": "Combater Incêndios com Números, Esses Especialistas Estão Tentando Impedir que a Europa Queime",
-          "resumo": "Uma equipe de engenheiros, silvicultores e cientistas está ajudando o continente a se preparar para incêndios florestais a partir de um grande parque científico na Itália. Seu arsenal inclui satélites, modelos meteorológicos e análise especializada.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/10/world/europe/fire-climate-change-heat-wave-global-warming.html",
-          "publicado_em": "2026-07-10T09:00:43.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-10-1020",
-          "titulo": "Administração Trump Demite Membros de Grupo Eleitoral Independente",
-          "resumo": "As demissões e uma renúncia tornam a Comissão de Assistência Eleitoral inútil. As medidas vêm enquanto o presidente Trump busca impor controle sobre como os votos serão contados nas eleições de meio de mandato.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/10/us/politics/trump-fires-election-assistance-commission-members.html",
-          "publicado_em": "2026-07-10T04:19:08.000Z"
+          "link": "https://www.nytimes.com/2026/07/10/weather/lake-geneva-wisconsin-storm-what-happened.html",
+          "publicado_em": "2026-07-10T19:28:13-03:00"
         }
       ]
     },
