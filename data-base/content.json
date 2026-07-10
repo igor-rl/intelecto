@@ -636,127 +636,167 @@
     "mt": {
       "slug": "mt",
       "nome": "The Moscow Times",
-      "gerado_em": "2026-07-10T10:46:13.728Z",
+      "gerado_em": "2026-07-10T21:46:22.693Z",
       "artigos": [
         {
-          "id": "mt-2026-07-10-01",
-          "titulo": "Nova Imagem de Satélite Mostra Vazamento de Óleo Renovado do Navio Afundado no Mar Negro em 2024",
-          "resumo": "O navio original liberou milhares de toneladas de combustível pesado, conhecido como mazut, no que foi descrito como o pior desastre ambiental da região do Mar Negro nas últimas décadas.",
+          "id": "mt-2026-07-10-2101",
+          "titulo": "Político Anti-Guerra Boris Nadezhdin é Considerado 'Agente Estrangeiro'",
+          "resumo": "A designação ocorre quase um mês após Nadezhdin ter apresentado documentos para concorrer à Duma Estadual da Rússia em setembro. Agentes estrangeiros são proibidos de concorrer a qualquer cargo eletivo sob a lei russa...",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/10/anti-war-politician-boris-nadezhdin-branded-foreign-agent-a93222",
+          "publicado_em": "2026-07-10T15:39:36.000Z"
+        },
+        {
+          "id": "mt-2026-07-10-2102",
+          "titulo": "Regiões Russas Iniciam Racionamento de Gasolina em Dias Ímpares e Pares",
+          "resumo": "Motoristas com placas de veículos iniciadas com um dígito ímpar podem comprar gasolina em dias ímpares do mês. Aqueles com placas iniciadas com um dígito par — considerando zero como par — podem comprar em dias pares...",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/10/russian-regions-begin-odd-even-gasoline-rationing-a93220",
+          "publicado_em": "2026-07-10T15:08:58.000Z"
+        },
+        {
+          "id": "mt-2026-07-10-2103",
+          "titulo": "Moscou em Negociações com a Turquia sobre Possível Revenda de Sistemas de Mísseis",
+          "resumo": "A mídia turca relatou que a Turquia pode anunciar a revenda dos S-400s para uma das nações do Golfo já na sexta-feira, a fim de persuadir os EUA a levantar sanções contra Ancara.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/10/moscow-in-talks-with-turkey-about-possible-resale-of-missile-systems-a93221",
+          "publicado_em": "2026-07-10T14:46:10.000Z"
+        },
+        {
+          "id": "mt-2026-07-10-2104",
+          "titulo": "Blogueiro Pró-Guerra 'Décimo Terceiro' Preso por Incitar Ódio, Afirma Canal do Telegram",
+          "resumo": "O canal do Telegram de Yegor Guzenko, com quase 230.000 inscritos, disse que ele também pode estar enfrentando acusações de 'extremismo'.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/10/pro-war-blogger-thirteenth-arrested-for-inciting-hatred-telegram-channel-claims-a93219",
+          "publicado_em": "2026-07-10T14:16:10.000Z"
+        },
+        {
+          "id": "mt-2026-07-10-2105",
+          "titulo": "Rússia Diz que Ampliará 'Zona de Buffer' em Resposta a Ataques Ucranianos",
+          "resumo": "“Quanto mais Quieve tentar escalar, mais vamos manter a expansão dessa zona de segurança mais ampla”, disse o porta-voz Dmitry Peskov.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/10/russia-says-it-will-widen-buffer-zone-in-response-to-ukrainian-strikes-a93217",
+          "publicado_em": "2026-07-10T11:40:44.000Z"
+        },
+        {
+          "id": "mt-2026-07-10-2106",
+          "titulo": "Nova Imagem de Satélite Mostra Vazamento de Óleo Renovado de Naufrágio no Mar Negro de 2024",
+          "resumo": "O naufrágio original liberou milhares de toneladas métricas de combustível pesado, conhecido como mazut, no que foi descrito como o pior desastre ambiental da região do Mar Negro em décadas.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/10/new-satellite-imagery-shows-renewed-oil-leak-from-2024-black-sea-wreck-a93216",
-          "publicado_em": "2026-07-10T09:18:00-03:00"
+          "publicado_em": "2026-07-10T09:18:00.000Z"
         },
         {
-          "id": "mt-2026-07-10-02",
+          "id": "mt-2026-07-10-2107",
           "titulo": "Ucrânia Ataca Refinaria de Petróleo no Sul da Rússia",
-          "resumo": "As autoridades na cidade de Taganrog evacuaram alguns moradores de suas casas após um ataque separado a um porto.",
+          "resumo": "As autoridades na cidade de Taganrog evacuaram alguns moradores de suas casas após um ataque separado a um porto marítimo.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/10/ukraine-strikes-oil-refinery-in-southern-russia-a93215",
-          "publicado_em": "2026-07-10T07:32:00-03:00"
+          "publicado_em": "2026-07-10T07:32:00.000Z"
         },
         {
-          "id": "mt-2026-07-10-03",
+          "id": "mt-2026-07-10-2108",
           "titulo": "Regiões Chamando: O Hub de Produção de Combustível da Rússia Luta para Superar a Crise de Abastecimento",
-          "resumo": "Mesmo Bashkortostan, o principal produtor de diesel e gasolina da Rússia, está sentindo o impacto da crise de combustível deste verão.",
+          "resumo": "Mesmo Bashkortostan, o principal produtor russo de diesel e gasolina, está sentindo o impacto da crise de combustível deste verão.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/09/regions-calling-russias-fuel-producing-hub-struggles-to-shake-off-supply-crisis-a93210",
-          "publicado_em": "2026-07-09T16:33:00-03:00"
+          "publicado_em": "2026-07-09T16:33:00.000Z"
         },
         {
-          "id": "mt-2026-07-10-04",
+          "id": "mt-2026-07-10-2109",
           "titulo": "Tribunal Polonês Condena Ativista Russo e Esposa por Espionagem para o FSB",
-          "resumo": "Igor Rogov, um ex-funcionário da extinta organização sem fins lucrativos Open Russia, foi condenado a sete anos de prisão por passar informações sobre grupos e ativistas da oposição russa baseados na Polônia para o...",
+          "resumo": "Igor Rogov, ex-funcionário da extinta organização não governamental Open Russia, foi condenado a sete anos de prisão por passar informações sobre grupos e ativistas da oposição russa baseados na Polônia para o FSB.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/09/polish-court-jails-russian-activist-and-wife-for-spying-for-fsb-a93213",
-          "publicado_em": "2026-07-09T15:02:09-03:00"
+          "publicado_em": "2026-07-09T15:02:09.000Z"
         },
         {
-          "id": "mt-2026-07-10-05",
+          "id": "mt-2026-07-10-2110",
           "titulo": "Juiz de Moscou Condena Ativista Veterano Lev Ponomaryov a 5,5 Anos de Prisão em Ausência",
-          "resumo": "Um juiz condenou Ponomaryov por não cumprir suas obrigações de \"agente estrangeiro\" e por participar de uma organização \"indesejada\".",
+          "resumo": "Um juiz condenou Ponomaryov por evitar suas obrigações como 'agente estrangeiro' e por participar de uma organização 'indesejada'.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/09/moscow-judge-sentences-veteran-activist-lev-ponomaryov-to-55-years-in-prison-in-absentia-a93212",
-          "publicado_em": "2026-07-09T13:59:02-03:00"
+          "publicado_em": "2026-07-09T13:59:00.000Z"
         },
         {
-          "id": "mt-2026-07-10-06",
-          "titulo": "FSB Alega Ter Frustado Planos de Assassinato Ucranianos Contra Oficiais Militares",
-          "resumo": "A FSB acusou a inteligência ucraniana de recrutar uma jovem mulher de Moscou e um ex-presidiário russo que vive na Ucrânia para realizar os ataques.",
+          "id": "mt-2026-07-10-2111",
+          "titulo": "FSB Afirma Ter Frustado Planos de Assassinato Ucranianos Contra Oficiais Militares",
+          "resumo": "O FSB acusou a inteligência ucraniana de recrutar uma jovem mulher de Moscou e um ex-presidiário russo vivendo na Ucrânia para realizar os ataques.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/09/fsb-claims-it-foiled-ukrainian-assassination-plots-against-military-officials-a93209",
-          "publicado_em": "2026-07-09T13:11:41-03:00"
+          "publicado_em": "2026-07-09T13:11:41.000Z"
         },
         {
-          "id": "mt-2026-07-10-07",
+          "id": "mt-2026-07-10-2112",
           "titulo": "Rússia e Estados do Sahel Prometem Fortalecer Laços Militares em Meio a Ataques de Insurgentes",
           "resumo": "A Rússia disse que continuará a ajudar a fortalecer as forças armadas de Mali, Níger e Burkina Faso.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/09/russia-and-sahel-states-pledge-stronger-military-ties-amid-insurgent-attacks-a93211",
-          "publicado_em": "2026-07-09T12:16:13-03:00"
+          "publicado_em": "2026-07-09T12:16:13.000Z"
         },
         {
-          "id": "mt-2026-07-10-08",
+          "id": "mt-2026-07-10-2113",
           "titulo": "Itália Expulsa 2 Funcionários da Embaixada Russa por Espionagem",
           "resumo": "O Ministério das Relações Exteriores da Rússia disse que responderia à expulsão dos dois funcionários pela Itália.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/09/italy-expels-2-russian-embassy-employees-for-spying-a93208",
-          "publicado_em": "2026-07-09T11:59:24-03:00"
+          "publicado_em": "2026-07-09T11:59:24.000Z"
         },
         {
-          "id": "mt-2026-07-10-09",
+          "id": "mt-2026-07-10-2114",
           "titulo": "Tribunal do Cazaquistão Derruba Prêmio de Arbitragem de US$ 1,4 Bilhão da Naftogaz Contra a Gazprom",
-          "resumo": "O Centro Financeiro Internacional de Astana havia decidido anteriormente que a empresa estatal de óleo e gás da Ucrânia, Naftogaz, poderia cobrar um prêmio de arbitragem internacional de US$ 1,4 bilhão da Gazprom da Rússia.",
+          "resumo": "O Centro Financeiro Internacional de Astana havia decidido anteriormente que a empresa estatal de óleo e gás da Ucrânia, Naftogaz, poderia cobrar um prêmio de arbitragem internacional de US$ 1,4 bilhão da Gazprom russa.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/09/kazakhstan-court-overturns-14bln-naftogaz-arbitration-award-against-gazprom-a93207",
-          "publicado_em": "2026-07-09T10:22:40-03:00"
+          "publicado_em": "2026-07-09T10:22:40.000Z"
         },
         {
-          "id": "mt-2026-07-10-10",
+          "id": "mt-2026-07-10-2115",
           "titulo": "Drones Ucranianos Atacam Instalações e Petroleiros Russos",
-          "resumo": "Pelo menos uma pessoa foi morta na Crimeia anexada durante os ataques aéreos noturnos, que atingiram sites industriais em todo o país.",
+          "resumo": "Pelo menos uma pessoa foi morta na Crimeia anexada durante os ataques aéreos noturnos, que visaram sites industriais em todo o país.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/09/ukrainian-drones-strike-russian-oil-sites-and-tankers-a93206",
-          "publicado_em": "2026-07-09T09:25:32-03:00"
+          "publicado_em": "2026-07-09T09:25:32.000Z"
         },
         {
-          "id": "mt-2026-07-10-11",
-          "titulo": "Trump Rejeita Novas Sanções Contra a Rússia na Cúpula da OTAN Cheia de Grandes Gastos e Emoções",
-          "resumo": "Apesar da postura agressiva de Trump no início da cúpula, ele mais tarde adotou uma nota mais promissora com Zelensky.",
+          "id": "mt-2026-07-10-2116",
+          "titulo": "Corpos de Meninas de 12 Anos Desaparecidas Encontrados no Rio Ienissei, na Sibéria",
+          "resumo": "As duas meninas desapareceram na república de Tyva, na Sibéria, no início do mês.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/09/bodies-of-missing-12-year-old-girls-found-in-siberias-yenisei-river-a93205",
+          "publicado_em": "2026-07-09T08:23:22.000Z"
+        },
+        {
+          "id": "mt-2026-07-10-2117",
+          "titulo": "Trump Rejeita Novas Sanções à Rússia na Cúpula da OTAN Cheia de Grandes Gastos e Emoções",
+          "resumo": "Apesar da postura agressiva de Trump na abertura da cúpula, ele mais tarde adotou uma nota mais promissora com Zelensky.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/09/trump-rejects-new-russia-sanctions-at-nato-summit-filled-with-big-spending-and-big-emotions-a93204",
-          "publicado_em": "2026-07-08T21:51:00-03:00"
+          "publicado_em": "2026-07-08T21:51:00.000Z"
         },
         {
-          "id": "mt-2026-07-10-12",
+          "id": "mt-2026-07-10-2118",
           "titulo": "Belgorod Pede que Oficiais Ajam à Medida que Ataques Ucranianos Intensificam Falhas de Infraestrutura",
-          "resumo": "As autoridades regionais estão sendo acusadas de não restaurar a água e a eletricidade rapidamente o suficiente após os ataques repetidos.",
+          "resumo": "As autoridades regionais estão sendo acusadas de falhar em restaurar água e eletricidade rapidamente o suficiente após os ataques repetidos.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/08/belgorod-pleads-for-officials-to-act-as-ukrainian-strikes-intensify-infrastructure-failures-a93203",
-          "publicado_em": "2026-07-08T16:48:00-03:00"
+          "publicado_em": "2026-07-08T16:48:00.000Z"
         },
         {
-          "id": "mt-2026-07-10-13",
+          "id": "mt-2026-07-10-2119",
           "titulo": "Rússia Proíbe Exportações de Diesel para Garantir Abastecimento Doméstico Após Ataques de Drones Ucranianos",
-          "resumo": "O governo disse que a proibição, que inclui os produtores de combustível, estará em vigor até 31 de julho.",
+          "resumo": "O governo disse que a proibição, que inclui produtores de combustível, permanecerá em vigor até 31 de julho.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/08/russia-bans-diesel-exports-to-ensure-domestic-supply-after-targeted-ukrainian-drone-strikes-a93202",
-          "publicado_em": "2026-07-08T15:58:00-03:00"
+          "publicado_em": "2026-07-08T15:58:00.000Z"
         },
         {
-          "id": "mt-2026-07-10-14",
-          "titulo": "Rússia e Estados do Sahel Prometem Fortalecer Laços Militares em Meio a Ataques de Insurgentes",
-          "resumo": "A Rússia disse que continuará a ajudar a fortalecer as forças armadas de Mali, Níger e Burkina Faso.",
+          "id": "mt-2026-07-10-2120",
+          "titulo": "Empresários de Sakha Enfrentam Reação nas Redes Sociais por Caça a Leões na África do Sul",
+          "resumo": "Moradores de Sakha, uma república no Extremo Oriente Russo, disseram que a caça entrava em conflito com as longas tradições de caça da região.",
           "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/09/russia-and-sahel-states-pledge-stronger-military-ties-amid-insurgent-attacks-a93211",
-          "publicado_em": "2026-07-09T12:16:13-03:00"
-        },
-        {
-          "id": "mt-2026-07-10-15",
-          "titulo": "Itália Expulsa 2 Funcionários da Embaixada Russa por Espionagem",
-          "resumo": "O Ministério das Relações Exteriores da Rússia disse que responderia à expulsão dos dois funcionários pela Itália.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/09/italy-expels-2-russian-embassy-employees-for-spying-a93208",
-          "publicado_em": "2026-07-09T11:59:24-03:00"
+          "link": "https://www.themoscowtimes.com/2026/07/08/sakha-entrepreneurs-face-social-media-backlash-over-south-africa-lion-hunt-a93196",
+          "publicado_em": "2026-07-08T15:52:04.000Z"
         }
       ]
     },
