@@ -279,79 +279,71 @@
     "scmp": {
       "slug": "scmp",
       "nome": "South China Morning Post",
-      "gerado_em": "2026-07-11T10:15:31.387Z",
+      "gerado_em": "2026-07-11T21:15:33.795Z",
       "artigos": [
         {
-          "id": "scmp-2026-07-11-1001",
-          "titulo": "Diplomatas da China e da Índia apertam as mãos, mas não há restrições para os usuários da web. Por quê?",
+          "id": "scmp-2026-07-11-2102",
+          "titulo": "Assassinatos desencadeados sob Trump assombram o fim da guerra com o Irã",
+          "resumo": "Antes de o presidente dos EUA, Donald Trump, encerrar um cessar-fogo com o Irã, funcionários israelenses apresentaram à sua equipe inteligência indicando que Teerã estava tramando novos planos para matá-lo.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/12/736142ee-3dfc-4b10-85ca-10759d3b8154_634335db.jpg?itok=6aSg5q5V&v=1783798686",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3360251/assassinations-unleashed-under-trump-haunt-iran-war-endgame?utm_source=rss_feed",
+          "publicado_em": "2026-07-11T19:38:14.000Z"
+        },
+        {
+          "id": "scmp-2026-07-11-2104",
+          "titulo": "Democrata dos EUA, Ro Khanna, 'detido' por colonos israelenses durante visita à Cisjordânia",
+          "resumo": "O democrata dos EUA, Ro Khanna, disse que foi detido por colonos israelenses armados com rifles feitos nos EUA durante uma visita à Cisjordânia nesta semana, que ele descreveu como um olhar sem filtro sobre o custo humano da ocupação israelense.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/11/a72998f2-d9d4-4bcd-97a1-3cb96346f7c9_a2026576.jpg?itok=5BNrxupd&v=1783782723",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3360247/us-democrat-ro-khanna-detained-israeli-settlers-during-west-bank-visit?utm_source=rss_feed",
+          "publicado_em": "2026-07-11T15:12:07.000Z"
+        },
+        {
+          "id": "scmp-2026-07-11-2105",
+          "titulo": "Quadro G2 formal entre China e EUA é fundamental para 'garantir' a paz mundial, afirma conselheiro de Pequim",
+          "resumo": "Um quadro G2 'institucionalizado' entre China e EUA poderia oferecer uma 'garantia estrutural' para a paz global em um mundo assolado por crises, disse um conselheiro de alto nível de Pequim.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/11/c51b897e-e9b1-4558-97e7-21972def52a2_3f05aaaf.jpg?itok=cL702_N1&v=1783775123",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3360235/formal-china-us-g2-framework-key-guarantee-world-peace-top-beijing-adviser?utm_source=rss_feed",
+          "publicado_em": "2026-07-11T14:30:05.000Z"
+        },
+        {
+          "id": "scmp-2026-07-11-2107",
+          "titulo": "Barco de turismo vira e mata 15 turistas indianos no Vietnã",
+          "resumo": "Um barco que retornava de uma viagem à ilha no sul do Vietnã virou e matou 15 turistas indianos a menos de meio quilômetro da costa, enquanto os passageiros pediam ajuda, disseram os funcionários.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/11/67895bd3-87c8-41a5-9d26-2c29e0afcd81_ff5d3510.jpg?itok=xWiCaToL&v=1783779293",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3360241/vietnam-tourist-speedboat-capsizes-killing-15-indian-tourists?utm_source=rss_feed",
+          "publicado_em": "2026-07-11T14:10:05.000Z"
+        },
+        {
+          "id": "scmp-2026-07-11-2110",
+          "titulo": "Trump intima jornalistas sobre relatórios de segurança do Air Force One",
+          "resumo": "A administração Trump intimou vários jornalistas do New York Times após um relatório sobre preocupações de segurança envolvendo o novo Air Force One, de acordo com o jornal.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/11/8e96f321-1eef-434c-8c98-8791fc724442_314c338a.jpg?itok=cqDD1bkw&v=1783775997",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3360237/trump-subpoenas-journalists-over-qatari-air-force-one-reporting?utm_source=rss_feed",
+          "publicado_em": "2026-07-11T13:20:02.000Z"
+        },
+        {
+          "id": "scmp-2026-07-11-2115",
+          "titulo": "Ucrânia pressiona aliados por reabastecimento à medida que a Rússia lança mísseis balísticos",
+          "resumo": "A Rússia atacou a Ucrânia com mísseis e drones no sábado, matando duas pessoas e ferindo 19 outras, disseram os funcionários, enquanto Kiev aguarda o fornecimento de munições de defesa aérea após uma escassez que a deixou exposta.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/11/ef8523ab-d6ed-4bf4-b6cc-f49d1b4d8d31_ea350b8c.jpg?itok=T_-EPsHE&v=1783770491",
+          "link": "https://www.scmp.com/news/world/europe/article/3360232/ukraine-presses-allies-resupply-russia-launches-ballistic-missiles?utm_source=rss_feed",
+          "publicado_em": "2026-07-11T11:48:18.000Z"
+        },
+        {
+          "id": "scmp-2026-07-11-2118",
+          "titulo": "Diplomatas da China e da Índia apertam as mãos, mas é sem limites para os usuários da web. Por quê?",
           "resumo": "A tentativa do embaixador chinês na Índia de construir pontes desencadeou uma forte reação nacionalista em casa, incluindo acusações de que ele perdeu de vista seu papel.",
           "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/11/03267977-f880-4643-b503-f2c92ebedbb6_eb1d374c.jpg?itok=6djjV7AV&v=1783753786",
           "link": "https://www.scmp.com/news/china/diplomacy/article/3359996/china-india-diplomats-are-shaking-hands-its-no-holds-barred-web-users-why?utm_source=rss_feed",
-          "publicado_em": "2026-07-11T10:00:07-03:00"
+          "publicado_em": "2026-07-11T10:00:07.000Z"
         },
         {
-          "id": "scmp-2026-07-11-1002",
+          "id": "scmp-2026-07-11-2119",
           "titulo": "Nova Zelândia e Índia celebram pacto de comércio e defesa apesar de críticas",
           "resumo": "A Nova Zelândia e a Índia anunciaram no sábado a criação de uma parceria estratégica que abrange defesa e segurança, durante uma visita histórica do primeiro-ministro Narendra Modi.",
           "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/11/9ced4b8a-d694-454c-96d2-6caeee9356fe_fba555e5.jpg?itok=I55mlLR-&v=1783763739",
           "link": "https://www.scmp.com/news/asia/australasia/article/3360224/new-zealand-india-trade-defence-pact-celebrated-despite-criticism?utm_source=rss_feed",
-          "publicado_em": "2026-07-11T09:55:40-03:00"
-        },
-        {
-          "id": "scmp-2026-07-11-1004",
-          "titulo": "Tufão Bavi: mais de 130 voos conectando Hong Kong à região são cancelados",
-          "resumo": "Mais de 130 voos entre Hong Kong, Taiwan, China continental e Japão foram cancelados, enquanto 10 serviços de trem de alta velocidade foram suspensos, pois o tufão Bavi se aproxima da costa leste da China.",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/11/1504d1b1-55d1-480b-ac2a-5f5efebbbaf3_892b53f3.jpg?itok=G6RNJuJO&v=1783761389",
-          "link": "https://www.scmp.com/news/hong-kong/transport/article/3360218/typhoon-bavi-more-130-flights-connecting-hong-kong-region-axed?utm_source=rss_feed",
-          "publicado_em": "2026-07-11T09:16:30-03:00"
-        },
-        {
-          "id": "scmp-2026-11-1005",
-          "titulo": "Erdogan defende partos 'naturais' em meio a alta taxa de cesarianas na Turquia",
-          "resumo": "O Ministério da Saúde da Turquia multou mais de 100 obstetras por realizarem cesarianas, suspendendo-os de suas funções e forçando-os a realizar treinamento.",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/11/6377e08c-49ba-4858-a2c2-b0958a7eb890_88e13270.jpg?itok=0MP_QyYw&v=1783760581",
-          "link": "https://www.scmp.com/news/world/middle-east/article/3360215/erdogan-pushes-natural-births-amid-turkeys-high-c-section-rate?utm_source=rss_feed",
-          "publicado_em": "2026-07-11T09:03:08-03:00"
-        },
-        {
-          "id": "scmp-2026-07-11-1011",
-          "titulo": "Como as sanções sobrepostas dos EUA e da China estão complicando os negócios na África",
-          "resumo": "As sanções impostas pelos EUA a outros países e a lista crescente de leis chinesas destinadas a contrariar essas medidas estão criando um campo minado de conformidade para as empresas africanas que lidam com as principais potências mundiais.",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/10/49dd8dbf-47d5-4c2d-b88e-67e17e701e30_d79fd2d1.jpg?itok=ZSrQ7FUV&v=1783676462",
-          "link": "https://www.scmp.com/news/china/diplomacy/article/3360121/how-overlapping-us-and-china-sanctions-are-complicating-business-africa?utm_source=rss_feed",
-          "publicado_em": "2026-07-11T06:00:07-03:00"
-        },
-        {
-          "id": "scmp-2026-07-11-1016",
-          "titulo": "Trump diz que mísseis estão 'carregados, preparados e apontados para o Irã' em meio a pedidos por sua morte",
-          "resumo": "O presidente dos EUA, Donald Trump, ameaçou o Irã no sábado, após o funeral do líder supremo, Ayatollah Ali Khamenei, que viu pedidos abertos por sua morte, realçando ainda mais as tensões que afetam o Oriente Médio.",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/11/81183f8e-3da2-4123-b9ac-eae829289977_dde7edac.jpg?itok=mDjUTL5B&v=1783741909",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3360203/trump-says-missiles-locked-loaded-and-aimed-iran-amid-calls-his-killing?utm_source=rss_feed",
-          "publicado_em": "2026-07-11T03:51:54-03:00"
-        },
-        {
-          "id": "scmp-2026-07-11-1017",
-          "titulo": "Chefe de defesa das Filipinas diz que negociações com a China 'não são possíveis' à medida que leis anti-espionagem se aproximam",
-          "resumo": "Para um homem sancionado por Pequim, proibido de visitar a China e acusado de danificar os laços bilaterais, Gilberto Teodoro Jnr soou surpreendentemente calmo.",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/10/1825997b-efc9-4366-a3e2-72253b8d1d34_306f25dd.jpg?itok=xpX7P136&v=1783681725",
-          "link": "https://www.scmp.com/week-asia/politics/article/3360153/philippine-defence-chief-says-china-talks-not-possible-anti-spy-laws-loom?utm_source=rss_feed",
-          "publicado_em": "2026-07-11T03:00:08-03:00"
-        },
-        {
-          "id": "scmp-2026-07-11-1018",
-          "titulo": "Tufão Bavi: Taiwan cancela voos e ferryboats à medida que a China continental se prepara para a tempestade",
-          "resumo": "O tufão Bavi atingiu Taiwan no sábado, interrompendo centenas de voos e serviços de ferry, ferindo 36 pessoas e forçando mais de 14.000 pessoas a evacuar, enquanto deixou mais de 150.000 lares sem eletricidade.",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/11/d169c498-c1eb-4c6e-8dc0-15de43f0d3c2_6c6e37cb.jpg?itok=kp5YHsuy&v=1783757609",
-          "link": "https://www.scmp.com/news/china/politics/article/3360201/typhoon-bavi-flights-and-trains-cancelled-china-steps-emergency-preparations?utm_source=rss_feed",
-          "publicado_em": "2026-07-11T02:39:36-03:00"
-        },
-        {
-          "id": "scmp-2026-07-11-1019",
-          "titulo": "Proibição de exportação de diesel da Rússia causa novo golpe no mercado energético já tensionado",
-          "resumo": "A decisão da Rússia de proibir a exportação de diesel esta semana agitou os mercados globais de energia, agravando a escassez do combustível industrial e fazendo os preços dispararem, mesmo em países que não compram mais o produto.",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/11/321ae74d-be68-4198-8446-81a4bbf47b29_b3e2bd43.jpg?itok=tN2FGZwL&v=1783737074",
-          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3360200/russias-diesel-export-ban-deals-fresh-blow-strained-energy-market?utm_source=rss_feed",
-          "publicado_em": "2026-07-11T02:31:20-03:00"
+          "publicado_em": "2026-07-11T09:55:40.000Z"
         }
       ]
     },
