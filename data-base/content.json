@@ -6,11 +6,11 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Dívida externa supera gastos em educação em países em desenvolvimento",
-    "subtitulo": "Relatório da ONU destaca disparidade, enquanto outros temas globais como segurança, meio ambiente e política dominam manchetes",
-    "resumo": "Um relatório recente da Unesco aponta que países em desenvolvimento gastam mais com dívidas estrangeiras do que com educação, afetando 113 países. Enquanto isso, a comunidade internacional lida com questões de segurança, como a morte por ICE em Houston, e o aumento de prisões de imigração nos EUA. A política também está em evidência, com a nomeação de um crítico da ciência climática para supervisionar a avaliação nacional do clima nos EUA. Além disso, a Rússia e a Ucrânia continuam em conflito, com a Rússia ampliando sua 'zona de buffer' em resposta a ataques ucranianos. No meio ambiente, a destruição causada pelo homem supera as estratégias de sobrevivência das espécies, e um incêndio na Espanha perto de Almeria mata 11 pessoas. A China alcança uma recuperação controlada de foguete, e a Nigéria resgata crianças e professores sequestrados. A Ucrânia cria um comando de 'longo alcance' para intensificar ataques à Rússia, e os EUA impõem novas sanções relacionadas ao Irã. O Sudão enfrenta um surto de cólera, e a República Democrática do Congo lida com o Ebola. A Namíbia divide parlamentares, e o desenvolvimento do hidrogênio verde deve criar empregos e indústrias locais. Donald Trump dá instruções caso seja assassinado pelo Irã, e a Telstra enfrenta um apagão nacional. A Austrália Meridional registra o primeiro caso de gripe aviária H5 em uma ave local, e o Rei e a Rainha se reúnem com o Príncipe Harry, Meghan e seus filhos.",
+    "titulo": "Dívida externa vs. educação: desafio global",
+    "subtitulo": "Países em desenvolvimento gastam mais com dívida do que com educação, enquanto a Ucrânia enfrenta ataques russos",
+    "resumo": "Um relatório da Unesco destacou que países em desenvolvimento gastam mais com o serviço da dívida externa do que com educação, afetando a educação de crianças em 113 países. Enquanto isso, a Ucrânia enfrenta ataques russos, com mísseis balísticos e drones atingindo Kiev. A Rússia também está em negociações com a Turquia sobre a possível revenda de sistemas de mísseis. Além disso, a China alcançou a primeira recuperação controlada de um foguete, um marco para o seu programa espacial. Já os EUA estão lidando com a morte de um imigrante em Houston, o que colocou em foco as prisões de imigração no país.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-07-10T08:00:00-03:00",
+    "publicado_em": "2026-07-11T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -825,8 +825,8 @@
   },
   "temas_principais": [
     {
-      "tema": "Dívida externa vs. gastos em educação",
-      "descricao": "Países em desenvolvimento gastam mais com dívidas estrangeiras do que com educação, afetando 113 países.",
+      "tema": "Dívida externa vs. educação",
+      "descricao": "Países em desenvolvimento gastam mais com dívida do que com educação",
       "fontes_que_cobriram": [
         "the_guardian"
       ],
@@ -834,45 +834,45 @@
         "new_york_times",
         "euronews"
       ],
-      "divergencia_de_enquadramento": "A cobertura da The Guardian destaca a disparidade entre gastos com dívida e educação, enquanto outras fontes não abordam o tema."
+      "divergencia_de_enquadramento": "The Guardian destaca o problema, enquanto outros veículos não o mencionam"
     },
     {
-      "tema": "Segurança e política",
-      "descricao": "Morte por ICE em Houston, aumento de prisões de imigração nos EUA, e nomeação de um crítico da ciência climática para supervisionar a avaliação nacional do clima.",
+      "tema": "Ataques russos na Ucrânia",
+      "descricao": "Rússia ataca Kiev com mísseis balísticos e drones",
       "fontes_que_cobriram": [
-        "new_york_times",
-        "euronews"
+        "euronews",
+        "rt",
+        "mt"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian",
-        "scmp"
+        "scmp",
+        "st"
       ],
-      "divergencia_de_enquadramento": "A cobertura da New York Times e da Euronews destaca a morte por ICE e o aumento de prisões de imigração, enquanto a The Guardian e a SCMP não abordam o tema."
+      "divergencia_de_enquadramento": "Euronews e RT destacam a ação russa, enquanto The Moscow Times fala sobre as consequências"
     },
     {
-      "tema": "Conflito Rússia-Ucrânia",
-      "descricao": "Rússia amplia 'zona de buffer' em resposta a ataques ucranianos, e Ucrânia cria comando de 'longo alcance' para intensificar ataques à Rússia.",
+      "tema": "Recuperação controlada de foguete pela China",
+      "descricao": "China alcança marco em seu programa espacial",
       "fontes_que_cobriram": [
-        "rt",
-        "st"
+        "scmp"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
         "the_guardian",
         "new_york_times"
       ],
-      "divergencia_de_enquadramento": "A cobertura da RT e da ST destaca a ampliação da 'zona de buffer' pela Rússia e a criação do comando de 'longo alcance' pela Ucrânia, enquanto outras fontes não abordam o tema."
+      "divergencia_de_enquadramento": "SCMP destaca o feito chinês, enquanto outros veículos não o mencionam"
     }
   ],
   "temas_subcobertos": [
     {
       "tema": "Surto de cólera no Sudão",
-      "por_que_importa": "O surto de cólera no Sudão já matou mais de 100 pessoas e afeta comunidades vulneráveis.",
-      "cobertura": "Apenas a AllAfrica cobriu o tema."
+      "por_que_importa": "Pode afetar comunidades vulneráveis",
+      "cobertura": "Apenas AllAfrica cobriu o tema"
     },
     {
-      "tema": "Desenvolvimento do hidrogênio verde na Namíbia",
-      "por_que_importa": "O desenvolvimento do hidrogênio verde na Namíbia deve criar empregos e indústrias locais.",
-      "cobertura": "Apenas a AllAfrica cobriu o tema."
+      "tema": "Prisões de imigração nos EUA",
+      "por_que_importa": "Coloca em foco a política de imigração no país",
+      "cobertura": "New York Times e SMH mencionam o tema, mas com diferentes enfoques"
     }
   ]
 }
