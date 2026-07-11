@@ -572,28 +572,28 @@
     "mt": {
       "slug": "mt",
       "nome": "The Moscow Times",
-      "gerado_em": "2026-07-11T10:46:05.624Z",
+      "gerado_em": "2026-07-11T21:46:17.046Z",
       "artigos": [
         {
           "id": "mt-2026-07-11-01",
-          "titulo": "Um Morto em Ataque de Drones a Embarcações na Baía de Taganrog, Dizem Autoridades Russas",
+          "titulo": "7 Mortos, Duzentos Feridos em Ataque da Rússia à Ucrânia com Mísseis e Drones",
+          "resumo": "A Rússia lançou seis mísseis balísticos, seis mísseis de cruzeiro e 121 drones, segundo a força aérea da Ucrânia.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/11/10-wounded-in-russian-strike-on-kyiv-a93225",
+          "publicado_em": "2026-07-11T20:47:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-11-02",
+          "titulo": "Um Morto em Ataque de Drone a Embarcações na Baía de Taganrog, Dizem Autoridades Russas",
           "resumo": "Autoridades regionais disseram que mais de uma dúzia de drones foram destruídos durante o ataque.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/11/one-killed-in-drone-strike-on-vessels-in-taganrog-bay-russian-authorities-say-a93224",
           "publicado_em": "2026-07-11T09:28:00.000Z"
         },
         {
-          "id": "mt-2026-07-11-02",
-          "titulo": "10 Feridos em Ataque Russo a Kiev",
-          "resumo": "A Rússia lançou seis mísseis balísticos, seis mísseis de cruzeiro e 121 drones, disse a força aérea da Ucrânia.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/11/10-wounded-in-russian-strike-on-kyiv-a93225",
-          "publicado_em": "2026-07-11T08:17:16.000Z"
-        },
-        {
           "id": "mt-2026-07-11-03",
           "titulo": "Político Anti-Guerra Boris Nadezhdin é Rotulado como 'Agente Estrangeiro'",
-          "resumo": "A designação ocorreu quase um mês após Nadezhdin ter apresentado documentos para concorrer à Duma Estadual da Rússia em setembro.",
+          "resumo": "A designação ocorre quase um mês após Nadezhdin ter apresentado documentos para concorrer à Duma Estadual da Rússia em setembro.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/10/anti-war-politician-boris-nadezhdin-branded-foreign-agent-a93222",
           "publicado_em": "2026-07-10T15:39:36.000Z"
@@ -601,7 +601,7 @@
         {
           "id": "mt-2026-07-11-04",
           "titulo": "Regiões Russas Iniciam Racionamento de Gasolina em Dias Ímpares e Pares",
-          "resumo": "Motoristas com placas de veículos iniciadas com um dígito ímpar podem comprar gasolina em dias ímpares do mês.",
+          "resumo": "Motoristas com placas que começam com um dígito ímpar podem comprar gasolina em dias ímpares do mês.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/10/russian-regions-begin-odd-even-gasoline-rationing-a93220",
           "publicado_em": "2026-07-10T15:08:58.000Z"
@@ -609,7 +609,7 @@
         {
           "id": "mt-2026-07-11-05",
           "titulo": "Moscou Negocia com a Turquia sobre Possível Revenda de Sistemas de Mísseis",
-          "resumo": "A mídia turca relatou que a Turquia pode anunciar que venderá os S-400s a uma das nações do Golfo já na sexta-feira para persuadir os EUA a levantar sanções contra Ancara.",
+          "resumo": "A mídia turca relatou que a Turquia pode anunciar a revenda dos S-400s a uma das nações do Golfo já na sexta-feira.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/10/moscow-in-talks-with-turkey-about-possible-resale-of-missile-systems-a93221",
           "publicado_em": "2026-07-10T14:46:10.000Z"
@@ -625,7 +625,7 @@
         {
           "id": "mt-2026-07-11-07",
           "titulo": "Rússia Diz que Ampliará 'Zona de Buffer' em Resposta a Ataques Ucranianos",
-          "resumo": "“Quanto mais Kiev tentar escalar, mais vamos manter a expansão dessa zona de segurança mais ampla”, disse o porta-voz Dmitry Peskov.",
+          "resumo": "“Quanto mais Kyiv tentar escalar, mais vamos manter a expansão dessa zona de segurança mais ampla”, disse o porta-voz Dmitry Peskov.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/10/russia-says-it-will-widen-buffer-zone-in-response-to-ukrainian-strikes-a93217",
           "publicado_em": "2026-07-10T11:40:44.000Z"
@@ -633,7 +633,7 @@
         {
           "id": "mt-2026-07-11-08",
           "titulo": "Nova Imagem de Satélite Mostra Vazamento de Óleo Renovado de Naufrágio no Mar Negro de 2024",
-          "resumo": "O naufrágio original liberou milhares de toneladas métricas de combustível pesado, conhecido como mazut, no que foi descrito como o pior desastre ambiental da região do Mar Negro em décadas.",
+          "resumo": "O naufrágio original liberou milhares de toneladas de combustível pesado, conhecido como mazut, naquela que foi descrita como a pior catástrofe ambiental na região do Mar Negro em décadas.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/10/new-satellite-imagery-shows-renewed-oil-leak-from-2024-black-sea-wreck-a93216",
           "publicado_em": "2026-07-10T09:18:00.000Z"
@@ -641,15 +641,15 @@
         {
           "id": "mt-2026-07-11-09",
           "titulo": "Ucrânia Ataca Refinaria de Petróleo no Sul da Rússia",
-          "resumo": "As autoridades da cidade de Taganrog evacuaram alguns moradores de suas casas após um ataque separado a um porto marítimo.",
+          "resumo": "Autoridades na cidade de Taganrog evacuaram alguns moradores de suas casas após um ataque separado a um porto marítimo.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/10/ukraine-strikes-oil-refinery-in-southern-russia-a93215",
           "publicado_em": "2026-07-10T07:32:00.000Z"
         },
         {
           "id": "mt-2026-07-11-10",
-          "titulo": "Regiões Chamando: O Hub de Produção de Combustível da Rússia Luta para Superar a Crise de Abastecimento",
-          "resumo": "Mesmo Bashkortostan, o principal produtor russo de diesel e gasolina, está sentindo o impacto da crise de combustível deste verão.",
+          "titulo": "Regiões Chamam: O Hub de Produção de Combustível da Rússia Luta para Superar a Crise de Abastecimento",
+          "resumo": "Mesmo Bashkortostan, o principal produtor russo de diesel e gasolina, sente o impacto da crise de combustível deste verão.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/09/regions-calling-russias-fuel-producing-hub-struggles-to-shake-off-supply-crisis-a93210",
           "publicado_em": "2026-07-09T16:33:00.000Z"
@@ -672,7 +672,7 @@
         },
         {
           "id": "mt-2026-07-11-13",
-          "titulo": "FSB Alega Ter Evitado Planos de Assassinato Ucranianos Contra Oficiais Militares",
+          "titulo": "FSB Afirma Ter Fracassado Planos de Assassinato Ucranianos Contra Oficiais Militares",
           "resumo": "O FSB acusou a inteligência ucraniana de recrutar uma jovem mulher de Moscou e um ex-presidiário russo vivendo na Ucrânia para realizar os ataques.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/09/fsb-claims-it-foiled-ukrainian-assassination-plots-against-military-officials-a93209",
@@ -689,15 +689,15 @@
         {
           "id": "mt-2026-07-11-15",
           "titulo": "Itália Expulsa 2 Funcionários da Embaixada Russa por Espionagem",
-          "resumo": "O Ministério das Relações Exteriores da Rússia disse que responderá à expulsão dos dois funcionários pela Itália.",
+          "resumo": "O Ministério das Relações Exteriores da Rússia disse que responderia à expulsão dos dois funcionários pela Itália.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/09/italy-expels-2-russian-embassy-employees-for-spying-a93208",
           "publicado_em": "2026-07-09T11:59:24.000Z"
         },
         {
           "id": "mt-2026-07-11-16",
-          "titulo": "Tribunal do Cazaquistão Derruba Prêmio de Arbitragem de US$ 1,4 Bilhão da Naftogaz Contra a Gazprom",
-          "resumo": "O Centro Financeiro Internacional de Astana havia decidido anteriormente que a empresa estatal de óleo e gás da Ucrânia, Naftogaz, poderia cobrar um prêmio de arbitragem internacional de US$ 1,4 bilhão da Gazprom russa.",
+          "titulo": "Tribunal do Cazaquistão Derruba Prêmio de Arbitragem de US$ 1,4 Bilhão Contra a Gazprom",
+          "resumo": "O Centro Financeiro Internacional de Astana havia decidido anteriormente que a empresa estatal de óleo e gás da Ucrânia, Naftogaz, poderia cobrar o prêmio de arbitragem internacional de US$ 1,4 bilhão da Gazprom russa.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/09/kazakhstan-court-overturns-14bln-naftogaz-arbitration-award-against-gazprom-a93207",
           "publicado_em": "2026-07-09T10:22:40.000Z"
@@ -705,13 +705,21 @@
         {
           "id": "mt-2026-07-11-17",
           "titulo": "Drones Ucranianos Atacam Instalações e Petroleiros Russos",
-          "resumo": "Pelo menos uma pessoa foi morta na Crimeia anexada durante os ataques aéreos noturnos, que visaram instalações industriais em todo o país.",
+          "resumo": "Pelo menos uma pessoa morreu na Crimeia anexada durante os ataques aéreos noturnos, que visaram instalações industriais em todo o país.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/09/ukrainian-drones-strike-russian-oil-sites-and-tankers-a93206",
           "publicado_em": "2026-07-09T09:25:32.000Z"
         },
         {
           "id": "mt-2026-07-11-18",
+          "titulo": "Corpos de Meninas de 12 Anos Desaparecidas Encontrados no Rio Ienissei, na Sibéria",
+          "resumo": "As duas meninas desapareceram na república de Tyva, na Sibéria, mais cedo este mês.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/09/bodies-of-missing-12-year-old-girls-found-in-siberias-yenisei-river-a93205",
+          "publicado_em": "2026-07-09T08:23:22.000Z"
+        },
+        {
+          "id": "mt-2026-07-11-19",
           "titulo": "Trump Rejeita Novas Sanções à Rússia na Cúpula da OTAN Cheia de Gastos e Emoções",
           "resumo": "Apesar da postura agressiva de Trump na abertura da cúpula, ele mais tarde adotou uma nota mais promissora com Zelensky.",
           "imagem": null,
@@ -719,9 +727,9 @@
           "publicado_em": "2026-07-08T21:51:00.000Z"
         },
         {
-          "id": "mt-2026-07-11-19",
-          "titulo": "Belgorod Pede que Funcionários Ajam à Medida que Ataques Ucranianos Intensificam Falhas de Infraestrutura",
-          "resumo": "As autoridades regionais estão sendo acusadas de falhar em restaurar água e eletricidade rapidamente o suficiente após os ataques repetidos.",
+          "id": "mt-2026-07-11-20",
+          "titulo": "Belgorod Pede que Oficiais Ajam à Medida que Ataques Ucranianos Intensificam Falhas de Infraestrutura",
+          "resumo": "Autoridades regionais estão sendo acusadas de falhar em restaurar água e eletricidade rapidamente o suficiente após os ataques repetidos.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/08/belgorod-pleads-for-officials-to-act-as-ukrainian-strikes-intensify-infrastructure-failures-a93203",
           "publicado_em": "2026-07-08T16:48:00.000Z"
