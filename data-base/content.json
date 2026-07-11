@@ -113,111 +113,71 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-07-11T10:00:02.281Z",
+      "gerado_em": "2026-07-11T21:00:00.831Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-07-11-1001",
-          "titulo": "Morte de imigrante em Houston coloca foco em aumento de prisões de imigração",
-          "resumo": "A morte de Lorenzo Salgado Araujo ocorreu quando a aplicação da lei de imigração aumentou em todo o país, com milhares sendo presos diariamente.",
-          "link": "https://www.nytimes.com/2026/07/10/us/ice-immigration-arrests-surge.html",
+          "id": "new_york_times-2026-07-11-2101",
+          "titulo": "Casa Branca Direcionou Patel para Supervisionar Investigação Envolvendo Relatórios do New York Times",
+          "resumo": "O diretor do FBI passou cerca de oito horas na Casa Branca na sexta-feira, focado no esforço, que levou à intimação de vários repórteres do New York Times que escreveram sobre a segurança do Air Force One.",
           "imagem": null,
-          "publicado_em": "2026-07-10T20:18:35-03:00"
+          "link": "https://www.nytimes.com/2026/07/11/us/politics/white-house-patel-investigation-times.html",
+          "publicado_em": "2026-07-11T20:51:48.000Z"
         },
         {
-          "id": "new_york_times-2026-07-11-1002",
-          "titulo": "Houston investigará como um agente do ICE matou um imigrante mexicano",
-          "resumo": "A agência disse que Lorenzo Salgado Araujo tentou atropelar os agentes com uma van antes de um deles atirar nele. Um advogado dos passageiros disse que isso não era verdade.",
-          "link": "https://www.nytimes.com/2026/07/10/us/houston-ice-shooting-witnesses.html",
+          "id": "new_york_times-2026-07-11-2102",
+          "titulo": "Como Marco Rubio Está Administrando a Venezuela à Distância",
+          "resumo": "O secretário de Estado efetivamente controla as finanças da Venezuela, a distribuição de seus recursos naturais e seu governo. Sua influência sobre o país é uma manifestação vívida do poder americano na região.",
           "imagem": null,
-          "publicado_em": "2026-07-10T22:47:10-03:00"
+          "link": "https://www.nytimes.com/2026/07/11/us/politics/how-marco-rubio-runs-venezuela.html",
+          "publicado_em": "2026-07-11T19:33:26.000Z"
         },
         {
-          "id": "new_york_times-2026-07-11-1003",
-          "titulo": "México apresentará queixa criminal nos EUA sobre mortes de imigrantes",
-          "resumo": "O presidente do país prometeu ir 'além de notas diplomáticas' após um agente de imigração dos EUA ter matado a tiros Lorenzo Salgado Araujo, um homem mexicano, no Texas esta semana.",
-          "link": "https://www.nytimes.com/2026/07/10/world/americas/mexico-criminal-complaints-immigration-deaths-usa.html",
+          "id": "new_york_times-2026-07-11-2103",
+          "titulo": "Postagens de Trump Sobre Crianças Somalis Cantando Desencadeiam Ira em Minnesota",
+          "resumo": "A grande comunidade muçulmana e somali do estado expressou indignação após o presidente republicar uma vídeo de uma cerimônia de formatura de jardim de infância, incluindo comentários notando que as meninas estavam usando hijabs.",
           "imagem": null,
-          "publicado_em": "2026-07-10T20:24:21-03:00"
+          "link": "https://www.nytimes.com/2026/07/11/us/politics/trump-somali-kindergartners.html",
+          "publicado_em": "2026-07-11T17:55:25.000Z"
         },
         {
-          "id": "new_york_times-2026-07-11-1004",
-          "titulo": "Empregadores dos EUA são instruídos a demitir milhares de trabalhadores imigrantes",
-          "resumo": "Prazos que mudam estão confundindo empresas à medida que o fim do status de proteção temporária para haitianos e outros se aproxima, tornando-os inelegíveis para viver e trabalhar nos EUA.",
-          "link": "https://www.nytimes.com/2026/07/10/us/politics/tps-workers-dismissals.html",
+          "id": "new_york_times-2026-07-11-2105",
+          "titulo": "Vídeos Lançam Luz Sobre a Perseguição Antes do Tiro Fatal do ICE em Houston",
+          "resumo": "Imagens de vigilância obtidas pelo New York Times mostram agentes do ICE dirigindo agressivamente em veículos não identificados, mas o momento do tiroteio fatal de Lorenzo Salgado Araujo permanece obscuro.",
           "imagem": null,
-          "publicado_em": "2026-07-11T01:19:02-03:00"
+          "link": "https://www.nytimes.com/2026/07/11/us/houston-ice-video-shooting-salgado-araujo.html",
+          "publicado_em": "2026-07-11T18:47:36.000Z"
         },
         {
-          "id": "new_york_times-2026-07-11-1006",
-          "titulo": "Projeto de lei de habitação bipartidário se torna lei mesmo com Trump se recusando a assiná-lo",
-          "resumo": "Após um prazo de 10 dias, o projeto de lei de habitação se tornou lei à meia-noite sem a assinatura do presidente. No entanto, sua decisão de não assinar reflete uma crescente divisão entre ele e os republicanos do Senado.",
-          "link": "https://www.nytimes.com/2026/07/10/us/politics/trump-housing-bill.html",
+          "id": "new_york_times-2026-07-11-2108",
+          "titulo": "Mojtaba Khamenei Promete Vingança Enquanto o Principal Diplomata do Irã Está em Omã para Negociações",
+          "resumo": "Conflitos recentes entre os EUA e o Irã, e a promessa do aiatolá de vingar a morte de seu pai, erodiram ainda mais uma frágil trégua assinada no mês passado.",
           "imagem": null,
-          "publicado_em": "2026-07-11T04:01:31-03:00"
+          "link": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html",
+          "publicado_em": "2026-07-11T19:21:01.000Z"
         },
         {
-          "id": "new_york_times-2026-07-11-1008",
-          "titulo": "Após ser adiado por Trump, uma ponte entre Canadá e EUA está prestes a ser inaugurada",
-          "resumo": "Um acordo pôs fim ao bloqueio da administração Trump de uma nova ponte que facilitará o congestionamento no corredor comercial mais movimentado entre os EUA e o Canadá.",
-          "link": "https://www.nytimes.com/2026/07/10/world/canada/gordie-howe-bridge-canada-us-michigan.html",
+          "id": "new_york_times-2026-07-11-2109",
+          "titulo": "Israel Atacou uma Instalação de Aço Iraniana. Era um Alvo Militar Válido?",
+          "resumo": "Durante a guerra, Israel atacou as usinas de aço do Irã, alegando que elas forneciam receita e meios para fazer armas para as forças iranianas, mas também prejudicou a economia civil.",
           "imagem": null,
-          "publicado_em": "2026-07-11T06:07:32-03:00"
+          "link": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html",
+          "publicado_em": "2026-07-11T13:26:24.000Z"
         },
         {
-          "id": "new_york_times-2026-07-11-1009",
-          "titulo": "Trump corta proteções de habitat para espécies em extinção",
-          "resumo": "A mudança na regra encerra uma salvaguarda que estava em vigor por 50 anos e pode acelerar o declínio de animais em perigo.",
-          "link": "https://www.nytimes.com/2026/07/10/climate/endangered-species-act-harm.html",
+          "id": "new_york_times-2026-07-11-2112",
+          "titulo": "Um Político Americano é Bloqueado por Colonos Israelenses na Cisjordânia",
+          "resumo": "O representante Ro Khanna foi impedido de sair por 90 minutos. Enquanto líderes americanos do passado visitavam a região para mostrar apoio a Israel, os aspirantes presidenciais democratas de hoje estão indo para fortalecer o apoio.",
           "imagem": null,
-          "publicado_em": "2026-07-10T21:24:08-03:00"
+          "link": "https://www.nytimes.com/2026/07/11/us/politics/ro-khanna-west-bank.html",
+          "publicado_em": "2026-07-11T18:08:25.000Z"
         },
         {
-          "id": "new_york_times-2026-07-11-1010",
-          "titulo": "Trump diz que as negociações com o Irã continuarão à medida que os EUA aumentam os ataques",
-          "resumo": "Forças dos EUA atingiram mais de 170 alvos, incluindo sistemas de defesa aérea, armazenamento de drones e mísseis, e barcos militares de alta velocidade.",
-          "link": "https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html",
+          "id": "new_york_times-2026-07-11-2115",
+          "titulo": "No Sudão, uma Ato Atrocidade Evitável",
+          "resumo": "Centenas de milhares de pessoas no Sudão estão se preparando para sua cidade ser invadida por uma milícia notória por cometer atrocidades.",
           "imagem": null,
-          "publicado_em": "2026-07-11T03:48:02-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-11-1011",
-          "titulo": "Estreito de Ormuz logo será declarado aberto a todo o tráfego, dizem funcionários dos EUA",
-          "resumo": "Os funcionários disseram que os negociadores iranianos culparam as recentes ataques a navios por unidades militares dissidentes.",
-          "link": "https://www.nytimes.com/2026/07/10/us/politics/strait-hormuz-safe-passage.html",
-          "imagem": null,
-          "publicado_em": "2026-07-10T22:32:14-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-11-1012",
-          "titulo": "Jornalistas do New York Times são intimados à medida que Trump aumenta a pressão sobre a mídia",
-          "resumo": "O Departamento de Justiça está tentando compelir o testemunho de repórteres que escreveram sobre o novo Air Force One. O New York Times chamou a medida de 'ato ousado'.",
-          "link": "https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html",
-          "imagem": null,
-          "publicado_em": "2026-07-11T04:10:21-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-11-1013",
-          "titulo": "Novo Air Force One carece de contramedidas defensivas do modelo anterior, dizem funcionários",
-          "resumo": "Especialistas disseram que a falta de tais capacidades representa um risco potencial quando o presidente viaja ao exterior. A Casa Branca defendeu a segurança da aeronave.",
-          "link": "https://www.nytimes.com/2026/07/09/us/politics/new-air-force-one-defensive-countermeasures.html",
-          "imagem": null,
-          "publicado_em": "2026-07-10T00:47:57-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-11-1019",
-          "titulo": "Inundações no Missouri provocam estado de emergência e pelo menos 100 resgates",
-          "resumo": "O governador Mike Kehoe declarou estado de emergência após até um pé de chuva cair na parte sudeste do estado. Mais tempestades estão previstas.",
-          "link": "https://www.nytimes.com/2026/07/10/weather/missouri-rain-flooding.html",
-          "imagem": null,
-          "publicado_em": "2026-07-11T08:23:38-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-11-1024",
-          "titulo": "Randolph Mantooth, que interpretou John Gage em 'Emergency!', morre aos 80",
-          "resumo": "Sua interpretação do bombeiro e paramédico na série de TV dos anos 70 ajudou a expandir o conhecimento do público americano sobre medicina de emergência.",
-          "link": "https://www.nytimes.com/2026/07/11/obituaries/randolph-mantooth-dead.html",
-          "imagem": null,
-          "publicado_em": "2026-07-11T06:15:31-03:00"
+          "link": "https://www.nytimes.com/2026/07/11/opinion/sudan-atrocity-africa-rsf.html",
+          "publicado_em": "2026-07-11T11:08:46.000Z"
         }
       ]
     },
