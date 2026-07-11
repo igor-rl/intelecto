@@ -121,135 +121,111 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-07-10T21:00:00.939Z",
+      "gerado_em": "2026-07-11T10:00:02.281Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-07-10-2101",
-          "titulo": "Morte por ICE em Houston Coloca Foco em Aumento de Prisões de Imigração",
-          "resumo": "A morte por tiros de Lorenzo Salgado Araujo ocorreu quando a aplicação da lei de imigração aumentou em todo o país, com milhares sendo presos diariamente.",
-          "imagem": null,
+          "id": "new_york_times-2026-07-11-1001",
+          "titulo": "Morte de imigrante em Houston coloca foco em aumento de prisões de imigração",
+          "resumo": "A morte de Lorenzo Salgado Araujo ocorreu quando a aplicação da lei de imigração aumentou em todo o país, com milhares sendo presos diariamente.",
           "link": "https://www.nytimes.com/2026/07/10/us/ice-immigration-arrests-surge.html",
+          "imagem": null,
           "publicado_em": "2026-07-10T20:18:35-03:00"
         },
         {
-          "id": "new_york_times-2026-07-10-2102",
-          "titulo": "Testemunhas de Morte por ICE em Houston Contestam a Conta Oficial",
-          "resumo": "A agência disse que um imigrante mexicano dirigindo uma van tentou atropelar agentes antes de ser baleado até a morte. Um advogado de três passageiros disse que isso era falso.",
-          "imagem": null,
+          "id": "new_york_times-2026-07-11-1002",
+          "titulo": "Houston investigará como um agente do ICE matou um imigrante mexicano",
+          "resumo": "A agência disse que Lorenzo Salgado Araujo tentou atropelar os agentes com uma van antes de um deles atirar nele. Um advogado dos passageiros disse que isso não era verdade.",
           "link": "https://www.nytimes.com/2026/07/10/us/houston-ice-shooting-witnesses.html",
-          "publicado_em": "2026-07-10T18:10:28-03:00"
+          "imagem": null,
+          "publicado_em": "2026-07-10T22:47:10-03:00"
         },
         {
-          "id": "new_york_times-2026-07-10-2103",
-          "titulo": "ICE Deporta Imigrante que Foi Indultado por Condenação por Abuso Sexual",
-          "resumo": "Oficiais do estado de Minnesota haviam concedido um indulto a Tou Lue Vang, um homem hmong, o que gerou críticas de que líderes democratas estavam frustrando esforços para expulsar criminosos.",
+          "id": "new_york_times-2026-07-11-1003",
+          "titulo": "México apresentará queixa criminal nos EUA sobre mortes de imigrantes",
+          "resumo": "O presidente do país prometeu ir 'além de notas diplomáticas' após um agente de imigração dos EUA ter matado a tiros Lorenzo Salgado Araujo, um homem mexicano, no Texas esta semana.",
+          "link": "https://www.nytimes.com/2026/07/10/world/americas/mexico-criminal-complaints-immigration-deaths-usa.html",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/10/us/politics/ice-deports-immigrant-pardoned-minnesota.html",
-          "publicado_em": "2026-07-10T20:54:18-03:00"
+          "publicado_em": "2026-07-10T20:24:21-03:00"
         },
         {
-          "id": "new_york_times-2026-07-10-2104",
-          "titulo": "Trump Corta Proteções de Habitat para Espécies Ameaçadas",
-          "resumo": "A mudança na regra encerra uma salvaguarda que estava em vigor por 50 anos e pode apressar o declínio de animais em perigo.",
+          "id": "new_york_times-2026-07-11-1004",
+          "titulo": "Empregadores dos EUA são instruídos a demitir milhares de trabalhadores imigrantes",
+          "resumo": "Prazos que mudam estão confundindo empresas à medida que o fim do status de proteção temporária para haitianos e outros se aproxima, tornando-os inelegíveis para viver e trabalhar nos EUA.",
+          "link": "https://www.nytimes.com/2026/07/10/us/politics/tps-workers-dismissals.html",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/10/climate/endangered-species-act-harm.html",
-          "publicado_em": "2026-07-10T20:31:27-03:00"
+          "publicado_em": "2026-07-11T01:19:02-03:00"
         },
         {
-          "id": "new_york_times-2026-07-10-2105",
-          "titulo": "Administração Trump Nomeia Crítico da Ciência Climática para Supervisionar Avaliação Nacional do Clima",
-          "resumo": "Matthew M. Wielicki criticou o consenso científico sobre o aquecimento global como alarmista. Agora ele supervisionará um relatório federal importante sobre o assunto.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/10/climate/trump-climate-assessment-wielicki.html",
-          "publicado_em": "2026-07-10T20:27:57-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-10-2106",
-          "titulo": "Ele Queria Monitorar Microplásticos no Mar. A EPA o Demitiu.",
-          "resumo": "O funcionário pediu que uma fazenda de peixes monitorasse as pequenas partículas de plástico. A EPA disse que ele havia tomado medidas para constranger a agência.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/10/climate/fish-farm-microplastics-maha-epa-firing.html",
-          "publicado_em": "2026-07-10T19:54:15-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-10-2107",
-          "titulo": "Trump Diz que Negociações com o Irã Continuarão à Medida que os EUA Aumentam os Ataques",
-          "resumo": "Forças dos EUA atingiram mais de 170 alvos, incluindo sistemas de defesa aérea, depósitos de drones e mísseis, e barcos militares de alta velocidade.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html",
-          "publicado_em": "2026-07-10T15:16:05-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-10-2108",
-          "titulo": "Líder Supremo do Irã Permanece Ausente, um Vazio no Topo do Regime",
-          "resumo": "O aiatolá Mojtaba Khamenei não apareceu no funeral de seu pai esta semana, alimentando especulações sobre sua condição física e deixando um vazio de poder em um país dividido.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html",
-          "publicado_em": "2026-07-10T16:00:29-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-10-2109",
-          "titulo": "Armadores Enfrentam Dilema Cada Vez Mais Profundo à Medida que os EUA e o Irã Disputam o Controle do Estreito",
-          "resumo": "Empresas desesperadamente querem que seus navios passem pelo Estreito de Ormuz, mas enfrentam riscos crescentes. 'As coisas estão ficando feias a cada minuto', disse um executivo.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/10/business/iran-shipping-strait-of-hormuz.html",
-          "publicado_em": "2026-07-10T18:02:56-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-10-2110",
-          "titulo": "Democratas Assombrados pela Troca Biden-Harris à Medida que Substituem Platner no Maine",
-          "resumo": "A corrida de última hora para nomear um substituto lembra alguns no partido dos desafios que enfrentaram em 2024.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/10/us/platner-replacement-maine-biden-harris.html",
-          "publicado_em": "2026-07-10T17:57:28-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-10-2111",
-          "titulo": "Democratas do Maine Preveem Convenção no Fim de Julho para Escolher Substituto de Platner",
-          "resumo": "Com planos ainda sendo finalizados, funcionários estão discutindo uma convenção durante o fim de semana de 25-26 de julho e estão avaliando opções para escolher delegados.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/10/us/maine-democrats-platner-replacement-convention.html",
-          "publicado_em": "2026-07-10T20:08:35-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-10-2115",
-          "titulo": "Trump Diz que Não Assinará Projeto de Lei de Habitação em Protesto contra Medida de Votação Paralisada",
-          "resumo": "O presidente não disse que vetaria a legislação de habitação, então ela ainda se tornaria lei a menos que ele o faça. Mas sua declaração reflete uma fissura crescente entre ele e os republicanos do Senado.",
-          "imagem": null,
+          "id": "new_york_times-2026-07-11-1006",
+          "titulo": "Projeto de lei de habitação bipartidário se torna lei mesmo com Trump se recusando a assiná-lo",
+          "resumo": "Após um prazo de 10 dias, o projeto de lei de habitação se tornou lei à meia-noite sem a assinatura do presidente. No entanto, sua decisão de não assinar reflete uma crescente divisão entre ele e os republicanos do Senado.",
           "link": "https://www.nytimes.com/2026/07/10/us/politics/trump-housing-bill.html",
-          "publicado_em": "2026-07-10T15:28:22-03:00"
+          "imagem": null,
+          "publicado_em": "2026-07-11T04:01:31-03:00"
         },
         {
-          "id": "new_york_times-2026-07-10-2116",
-          "titulo": "Novo Air Force One Carece de Contra-Medidas Defensivas do Modelo Anterior, Dizem Oficiais",
-          "resumo": "Especialistas disseram que a falta de tais capacidades representa um risco potencial quando o presidente viaja para o exterior. A Casa Branca defendeu a segurança da aeronave.",
+          "id": "new_york_times-2026-07-11-1008",
+          "titulo": "Após ser adiado por Trump, uma ponte entre Canadá e EUA está prestes a ser inaugurada",
+          "resumo": "Um acordo pôs fim ao bloqueio da administração Trump de uma nova ponte que facilitará o congestionamento no corredor comercial mais movimentado entre os EUA e o Canadá.",
+          "link": "https://www.nytimes.com/2026/07/10/world/canada/gordie-howe-bridge-canada-us-michigan.html",
           "imagem": null,
+          "publicado_em": "2026-07-11T06:07:32-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-11-1009",
+          "titulo": "Trump corta proteções de habitat para espécies em extinção",
+          "resumo": "A mudança na regra encerra uma salvaguarda que estava em vigor por 50 anos e pode acelerar o declínio de animais em perigo.",
+          "link": "https://www.nytimes.com/2026/07/10/climate/endangered-species-act-harm.html",
+          "imagem": null,
+          "publicado_em": "2026-07-10T21:24:08-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-11-1010",
+          "titulo": "Trump diz que as negociações com o Irã continuarão à medida que os EUA aumentam os ataques",
+          "resumo": "Forças dos EUA atingiram mais de 170 alvos, incluindo sistemas de defesa aérea, armazenamento de drones e mísseis, e barcos militares de alta velocidade.",
+          "link": "https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html",
+          "imagem": null,
+          "publicado_em": "2026-07-11T03:48:02-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-11-1011",
+          "titulo": "Estreito de Ormuz logo será declarado aberto a todo o tráfego, dizem funcionários dos EUA",
+          "resumo": "Os funcionários disseram que os negociadores iranianos culparam as recentes ataques a navios por unidades militares dissidentes.",
+          "link": "https://www.nytimes.com/2026/07/10/us/politics/strait-hormuz-safe-passage.html",
+          "imagem": null,
+          "publicado_em": "2026-07-10T22:32:14-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-11-1012",
+          "titulo": "Jornalistas do New York Times são intimados à medida que Trump aumenta a pressão sobre a mídia",
+          "resumo": "O Departamento de Justiça está tentando compelir o testemunho de repórteres que escreveram sobre o novo Air Force One. O New York Times chamou a medida de 'ato ousado'.",
+          "link": "https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html",
+          "imagem": null,
+          "publicado_em": "2026-07-11T04:10:21-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-11-1013",
+          "titulo": "Novo Air Force One carece de contramedidas defensivas do modelo anterior, dizem funcionários",
+          "resumo": "Especialistas disseram que a falta de tais capacidades representa um risco potencial quando o presidente viaja ao exterior. A Casa Branca defendeu a segurança da aeronave.",
           "link": "https://www.nytimes.com/2026/07/09/us/politics/new-air-force-one-defensive-countermeasures.html",
+          "imagem": null,
           "publicado_em": "2026-07-10T00:47:57-03:00"
         },
         {
-          "id": "new_york_times-2026-07-10-2117",
-          "titulo": "Um Assassino Envelhecido Foi Preso pelo ICE. Os EUA o Deportarão?",
-          "resumo": "Ele ajudou a planejar um atentado a bomba em Washington que matou duas pessoas em 1976. Cinquenta anos depois, segredos governamentais antigos podem decidir seu destino.",
+          "id": "new_york_times-2026-07-11-1019",
+          "titulo": "Inundações no Missouri provocam estado de emergência e pelo menos 100 resgates",
+          "resumo": "O governador Mike Kehoe declarou estado de emergência após até um pé de chuva cair na parte sudeste do estado. Mais tempestades estão previstas.",
+          "link": "https://www.nytimes.com/2026/07/10/weather/missouri-rain-flooding.html",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/10/us/politics/assassin-caught-by-ice-chile.html",
-          "publicado_em": "2026-07-10T17:14:19-03:00"
+          "publicado_em": "2026-07-11T08:23:38-03:00"
         },
         {
-          "id": "new_york_times-2026-07-10-2118",
-          "titulo": "Homem Preso sob Suspeita de Assassinar Ann Widdecombe, Ex-Política do Reino Unido",
-          "resumo": "A polícia disse que havia prendido um homem britânico de 26 anos após Ann Widdecombe, uma ex-parlamentar de 78 anos, ser encontrada morta com ferimentos graves na quinta-feira.",
+          "id": "new_york_times-2026-07-11-1024",
+          "titulo": "Randolph Mantooth, que interpretou John Gage em 'Emergency!', morre aos 80",
+          "resumo": "Sua interpretação do bombeiro e paramédico na série de TV dos anos 70 ajudou a expandir o conhecimento do público americano sobre medicina de emergência.",
+          "link": "https://www.nytimes.com/2026/07/11/obituaries/randolph-mantooth-dead.html",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/10/world/europe/murder-investigation-uk-ann-widdecombe.html",
-          "publicado_em": "2026-07-10T17:35:52-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-10-2124",
-          "titulo": "Como uma Tempestade Mortal Pegou os Barqueiros de Wisconsin de Surpresa",
-          "resumo": "Três crianças morreram no fim de semana passado quando uma tempestade gerou ventos de 80 milhas por hora e ondas grandes no Lago Geneva, em Wisconsin.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/10/weather/lake-geneva-wisconsin-storm-what-happened.html",
-          "publicado_em": "2026-07-10T19:28:13-03:00"
+          "publicado_em": "2026-07-11T06:15:31-03:00"
         }
       ]
     },
