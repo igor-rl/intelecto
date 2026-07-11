@@ -382,119 +382,87 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-07-10T21:16:03.306Z",
+      "gerado_em": "2026-07-11T10:15:45.889Z",
       "artigos": [
         {
-          "id": "rt-2026-07-10-2101-01",
-          "titulo": "Batalha por Konstantinovka: Por que a última vitória da Rússia na Donbass é importante",
-          "resumo": "A captura de Konstantinovka pela Rússia abre o caminho para Slaviansk e revela como sua estratégia de assalto urbano está exaurindo as forças ucranianas",
+          "id": "rt-2026-07-11-01",
+          "titulo": "Rússia atinge fábrica de drones em Kiev",
+          "resumo": "Ataques atingiram uma fábrica de drones em Kiev e infraestrutura militar em um porto na região de Odessa, segundo o Ministério da Defesa",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5214ae85f54034bc34f550.jpg",
+          "link": "https://www.rt.com/russia/642885-russia-hits-kiev-drone-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-11T09:44:50-03:00"
+        },
+        {
+          "id": "rt-2026-07-11-02",
+          "titulo": "Lavrov coloca estratégia da Rússia na África em modo de trabalho",
+          "resumo": "Enquanto o Ocidente fala sobre o 'isolamento' da Rússia, as visitas regulares do ministro das Relações Exteriores da Rússia à África demonstram o oposto",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a50c8eb85f5403f1c2cd7cb.jpg",
+          "link": "https://www.rt.com/africa/642837-lavrov-africa-tour-regular-diplomacy/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-11T08:49:37-03:00"
+        },
+        {
+          "id": "rt-2026-07-11-03",
+          "titulo": "Índia está colocando seu arsenal nuclear em prontidão",
+          "resumo": "Embora sua doutrina permaneça formalmente inalterada, a Índia está se movendo em direção a um maior desdobramento e prontidão",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a51227b2030274219108d13.jpg",
+          "link": "https://www.rt.com/india/642861-india-nuclear-arsenal-warheads/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-11T07:20:18-03:00"
+        },
+        {
+          "id": "rt-2026-07-11-04",
+          "titulo": "PM polonês diz à Ucrânia para 'acordar'",
+          "resumo": "Kiev precisa 'acordar' em meio a uma disputa com Varsóvia sobre a glorificação de colaboradores nazistas ucranianos, disse o PM polonês Donald Tusk",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a51d03685f5404aa72433fb.jpg",
+          "link": "https://www.rt.com/news/642881-poland-ukraine-upa-tusk/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-11T06:53:20-03:00"
+        },
+        {
+          "id": "rt-2026-07-11-05",
+          "titulo": "Trump ameaça 'destruir' o Irã sobre medos de assassinato",
+          "resumo": "Donald Trump ameaçou destruir o Irã se Teerã tentar assassiná-lo, dizendo que as forças armadas dos EUA já têm ordens para retaliar",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a51c65885f5404cf26ebe81.jpg",
+          "link": "https://www.rt.com/news/642880-trump-iran-threat-1000-missiles/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-11T04:29:20-03:00"
+        },
+        {
+          "id": "rt-2026-07-11-06",
+          "titulo": "Moscou condena vandalismo de cemitério soviético da Segunda Guerra Mundial na Holanda",
+          "resumo": "A Rússia condenou o vandalismo de um cemitério soviético da Segunda Guerra Mundial na Holanda",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a51bd2f203027745856b8b4.jpg",
+          "link": "https://www.rt.com/russia/642879-russia-condemns-war-cemetery-attack/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-11T03:51:41-03:00"
+        },
+        {
+          "id": "rt-2026-07-11-07",
+          "titulo": "EUA dão prazo ao Irã para declarar o Estreito de Ormuz totalmente aberto",
+          "resumo": "Os EUA estão pressionando o Irã para declarar o Estreito de Ormuz totalmente aberto ao transporte marítimo comercial após negociações no Omã",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a519def20302701770709e2.jpg",
+          "link": "https://www.rt.com/news/642878-iran-hormuz-reopen-deadline/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-11T01:36:39-03:00"
+        },
+        {
+          "id": "rt-2026-07-11-08",
+          "titulo": "Batalha por Konstantinovka: por que a vitória mais recente da Rússia importa",
+          "resumo": "A captura de Konstantinovka pela Rússia abre o caminho para Slaviansk e revela como a estratégia de assalto urbano está exaurindo as forças ucranianas",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a51556f85f54048b908bb39.png",
           "link": "https://www.rt.com/russia/642866-battle-for-konstantinovka-russias-victory/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-10T20:58:48-03:00"
         },
         {
-          "id": "rt-2026-07-10-2102-02",
-          "titulo": "Vice-primeiro-ministro russo nomeia razão por trás da escassez de combustível",
-          "resumo": "A Rússia está enfrentando escassez de combustível devido a ataques de drones ucranianos em sua infraestrutura energética, disse o vice-primeiro-ministro Aleksandr Novak",
+          "id": "rt-2026-07-11-09",
+          "titulo": "Vice-premiê russo nomeia razão por trás da escassez de combustível",
+          "resumo": "A Rússia está enfrentando escassez de combustível devido a ataques de drones ucranianos em sua infraestrutura energética, disse o vice-premiê Aleksandr Novak",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a51279d85f54037a76fc3d5.jpg",
           "link": "https://www.rt.com/russia/642862-russia-names-reason-behind-fuel-shortages/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-10T19:41:03-03:00"
         },
         {
-          "id": "rt-2026-07-10-2104-03",
-          "titulo": "Por que o artigo de Melnichenko no The Economist não é uma revolta da elite russa",
-          "resumo": "Seu argumento não é sobre rebelião contra o Kremlin, mas sobre como os negócios russos podem sobreviver após a globalização liderada pelo Ocidente",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5143332030273fd10c22ab.jpg",
-          "link": "https://www.rt.com/russia/642874-melnichenkos-economist-article-lukyanov/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-10T19:14:58-03:00"
-        },
-        {
-          "id": "rt-2026-07-10-2105-04",
-          "titulo": "Lições do Ayatollah Khamenei além da morte",
-          "resumo": "Sua morte transformou um líder em um mártir, fundindo dor, fé e desafio em uma mensagem que os EUA e Israel não conseguem entender",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5134922030274657624f7c.jpg",
-          "link": "https://www.rt.com/news/642860-iran-khamenei-death-lesson/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-10T18:06:21-03:00"
-        },
-        {
-          "id": "rt-2026-07-10-2106-05",
-          "titulo": "Ex-comandante da OTAN pede 'tempo de suspensão' para Trump",
-          "resumo": "Os membros da OTAN devem manter um perfil baixo em reuniões e atividades conjuntas nos próximos dois anos do mandato de Trump, acredita James Stavridis",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a512dbe2030273e2b7ce58d.jpg",
-          "link": "https://www.rt.com/news/642855-nato-europe-trump-timeout/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-10T17:37:44-03:00"
-        },
-        {
-          "id": "rt-2026-07-10-2107-06",
-          "titulo": "Réplica de mesquita incendiada em queima de fogos na Irlanda do Norte (VÍDEOS)",
-          "resumo": "Loyalistas da Irlanda do Norte queimaram uma réplica de mesquita em uma queima de fogos, o que a polícia chamou de 'exibição de ódio'",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5111e785f54046a21605a9.jpg",
-          "link": "https://www.rt.com/news/642859-northern-ireland-mosque-bonfire/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-10T16:34:21-03:00"
-        },
-        {
-          "id": "rt-2026-07-10-2108-07",
-          "titulo": "Austrália devolverá três artefatos antigos à Índia",
-          "resumo": "A Austrália devolverá 3 artefatos antigos roubados de templos indianos, e um museu indiano devolverá os restos de um ancestral da Primeira Nação",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5110052030273e2b7ce57f.jpg",
-          "link": "https://www.rt.com/india/642856-australia-stolen-temple-treasures/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-10T15:28:58-03:00"
-        },
-        {
-          "id": "rt-2026-07-10-2109-08",
+          "id": "rt-2026-07-11-10",
           "titulo": "Israel responde a foto viral de palestino torturado",
-          "resumo": "Israel confirma que a foto viral de um palestino vendado e amarrado a uma barra de ferro é real",
+          "resumo": "Israel confirma que a foto viral de um palestino cego e amarrado a uma barra de ferro é real",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a51073185f540416c43cbad.jpg",
           "link": "https://www.rt.com/news/642854-israel-responds-photo-palestinian-torture/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-10T15:20:51-03:00"
-        },
-        {
-          "id": "rt-2026-07-10-2110-09",
-          "titulo": "Moscou diz a Berlim para parar de armar Kiev em vez de pregar a paz",
-          "resumo": "A porta-voz do Ministério das Relações Exteriores da Rússia, Maria Zakharova, repreendeu um diplomata alemão por pedir que Moscou encerrasse o conflito na Ucrânia para resolver a escassez de combustível",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a510cf085f54048b908bb29.jpg",
-          "link": "https://www.rt.com/russia/642851-moscow-responds-german-diplomat-remark-gas-shortages/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-10T15:12:51-03:00"
-        },
-        {
-          "id": "rt-2026-07-10-2111-10",
-          "titulo": "AIE emite aviso sobre demanda de petróleo",
-          "resumo": "A AIE prevê uma redução de 1 milhão de barris por dia na demanda global de petróleo em 2026, à medida que a guerra no Irã continua a interromper as exportações do Oriente Médio",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a50f2c885f54016182794da.jpg",
-          "link": "https://www.rt.com/business/642848-oil-demand-slump-iea/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-10T15:01:20-03:00"
-        },
-        {
-          "id": "rt-2026-07-10-2117-11",
-          "titulo": "O 'presente cruel' de Trump: Por que a licença para produzir mísseis Patriot será inútil para a Ucrânia",
-          "resumo": "A oferta de Trump para dar à Ucrânia uma licença para produzir mísseis Patriot é provavelmente um gesto vazio e inútil, argumentam vários especialistas",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a50e6102030273fc4318834.jpg",
-          "link": "https://www.rt.com/news/642844-trumps-cruel-gift-patriot-ukraine-useless/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-10T12:43:31-03:00"
-        },
-        {
-          "id": "rt-2026-07-10-2118-12",
-          "titulo": "Índia aprova investimento chinês em setores estratégicos",
-          "resumo": "A Índia permitiu que a empresa chinesa de smartphones Vivo investisse na empresa de tecnologia indiana Dixon Technologies",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a50d9ac85f54057223a96ad.jpg",
-          "link": "https://www.rt.com/india/642843-chinese-investment-dixon-vivo/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-10T12:09:46-03:00"
-        },
-        {
-          "id": "rt-2026-07-10-2119-13",
-          "titulo": "China alcança avanço no programa espacial (VÍDEOS)",
-          "resumo": "A China testou com sucesso o foguete espacial Long March 10B, que é parcialmente recuperável",
-          "imagem": null,
-          "link": "https://www.rt.com/news/642842-china-rocket-first-recovery/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-10T11:59:55-03:00"
-        },
-        {
-          "id": "rt-2026-07-10-2120-14",
-          "titulo": "'Eles podem até me matar': Ex-premiê de Bangladesh diz que está pronta para se entregar",
-          "resumo": "A ex-premiê de Bangladesh, Sheikh Hasina, que está na Índia, disse que retornará ao seu país em dezembro, onde pode ser morta",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a50c6a2203027108f5ab289.jpg",
-          "link": "https://www.rt.com/india/642840-sheikh-hasina-bangladesh-surrender/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-10T10:21:09-03:00"
         }
       ]
     },
