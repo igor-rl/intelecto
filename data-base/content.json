@@ -6,9 +6,9 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Dívida externa vs. educação: desafio global",
-    "subtitulo": "Países em desenvolvimento gastam mais com dívida do que com educação, enquanto a Ucrânia enfrenta ataques russos",
-    "resumo": "Um relatório da Unesco destacou que países em desenvolvimento gastam mais com o serviço da dívida externa do que com educação, afetando a educação de crianças em 113 países. Enquanto isso, a Ucrânia enfrenta ataques russos, com mísseis balísticos e drones atingindo Kiev. A Rússia também está em negociações com a Turquia sobre a possível revenda de sistemas de mísseis. Além disso, a China alcançou a primeira recuperação controlada de um foguete, um marco para o seu programa espacial. Já os EUA estão lidando com a morte de um imigrante em Houston, o que colocou em foco as prisões de imigração no país.",
+    "titulo": "Tensões Globais: Conflitos e Negociações",
+    "subtitulo": "Análise cruzada dos principais conflitos e esforços diplomáticos ao redor do mundo",
+    "resumo": "O dia foi marcado por uma série de desenvolvimentos significativos em conflitos e negociações globais. A Rússia e a Ucrânia continuam em conflito, com a Rússia lançando mísseis e drones contra Kiev, resultando em feridos e danos. Paralelamente, os EUA e o Irã estão engajados em negociações, apesar das ameaças de Trump de destruir o Irã. A OTAN realizou sua cúpula, discutindo questões de segurança, incluindo a corrida armamentista. A China alcançou um marco com a recuperação controlada de um foguete, demonstrando avanços em sua tecnologia espacial. Enquanto isso, a Nigéria enfrenta desafios internos, com a luta contra bandidos e a descoberta de uma agência federal falsa. A comunidade internacional também está atenta à situação no Sudão do Sul, onde a ONU trabalha para proteger milhares de pessoas da seca. Esses eventos destacam a complexidade e a interconexão dos desafios globais, exigindo esforços diplomáticos e cooperação internacional para alcançar a paz e a estabilidade.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-07-11T08:00:00-03:00",
     "link": null,
@@ -817,54 +817,54 @@
   },
   "temas_principais": [
     {
-      "tema": "Dívida externa vs. educação",
-      "descricao": "Países em desenvolvimento gastam mais com dívida do que com educação",
-      "fontes_que_cobriram": [
-        "the_guardian"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "new_york_times",
-        "euronews"
-      ],
-      "divergencia_de_enquadramento": "The Guardian destaca o problema, enquanto outros veículos não o mencionam"
-    },
-    {
-      "tema": "Ataques russos na Ucrânia",
-      "descricao": "Rússia ataca Kiev com mísseis balísticos e drones",
+      "tema": "Conflito Rússia-Ucrânia",
+      "descricao": "A Rússia continua seus ataques à Ucrânia, com mísseis e drones, enquanto a Ucrânia busca apoio internacional.",
       "fontes_que_cobriram": [
         "euronews",
         "rt",
         "mt"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "scmp",
-        "st"
-      ],
-      "divergencia_de_enquadramento": "Euronews e RT destacam a ação russa, enquanto The Moscow Times fala sobre as consequências"
-    },
-    {
-      "tema": "Recuperação controlada de foguete pela China",
-      "descricao": "China alcança marco em seu programa espacial",
-      "fontes_que_cobriram": [
         "scmp"
       ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian",
-        "new_york_times"
+      "divergencia_de_enquadramento": "Enquanto a Rússia destaca a eficácia de seus ataques, a Ucrânia e outros países ocidentais condenam as ações como agressivas e ilegais."
+    },
+    {
+      "tema": "Negociações EUA-Irã",
+      "descricao": "Os EUA e o Irã estão engajados em negociações, apesar das tensões e ameaças.",
+      "fontes_que_cobriram": [
+        "new_york_times",
+        "euronews",
+        "st"
       ],
-      "divergencia_de_enquadramento": "SCMP destaca o feito chinês, enquanto outros veículos não o mencionam"
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "rt"
+      ],
+      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar a importância das negociações para a estabilidade regional, enquanto as fontes iranianas e russas podem questionar a sinceridade dos EUA."
+    },
+    {
+      "tema": "Avanços da China em Tecnologia Espacial",
+      "descricao": "A China alcançou a recuperação controlada de um foguete, um marco significativo em sua tecnologia espacial.",
+      "fontes_que_cobriram": [
+        "scmp",
+        "euronews"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "the_guardian"
+      ],
+      "divergencia_de_enquadramento": "As fontes chinesas e algumas internacionais destacam o avanço como um sinal de progresso e competitividade global, enquanto outras podem questionar as implicações para a segurança e a corrida armamentista espacial."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Surto de cólera no Sudão",
-      "por_que_importa": "Pode afetar comunidades vulneráveis",
-      "cobertura": "Apenas AllAfrica cobriu o tema"
+      "tema": "Sudão do Sul",
+      "por_que_importa": "A região enfrenta desafios significativos, incluindo a seca e a necessidade de proteção humanitária.",
+      "cobertura": "Apenas a AllAfrica e o SMH dedicaram espaço significativo a essa questão, enquanto a maioria das outras fontes a ignorou ou a mencionou brevemente."
     },
     {
-      "tema": "Prisões de imigração nos EUA",
-      "por_que_importa": "Coloca em foco a política de imigração no país",
-      "cobertura": "New York Times e SMH mencionam o tema, mas com diferentes enfoques"
+      "tema": "Desenvolvimento Sustentável na África",
+      "por_que_importa": "A África enfrenta desafios únicos de desenvolvimento sustentável, incluindo a pobreza, a fome e as mudanças climáticas.",
+      "cobertura": "A AllAfrica e algumas fontes internacionais abordaram esses temas, mas a cobertura foi limitada em comparação com outros assuntos globais."
     }
   ]
 }
