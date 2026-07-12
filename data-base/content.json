@@ -273,95 +273,87 @@
     "scmp": {
       "slug": "scmp",
       "nome": "South China Morning Post",
-      "gerado_em": "2026-07-12T10:15:33.447Z",
+      "gerado_em": "2026-07-12T21:15:38.404Z",
       "artigos": [
         {
-          "id": "scmp-2026-07-12-10-00-07-01",
+          "id": "scmp-2026-07-12-2101",
+          "titulo": "Homem alemão acusado de sequestro após incidente de refém em supermercado em Berlim",
+          "resumo": "As autoridades alemãs emitiram um mandado de prisão para um homem de 29 anos acusado de segurar uma mulher refém em um supermercado de Berlim por mais de 11 horas durante o fim de semana.",
+          "link": "https://www.scmp.com/news/world/europe/article/3360302/german-man-charged-kidnapping-after-supermarket-hostage-incident-berlin?utm_source=rss_feed",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/13/6306b891-51cd-48ab-a1e1-299fdbedb7ab_0ac9ba7c.jpg?itok=R65MkfUq&v=1783888476",
+          "publicado_em": "2026-07-12T20:44:17.000Z"
+        },
+        {
+          "id": "scmp-2026-07-12-2102",
+          "titulo": "Pelo menos 27 mortos após incêndio em pub de Bangkok",
+          "resumo": "Um grande incêndio engolfou um pub em Bangkok na madrugada de segunda-feira, matando pelo menos 27 pessoas antes que os bombeiros controlassem as chamas, disse o primeiro-ministro Anutin Charnvirakul à imprensa local.",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3360301/least-27-dead-after-fire-breaks-out-bangkok-pub?utm_source=rss_feed",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/13/cfe80712-4950-41a7-8ee8-1004864641db_fd19e17e.jpg?itok=QY3m2Yk_&v=1783886344",
+          "publicado_em": "2026-07-12T20:01:47.000Z"
+        },
+        {
+          "id": "scmp-2026-07-12-2103",
+          "titulo": "Partes do Reino Unido em risco 'excepcional' de incêndios florestais à medida que a onda de calor continua",
+          "resumo": "Partes do Reino Unido estão em risco 'excepcional' de incêndios florestais à medida que a onda de calor continua, alertaram os especialistas.",
+          "link": "https://www.scmp.com/news/world/europe/article/3360299/parts-uk-exceptional-risk-wildfires-heatwave-goes?utm_source=rss_feed",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/13/88b2ae61-7853-46e3-b9cc-da929d43ef26_694eaf72.jpg?itok=a3EK217b&v=1783883897",
+          "publicado_em": "2026-07-12T19:19:39.000Z"
+        },
+        {
+          "id": "scmp-2026-07-12-2105",
+          "titulo": "Primeiro-ministro da Ucrânia renuncia à medida que Zelensky anuncia reestruturação do governo",
+          "resumo": "O primeiro-ministro ucraniano Yulia Svyrydenko renunciou no domingo, à medida que o presidente Volodymyr Zelensky anunciou mudanças frescas no governo da Ucrânia, dizendo que havia oferecido um novo e importante cargo a Svyrydenko.",
+          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3360297/ukraines-prime-minister-steps-down-zelensky-announces-government-reshuffle?utm_source=rss_feed",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/13/41bd6a2c-7766-4f64-93a2-ea57460bbf1d_dff7ec00.jpg?itok=RG1x6RZ-&v=1783874447",
+          "publicado_em": "2026-07-12T16:46:05.000Z"
+        },
+        {
+          "id": "scmp-2026-07-12-2106",
+          "titulo": "Israel realizará eleições parlamentares em 27 de outubro, à medida que Netanyahu busca outro mandato",
+          "resumo": "Israel realizará eleições nacionais em 27 de outubro, a última data permitida pela lei, disse o parlamento no domingo, com o voto amplamente visto como um referendo sobre a liderança do primeiro-ministro Benjamin Netanyahu.",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3360296/israel-hold-parliamentary-elections-october-27-netanyahu-seeks-another-term?utm_source=rss_feed",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/13/482dbcb5-1e43-4af2-929a-be4657409edb_535d13f2.jpg?itok=rjQrlZt6&v=1783873272",
+          "publicado_em": "2026-07-12T16:22:11.000Z"
+        },
+        {
+          "id": "scmp-2026-07-12-2107",
+          "titulo": "Tiroteio israelense em campo de refugiados da Faixa de Gaza mata 6, incluindo menina de 9 anos",
+          "resumo": "Ataques israelenses mataram pelo menos seis pessoas na Faixa de Gaza no domingo, incluindo uma menina de 9 anos, disseram os funcionários de saúde palestinos, à medida que os mediadores realizaram mais negociações para salvaguardar o cessar-fogo mediado pelos EUA.",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3360294/israeli-gunfire-gaza-refugee-camp-kills-6-including-9-year-old-girl?utm_source=rss_feed",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/12/cfe30bf0-7c13-421a-80d2-0b1292a9883f_58abba29.jpg?itok=wML_gE1C&v=1783870552",
+          "publicado_em": "2026-07-12T15:36:00.000Z"
+        },
+        {
+          "id": "scmp-2026-07-12-2108",
+          "titulo": "O que significa o caça J-16 da China em 'modo fera' para as patrulhas da Força Aérea do PLA?",
+          "resumo": "Uma imagem recentemente divulgada de um caça multiuso J-16 do PLA em uma configuração rara de 'carga extrema' para superioridade aérea aponta para uma extensão das capacidades táticas de longo alcance, de acordo com um especialista chinês.",
+          "link": "https://www.scmp.com/news/china/military/article/3360170/what-does-chinas-j-16-fighter-jet-beast-mode-mean-pla-air-force-patrols?utm_source=rss_feed",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/10/8ed42be1-8f8d-4e79-a08c-c3cea363292d_9a7edae1.jpg?itok=fLNEo4KG&v=1783685146",
+          "publicado_em": "2026-07-12T14:00:07.000Z"
+        },
+        {
+          "id": "scmp-2026-07-12-2109",
+          "titulo": "Primeira sessão do parlamento da Síria é realizada após a saída de Assad",
+          "resumo": "O parlamento transitório da Síria começou sua primeira sessão no domingo, com a tarefa de elaborar a nova constituição do país e estabelecer as bases para a democracia após décadas de regime autoritário.",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3360289/first-session-syrias-parliament-convenes-after-assads-ousting?utm_source=rss_feed",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/12/52a10920-d1ba-4a8f-b8b3-98e4b22b5338_f4346496.jpg?itok=o01NcgDh&v=1783863455",
+          "publicado_em": "2026-07-12T13:37:44.000Z"
+        },
+        {
+          "id": "scmp-2026-07-12-2111",
+          "titulo": "Aung San Suu Kyi será cuidada, diz embaixador de Mianmar à ASEAN",
+          "resumo": "Os ministros das Relações Exteriores da ASEAN foram informados no domingo por seu homólogo de Mianmar que a ex-líder detida Aung San Suu Kyi está em boa saúde e será cuidada, disse o enviado especial da ASEAN a Mianmar.",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3360286/aung-san-suu-kyi-will-be-looked-after-myanmar-envoy-tells-asean?utm_source=rss_feed",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/12/b71e1515-b88d-4c63-8816-265ac80c5999_3498a26c.jpg?itok=0RHDhYhE&v=1783859938",
+          "publicado_em": "2026-07-12T12:39:00.000Z"
+        },
+        {
+          "id": "scmp-2026-07-12-2120",
           "titulo": "Por que a lei de unidade étnica da China marca uma mudança na política de assimilação",
-          "resumo": "A nova lei de unidade étnica da China sinaliza uma mudança no foco de Pequim para a assimilação, de acordo com um etnólogo do partido.",
+          "resumo": "A nova lei da China sobre unidade étnica sinaliza uma mudança no foco de Pequim para lidar com questões étnicas específicas para a assimilação, de acordo com um etnólogo do partido.",
           "link": "https://www.scmp.com/news/china/politics/article/3360274/why-chinas-ethnic-unity-law-marks-shift-policy-towards-assimilation?utm_source=rss_feed",
           "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/12/37089adb-632d-4324-8563-0e87f77c3dca_8e0c0e9d.jpg?itok=PrzZnwNi&v=1783845046",
-          "publicado_em": "2026-07-12T10:00:07-03:00"
-        },
-        {
-          "id": "scmp-2026-07-12-09-54-41-02",
-          "titulo": "Coreia do Sul em alerta de emergência devido ao aumento dos dias de onda de calor",
-          "resumo": "A Coreia do Sul emitiu seu primeiro alerta de onda de calor de emergência sob um novo sistema de alerta lançado este ano, aconselhando as pessoas a interromper as atividades ao ar livre e se manterem frescas.",
-          "link": "https://www.scmp.com/news/asia/east-asia/article/3360279/south-korea-under-emergency-advisory-heatwave-days-increase?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/12/440cca35-b35d-4c4a-b8a4-939de157fa7e_f9c47245.jpg?itok=JmJw24aB&v=1783850078",
-          "publicado_em": "2026-07-12T09:54:41-03:00"
-        },
-        {
-          "id": "scmp-2026-07-12-08-50-41-03",
-          "titulo": "Pequim renova ataques ao tribunal marco do Mar da China Meridional no 10º aniversário do veredicto",
-          "resumo": "Pequim denunciou um \"completely ilegal\" tribunal internacional que decidiu contra suas reivindicações expansivas no Mar da China Meridional, com um diplomata sênior descrevendo-o como um \"espinho\" no lado de sua política externa.",
-          "link": "https://www.scmp.com/news/china/diplomacy/article/3360275/beijing-renews-attacks-landmark-south-china-sea-tribunal-rulings-10th-anniversary?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/12/f720be36-d6a8-40a3-8e79-f74c0811a2f5_0a62cf13.jpg?itok=NJey6MnH&v=1783845472",
-          "publicado_em": "2026-07-12T08:50:41-03:00"
-        },
-        {
-          "id": "scmp-2026-07-12-08-00-11-04",
-          "titulo": "Investidores chineses estão impulsionando o boom de bicicletas elétricas de multibilhões de dólares na África",
-          "resumo": "Táxis de motocicleta - frequentemente chamados de boda-bodas na África Oriental e okadas na Nigéria e em partes da África Ocidental - servem como o principal meio de transporte para milhões na África.",
-          "link": "https://www.scmp.com/news/china/diplomacy/article/3360221/how-chinese-investors-are-supercharging-africas-multibillion-dollar-e-bike-boom?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/11/5d63a462-2b94-4974-b426-3bbebd21954f_95d42e56.jpg?itok=ivLUWrl8&v=1783761924",
-          "publicado_em": "2026-07-12T08:00:11-03:00"
-        },
-        {
-          "id": "scmp-2026-07-12-07-55-05-05",
-          "titulo": "Pastores democratas miram as eleições de meio de mandato nos EUA para enfraquecer a influência de Trump no nacionalismo cristão",
-          "resumo": "Um grupo de pastores democratas brancos tem uma mensagem surpreendente antes das eleições de meio de mandato nos EUA: os republicanos raptaram Jesus para ganhos políticos, e não vamos tolerar isso.",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3360265/democratic-pastors-eye-us-midterms-blunt-trumps-grip-christian-nationalism?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/12/e01cae25-483d-4a22-9f12-b1ccb875f98a_47db6990.jpg?itok=SS9U6oLE&v=1783837199",
-          "publicado_em": "2026-07-12T07:55:05-03:00"
-        },
-        {
-          "id": "scmp-2026-07-12-07-36-19-06",
-          "titulo": "Polícia de Hong Kong prende 9 pessoas em uma operação contra dirigir perigosamente",
-          "resumo": "A polícia de Hong Kong prendeu nove suspeitos, incluindo dois que estavam em uma lista de procurados, por infrações de direção graves durante uma operação de uma semana contra excesso de velocidade e outras violações de segurança rodoviária.",
-          "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3360271/hong-kong-police-arrest-9-crackdown-dangerous-driving?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/12/15df8e30-18b0-4676-847d-1583a57b41aa_783a9c9d.jpg?itok=LWkFPyOq&v=1783841519",
-          "publicado_em": "2026-07-12T07:36:19-03:00"
-        },
-        {
-          "id": "scmp-2026-07-12-06-55-47-07",
-          "titulo": "Senador dos EUA e aliado de Trump, Lindsey Graham, morre após doença súbita",
-          "resumo": "O senador dos EUA Lindsey Graham, um republicano que passou de um crítico vocal de Donald Trump para um de seus aliados mais leais, morreu aos 71 anos.",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3360267/us-senator-and-trump-ally-lindsey-graham-dies-after-sudden-illness?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/12/a6fbedf6-56cb-47d9-8bc7-99960314152e_296a93c7.jpg?itok=vh-yfJ2x&v=1783839340",
-          "publicado_em": "2026-07-12T06:55:47-03:00"
-        },
-        {
-          "id": "scmp-2026-07-12-05-39-08-08",
-          "titulo": "Sheikh Hamad bin Khalifa Al Thani, que elevou o perfil global do Catar, morre aos 74 anos",
-          "resumo": "Sheikh Hamad bin Khalifa Al Thani, que como governante do Catar transformou a pequena nação do Golfo em um jogador global na diplomacia, mídia e investimentos, e então quebrou a tradição ao abdicar voluntariamente em 2013, morreu aos 74 anos.",
-          "link": "https://www.scmp.com/news/world/middle-east/article/3360262/sheikh-hamad-bin-khalifa-al-thani-who-raised-qatars-global-profile-dies-74?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/12/f3aa757c-c8c1-42a5-96fa-054e6dd218f6_25cd8ed5.jpg?itok=qSTD-YQV&v=1783834741",
-          "publicado_em": "2026-07-12T05:39:08-03:00"
-        },
-        {
-          "id": "scmp-2026-07-12-04-00-40-09",
-          "titulo": "Pais de menino paralisado por erro médico recebem penalidade, mas prometem continuar a lutar",
-          "resumo": "Depois de 16 anos, Li Zhijian e sua esposa Peng Hongying finalmente encontraram um pouco de fechamento em sua longa busca por justiça sobre um erro médico que deixou seu filho paralisado para o resto da vida em Hong Kong.",
-          "link": "https://www.scmp.com/news/hong-kong/society/article/3360248/parents-boy-paralysed-medical-blunder-welcome-penalty-vow-fight?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/12/840b99e3-48ee-4af4-80a0-49fff5378256_15d6d89d.jpg?itok=fOSGH-kF&v=1783787021",
-          "publicado_em": "2026-07-12T04:00:40-03:00"
-        },
-        {
-          "id": "scmp-2026-07-12-04-00-06-10",
-          "titulo": "A Nasa sabe como desviar um asteroide. O Hayabusa2 do Japão pode fazer isso?",
-          "resumo": "O sobrevoo do Hayabusa2 do asteroide Torifune marca um salto na defesa de asteroides, mostrando a crescente habilidade espacial do Japão e seu papel de \"boa vontade científica\" vital para proteger a Terra de ameaças cósmicas.",
-          "link": "https://www.scmp.com/week-asia/politics/article/3360222/nasa-knows-how-deflect-asteroid-can-japans-hayabusa2-pull-it?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/11/477668ad-3f9f-48fe-b97b-8fbb9fdc5aa2_b923f6ae.jpg?itok=EzIB94nX&v=1783762578",
-          "publicado_em": "2026-07-12T04:00:06-03:00"
-        },
-        {
-          "id": "scmp-2026-07-12-03-03-47-11",
-          "titulo": "Tufão Bavi: caos de viagem continua no leste da China, mas alertas são reduzidos mais ao sul",
-          "resumo": "O tufão Bavi atingiu a costa leste da China na noite de sábado, a segunda grande tempestade a atingir o país em uma semana, causando o cancelamento de milhares de voos e trens, enquanto mais de 2,4 milhões de pessoas foram evacuadas.",
-          "link": "https://www.scmp.com/news/china/politics/article/3360257/thousands-flights-cancelled-typhoon-bavi-hits-eastern-china-bringing-heavy-rains?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/12/7f102cc7-81e3-429a-a2ef-96e45964ca26_cdd8b1d3.jpg?itok=VWlnks2n&v=1783838363",
-          "publicado_em": "2026-07-12T03:03:47-03:00"
+          "publicado_em": "2026-07-12T10:00:07.000Z"
         }
       ]
     },
