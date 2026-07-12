@@ -121,71 +121,70 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-07-11T21:00:00.831Z",
+      "gerado_em": "2026-07-12T10:00:00.971Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-07-11-2101",
-          "titulo": "Casa Branca Direcionou Patel para Supervisionar Investigação Envolvendo Relatórios do New York Times",
-          "resumo": "O diretor do FBI passou cerca de oito horas na Casa Branca na sexta-feira, focado no esforço, que levou à intimação de vários repórteres do New York Times que escreveram sobre a segurança do Air Force One.",
+          "id": "new_york_times-2026-07-12-1001",
+          "titulo": "Senator Lindsey Graham, Republican of South Carolina, Dies at 71",
+          "resumo": "Mr. Graham died of a “brief and sudden” illness on Saturday evening, his office said. He served in the Senate for more than two decades.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-dead.html",
+          "fonte": "The New York Times",
+          "publicado_em": "2026-07-12T09:56:06.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-12-1002",
+          "titulo": "White House Directed Patel to Oversee Investigation Involving Times Reporting",
+          "resumo": "The F.B.I. director spent about eight hours at the White House Friday focused on the effort, which led to the subpoenaing of several Times reporters who wrote about the security of Air Force One.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/11/us/politics/white-house-patel-investigation-times.html",
-          "publicado_em": "2026-07-11T20:51:48.000Z"
+          "fonte": "The New York Times",
+          "publicado_em": "2026-07-12T04:08:29.000Z"
         },
         {
-          "id": "new_york_times-2026-07-11-2102",
-          "titulo": "Como Marco Rubio Está Administrando a Venezuela à Distância",
-          "resumo": "O secretário de Estado efetivamente controla as finanças da Venezuela, a distribuição de seus recursos naturais e seu governo. Sua influência sobre o país é uma manifestação vívida do poder americano na região.",
+          "id": "new_york_times-2026-07-12-1003",
+          "titulo": "How Marco Rubio Is Running Venezuela From Afar",
+          "resumo": "The secretary of state effectively controls Venezuela’s finances, the distribution of its natural resources and its government. His grip on the country is a vivid manifestation of American power in th...",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/11/us/politics/how-marco-rubio-runs-venezuela.html",
-          "publicado_em": "2026-07-11T19:33:26.000Z"
+          "fonte": "The New York Times",
+          "publicado_em": "2026-07-12T01:25:06.000Z"
         },
         {
-          "id": "new_york_times-2026-07-11-2103",
-          "titulo": "Postagens de Trump Sobre Crianças Somalis Cantando Desencadeiam Ira em Minnesota",
-          "resumo": "A grande comunidade muçulmana e somali do estado expressou indignação após o presidente republicar uma vídeo de uma cerimônia de formatura de jardim de infância, incluindo comentários notando que as meninas estavam usando hijabs.",
+          "id": "new_york_times-2026-07-12-1004",
+          "titulo": "Trump’s Posts on Singing Somali Schoolchildren Stir Anger in Minnesota",
+          "resumo": "The state’s large Muslim and Somali communities expressed indignation after the president reposted a video of a kindergarten promotion ceremony, including comments noting the girls were in hijabs.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/11/us/politics/trump-somali-kindergartners.html",
-          "publicado_em": "2026-07-11T17:55:25.000Z"
+          "fonte": "The New York Times",
+          "publicado_em": "2026-07-11T21:04:50.000Z"
         },
         {
-          "id": "new_york_times-2026-07-11-2105",
-          "titulo": "Vídeos Lançam Luz Sobre a Perseguição Antes do Tiro Fatal do ICE em Houston",
-          "resumo": "Imagens de vigilância obtidas pelo New York Times mostram agentes do ICE dirigindo agressivamente em veículos não identificados, mas o momento do tiroteio fatal de Lorenzo Salgado Araujo permanece obscuro.",
+          "id": "new_york_times-2026-07-12-1005",
+          "titulo": "How Putin Turned Japan Into a Den of Spies",
+          "resumo": "Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/11/us/houston-ice-video-shooting-salgado-araujo.html",
-          "publicado_em": "2026-07-11T18:47:36.000Z"
+          "link": "https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html",
+          "fonte": "The New York Times",
+          "publicado_em": "2026-07-12T04:01:11.000Z"
         },
         {
-          "id": "new_york_times-2026-07-11-2108",
-          "titulo": "Mojtaba Khamenei Promete Vingança Enquanto o Principal Diplomata do Irã Está em Omã para Negociações",
-          "resumo": "Conflitos recentes entre os EUA e o Irã, e a promessa do aiatolá de vingar a morte de seu pai, erodiram ainda mais uma frágil trégua assinada no mês passado.",
+          "id": "new_york_times-2026-07-12-1006",
+          "titulo": "Inside the Secret Factory That Supplies Ukraine’s War Drones",
+          "resumo": "With its mass-produced and inexpensive A.I. powered war machines, the German start-up Helsing SE illustrates a profound shift in military spending.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html",
-          "publicado_em": "2026-07-11T19:21:01.000Z"
+          "link": "https://www.nytimes.com/2026/07/11/business/dealbook/drone-factory-helsing.html",
+          "fonte": "The New York Times",
+          "publicado_em": "2026-07-11T12:00:09.000Z"
         },
         {
-          "id": "new_york_times-2026-07-11-2109",
-          "titulo": "Israel Atacou uma Instalação de Aço Iraniana. Era um Alvo Militar Válido?",
-          "resumo": "Durante a guerra, Israel atacou as usinas de aço do Irã, alegando que elas forneciam receita e meios para fazer armas para as forças iranianas, mas também prejudicou a economia civil.",
+          "id": "new_york_times-2026-07-12-1008",
+          "titulo": "The World Is Cutting Ties With America. It’s Already Costing Us.",
+          "resumo": "When other countries cut ties, Americans pay.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html",
-          "publicado_em": "2026-07-11T13:26:24.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-11-2112",
-          "titulo": "Um Político Americano é Bloqueado por Colonos Israelenses na Cisjordânia",
-          "resumo": "O representante Ro Khanna foi impedido de sair por 90 minutos. Enquanto líderes americanos do passado visitavam a região para mostrar apoio a Israel, os aspirantes presidenciais democratas de hoje estão indo para fortalecer o apoio.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/11/us/politics/ro-khanna-west-bank.html",
-          "publicado_em": "2026-07-11T18:08:25.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-11-2115",
-          "titulo": "No Sudão, uma Ato Atrocidade Evitável",
-          "resumo": "Centenas de milhares de pessoas no Sudão estão se preparando para sua cidade ser invadida por uma milícia notória por cometer atrocidades.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/11/opinion/sudan-atrocity-africa-rsf.html",
-          "publicado_em": "2026-07-11T11:08:46.000Z"
+          "link": "https://www.nytimes.com/2026/07/12/opinion/america-trump-nato-europe-world.html",
+          "fonte": "The New York Times",
+          "publicado_em": "2026-07-12T05:00:11.000Z"
         }
       ]
     },
