@@ -97,70 +97,97 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-07-12T10:00:00.971Z",
+      "gerado_em": "2026-07-12T21:00:00.958Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-07-12-1001",
-          "titulo": "Senator Lindsey Graham, Republican of South Carolina, Dies at 71",
-          "resumo": "Mr. Graham died of a “brief and sudden” illness on Saturday evening, his office said. He served in the Senate for more than two decades.",
+          "id": "new_york_times-2026-07-12-2101",
+          "titulo": "Como Trump Falhou em Segurar o Estreito de Ormuz no Acordo com o Irã",
+          "resumo": "O presidente Trump assinou um acordo que, segundo o Irã, lhe deu controle da via aquática — e dos suprimentos de energia global. Agora, o exército iraniano está violentamente afirmando sua autoridade.",
+          "link": "https://www.nytimes.com/2026/07/12/us/politics/trump-strait-of-hormuz-iran-deal.html",
           "imagem": null,
+          "publicado_em": "2026-07-12T16:43:37.000Z",
+          "fonte": "The New York Times"
+        },
+        {
+          "id": "new_york_times-2026-07-12-2102",
+          "titulo": "Lindsey Graham, Senador Republicano e Aliado de Trump, Morre de 'Doença Súbita'",
+          "resumo": "Ele morreu de 'uma doença breve e súbita', segundo seu escritório. Ao longo de mais de duas décadas no Senado, ele consistentemente defendeu o uso do poder militar dos EUA no exterior.",
           "link": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-dead.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-07-12T09:56:06.000Z"
+          "imagem": null,
+          "publicado_em": "2026-07-12T20:14:02.000Z",
+          "fonte": "The New York Times"
         },
         {
-          "id": "new_york_times-2026-07-12-1002",
-          "titulo": "White House Directed Patel to Oversee Investigation Involving Times Reporting",
-          "resumo": "The F.B.I. director spent about eight hours at the White House Friday focused on the effort, which led to the subpoenaing of several Times reporters who wrote about the security of Air Force One.",
+          "id": "new_york_times-2026-07-12-2103",
+          "titulo": "Lindsey Graham Estava Se Preparando para a Reeleição em Novembro. O que Acontece Agora?",
+          "resumo": "A lei da Carolina do Sul sugere que sua morte dispara uma eleição primária especial republicana em 11 de agosto, e o governador do estado pode nomear um substituto para servir o resto de seu mandato, até início de janeiro...",
+          "link": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-death-reelection-seat.html",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/11/us/politics/white-house-patel-investigation-times.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-07-12T04:08:29.000Z"
+          "publicado_em": "2026-07-12T20:46:59.000Z",
+          "fonte": "The New York Times"
         },
         {
-          "id": "new_york_times-2026-07-12-1003",
-          "titulo": "How Marco Rubio Is Running Venezuela From Afar",
-          "resumo": "The secretary of state effectively controls Venezuela’s finances, the distribution of its natural resources and its government. His grip on the country is a vivid manifestation of American power in th...",
+          "id": "new_york_times-2026-07-12-2104",
+          "titulo": "Trump Lembra da Última Conversa com Lindsey Graham Antes de Sua Morte",
+          "resumo": "Em uma entrevista no domingo, o presidente Trump recontou sua última conversa com o senador Lindsey Graham, horas antes de sua morte. O senador soou 'perfeito', disse ele.",
+          "link": "https://www.nytimes.com/2026/07/12/us/politics/donald-trump-lindsey-graham-death-interview.html",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/11/us/politics/how-marco-rubio-runs-venezuela.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-07-12T01:25:06.000Z"
+          "publicado_em": "2026-07-12T17:02:53.000Z",
+          "fonte": "The New York Times"
         },
         {
-          "id": "new_york_times-2026-07-12-1004",
-          "titulo": "Trump’s Posts on Singing Somali Schoolchildren Stir Anger in Minnesota",
-          "resumo": "The state’s large Muslim and Somali communities expressed indignation after the president reposted a video of a kindergarten promotion ceremony, including comments noting the girls were in hijabs.",
+          "id": "new_york_times-2026-07-12-2105",
+          "titulo": "A Morte de Graham Destaca o Problema de Idade no Congresso",
+          "resumo": "Pelos padrões do Senado envelhecido, onde a idade média é de mais de 65 anos, o republicano da Carolina do Sul não era particularmente velho.",
+          "link": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-death-aging-congress.html",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/11/us/politics/trump-somali-kindergartners.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-07-11T21:04:50.000Z"
+          "publicado_em": "2026-07-12T19:17:55.000Z",
+          "fonte": "The New York Times"
         },
         {
-          "id": "new_york_times-2026-07-12-1005",
-          "titulo": "How Putin Turned Japan Into a Den of Spies",
-          "resumo": "Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war.",
-          "imagem": null,
+          "id": "new_york_times-2026-07-12-2106",
+          "titulo": "Como Putin Transformou o Japão em um Esconderijo de Espiões",
+          "resumo": "Operando a partir de um arranha-céu em Tóquio, uma unidade de inteligência militar encontra o equipamento de alta tecnologia que a Rússia precisa para travar a guerra.",
           "link": "https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-07-12T04:01:11.000Z"
+          "imagem": null,
+          "publicado_em": "2026-07-12T12:14:21.000Z",
+          "fonte": "The New York Times"
         },
         {
-          "id": "new_york_times-2026-07-12-1006",
-          "titulo": "Inside the Secret Factory That Supplies Ukraine’s War Drones",
-          "resumo": "With its mass-produced and inexpensive A.I. powered war machines, the German start-up Helsing SE illustrates a profound shift in military spending.",
+          "id": "new_york_times-2026-07-12-2107",
+          "titulo": "Zelensky Anuncia Mudança de Liderança à Medida que a Guerra Vira a Favor da Ucrânia",
+          "resumo": "O presidente Volodymyr Zelensky disse que o primeiro-ministro da Ucrânia, Yuliia Svyrydenko, renunciaria em meio a uma reestruturação mais ampla na liderança sênior da Ucrânia.",
+          "link": "https://www.nytimes.com/2026/07/12/world/europe/ukraine-zelensky-leadership.html",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/11/business/dealbook/drone-factory-helsing.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-07-11T12:00:09.000Z"
+          "publicado_em": "2026-07-12T14:51:40.000Z",
+          "fonte": "The New York Times"
         },
         {
-          "id": "new_york_times-2026-07-12-1008",
-          "titulo": "The World Is Cutting Ties With America. It’s Already Costing Us.",
-          "resumo": "When other countries cut ties, Americans pay.",
+          "id": "new_york_times-2026-07-12-2108",
+          "titulo": "Michael Cohen Ajudou a Condenar Trump. Agora, Ele Está Fazendo As Pazes Novamente.",
+          "resumo": "Um encontro não relatado anteriormente no verão passado estabeleceu o palco para uma reaproximação entre o presidente e seu ex-fixer, que até agora evitou as diatribes e processos que o presidente Trump...",
+          "link": "https://www.nytimes.com/2026/07/12/us/politics/trump-cohen-meeting-show.html",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/12/opinion/america-trump-nato-europe-world.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-07-12T05:00:11.000Z"
+          "publicado_em": "2026-07-12T19:08:31.000Z",
+          "fonte": "The New York Times"
+        },
+        {
+          "id": "new_york_times-2026-07-12-2109",
+          "titulo": "Blanche Encara Obstáculo de Confirmação: Dúvidas Permanentes dos Republicanos",
+          "resumo": "Republicanos-chave no Comitê Judiciário podem exigir concessões de Todd Blanche, em linha para se tornar procurador-geral, embora não parecessem estar em revolta.",
+          "link": "https://www.nytimes.com/2026/07/12/us/politics/todd-blanche-attorney-general-confirmation.html",
+          "imagem": null,
+          "publicado_em": "2026-07-12T19:32:19.000Z",
+          "fonte": "The New York Times"
+        },
+        {
+          "id": "new_york_times-2026-07-12-2111",
+          "titulo": "Moradores de Cidades Espanholas Atingidas por Incêndios Ferozes Recontam Escapes Aterradores",
+          "resumo": "Muitos dizem que a comunicação foi caótica e até inexistente à medida que as chamas varriam a área, tirando 12 vidas em um dos incêndios mais mortais registrados na Espanha.",
+          "link": "https://www.nytimes.com/2026/07/12/world/europe/spain-wildfire-almeria-province.html",
+          "imagem": null,
+          "publicado_em": "2026-07-12T15:31:34.000Z",
+          "fonte": "The New York Times"
         }
       ]
     },
