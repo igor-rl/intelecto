@@ -18,10 +18,10 @@
     "the_guardian": {
       "slug": "the_guardian",
       "nome": "The Guardian",
-      "gerado_em": "2026-07-12T10:00:09.217Z",
+      "gerado_em": "2026-07-12T21:00:17.621Z",
       "artigos": [
         {
-          "id": "the_guardian-2026-07-12-1001",
+          "id": "the_guardian-2026-07-12-2101",
           "titulo": "Primeiros pacientes inscritos em teste de tratamento de Ebola recorde na RDC",
           "resumo": "Dois medicamentos estão sendo testados na região de Ituri em um programa estabelecido apenas seis semanas após a declaração do surto, com esperanças de reduzir as taxas de mortalidade",
           "imagem": null,
@@ -29,7 +29,7 @@
           "publicado_em": "2026-07-12T08:00:12.000Z"
         },
         {
-          "id": "the_guardian-2026-07-12-1002",
+          "id": "the_guardian-2026-07-12-2102",
           "titulo": "Nigéria diz que o exército matou 300 bandidos no estado noroeste de Zamfara",
           "resumo": "Vigilantes também participaram da luta que durou a noite toda e a manhã seguinte, dizem os moradores",
           "imagem": null,
@@ -37,7 +37,7 @@
           "publicado_em": "2026-07-11T11:59:11.000Z"
         },
         {
-          "id": "the_guardian-2026-07-12-1003",
+          "id": "the_guardian-2026-07-12-2103",
           "titulo": "Países em desenvolvimento gastam mais em dívida externa do que em educação, revela a ONU",
           "resumo": "Relatório da Unesco mostra que as crianças perderam para o serviço da dívida em 113 países, com 18 gastando cinco vezes mais em empréstimos",
           "imagem": null,
@@ -45,7 +45,7 @@
           "publicado_em": "2026-07-10T07:00:14.000Z"
         },
         {
-          "id": "the_guardian-2026-07-12-1004",
+          "id": "the_guardian-2026-07-12-2104",
           "titulo": "Furor na Nigéria sobre agência federal falsa criada na sede do governo",
           "resumo": "Presidente ordena investigação após entidade fictícia receber financiamento, desencadeando nova escrutínio sobre alegada corrupção",
           "imagem": null,
@@ -53,41 +53,49 @@
           "publicado_em": "2026-07-09T16:20:41.000Z"
         },
         {
-          "id": "the_guardian-2026-07-12-1006",
-          "titulo": "Uma revolução em ruínas: fúria entre os escombros de um projeto habitacional na Venezuela atingida por terremoto",
+          "id": "the_guardian-2026-07-12-2105",
+          "titulo": "Navio de cruzeiro LGBTQ+ recusado na entrada no Egito dias após a Turquia o ter rejeitado",
+          "resumo": "Os 2.000 passageiros do Scarlet Lady foram informados sobre a mudança, enquanto um dos passageiros a bordo diz que eles 'brilharão e gastarão em outro lugar'",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/jul/09/lgbtq-cruise-ship-refused-entry-egypt-turkey",
+          "publicado_em": "2026-07-09T12:59:24.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-12-2106",
+          "titulo": "Uma revolução em ruínas: fúria entre os escombros de um projeto de habitação na Venezuela atingida por terremoto",
           "resumo": "Descontentamento com o governo apoiado por Trump aumenta à medida que os herdeiros de Chávez lutam para responder ao desastre para o qual parecem mal preparados",
           "imagem": null,
           "link": "https://www.theguardian.com/news/ng-interactive/2026/jul/12/a-revolution-in-ruins-fury-amid-the-rubble-of-a-housing-project-in-quake-hit-venezuela",
           "publicado_em": "2026-07-12T05:00:09.000Z"
         },
         {
-          "id": "the_guardian-2026-07-12-1008",
+          "id": "the_guardian-2026-07-12-2108",
           "titulo": "Terremoto na Venezuela: mortos ultrapassam 4.300 à medida que se avoluma o esforço de recuperação",
-          "resumo": "Quase 17.000 feridos e milhares mais listados como desaparecidos à medida que o presidente Delcy Rodríguez e a ONU pedem ajuda financeira",
+          "resumo": "Quase 17.000 feridos e milhares mais listados como desaparecidos, com apelos do presidente Delcy Rodríguez e da ONU por ajuda financeira",
           "imagem": null,
           "link": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
           "publicado_em": "2026-07-11T17:23:19.000Z"
         },
         {
-          "id": "the_guardian-2026-07-12-1009",
-          "titulo": "México investiga se EUA mentiu sobre papel na captura de chefão do narcotráfico",
-          "resumo": "Relatórios sugerem que o FBI esteve envolvido na captura de Ismael 'El Mayo' Zambada García em território mexicano em 2024",
+          "id": "the_guardian-2026-07-12-2109",
+          "titulo": "México investiga se os EUA mentiram sobre seu papel na captura de um chefão do narcotráfico",
+          "resumo": "Relatórios sugerem que o FBI esteve envolvido na apreensão de Ismael 'El Mayo' Zambada García em território mexicano em 2024",
           "imagem": null,
           "link": "https://www.theguardian.com/world/2026/jul/09/mexico-drug-lord-arrest-sinaloa-cartel-investigation",
           "publicado_em": "2026-07-09T18:17:49.000Z"
         },
         {
-          "id": "the_guardian-2026-07-12-1010",
-          "titulo": "Juízes do Reino Unido começam a ouvir apelação sobre lei anti-gay de Trinidad e Tobago",
-          "resumo": "Ativista desafia decisão do ano passado que restaurou a lei homofóbica colonial contra a intimidade entre pessoas do mesmo sexo",
+          "id": "the_guardian-2026-07-12-2110",
+          "titulo": "Juízes do Reino Unido começam a ouvir apelação sobre a lei anti-gay de Trinidad e Tobago",
+          "resumo": "Ativista desafia a decisão do ano passado que restaurou a lei homofóbica colonial contra a intimidade entre pessoas do mesmo sexo",
           "imagem": null,
           "link": "https://www.theguardian.com/world/2026/jul/08/uk-judges-appeal-trinidad-and-tobago-homophobic-law",
           "publicado_em": "2026-07-08T14:01:35.000Z"
         },
         {
-          "id": "the_guardian-2026-07-12-1011",
+          "id": "the_guardian-2026-07-12-2111",
           "titulo": "Rastreador de clima: tufão deixa pessoas presas em telhados na China",
-          "resumo": "Onze mortos relatados à medida que as inundações também trazem o perigo de cobras, enquanto prédios desabam em Mumbai durante fortes chuvas",
+          "resumo": "Onze mortos relatados, enquanto inundações também trazem o perigo de cobras, e edifícios desabam em Mumbai devido a fortes chuvas",
           "imagem": null,
           "link": "https://www.theguardian.com/world/2026/jul/10/weather-tracker-typhoon-leaves-people-stranded-on-rooftops-in-china",
           "publicado_em": "2026-07-10T09:18:01.000Z"
