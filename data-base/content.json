@@ -202,95 +202,71 @@
     "euronews": {
       "slug": "euronews",
       "nome": "Euro News",
-      "gerado_em": "2026-07-12T10:00:20.247Z",
+      "gerado_em": "2026-07-12T21:00:28.205Z",
       "artigos": [
         {
-          "id": "euronews-2026-07-12-01",
-          "titulo": "Morte do senador dos EUA Lindsey Graham após doença breve e súbita",
-          "resumo": "Graham, uma voz proeminente do Partido Republicano na política externa, havia retornado recentemente da Ucrânia, onde se encontrou com o presidente ucraniano Volodymyr Zelenskyy em Kyiv.",
+          "id": "euronews-2026-07-12-2101",
+          "titulo": "Incêndio na Espanha: Bombeiros controlam fogo em Almería",
+          "resumo": "Bombeiros ganharam controle sobre o incêndio em Almería após dias de batalha, permitindo que evacuados retornem para casa.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/12/spain-wildfire-firefighters-gain-ground-as-almeria-evacuees-return-home",
+          "publicado_em": "2026-07-12T20:11:07.000Z"
+        },
+        {
+          "id": "euronews-2026-07-12-2102",
+          "titulo": "Israel realizará eleições em 27 de outubro",
+          "resumo": "Israel realizará eleições nacionais em 27 de outubro, consideradas um referendo sobre a liderança de Netanyahu.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/12/israel-to-hold-elections-on-27-october-in-what-is-seen-as-referendum-on-netanyahu-leadersh",
+          "publicado_em": "2026-07-12T18:59:28.000Z"
+        },
+        {
+          "id": "euronews-2026-07-12-2109",
+          "titulo": "Senador dos EUA Lindsey Graham morre após doença breve e súbita",
+          "resumo": "Graham, voz proeminente do Partido Republicano em política externa, havia retornado recentemente da Ucrânia.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/12/us-senator-lindsey-graham-dies-after-brief-and-sudden-illness",
           "publicado_em": "2026-07-12T07:33:35.000Z"
         },
         {
-          "id": "euronews-2026-07-12-02",
-          "titulo": "Ex-governante do Catar, xeque Hamad bin Khalifa Al Thani, morre aos 74 anos",
-          "resumo": "Xeque Hamad era conhecido por ter ajudado a trazer enormes mudanças econômicas, sociais e culturais no Catar durante seu reinado e por ajudar a estabelecer a nação como um jogador global na diplomacia e nos investimentos.",
+          "id": "euronews-2026-07-12-2110",
+          "titulo": "Ex-governante do Catar, Sheikh Hamad bin Khalifa Al Thani, morre aos 74 anos",
+          "resumo": "Sheikh Hamad foi conhecido por ter trazido mudanças econômicas, sociais e culturais significativas ao Catar durante seu reinado.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/12/former-qatar-ruler-sheikh-hamad-bin-khalifa-al-thani-dies-aged-74",
           "publicado_em": "2026-07-12T06:43:30.000Z"
         },
         {
-          "id": "euronews-2026-07-12-03",
-          "titulo": "Irã lança ataques com mísseis por toda a região do Golfo",
-          "resumo": "Jornalistas da Euronews no Catar relatam dois ataques iranianos e grandes explosões sobre Doha, com defesa aérea respondendo a ataques iranianos nos Emirados Árabes Unidos, Bahrein, Kuwait e outros, horas após os EUA...",
+          "id": "euronews-2026-07-12-2112",
+          "titulo": "Irã ataca estados do Golfo após ataques aéreos dos EUA",
+          "resumo": "Irã lançou ondas de ataques contra os estados do Golfo em resposta a ataques aéreos dos EUA na noite anterior.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/12/iran-launches-attacks-on-qatar-uae-bahrain-kuwait-following-us-strikes",
           "publicado_em": "2026-07-12T04:42:17.000Z"
         },
         {
-          "id": "euronews-2026-07-12-04",
-          "titulo": "Trump ameaça 'decimar completamente' o Irã, um dia após anunciar conversas",
-          "resumo": "\"1.000 mísseis estão carregados e apontados para a República Islâmica do Irã,\" Trump escreveu nas redes sociais.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/11/trump-threatens-to-completely-decimate-iran-a-day-after-agreeing-to-more-talks",
-          "publicado_em": "2026-07-11T09:41:46.000Z"
-        },
-        {
-          "id": "euronews-2026-07-12-05",
-          "titulo": "Guerra na Ucrânia: Kyiv atingida por mísseis balísticos russos e enxame de drones, 10 feridos",
-          "resumo": "A Ucrânia acordou com destruição fresca em 11 de julho após a Rússia lançar ataques noturnos em Kyiv, deixando pelo menos 10 pessoas feridas, incluindo uma criança, de acordo com autoridades ucranianas.",
+          "id": "euronews-2026-07-12-2117",
+          "titulo": "Guerra na Ucrânia: Kiev atingida por mísseis balísticos e drones russos, 10 feridos",
+          "resumo": "Ucrânia sofreu novos ataques noturnos de mísseis balísticos e drones russos, deixando pelo menos 10 pessoas feridas.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/07/11/war-in-ukraine-kyiv-hit-by-russian-ballistic-missiles-and-drone-swarm-10-injured",
           "publicado_em": "2026-07-11T08:44:56.000Z"
         },
         {
-          "id": "euronews-2026-07-12-06",
-          "titulo": "Geórgia excluída da lista de parceiros da cúpula da OTAN, críticos condenam isolamento",
-          "resumo": "O governo georgiano enfrenta acusações de isolamento internacional após não ser convidado para a cúpula da OTAN na Turquia, a primeira vez que um parceiro-chave foi excluído da agenda da aliança.",
+          "id": "euronews-2026-07-12-2116",
+          "titulo": "Trump ameaça 'decimar completamente' o Irã",
+          "resumo": "Trump afirmou que 1.000 mísseis estão apontados para o Irã após acusações de ataques.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/11/trump-threatens-to-completely-decimate-iran-a-day-after-agreeing-to-more-talks",
+          "publicado_em": "2026-07-11T09:41:46.000Z"
+        },
+        {
+          "id": "euronews-2026-07-12-2121",
+          "titulo": "Geórgia não é incluída na lista de parceiros da cúpula da OTAN",
+          "resumo": "A Geórgia enfrenta acusações de isolamento internacional após não ser convidada para a cúpula da OTAN na Turquia.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/10/georgia-left-off-nato-summit-partner-list-as-critics-decry-isolation",
           "publicado_em": "2026-07-10T19:36:46.000Z"
-        },
-        {
-          "id": "euronews-2026-07-12-07",
-          "titulo": "China alcança primeira recuperação controlada de foguete",
-          "resumo": "A China recapturou com sucesso a primeira etapa de um foguete após um lançamento em 10 de julho, um avanço para o programa espacial do país, de acordo com a mídia estatal.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/10/china-achieves-first-ever-controlled-rocket-booster-recovery",
-          "publicado_em": "2026-07-10T16:02:08.000Z"
-        },
-        {
-          "id": "euronews-2026-07-12-08",
-          "titulo": "Incêndio em fábrica de calçados na China mata 28 pessoas, Xi Jinping ordena investigação completa",
-          "resumo": "A China está investigando um incêndio que matou 28 pessoas em uma fábrica de calçados em Jinjiang, província de Fujian, em 9 de julho.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/07/10/deadly-fire-at-china-shoe-factory-sparks-xi-jinping-order-for-full-probe",
-          "publicado_em": "2026-07-10T07:00:30.000Z"
-        },
-        {
-          "id": "euronews-2026-07-12-09",
-          "titulo": "Coreia do Norte promete fortalecer força nuclear 'em qualidade e quantidade'",
-          "resumo": "Líderes norte-coreanos também apresentaram planos para acelerar a construção de bases navais modernas e atualizar sistemas de combate, de acordo com a KCNA.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/10/pyongyang-vows-to-strengthen-nuclear-force-in-quality-and-quantity",
-          "publicado_em": "2026-07-10T06:45:21.000Z"
-        },
-        {
-          "id": "euronews-2026-07-12-10",
-          "titulo": "Irã se despede do aiatolá Ali Khamenei em meio a tensões com os EUA",
-          "resumo": "Grandes multidões de manifestantes marcharam em Mashhad em 9 de julho para o funeral do ex-líder supremo aiatolá Ali Khamenei no santuário do Imã Reza.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/07/10/iran-bids-farewell-to-ayatollah-ali-khamenei-amid-tensions-with-us",
-          "publicado_em": "2026-07-10T06:22:33.000Z"
-        },
-        {
-          "id": "euronews-2026-07-12-11",
-          "titulo": "Incêndio florestal na Espanha perto de Almeria mata 11 pessoas e desencadeia evacuações em massa",
-          "resumo": "A Espanha está lutando contra um incêndio florestal mortal em Los Gallardos, perto de Almeria, onde pelo menos 11 pessoas morreram em 10 de julho após chamas varrerem uma área semiárida perto da Serra de los Filabres.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/07/10/spain-wildfire-near-almeria-kills-11-and-sparks-major-evacuations",
-          "publicado_em": "2026-07-10T08:52:52.000Z"
         }
       ]
     },
