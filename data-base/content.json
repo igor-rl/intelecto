@@ -357,135 +357,151 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-07-11T21:15:57.057Z",
+      "gerado_em": "2026-07-12T10:15:50.378Z",
       "artigos": [
         {
-          "id": "rt-2026-07-11-21-01",
-          "titulo": "Polônia marca aniversário de massacre da Segunda Guerra Mundial por colaboradores nazistas ucranianos",
-          "resumo": "A Polônia está marcando o aniversário do massacre de Volhynia de 1943-44 por colaboradores nazistas ucranianos, que mataram pelo menos 100.000 poloneses étnicos",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a52a9b32030272c27102de6.png",
-          "link": "https://www.rt.com/news/642892-poland-ukraine-volhynia-anniversary/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-11T20:41:07.000Z"
+          "id": "rt-2026-07-12-01",
+          "titulo": "Primeiros pagamentos vão para vítimas do 'Síndrome de Havana' dos EUA",
+          "resumo": "O Pentágono anunciou que começou a compensar o pessoal dos EUA afetado pelo 'Síndrome de Havana'",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a532ab820302775a573bbb7.jpg",
+          "link": "https://www.rt.com/news/642905-havana-syndrome-us-pentagon/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-12T09:36:57-03:00"
         },
         {
-          "id": "rt-2026-07-11-21-02",
+          "id": "rt-2026-07-12-02",
+          "titulo": "Senador dos EUA Lindsey Graham morre",
+          "resumo": "O senador republicano dos EUA Lindsey Graham morreu aos 71 anos, de acordo com sua conta no X",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a53416420302763a83dffcc.jpg",
+          "link": "https://www.rt.com/news/642907-warhawk-us-senator-lindsey-graham/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-12T06:33:28-03:00"
+        },
+        {
+          "id": "rt-2026-07-12-03",
+          "titulo": "Congressista dos EUA diz que foi detido por colonos israelenses armados",
+          "resumo": "O congressista dos EUA Ro Khanna diz que foi detido por colonos israelenses armados na Cisjordânia ocupada",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a53182685f5401fb67a7a7f.jpg",
+          "link": "https://www.rt.com/news/642904-us-congressman-detained-israeli-settlers/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-12T04:50:53-03:00"
+        },
+        {
+          "id": "rt-2026-07-12-04",
+          "titulo": "Irã declara que vingará a morte de seu líder supremo",
+          "resumo": "O novo líder supremo do Irã prometeu vingar a morte de seu pai em ataques dos EUA e Israel",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a52f89185f54045f14137f5.jpg",
+          "link": "https://www.rt.com/news/642901-irans-supreme-leader-vows-revenge/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-12T02:03:28-03:00"
+        },
+        {
+          "id": "rt-2026-07-12-05",
+          "titulo": "EUA lançam terceira onda de ataques contra o Irã",
+          "resumo": "Os EUA lançaram uma terceira onda de ataques contra o Irã em resposta a ataques a navios no estreito de Ormuz",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a52e22e85f54052a321a85a.jpg",
+          "link": "https://www.rt.com/news/642902-us-third-night-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-11T23:57:33-03:00"
+        },
+        {
+          "id": "rt-2026-07-12-06",
+          "titulo": "Irã declara o estreito de Ormuz fechado até que os EUA cessem intervenções 'ilegais'",
+          "resumo": "O Irã declarou o estreito de Ormuz fechado a todos os navios até que os EUA cessem suas intervenções 'ilegais' na região",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a52d5e9203027354719d4fb.jpg",
+          "link": "https://www.rt.com/news/642900-iran-closes-hormuz-again/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-11T23:06:38-03:00"
+        },
+        {
+          "id": "rt-2026-07-12-07",
+          "titulo": "Nove feridos em ataque de drone ucraniano a ônibus - governador",
+          "resumo": "Nove pessoas ficaram feridas após um drone ucraniano atingir um ônibus na Rússia, de acordo com autoridades regionais",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a52c7f385f540556e64ec06.jpg",
+          "link": "https://www.rt.com/russia/642899-ukraine-drone-strikes-bus/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-11T22:50:29-03:00"
+        },
+        {
+          "id": "rt-2026-07-12-08",
+          "titulo": "UE se torna 'república de bananas' - Durov",
+          "resumo": "O co-fundador do Telegram, Pavel Durov, chamou a UE de 'república de bananas' após o Parlamento Europeu aprovar uma lei de 'controle de conversas' controversa",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a52ac3385f540262d457f53.jpg",
+          "link": "https://www.rt.com/news/642898-durov-brands-eu-banana-republic/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-11T21:18:18-03:00"
+        },
+        {
+          "id": "rt-2026-07-12-09",
+          "titulo": "Polônia marca aniversário do massacre da Volínia por colaboradores nazistas ucranianos",
+          "resumo": "A Polônia está marcando o aniversário do massacre da Volínia, em que colaboradores nazistas ucranianos mataram pelo menos 100.000 poloneses étnicos",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a52a9b32030272c27102de6.png",
+          "link": "https://www.rt.com/news/642892-poland-ukraine-volhynia-anniversary/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-11T20:41:07-03:00"
+        },
+        {
+          "id": "rt-2026-07-12-10",
           "titulo": "Civis de Donbass contam os horrores da vida sob ocupação ucraniana",
           "resumo": "Refugiados da cidade de Konstantinovka, recentemente libertada, contaram os horrores da vida sob ocupação ucraniana à RT",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a524e8b85f54038ac4fd3a6.jpg",
           "link": "https://www.rt.com/russia/642887-rt-speaks-with-civilians-konstantinovka/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-11T18:14:37.000Z"
+          "publicado_em": "2026-07-11T18:14:37-03:00"
         },
         {
-          "id": "rt-2026-07-11-21-03",
+          "id": "rt-2026-07-12-11",
           "titulo": "A 'Cúpula de Mísseis' da OTAN: A corrida armamentista que a Europa acabou de assinar",
-          "resumo": "A cúpula de Ancara da OTAN lançou planos para Tomahawks, ATACMS, interceptores Patriot, drones ucranianos que podem redefinir a indústria de mísseis da UE",
+          "resumo": "A cúpula de Ancara da OTAN lançou planos para mísseis Tomahawk, ATACMS, interceptores Patriot e drones ucranianos que podem redefinir a indústria de mísseis da UE",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5254db2030272e4d6ac82e.jpg",
           "link": "https://www.rt.com/news/642891-natos-missile-summit-ankara/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-11T18:02:17.000Z"
+          "publicado_em": "2026-07-11T18:02:17-03:00"
         },
         {
-          "id": "rt-2026-07-11-21-04",
-          "titulo": "Um mar de enlutados enterrou o mito de um Irã fraco",
-          "resumo": "Milhões de enlutados pelo falecimento de Ali Khamenei desafiaram previsões de colapso e demonstraram a durabilidade da ordem política que ele moldou",
+          "id": "rt-2026-07-12-12",
+          "titulo": "Um mar de manifestantes enterrou o mito de um Irã fraco",
+          "resumo": "Milhões de pessoas que lamentam a morte de Ali Khamenei desafiaram previsões de colapso e demonstraram a durabilidade da ordem política que ele moldou",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a524ccb2030272c27102db2.jpg",
           "link": "https://www.rt.com/news/642889-sea-of-mourners-ali-khamenei/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-11T16:03:46.000Z"
+          "publicado_em": "2026-07-11T16:03:46-03:00"
         },
         {
-          "id": "rt-2026-07-11-21-05",
-          "titulo": "Ataques russos capazes de penetrar todas as defesas ucranianas – Ministério da Defesa",
-          "resumo": "A Rússia é capaz de atacar qualquer alvo na Ucrânia, de acordo com o Ministério da Defesa de Moscou",
+          "id": "rt-2026-07-12-13",
+          "titulo": "Ataques russos capazes de penetrar todas as defesas ucranianas - Ministério da Defesa",
+          "resumo": "As forças armadas russas são capazes de atacar qualquer alvo na Ucrânia, de acordo com o Ministério da Defesa de Moscou",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a52682885f54035a71ef435.jpg",
           "link": "https://www.rt.com/russia/642896-ukraine-missile-strikes-evaluation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-11T16:02:04.000Z"
+          "publicado_em": "2026-07-11T16:02:04-03:00"
         },
         {
-          "id": "rt-2026-07-11-21-06",
-          "titulo": "Ex-funcionário sênior de gigante energético ucraniano enfrenta acusações de lavagem de dinheiro",
-          "resumo": "Um ex-executivo da empresa estatal de energia da Ucrânia foi notificado sobre suspeitas de lavagem de dinheiro",
+          "id": "rt-2026-07-12-14",
+          "titulo": "Ex-funcionário sênior da empresa de energia ucraniana enfrenta acusações de lavagem de dinheiro",
+          "resumo": "Um ex-executivo da empresa de energia estatal ucraniana foi notificado sobre suspeitas de lavagem de dinheiro",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5250db85f54062ec1eeaa3.jpg",
           "link": "https://www.rt.com/russia/642890-ex-senior-official-ukraine-energoatom-money-laundering/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-11T15:20:21.000Z"
+          "publicado_em": "2026-07-11T15:20:21-03:00"
         },
         {
-          "id": "rt-2026-07-11-21-07",
-          "titulo": "Investigação de assassinato é lançada sobre a morte de porta-voz do Reform UK",
+          "id": "rt-2026-07-12-15",
+          "titulo": "Investigação de assassinato é lançada sobre a morte da porta-voz do Reform UK",
           "resumo": "A polícia britânica lançou uma investigação de assassinato sobre a morte da ex-ministra e porta-voz do partido Reform UK, Ann Widdecombe",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a522e8985f5404a46369f18.jpg",
           "link": "https://www.rt.com/news/642888-widdecombe-uk-reform-farage/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-11T13:44:37.000Z"
+          "publicado_em": "2026-07-11T13:44:37-03:00"
         },
         {
-          "id": "rt-2026-07-11-21-08",
-          "titulo": "Ucrânia não produzirá mísseis Patriot apesar da promessa de Trump – Reuters",
-          "resumo": "A Ucrânia provavelmente não produzirá mísseis Patriot apesar da promessa de Donald Trump de conceder-lhe uma licença, relata a Reuters",
+          "id": "rt-2026-07-12-16",
+          "titulo": "Ucrânia não produzirá mísseis Patriot apesar da promessa de Trump - Reuters",
+          "resumo": "A Ucrânia provavelmente não produzirá mísseis Patriot apesar da promessa de Donald Trump de conceder uma licença, relata a Reuters",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5213c420302721d65fa353.jpg",
           "link": "https://www.rt.com/news/642886-ukraine-patriot-trump-germany/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-11T10:48:18.000Z"
+          "publicado_em": "2026-07-11T10:48:18-03:00"
         },
         {
-          "id": "rt-2026-07-11-21-09",
-          "titulo": "‘Eles usaram machados para economizar munição’: Como os heróis nazistas da Ucrânia moderna massacraram poloneses durante a Segunda Guerra Mundial",
-          "resumo": "A Polônia apoiou a Ucrânia contra a Rússia, mas os fantasmas do genocídio de Volyn retornaram para assombrar a parceria entre os dois países",
-          "imagem": "https://mf.b37mrtl.ru/files/2022.02/thumbnail/6203aa3420302704c226f668.jpg",
-          "link": "https://www.rt.com/russia/548672-ukrainian-murdered-poles-wwii/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-11T10:00:00.000Z"
-        },
-        {
-          "id": "rt-2026-07-11-21-10",
-          "titulo": "Rússia atinge fábrica de drones em Kiev – Ministério da Defesa",
-          "resumo": "Ataques atingiram uma fábrica de drones em Kiev e infraestrutura militar em um porto na região de Odessa, informou o Ministério da Defesa",
+          "id": "rt-2026-07-12-17",
+          "titulo": "Rússia atinge fábrica de drones em Kiev - Ministério da Defesa",
+          "resumo": "Ataques atingiram uma fábrica de drones em Kiev e infraestrutura militar em um porto na região de Odessa, de acordo com o Ministério da Defesa",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5214ae85f54034bc34f550.jpg",
           "link": "https://www.rt.com/russia/642885-russia-hits-kiev-drone-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-11T09:44:50.000Z"
+          "publicado_em": "2026-07-11T09:44:50-03:00"
         },
         {
-          "id": "rt-2026-07-11-21-11",
+          "id": "rt-2026-07-12-18",
           "titulo": "Enquanto o Ocidente fala em isolamento, Lavrov solidifica laços",
-          "resumo": "Os compromissos diplomáticos de Moscou na África entraram no modo de trabalho sistemático",
+          "resumo": "Os envolvimentos diplomáticos da Rússia na África entraram no modo de trabalho sistemático",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a50c8eb85f5403f1c2cd7cb.jpg",
           "link": "https://www.rt.com/africa/642837-lavrov-africa-tour-regular-diplomacy/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-11T08:49:37.000Z"
-        },
-        {
-          "id": "rt-2026-07-11-21-12",
-          "titulo": "A Índia está silenciosamente colocando seu arsenal nuclear em prontidão",
-          "resumo": "Embora sua doutrina permaneça formalmente inalterada, a Índia está se movendo em direção a um maior desdobramento e prontidão",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a51227b2030274219108d13.jpg",
-          "link": "https://www.rt.com/india/642861-india-nuclear-arsenal-warheads/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-11T07:20:18.000Z"
-        },
-        {
-          "id": "rt-2026-07-11-21-13",
-          "titulo": "‘Acorde’ – Primeiro-ministro polonês diz à Ucrânia",
-          "resumo": "Kiev precisa ‘acordar’ em meio a uma disputa com Varsóvia sobre a glorificação de colaboradores nazistas ucranianos, disse o primeiro-ministro polonês Donald Tusk",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a51d03685f5404aa72433fb.jpg",
-          "link": "https://www.rt.com/news/642881-poland-ukraine-upa-tusk/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-11T06:53:20.000Z"
-        },
-        {
-          "id": "rt-2026-07-11-21-14",
-          "titulo": "Trump ameaça ‘destruir’ o Irã sobre medos de assassinato",
-          "resumo": "Donald Trump ameaçou destruir o Irã se Teerã tentar assassiná-lo, dizendo que as forças armadas dos EUA já têm ordens para retaliar",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a51c65885f5404cf26ebe81.jpg",
-          "link": "https://www.rt.com/news/642880-trump-iran-threat-1000-missiles/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-11T04:29:20.000Z"
-        },
-        {
-          "id": "rt-2026-07-11-21-15",
-          "titulo": "Moscou condena vandalismo de cemitério soviético da Segunda Guerra Mundial na Holanda",
-          "resumo": "A Rússia condenou o vandalismo de um cemitério soviético da Segunda Guerra Mundial na Holanda",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a51bd2f203027745856b8b4.jpg",
-          "link": "https://www.rt.com/russia/642879-russia-condemns-war-cemetery-attack/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-11T03:51:41.000Z"
-        },
-        {
-          "id": "rt-2026-07-11-21-16",
-          "titulo": "EUA estabelecem prazo para o Irã reabrir o Estreito de Ormuz – Axios",
-          "resumo": "Os EUA estão pressionando o Irã a declarar o Estreito de Ormuz totalmente aberto ao transporte marítimo comercial após negociações em Omã",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a519def20302701770709e2.jpg",
-          "link": "https://www.rt.com/news/642878-iran-hormuz-reopen-deadline/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-11T01:36:39.000Z"
+          "publicado_em": "2026-07-11T08:49:37-03:00"
         }
       ]
     },
