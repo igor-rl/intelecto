@@ -6,9 +6,9 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Tensões no Oriente Médio e conflitos globais",
-    "subtitulo": "Enquanto EUA e Irã trocam golpes, Rússia e Ucrânia continuam em conflito",
-    "resumo": "O dia foi marcado por tensões no Oriente Médio, com os EUA e o Irã trocando golpes. Enquanto isso, a Rússia e a Ucrânia continuam em conflito, com a Rússia lançando mísseis e drones contra a Ucrânia. Além disso, o Sudão enfrenta uma guerra civil e genocídio, enquanto a República Democrática do Congo lida com um surto de ebola. A África também está enfrentando problemas de corrupção e seca. Nos EUA, o senador Lindsey Graham morreu após uma doença breve e súbita. Em outros lugares, a Coreia do Sul está em alerta de emergência devido ao aumento dos dias de onda de calor, e a Venezuela está lidando com as consequências de um terremoto.",
+    "titulo": "Mortos em incêndio em pub de Bangkok e tensões no Oriente Médio",
+    "subtitulo": "Incêndio em Bangkok mata pelo menos 27 pessoas, enquanto EUA e Irã continuam em confronto no Estreito de Hormuz",
+    "resumo": "Um incêndio devastador em um pub de Bangkok resultou na morte de pelo menos 27 pessoas, enquanto as tensões entre EUA e Irã continuam a aumentar no Estreito de Hormuz. Em outras notícias, o senador americano Lindsey Graham morreu subitamente, e Israel realizará eleições nacionais em 27 de outubro. A Rússia e a Ucrânia continuam a trocar ataques, e a França desligou reatores nucleares devido à onda de calor. A África enfrenta desafios, incluindo um surto de cólera no Sudão e a ameaça de seca no Sudão do Sul.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-07-12T08:00:00-03:00",
     "link": null,
@@ -875,55 +875,58 @@
   },
   "temas_principais": [
     {
-      "tema": "Conflito no Oriente Médio",
-      "descricao": "EUA e Irã trocam golpes, com o Irã respondendo a ataques dos EUA",
+      "tema": "Incêndio em pub de Bangkok",
+      "descricao": "Pelo menos 27 pessoas morreram em um incêndio que engoliu um pub em Bangkok",
       "fontes_que_cobriram": [
-        "new_york_times",
-        "euronews",
+        "smh",
+        "st",
+        "scmp"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "rt",
+        "mt"
+      ],
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizaram a tragédia e as vítimas, enquanto as fontes russas e chinesas deram mais atenção às causas do incêndio e às investigações"
+    },
+    {
+      "tema": "Tensões no Oriente Médio",
+      "descricao": "EUA e Irã continuam em confronto no Estreito de Hormuz, com ataques e contra-ataques",
+      "fontes_que_cobriram": [
+        "nyt",
+        "st",
         "rt"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian"
+        "aa",
+        "smh"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a agressão do Irã, enquanto as fontes russas e iranianas destacam a resposta do Irã aos ataques dos EUA"
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a agressividade do Irã, enquanto as fontes russas e iranianas acusam os EUA de provocação"
     },
     {
-      "tema": "Conflito na Ucrânia",
-      "descricao": "Rússia lança mísseis e drones contra a Ucrânia",
+      "tema": "Eleições em Israel",
+      "descricao": "Israel realizará eleições nacionais em 27 de outubro, com Netanyahu buscando outro mandato",
       "fontes_que_cobriram": [
-        "euronews",
-        "mt",
-        "st"
+        "nyt",
+        "st",
+        "scmp"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian"
+        "rt",
+        "mt"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a agressão da Rússia, enquanto as fontes russas destacam a legítima defesa da Rússia"
-    },
-    {
-      "tema": "Surto de ebola na República Democrática do Congo",
-      "descricao": "O surto de ebola na República Democrática do Congo está se espalhando",
-      "fontes_que_cobriram": [
-        "the_guardian",
-        "aa"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "new_york_times",
-        "euronews"
-      ],
-      "divergencia_de_enquadramento": "As fontes africanas e de saúde pública destacam a gravidade do surto, enquanto as fontes ocidentais minimizam a ameaça"
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a importância da eleição para a política israelense, enquanto as fontes russas e chinesas deram mais atenção às implicações regionais"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Guerra civil e genocídio no Sudão",
-      "por_que_importa": "O Sudão está enfrentando uma guerra civil e genocídio, com milhares de pessoas afetadas",
-      "cobertura": "Apenas a AllAfrica cobriu o tema, enquanto as outras fontes ignoraram ou minimizaram a questão"
+      "tema": "Surto de cólera no Sudão",
+      "por_que_importa": "O surto de cólera no Sudão é uma crise humanitária que afeta milhares de pessoas",
+      "cobertura": "Apenas a AllAfrica deu cobertura ao surto de cólera no Sudão"
     },
     {
-      "tema": "Corrupção na África",
-      "por_que_importa": "A corrupção é um problema grave na África, afetando a economia e a sociedade",
-      "cobertura": "Apenas a AllAfrica cobriu o tema, enquanto as outras fontes ignoraram ou minimizaram a questão"
+      "tema": "Ameaça de seca no Sudão do Sul",
+      "por_que_importa": "A seca no Sudão do Sul é uma ameaça à segurança alimentar e à estabilidade regional",
+      "cobertura": "Apenas a AllAfrica e a ONU deram cobertura à ameaça de seca no Sudão do Sul"
     }
   ]
 }
