@@ -216,71 +216,87 @@
     "euronews": {
       "slug": "euronews",
       "nome": "Euro News",
-      "gerado_em": "2026-07-12T21:00:28.205Z",
+      "gerado_em": "2026-07-13T10:00:28.521Z",
       "artigos": [
         {
-          "id": "euronews-2026-07-12-2101",
-          "titulo": "Incêndio na Espanha: Bombeiros controlam fogo em Almería",
-          "resumo": "Bombeiros ganharam controle sobre o incêndio em Almería após dias de batalha, permitindo que evacuados retornem para casa.",
+          "id": "euronews-2026-07-13-1001",
+          "titulo": "Azerbaijão considera retirada total do Conselho da Europa, diz Aliyev",
+          "resumo": "O presidente Ilham Aliyev disse que Baku está considerando a retirada total da organização de 46 membros após a suspensão dos direitos de voto do Azerbaijão na PACE em 2024.",
           "imagem": null,
-          "link": "http://www.euronews.com/video/2026/07/12/spain-wildfire-firefighters-gain-ground-as-almeria-evacuees-return-home",
-          "publicado_em": "2026-07-12T20:11:07.000Z"
+          "link": "http://www.euronews.com/2026/07/13/azerbaijan-considering-full-withdrawal-from-council-of-europe-aliyev-says",
+          "publicado_em": "2026-07-13T08:13:50.000Z"
         },
         {
-          "id": "euronews-2026-07-12-2102",
-          "titulo": "Israel realizará eleições em 27 de outubro",
-          "resumo": "Israel realizará eleições nacionais em 27 de outubro, consideradas um referendo sobre a liderança de Netanyahu.",
+          "id": "euronews-2026-07-13-1002",
+          "titulo": "Mortos no terremoto na Venezuela sobem para 4.490, dizem autoridades",
+          "resumo": "Acampamentos para famílias desabrigadas surgiram em estádios, praças e calçadas em La Guaira e também em Caracas.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/13/venezuela-quake-death-toll-rises-to-4490-officials-say-but-no-number-given-for-missing",
+          "publicado_em": "2026-07-13T06:49:04.000Z"
+        },
+        {
+          "id": "euronews-2026-07-13-1003",
+          "titulo": "Incêndio florestal atinge região ao sul de Paris durante onda de calor",
+          "resumo": "Um grande incêndio florestal se espalhou pela floresta de Fontainebleau, ao sul de Paris, provocando uma grande resposta de emergência, interrompendo o tráfego rodoviário e ferroviário, e forçando as autoridades a implantar...",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/13/major-wildfire-rages-south-of-paris-during-heatwave",
+          "publicado_em": "2026-07-13T06:38:13.000Z"
+        },
+        {
+          "id": "euronews-2026-07-13-1006",
+          "titulo": "EUA lançam mais ataques ao Irã à medida que o impasse renovado sobre o Estreito de Ormuz se intensifica",
+          "resumo": "A mídia estatal iraniana relatou ataques dos EUA que atingiram grandes áreas em todo o sul e oeste do Irã, incluindo a ilha de Qeshm e Bandar Abbas, perto do estreito, e na província de Khuzestan, na fronteira com o Iraque.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/13/us-launches-more-strikes-on-iran-as-renewed-standoff-over-strait-of-hormuz-intensifies",
+          "publicado_em": "2026-07-13T03:05:27.000Z"
+        },
+        {
+          "id": "euronews-2026-07-13-1008",
+          "titulo": "Israel realizará eleições em 27 de outubro, o que é visto como um referendo sobre a liderança de Netanyahu",
+          "resumo": "Israel realizará eleições nacionais em 27 de outubro, a última data permitida por lei para realizar eleições nacionais.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/12/israel-to-hold-elections-on-27-october-in-what-is-seen-as-referendum-on-netanyahu-leadersh",
           "publicado_em": "2026-07-12T18:59:28.000Z"
         },
         {
-          "id": "euronews-2026-07-12-2109",
-          "titulo": "Senador dos EUA Lindsey Graham morre após doença breve e súbita",
-          "resumo": "Graham, voz proeminente do Partido Republicano em política externa, havia retornado recentemente da Ucrânia.",
+          "id": "euronews-2026-07-13-1015",
+          "titulo": "Senador dos EUA Lindsey Graham morre após 'breve e súbita doença'",
+          "resumo": "Graham, uma voz republicana proeminente na política externa, havia recentemente retornado da Ucrânia, onde se reuniu com o presidente ucraniano Volodymyr Zelenskyy em Kyiv.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/12/us-senator-lindsey-graham-dies-after-brief-and-sudden-illness",
           "publicado_em": "2026-07-12T07:33:35.000Z"
         },
         {
-          "id": "euronews-2026-07-12-2110",
-          "titulo": "Ex-governante do Catar, Sheikh Hamad bin Khalifa Al Thani, morre aos 74 anos",
-          "resumo": "Sheikh Hamad foi conhecido por ter trazido mudanças econômicas, sociais e culturais significativas ao Catar durante seu reinado.",
+          "id": "euronews-2026-07-13-1016",
+          "titulo": "Ex-governante do Catar, xeque Hamad bin Khalifa Al Thani, morre aos 74 anos",
+          "resumo": "Xeque Hamad era conhecido por ter ajudado a trazer enormes mudanças econômicas, sociais e culturais no Catar durante seu reinado e por ter ajudado a estabelecer a nação como um jogador global na diplomacia e nos investimentos.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/12/former-qatar-ruler-sheikh-hamad-bin-khalifa-al-thani-dies-aged-74",
           "publicado_em": "2026-07-12T06:43:30.000Z"
         },
         {
-          "id": "euronews-2026-07-12-2112",
-          "titulo": "Irã ataca estados do Golfo após ataques aéreos dos EUA",
-          "resumo": "Irã lançou ondas de ataques contra os estados do Golfo em resposta a ataques aéreos dos EUA na noite anterior.",
+          "id": "euronews-2026-07-13-1018",
+          "titulo": "Irã ataca estados do Golfo para impor suas linhas de batalha no Hormuz",
+          "resumo": "O Irã lançou ondas de ataques em todo o Golfo em resposta aos ataques aéreos dos EUA na noite anterior, sinalizando as capacidades de ataque renovadas da República Islâmica, enquanto reivindicava o controle exclusivo do Estreito de Hormuz.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/12/iran-launches-attacks-on-qatar-uae-bahrain-kuwait-following-us-strikes",
           "publicado_em": "2026-07-12T04:42:17.000Z"
         },
         {
-          "id": "euronews-2026-07-12-2117",
-          "titulo": "Guerra na Ucrânia: Kiev atingida por mísseis balísticos e drones russos, 10 feridos",
-          "resumo": "Ucrânia sofreu novos ataques noturnos de mísseis balísticos e drones russos, deixando pelo menos 10 pessoas feridas.",
+          "id": "euronews-2026-07-13-1023",
+          "titulo": "Guerra na Ucrânia: Kyiv é atingida por mísseis balísticos russos e enxame de drones, 10 feridos",
+          "resumo": "A Ucrânia acordou com destruição fresca em 11 de julho após a Rússia lançar ataques noturnos em Kyiv, deixando pelo menos 10 pessoas feridas, incluindo uma criança, de acordo com autoridades ucranianas.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/07/11/war-in-ukraine-kyiv-hit-by-russian-ballistic-missiles-and-drone-swarm-10-injured",
           "publicado_em": "2026-07-11T08:44:56.000Z"
         },
         {
-          "id": "euronews-2026-07-12-2116",
-          "titulo": "Trump ameaça 'decimar completamente' o Irã",
-          "resumo": "Trump afirmou que 1.000 mísseis estão apontados para o Irã após acusações de ataques.",
+          "id": "euronews-2026-07-13-1022",
+          "titulo": "Trump ameaça 'decimar completamente' o Irã, um dia após afirmar que haverá conversas",
+          "resumo": "\"1.000 mísseis estão carregados e apontados para a República Islâmica do Irã\", escreveu Trump nas redes sociais.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/11/trump-threatens-to-completely-decimate-iran-a-day-after-agreeing-to-more-talks",
           "publicado_em": "2026-07-11T09:41:46.000Z"
-        },
-        {
-          "id": "euronews-2026-07-12-2121",
-          "titulo": "Geórgia não é incluída na lista de parceiros da cúpula da OTAN",
-          "resumo": "A Geórgia enfrenta acusações de isolamento internacional após não ser convidada para a cúpula da OTAN na Turquia.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/10/georgia-left-off-nato-summit-partner-list-as-critics-decry-isolation",
-          "publicado_em": "2026-07-10T19:36:46.000Z"
         }
       ]
     },
