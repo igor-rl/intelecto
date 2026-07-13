@@ -6,11 +6,11 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Mortos em incêndio em pub de Bangkok e tensões no Oriente Médio",
-    "subtitulo": "Incêndio em Bangkok mata pelo menos 27 pessoas, enquanto EUA e Irã continuam em confronto no Estreito de Hormuz",
-    "resumo": "Um incêndio devastador em um pub de Bangkok resultou na morte de pelo menos 27 pessoas, enquanto as tensões entre EUA e Irã continuam a aumentar no Estreito de Hormuz. Em outras notícias, o senador americano Lindsey Graham morreu subitamente, e Israel realizará eleições nacionais em 27 de outubro. A Rússia e a Ucrânia continuam a trocar ataques, e a França desligou reatores nucleares devido à onda de calor. A África enfrenta desafios, incluindo um surto de cólera no Sudão e a ameaça de seca no Sudão do Sul.",
+    "titulo": "Surto de Ebola se espalha na RDC",
+    "subtitulo": "Enquanto a comunidade internacional luta contra o surto, a região enfrenta desafios de saúde pública e segurança",
+    "resumo": "O surto de Ebola na República Democrática do Congo continua a se espalhar, com mais de 10.000 mortes em excesso registradas na Europa devido à onda de calor extrema. A região de Ituri foi afetada, com dois medicamentos sendo testados em um programa estabelecido apenas seis semanas após a declaração do surto. A Nigéria também enfrenta desafios de segurança, com o exército matando 300 bandidos no estado noroeste de Zamfara. Além disso, a China se tornou o segundo país a alcançar a recuperação controlada de um foguete orbital reutilizável, e a Rússia e a Ucrânia continuam a trocar ataques, com 9 mortos em troca de ataques entre os dois países. A África também enfrenta desafios, com quase um milhão de pessoas enfrentando insegurança alimentar grave em Cabo Delgado, Moçambique, e 27 pessoas mortas em ataques em Benue e Plateau, na Nigéria.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-07-12T08:00:00-03:00",
+    "publicado_em": "2026-07-13T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -1051,58 +1051,52 @@
   },
   "temas_principais": [
     {
-      "tema": "Incêndio em pub de Bangkok",
-      "descricao": "Pelo menos 27 pessoas morreram em um incêndio que engoliu um pub em Bangkok",
+      "tema": "Surto de Ebola",
+      "descricao": "O surto de Ebola na República Democrática do Congo continua a se espalhar, com mais de 10.000 mortes em excesso registradas na Europa devido à onda de calor extrema.",
       "fontes_que_cobriram": [
-        "smh",
-        "st",
-        "scmp"
+        "the_guardian",
+        "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "rt",
-        "mt"
-      ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizaram a tragédia e as vítimas, enquanto as fontes russas e chinesas deram mais atenção às causas do incêndio e às investigações"
-    },
-    {
-      "tema": "Tensões no Oriente Médio",
-      "descricao": "EUA e Irã continuam em confronto no Estreito de Hormuz, com ataques e contra-ataques",
-      "fontes_que_cobriram": [
-        "nyt",
-        "st",
         "rt"
       ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "aa",
-        "smh"
-      ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a agressividade do Irã, enquanto as fontes russas e iranianas acusam os EUA de provocação"
+      "divergencia_de_enquadramento": "A cobertura do surto de Ebola variou entre as fontes, com alguns destacando a resposta internacional e outros enfatizando a situação de saúde pública na região."
     },
     {
-      "tema": "Eleições em Israel",
-      "descricao": "Israel realizará eleições nacionais em 27 de outubro, com Netanyahu buscando outro mandato",
+      "tema": "Conflitos na África",
+      "descricao": "A Nigéria enfrenta desafios de segurança, com o exército matando 300 bandidos no estado noroeste de Zamfara, e a região de Cabo Delgado, em Moçambique, enfrenta insegurança alimentar grave.",
       "fontes_que_cobriram": [
-        "nyt",
-        "st",
-        "scmp"
+        "the_guardian",
+        "aa"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
+        "scmp"
+      ],
+      "divergencia_de_enquadramento": "A cobertura dos conflitos na África variou entre as fontes, com alguns destacando a resposta militar e outros enfatizando a situação humanitária."
+    },
+    {
+      "tema": "Tensões entre Rússia e Ucrânia",
+      "descricao": "A Rússia e a Ucrânia continuam a trocar ataques, com 9 mortos em troca de ataques entre os dois países.",
+      "fontes_que_cobriram": [
         "rt",
         "mt"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a importância da eleição para a política israelense, enquanto as fontes russas e chinesas deram mais atenção às implicações regionais"
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "smh"
+      ],
+      "divergencia_de_enquadramento": "A cobertura das tensões entre Rússia e Ucrânia variou entre as fontes, com alguns destacando a resposta militar e outros enfatizando a situação política."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Surto de cólera no Sudão",
-      "por_que_importa": "O surto de cólera no Sudão é uma crise humanitária que afeta milhares de pessoas",
-      "cobertura": "Apenas a AllAfrica deu cobertura ao surto de cólera no Sudão"
+      "tema": "Insegurança alimentar em Cabo Delgado",
+      "por_que_importa": "A insegurança alimentar em Cabo Delgado, Moçambique, é um tema importante que afeta a vida de quase um milhão de pessoas.",
+      "cobertura": "A cobertura desse tema foi limitada, com apenas algumas fontes destacando a situação."
     },
     {
-      "tema": "Ameaça de seca no Sudão do Sul",
-      "por_que_importa": "A seca no Sudão do Sul é uma ameaça à segurança alimentar e à estabilidade regional",
-      "cobertura": "Apenas a AllAfrica e a ONU deram cobertura à ameaça de seca no Sudão do Sul"
+      "tema": "Ataques em Benue e Plateau, na Nigéria",
+      "por_que_importa": "Os ataques em Benue e Plateau, na Nigéria, são um tema importante que afeta a segurança e a estabilidade na região.",
+      "cobertura": "A cobertura desses ataques foi limitada, com apenas algumas fontes destacando a situação."
     }
   ]
 }
