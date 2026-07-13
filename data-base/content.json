@@ -6,11 +6,11 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Surto de Ebola se espalha na RDC",
-    "subtitulo": "Enquanto a comunidade internacional luta contra o surto, a região enfrenta desafios de saúde pública e segurança",
-    "resumo": "O surto de Ebola na República Democrática do Congo continua a se espalhar, com mais de 10.000 mortes em excesso registradas na Europa devido à onda de calor extrema. A região de Ituri foi afetada, com dois medicamentos sendo testados em um programa estabelecido apenas seis semanas após a declaração do surto. A Nigéria também enfrenta desafios de segurança, com o exército matando 300 bandidos no estado noroeste de Zamfara. Além disso, a China se tornou o segundo país a alcançar a recuperação controlada de um foguete orbital reutilizável, e a Rússia e a Ucrânia continuam a trocar ataques, com 9 mortos em troca de ataques entre os dois países. A África também enfrenta desafios, com quase um milhão de pessoas enfrentando insegurança alimentar grave em Cabo Delgado, Moçambique, e 27 pessoas mortas em ataques em Benue e Plateau, na Nigéria.",
+    "titulo": "Tensões EUA-Irã e conflitos globais",
+    "subtitulo": "Análise das principais notícias do dia, com foco nas tensões entre EUA e Irã, e outros conflitos em curso",
+    "resumo": "As tensões entre EUA e Irã continuam a aumentar, com ambos os lados realizando ataques e ameaças. Enquanto isso, outros conflitos em curso, como a guerra na Ucrânia e a crise no Iêmen, também merecem atenção. Nesta edição, analisamos as principais notícias do dia e como elas se relacionam com o cenário global.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-07-13T08:00:00-03:00",
+    "publicado_em": "2026-07-13T14:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -940,52 +940,55 @@
   },
   "temas_principais": [
     {
-      "tema": "Surto de Ebola",
-      "descricao": "O surto de Ebola na República Democrática do Congo continua a se espalhar, com mais de 10.000 mortes em excesso registradas na Europa devido à onda de calor extrema.",
+      "tema": "Tensões EUA-Irã",
+      "descricao": "As tensões entre EUA e Irã continuam a aumentar, com ambos os lados realizando ataques e ameaças.",
       "fontes_que_cobriram": [
-        "the_guardian",
+        "new_york_times",
+        "euronews",
+        "rt"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "the_guardian"
+      ],
+      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar a agressividade do Irã, enquanto as fontes russas e iranianas destacam a postura defensiva do Irã."
+    },
+    {
+      "tema": "Guerra na Ucrânia",
+      "descricao": "A guerra na Ucrânia continua, com ambos os lados realizando ataques e sofrendo baixas.",
+      "fontes_que_cobriram": [
+        "euronews",
+        "rt",
         "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "rt"
+        "the_guardian"
       ],
-      "divergencia_de_enquadramento": "A cobertura do surto de Ebola variou entre as fontes, com alguns destacando a resposta internacional e outros enfatizando a situação de saúde pública na região."
+      "divergencia_de_enquadramento": "As fontes ocidentais tendem a apoiar a Ucrânia, enquanto as fontes russas defendem a posição da Rússia."
     },
     {
-      "tema": "Conflitos na África",
-      "descricao": "A Nigéria enfrenta desafios de segurança, com o exército matando 300 bandidos no estado noroeste de Zamfara, e a região de Cabo Delgado, em Moçambique, enfrenta insegurança alimentar grave.",
+      "tema": "Crise no Iêmen",
+      "descricao": "A crise no Iêmen continua, com a população sofrendo com a falta de alimentos e medicamentos.",
       "fontes_que_cobriram": [
-        "the_guardian",
+        "st",
         "aa"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "scmp"
+        "new_york_times",
+        "euronews"
       ],
-      "divergencia_de_enquadramento": "A cobertura dos conflitos na África variou entre as fontes, com alguns destacando a resposta militar e outros enfatizando a situação humanitária."
-    },
-    {
-      "tema": "Tensões entre Rússia e Ucrânia",
-      "descricao": "A Rússia e a Ucrânia continuam a trocar ataques, com 9 mortos em troca de ataques entre os dois países.",
-      "fontes_que_cobriram": [
-        "rt",
-        "mt"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "smh"
-      ],
-      "divergencia_de_enquadramento": "A cobertura das tensões entre Rússia e Ucrânia variou entre as fontes, com alguns destacando a resposta militar e outros enfatizando a situação política."
+      "divergencia_de_enquadramento": "As fontes ocidentais tendem a ignorar a crise no Iêmen, enquanto as fontes árabes e africanas destacam a gravidade da situação."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Insegurança alimentar em Cabo Delgado",
-      "por_que_importa": "A insegurança alimentar em Cabo Delgado, Moçambique, é um tema importante que afeta a vida de quase um milhão de pessoas.",
-      "cobertura": "A cobertura desse tema foi limitada, com apenas algumas fontes destacando a situação."
+      "tema": "Insegurança alimentar em Cabo Delgado, Moçambique",
+      "por_que_importa": "A insegurança alimentar é um problema grave que afeta a população de Cabo Delgado, Moçambique.",
+      "cobertura": "Apenas a fonte 'aa' cobriu esse tema."
     },
     {
-      "tema": "Ataques em Benue e Plateau, na Nigéria",
-      "por_que_importa": "Os ataques em Benue e Plateau, na Nigéria, são um tema importante que afeta a segurança e a estabilidade na região.",
-      "cobertura": "A cobertura desses ataques foi limitada, com apenas algumas fontes destacando a situação."
+      "tema": "Detenção de sismólogo americano na China",
+      "por_que_importa": "A detenção de um sismólogo americano na China é um tema importante que pode afetar as relações entre os dois países.",
+      "cobertura": "Apenas a fonte 'st' cobriu esse tema."
     }
   ]
 }
