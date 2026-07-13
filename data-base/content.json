@@ -433,167 +433,87 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-07-13T10:16:08.302Z",
+      "gerado_em": "2026-07-13T21:15:49.672Z",
       "artigos": [
         {
-          "id": "rt-2026-07-13T09-37-05-01",
-          "titulo": "Argélia e Mali restauram laços após racha de um ano",
-          "resumo": "Argélia e Mali concordaram em restaurar as relações diplomáticas após um ano de disputa desencadeada por um incidente com drone",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a54aeeb2030274fd2231e8d.jpg",
-          "link": "https://www.rt.com/africa/642932-algeria-mali-restore-ties/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-13T09:37:05-03:00"
+          "id": "rt-2026-07-13-2101",
+          "titulo": "EUA e Irã trocam ataques: O que se sabe até agora",
+          "resumo": "Irã relatou ataques a pelo menos seis bases dos EUA no Oriente Médio, enquanto o CENTCOM afirma ter atingido 'dezenas de alvos' na República Islâmica",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a553c4685f5406e0c56f79c.jpg",
+          "link": "https://www.rt.com/news/642966-iran-us-exchange-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-13T20:34:28-03:00"
         },
         {
-          "id": "rt-2026-07-13T07-32-05-02",
-          "titulo": "Ataque de drone ucraniano contra aeroportos na Rússia foi frustrado – FSB (VÍDEO)",
-          "resumo": "Um grande plano ucraniano para atacar aeroportos militares dentro da Rússia com drones FPV foi frustrado, disse o FSB",
+          "id": "rt-2026-07-13-2103",
+          "titulo": "De onde virá o próximo ataque dos EUA ao Irã",
+          "resumo": "Os EUA podem usar o Iraque como plataforma política, de inteligência e logística para pressionar o Irã sem arriscar uma invasão terrestre em grande escala",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5501b485f54058b9683c90.jpg",
+          "link": "https://www.rt.com/news/642957-americas-next-strike-on-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-13T17:51:04-03:00"
+        },
+        {
+          "id": "rt-2026-07-13-2106",
+          "titulo": "Putin promete resposta esmagadora a ataques ucranianos",
+          "resumo": "O presidente russo, Vladimir Putin, advertiu que qualquer ataque ucraniano ao território russo será respondido com uma força muito maior",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a54fe0f85f540705702895b.jpg",
+          "link": "https://www.rt.com/russia/642951-putin-overwhelming-response-ukraine-attacks/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-13T15:51:16-03:00"
+        },
+        {
+          "id": "rt-2026-07-13-2108",
+          "titulo": "Embaixadora dos EUA na Ucrânia deixará o cargo devido a investigação de corrupção",
+          "resumo": "Olga Stefanishyna deixará o cargo de embaixadora dos EUA na Ucrânia devido a uma investigação de corrupção sobre um suposto negócio de apartamento a preço reduzido",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a54e81d85f54047894e3959.jpg",
+          "link": "https://www.rt.com/russia/642950-ukraine-us-envoy-corruption/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-13T14:07:23-03:00"
+        },
+        {
+          "id": "rt-2026-07-13-2110",
+          "titulo": "Berlim comprará 50.000 drones de ataque para Kiev",
+          "resumo": "A Alemanha financiará a compra de 50.000 drones de ataque para a Ucrânia, de acordo com a Reuters",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a54e5fb203027518a3827dd.jpg",
+          "link": "https://www.rt.com/news/642945-germany-ukraine-drone-auterion/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-13T13:50:52-03:00"
+        },
+        {
+          "id": "rt-2026-07-13-2111",
+          "titulo": "Presidente de estado-membro da OTAN revela falta de entusiasmo para financiar a Ucrânia",
+          "resumo": "A Eslováquia não foi o único estado-membro da OTAN que se recusou a participar do último pacote de ajuda à Ucrânia, de acordo com o presidente do país",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a54b3ab2030274d9d5962c4.jpg",
+          "link": "https://www.rt.com/news/642933-ukraine-nato-slovakia-pellegrini/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-13T13:50:35-03:00"
+        },
+        {
+          "id": "rt-2026-07-13-2112",
+          "titulo": "Trump: EUA estão 'tomando controle' do Estreito de Ormuz",
+          "resumo": "O presidente dos EUA, Donald Trump, afirmou que os EUA estão 'tomando controle' do Estreito de Ormuz do Irã, à medida que o conflito sobre a via aquática se intensifica",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a54e3ad20302750d462d83c.jpg",
+          "link": "https://www.rt.com/news/642947-trump-iran-hormuz-escalation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-13T13:34:59-03:00"
+        },
+        {
+          "id": "rt-2026-07-13-2114",
+          "titulo": "Moscou rejeita protesto dos países bálticos sobre drones ucranianos",
+          "resumo": "A Rússia não deve prova alguma aos países bálticos sobre alegações de que permitiram que drones ucranianos usassem seu espaço aéreo, de acordo com Dmitry Peskov",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a54dfee20302754332ea351.jpg",
+          "link": "https://www.rt.com/russia/642943-peskov-baltics-ukraine-drones/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-13T12:57:16-03:00"
+        },
+        {
+          "id": "rt-2026-07-13-2116",
+          "titulo": "Navios de guerra russos e chineses realizam exercícios conjuntos",
+          "resumo": "Navios de guerra russos e chineses realizaram exercícios de tiro ao vivo no Mar Amarelo como parte dos exercícios conjuntos Mar-2026",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a54b52385f54049143d2903.jpg",
+          "link": "https://www.rt.com/russia/642934-russia-china-joint-naval-drills/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-13T11:10:12-03:00"
+        },
+        {
+          "id": "rt-2026-07-13-2120",
+          "titulo": "Ataque de drone ucraniano contra aeroportos dentro da Rússia foi frustrado – FSB",
+          "resumo": "Um complô ucraniano para atacar aeroportos militares dentro da Rússia com drones FPV foi frustrado, de acordo com a FSB",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5484e185f540445b346552.png",
           "link": "https://www.rt.com/russia/642930-drone-ukraine-airfields-fsb/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-13T07:32:05-03:00"
-        },
-        {
-          "id": "rt-2026-07-13T07-02-20-03",
-          "titulo": "Europa registra 10.000 mortes em excesso durante onda de calor extrema",
-          "resumo": "Mais de 10.000 mortes em excesso foram registradas na Europa no mês passado durante a pior onda de calor em décadas, informou a Reuters",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a54732f85f540610a7939e9.jpg",
-          "link": "https://www.rt.com/news/642929-europe-records-10000-excess-deaths/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-13T07:02:20-03:00"
-        },
-        {
-          "id": "rt-2026-07-13T07-01-23-04",
-          "titulo": "Quase uma dúzia de civis mortos nos últimos ataques de drones ucranianos na Rússia",
-          "resumo": "Ataques de drones ucranianos mataram quase uma dúzia de civis e feriram mais de dez outros em várias regiões da Rússia durante a noite",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a548b9585f540705702894d.jpg",
-          "link": "https://www.rt.com/russia/642931-russia-ukraine-drone-raid-casualties/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-13T07:01:23-03:00"
-        },
-        {
-          "id": "rt-2026-07-13T02-59-56-05",
-          "titulo": "Centenas evacuadas após arma de 'grau militar' ser encontrada perto de sinagoga em Paris",
-          "resumo": "Promotores antiterrorismo franceses lançaram uma investigação após a polícia encontrar armas em um veículo roubado perto de uma sinagoga em Paris",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a54524120302754b719c795.jpg",
-          "link": "https://www.rt.com/news/642928-hundreds-evacuated-military-grade-weapon/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-13T02:59:56-03:00"
-        },
-        {
-          "id": "rt-2026-07-13T00-23-36-06",
-          "titulo": "Irã diz a estados do Golfo para não servir como 'arenas' para ataques dos EUA",
-          "resumo": "O Irã advertiu os países vizinhos para não permitir que os EUA usem seu território para 'ataques ilegais'",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a542ef985f5405bdd4028eb.jpg",
-          "link": "https://www.rt.com/news/642927-iran-tells-gulf-states-stop/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-13T00:23:36-03:00"
-        },
-        {
-          "id": "rt-2026-07-12T21-31-39-07",
-          "titulo": "EUA retomam ataques ao Irã em meio à última escalada no Hormuz",
-          "resumo": "O Comando Central dos EUA anunciou uma quarta noite de ataques contra o Irã",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a54104d203027224221769b.png",
-          "link": "https://www.rt.com/news/642926-us-fourth-wave-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-12T21:31:39-03:00"
-        },
-        {
-          "id": "rt-2026-07-12T21-15-29-08",
-          "titulo": "Hunter Biden ganha processo por difamação sobre alegações de 'suborno iraniano'",
-          "resumo": "Hunter Biden ganhou uma ação judicial contra o apoiador de Donald Trump, Patrick Byrne, recebendo US$ 1,7 milhão em danos",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a54038785f540445b346527.jpg",
-          "link": "https://www.rt.com/news/642925-hunter-biden-iran-defamation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-12T21:15:29-03:00"
-        },
-        {
-          "id": "rt-2026-07-12T21-06-39-09",
-          "titulo": "Casa Branca convoca repórteres do NYT sobre artigo sobre o Air Force One doado pelo Catar",
-          "resumo": "A administração Trump convocou vários repórteres do New York Times sobre um artigo sobre o Air Force One doado pelo Catar",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a53e5cf85f5407d0a6f0aac.jpg",
-          "link": "https://www.rt.com/news/642924-trump-admin-subpoenas-reporters-article-qatari-donated-air-force-one/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-12T21:06:39-03:00"
-        },
-        {
-          "id": "rt-2026-07-12T20-39-53-10",
-          "titulo": "Lindsey Graham foi um monstro, mas não excepcional",
-          "resumo": "A morte de Lindsey Graham provocou elogios de líderes ocidentais, mas seu histórico sobre Gaza, Irã e Ucrânia conta uma história muito mais sombria",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a53dba2203027158e440c9f.jpg",
-          "link": "https://www.rt.com/news/642923-lindsey-graham-was-monster/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-12T20:39:53-03:00"
-        },
-        {
-          "id": "rt-2026-07-12T19-33-00-11",
-          "titulo": "Centenas de drones ucranianos interceptados enquanto se aproximavam de Moscou – prefeito",
-          "resumo": "As defesas aéreas russas interceptaram mais de 60 drones ucranianos que se aproximavam de Moscou, disse o prefeito Sergey Sobyanin",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a53ebcd203027158e440ca2.jpg",
-          "link": "https://www.rt.com/russia/642917-ukrainian-drones-intercepted-moscow/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-12T19:33:00-03:00"
-        },
-        {
-          "id": "rt-2026-07-12T18-44-14-12",
-          "titulo": "Drones iranianos destroem lançadores HIMARS dos EUA – mídia (VÍDEOS)",
-          "resumo": "Ataques de drones iranianos destruíram lançadores HIMARS dos EUA no Kuwait, com três militares americanos mortos, segundo a Fars",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a53da4f85f540705702893c.jpg",
-          "link": "https://www.rt.com/news/642922-iran-himars-attack-kuwait/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-12T18:44:14-03:00"
-        },
-        {
-          "id": "rt-2026-07-12T16-34-01-13",
-          "titulo": "Forças militares russas atacam porto ucraniano com drones com IA – Ministério da Defesa (VÍDEOS)",
-          "resumo": "O Ministério da Defesa russo divulgou imagens de drones de ataques a navios de transporte e militares ucranianos na região de Odessa",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a53c1e185f5405bdd4028d7.png",
-          "link": "https://www.rt.com/russia/642910-drone-strikes-ukrainian-port/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-12T16:34:01-03:00"
-        },
-        {
-          "id": "rt-2026-07-12T15-44-13-14",
-          "titulo": "Comissão Europeia recomenda desfinanciar a Bienal de Veneza devido ao retorno da Rússia",
-          "resumo": "A Comissão Europeia recomendou desfinanciar a Bienal de Veneza devido à reabertura do pavilhão da Rússia",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a53b111203027173211ad04.jpg",
-          "link": "https://www.rt.com/news/642916-eu-defunding-venice-biennale-russia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-12T15:44:13-03:00"
-        },
-        {
-          "id": "rt-2026-07-12T13-11-23-15",
-          "titulo": "Zelensky anuncia grande reestruturação do governo",
-          "resumo": "O líder ucraniano Vladimir Zelensky anunciou uma reestruturação do governo, com a primeira-ministra Yulia Sviridenko assumindo um novo cargo",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5395ca85f54058b9683c3c.jpg",
-          "link": "https://www.rt.com/russia/642913-zelensky-announces-major-government-reshuffle/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-12T13:11:23-03:00"
-        },
-        {
-          "id": "rt-2026-07-12T12-55-48-16",
-          "titulo": "EUA pagam o preço por não manter sua palavra – principal negociador do Irã",
-          "resumo": "O Irã não permitirá que os EUA violuem o memorando de entendimento (MoU) com impunidade, advertiu o principal negociador de Teerã",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5383ad203027194439a345.jpg",
-          "link": "https://www.rt.com/news/642912-iran-us-hormuz-ghalibaf/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-12T12:55:48-03:00"
-        },
-        {
-          "id": "rt-2026-07-12T12-44-40-17",
-          "titulo": "A Europa Ocidental está dormindo em direção ao suicídio civilizacional",
-          "resumo": "O continente está sem tempo para decidir que tipo de lugar ele quer ser",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a538bf5203027664b157016.jpg",
-          "link": "https://www.rt.com/news/642911-western-europe-civilizational-suicide/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-12T12:44:40-03:00"
-        },
-        {
-          "id": "rt-2026-07-12T09-36-57-18",
-          "titulo": "Primeiros pagamentos vão para vítimas do 'Síndrome de Havana' nos EUA",
-          "resumo": "O Pentágono anunciou que começou a compensar pessoal dos EUA afetado pelo 'Síndrome de Havana'",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a532ab820302775a573bbb7.jpg",
-          "link": "https://www.rt.com/news/642905-havana-syndrome-us-pentagon/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-12T09:36:57-03:00"
-        },
-        {
-          "id": "rt-2026-07-12T06-33-28-19",
-          "titulo": "Senador dos EUA Lindsey Graham morre",
-          "resumo": "O senador republicano dos EUA Lindsey Graham morreu aos 71 anos, segundo sua conta no X",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a53416420302763a83dffcc.jpg",
-          "link": "https://www.rt.com/news/642907-warhawk-us-senator-lindsey-graham/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-12T06:33:28-03:00"
-        },
-        {
-          "id": "rt-2026-07-12T04-50-53-20",
-          "titulo": "Congressista dos EUA diz que foi detido por colonos israelenses armados",
-          "resumo": "O congressista dos EUA Ro Khanna diz que foi detido por colonos israelenses armados na Cisjordânia ocupada",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a53182685f5401fb67a7a7f.jpg",
-          "link": "https://www.rt.com/news/642904-us-congressman-detained-israeli-settlers/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-12T04:50:53-03:00"
         }
       ]
     },
