@@ -5,10 +5,10 @@
   "itens_urgentes": {},
   "destaques": [],
   "capa": {
-    "categoria_nome": "O que marcou o dia?",
-    "titulo": "Conflitos globais e tensões",
-    "subtitulo": "De ataques aéreos na Ucrânia a disputas no Mar da China Meridional, o mundo enfrenta múltiplos pontos de tensão",
-    "resumo": "O dia foi marcado por uma série de conflitos e tensões em diferentes partes do mundo. Na Ucrânia, ataques aéreos e trocas de acusações entre Kyiv e Moscou dominaram as manchetes. No Mar da China Meridional, a China propôs soluções para disputas territoriais, enquanto a situação no Golfo se intensificou com o anúncio de taxas de pedágio pelo presidente Trump. Em outras partes do mundo, notícias de ataques, execuções e disputas políticas também chamaram a atenção. A crise humanitária no Sudão e a situação dos refugiados em várias regiões do planeta são apenas alguns dos muitos desafios que o mundo enfrenta. Neste contexto, a importância de uma cobertura jornalística equilibrada e ampla nunca foi tão crucial, permitindo que os leitores tenham uma visão abrangente dos eventos globais.",
+    "categoria_nome": "Conflitos Globais",
+    "titulo": "EUA e Irã: Conflito no Estreito de Hormuz",
+    "subtitulo": "Tensões aumentam com ataques a petroleiros e ameaças de retaliação",
+    "resumo": "O conflito entre os EUA e o Irã continua a escalar, com ataques a petroleiros no Estreito de Hormuz e ameaças de retaliação. Enquanto isso, a Europa se une em apoio à Ucrânia, e a Rússia ataca sites de produção de drones e mísseis ucranianos. A Nigéria também está enfrentando desafios, com o governo afirmando que o exército matou 300 bandidos no estado noroeste de Zamfara. Além disso, a África está lidando com a deterioração da segurança, com juntas militares restringindo civis, e a Uganda está experimentando temperaturas acima da média. A Austrália, por sua vez, está preocupada com o suprimento de combustível devido à incerteza no Oriente Médio.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-07-14T08:00:00-03:00",
     "link": null,
@@ -1025,54 +1025,52 @@
   },
   "temas_principais": [
     {
-      "tema": "Conflitos no Golfo",
-      "descricao": "Tensões entre EUA, Irã e Arábia Saudita aumentam com ataques e contra-ataques",
+      "tema": "Conflito EUA-Irã",
+      "descricao": "Ataques a petroleiros e ameaças de retaliação no Estreito de Hormuz",
       "fontes_que_cobriram": [
-        "new_york_times",
         "euronews",
-        "rt"
+        "new_york_times",
+        "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "scmp"
+        "rt"
       ],
-      "divergencia_de_enquadramento": "Enquanto a New York Times e a Euronews destacam a escalada de tensões, a RT enfatiza a posição russa sobre o conflito"
+      "divergencia_de_enquadramento": "Enquanto a euronews e o New York Times destacam as tensões entre os EUA e o Irã, a RT enfatiza a posição da Rússia em relação ao conflito."
     },
     {
-      "tema": "Ucrânia",
-      "descricao": "Ataques aéreos e acusações entre Ucrânia e Rússia",
+      "tema": "Guerra na Ucrânia",
+      "descricao": "Rússia ataca sites de produção de drones e mísseis ucranianos",
       "fontes_que_cobriram": [
-        "the_guardian",
-        "st",
+        "rt",
         "mt"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "smh"
+        "the_guardian"
       ],
-      "divergencia_de_enquadramento": "The Guardian e o Straits Times destacam as consequências humanitárias, enquanto a Moscow Times enfoca a perspectiva russa"
+      "divergencia_de_enquadramento": "A RT e a Moscow Times destacam a posição da Rússia em relação à Ucrânia, enquanto o The Guardian enfatiza a importância do apoio europeu à Ucrânia."
     },
     {
-      "tema": "Mar da China Meridional",
-      "descricao": "Disputas territoriais e propostas chinesas para resolução",
+      "tema": "Segurança na África",
+      "descricao": "Juntas militares restringindo civis e deterioração da segurança",
       "fontes_que_cobriram": [
-        "scmp",
-        "st"
+        "aa"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
         "new_york_times"
       ],
-      "divergencia_de_enquadramento": "O South China Morning Post oferece uma análise detalhada das propostas chinesas, enquanto o Straits Times destaca as implicações regionais"
+      "divergencia_de_enquadramento": "A AllAfrica destaca a deterioração da segurança na África, enquanto o New York Times não aborda o tema."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Crise humanitária no Sudão",
-      "por_que_importa": "A situação no Sudão é um dos principais desafios humanitários atuais, com milhares de pessoas afetadas",
-      "cobertura": "Apenas a AllAfrica deu uma cobertura significativa, enquanto outras fontes ignoraram ou minimizaram o tema"
+      "tema": "Suprimento de combustível na Austrália",
+      "por_que_importa": "Preocupações com o aumento dos preços dos combustíveis devido à incerteza no Oriente Médio",
+      "cobertura": "Apenas o SMH cobriu o tema"
     },
     {
-      "tema": "Refugiados e migração",
-      "por_que_importa": "A crise de refugiados é um problema global, com impactos significativos nas economias e sociedades",
-      "cobertura": "A cobertura foi limitada, com apenas algumas menções esparsas nas fontes consultadas"
+      "tema": "Temperaturas acima da média na Uganda",
+      "por_que_importa": "Implicações para a produção de alimentos e a segurança alimentar",
+      "cobertura": "Apenas a AllAfrica cobriu o tema"
     }
   ]
 }
