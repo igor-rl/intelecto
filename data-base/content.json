@@ -473,87 +473,167 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-07-13T21:15:49.672Z",
+      "gerado_em": "2026-07-14T10:15:58.026Z",
       "artigos": [
         {
-          "id": "rt-2026-07-13-2101",
+          "id": "rt-2026-07-14-01",
+          "titulo": "Trump apoiou ataques sauditas ao Iêmen",
+          "resumo": "Donald Trump aprovou ataques sauditas contra os houthis do Iêmen, potencialmente ampliando o confronto com o Irã, segundo relatos da Axios",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a56015f203027331f030057.jpg",
+          "link": "https://www.rt.com/news/643014-trump-backed-saudi-strikes-houthis-yemen/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-14T09:44:08-03:00"
+        },
+        {
+          "id": "rt-2026-07-14-02",
+          "titulo": "Comandante ucraniano preso por execuções de civis",
+          "resumo": "Um ex-comandante de brigada ucraniana foi detido em Kiev por suposta abdução e assassinato de dois civis",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a55fadc203027371a2df682.jpg",
+          "link": "https://www.rt.com/russia/643011-ukraine-commander-civilian-executions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-14T09:18:30-03:00"
+        },
+        {
+          "id": "rt-2026-07-14-03",
+          "titulo": "Forças malianas e russas retomam cidade estratégica no norte",
+          "resumo": "As forças militares de Mali e o Corpo Africano da Rússia retomaram o controle da cidade estratégica de Anefis, no norte do país",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a55dee72030272e91479531.png",
+          "link": "https://www.rt.com/africa/643002-malian-russian-forces-reclaim-strategic-town-anefis/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-14T08:23:08-03:00"
+        },
+        {
+          "id": "rt-2026-07-14-04",
+          "titulo": "Ataque de drone ucraniano a empresa estratégica foi frustrado – FSB",
+          "resumo": "O FSB destruiu 35 drones e deteve dois suspeitos envolvidos em um ataque ucraniano a uma empresa de defesa russa",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a556a672030270b844c29f5.png",
+          "link": "https://www.rt.com/russia/642974-ukraine-drone-attack-foil-fsb/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-14T06:01:35-03:00"
+        },
+        {
+          "id": "rt-2026-07-14-05",
+          "titulo": "Bancos ocidentais processam empresa alemã por saída da Rússia",
+          "resumo": "Bancos ocidentais processaram a empresa alemã Linde por perdas após sua saída de um projeto de gás na Rússia devido a sanções da UE",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5549d42030277c56753546.jpg",
+          "link": "https://www.rt.com/business/642964-western-lenders-germany-lawsuit-russia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-14T04:09:18-03:00"
+        },
+        {
+          "id": "rt-2026-07-14-06",
+          "titulo": "Voto sobre migração na UE gera controvérsia",
+          "resumo": "Um voto sobre imigração no Parlamento Europeu levou a uma queixa criminal de um deputado contra outro por suposto racismo",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a55448385f54062c9103f5b.jpg",
+          "link": "https://www.rt.com/news/642967-eu-migration-scandal/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-14T02:03:46-03:00"
+        },
+        {
+          "id": "rt-2026-07-14-07",
+          "titulo": "Político polonês joga retrato de Zelensky na lixeira",
+          "resumo": "Um político polonês jogou o retrato de Zelensky na lixeira em uma rede social, acusando Kiev de glorificar nazistas",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a55053a85f5406ce76e752b.png",
+          "link": "https://www.rt.com/news/642956-poland-ukraine-zelensky-hitler/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-13T23:37:25-03:00"
+        },
+        {
+          "id": "rt-2026-07-14-08",
+          "titulo": "Irã responde após Trump reiniciar guerra",
+          "resumo": "A troca de ataques entre EUA e Irã entrou em seu terceiro dia após Trump declarar o memorando de entendimento com Teerã como um teste falho",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a55658185f5407d0a6f0b01.png",
+          "link": "https://www.rt.com/news/642969-us-iran-war-updates/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-13T22:11:21-03:00"
+        },
+        {
+          "id": "rt-2026-07-14-09",
+          "titulo": "Trump informa ao Congresso que a guerra com o Irã está de volta",
+          "resumo": "O presidente Donald Trump notificou o Congresso de que os EUA estão novamente em guerra com o Irã",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a55544e2030270b844c29ec.jpg",
+          "link": "https://www.rt.com/news/642968-trump-congress-new-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-13T21:24:38-03:00"
+        },
+        {
+          "id": "rt-2026-07-14-10",
           "titulo": "EUA e Irã trocam ataques: O que se sabe até agora",
-          "resumo": "Irã relatou ataques a pelo menos seis bases dos EUA no Oriente Médio, enquanto o CENTCOM afirma ter atingido 'dezenas de alvos' na República Islâmica",
+          "resumo": "O Irã relatou ter atacado pelo menos seis bases dos EUA no Oriente Médio, enquanto o CENTCOM afirma ter atingido 'dezenas de alvos' na República Islâmica",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a553c4685f5406e0c56f79c.jpg",
           "link": "https://www.rt.com/news/642966-iran-us-exchange-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-13T20:34:28-03:00"
         },
         {
-          "id": "rt-2026-07-13-2103",
-          "titulo": "De onde virá o próximo ataque dos EUA ao Irã",
+          "id": "rt-2026-07-14-11",
+          "titulo": "Empresas não estão preparando seus funcionários para a onda de IA",
+          "resumo": "As empresas estão correndo para automatizar, mas muitos funcionários estão sendo deixados sem treinamento, clareza ou salvaguardas necessárias para se adaptar",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5518a42030277c874e94cb.jpg",
+          "link": "https://www.rt.com/news/642965-corporations-workers-ai-fear/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-13T19:20:29-03:00"
+        },
+        {
+          "id": "rt-2026-07-14-12",
+          "titulo": "O próximo ataque dos EUA ao Irã virá de onde?",
           "resumo": "Os EUA podem usar o Iraque como plataforma política, de inteligência e logística para pressionar o Irã sem arriscar uma invasão terrestre em grande escala",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5501b485f54058b9683c90.jpg",
           "link": "https://www.rt.com/news/642957-americas-next-strike-on-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-13T17:51:04-03:00"
         },
         {
-          "id": "rt-2026-07-13-2106",
+          "id": "rt-2026-07-14-13",
+          "titulo": "Dezenas de mortos em incêndio em bar de Bangkok",
+          "resumo": "Um incêndio mortal em um bar de Bangkok matou pelo menos 28 pessoas e deixou 25 feridas criticamente",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a54e744203027019a4d7c04.png",
+          "link": "https://www.rt.com/news/642949-28-dead-bangkok-bar-fire/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-13T16:57:09-03:00"
+        },
+        {
+          "id": "rt-2026-07-14-14",
+          "titulo": "Corpos de 15 vítimas de acidente de barco devolvidos à Índia",
+          "resumo": "Os corpos de 15 turistas indianos que morreram em um acidente de barco no Vietnã foram trazidos de volta à Índia na segunda-feira",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a55014385f54062687ba63f.jpg",
+          "link": "https://www.rt.com/india/642961-indian-tourists-boat-accident/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-13T16:29:31-03:00"
+        },
+        {
+          "id": "rt-2026-07-14-15",
           "titulo": "Putin promete resposta esmagadora a ataques ucranianos",
-          "resumo": "O presidente russo, Vladimir Putin, advertiu que qualquer ataque ucraniano ao território russo será respondido com uma força muito maior",
+          "resumo": "O presidente russo Vladimir Putin advertiu que qualquer ataque ucraniano ao território russo será respondido com uma força muito maior",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a54fe0f85f540705702895b.jpg",
           "link": "https://www.rt.com/russia/642951-putin-overwhelming-response-ukraine-attacks/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-13T15:51:16-03:00"
         },
         {
-          "id": "rt-2026-07-13-2108",
-          "titulo": "Embaixadora dos EUA na Ucrânia deixará o cargo devido a investigação de corrupção",
-          "resumo": "Olga Stefanishyna deixará o cargo de embaixadora dos EUA na Ucrânia devido a uma investigação de corrupção sobre um suposto negócio de apartamento a preço reduzido",
+          "id": "rt-2026-07-14-16",
+          "titulo": "Setor privado impulsiona produção de defesa na Índia",
+          "resumo": "Empresas de propriedade privada estão rapidamente aumentando sua participação na produção de defesa do país, segundo relatos da RT Índia",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a54fd9020302707122fe592.jpg",
+          "link": "https://www.rt.com/india/642948-india-defense-production-drones/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-13T15:00:54-03:00"
+        },
+        {
+          "id": "rt-2026-07-14-17",
+          "titulo": "Embaixadora da Ucrânia nos EUA deixará o cargo devido a investigação de corrupção",
+          "resumo": "Olga Stefanishyna deixará o cargo de embaixadora da Ucrânia nos EUA devido a uma investigação de corrupção sobre um suposto negócio de apartamento a preço reduzido, segundo o FT",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a54e81d85f54047894e3959.jpg",
           "link": "https://www.rt.com/russia/642950-ukraine-us-envoy-corruption/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-13T14:07:23-03:00"
         },
         {
-          "id": "rt-2026-07-13-2110",
+          "id": "rt-2026-07-14-18",
+          "titulo": "Por que os americanos não acreditam mais nos EUA",
+          "resumo": "O 250º aniversário dos EUA chegou em meio a crescentes dúvidas sobre democracia, prosperidade e unidade nacional",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a54e6902030277c874e9495.png",
+          "link": "https://www.rt.com/news/642938-why-americans-no-longer-believe/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-13T13:53:41-03:00"
+        },
+        {
+          "id": "rt-2026-07-14-19",
           "titulo": "Berlim comprará 50.000 drones de ataque para Kiev",
-          "resumo": "A Alemanha financiará a compra de 50.000 drones de ataque para a Ucrânia, de acordo com a Reuters",
+          "resumo": "A Alemanha financiará a compra de 50.000 drones de ataque para a Ucrânia, segundo relatos da Reuters",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a54e5fb203027518a3827dd.jpg",
           "link": "https://www.rt.com/news/642945-germany-ukraine-drone-auterion/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-13T13:50:52-03:00"
         },
         {
-          "id": "rt-2026-07-13-2111",
-          "titulo": "Presidente de estado-membro da OTAN revela falta de entusiasmo para financiar a Ucrânia",
-          "resumo": "A Eslováquia não foi o único estado-membro da OTAN que se recusou a participar do último pacote de ajuda à Ucrânia, de acordo com o presidente do país",
+          "id": "rt-2026-07-14-20",
+          "titulo": "Presidente da Eslováquia revela falta de entusiasmo da OTAN para financiar a Ucrânia",
+          "resumo": "A Eslováquia não foi o único estado da OTAN que se recusou a participar do último pacote de ajuda à Ucrânia, segundo o presidente do país",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a54b3ab2030274d9d5962c4.jpg",
           "link": "https://www.rt.com/news/642933-ukraine-nato-slovakia-pellegrini/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-13T13:50:35-03:00"
-        },
-        {
-          "id": "rt-2026-07-13-2112",
-          "titulo": "Trump: EUA estão 'tomando controle' do Estreito de Ormuz",
-          "resumo": "O presidente dos EUA, Donald Trump, afirmou que os EUA estão 'tomando controle' do Estreito de Ormuz do Irã, à medida que o conflito sobre a via aquática se intensifica",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a54e3ad20302750d462d83c.jpg",
-          "link": "https://www.rt.com/news/642947-trump-iran-hormuz-escalation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-13T13:34:59-03:00"
-        },
-        {
-          "id": "rt-2026-07-13-2114",
-          "titulo": "Moscou rejeita protesto dos países bálticos sobre drones ucranianos",
-          "resumo": "A Rússia não deve prova alguma aos países bálticos sobre alegações de que permitiram que drones ucranianos usassem seu espaço aéreo, de acordo com Dmitry Peskov",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a54dfee20302754332ea351.jpg",
-          "link": "https://www.rt.com/russia/642943-peskov-baltics-ukraine-drones/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-13T12:57:16-03:00"
-        },
-        {
-          "id": "rt-2026-07-13-2116",
-          "titulo": "Navios de guerra russos e chineses realizam exercícios conjuntos",
-          "resumo": "Navios de guerra russos e chineses realizaram exercícios de tiro ao vivo no Mar Amarelo como parte dos exercícios conjuntos Mar-2026",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a54b52385f54049143d2903.jpg",
-          "link": "https://www.rt.com/russia/642934-russia-china-joint-naval-drills/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-13T11:10:12-03:00"
-        },
-        {
-          "id": "rt-2026-07-13-2120",
-          "titulo": "Ataque de drone ucraniano contra aeroportos dentro da Rússia foi frustrado – FSB",
-          "resumo": "Um complô ucraniano para atacar aeroportos militares dentro da Rússia com drones FPV foi frustrado, de acordo com a FSB",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5484e185f540445b346552.png",
-          "link": "https://www.rt.com/russia/642930-drone-ukraine-airfields-fsb/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-13T07:32:05-03:00"
         }
       ]
     },
