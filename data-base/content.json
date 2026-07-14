@@ -124,95 +124,119 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-07-14T10:00:02.265Z",
+      "gerado_em": "2026-07-14T21:00:01.755Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-07-14-1001",
-          "titulo": "Preço do Petróleo Sobem Acima de $85 o Barril à Medida que Conflito no Golfo se Intensifica",
-          "resumo": "O petróleo Brent, o padrão internacional, ultrapassou $85 por barril pela primeira vez em um mês.",
-          "link": "https://www.nytimes.com/2026/07/14/business/oil-prices-iran-war.html",
+          "id": "new_york_times-2026-07-14-2101",
+          "titulo": "Trump Muda de Opinião Sobre o Estreito de Hormuz, Criando Novos Riscos para a Economia Global",
+          "resumo": "O presidente agora quer que as nações do Golfo invistam nos EUA em troca de passagem segura. Especialistas da indústria de navegação temem que outras nações sigam esse exemplo.",
           "imagem": null,
-          "publicado_em": "2026-07-14T08:53:43-03:00"
+          "link": "https://www.nytimes.com/2026/07/14/business/trump-strait-of-hormuz.html",
+          "publicado_em": "2026-07-14T18:50:34.000Z"
         },
         {
-          "id": "new_york_times-2026-07-14-1002",
-          "titulo": "Plano de Trump para Cobrar Pedágio no Estreito de Ormuz: O que Saber",
-          "resumo": "O presidente Trump anunciou uma taxa de 20% sobre cargas que passam pelo estreito, apesar de sua própria administração considerar que tais taxas violam o direito internacional.",
-          "link": "https://www.nytimes.com/2026/07/14/world/middleeast/trump-iran-strait-hormuz-toll-oil.html",
+          "id": "new_york_times-2026-07-14-2102",
+          "titulo": "Democratas do Senado Bloqueiam Projeto de Lei de Defesa devido à Guerra no Irã",
+          "resumo": "O voto refletiu como o debate político sobre o conflito no Oriente Médio esgotou o apoio bipartidário a uma medida normalmente popular.",
           "imagem": null,
-          "publicado_em": "2026-07-14T09:46:56-03:00"
+          "link": "https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html",
+          "publicado_em": "2026-07-14T19:43:54.000Z"
         },
         {
-          "id": "new_york_times-2026-07-14-1003",
-          "titulo": "Blanche Foi uma Força Motriz na Campanha de Retaliação, Mostram E-mails",
-          "resumo": "A cooperação de Todd Blanche na campanha de retaliação do presidente Trump contra inimigos será um ponto crítico em sua audiência de confirmação para ser procurador-geral na quarta-feira.",
-          "link": "https://www.nytimes.com/2026/07/14/us/politics/blanche-was-a-driving-force-in-retribution-campaign-emails-show.html",
+          "id": "new_york_times-2026-07-14-2103",
+          "titulo": "Trump Recebeu US$ 2 Milhões de Empresa Sul-Coreana que Enfrenta Investigação de Comércio",
+          "resumo": "O pagamento ilustra o campo minado que o Sr. Trump criou ao manter laços financeiros pessoais com empresas estrangeiras enquanto está no cargo.",
           "imagem": null,
-          "publicado_em": "2026-07-14T09:03:28-03:00"
+          "link": "https://www.nytimes.com/2026/07/14/us/politics/trump-south-korea-aluminum.html",
+          "publicado_em": "2026-07-14T16:35:57.000Z"
         },
         {
-          "id": "new_york_times-2026-07-14-1004",
-          "titulo": "Em Raro Testemunho, Juízes da Suprema Corte Pedirão Fundos de Segurança ao Congresso",
-          "resumo": "Elena Kagan e Amy Coney Barrett, as primeiras juízas a comparecer perante legisladores desde 2019, estão solicitando milhões de dólares para abordar preocupações de segurança diante de ameaças crescentes.",
-          "link": "https://www.nytimes.com/2026/07/14/us/politics/supreme-court-congress-testimony-security.html",
+          "id": "new_york_times-2026-07-14-2104",
+          "titulo": "‘Estou Frustrado’: E-mails Mostram o Papel de Blanche na Campanha de Retaliação de Trump",
+          "resumo": "A cooperação de Todd Blanche será um ponto crítico na sua audiência de confirmação para ser procurador-geral na quarta-feira.",
           "imagem": null,
-          "publicado_em": "2026-07-14T09:03:34-03:00"
+          "link": "https://www.nytimes.com/2026/07/14/us/politics/todd-blanche-trump-enemies-emails.html",
+          "publicado_em": "2026-07-14T13:50:11.000Z"
         },
         {
-          "id": "new_york_times-2026-07-14-1005",
-          "titulo": "Estado Vermelho, Governador Azul: Pode Acontecer em Iowa. Isso Importaria?",
-          "resumo": "Os democratas têm esperanças reais para candidatos a governador em estados vermelhos como Iowa e Ohio, mas se os republicanos conquistarem supermaiorias nas legislaturas, seu poder seria limitado.",
-          "link": "https://www.nytimes.com/2026/07/14/us/politics/republican-supermajority-iowa-ohio.html",
+          "id": "new_york_times-2026-07-14-2105",
+          "titulo": "Mahmoud Khalil Acusa Oficiais de Trump de Conspirarem Contra Ele",
+          "resumo": "O Sr. Khalil agora terá que convencer um juiz de que os réus coordenaram ações contra ele e outros ativistas pró-palestinos.",
           "imagem": null,
-          "publicado_em": "2026-07-14T09:02:27-03:00"
+          "link": "https://www.nytimes.com/2026/07/14/nyregion/mahmoud-khalil-trump-conspiracy-lawsuit.html",
+          "publicado_em": "2026-07-14T17:28:44.000Z"
         },
         {
-          "id": "new_york_times-2026-07-14-1006",
-          "titulo": "Morte de Graham Complica Agenda do Partido Republicano no Congresso",
-          "resumo": "Os senadores retornaram ao Capitólio lamentando a morte de seu colega, que desempenhou papéis cruciais em várias questões que confrontam os legisladores.",
-          "link": "https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-death-complications-gop-agenda.html",
+          "id": "new_york_times-2026-07-14-2106",
+          "titulo": "ICE é Ordenado a Parar a Maioria das Paradas de Veículos Após Tiroteios Fatais em Maine e Houston",
+          "resumo": "Agentes atiraram fatalmente em um homem em Houston e outro na costa do Maine, ambos em seus veículos. Os assassinatos foram os últimos em uma série de tiroteios da ICE durante o segundo mandato do presidente Trump.",
           "imagem": null,
-          "publicado_em": "2026-07-14T01:02:32-03:00"
+          "link": "https://www.nytimes.com/2026/07/14/us/ice-agents-traffic-stops.html",
+          "publicado_em": "2026-07-14T17:02:07.000Z"
         },
         {
-          "id": "new_york_times-2026-07-14-1007",
-          "titulo": "Procurando Controle da Câmara, Democratas Tentam Novamente em Distritos Rurais",
-          "resumo": "Candidatos como Beth Macy, autora de “Dopesick”, criaram mensagens baseadas em suas vidas em regiões rurais. Mas as mensagens precisam de uma audiência, e muitas mentes estão fechadas para o partido.",
-          "link": "https://www.nytimes.com/2026/07/14/us/politics/rural-democrats-midterms.html",
+          "id": "new_york_times-2026-07-14-2107",
+          "titulo": "Homem na Flórida é Atropelado Fatalmente por Caminhão Enquanto Foge da ICE, Diz Oficial",
+          "resumo": "Detalhes sobre o que exatamente aconteceu em uma estação de gasolina em St. Augustine antes de o homem ser atropelado não estavam claros na terça-feira.",
           "imagem": null,
-          "publicado_em": "2026-07-14T09:02:01-03:00"
+          "link": "https://www.nytimes.com/2026/07/14/us/florida-ice-death-immigration.html",
+          "publicado_em": "2026-07-14T17:20:19.000Z"
         },
         {
-          "id": "new_york_times-2026-07-14-1011",
-          "titulo": "Trump Deixará a Ucrânia Construir Patriots. A Ucrânia Também Quer Fabricar Mísseis Caseiros",
-          "resumo": "A empresa ucraniana Fire Point produziu armas que atingiram território russo. Seu próximo objetivo, desenvolver um sistema antimíssil, é um desafio muito maior, disseram especialistas.",
-          "link": "https://www.nytimes.com/2026/07/14/world/europe/ukraine-fire-point-patriot-missiles.html",
+          "id": "new_york_times-2026-07-14-2108",
+          "titulo": "Pontos Principais do Testemunho Congressional das Justiças Kagan e Barrett sobre Segurança do Supremo Tribunal",
+          "resumo": "Elena Kagan e Amy Coney Barrett, as primeiras justiças do Supremo Tribunal a testemunhar desde 2019, falaram sobre ética e ameaças à segurança durante uma audiência cordial.",
           "imagem": null,
-          "publicado_em": "2026-07-14T09:02:37-03:00"
+          "link": "https://www.nytimes.com/2026/07/14/us/politics/supreme-court-congress-takeaways.html",
+          "publicado_em": "2026-07-14T18:41:03.000Z"
         },
         {
-          "id": "new_york_times-2026-07-14-1012",
-          "titulo": "Como um Promissor Programa de Barcos Drones da Marinha Ficou Preso na Política",
-          "resumo": "Reformas de aquisição da Marinha derrubaram uma competição de contrato de $2,1 bilhão. Quando terminou, várias empresas com ligações à administração Trump fizeram a lista.",
-          "link": "https://www.nytimes.com/2026/07/14/us/politics/navy-drone-boat-acquisitions.html",
+          "id": "new_york_times-2026-07-14-2109",
+          "titulo": "E. Jean Carroll Recebe US$ 5,6 Milhões de Trump em Caso Civil",
+          "resumo": "Um júri federal considerou o presidente Trump responsável por abusar sexualmente e difamar a Sra. Carroll. Ele esgotou seus recursos no mês passado, o que levou um juiz a ordenar que o dinheiro fosse pago.",
           "imagem": null,
-          "publicado_em": "2026-07-14T09:00:38-03:00"
+          "link": "https://www.nytimes.com/2026/07/14/nyregion/carroll-trump-settlement-million.html",
+          "publicado_em": "2026-07-14T18:58:25.000Z"
         },
         {
-          "id": "new_york_times-2026-07-14-1016",
-          "titulo": "Incêndio em Bar de Bangkok: Sinais de Falhas Fatais Repetidas em Todo o Mundo",
-          "resumo": "Após um incêndio que matou 30 pessoas, a atenção se voltou para saber se o local usava espuma inflamável nos tetos e tinha saídas bloqueadas.",
-          "link": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
+          "id": "new_york_times-2026-07-14-2111",
+          "titulo": "Morte de Lindsey Graham Deixa o Destino da Lei de Sanções à Rússia Incerto",
+          "resumo": "Apoiantes de ambos os partidos esperam que a medida para penalizar a Rússia, defendida pelo senador Lindsey Graham, ganhe impulso em sua homenagem.",
           "imagem": null,
-          "publicado_em": "2026-07-14T09:46:07-03:00"
+          "link": "https://www.nytimes.com/2026/07/14/us/politics/graham-death-russia-sanctions-trump.html",
+          "publicado_em": "2026-07-14T20:55:01.000Z"
         },
         {
-          "id": "new_york_times-2026-07-14-1022",
-          "titulo": "Pat Oliphant, Cartunista que Criticou os Poderosos, Morre Aos 90 Anos",
-          "resumo": "Vencedor de inúmeros prêmios, incluindo um Prêmio Pulitzer, ele foi descrito em 1990 como “o cartunista político mais influente em atividade”.",
-          "link": "https://www.nytimes.com/2026/07/13/arts/pat-oliphant-dead.html",
+          "id": "new_york_times-2026-07-14-2112",
+          "titulo": "Roger Worthington Processa devido a uma Onda de Calor",
+          "resumo": "Roger Worthington está ajudando a liderar um processo de US$ 50 bilhões contra produtores de petróleo. Esta semana ele enfrentará críticos poderosos no Congresso.",
           "imagem": null,
-          "publicado_em": "2026-07-14T03:31:41-03:00"
+          "link": "https://www.nytimes.com/2026/07/14/climate/roger-worthington-portland-oil-industry-lawyer.html",
+          "publicado_em": "2026-07-14T14:50:57.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-14-2115",
+          "titulo": "Texas Enfrenta Chuvas Potencialmente ‘Catastróficas’",
+          "resumo": "Tempestades intensas durante a noite caíram chuvas pesadas, e mais chuva está a caminho. Previsores alertaram sobre a probabilidade crescente de inundações em todo o estado.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/14/weather/texas-flash-flooding-rain.html",
+          "publicado_em": "2026-07-14T18:49:57.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-14-2116",
+          "titulo": "Tornados no Maine? Uma Previsão Rara para Partes dos EUA e do Canadá",
+          "resumo": "Tempestades na terça-feira podem produzir ventos danosos, granizo grande e até tornados em áreas onde eles não são comuns.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/14/weather/maine-vermont-tornado-quebec.html",
+          "publicado_em": "2026-07-14T17:47:05.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-14-2120",
+          "titulo": "A Guerra entre a Ucrânia e a Rússia Chega a uma Nova Fase",
+          "resumo": "A guerra terrestre na Ucrânia está estagnada e a luta crucial mudou para os céus — mísseis e interceptores.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/14/opinion/ukraine-russia-patriots-drones.html",
+          "publicado_em": "2026-07-14T16:39:45.000Z"
         }
       ]
     },
