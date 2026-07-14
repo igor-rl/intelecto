@@ -6,11 +6,11 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Tensões EUA-Irã e conflitos globais",
-    "subtitulo": "Análise das principais notícias do dia, com foco nas tensões entre EUA e Irã, e outros conflitos em curso",
-    "resumo": "As tensões entre EUA e Irã continuam a aumentar, com ambos os lados realizando ataques e ameaças. Enquanto isso, outros conflitos em curso, como a guerra na Ucrânia e a crise no Iêmen, também merecem atenção. Nesta edição, analisamos as principais notícias do dia e como elas se relacionam com o cenário global.",
+    "titulo": "Conflitos globais e tensões",
+    "subtitulo": "De ataques aéreos na Ucrânia a disputas no Mar da China Meridional, o mundo enfrenta múltiplos pontos de tensão",
+    "resumo": "O dia foi marcado por uma série de conflitos e tensões em diferentes partes do mundo. Na Ucrânia, ataques aéreos e trocas de acusações entre Kyiv e Moscou dominaram as manchetes. No Mar da China Meridional, a China propôs soluções para disputas territoriais, enquanto a situação no Golfo se intensificou com o anúncio de taxas de pedágio pelo presidente Trump. Em outras partes do mundo, notícias de ataques, execuções e disputas políticas também chamaram a atenção. A crise humanitária no Sudão e a situação dos refugiados em várias regiões do planeta são apenas alguns dos muitos desafios que o mundo enfrenta. Neste contexto, a importância de uma cobertura jornalística equilibrada e ampla nunca foi tão crucial, permitindo que os leitores tenham uma visão abrangente dos eventos globais.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-07-13T14:00:00-03:00",
+    "publicado_em": "2026-07-14T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -964,55 +964,54 @@
   },
   "temas_principais": [
     {
-      "tema": "Tensões EUA-Irã",
-      "descricao": "As tensões entre EUA e Irã continuam a aumentar, com ambos os lados realizando ataques e ameaças.",
+      "tema": "Conflitos no Golfo",
+      "descricao": "Tensões entre EUA, Irã e Arábia Saudita aumentam com ataques e contra-ataques",
       "fontes_que_cobriram": [
         "new_york_times",
         "euronews",
         "rt"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian"
+        "scmp"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar a agressividade do Irã, enquanto as fontes russas e iranianas destacam a postura defensiva do Irã."
+      "divergencia_de_enquadramento": "Enquanto a New York Times e a Euronews destacam a escalada de tensões, a RT enfatiza a posição russa sobre o conflito"
     },
     {
-      "tema": "Guerra na Ucrânia",
-      "descricao": "A guerra na Ucrânia continua, com ambos os lados realizando ataques e sofrendo baixas.",
+      "tema": "Ucrânia",
+      "descricao": "Ataques aéreos e acusações entre Ucrânia e Rússia",
       "fontes_que_cobriram": [
-        "euronews",
-        "rt",
+        "the_guardian",
+        "st",
+        "mt"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "smh"
+      ],
+      "divergencia_de_enquadramento": "The Guardian e o Straits Times destacam as consequências humanitárias, enquanto a Moscow Times enfoca a perspectiva russa"
+    },
+    {
+      "tema": "Mar da China Meridional",
+      "descricao": "Disputas territoriais e propostas chinesas para resolução",
+      "fontes_que_cobriram": [
+        "scmp",
         "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian"
+        "new_york_times"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais tendem a apoiar a Ucrânia, enquanto as fontes russas defendem a posição da Rússia."
-    },
-    {
-      "tema": "Crise no Iêmen",
-      "descricao": "A crise no Iêmen continua, com a população sofrendo com a falta de alimentos e medicamentos.",
-      "fontes_que_cobriram": [
-        "st",
-        "aa"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "new_york_times",
-        "euronews"
-      ],
-      "divergencia_de_enquadramento": "As fontes ocidentais tendem a ignorar a crise no Iêmen, enquanto as fontes árabes e africanas destacam a gravidade da situação."
+      "divergencia_de_enquadramento": "O South China Morning Post oferece uma análise detalhada das propostas chinesas, enquanto o Straits Times destaca as implicações regionais"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Insegurança alimentar em Cabo Delgado, Moçambique",
-      "por_que_importa": "A insegurança alimentar é um problema grave que afeta a população de Cabo Delgado, Moçambique.",
-      "cobertura": "Apenas a fonte 'aa' cobriu esse tema."
+      "tema": "Crise humanitária no Sudão",
+      "por_que_importa": "A situação no Sudão é um dos principais desafios humanitários atuais, com milhares de pessoas afetadas",
+      "cobertura": "Apenas a AllAfrica deu uma cobertura significativa, enquanto outras fontes ignoraram ou minimizaram o tema"
     },
     {
-      "tema": "Detenção de sismólogo americano na China",
-      "por_que_importa": "A detenção de um sismólogo americano na China é um tema importante que pode afetar as relações entre os dois países.",
-      "cobertura": "Apenas a fonte 'st' cobriu esse tema."
+      "tema": "Refugiados e migração",
+      "por_que_importa": "A crise de refugiados é um problema global, com impactos significativos nas economias e sociedades",
+      "cobertura": "A cobertura foi limitada, com apenas algumas menções esparsas nas fontes consultadas"
     }
   ]
 }
