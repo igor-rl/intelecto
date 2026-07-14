@@ -18,106 +18,103 @@
     "the_guardian": {
       "slug": "the_guardian",
       "nome": "The Guardian",
-      "gerado_em": "2026-07-14T10:00:12.686Z",
+      "gerado_em": "2026-07-14T21:00:12.193Z",
       "artigos": [
         {
-          "id": "the_guardian-2026-07-13T14:00:49.000Z-01",
+          "id": "the_guardian-2026-07-14T12-27-06-01",
+          "titulo": "Paciente americano com Ebola chega à Alemanha para tratamento",
+          "resumo": "Trabalhador humanitário foi levado para Berlim enquanto a administração Trump proíbe americanos de viajarem para os EUA em voos comerciais. Um nacional americano que contraiu Ebola na República Democrática do Congo chegou à Alemanha para tratamento.",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/jul/14/american-ebola-patient-arrives-germany",
+          "publicado_em": "2026-07-14T12:27:06.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-13T14-00-49-02",
           "titulo": "Continuam os assassinatos na fazenda Del Monte no Quênia, dizem as famílias, após a G4S ser contratada para a segurança",
-          "resumo": "Exclusivo: Três homens foram mortos em incidentes nos últimos 12 meses, alegadamente envolvendo guardas da G4S, que substituíram a equipe interna após mortes anteriores. Famílias enlutadas e políticos levantaram alarme sobre a continuação dos assassinatos",
+          "resumo": "Exclusivo: Três homens foram mortos em incidentes nos últimos 12 meses, alegadamente envolvendo guardas da G4S, que substituíram a equipe de segurança interna após mortes anteriores. Famílias enlutadas e políticos levantaram alarme sobre a continuação dos assassinatos.",
+          "imagem": null,
           "link": "https://www.theguardian.com/world/2026/jul/13/del-monte-pineapple-farm-kenya-deaths-g4s",
-          "imagem": null,
-          "publicado_em": "2026-07-13T14:00:49.000Z",
-          "fonte": "The Guardian"
+          "publicado_em": "2026-07-13T14:00:49.000Z"
         },
         {
-          "id": "the_guardian-2026-07-12T08:00:12.000Z-02",
-          "titulo": "Primeiros pacientes inscritos em ensaio de tratamento de Ebola recorde na RDC",
-          "resumo": "Dois medicamentos estão sendo testados na região de Ituri em um programa estabelecido apenas seis semanas após a declaração do surto, com esperanças de reduzir as taxas de mortalidade. Não há medicamento aprovado para ajudar os pacientes com Ebola",
+          "id": "the_guardian-2026-07-12T08-00-12-03",
+          "titulo": "Primeiros pacientes inscritos no ensaio clínico de tratamento de Ebola de maior porte na República Democrática do Congo",
+          "resumo": "Dois medicamentos estão sendo testados na região de Ituri em um programa estabelecido apenas seis semanas após a declaração do surto, com esperanças de reduzir as taxas de mortalidade. Não há medicamento aprovado para ajudar os pacientes com Ebola.",
+          "imagem": null,
           "link": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
-          "imagem": null,
-          "publicado_em": "2026-07-12T08:00:12.000Z",
-          "fonte": "The Guardian"
+          "publicado_em": "2026-07-12T08:00:12.000Z"
         },
         {
-          "id": "the_guardian-2026-07-11T11:59:11.000Z-03",
-          "titulo": "Nigéria diz que o exército matou 300 bandidos no estado noroeste de Zamfara",
-          "resumo": "Vigilantes também participaram da luta que durou a noite toda e a manhã seguinte, dizem os moradores. Soldados nigerianos mataram mais de 300 membros de gangues de sequestro e roubo de gado no estado noroeste de Zamfara",
+          "id": "the_guardian-2026-07-11T11-59-11-04",
+          "titulo": "Nigéria afirma que o exército matou 300 bandidos no estado noroeste de Zamfara",
+          "resumo": "Vigilantes também participaram da luta que durou a noite toda e na manhã seguinte, dizem os moradores. Soldados nigerianos mataram mais de 300 membros de gangues de sequestro e banditismo de gado no estado noroeste de Zamfara.",
+          "imagem": null,
           "link": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
-          "imagem": null,
-          "publicado_em": "2026-07-11T11:59:11.000Z",
-          "fonte": "The Guardian"
+          "publicado_em": "2026-07-11T11:59:11.000Z"
         },
         {
-          "id": "the_guardian-2026-07-10T07:00:14.000Z-04",
+          "id": "the_guardian-2026-07-10T07-00-14-05",
           "titulo": "Países em desenvolvimento gastam mais para pagar dívida externa do que em educação, revela a ONU",
-          "resumo": "Relatório da Unesco mostra que as crianças perderam para o serviço da dívida em 113 países, com 18 gastando cinco vezes mais em empréstimos. A maioria dos países em desenvolvimento gastou menos em educação do que em dívida no ano passado",
+          "resumo": "Relatório da Unesco mostra que as crianças perderam para o serviço da dívida em 113 países, com 18 gastando cinco vezes mais em empréstimos. A maioria dos países em desenvolvimento gastou menos em educação do que em pagamento de dívida no ano passado.",
+          "imagem": null,
           "link": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
-          "imagem": null,
-          "publicado_em": "2026-07-10T07:00:14.000Z",
-          "fonte": "The Guardian"
+          "publicado_em": "2026-07-10T07:00:14.000Z"
         },
         {
-          "id": "the_guardian-2026-07-09T16:20:41.000Z-05",
-          "titulo": "Furor na Nigéria sobre agência federal falsa criada na sede do governo",
-          "resumo": "Presidente ordena investigação após entidade fictícia receber financiamento, desencadeando nova escrutínio sobre alegada corrupção. Uma entidade federal fictícia que foi alocada 1,3 bilhão de nairas (£700.000) no orçamento da Nigéria",
-          "link": "https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm",
+          "id": "the_guardian-2026-07-14T18-23-45-06",
+          "titulo": "Desdém pela decisão da rede de restaurantes Chipotle de vender comida mexicana no México",
+          "resumo": "Um usuário das redes sociais descreveu a abertura da primeira loja em Monterrei como 'como o cão ensinando um pato a voar'. Um plano de uma rede de restaurantes americanos para vender sua versão de comida mexicana para os mexicanos com a primeira loja.",
           "imagem": null,
-          "publicado_em": "2026-07-09T16:20:41.000Z",
-          "fonte": "The Guardian"
+          "link": "https://www.theguardian.com/world/2026/jul/14/derision-at-us-chain-chipotles-plan-to-sell-its-mexican-food-in-mexico",
+          "publicado_em": "2026-07-14T18:23:45.000Z"
         },
         {
-          "id": "the_guardian-2026-07-14T09:00:26.000Z-06",
-          "titulo": "‘Deus está punindo os políticos’: raiva com a resposta ao terremoto cresce na Venezuela",
-          "resumo": "Ameaça de distúrbios sociais aumenta à medida que a indignação pública com a falta de ajuda para desastres se soma à consequência da intervenção militar dos EUA. • Uma revolução em ruínas: fúria entre os escombros de um projeto habitacional em Caracas",
+          "id": "the_guardian-2026-07-14T09-00-26-07",
+          "titulo": "‘Deus está punindo os políticos’: a ira pela resposta ao terremoto cresce na Venezuela",
+          "resumo": "Ameaça de distúrbios sociais aumenta à medida que a indignação pública pela falta de ajuda em caso de desastre se soma à consequência da intervenção militar dos EUA. Uma revolução em ruínas: fúria entre os escombros de um projeto habitacional no Quênia atingido pelo terremoto.",
+          "imagem": null,
           "link": "https://www.theguardian.com/world/2026/jul/14/anger-earthquake-response-venezuela",
-          "imagem": null,
-          "publicado_em": "2026-07-14T09:00:26.000Z",
-          "fonte": "The Guardian"
+          "publicado_em": "2026-07-14T09:00:26.000Z"
         },
         {
-          "id": "the_guardian-2026-07-13T22:06:01.000Z-07",
-          "titulo": "México irá apresentar queixa criminal sobre migrantes mortos pela ICE nos EUA",
-          "resumo": "Claudia Sheinbaum diz que os mexicanos estão ‘indignados’ com a morte na semana passada de Lorenzo Salgado Araujo por agentes em Houston. Claudia Sheinbaum anunciou na segunda-feira que o México apresentaria queixas criminais",
+          "id": "the_guardian-2026-07-13T22-06-01-08",
+          "titulo": "México exigirá queixas criminais sobre migrantes mortos pela ICE nos EUA",
+          "resumo": "Claudia Sheinbaum diz que os mexicanos estão 'indignados' com a morte na semana passada de Lorenzo Salgado Araujo por agentes em Houston. Claudia Sheinbaum anunciou na segunda-feira que o México exigiria queixas criminais.",
+          "imagem": null,
           "link": "https://www.theguardian.com/world/2026/jul/13/mexico-criminal-complaint-migrant-ice-deaths",
-          "imagem": null,
-          "publicado_em": "2026-07-13T22:06:01.000Z",
-          "fonte": "The Guardian"
+          "publicado_em": "2026-07-13T22:06:01.000Z"
         },
         {
-          "id": "the_guardian-2026-07-12T11:00:17.000Z-08",
-          "titulo": "Especialistas alertam sobre como a mosca varejeira pode se espalhar nos EUA e as novas dificuldades para contê-la",
-          "resumo": "Cientistas temem que os esforços atuais de erradicação não consigam conter a infestação parasitária que está se espalhando nos EUA. Quando conservacionistas instalaram câmeras em regiões remotas das florestas da América Central, as imagens mostraram",
+          "id": "the_guardian-2026-07-12T11-00-17-09",
+          "titulo": "Especialistas alertam sobre as maneiras pelas quais a mosca varejeira pode se espalhar nos EUA e as novas dificuldades em contê-la",
+          "resumo": "Cientistas temem que os esforços atuais de erradicação não consigam conter a infestação parasitária que avança nos EUA. Quando conservacionistas instalaram câmeras em regiões remotas das florestas da América Central, as imagens mostraram.",
+          "imagem": null,
           "link": "https://www.theguardian.com/us-news/2026/jul/12/new-world-screwworm-infestation-cattle-industry",
-          "imagem": null,
-          "publicado_em": "2026-07-12T11:00:17.000Z",
-          "fonte": "The Guardian"
+          "publicado_em": "2026-07-12T11:00:17.000Z"
         },
         {
-          "id": "the_guardian-2026-07-12T05:00:09.000Z-09",
-          "titulo": "Uma revolução em ruínas: fúria entre os escombros de um projeto habitacional em Caracas, na Venezuela",
-          "resumo": "Descontentamento com o governo apoiado por Trump aumenta à medida que os herdeiros de Chávez lutam para responder ao desastre para o qual parecem mal preparados. Mesmo antes de dois poderosos terremotos reduzirem o projeto habitacional do governo OPPE 25 a escombros",
+          "id": "the_guardian-2026-07-12T05-00-09-10",
+          "titulo": "Uma revolução em ruínas: fúria entre os escombros de um projeto habitacional no Quênia atingido pelo terremoto",
+          "resumo": "O descontentamento com o governo apoiado por Trump aumenta à medida que os herdeiros de Chávez lutam para responder ao desastre para o qual parecem mal preparados. Mesmo antes de dois poderosos terremotos reduzirem o projeto habitacional do governo OPPE 25 a escombros.",
+          "imagem": null,
           "link": "https://www.theguardian.com/news/ng-interactive/2026/jul/12/a-revolution-in-ruins-fury-amid-the-rubble-of-a-housing-project-in-quake-hit-venezuela",
-          "imagem": null,
-          "publicado_em": "2026-07-12T05:00:09.000Z",
-          "fonte": "The Guardian"
+          "publicado_em": "2026-07-12T05:00:09.000Z"
         },
         {
-          "id": "the_guardian-2026-07-14T05:06:28.000Z-10",
-          "titulo": "Incêndio em bar de Bangkok: número de mortos chega a 30 enquanto a polícia investiga negligência como ‘teoria principal’",
-          "resumo": "Proprietário de bar na Tailândia oferece ‘desculpas mais profundas por este incidente trágico’ enquanto a polícia investiga se as saídas estavam bloqueadas ou difíceis de acessar. O pub de Bangkok que se tornou o local do incêndio",
+          "id": "the_guardian-2026-07-14T12-56-36-11",
+          "titulo": "Incêndio em bar de Bangkok: o número de mortos chega a 30 enquanto a polícia diz que a negligência é a ‘teoria principal’",
+          "resumo": "O proprietário do bar oferece ‘as desculpas mais profundas’ enquanto a polícia investiga se as saídas estavam bloqueadas ou difíceis de acessar. O pub de Bangkok que se tornou o local do incêndio mais mortal da cidade nos últimos 17 anos disse que.",
+          "imagem": null,
           "link": "https://www.theguardian.com/world/2026/jul/14/bangkok-bar-pub-fire-death-toll-thailand",
-          "imagem": null,
-          "publicado_em": "2026-07-14T05:06:28.000Z",
-          "fonte": "The Guardian"
+          "publicado_em": "2026-07-14T12:56:36.000Z"
         },
         {
-          "id": "the_guardian-2026-07-14T01:10:26.000Z-11",
-          "titulo": "Japão admite necessidade crescente de contramedidas de espionagem após relatório de ‘cova de espiões’ da Rússia",
-          "resumo": "Questão deve ser abordada com ‘maior rigor’, diz porta-voz do governo, após relatório do New York Times sobre como o Japão se tornou um centro de espionagem para Vladimir Putin. O Japão disse que reconhece a necessidade de contramedidas de espionagem",
-          "link": "https://www.theguardian.com/world/2026/jul/14/japan-espionage-russia-den-of-spies",
+          "id": "the_guardian-2026-07-14T10-32-23-12",
+          "titulo": "As exportações mensais de carros da China ultrapassam 1 milhão pela primeira vez à medida que o comércio geral dispara",
+          "resumo": "O país arrisca novas tarifas dos EUA e da UE à medida que parece provável que iguale ou supere o recorde de déficit de US$ 1 trilhão do ano passado. Negócios ao vivo – atualizações mais recentes. As exportações mensais de carros da China ultrapassaram 1 milhão pela primeira vez.",
           "imagem": null,
-          "publicado_em": "2026-07-14T01:10:26.000Z",
-          "fonte": "The Guardian"
+          "link": "https://www.theguardian.com/business/2026/jul/14/china-car-exports-june-trade-us-eu-trump-tariffs",
+          "publicado_em": "2026-07-14T10:32:23.000Z"
         }
       ]
     },
