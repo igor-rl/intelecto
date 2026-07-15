@@ -1,0 +1,980 @@
+{
+  "nome": "Intelecto News",
+  "atualizado_em": "2026-07-06T13:00:00.000Z",
+  "edicao": "2026-07-06",
+  "itens_urgentes": {},
+  "destaques": [],
+  "capa": {
+    "categoria_nome": "Conflitos Globais e Desenvolvimento",
+    "titulo": "Tensões no Oriente Médio e África",
+    "subtitulo": "Conflitos, alianças e desafios globais em um mundo cada vez mais interconectado",
+    "resumo": "O cenário global está marcado por tensões no Oriente Médio, com o Irã e os EUA envolvidos em um conflito que pode ter implicações significativas para a região e o mundo. Enquanto isso, a África enfrenta desafios como a propagação do Ebola e a instabilidade política em vários países. A Rússia e a China também estão no centro das atenções, com suas manobras geopolíticas e econômicas. Neste contexto, a importância de uma abordagem equilibrada e informada para entender os complexos jogos de poder e interesses em jogo não pode ser subestimada.",
+    "fonte": "Intelecto News · Redação",
+    "publicado_em": "2026-07-15T10:00:00-03:00",
+    "link": null,
+    "imagem": null
+  },
+  "jornais": {
+    "the_guardian": {
+      "slug": "the_guardian",
+      "nome": "The Guardian",
+      "gerado_em": "2026-07-15T10:00:08.997Z",
+      "artigos": [
+        {
+          "id": "the_guardian-2026-07-14T12:27:06-01",
+          "titulo": "Paciente americano com Ebola chega na Alemanha para tratamento",
+          "resumo": "Trabalhador humanitário foi levado para Berlim enquanto a administração Trump proíbe americanos de viajarem para os EUA em voos comerciais. Um nacional americano que contraiu Ebola na República Democrática do Congo chegou em...",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/jul/14/american-ebola-patient-arrives-germany",
+          "publicado_em": "2026-07-14T12:27:06.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-13T14:00:49-02",
+          "titulo": "Continuam os assassinatos na fazenda Del Monte no Quênia, dizem famílias, após a G4S ser contratada para segurança",
+          "resumo": "Exclusivo: Três homens foram mortos em incidentes nos últimos 12 meses, alegadamente envolvendo guardas da G4S, que substituíram a equipe de segurança interna após mortes anteriores. Famílias enlutadas e políticos levantaram alarme sobre a cont...",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/jul/13/del-monte-pineapple-farm-kenya-deaths-g4s",
+          "publicado_em": "2026-07-13T14:00:49.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-12T08:00:12-03",
+          "titulo": "Primeiros pacientes inscritos em ensaio clínico de tratamento de Ebola de quebra de recorde na RDC",
+          "resumo": "Dois medicamentos estão sendo testados na região de Ituri em um programa estabelecido apenas seis semanas após a eclosão da epidemia, com esperanças de reduzir as taxas de mortalidade. Não há medicamento aprovado para ajudar os pacientes com Ebola.",
+          "imagem": null,
+          "link": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
+          "publicado_em": "2026-07-12T08:00:12.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-11T11:59:11-04",
+          "titulo": "Nigéria diz que o exército matou 300 bandidos no estado noroeste de Zamfara",
+          "resumo": "Vigilantes também participaram da luta que durou a noite toda e na manhã seguinte, dizem moradores. Soldados nigerianos mataram mais de 300 membros de gangues de sequestro e banditismo de gado no estado noroeste de Zamfara, na Nigéria.",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
+          "publicado_em": "2026-07-11T11:59:11.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-10T07:00:14-05",
+          "titulo": "Países em desenvolvimento gastam mais para pagar dívida externa do que em educação, revela a ONU",
+          "resumo": "Relatório da Unesco mostra que as crianças perderam para o serviço da dívida em 113 países, com 18 gastando cinco vezes mais em empréstimos. A maioria dos países em desenvolvimento gastou menos em educação do que em pagamento de dívida no ano passado.",
+          "imagem": null,
+          "link": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
+          "publicado_em": "2026-07-10T07:00:14.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-14T18:23:45-06",
+          "titulo": "Desdém pela decisão da rede de restaurantes Chipotle de vender comida mexicana no México",
+          "resumo": "Um usuário das redes sociais descreveu a abertura da primeira loja em Monterrei como 'como o cão ensinando um pato a voar'. Um plano de uma rede de restaurantes dos EUA para vender sua versão de comida mexicana para os mexicanos com a primeira loja em Monterrei.",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/jul/14/derision-at-us-chain-chipotles-plan-to-sell-its-mexican-food-in-mexico",
+          "publicado_em": "2026-07-14T18:23:45.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-14T09:00:26-07",
+          "titulo": "‘Deus está punindo os políticos’: a ira pela resposta ao terremoto cresce na Venezuela",
+          "resumo": "Ameaça de distúrbios sociais aumenta à medida que a indignação pública pela falta de ajuda em caso de desastre se soma à consequência da intervenção militar dos EUA. • Uma revolução em ruínas: fúria entre os escombros de um projeto de habitação em Caracas.",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/jul/14/anger-earthquake-response-venezuela",
+          "publicado_em": "2026-07-14T09:00:26.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-13T22:06:01-08",
+          "titulo": "México exigirá queixas criminais sobre migrantes mortos pela ICE nos EUA",
+          "resumo": "Claudia Sheinbaum diz que os mexicanos estão ‘indignados’ com a morte na semana passada de Lorenzo Salgado Araujo por agentes em Houston. Claudia Sheinbaum anunciou na segunda-feira que o México exigirá queixas criminais sobre a morte de migrantes.",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/jul/13/mexico-criminal-complaint-migrant-ice-deaths",
+          "publicado_em": "2026-07-13T22:06:01.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-12T11:00:17-09",
+          "titulo": "Especialistas alertam sobre as maneiras pelas quais a mosca varejeira pode se espalhar nos EUA e as novas dificuldades em contê-la",
+          "resumo": "Cientistas temem que os esforços atuais de erradicação não consigam conter a infestação parasitária que avança nos EUA. Quando conservacionistas instalaram câmeras em regiões remotas das florestas da América Central, as imagens mostraram a presença da mosca varejeira.",
+          "imagem": null,
+          "link": "https://www.theguardian.com/us-news/2026/jul/12/new-world-screwworm-infestation-cattle-industry",
+          "publicado_em": "2026-07-12T11:00:17.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-15T08:00:49-10",
+          "titulo": "Naufrágios de Shackleton e Scott recriados em forma digital 3D após expedição ao mar profundo",
+          "resumo": "Cientistas canadenses visitam os restos de navios de exploração polar no que é considerado uma ‘era de ouro’ para a investigação de naufrágios. Momentos após devorar os últimos vestígios de luz, o fundo do mar ofereceu apenas escuridão.",
+          "imagem": null,
+          "link": "https://www.theguardian.com/science/2026/jul/15/deep-sea-expedition-builds-digital-twins-shipwrecks-scott-shackleton",
+          "publicado_em": "2026-07-15T08:00:49.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-15T04:27:29-11",
+          "titulo": "Oficiais do Japão caçam urso que invadiu a geladeira de um casal em meio a uma série de arrombamentos",
+          "resumo": "Oficiais instalaram armadilhas e cercas elétricas após 14 arrombamentos registrados em uma cidade em duas semanas, temendo um repetidor. As autoridades estão procurando um urso que entrou na casa de um casal e abriu a geladeira.",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/jul/15/japan-bear-raids-fridge",
+          "publicado_em": "2026-07-15T04:27:29.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-15T02:03:57-12",
+          "titulo": "Tribunal de Cingapura ordena que a Bloomberg pague 356.000 dólares a ministros em caso de difamação",
+          "resumo": "O editor-chefe da Bloomberg, John Micklethwait, defende a reportagem, dizendo que os ministros que processaram ‘imprimiram um significado extremamente forçado em uma história sólida’. A Bloomberg News e um de seus repórteres foram condenados a pagar uma indenização.",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/jul/15/bloomberg-singapore-defamation-case",
+          "publicado_em": "2026-07-15T02:03:57.000Z"
+        }
+      ]
+    },
+    "new_york_times": {
+      "slug": "new_york_times",
+      "nome": "The New York Times",
+      "gerado_em": "2026-07-15T10:00:00.872Z",
+      "artigos": [
+        {
+          "id": "new_york_times-2026-07-15-10:00:00-01",
+          "titulo": "U.S. War Against Iran Enters a New Phase",
+          "resumo": "As President Trump resumes his war, the focus is now on the Strait of Hormuz. But it remains unclear how far the U.S. military will go to exert control.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/14/us/politics/us-war-iran-next-phase.html",
+          "publicado_em": "2026-07-15T00:22:55-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-15-10:00:00-02",
+          "titulo": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo",
+          "resumo": "Officials see a return to full-blown war as preferable to an agreement that fails to curb the threats Iran poses to Israel. Meanwhile, they wait.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/15/world/middleeast/for-israel-the-us-iran-hostilities-have-created-an-uneasy-limbo.html",
+          "publicado_em": "2026-07-15T09:03:46-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-15-10:00:00-03",
+          "titulo": "China’s Economy Grows at Slowest Pace in Years",
+          "resumo": "Economic growth of 4.3 percent in the second quarter, versus the same period last year, reflected a broad slump outside of the country’s export-oriented manufacturing might.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/15/business/china-economy-gdp-growth.html",
+          "publicado_em": "2026-07-15T06:38:34-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-15-10:00:00-04",
+          "titulo": "China’s Chip Champion to Raise Billions in Race for A.I. Control",
+          "resumo": "CXMT, a linchpin in China’s drive to develop homegrown artificial intelligence technology, is aiming to raise nearly $10 billion in a blockbuster public offering in Shanghai.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/15/business/china-chips-cxmt-ipo.html",
+          "publicado_em": "2026-07-15T07:29:52-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-15-10:00:00-05",
+          "titulo": "Ukraine Pounds Russian Ships in Its Campaign to Cut Off Crimea",
+          "resumo": "After striking roads and railways, Kyiv is now focusing on sea routes as it tries to disrupt fuel supplies and pressure Russia to end the war.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/15/world/europe/ukraine-russia-crimea-azov-sea.html",
+          "publicado_em": "2026-07-15T09:38:52-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-15-10:00:00-06",
+          "titulo": "He Has a $25 Million Bounty on His Head, But Is Also a U.S. Partner in Venezuela.",
+          "resumo": "A list of alleged crimes has not prevented Diosdado Cabello, and other Venezuelan officials, from working with a U.S. government that once hounded them.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/15/world/americas/us-bounty-diosdado-cabello-venezuela.html",
+          "publicado_em": "2026-07-15T09:02:09-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-15-10:00:00-07",
+          "titulo": "Todd Blanche Faces Crucial Hurdle Ahead of Confirmation as Attorney General",
+          "resumo": "Todd Blanche’s nomination is broadly a referendum on President Trump’s vision of the Justice Department as a projection of his power.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-attorney-general-confirmation-doj.html",
+          "publicado_em": "2026-07-15T09:03:34-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-15-10:00:00-08",
+          "titulo": "Senator Mark Kelly Amasses Nearly $25 Million Campaign War Chest",
+          "resumo": "The Arizona Democrat said he had raised and given away $10 million to fellow members of his party and committees as he mulls a presidential run in 2028.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/15/us/politics/mark-kelly-arizona-democrat-fundraising.html",
+          "publicado_em": "2026-07-15T09:03:45-03:00"
+        }
+      ]
+    },
+    "euronews": {
+      "slug": "euronews",
+      "nome": "Euro News",
+      "gerado_em": "2026-07-15T10:00:18.780Z",
+      "artigos": [
+        {
+          "id": "euronews-2026-07-15-1001",
+          "titulo": "Irã executa homem por protestos de janeiro à medida que a repressão ao dissidente se alarga",
+          "resumo": "Mohammad Amini Dehaghani foi condenado por incendiar um escritório do governador em Isfahan em 9 de janeiro, à medida que a Anistia Internacional afirma que o Irã está usando condições de guerra como pretexto para acelerar processos políticos...",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/15/iran-executes-man-over-january-protests-as-crackdown-on-dissent-widens",
+          "publicado_em": "2026-07-15T09:03:04.000Z"
+        },
+        {
+          "id": "euronews-2026-07-15-1003",
+          "titulo": "Gibraltar entra no Espaço Schengen à medida que a cerca da fronteira é removida sob tratado UE-Reino Unido",
+          "resumo": "A Espanha e o território britânico de Gibraltar removeram a cerca da fronteira em 15 de julho de 2026 sob um tratado histórico entre a UE e o Reino Unido. Os moradores comemoraram à medida que os controles de passaporte se mudaram para o aeroporto e o porto.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/15/gibraltar-enters-schengen-as-border-fence-comes-down-under-eu-uk-treaty",
+          "publicado_em": "2026-07-15T08:39:22.000Z"
+        },
+        {
+          "id": "euronews-2026-07-15-1005",
+          "titulo": "A economia de guerra do Sudão está alimentando um conflito 'autoperpetuante', afirma escritório de direitos humanos da ONU",
+          "resumo": "A OACDH pediu às partes do conflito e às corporações envolvidas na cadeia de valor das commodities sudanesas que garantam o cumprimento da lei internacional.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/15/sudans-war-economy-fuelling-self-perpetuating-conflict-un-human-rights-office-says",
+          "publicado_em": "2026-07-15T07:01:29.000Z"
+        },
+        {
+          "id": "euronews-2026-07-15-1007",
+          "titulo": "Cuba mergulhada no terceiro apagão nacional em duas semanas à medida que a rede de energia colapsa",
+          "resumo": "O combustível tem sido escasso em toda Cuba desde janeiro, quando o presidente dos EUA, Donald Trump, ameaçou impor tarifas a qualquer nação que forneça ou venda petróleo à ilha, exacerbando a crise contínua de energia da ilha...",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/15/cuba-plunged-into-third-nationwide-blackout-in-two-weeks-as-power-grid-collapses",
+          "publicado_em": "2026-07-15T04:47:54.000Z"
+        },
+        {
+          "id": "euronews-2026-07-15-1008",
+          "titulo": "Irã lança ataques contra vizinhos à medida que Trump ameaça atingir usinas de energia",
+          "resumo": "O ataque de Teerã ocorre à medida que as forças militares dos EUA realizam uma quarta noite de ataques contra o Irã, após o presidente Donald Trump reinstalar o bloqueio de navios iranianos ao redor do estreito de Hormuz.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/15/iran-launches-strikes-on-neighbours-as-us-resumes-blockade-and-trump-threatens-to-hit-powe",
+          "publicado_em": "2026-07-15T04:16:34.000Z"
+        },
+        {
+          "id": "euronews-2026-07-15-1012",
+          "titulo": "Líderes mundiais se reúnem em Doha para homenagear o ex-emir do Catar, xeque Hamad",
+          "resumo": "Líderes da Europa, África e Ásia viajaram para Doha para oferecer condolências à família real após a morte do xeque Hamad bin Khalifa Al Thani, que serviu como emir do Catar de 1995 a 2013.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/14/world-leaders-gather-in-doha-to-honour-qatars-father-emir-sheikh-hamad",
+          "publicado_em": "2026-07-14T15:56:20.000Z"
+        },
+        {
+          "id": "euronews-2026-07-15-1013",
+          "titulo": "Conflito EUA-Irã se alarga após ataque mortal a petroleiro no estreito de Hormuz",
+          "resumo": "O transporte marítimo comercial foi atacado no estreito de Hormuz à medida que os EUA e o Irã trocam ações militares, aumentando os temores de que o conflito possa atrair mais estados do Golfo para a luta.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/14/us-iran-conflict-widens-after-deadly-tanker-attack-in-strait-of-hormuz",
+          "publicado_em": "2026-07-14T12:17:11.000Z"
+        },
+        {
+          "id": "euronews-2026-07-15-1014",
+          "titulo": "EUA atacam Bushehr à medida que o parlamento iraniano apresenta projeto de lei para controlar o estreito de Hormuz",
+          "resumo": "Quatro pontos na cidade portuária que abriga a única usina nuclear do Irã foram atingidos por projéteis dos EUA na terça-feira, à medida que o parlamento iraniano apresentou formalmente um projeto de lei que afirma o controle permanente de Teerã sobre o estreito de Hormuz.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/14/us-strikes-bushehr-as-irans-parliament-tables-bill-to-control-hormuz",
+          "publicado_em": "2026-07-14T12:09:48.000Z"
+        },
+        {
+          "id": "euronews-2026-07-15-1015",
+          "titulo": "Zelenskyy se junta a Macron e líderes europeus em Paris para o Dia da Bastilha",
+          "resumo": "Volodymyr Zelenskyy se junta a Emmanuel Macron e líderes europeus em uma parada do Dia da Bastilha focada na Ucrânia em Paris, exibindo força militar.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/14/zelenskyy-joins-macron-and-european-leaders-in-paris-for-bastille-day",
+          "publicado_em": "2026-07-14T11:56:35.000Z"
+        },
+        {
+          "id": "euronews-2026-07-15-1018",
+          "titulo": "'Vamos lidar com isso', diz Trump à medida que os EUA investigam relatos de drones iranianos em Cuba",
+          "resumo": "O presidente dos EUA disse que sua administração está verificando se Teerã armazena drones e mísseis na ilha e advertiu que Washington agirá se confirmado, mas não ofereceu provas ou detalhes sobre as alegações...",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/14/we-will-deal-with-it-trump-says-as-us-probes-reports-of-iranian-drones-in-cuba",
+          "publicado_em": "2026-07-14T08:30:33.000Z"
+        },
+        {
+          "id": "euronews-2026-07-15-1019",
+          "titulo": "Agente da ICE atira e mata imigrante colombiano em Maine",
+          "resumo": "O homem de 26 anos, que tinha permissão para trabalhar nos EUA, foi morto em Biddeford quando um oficial abriu fogo, alegando que o carro era uma ameaça. É a nona morte relacionada à política de migração de Trump.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/14/ice-agent-shoots-dead-colombian-immigrant-in-maine",
+          "publicado_em": "2026-07-14T07:42:04.000Z"
+        },
+        {
+          "id": "euronews-2026-07-15-1021",
+          "titulo": "EUA liberam vídeo de ataque de drone marítimo a base naval iraniana",
+          "resumo": "As forças militares dos EUA liberaram um vídeo que supostamente mostra três drones de superfície Corsair atacando uma instalação de manutenção de navios e um submarino na base naval de Bandar Abbas, no Irã, em 12 de julho.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/14/us-releases-video-of-sea-drone-strike-on-iranian-naval-base",
+          "publicado_em": "2026-07-14T06:50:19.000Z"
+        }
+      ]
+    },
+    "scmp": {
+      "slug": "scmp",
+      "nome": "South China Morning Post",
+      "gerado_em": "2026-07-15T10:15:31.581Z",
+      "artigos": [
+        {
+          "id": "scmp-2026-07-15-10:00:17-01",
+          "titulo": "China report warns against European-led Nato 3.0 expansion in the Asia-Pacific",
+          "resumo": "The transition of the North Atlantic military alliance to a more Europe-led “Nato 3.0” will fail to heal deep-seated strategic rifts between Washington and the European capitals, according to a leading Chinese think tank.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/15/91aaf414-c5c3-4d1c-a171-fdf1774d9b89_05a42536.jpg?itok=tKRnasOb&v=1784086980",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3360606/china-report-warns-against-european-led-nato-30-expansion-asia-pacific?utm_source=rss_feed",
+          "publicado_em": "2026-07-15T10:00:17.000-03:00"
+        },
+        {
+          "id": "scmp-2026-07-15-09:52:33-02",
+          "titulo": "Tankers with Iranian oil look to Pakistan for safe harbour as US blockade takes effect",
+          "resumo": "Two tankers carrying Iranian oil are signalling Pakistan as their destination – an unusual move that may be an indication they are seeking a safe place to wait as the US blockade takes effect.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/15/9107ca1d-a992-41eb-b90a-2e781f7d8395_d56356e7.jpg?itok=N42MZxWY&v=1784109144",
+          "link": "https://www.scmp.com/news/asia/south-asia/article/3360674/tankers-iranian-oil-look-pakistan-safe-harbour-us-blockade-takes-effect?utm_source=rss_feed",
+          "publicado_em": "2026-07-15T09:52:33.000-03:00"
+        },
+        {
+          "id": "scmp-2026-07-15-09:05:31-03",
+          "titulo": "Don’t buy brides, China’s Bangladesh embassy warns as trafficking surges",
+          "resumo": "China’s embassy in Bangladesh has joined a number of Chinese diplomatic missions warning the country’s citizens about using illegal matchmaking services to find brides.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/15/85d7c52a-3383-4808-bfb9-bf0c559a5ca1_06aeb887.jpg?itok=zUpwUW52&v=1784106331",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3360664/dont-buy-brides-bangladesh-chinese-embassy-warns-trafficking-surges?utm_source=rss_feed",
+          "publicado_em": "2026-07-15T09:05:31.000-03:00"
+        },
+        {
+          "id": "scmp-2026-07-15-09:00:07-04",
+          "titulo": "Malaysia’s Anwar deals with another split with BN in Melaka after Johor poll rout",
+          "resumo": "Malaysia’s unity government is holding firm in Putrajaya, but its uneasy alliance is fraying at the state level after Prime Minister Anwar Ibrahim’s Pakatan Harapan (PH) moved into opposition in Melaka",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/15/77be2d1f-441c-42ab-9263-8db4be7ebb2f_cff18afe.jpg?itok=WHAB3Kr1&v=1784100872",
+          "link": "https://www.scmp.com/week-asia/politics/article/3360642/malaysias-anwar-deals-another-split-bn-melaka-after-johor-poll-rout?utm_source=rss_feed",
+          "publicado_em": "2026-07-15T09:00:07.000-03:00"
+        },
+        {
+          "id": "scmp-2026-07-15-08:29:34-05",
+          "titulo": "Philippines starts active school shooter drills after deadly attack in Tacloban City",
+          "resumo": "The Philippines has begun holding active school shooter drills after a rare act of violence in Tacloban City last month during which two teenage students opened fire, killing three schoolmates and injuring several others.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/15/f7215a0b-f6af-4b4d-8b80-6346d1e555e6_f25507cb.jpg?itok=8Hd0xcJA&v=1784104172",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3360653/philippines-starts-active-school-shooter-drills-after-deadly-attack-tacloban-city?utm_source=rss_feed",
+          "publicado_em": "2026-07-15T08:29:34.000-03:00"
+        },
+        {
+          "id": "scmp-2026-07-15-07:57:14-06",
+          "titulo": "‘China’s real-life transformer’: new rescue tech used in dramatic flood evacuation",
+          "resumo": "It is part-boat, part-bridge and part-life raft – and in the massive floods in southern China, it has been all rescue vehicle.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/15/879599da-94b0-4529-b5b6-bbd8445cb15b_747f3e6b.jpg?itok=orhw7b42&v=1784098280",
+          "link": "https://www.scmp.com/news/china/science/article/3360638/chinas-real-life-transformer-new-rescue-tech-used-dramatic-flood-evacuation?utm_source=rss_feed",
+          "publicado_em": "2026-07-15T07:57:14.000-03:00"
+        },
+        {
+          "id": "scmp-2026-07-15-06:00:11-07",
+          "titulo": "Chinese in the driver’s seat? India-China reset hits a bump on New Delhi’s streets",
+          "resumo": "It was supposed to be just another hectic day on New Delhi’s roads. Instead, early this month, several e-rickshaws on the Indian capital’s crowded streets reportedly came to a halt mid-ride in separate incidents.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/15/8012197f-31ef-48cc-b637-fb2d80596685_0e64fd30.jpg?itok=wluxsnED&v=1784091320",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3360618/chinese-drivers-seat-india-china-reset-hits-bump-delhis-streets?utm_source=rss_feed",
+          "publicado_em": "2026-07-15T06:00:11.000-03:00"
+        },
+        {
+          "id": "scmp-2026-07-15-06:00:07-08",
+          "titulo": "Chinese motorcycle tycoon donates US$735,000 to flood victims after clearing US$15 million debt",
+          "resumo": "Chinese motorcycle tycoon Zhang Xue has donated five million yuan (US$735,000) to flood-stricken Guangxi right after clearing a 100-million-yuan (US$15 million) corporate debt, moving many online.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/15/33db2951-3456-413d-9559-e534e0f9c65e_7cdb6a49.jpg?itok=peV7L-hT&v=1784088574",
+          "link": "https://www.scmp.com/news/people-culture/china-personalities/article/3360613/chinese-motorcycle-tycoon-donates-us735000-flood-victims-after-clearing-us15-million-debt?utm_source=rss_feed",
+          "publicado_em": "2026-07-15T06:00:07.000-03:00"
+        }
+      ]
+    },
+    "rt": {
+      "slug": "rt",
+      "nome": "Russia Today",
+      "gerado_em": "2026-07-15T10:15:43.291Z",
+      "artigos": [
+        {
+          "id": "rt-2026-07-15-10-15-01",
+          "titulo": "Rússia promete apoio aos estados do Sahel na luta contra o terrorismo",
+          "resumo": "O ministro das Relações Exteriores da Rússia, Sergey Lavrov, realizou conversas com seu homólogo do Chade e prometeu apoio contínuo aos países do Sahel.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a574d08203027148c7321c3.png",
+          "link": "https://www.rt.com/africa/643077-russia-pledges-counterterrorism-support-sahel-states/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-15T09:19:38-03:00"
+        },
+        {
+          "id": "rt-2026-07-15-10-15-02",
+          "titulo": "Rússia não é a principal ameaça à Europa – vice-primeiro-ministro italiano",
+          "resumo": "O vice-primeiro-ministro italiano, Matteo Salvini, rejeitou as alegações de que a Rússia é a principal ameaça à Europa, apontando em vez disso para a imigração ilegal.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a57476285f54011f40ae2a2.jpg",
+          "link": "https://www.rt.com/russia/643079-salvini-russia-not-threat/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-15T09:00:24-03:00"
+        },
+        {
+          "id": "rt-2026-07-15-10-15-03",
+          "titulo": "Trump diz a Netanyahu para deixar a Síria e o Líbano – Axios",
+          "resumo": "Donald Trump instou Benjamin Netanyahu a começar a retirar as tropas israelenses da Síria e do Líbano, de acordo com o Axios.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a574989203027158c6f75e6.jpg",
+          "link": "https://www.rt.com/news/643080-trump-tells-netanyahu-leave-syria-lebanon/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-15T09:00:03-03:00"
+        },
+        {
+          "id": "rt-2026-07-15-10-15-04",
+          "titulo": "França licencia a produção de mísseis na Ucrânia",
+          "resumo": "A França permitirá que a Ucrânia produza bombas de cruzeiro, interceptores e mísseis de cruzeiro, disse o presidente Emmanuel Macron.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a56918d2030275f6741976c.jpg",
+          "link": "https://www.rt.com/news/643053-france-licenses-missile-production-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-14T20:12:29-03:00"
+        },
+        {
+          "id": "rt-2026-07-15-10-15-05",
+          "titulo": "Rússia ataca sites de produção de drones e mísseis ucranianos – Ministério da Defesa",
+          "resumo": "As forças russas atacaram sites de produção de drones e mísseis ucranianos em Kiev e infraestrutura portuária em Odessa, de acordo com o Ministério da Defesa.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5662882030276998161c3e.jpg",
+          "link": "https://www.rt.com/russia/643045-russia-strike-ukrainian-drone-missile-production/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-14T17:00:05-03:00"
+        },
+        {
+          "id": "rt-2026-07-15-10-15-06",
+          "titulo": "Bulgária se retira da coalizão de apoiadores da Ucrânia",
+          "resumo": "A Bulgária não tem lugar na coalizão de nações ocidentais que apoiam a Ucrânia com ajuda militar, disse o primeiro-ministro Rumen Radev.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a56529c2030275e9f11a634.jpg",
+          "link": "https://www.rt.com/news/643041-radev-bulgaria-out-coalition-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-14T16:10:56-03:00"
+        },
+        {
+          "id": "rt-2026-07-15-10-15-07",
+          "titulo": "A posição da Europa sobre a Ucrânia é um 'beco sem saída' – Kremlin",
+          "resumo": "Os apoiadores europeus da Ucrânia não podem desempenhar um papel na resolução do conflito ucraniano enquanto excluem a Rússia, disse o Kremlin.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5667fa2030276998161c4b.jpg",
+          "link": "https://www.rt.com/russia/643031-russia-peskov-merz-ukraine-europe/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-14T18:08:56-03:00"
+        },
+        {
+          "id": "rt-2026-07-15-10-15-08",
+          "titulo": "Estreito de Ormuz: Qual é o estado atual da via aquática?",
+          "resumo": "O Estreito de Ormuz está no centro do conflito renovado entre os EUA e o Irã, com preços de petróleo em alta e reivindicações concorrentes sobre o controle da rota.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a563b1585f540727666d657.jpg",
+          "link": "https://www.rt.com/news/643033-us-iran-hormuz-state/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-14T19:05:41-03:00"
+        },
+        {
+          "id": "rt-2026-07-15-10-15-09",
+          "titulo": "O futuro militar da Europa começa a tomar forma",
+          "resumo": "Ancara mostrou um bloco falando duramente, mas divisões profundas sobre a guerra, o gasto e o papel de Washington já estão moldando o próximo modelo do continente.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a567ada2030276998161c58.jpg",
+          "link": "https://www.rt.com/news/643046-europe-military-future-nato/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-14T18:09:50-03:00"
+        },
+        {
+          "id": "rt-2026-07-15-10-15-10",
+          "titulo": "Billions of UK taxpayers’ money wasted during Covid – inquiry",
+          "resumo": "Billions of pounds in UK taxpayers’ money were wasted during the Covid pandemic due to inadequate planning, an inquiry has found",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5695d9203027685e31e4cf.jpg",
+          "link": "https://www.rt.com/news/643047-uk-covid-inadequate-response/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-14T22:35:09-03:00"
+        }
+      ]
+    },
+    "st": {
+      "slug": "st",
+      "nome": "The Straits Times",
+      "gerado_em": "2026-07-15T10:15:51.185Z",
+      "artigos": [
+        {
+          "id": "st-2026-07-15-10-10-51-01",
+          "titulo": "Irã relata novos ataques dos EUA, Washington reimponde bloqueio naval em retorno à guerra",
+          "resumo": "O presidente Trump ameaçou ampliar os ataques dos EUA na próxima semana e atingir usinas de energia e pontes.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/middle-east/iran-reports-fresh-us-strikes-washington-reimposes-naval-blockade-in-return-to-war",
+          "publicado_em": "2026-07-15T10:10:51.000-03:00"
+        },
+        {
+          "id": "st-2026-07-15-10-10-51-02",
+          "titulo": "UE fecha acordo para produção de drones com Ucrânia",
+          "resumo": "A Ucrânia e a União Europeia fecharam um acordo para combinar a expertise da Ucrânia com a capacidade industrial europeia para estabelecer projetos conjuntos e aumentar a produção.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/europe/eu-seals-deal-for-drone-production-with-ukraine",
+          "publicado_em": "2026-07-15T10:10:51.000-03:00"
+        },
+        {
+          "id": "st-2026-07-15-10-05-49-03",
+          "titulo": "Ordem de Trump sobre a CPI viola a liberdade de expressão, dizem grupos de advocacy em processo",
+          "resumo": "Dois grupos de advocacy com sede nos EUA processaram a administração Trump, argumentando que as sanções impostas à Corte Penal Internacional violam a liberdade de expressão.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/trumps-icc-order-violates-free-speech-advocacy-groups-say-in-lawsuit",
+          "publicado_em": "2026-07-15T10:05:49.000-03:00"
+        },
+        {
+          "id": "st-2026-07-15-09-50-50-04",
+          "titulo": "República Democrática do Congo forma novo conselho para promover justiça por crimes de guerra",
+          "resumo": "A República Democrática do Congo formou um novo conselho consultivo que inclui advogados de crimes de guerra seniores dos EUA e da Europa para apoiar seus esforços para promover a justiça.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/europe/congo-forms-new-council-in-push-for-war-crimes-justice",
+          "publicado_em": "2026-07-15T09:50:50.000-03:00"
+        },
+        {
+          "id": "st-2026-07-15-09-36-00-05",
+          "titulo": "Próximo governo de Israel deve parar o aumento da carga da dívida, diz chefe do banco central",
+          "resumo": "Quemever ganhar a eleição em Israel no final do ano deve controlar os gastos do estado liderados pela defesa que cresceram nos últimos anos e investir mais em educação, infraestrutura e outros setores.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/middle-east/next-israel-government-must-halt-rise-in-debt-burden-central-bank-chief-says",
+          "publicado_em": "2026-07-15T09:36:00.000-03:00"
+        },
+        {
+          "id": "st-2026-07-15-09-35-49-06",
+          "titulo": "Líder da oposição turca destituído diz que está se preparando para um possível novo partido",
+          "resumo": "O líder da oposição turca destituído disse que os preparativos estão em andamento para a possível criação de um novo partido, mas qualquer passo formal esperará.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/europe/turkeys-ousted-opposition-leader-says-preparing-for-possible-new-party",
+          "publicado_em": "2026-07-15T09:35:49.000-03:00"
+        },
+        {
+          "id": "st-2026-07-15-09-25-50-07",
+          "titulo": "Peru aprova aumento de orçamento de US$ 2,8 bilhões antes da transição de Fujimori",
+          "resumo": "O Congresso do Peru aprovou um aumento de orçamento de US$ 2,8 bilhões para financiar projetos de infraestrutura, serviços essenciais e outros fins, oferecendo apoio financeiro antes da transição de Fujimori.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/peru-approves-2-8-billion-budget-hike-ahead-of-fujimori-transition",
+          "publicado_em": "2026-07-15T09:25:50.000-03:00"
+        },
+        {
+          "id": "st-2026-07-15-09-10-48-08",
+          "titulo": "Britânico preso no Irã recebe sentença adicional de dois anos, diz família",
+          "resumo": "A família do casal britânico Craig e Lindsay Foreman, que cumpre uma sentença de prisão de 10 anos no Irã por acusações de espionagem que eles negam, disse que um juiz havia estendido a sentença.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/europe/briton-jailed-in-iran-given-additional-two-year-sentence-family-says",
+          "publicado_em": "2026-07-15T09:10:48.000-03:00"
+        }
+      ]
+    },
+    "mt": {
+      "slug": "mt",
+      "nome": "The Moscow Times",
+      "gerado_em": "2026-07-15T10:45:59.733Z",
+      "artigos": [
+        {
+          "id": "mt-2026-07-15-01",
+          "titulo": "Ataque russo a Odesa mata 3 enquanto Ucrânia ataca navios no Mar Negro",
+          "resumo": "O comandante de drones da Ucrânia disse que Kyiv atingiu 20 navios russos no Mar Negro durante a noite.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/15/russian-attack-on-odesa-kills-3-as-ukraine-strikes-ships-in-black-sea-a93251",
+          "publicado_em": "2026-07-15T09:29:33.000Z"
+        },
+        {
+          "id": "mt-2026-07-15-02",
+          "titulo": "Rússia e EUA concordam em estender operações da ISS até 2030",
+          "resumo": "O anúncio da extensão veio logo após uma nave espacial russa Soyuz MS-29 acoplar com sucesso à ISS na terça-feira.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/15/russia-and-us-agree-to-extend-iss-operations-through-2030-a93250",
+          "publicado_em": "2026-07-15T08:41:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-15-03",
+          "titulo": "Governador de Stavropol pede a funcionários que usem bicicletas para economizar combustível",
+          "resumo": "A partir de terça-feira, membros do governo regional precisarão da aprovação pessoal do governador para viajar fora da capital regional.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/14/switch-to-biking-to-save-fuel-stavropol-governor-tells-officials-as-shortages-persist-a93247",
+          "publicado_em": "2026-07-14T15:31:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-15-04",
+          "titulo": "Comércio entre Rússia e China cresce 25,6% no primeiro semestre de 2026",
+          "resumo": "A recuperação marca uma reversão em relação a 2025, quando o comércio bilateral caiu pela primeira vez em cinco anos.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/14/russia-china-trade-grows-256-in-first-half-of-2026-a93246",
+          "publicado_em": "2026-07-14T15:14:22.000Z"
+        },
+        {
+          "id": "mt-2026-07-15-05",
+          "titulo": "Estado de emergência declarado em partes da região de Sverdlovsk devido a tempestades e inundações severas",
+          "resumo": "Chuvas fortes e tempestades atingiram a região dos Urais na última sexta-feira, deixando 25 cidades e vilas sem eletricidade.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/14/state-of-emergency-declared-in-parts-of-sverdlovsk-region-over-severe-storms-and-flooding-a93244",
+          "publicado_em": "2026-07-14T14:27:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-15-06",
+          "titulo": "Japão admite necessidade de contramedidas de espionagem após relatório sobre 'cova de espiões' russa",
+          "resumo": "O New York Times relatou que, devido a 'leis de espionagem fracas', Moscou estava usando o Japão como um hub para coleta de inteligência e aquisição de tecnologia de dupla utilização necessária para sua guerra na Ucrânia.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/14/japan-admits-need-to-counter-espionage-after-russian-den-of-spies-report-a93245",
+          "publicado_em": "2026-07-14T13:44:41.000Z"
+        },
+        {
+          "id": "mt-2026-07-15-07",
+          "titulo": "Candidato a eleição em São Petersburgo é preso por 10 dias por postagens antigas em redes sociais",
+          "resumo": "Yaroslav Kostrov, que lidera um grupo que defende a preservação da arquitetura histórica de São Petersburgo, agora está proibido de buscar cargo eletivo por um ano devido à sua condenação.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/14/st-petersburg-election-candidate-jailed-10-days-for-old-social-media-posts-a93242",
+          "publicado_em": "2026-07-14T12:12:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-15-08",
+          "titulo": "Rússia se prepara para redirecionar exportações de grãos do Mar de Azov após ataques ucranianos",
+          "resumo": "O transporte no Mar de Azov permaneceu restrito na terça-feira, de acordo com fontes da Reuters, marcando a maior interrupção no comércio de grãos do Mar Negro desde o início da guerra na Ucrânia.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/14/russia-prepares-to-reroute-grain-exports-from-sea-of-azov-after-ukrainian-attacks-a93241",
+          "publicado_em": "2026-07-14T10:28:44.000Z"
+        },
+        {
+          "id": "mt-2026-07-15-09",
+          "titulo": "FSB acusa rapper ucraniano de organizar ataque de drone em empresa de defesa",
+          "resumo": "O rapper ucraniano Kyivstoner negou as alegações russas em uma série de postagens no Instagram.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/14/fsb-accuses-ukrainian-rapper-of-organizing-drone-attack-on-defense-enterprise-a93240",
+          "publicado_em": "2026-07-14T09:53:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-15-10",
+          "titulo": "Ucrânia ataca refinarias de petróleo em Krasnodar e Bashkortostan",
+          "resumo": "A Ucrânia atingiu a maioria das refinarias de petróleo da Rússia nos últimos meses, levando a graves escassezes de combustível em algumas partes do país.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/14/ukraine-hits-oil-refineries-in-krasnodar-and-bashkortostan-a93239",
+          "publicado_em": "2026-07-14T08:35:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-15-11",
+          "titulo": "Rússia convoca embaixador alemão e acusa Berlim de apoiar ataques ucranianos",
+          "resumo": "O Ministério das Relações Exteriores da Rússia também criticou a posição da Alemanha em relação às relações de terceiros países com a Rússia, incluindo as relações Rússia-China.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/13/russia-summons-german-ambassador-accuses-berlin-of-supporting-ukrainian-attacks-a93237",
+          "publicado_em": "2026-07-13T15:36:01.000Z"
+        },
+        {
+          "id": "mt-2026-07-15-12",
+          "titulo": "Na região do Cáucaso Norte, uma reforma constitucional reabre feridas centenárias",
+          "resumo": "Ativistas da sociedade civil em Kabardino-Balkaria e membros da diáspora circassiana acreditam que as mudanças erodiriam ainda mais a autonomia da república.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/13/in-the-north-caucasus-a-constitutional-reform-reopens-centuries-old-wounds-a93186",
+          "publicado_em": "2026-07-13T15:32:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-15-13",
+          "titulo": "Europa compra quantidade recorde de GNL do maior produtor russo – FT",
+          "resumo": "As compras representam um aumento de 18% em comparação com o mesmo período em 2025 e ocorrem apesar do plano da UE de eliminar completamente todas as importações de GNL russo até o final do ano.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/13/europe-buys-record-amount-of-lng-from-russias-largest-producer-ft-a93236",
+          "publicado_em": "2026-07-13T14:51:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-15-14",
+          "titulo": "Polícia detém brevemente Boris Nadezhdin ao norte de Moscou",
+          "resumo": "A polícia o acusou do delito administrativo de exibir 'símbolos extremistas' por compartilhar um link para um vídeo que continha uma imagem do falecido ativista de oposição Alexei Navalny.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/13/police-briefly-detain-boris-nadezhdin-north-of-moscow-a93235",
+          "publicado_em": "2026-07-13T13:22:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-15-15",
+          "titulo": "UE impõe sanções à VK por desenvolver aplicativo de mensagens Max",
+          "resumo": "Bruxelas acusou a VK de fornecer 'apoio técnico para a repressão da sociedade civil e oposição democrática' na Rússia.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/13/eu-sanctions-vk-for-developing-messenger-app-max-a93234",
+          "publicado_em": "2026-07-13T12:14:53.000Z"
+        },
+        {
+          "id": "mt-2026-07-15-16",
+          "titulo": "Organismo de tênis de mesa mundial restaura jogadores russos com bandeira e hino",
+          "resumo": "A medida segue a decisão do Comitê Olímpico Internacional de suspender provisoriamente o Comitê Olímpico Russo na semana passada.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/13/world-table-tennis-body-reinstates-russian-players-with-flag-and-anthem-a93233",
+          "publicado_em": "2026-07-13T10:27:11.000Z"
+        },
+        {
+          "id": "mt-2026-07-15-17",
+          "titulo": "4 mortos em ataques de drones ucranianos em toda a Rússia",
+          "resumo": "Autoridades militares e regionais disseram que unidades de defesa aérea russas derrubaram centenas de drones entre domingo à noite e segunda-feira de manhã.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/13/4-killed-in-ukrainian-drone-attacks-across-russia-a93230",
+          "publicado_em": "2026-07-13T09:08:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-15-18",
+          "titulo": "FSB afirma ter impedido ataques ucranianos a bases aéreas militares dentro da Rússia",
+          "resumo": "A FSB disse que a Ucrânia tentou atacar a base aérea de Shagol na região de Chelyabinsk e a base aérea de Ukrainka na região de Amur.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/13/fsb-claims-it-foiled-ukrainian-attacks-on-military-air-bases-deep-inside-russia-a93229",
+          "publicado_em": "2026-07-13T07:51:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-15-19",
+          "titulo": "9 mortos em troca de ataques entre Rússia e Ucrânia",
+          "resumo": "Os ataques ocorreram um dia antes de os aliados da Ucrânia se reunirem em Paris para discutir pressão sobre a Rússia para encerrar a guerra.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/12/9-dead-as-russia-ukraine-exchange-strikes-a93228",
+          "publicado_em": "2026-07-12T17:20:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-15-20",
+          "titulo": "Rússia diz que Ucrânia atingiu um petroleiro no Mar de Azov",
+          "resumo": "As autoridades disseram que não havia risco de vazamento de óleo porque o navio estava vazio.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/12/russia-says-ukraine-struck-tanker-in-sea-of-azov-a93227",
+          "publicado_em": "2026-07-12T09:56:08.000Z"
+        }
+      ]
+    },
+    "aa": {
+      "slug": "aa",
+      "nome": "AllAfrica",
+      "gerado_em": "2026-07-15T10:46:11.477Z",
+      "artigos": [
+        {
+          "id": "aa-2026-07-15-1001",
+          "titulo": "Etiópia: Conferência de Diálogo Nacional da Etiópia Começa em Adis Abeba",
+          "resumo": "A longamente aguardada Conferência de Diálogo Nacional da Etiópia foi oficialmente aberta em Adis Abeba hoje.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607150158.html",
+          "publicado_em": "2026-07-15T08:47:03.000Z"
+        },
+        {
+          "id": "aa-2026-07-15-1002",
+          "titulo": "África: Tudo sobre a África Hoje - 15 de Julho de 2026",
+          "resumo": "A UE proíbe a importação de ouro do Sudão para limitar o financiamento da guerra",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607150120.html",
+          "publicado_em": "2026-07-15T06:42:01.000Z"
+        },
+        {
+          "id": "aa-2026-07-15-1003",
+          "titulo": "África do Sul: Departamento de Saúde Aumenta Preparativos para o Ebola - Notícias da África do Sul em Resumo - 15 de Julho de 2026",
+          "resumo": "",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607150090.html",
+          "publicado_em": "2026-07-15T05:16:15.000Z"
+        },
+        {
+          "id": "aa-2026-07-15-1004",
+          "titulo": "África: Cobertura de Imunização Infantil Global Avança Lentamente Apesar de Conflitos e Hesitação - Unicef, OMS",
+          "resumo": "Em 2025, 90% dos bebês em todo o mundo - ou quase 116 milhões - receberam pelo menos uma dose de vacina contra difteria, tétano e pertussis (DTP), e 85% - ou 110 milhões - completaram as três doses...",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607150069.html",
+          "publicado_em": "2026-07-15T04:57:38.000Z"
+        },
+        {
+          "id": "aa-2026-07-15-1005",
+          "titulo": "Malawi: Medo de Sarampo Aumenta em Malawi - Pais são Avisados para Vacinar seus Filhos Agora",
+          "resumo": "Autoridades de saúde emitiram um aviso urgente aos pais em todo o Malawi - vacine seus filhos contra o sarampo AGORA, ou arrisque uma doença letal se espalhando pelas comunidades.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607150062.html",
+          "publicado_em": "2026-07-15T04:54:07.000Z"
+        },
+        {
+          "id": "aa-2026-07-15-1006",
+          "titulo": "África do Sul: Dois Grandes Centros de Dados Recebem Sinal Verde Inicial do Tribunal Municipal do Cabo",
+          "resumo": "A construção de dois enormes centros de dados next to the Aeroporto Internacional do Cabo foi aprovada.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607150130.html",
+          "publicado_em": "2026-07-15T06:50:54.000Z"
+        },
+        {
+          "id": "aa-2026-07-15-1007",
+          "titulo": "Nigéria: Retirada do Projeto de Lei de Polícia Estadual Abre Caminho para Revisão de Segurança",
+          "resumo": "Questões frescas identificadas na lei proposta exigem uma revisão abrangente para garantir que o quadro esteja alinhado com a arquitetura de segurança da Nigéria.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607150126.html",
+          "publicado_em": "2026-07-15T06:46:35.000Z"
+        },
+        {
+          "id": "aa-2026-07-15-1008",
+          "titulo": "Nigéria: Alunos e Professores Resgatados de Oyo se Reencontram com suas Famílias",
+          "resumo": "As reuniões dos vítimas com suas famílias ocorreram um dia após as vítimas serem formalmente entregues ao Governo de Oyo pelo exército nigeriano.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607150121.html",
+          "publicado_em": "2026-07-15T06:42:25.000Z"
+        },
+        {
+          "id": "aa-2026-07-15-1009",
+          "titulo": "Nigéria: A Nigéria Oferece Dicas para a Nova Estratégia da África dos EUA",
+          "resumo": "A retirada das tropas dos EUA da Nigéria após a morte de um líder do 'Estado Islâmico' pode ser menos sobre deixar a África do que redefinir como Washington luta contra o terrorismo no continente.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607150112.html",
+          "publicado_em": "2026-07-15T05:55:05.000Z"
+        },
+        {
+          "id": "aa-2026-07-15-1010",
+          "titulo": "Quênia: Polícia Metropolitana de Nairobi será Lançada nos Próximos Dias, Diz Ruto",
+          "resumo": "Nairóbi -- O Presidente William Ruto anunciou que o lançamento do Quadro de Policiamento Metropolitano de Nairóbi começará nos próximos dias como parte dos esforços para fortalecer a segurança...",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607150056.html",
+          "publicado_em": "2026-07-15T04:40:46.000Z"
+        },
+        {
+          "id": "aa-2026-07-15-1011",
+          "titulo": "Sudão: UE Proíbe Ouro do Sudão para Visar a Economia de Guerra",
+          "resumo": "Bruxelas -- O Conselho da União Europeia adotou uma decisão que proíbe a compra, importação ou transporte de ouro originário do Sudão.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607150025.html",
+          "publicado_em": "2026-07-15T04:39:17.000Z"
+        },
+        {
+          "id": "aa-2026-07-15-1012",
+          "titulo": "Congo-Kinshasa: 'Isso é um Incêndio' - Surto de Ebola na República Democrática do Congo é o Maior de Todos os Tempos, Adverte a OMS",
+          "resumo": "As infecções pela espécie Bundibugyo de Ebola na República Democrática do Congo atingiram recordes e a maioria dos novos casos vem de 'cadeias de transmissão desconhecidas...'",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607150014.html",
+          "publicado_em": "2026-07-15T04:37:34.000Z"
+        },
+        {
+          "id": "aa-2026-07-15-1013",
+          "titulo": "Libéria: EUA Negam Vistos para a Maioria da Delegação da Seleção Nacional de Futebol da Libéria",
+          "resumo": "Os EUA negaram vistos para a maioria dos membros da delegação da seleção nacional de futebol da Libéria, lançando dúvidas sobre a partida amistosa internacional planejada contra o Minnesota United...",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607140617.html",
+          "publicado_em": "2026-07-14T16:22:13.000Z"
+        },
+        {
+          "id": "aa-2026-07-15-1014",
+          "titulo": "África: À Medida que a Segurança Piora, as Juntas Sahelianas Restringem ainda mais os Civis",
+          "resumo": "À medida que as insurgências islâmicas militantes obtêm ganhos sem precedentes em toda a região do Sahel, os líderes das juntas militares se concentram em restringir vozes independentes em vez de adaptar estratégias de segurança.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607140546.html",
+          "publicado_em": "2026-07-14T14:14:16.000Z"
+        },
+        {
+          "id": "aa-2026-07-15-1015",
+          "titulo": "Uganda: Governo Adverte sobre Temperaturas Acima da Média",
+          "resumo": "Kampala -- O governo alertou que Uganda está experimentando temperaturas acima da média com sérias implicações para a produção de alimentos, a produção agrícola, a renda familiar e a saúde pública...",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607140526.html",
+          "publicado_em": "2026-07-14T14:05:39.000Z"
+        },
+        {
+          "id": "aa-2026-07-15-1016",
+          "titulo": "Quênia: Oposição Culpa Ruto pelo Aumento da Violência Política",
+          "resumo": "Nairóbi -- Líderes da oposição acusaram a administração do Presidente William Ruto de presidir sobre uma onda crescente de violência política, alertando que o país arrisca escorregar para...",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607140523.html",
+          "publicado_em": "2026-07-14T14:02:19.000Z"
+        },
+        {
+          "id": "aa-2026-07-15-1017",
+          "titulo": "Nigéria: Yobe e Adamawa Fortalecem Segurança para Limitar Mineração Ilegal",
+          "resumo": "As medidas podem não estar desconectadas das alegações que associam minerais sólidos, como o ouro, ao banditismo e à insurgência em algumas partes do país",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607140470.html",
+          "publicado_em": "2026-07-14T12:46:11.000Z"
+        },
+        {
+          "id": "aa-2026-07-15-1018",
+          "titulo": "Uganda: Tela Falsa - O Chefe Militar de Uganda, Muhoozi Kainerugaba, Não Derrubou seu Pai, o Presidente Museveni",
+          "resumo": "UM RESUMO: Uma tela falsa circulando no Facebook afirma falsamente que o chefe de defesa de Uganda anunciou que havia derrubado seu pai, o presidente Yoweri Museveni.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607140468.html",
+          "publicado_em": "2026-07-14T12:45:15.000Z"
+        },
+        {
+          "id": "aa-2026-07-15-1019",
+          "titulo": "Quênia: Governo Prorroga Imposto de 8% sobre Combustível por Mais Três Meses em meio à Volatilidade do Oriente Médio",
+          "resumo": "Nairóbi -- O governo prorrogou a aplicação do imposto reduzido de 8% sobre produtos petrolíferos por mais três meses, visando proteger os consumidores...",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607140453.html",
+          "publicado_em": "2026-07-14T12:37:43.000Z"
+        },
+        {
+          "id": "aa-2026-07-15-1020",
+          "titulo": "Namíbia: NamWater Defende Situação em Mariental",
+          "resumo": "Keetmanshoop -- A NamWater defendeu seu manejo da recente interrupção no fornecimento de água em Mariental, afirmando que seguiu procedimentos de comunicação estabelecidos após as Autoridades Locais...",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607140452.html",
+          "publicado_em": "2026-07-14T12:36:28.000Z"
+        }
+      ]
+    },
+    "smh": {
+      "slug": "smh",
+      "nome": "The Sydney Morning Herald (SMH)",
+      "gerado_em": "2026-07-15T10:46:22.128Z",
+      "artigos": [
+        {
+          "id": "smh-2026-07-15-01",
+          "titulo": "Informações pessoais roubadas em novo ciberataque em clínicas de saúde",
+          "resumo": "Informações pessoais de 21 clínicas de saúde em todo o país foram roubadas em um novo ciberataque no provedor de saúde australiano Partnered Health.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/931c710eadfd8be10da229d4f736ee76dd005533",
+          "link": "https://www.smh.com.au/national/personal-information-stolen-in-new-cyberattack-on-health-clinics-20260715-p60fo9.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-15T10:27:18-03:00"
+        },
+        {
+          "id": "smh-2026-07-15-02",
+          "titulo": "Trabalhadores de minério de ferro entram em greve pela primeira vez em duas décadas",
+          "resumo": "Pela primeira vez em mais de duas décadas, trabalhadores de minério de ferro em WA's Pilbara estão prestes a tomar medidas industriais.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/eef28598f7c218b60e89c1947de1280a600b8787",
+          "link": "https://www.smh.com.au/national/iron-ore-workers-set-to-strike-for-first-time-in-two-decades-20260715-p60fo7.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-15T10:22:48-03:00"
+        },
+        {
+          "id": "smh-2026-07-15-03",
+          "titulo": "Menino morre e mulher luta pela vida após carro atingir pedestres em Perth",
+          "resumo": "Um menino morreu e outra pessoa sofreu ferimentos críticos após ser atingida por um veículo em Perth.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/a76e9a827cd386bce678028a52a4f3ed2fc5455e",
+          "link": "https://www.smh.com.au/national/boy-killed-woman-fighting-for-life-after-car-hits-pedestrians-in-perth-20260715-p60fo8.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-15T10:22:44-03:00"
+        },
+        {
+          "id": "smh-2026-07-15-04",
+          "titulo": "Como uma viagem de $8.000 para o pub de Hamish e Andy em Nova York expõe o problema de aposentadoria da Coalizão",
+          "resumo": "Uma onda de parlamentares gastou milhares em viagens financiadas pelo contribuinte apenas semanas e meses antes de anunciar seus planos de deixar a política.",
+          "imagem": "https://static.ffx.io/images/$zoom_0.5171%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_43/t_crop_custom/q_86%2Cf_auto/8b0bd355c6f717804faafa8ad352d918c9bcb88225a0eff410925387873611cc",
+          "link": "https://www.smh.com.au/politics/victoria/how-an-8000-trip-to-hamish-and-andy-s-new-york-pub-exposes-the-coalition-s-retiree-rort-problem-20260709-p60e28.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-15T09:51:00-03:00"
+        },
+        {
+          "id": "smh-2026-07-15-05",
+          "titulo": "Como o boom de veículos elétricos da China saiu do controle",
+          "resumo": "A China nunca pretendia criar tantos fabricantes de carros. Agora, a explosão de veículos elétricos pode ter consequências negativas para Pequim.",
+          "imagem": "https://static.ffx.io/images/$zoom_0.2005681818181818%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_84/t_crop_custom/q_86%2Cf_auto/c8386c0334f0527c3ef9aaf709a6e112951a78c6",
+          "link": "https://www.smh.com.au/business/companies/how-china-s-ev-boom-spun-dangerously-out-of-control-20260714-p60f1g.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-15T09:50:00-03:00"
+        },
+        {
+          "id": "smh-2026-07-15-06",
+          "titulo": "Pista nova na busca por mãe desaparecida",
+          "resumo": "A família de uma mãe desaparecida, presumida assassinada, disse que recebeu novas informações que podem levar ao local do corpo.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/d9080711224b3bf01eadd355b1c9c97de238e9d3",
+          "link": "https://www.smh.com.au/national/new-clue-in-search-for-missing-mother-20260715-p60fo3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-15T09:22:56-03:00"
+        },
+        {
+          "id": "smh-2026-07-15-07",
+          "titulo": "Salários de CEOs revelados",
+          "resumo": "Um novo relatório expôs os pacotes de remuneração extraordinários dos CEOs melhor pagos da Austrália.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/e07ee2820e5e284fa9527d7e0b1b0fca08777db1",
+          "link": "https://www.smh.com.au/national/ceos-massive-pay-packets-revealed-20260715-p60fo1.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-15T09:22:17-03:00"
+        },
+        {
+          "id": "smh-2026-07-15-08",
+          "titulo": "Passageiro de avião quase sugado para fora após janela explodir",
+          "resumo": "A esposa de um passageiro da RyanAir que foi parcialmente sugado para fora de um avião após uma janela explodir, deu um relato extraordinário do que aconteceu a bordo.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/98a1976e346ea8d1b1daa8f2a909973783881fb5",
+          "link": "https://www.smh.com.au/national/ryanair-passenger-partially-sucked-out-of-plane-was-stuck-for-two-minutes-20260715-p60fo2.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-15T09:22:17-03:00"
+        },
+        {
+          "id": "smh-2026-07-15-09",
+          "titulo": "AFL banisce Nicky Winmar do Hall da Fama do futebol australiano após condenação por agressão",
+          "resumo": "A Comissão da AFL revogou sua membresia após a condenação recente do ex-campeão de St Kilda por agredir uma mulher.",
+          "imagem": "https://static.ffx.io/images/$zoom_0.2314%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/f003549ea8809d36548fd039a21aab828bb39e62",
+          "link": "https://www.smh.com.au/sport/afl/afl-banishes-nicky-winmar-from-australian-football-hall-of-fame-after-assault-conviction-20260715-p60fk0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-15T08:55:37-03:00"
+        },
+        {
+          "id": "smh-2026-07-15-10",
+          "titulo": "Família enlutada após menino de seis anos morrer em acidente de carro",
+          "resumo": "Uma família do Queensland está lidando com a perda devastadora de seu menino de seis anos após um acidente de carro.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/70db821236ea6aded71a6e741176a52f38dc7d8c",
+          "link": "https://www.smh.com.au/national/family-s-heartbreak-after-six-year-old-boy-dies-in-car-crash-20260715-p60fny.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-15T08:52:26-03:00"
+        }
+      ]
+    }
+  },
+  "temas_principais": [
+    {
+      "tema": "Conflito EUA-Irã",
+      "descricao": "O conflito entre os EUA e o Irã continua a escalar, com implicações para a estabilidade no Oriente Médio.",
+      "fontes_que_cobriram": [
+        "The New York Times",
+        "The Guardian",
+        "Euronews"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "AllAfrica"
+      ],
+      "divergencia_de_enquadramento": "Enquanto alguns veículos destacam a ameaça iraniana, outros questionam a estratégia dos EUA."
+    },
+    {
+      "tema": "Ebola na África",
+      "descricao": "A propagação do Ebola em várias partes da África é um desafio significativo para a saúde global.",
+      "fontes_que_cobriram": [
+        "The Guardian",
+        "AllAfrica"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "The New York Times"
+      ],
+      "divergencia_de_enquadramento": "A cobertura varia desde alertas sobre a propagação da doença até discussões sobre as respostas internacionais."
+    }
+  ],
+  "temas_subcobertos": [
+    {
+      "tema": "Desenvolvimento Sustentável na Ásia",
+      "por_que_importa": "O crescimento econômico na Ásia pode ter implicações significativas para o desenvolvimento sustentável global.",
+      "cobertura": "A cobertura é limitada, com poucos veículos abordando o tema de forma aprofundada."
+    }
+  ]
+}
