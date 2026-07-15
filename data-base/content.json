@@ -462,87 +462,135 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-07-15T10:15:43.291Z",
+      "gerado_em": "2026-07-15T21:15:55.631Z",
       "artigos": [
         {
-          "id": "rt-2026-07-15-10-15-01",
-          "titulo": "Rússia promete apoio aos estados do Sahel na luta contra o terrorismo",
-          "resumo": "O ministro das Relações Exteriores da Rússia, Sergey Lavrov, realizou conversas com seu homólogo do Chade e prometeu apoio contínuo aos países do Sahel.",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a574d08203027148c7321c3.png",
-          "link": "https://www.rt.com/africa/643077-russia-pledges-counterterrorism-support-sahel-states/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-15T09:19:38-03:00"
+          "id": "rt-2026-07-15-21-15-01",
+          "titulo": "Moscou exige ação da AIEA sobre morte de funcionários de usina nuclear",
+          "resumo": "Rússia pede que a AIEA responda após um drone ucraniano matar o chefe de engenharia e o motorista da usina nuclear de Zaporozhye.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a57e9022030274aaf384ba4.jpg",
+          "link": "https://www.rt.com/russia/643108-russia-nuclear-power-plant-ukraine-attack/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-15T20:43:49.000Z"
         },
         {
-          "id": "rt-2026-07-15-10-15-02",
+          "id": "rt-2026-07-15-21-15-02",
+          "titulo": "Histórias de terror dos países bálticos sobre ameaça russa servem como pretexto para aumento militar da OTAN – Kremlin",
+          "resumo": "Países bálticos invocam ameaça russa para justificar aumento militar da OTAN, afirma o Kremlin.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a57c9b420302741796c9d6a.jpg",
+          "link": "https://www.rt.com/russia/643092-baltics-russia-nato-buildup/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-15T19:00:04.000Z"
+        },
+        {
+          "id": "rt-2026-07-15-21-15-03",
+          "titulo": "Primeiro-ministro armênio persegue dissidentes enquanto o Ocidente fecha os olhos – grupo de direitos",
+          "resumo": "O Ocidente incentiva a repressão do primeiro-ministro armênio contra a oposição por razões geopolíticas, afirma um grupo de direitos.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a57cbfa20302750c76852a4.jpg",
+          "link": "https://www.rt.com/russia/643109-armenia-persecution-opposition-west-blind/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-15T18:20:44.000Z"
+        },
+        {
+          "id": "rt-2026-07-15-21-15-04",
+          "titulo": "Terrorismo foi para o ciberespaço – e o mundo não está preparado",
+          "resumo": "De Crocus a chatbots de IA, grupos extremistas como o ISKP mostram como a dark web, criptomoedas e IA estão superando as defesas globais.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a57c6b22030274ead2c85ba.jpg",
+          "link": "https://www.rt.com/news/643096-terrorism-cyber-extremism-digital/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-15T17:45:34.000Z"
+        },
+        {
+          "id": "rt-2026-07-15-21-15-05",
+          "titulo": "UE revoga proteção a ucranianos em idade de recrutamento",
+          "resumo": "A UE aprovou novas restrições à proteção temporária para ucranianos em idade de recrutamento, de acordo com o Conselho da UE.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a57904485f54011f40ae2b4.jpg",
+          "link": "https://www.rt.com/news/643091-eu-ukraine-men-protection/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-15T14:22:15.000Z"
+        },
+        {
+          "id": "rt-2026-07-15-21-15-06",
+          "titulo": "Empresa russa venderá ouro na cidade de GIFT, na Índia",
+          "resumo": "A empresa russa Mosgorlombard está se estabelecendo na cidade de GIFT, na Índia, oferecendo terminais para transações de ouro e prata físicos.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5797c585f5407e1c5a6f50.jpg",
+          "link": "https://www.rt.com/india/643042-mosgorlombard-gold-gift-city/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-15T14:21:27.000Z"
+        },
+        {
+          "id": "rt-2026-07-15-21-15-07",
+          "titulo": "Guerra do Irã termina presença militar dos EUA no Iraque",
+          "resumo": "As forças dos EUA deixarão o Iraque até 30 de setembro devido à guerra do Irã, encerrando uma presença militar que começou com a invasão de 2003.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5785c72030274d7911fe6c.jpg",
+          "link": "https://www.rt.com/news/643090-us-ends-iraq-presence/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-15T13:50:08.000Z"
+        },
+        {
+          "id": "rt-2026-07-15-21-15-08",
+          "titulo": "Prisões de crianças por crimes sexuais atingem recorde no Reino Unido",
+          "resumo": "As prisões de crianças por crimes sexuais no Reino Unido aumentaram quase 20% para um recorde, afirma um relatório apoiado pelo governo.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a57877585f5407e1c5a6f3f.jpg",
+          "link": "https://www.rt.com/news/643081-child-sex-crimes-uk/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-15T13:47:09.000Z"
+        },
+        {
+          "id": "rt-2026-07-15-21-15-09",
+          "titulo": "UE proíbe importação de ouro do Sudão",
+          "resumo": "A UE anunciou uma proibição à importação de ouro do Sudão, afirmando que o metal precioso se tornou uma fonte importante de receita para sustentar o conflito.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a577c2a85f54073cf19fca7.jpg",
+          "link": "https://www.rt.com/africa/643085-eu-bans-sudan-gold-imports/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-15T13:15:59.000Z"
+        },
+        {
+          "id": "rt-2026-07-15-21-15-10",
+          "titulo": "‘Petróleo para todos ou para ninguém’, avisa o Irã",
+          "resumo": "A Guarda Revolucionária do Irã advertiu que as exportações regionais de petróleo e gás serão ‘para todos ou para ninguém’ diante do conflito em escalada com os EUA.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a57705c20302720c96a2817.jpg",
+          "link": "https://www.rt.com/news/643087-iran-us-export-routes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-15T11:44:20.000Z"
+        },
+        {
+          "id": "rt-2026-07-15-21-15-11",
+          "titulo": "‘Vassalos’ dos EUA devem saber seu lugar – embaixador de Putin",
+          "resumo": "A UE e o Reino Unido devem abandonar as ambições de potência média e aceitar seu papel como ‘vassalos’ dos EUA, afirma o embaixador de Putin, Kirill Dmitriev.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a575f2b85f5405f54422ec8.jpg",
+          "link": "https://www.rt.com/news/643083-uk-eu-us-vassals-dmitriev/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-15T10:56:19.000Z"
+        },
+        {
+          "id": "rt-2026-07-15-21-15-12",
+          "titulo": "Índia e Rússia acelerarão rota de navegação no Ártico",
+          "resumo": "Índia e Rússia assinarão um acordo de carga sobre a Rota do Mar do Norte para aumentar a navegação e o comércio no Ártico.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a576796203027488766ed20.jpg",
+          "link": "https://www.rt.com/india/643082-india-russia-arctic-route/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-15T10:56:12.000Z"
+        },
+        {
+          "id": "rt-2026-07-15-21-15-13",
+          "titulo": "Israel aumenta esforços para anexar a Cisjordânia",
+          "resumo": "Israel aprovou mais de $400 milhões para novos assentamentos na Cisjordânia, apesar das críticas à anexação de fato do território.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a575322203027138e6a8627.jpeg",
+          "link": "https://www.rt.com/news/643078-israel-west-bank-new-settlements/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-15T10:52:56.000Z"
+        },
+        {
+          "id": "rt-2026-07-15-21-15-14",
+          "titulo": "Rússia promete apoio aos países do Sahel na luta contra o terrorismo",
+          "resumo": "O ministro das Relações Exteriores da Rússia, Sergey Lavrov, se reuniu com seu homólogo do Chade e prometeu continuar apoiando os países do Sahel.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a574d08203027148c7321c3.png",
+          "link": "https://www.rt.com/africa/643077-russia-pledges-counterterrorism-support-sahel-states/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-15T09:19:38.000Z"
+        },
+        {
+          "id": "rt-2026-07-15-21-15-15",
           "titulo": "Rússia não é a principal ameaça à Europa – vice-primeiro-ministro italiano",
           "resumo": "O vice-primeiro-ministro italiano, Matteo Salvini, rejeitou as alegações de que a Rússia é a principal ameaça à Europa, apontando em vez disso para a imigração ilegal.",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a57476285f54011f40ae2a2.jpg",
           "link": "https://www.rt.com/russia/643079-salvini-russia-not-threat/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-15T09:00:24-03:00"
+          "publicado_em": "2026-07-15T09:00:24.000Z"
         },
         {
-          "id": "rt-2026-07-15-10-15-03",
-          "titulo": "Trump diz a Netanyahu para deixar a Síria e o Líbano – Axios",
-          "resumo": "Donald Trump instou Benjamin Netanyahu a começar a retirar as tropas israelenses da Síria e do Líbano, de acordo com o Axios.",
+          "id": "rt-2026-07-15-21-15-16",
+          "titulo": "‘Eles não querem você lá’: Trump diz a Netanyahu para deixar a Síria e o Líbano – Axios",
+          "resumo": "Donald Trump instou Benjamin Netanyahu a começar a retirar as tropas israelenses da Síria e do Líbano, de acordo com um relatório da Axios.",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a574989203027158c6f75e6.jpg",
           "link": "https://www.rt.com/news/643080-trump-tells-netanyahu-leave-syria-lebanon/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-15T09:00:03-03:00"
-        },
-        {
-          "id": "rt-2026-07-15-10-15-04",
-          "titulo": "França licencia a produção de mísseis na Ucrânia",
-          "resumo": "A França permitirá que a Ucrânia produza bombas de cruzeiro, interceptores e mísseis de cruzeiro, disse o presidente Emmanuel Macron.",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a56918d2030275f6741976c.jpg",
-          "link": "https://www.rt.com/news/643053-france-licenses-missile-production-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-14T20:12:29-03:00"
-        },
-        {
-          "id": "rt-2026-07-15-10-15-05",
-          "titulo": "Rússia ataca sites de produção de drones e mísseis ucranianos – Ministério da Defesa",
-          "resumo": "As forças russas atacaram sites de produção de drones e mísseis ucranianos em Kiev e infraestrutura portuária em Odessa, de acordo com o Ministério da Defesa.",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5662882030276998161c3e.jpg",
-          "link": "https://www.rt.com/russia/643045-russia-strike-ukrainian-drone-missile-production/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-14T17:00:05-03:00"
-        },
-        {
-          "id": "rt-2026-07-15-10-15-06",
-          "titulo": "Bulgária se retira da coalizão de apoiadores da Ucrânia",
-          "resumo": "A Bulgária não tem lugar na coalizão de nações ocidentais que apoiam a Ucrânia com ajuda militar, disse o primeiro-ministro Rumen Radev.",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a56529c2030275e9f11a634.jpg",
-          "link": "https://www.rt.com/news/643041-radev-bulgaria-out-coalition-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-14T16:10:56-03:00"
-        },
-        {
-          "id": "rt-2026-07-15-10-15-07",
-          "titulo": "A posição da Europa sobre a Ucrânia é um 'beco sem saída' – Kremlin",
-          "resumo": "Os apoiadores europeus da Ucrânia não podem desempenhar um papel na resolução do conflito ucraniano enquanto excluem a Rússia, disse o Kremlin.",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5667fa2030276998161c4b.jpg",
-          "link": "https://www.rt.com/russia/643031-russia-peskov-merz-ukraine-europe/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-14T18:08:56-03:00"
-        },
-        {
-          "id": "rt-2026-07-15-10-15-08",
-          "titulo": "Estreito de Ormuz: Qual é o estado atual da via aquática?",
-          "resumo": "O Estreito de Ormuz está no centro do conflito renovado entre os EUA e o Irã, com preços de petróleo em alta e reivindicações concorrentes sobre o controle da rota.",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a563b1585f540727666d657.jpg",
-          "link": "https://www.rt.com/news/643033-us-iran-hormuz-state/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-14T19:05:41-03:00"
-        },
-        {
-          "id": "rt-2026-07-15-10-15-09",
-          "titulo": "O futuro militar da Europa começa a tomar forma",
-          "resumo": "Ancara mostrou um bloco falando duramente, mas divisões profundas sobre a guerra, o gasto e o papel de Washington já estão moldando o próximo modelo do continente.",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a567ada2030276998161c58.jpg",
-          "link": "https://www.rt.com/news/643046-europe-military-future-nato/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-14T18:09:50-03:00"
-        },
-        {
-          "id": "rt-2026-07-15-10-15-10",
-          "titulo": "Billions of UK taxpayers’ money wasted during Covid – inquiry",
-          "resumo": "Billions of pounds in UK taxpayers’ money were wasted during the Covid pandemic due to inadequate planning, an inquiry has found",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5695d9203027685e31e4cf.jpg",
-          "link": "https://www.rt.com/news/643047-uk-covid-inadequate-response/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-14T22:35:09-03:00"
+          "publicado_em": "2026-07-15T09:00:03.000Z"
         }
       ]
     },
