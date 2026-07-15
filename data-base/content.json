@@ -684,42 +684,58 @@
     "mt": {
       "slug": "mt",
       "nome": "The Moscow Times",
-      "gerado_em": "2026-07-15T10:45:59.733Z",
+      "gerado_em": "2026-07-15T21:46:16.402Z",
       "artigos": [
         {
-          "id": "mt-2026-07-15-01",
-          "titulo": "Ataque russo a Odesa mata 3 enquanto Ucrânia ataca navios no Mar Negro",
-          "resumo": "O comandante de drones da Ucrânia disse que Kyiv atingiu 20 navios russos no Mar Negro durante a noite.",
+          "id": "mt-2026-07-15-2101",
+          "titulo": "Rússia pede a cidadãos nos países do Golfo que tomem precauções à medida que Irã e EUA trocam ataques",
+          "resumo": "O Kremlin disse que \"lamenta\" a última escalada no Oriente Médio, que disse está impedindo Washington de se concentrar em seu papel de mediador nas estagnadas negociações de paz na Ucrânia.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/15/russias-mfa-urges-citizens-in-gulf-countries-to-take-precautions-as-iran-and-us-exchange-strikes-a93255",
+          "publicado_em": "2026-07-15T14:47:33.000Z"
+        },
+        {
+          "id": "mt-2026-07-15-2102",
+          "titulo": "Tribunal de Moscou rejeita pedido do ex-vice-ministro da Defesa preso para lutar na Ucrânia",
+          "resumo": "Timur Ivanov, que foi condenado a 13 anos de prisão por corrupção, havia solicitado assinar um contrato militar — um caminho comum para condenados russos garantirem uma liberação antecipada em troca de combate...",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/15/moscow-court-rejects-jailed-former-deputy-defense-ministers-bid-to-fight-in-ukraine-a93253",
+          "publicado_em": "2026-07-15T12:10:19.000Z"
+        },
+        {
+          "id": "mt-2026-07-15-2103",
+          "titulo": "Casal russo detido em Istambul por ler a Bíblia em Hagia Sofia",
+          "resumo": "A igreja do século VI e sítio da UNESCO perdeu seu status de museu em 2020 e foi reconvertida em mesquita.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/15/russian-couple-detained-in-istanbul-for-reading-bible-in-hagia-sofia-a93252",
+          "publicado_em": "2026-07-15T11:02:12.000Z"
+        },
+        {
+          "id": "mt-2026-07-15-2104",
+          "titulo": "Ataque russo a Odesa mata 3 enquanto a Ucrânia ataca navios no Mar Negro",
+          "resumo": "O comandante de drones da Ucrânia disse na quarta-feira que Kyiv atingiu 20 navios russos no Mar Negro durante a noite.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/15/russian-attack-on-odesa-kills-3-as-ukraine-strikes-ships-in-black-sea-a93251",
           "publicado_em": "2026-07-15T09:29:33.000Z"
         },
         {
-          "id": "mt-2026-07-15-02",
+          "id": "mt-2026-07-15-2105",
           "titulo": "Rússia e EUA concordam em estender operações da ISS até 2030",
-          "resumo": "O anúncio da extensão veio logo após uma nave espacial russa Soyuz MS-29 acoplar com sucesso à ISS na terça-feira.",
+          "resumo": "O anúncio da extensão veio logo após uma espaçonave russa Soyuz MS-29 acoplar com sucesso à ISS mais cedo na terça-feira.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/15/russia-and-us-agree-to-extend-iss-operations-through-2030-a93250",
           "publicado_em": "2026-07-15T08:41:00.000Z"
         },
         {
-          "id": "mt-2026-07-15-03",
-          "titulo": "Governador de Stavropol pede a funcionários que usem bicicletas para economizar combustível",
-          "resumo": "A partir de terça-feira, membros do governo regional precisarão da aprovação pessoal do governador para viajar fora da capital regional.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/14/switch-to-biking-to-save-fuel-stavropol-governor-tells-officials-as-shortages-persist-a93247",
-          "publicado_em": "2026-07-14T15:31:00.000Z"
-        },
-        {
-          "id": "mt-2026-07-15-04",
-          "titulo": "Comércio entre Rússia e China cresce 25,6% no primeiro semestre de 2026",
+          "id": "mt-2026-07-15-2107",
+          "titulo": "Comércio Rússia-China cresce 25,6% no primeiro semestre de 2026",
           "resumo": "A recuperação marca uma reversão em relação a 2025, quando o comércio bilateral caiu pela primeira vez em cinco anos.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/14/russia-china-trade-grows-256-in-first-half-of-2026-a93246",
           "publicado_em": "2026-07-14T15:14:22.000Z"
         },
         {
-          "id": "mt-2026-07-15-05",
+          "id": "mt-2026-07-15-2108",
           "titulo": "Estado de emergência declarado em partes da região de Sverdlovsk devido a tempestades e inundações severas",
           "resumo": "Chuvas fortes e tempestades atingiram a região dos Urais na última sexta-feira, deixando 25 cidades e vilas sem eletricidade.",
           "imagem": null,
@@ -727,23 +743,15 @@
           "publicado_em": "2026-07-14T14:27:00.000Z"
         },
         {
-          "id": "mt-2026-07-15-06",
-          "titulo": "Japão admite necessidade de contramedidas de espionagem após relatório sobre 'cova de espiões' russa",
-          "resumo": "O New York Times relatou que, devido a 'leis de espionagem fracas', Moscou estava usando o Japão como um hub para coleta de inteligência e aquisição de tecnologia de dupla utilização necessária para sua guerra na Ucrânia.",
+          "id": "mt-2026-07-15-2109",
+          "titulo": "Japão admite necessidade de contramedidas de espionagem após relatório de \"cova de espiões\" russa",
+          "resumo": "O New York Times relatou que graças a \"leis de espionagem fracas\", Moscou estava usando o Japão como um hub para coleta de inteligência e aquisição de tecnologia de uso duplo necessária para sua guerra na Ucrânia.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/14/japan-admits-need-to-counter-espionage-after-russian-den-of-spies-report-a93245",
           "publicado_em": "2026-07-14T13:44:41.000Z"
         },
         {
-          "id": "mt-2026-07-15-07",
-          "titulo": "Candidato a eleição em São Petersburgo é preso por 10 dias por postagens antigas em redes sociais",
-          "resumo": "Yaroslav Kostrov, que lidera um grupo que defende a preservação da arquitetura histórica de São Petersburgo, agora está proibido de buscar cargo eletivo por um ano devido à sua condenação.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/14/st-petersburg-election-candidate-jailed-10-days-for-old-social-media-posts-a93242",
-          "publicado_em": "2026-07-14T12:12:00.000Z"
-        },
-        {
-          "id": "mt-2026-07-15-08",
+          "id": "mt-2026-07-15-2111",
           "titulo": "Rússia se prepara para redirecionar exportações de grãos do Mar de Azov após ataques ucranianos",
           "resumo": "O transporte no Mar de Azov permaneceu restrito na terça-feira, de acordo com fontes da Reuters, marcando a maior interrupção no comércio de grãos do Mar Negro desde o início da guerra na Ucrânia.",
           "imagem": null,
@@ -751,7 +759,7 @@
           "publicado_em": "2026-07-14T10:28:44.000Z"
         },
         {
-          "id": "mt-2026-07-15-09",
+          "id": "mt-2026-07-15-2112",
           "titulo": "FSB acusa rapper ucraniano de organizar ataque de drone em empresa de defesa",
           "resumo": "O rapper ucraniano Kyivstoner negou as alegações russas em uma série de postagens no Instagram.",
           "imagem": null,
@@ -759,23 +767,23 @@
           "publicado_em": "2026-07-14T09:53:00.000Z"
         },
         {
-          "id": "mt-2026-07-15-10",
+          "id": "mt-2026-07-15-2113",
           "titulo": "Ucrânia ataca refinarias de petróleo em Krasnodar e Bashkortostan",
-          "resumo": "A Ucrânia atingiu a maioria das refinarias de petróleo da Rússia nos últimos meses, levando a graves escassezes de combustível em algumas partes do país.",
+          "resumo": "A Ucrânia atingiu a maioria das refinarias de petróleo da Rússia nos últimos meses, levando a graves escassez de combustível em algumas partes do país.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/14/ukraine-hits-oil-refineries-in-krasnodar-and-bashkortostan-a93239",
           "publicado_em": "2026-07-14T08:35:00.000Z"
         },
         {
-          "id": "mt-2026-07-15-11",
-          "titulo": "Rússia convoca embaixador alemão e acusa Berlim de apoiar ataques ucranianos",
+          "id": "mt-2026-07-15-2114",
+          "titulo": "Rússia convoca embaixador alemão, acusa Berlim de apoiar ataques ucranianos",
           "resumo": "O Ministério das Relações Exteriores da Rússia também criticou a posição da Alemanha em relação às relações de terceiros países com a Rússia, incluindo as relações Rússia-China.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/13/russia-summons-german-ambassador-accuses-berlin-of-supporting-ukrainian-attacks-a93237",
           "publicado_em": "2026-07-13T15:36:01.000Z"
         },
         {
-          "id": "mt-2026-07-15-12",
+          "id": "mt-2026-07-15-2115",
           "titulo": "Na região do Cáucaso Norte, uma reforma constitucional reabre feridas centenárias",
           "resumo": "Ativistas da sociedade civil em Kabardino-Balkaria e membros da diáspora circassiana acreditam que as mudanças erodiriam ainda mais a autonomia da república.",
           "imagem": null,
@@ -783,68 +791,20 @@
           "publicado_em": "2026-07-13T15:32:00.000Z"
         },
         {
-          "id": "mt-2026-07-15-13",
-          "titulo": "Europa compra quantidade recorde de GNL do maior produtor russo – FT",
-          "resumo": "As compras representam um aumento de 18% em comparação com o mesmo período em 2025 e ocorrem apesar do plano da UE de eliminar completamente todas as importações de GNL russo até o final do ano.",
+          "id": "mt-2026-07-15-2116",
+          "titulo": "Europa compra quantidade recorde de GNL do maior produtor da Rússia – FT",
+          "resumo": "As compras marcam um aumento de 18% em comparação com o mesmo período em 2025 e ocorrem apesar do plano da UE de eliminar completamente todas as importações de GNL russo até o final do ano.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/13/europe-buys-record-amount-of-lng-from-russias-largest-producer-ft-a93236",
           "publicado_em": "2026-07-13T14:51:00.000Z"
         },
         {
-          "id": "mt-2026-07-15-14",
-          "titulo": "Polícia detém brevemente Boris Nadezhdin ao norte de Moscou",
-          "resumo": "A polícia o acusou do delito administrativo de exibir 'símbolos extremistas' por compartilhar um link para um vídeo que continha uma imagem do falecido ativista de oposição Alexei Navalny.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/13/police-briefly-detain-boris-nadezhdin-north-of-moscow-a93235",
-          "publicado_em": "2026-07-13T13:22:00.000Z"
-        },
-        {
-          "id": "mt-2026-07-15-15",
-          "titulo": "UE impõe sanções à VK por desenvolver aplicativo de mensagens Max",
-          "resumo": "Bruxelas acusou a VK de fornecer 'apoio técnico para a repressão da sociedade civil e oposição democrática' na Rússia.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/13/eu-sanctions-vk-for-developing-messenger-app-max-a93234",
-          "publicado_em": "2026-07-13T12:14:53.000Z"
-        },
-        {
-          "id": "mt-2026-07-15-16",
-          "titulo": "Organismo de tênis de mesa mundial restaura jogadores russos com bandeira e hino",
-          "resumo": "A medida segue a decisão do Comitê Olímpico Internacional de suspender provisoriamente o Comitê Olímpico Russo na semana passada.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/13/world-table-tennis-body-reinstates-russian-players-with-flag-and-anthem-a93233",
-          "publicado_em": "2026-07-13T10:27:11.000Z"
-        },
-        {
-          "id": "mt-2026-07-15-17",
+          "id": "mt-2026-07-15-2120",
           "titulo": "4 mortos em ataques de drones ucranianos em toda a Rússia",
-          "resumo": "Autoridades militares e regionais disseram que unidades de defesa aérea russas derrubaram centenas de drones entre domingo à noite e segunda-feira de manhã.",
+          "resumo": "Autoridades militares e regionais disseram que unidades de defesa aérea russas derrubaram centenas de drones entre a noite de domingo e a manhã de segunda-feira.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/13/4-killed-in-ukrainian-drone-attacks-across-russia-a93230",
           "publicado_em": "2026-07-13T09:08:00.000Z"
-        },
-        {
-          "id": "mt-2026-07-15-18",
-          "titulo": "FSB afirma ter impedido ataques ucranianos a bases aéreas militares dentro da Rússia",
-          "resumo": "A FSB disse que a Ucrânia tentou atacar a base aérea de Shagol na região de Chelyabinsk e a base aérea de Ukrainka na região de Amur.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/13/fsb-claims-it-foiled-ukrainian-attacks-on-military-air-bases-deep-inside-russia-a93229",
-          "publicado_em": "2026-07-13T07:51:00.000Z"
-        },
-        {
-          "id": "mt-2026-07-15-19",
-          "titulo": "9 mortos em troca de ataques entre Rússia e Ucrânia",
-          "resumo": "Os ataques ocorreram um dia antes de os aliados da Ucrânia se reunirem em Paris para discutir pressão sobre a Rússia para encerrar a guerra.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/12/9-dead-as-russia-ukraine-exchange-strikes-a93228",
-          "publicado_em": "2026-07-12T17:20:00.000Z"
-        },
-        {
-          "id": "mt-2026-07-15-20",
-          "titulo": "Rússia diz que Ucrânia atingiu um petroleiro no Mar de Azov",
-          "resumo": "As autoridades disseram que não havia risco de vazamento de óleo porque o navio estava vazio.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/12/russia-says-ukraine-struck-tanker-in-sea-of-azov-a93227",
-          "publicado_em": "2026-07-12T09:56:08.000Z"
         }
       ]
     },
