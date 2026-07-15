@@ -5,12 +5,12 @@
   "itens_urgentes": {},
   "destaques": [],
   "capa": {
-    "categoria_nome": "Conflitos Globais e Desenvolvimento",
-    "titulo": "Tensões no Oriente Médio e África",
-    "subtitulo": "Conflitos, alianças e desafios globais em um mundo cada vez mais interconectado",
-    "resumo": "O cenário global está marcado por tensões no Oriente Médio, com o Irã e os EUA envolvidos em um conflito que pode ter implicações significativas para a região e o mundo. Enquanto isso, a África enfrenta desafios como a propagação do Ebola e a instabilidade política em vários países. A Rússia e a China também estão no centro das atenções, com suas manobras geopolíticas e econômicas. Neste contexto, a importância de uma abordagem equilibrada e informada para entender os complexos jogos de poder e interesses em jogo não pode ser subestimada.",
+    "categoria_nome": "Tensões Globais",
+    "titulo": "EUA e Irã Escaladam Conflito",
+    "subtitulo": "Ataques aéreos e tensões no Estreito de Ormuz enquanto o mundo observa",
+    "resumo": "As tensões entre os EUA e o Irã continuam a escalar, com ataques aéreos e uma crescente preocupação sobre a segurança no Estreito de Ormuz. Enquanto isso, a comunidade internacional observa com atenção, temendo as consequências de um conflito mais amplo. A Rússia, por sua vez, pede calma e diálogo, enquanto a UE anuncia um acordo de drones com a Ucrânia, buscando fortalecer sua posição na região. A África também está sob os holofotes, com a Etiópia iniciando sua Conferência Nacional de Diálogo e a Libéria enfrentando alertas sobre a infiltração de cartéis de drogas.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-07-15T10:00:00-03:00",
+    "publicado_em": "2026-07-15T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -939,35 +939,35 @@
   "temas_principais": [
     {
       "tema": "Conflito EUA-Irã",
-      "descricao": "O conflito entre os EUA e o Irã continua a escalar, com implicações para a estabilidade no Oriente Médio.",
+      "descricao": "Ataques aéreos e tensões no Estreito de Ormuz",
       "fontes_que_cobriram": [
-        "The New York Times",
-        "The Guardian",
-        "Euronews"
+        "new_york_times",
+        "euronews",
+        "smh"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "AllAfrica"
+        "rt"
       ],
-      "divergencia_de_enquadramento": "Enquanto alguns veículos destacam a ameaça iraniana, outros questionam a estratégia dos EUA."
+      "divergencia_de_enquadramento": "Enquanto a mídia ocidental enfatiza a agressividade iraniana, a Rússia e a China tendem a culpabilizar os EUA pela escalada."
     },
     {
-      "tema": "Ebola na África",
-      "descricao": "A propagação do Ebola em várias partes da África é um desafio significativo para a saúde global.",
+      "tema": "Conferência Nacional de Diálogo da Etiópia",
+      "descricao": "Início das discussões para a resolução de conflitos internos",
       "fontes_que_cobriram": [
-        "The Guardian",
-        "AllAfrica"
+        "allafrica"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "The New York Times"
+        "the_guardian",
+        "new_york_times"
       ],
-      "divergencia_de_enquadramento": "A cobertura varia desde alertas sobre a propagação da doença até discussões sobre as respostas internacionais."
+      "divergencia_de_enquadramento": "A cobertura da AllAfrica destaca a importância da conferência para a estabilidade da região, enquanto outras fontes não a mencionam."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Desenvolvimento Sustentável na Ásia",
-      "por_que_importa": "O crescimento econômico na Ásia pode ter implicações significativas para o desenvolvimento sustentável global.",
-      "cobertura": "A cobertura é limitada, com poucos veículos abordando o tema de forma aprofundada."
+      "tema": "Infiltração de Cartéis de Drogas na Libéria",
+      "por_que_importa": "Ameaça à segurança regional e ao desenvolvimento do país",
+      "cobertura": "Apenas a AllAfrica cobriu o tema, destacando a gravidade da situação."
     }
   ]
 }
