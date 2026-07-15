@@ -858,71 +858,87 @@
     "smh": {
       "slug": "smh",
       "nome": "The Sydney Morning Herald (SMH)",
-      "gerado_em": "2026-07-14T21:46:33.246Z",
+      "gerado_em": "2026-07-15T10:46:22.128Z",
       "artigos": [
         {
-          "id": "smh-2026-07-14-2105",
-          "titulo": "Notícias da Austrália AO VIVO: novo escritório de IA do PM; taxas universitárias aumentarão para centenas de milhares de estudantes",
-          "resumo": "Acompanhe conosco as últimas atualizações de notícias ao vivo da Austrália e de além-mar.",
-          "imagem": "https://static.ffx.io/images/$zoom_0.165%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_185%2C$y_0/t_crop_custom/q_86%2Cf_auto/510801bacb0b88f40244596be21e3263f0bd53d159df47503d11cb0e02376632",
-          "link": "https://www.smh.com.au/national/australia-news-live-pm-s-new-ai-office-uni-fees-to-hike-for-hundreds-of-thousands-of-students-20260715-p60fcr.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "publicado_em": "2026-07-14T21:02:36.000Z-03:00"
+          "id": "smh-2026-07-15-01",
+          "titulo": "Informações pessoais roubadas em novo ciberataque em clínicas de saúde",
+          "resumo": "Informações pessoais de 21 clínicas de saúde em todo o país foram roubadas em um novo ciberataque no provedor de saúde australiano Partnered Health.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/931c710eadfd8be10da229d4f736ee76dd005533",
+          "link": "https://www.smh.com.au/national/personal-information-stolen-in-new-cyberattack-on-health-clinics-20260715-p60fo9.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-15T10:27:18-03:00"
         },
         {
-          "id": "smh-2026-07-14-2108",
-          "titulo": "Preocupação com o suprimento de combustível da Austrália",
-          "resumo": "Há preocupações com um aumento nos preços dos combustíveis devido à incerteza no Oriente Médio.",
-          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/ff793b8f2c91f7d3530ac138b2c42f9a0377d392",
-          "link": "https://www.smh.com.au/national/concern-for-australias-fuel-supply-20260715-p60fd0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "publicado_em": "2026-07-14T20:27:18.000Z-03:00"
+          "id": "smh-2026-07-15-02",
+          "titulo": "Trabalhadores de minério de ferro entram em greve pela primeira vez em duas décadas",
+          "resumo": "Pela primeira vez em mais de duas décadas, trabalhadores de minério de ferro em WA's Pilbara estão prestes a tomar medidas industriais.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/eef28598f7c218b60e89c1947de1280a600b8787",
+          "link": "https://www.smh.com.au/national/iron-ore-workers-set-to-strike-for-first-time-in-two-decades-20260715-p60fo7.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-15T10:22:48-03:00"
         },
         {
-          "id": "smh-2026-07-14-2110",
-          "titulo": "Derryn Hinch receberá um funeral de estado",
-          "resumo": "O veterano radialista Derryn Hinch será lembrado em um funeral de estado na próxima semana.",
-          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/a72b0f9ebeb0c8a679eb81404aa2e65f8c3326b3",
-          "link": "https://www.smh.com.au/national/derryn-hinch-to-receive-state-funeral-20260715-p60fd1.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "publicado_em": "2026-07-14T20:27:02.000Z-03:00"
+          "id": "smh-2026-07-15-03",
+          "titulo": "Menino morre e mulher luta pela vida após carro atingir pedestres em Perth",
+          "resumo": "Um menino morreu e outra pessoa sofreu ferimentos críticos após ser atingida por um veículo em Perth.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/a76e9a827cd386bce678028a52a4f3ed2fc5455e",
+          "link": "https://www.smh.com.au/national/boy-killed-woman-fighting-for-life-after-car-hits-pedestrians-in-perth-20260715-p60fo8.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-15T10:22:44-03:00"
         },
         {
-          "id": "smh-2026-07-14-2112",
-          "titulo": "Trump cancela pedágio para navios no Estreito de Hormuz",
-          "resumo": "Donald Trump mudou de ideia sobre os planos de cobrar pedágio de navios que passam pelo Estreito de Hormuz.",
-          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/088d091a19d2310c69624531b2f06c88a4ae3266",
-          "link": "https://www.smh.com.au/world/trump-scraps-strait-of-hormuz-shipping-toll-20260715-p60fct.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "publicado_em": "2026-07-14T20:22:09.000Z-03:00"
+          "id": "smh-2026-07-15-04",
+          "titulo": "Como uma viagem de $8.000 para o pub de Hamish e Andy em Nova York expõe o problema de aposentadoria da Coalizão",
+          "resumo": "Uma onda de parlamentares gastou milhares em viagens financiadas pelo contribuinte apenas semanas e meses antes de anunciar seus planos de deixar a política.",
+          "imagem": "https://static.ffx.io/images/$zoom_0.5171%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_43/t_crop_custom/q_86%2Cf_auto/8b0bd355c6f717804faafa8ad352d918c9bcb88225a0eff410925387873611cc",
+          "link": "https://www.smh.com.au/politics/victoria/how-an-8000-trip-to-hamish-and-andy-s-new-york-pub-exposes-the-coalition-s-retiree-rort-problem-20260709-p60e28.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-15T09:51:00-03:00"
         },
         {
-          "id": "smh-2026-07-14-2113",
-          "titulo": "Plano do governo para lidar com a IA",
-          "resumo": "O primeiro-ministro Anthony Albanese apresentará hoje seu plano para gerenciar o rápido crescimento da IA.",
-          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/8e1538457795e6d404df66fa496f0288c10b1d35",
-          "link": "https://www.smh.com.au/national/government-plan-to-tackle-ai-20260715-p60fcv.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "publicado_em": "2026-07-14T20:22:06.000Z-03:00"
+          "id": "smh-2026-07-15-05",
+          "titulo": "Como o boom de veículos elétricos da China saiu do controle",
+          "resumo": "A China nunca pretendia criar tantos fabricantes de carros. Agora, a explosão de veículos elétricos pode ter consequências negativas para Pequim.",
+          "imagem": "https://static.ffx.io/images/$zoom_0.2005681818181818%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_84/t_crop_custom/q_86%2Cf_auto/c8386c0334f0527c3ef9aaf709a6e112951a78c6",
+          "link": "https://www.smh.com.au/business/companies/how-china-s-ev-boom-spun-dangerously-out-of-control-20260714-p60f1g.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-15T09:50:00-03:00"
         },
         {
-          "id": "smh-2026-07-14-2114",
-          "titulo": "Investigação de assassinato de político do Reino Unido",
-          "resumo": "A polícia do Reino Unido diz que o assassinato de um político proeminente foi um ataque direcionado.",
-          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/7753854f2b9c3375848657f431248372447af8b9",
-          "link": "https://www.smh.com.au/world/murder-investigation-into-uk-politicians-death-20260715-p60fcw.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "publicado_em": "2026-07-14T20:21:47.000Z-03:00"
+          "id": "smh-2026-07-15-06",
+          "titulo": "Pista nova na busca por mãe desaparecida",
+          "resumo": "A família de uma mãe desaparecida, presumida assassinada, disse que recebeu novas informações que podem levar ao local do corpo.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/d9080711224b3bf01eadd355b1c9c97de238e9d3",
+          "link": "https://www.smh.com.au/national/new-clue-in-search-for-missing-mother-20260715-p60fo3.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-15T09:22:56-03:00"
         },
         {
-          "id": "smh-2026-07-14-2116",
-          "titulo": "Trump abandona plano de pedágio no Estreito de Hormuz",
-          "resumo": "O presidente dos EUA havia proposto uma taxa de 20% sobre as cargas que passam pelo estreito, mas disse que buscaria acordos de investimento adicionais com os estados do Golfo.",
-          "imagem": "https://static.ffx.io/images/$zoom_0.6390607407407407%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_210%2C$y_33/t_crop_custom/q_86%2Cf_auto/1bc4e2b9d63e603f0737046cbbc9452ce4fd6153",
-          "link": "https://www.smh.com.au/world/north-america/trump-backs-away-from-fee-plan-on-strait-of-hormuz-20260715-p60fcf.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "publicado_em": "2026-07-14T20:08:49.000Z-03:00"
+          "id": "smh-2026-07-15-07",
+          "titulo": "Salários de CEOs revelados",
+          "resumo": "Um novo relatório expôs os pacotes de remuneração extraordinários dos CEOs melhor pagos da Austrália.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/e07ee2820e5e284fa9527d7e0b1b0fca08777db1",
+          "link": "https://www.smh.com.au/national/ceos-massive-pay-packets-revealed-20260715-p60fo1.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-15T09:22:17-03:00"
         },
         {
-          "id": "smh-2026-07-14-2120",
-          "titulo": "Atualizações ao vivo da guerra EUA-Irã: Trump reinstaura bloqueio no Estreito de Hormuz, recua sobre taxa de 20% à medida que os EUA lançam nova onda de ataques ao Irã",
-          "resumo": "As forças dos EUA realizaram ataques adicionais a alvos militares no Irã para eliminar 'ameaças emergentes' antes de um bloqueio naval aos portos iranianos ser reinstituído. Acompanhe ao vivo.",
-          "imagem": "https://static.ffx.io/images/$zoom_0.1582%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/bc4fc440988a0260098227beaa1d0fc00b3d75c5",
-          "link": "https://www.smh.com.au/world/middle-east/us-iran-war-live-updates-trump-reinstates-blockade-on-strait-of-hormuz-backs-away-from-20-per-cent-fee-as-us-launches-wave-of-new-attacks-on-iran-20260714-p60f8k.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "publicado_em": "2026-07-14T19:12:49.000Z-03:00"
+          "id": "smh-2026-07-15-08",
+          "titulo": "Passageiro de avião quase sugado para fora após janela explodir",
+          "resumo": "A esposa de um passageiro da RyanAir que foi parcialmente sugado para fora de um avião após uma janela explodir, deu um relato extraordinário do que aconteceu a bordo.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/98a1976e346ea8d1b1daa8f2a909973783881fb5",
+          "link": "https://www.smh.com.au/national/ryanair-passenger-partially-sucked-out-of-plane-was-stuck-for-two-minutes-20260715-p60fo2.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-15T09:22:17-03:00"
+        },
+        {
+          "id": "smh-2026-07-15-09",
+          "titulo": "AFL banisce Nicky Winmar do Hall da Fama do futebol australiano após condenação por agressão",
+          "resumo": "A Comissão da AFL revogou sua membresia após a condenação recente do ex-campeão de St Kilda por agredir uma mulher.",
+          "imagem": "https://static.ffx.io/images/$zoom_0.2314%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/f003549ea8809d36548fd039a21aab828bb39e62",
+          "link": "https://www.smh.com.au/sport/afl/afl-banishes-nicky-winmar-from-australian-football-hall-of-fame-after-assault-conviction-20260715-p60fk0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-15T08:55:37-03:00"
+        },
+        {
+          "id": "smh-2026-07-15-10",
+          "titulo": "Família enlutada após menino de seis anos morrer em acidente de carro",
+          "resumo": "Uma família do Queensland está lidando com a perda devastadora de seu menino de seis anos após um acidente de carro.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/70db821236ea6aded71a6e741176a52f38dc7d8c",
+          "link": "https://www.smh.com.au/national/family-s-heartbreak-after-six-year-old-boy-dies-in-car-crash-20260715-p60fny.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-15T08:52:26-03:00"
         }
       ]
     }
