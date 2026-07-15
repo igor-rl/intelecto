@@ -121,71 +121,119 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-07-15T10:00:00.872Z",
+      "gerado_em": "2026-07-15T21:00:01.763Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-07-15-10:00:00-01",
-          "titulo": "U.S. War Against Iran Enters a New Phase",
-          "resumo": "As President Trump resumes his war, the focus is now on the Strait of Hormuz. But it remains unclear how far the U.S. military will go to exert control.",
+          "id": "new_york_times-2026-07-15-2101",
+          "titulo": "Todd Blanche, procurador-geral indicado por Trump, enfrenta obstáculo crucial após audiência conturbada",
+          "resumo": "Mesmo um único voto 'não' republicano bloquearia a nomeação de Mr. Blanche para consideração pelo Senado completo, o que poderia afundar sua confirmação.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/14/us/politics/us-war-iran-next-phase.html",
-          "publicado_em": "2026-07-15T00:22:55-03:00"
+          "link": "https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-attorney-general-confirmation.html",
+          "publicado_em": "2026-07-15T20:33:16.000Z"
         },
         {
-          "id": "new_york_times-2026-07-15-10:00:00-02",
-          "titulo": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo",
-          "resumo": "Officials see a return to full-blown war as preferable to an agreement that fails to curb the threats Iran poses to Israel. Meanwhile, they wait.",
+          "id": "new_york_times-2026-07-15-2102",
+          "titulo": "O que saber sobre a ordem de Todd Blanche que concede imunidade a Trump em auditorias do IRS",
+          "resumo": "A decisão do procurador-geral interino Todd Blanche de conceder proteção ao presidente Trump contra auditorias do IRS foi uma questão central em sua audiência de confirmação na quarta-feira.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/15/world/middleeast/for-israel-the-us-iran-hostilities-have-created-an-uneasy-limbo.html",
-          "publicado_em": "2026-07-15T09:03:46-03:00"
+          "link": "https://www.nytimes.com/2026/07/15/us/politics/trump-irs-lawsuit-immunity-blanche.html",
+          "publicado_em": "2026-07-15T19:01:07.000Z"
         },
         {
-          "id": "new_york_times-2026-07-15-10:00:00-03",
-          "titulo": "China’s Economy Grows at Slowest Pace in Years",
-          "resumo": "Economic growth of 4.3 percent in the second quarter, versus the same period last year, reflected a broad slump outside of the country’s export-oriented manufacturing might.",
+          "id": "new_york_times-2026-07-15-2103",
+          "titulo": "Nova indicação de Trump para a CDC jura não 'trair a ciência'",
+          "resumo": "A Dra. Erica Schwartz disse a senadores em uma audiência de confirmação que não acreditava que Robert F. Kennedy Jr. ou o presidente Trump a pediriam para fazer algo que prejudicasse a saúde pública.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/15/business/china-economy-gdp-growth.html",
-          "publicado_em": "2026-07-15T06:38:34-03:00"
+          "link": "https://www.nytimes.com/2026/07/15/health/cdc-erica-schwartz.html",
+          "publicado_em": "2026-07-15T19:07:08.000Z"
         },
         {
-          "id": "new_york_times-2026-07-15-10:00:00-04",
-          "titulo": "China’s Chip Champion to Raise Billions in Race for A.I. Control",
-          "resumo": "CXMT, a linchpin in China’s drive to develop homegrown artificial intelligence technology, is aiming to raise nearly $10 billion in a blockbuster public offering in Shanghai.",
+          "id": "new_york_times-2026-07-15-2105",
+          "titulo": "Ataques dos EUA atingem a ilha de Greater Tunb, no estreito de Ormuz",
+          "resumo": "O Pentágono disse que atacou locais de armazenamento e lançamento de mísseis de cruzeiro iranianos na ilha de Greater Tunb, uma das várias pequenas ilhas no estreito de Ormuz.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/15/business/china-chips-cxmt-ipo.html",
-          "publicado_em": "2026-07-15T07:29:52-03:00"
+          "link": "https://www.nytimes.com/2026/07/15/world/middleeast/us-iran-hormuz-greater-tunb-island.html",
+          "publicado_em": "2026-07-15T17:04:50.000Z"
         },
         {
-          "id": "new_york_times-2026-07-15-10:00:00-05",
-          "titulo": "Ukraine Pounds Russian Ships in Its Campaign to Cut Off Crimea",
-          "resumo": "After striking roads and railways, Kyiv is now focusing on sea routes as it tries to disrupt fuel supplies and pressure Russia to end the war.",
+          "id": "new_york_times-2026-07-15-2106",
+          "titulo": "FBI busca drogas em van de ICE após tiroteio em Houston",
+          "resumo": "Investigadores federais acreditam que havia drogas ilegais dentro do veículo, embora os agentes de imigração envolvidos no encontro não pareçam ter sabido disso.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/15/us/fbi-search-drugs-houston-ice-shooting.html",
+          "publicado_em": "2026-07-15T20:27:58.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-15-2107",
+          "titulo": "Trump pressiona a ICE para retomar paradas de trânsito após elas serem interrompidas devido a tiroteios fatais",
+          "resumo": "A Imigração e Alfândega dos EUA havia ordenado que seus oficiais parassem a maioria das paradas de veículos em todo o país após terem atirado em duas pessoas nos últimos dias.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/15/us/politics/trump-ice-traffic-stops.html",
+          "publicado_em": "2026-07-15T19:00:55.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-15-2108",
+          "titulo": "Documentos judiciais descrevem contato contínuo entre a ICE e o Irã sobre deportações",
+          "resumo": "Em uma declaração juramentada, um advogado afirma que um oficial iraniano relatou ter recebido regularmente dossiês sobre detidos iranianos da Imigração e Alfândega dos EUA por meses.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/15/us/politics/state-dept-ice-iran-deportation.html",
+          "publicado_em": "2026-07-15T19:32:36.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-15-2109",
+          "titulo": "Ucrânia ataca navios russos em sua campanha para cortar a Crimeia",
+          "resumo": "Depois de atingir estradas e ferrovias, Kiev agora está se concentrando em rotas marítimas, tentando interromper o suprimento de combustível e pressionar a Rússia a encerrar a guerra.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/15/world/europe/ukraine-russia-crimea-azov-sea.html",
-          "publicado_em": "2026-07-15T09:38:52-03:00"
+          "publicado_em": "2026-07-15T17:59:48.000Z"
         },
         {
-          "id": "new_york_times-2026-07-15-10:00:00-06",
-          "titulo": "He Has a $25 Million Bounty on His Head, But Is Also a U.S. Partner in Venezuela.",
-          "resumo": "A list of alleged crimes has not prevented Diosdado Cabello, and other Venezuelan officials, from working with a U.S. government that once hounded them.",
+          "id": "new_york_times-2026-07-15-2110",
+          "titulo": "Senadores interrogam oficiais do Departamento de Justiça sobre intimações ao New York Times",
+          "resumo": "Democratas questionaram o procurador-geral interino, Todd Blanche, e um procurador dos EUA sobre intimações emitidas para jornalistas do Times que relataram sobre preocupações de segurança com o novo avião do presidente.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/15/world/americas/us-bounty-diosdado-cabello-venezuela.html",
-          "publicado_em": "2026-07-15T09:02:09-03:00"
+          "link": "https://www.nytimes.com/2026/07/15/business/media/blanche-clayton-senate-nyt-subpoenas.html",
+          "publicado_em": "2026-07-15T19:59:04.000Z"
         },
         {
-          "id": "new_york_times-2026-07-15-10:00:00-07",
-          "titulo": "Todd Blanche Faces Crucial Hurdle Ahead of Confirmation as Attorney General",
-          "resumo": "Todd Blanche’s nomination is broadly a referendum on President Trump’s vision of the Justice Department as a projection of his power.",
+          "id": "new_york_times-2026-07-15-2112",
+          "titulo": "Câmara dos Representantes dos EUA lança orçamento para desbloquear US$ 95 bilhões para a guerra no Irã e a Lei SAVE",
+          "resumo": "O plano enfrenta um caminho difícil diante das divisões republicanas e pavimentaria o caminho para votações meses antes das eleições de meio de mandato para financiar uma guerra que as pesquisas mostram ser profundamente impopular.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-attorney-general-confirmation-doj.html",
-          "publicado_em": "2026-07-15T09:03:34-03:00"
+          "link": "https://www.nytimes.com/2026/07/15/us/politics/house-republicans-budget.html",
+          "publicado_em": "2026-07-15T14:05:57.000Z"
         },
         {
-          "id": "new_york_times-2026-07-15-10:00:00-08",
-          "titulo": "Senator Mark Kelly Amasses Nearly $25 Million Campaign War Chest",
-          "resumo": "The Arizona Democrat said he had raised and given away $10 million to fellow members of his party and committees as he mulls a presidential run in 2028.",
+          "id": "new_york_times-2026-07-15-2113",
+          "titulo": "Departamento do Tesouro começa a cunhar moeda de ouro de US$ 1 com a face do presidente Trump",
+          "resumo": "Críticos questionam se as moedas são legais e argumentam que o presidente Trump está usando a moeda para se celebrar.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/15/us/politics/mark-kelly-arizona-democrat-fundraising.html",
-          "publicado_em": "2026-07-15T09:03:45-03:00"
+          "link": "https://www.nytimes.com/2026/07/15/us/politics/gold-trump-coins.html",
+          "publicado_em": "2026-07-15T18:05:07.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-15-2121",
+          "titulo": "Dentro da busca dos democratas de Maine por um novo indicado ao Senado após a saída de Graham Platner",
+          "resumo": "Candidatos democratas estão rapidamente construindo campanhas básicas e dispensando o alcance tradicional, como anúncios de TV, em uma corrida para atrair delegados do partido, em vez de eleitores de Maine.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/15/us/politics/maine-democrats-senate-convention.html",
+          "publicado_em": "2026-07-15T18:52:42.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-15-2122",
+          "titulo": "Elon Musk financia a campanha de Vivek Ramaswamy para governador de Ohio, apesar de suas diferenças sobre DOGE",
+          "resumo": "Elon Musk deu US$ 5 milhões para apoiar a campanha de Vivek Ramaswamy para governador de Ohio, aparentemente superando as tensões em torno do esforço para reduzir a força de trabalho federal.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/15/us/politics/elon-musk-vivek-ramaswamy-ohio-governor-doge.html",
+          "publicado_em": "2026-07-15T16:00:42.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-15-2123",
+          "titulo": "Trump apoia Mike Lindell, fundador da MyPillow, para governador de Minnesota",
+          "resumo": "Ele é um aliado próximo do presidente Trump e tem sido um proponente líder do movimento de negação de eleições, que falsamente afirma que as máquinas de votação são frequentemente manipuladas.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/15/us/trump-mike-lindell-endorsement-minnesota.html",
+          "publicado_em": "2026-07-15T16:15:21.000Z"
         }
       ]
     },
