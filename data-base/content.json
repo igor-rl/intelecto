@@ -212,55 +212,95 @@
     "euronews": {
       "slug": "euronews",
       "nome": "Euro News",
-      "gerado_em": "2026-07-16T10:00:26.016Z",
+      "gerado_em": "2026-07-16T21:00:20.461Z",
       "artigos": [
         {
-          "id": "euronews-2026-07-16-1008",
+          "id": "euronews-2026-07-16-2102",
+          "titulo": "Incêndio em orfanato na Argélia mata 11 crianças e fere 19",
+          "resumo": "Autoridades argelinas não informaram a causa do incêndio, que ocorreu durante uma onda de calor que já provocou quase 1.000 incêndios.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/16/fire-at-algerian-orphanage-kills-11-children-injures-19",
+          "publicado_em": "2026-07-16T18:36:50.000Z"
+        },
+        {
+          "id": "euronews-2026-07-16-2103",
+          "titulo": "Argélia investiga incêndio em orfanato que matou 11 pessoas",
+          "resumo": "A Argélia está investigando um incêndio em um orfanato perto de Argel, que matou pelo menos 11 pessoas e feriu 19, ocorrido durante uma onda de calor e quase 1.000 incêndios recentes.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/16/algeria-investigates-mohammadia-orphanage-fire-that-killed-11-people",
+          "publicado_em": "2026-07-16T17:19:47.000Z"
+        },
+        {
+          "id": "euronews-2026-07-16-2104",
+          "titulo": "Autoridades negam relatos de explosões em Dubai",
+          "resumo": "Autoridades negaram relatos de explosões ouvidas sobre o centro de Dubai, em meio a ataques iranianos renovados na região.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/16/explosions-heard-over-downtown-dubai-euronews-journalists-report",
+          "publicado_em": "2026-07-16T16:46:50.000Z"
+        },
+        {
+          "id": "euronews-2026-07-16-2106",
+          "titulo": "Teerã promete 'esmagar' infraestrutura regional se EUA atacar sites iranianos",
+          "resumo": "O Irã disse que sua resposta a qualquer ataque dos EUA contra sua infraestrutura resultaria em destruição em toda a região, à medida que vários relatos diziam que Teerã havia pedido aos houthis que estivessem prontos para fechar o Bab el-Mandeb.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/16/tehran-vows-to-crush-regional-infrastructure-if-us-hits-iranian-sites",
+          "publicado_em": "2026-07-16T13:52:39.000Z"
+        },
+        {
+          "id": "euronews-2026-07-16-2107",
+          "titulo": "Manifestantes em Kyiv protestam após Zelenskyy demitir ministro da Defesa Fedorov",
+          "resumo": "Centenas de pessoas protestam em Kyiv após o presidente Zelenskyy demitir o ministro da Defesa Fedorov, um modernizador creditado por desacelerar o avanço da Rússia.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/16/kyiv-protesters-rally-after-zelenskyy-sacks-defence-minister-fedorov",
+          "publicado_em": "2026-07-16T12:59:28.000Z"
+        },
+        {
+          "id": "euronews-2026-07-16-2108",
+          "titulo": "China é 'um desafio estratégico de longo prazo crítico', dizem ministros da UE",
+          "resumo": "Os ministros das Relações Exteriores da UE emitiram uma avaliação conjunta dos riscos impostos pela China, alertando que Pequim ameaça não apenas a economia do bloco, mas também sua segurança, destacando a ambição compartilhada de ...",
+          "imagem": null,
+          "link": "http://www.euronews.com/my-europe/2026/07/16/china-is-a-critical-long-term-strategic-challenge-eu-ministers-say",
+          "publicado_em": "2026-07-16T11:28:59.000Z"
+        },
+        {
+          "id": "euronews-2026-07-16-2111",
+          "titulo": "Kyiv é atingida novamente; Ucrânia relata dois mortos em ataque russo",
+          "resumo": "Mísseis russos mataram duas pessoas e feriram cinco, incluindo uma criança, em Kyiv, Ucrânia, em 16 de julho de 2026.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/16/kyiv-hit-again-as-ukraine-reports-two-dead-in-russian-strike",
+          "publicado_em": "2026-07-16T10:21:00.000Z"
+        },
+        {
+          "id": "euronews-2026-07-16-2114",
+          "titulo": "Moradores da fronteira reagem ao fim das verificações entre Gibraltar e Espanha",
+          "resumo": "Verificações de fronteira rotineiras entre a Espanha e Gibraltar foram encerradas, permitindo que milhares de comutadores diários cruzem mais facilmente. Embora muitos acolham viagens mais curtas e maior liberdade, outros permanecem cautelosos...",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/16/its-freedom-border-residents-react-to-end-of-gibraltar-spain-checks",
+          "publicado_em": "2026-07-16T08:28:12.000Z"
+        },
+        {
+          "id": "euronews-2026-07-16-2115",
+          "titulo": "Toronto sufocado por fumaça de incêndios florestais, registra a pior qualidade do ar do mundo",
+          "resumo": "Uma espessa névoa laranja pairou sobre Toronto na quarta-feira, 15 de julho, à medida que a fumaça de incêndios florestais no noroeste de Ontário envolveu a maior cidade do Canadá, dando-lhe a pior qualidade do ar de qualquer cidade importante do mundo...",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/16/toronto-choked-by-wildfire-smoke-records-worlds-worst-air-quality",
+          "publicado_em": "2026-07-16T07:51:55.000Z"
+        },
+        {
+          "id": "euronews-2026-07-16-2120",
           "titulo": "Irã lança ataques retaliatórios contra bases dos EUA no Kuwait, Bahrein e Jordânia",
-          "resumo": "Os últimos ataques com mísseis começaram quando os EUA disseram que atiraram um míssil no funil de um navio-tanque com bandeira de Curaçao após alegar que o navio \"ignorou múltiplos avisos\"",
+          "resumo": "Os últimos ataques com mísseis começaram quando os EUA disseram que lançaram um míssil contra o funil de um petroleiro com bandeira de Curaçao, alegando que o navio 'ignorou múltiplos avisos'.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/16/us-strikes-around-tehran-for-first-time-in-most-recent-wave-of-attacks-says-iranian-state-",
           "publicado_em": "2026-07-16T03:45:08.000Z"
         },
         {
-          "id": "euronews-2026-07-16-1012",
-          "titulo": "Ucrânia: seis mortos após Rússia atacar Sumy e Odesa",
-          "resumo": "Equipes de emergência combateram incêndios e procuraram edifícios danificados em toda a Ucrânia na terça-feira, 15 de julho, após ataques russos nas cidades de Sumy e Odesa que mataram seis pessoas e feriram pelo menos 20 outras",
+          "id": "euronews-2026-07-16-2124",
+          "titulo": "Ucrânia: seis mortos enquanto a Rússia ataca Sumy e Odesa",
+          "resumo": "Equipes de emergência combateram incêndios e procuraram edifícios danificados em toda a Ucrânia na terça-feira, 15 de julho, após ataques russos às cidades de Sumy e Odesa, que mataram seis pessoas e feriram pelo menos 20 outras, de acordo com...",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/07/15/ukraine-six-dead-as-russia-targets-sumy-and-odesa",
           "publicado_em": "2026-07-15T15:49:53.000Z"
-        },
-        {
-          "id": "euronews-2026-07-16-1015",
-          "titulo": "EUA retomam ataques diurnos ao Irã à medida que as tensões escalam sobre o Estreito de Ormuz",
-          "resumo": "O Comando Central dos EUA disse que retomou ataques diurnos ao Irã, visando defesas costeiras e sites de mísseis",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/15/us-resumes-daylight-strikes-on-iran-as-tensions-escalate-over-strait-of-hormuz",
-          "publicado_em": "2026-07-15T12:58:08.000Z"
-        },
-        {
-          "id": "euronews-2026-07-16-1017",
-          "titulo": "Irã executa homem por protestos em janeiro à medida que a repressão ao dissidente se amplia",
-          "resumo": "Mohammad Amini Dehaghani foi condenado por incendiar um escritório do governador em Isfahan em 9 de janeiro",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/15/iran-executes-man-over-january-protests-as-crackdown-on-dissent-widens",
-          "publicado_em": "2026-07-15T09:03:04.000Z"
-        },
-        {
-          "id": "euronews-2026-07-16-1021",
-          "titulo": "Economia de guerra do Sudão está alimentando um conflito 'autoperpetuante', diz escritório de direitos humanos da ONU",
-          "resumo": "A OHCHR pediu às partes do conflito e às corporações envolvidas na cadeia de valor das commodities sudanesas que garantam o cumprimento da lei internacional",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/15/sudans-war-economy-fuelling-self-perpetuating-conflict-un-human-rights-office-says",
-          "publicado_em": "2026-07-15T07:01:29.000Z"
-        },
-        {
-          "id": "euronews-2026-07-16-1024",
-          "titulo": "Irã lança ataques contra vizinhos à medida que Trump ameaça atingir usinas de energia",
-          "resumo": "O ataque de Teerã ocorre à medida que o militar dos EUA realizou uma quarta noite de ataques contra o Irã após o presidente Donald Trump reinstalar o bloqueio de navios iranianos ao redor do estreito de Ormuz",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/15/iran-launches-strikes-on-neighbours-as-us-resumes-blockade-and-trump-threatens-to-hit-powe",
-          "publicado_em": "2026-07-15T04:16:34.000Z"
         }
       ]
     },
