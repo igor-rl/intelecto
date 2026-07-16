@@ -18,95 +18,115 @@
     "the_guardian": {
       "slug": "the_guardian",
       "nome": "The Guardian",
-      "gerado_em": "2026-07-15T21:00:13.310Z",
+      "gerado_em": "2026-07-16T10:00:17.999Z",
       "artigos": [
         {
-          "id": "the_guardian-2026-07-14T12-27-06-000Z-01",
-          "titulo": "Paciente americano com Ebola chega à Alemanha para tratamento",
-          "resumo": "Trabalhador humanitário voou para Berlim enquanto administração Trump proíbe americanos de viajarem para os EUA em voos comerciais. Um nacional americano que contraiu Ebola na República Democrática do Congo chegou à Alemanha para tratamento.",
+          "id": "the_guardian-2026-07-16-1001",
+          "titulo": "Informante da inteligência marroquina revela uso generalizado de software de hacking Pegasus",
+          "resumo": "Denunciante sugere que serviços de segurança interna implantaram spyware a partir de 2017 contra alvos domésticos e estrangeiros importantes",
+          "link": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
           "imagem": null,
+          "publicado_em": "2026-07-16T04:30:13.000Z",
+          "fonte": "The Guardian"
+        },
+        {
+          "id": "the_guardian-2026-07-16-1002",
+          "titulo": "Como o aquecimento global supercarregou as inundações na África Ocidental, deslocando milhares",
+          "resumo": "Adaptação ao novo normal assustador e redução de emissões mais rápido e mais longe é crítica, alertam cientistas",
+          "link": "https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
+          "imagem": null,
+          "publicado_em": "2026-07-16T00:01:08.000Z",
+          "fonte": "The Guardian"
+        },
+        {
+          "id": "the_guardian-2026-07-16-1003",
+          "titulo": "Novo paciente americano com Ebola chega à Alemanha para tratamento",
+          "resumo": "Trabalhador humanitário voou para Berlim enquanto a administração Trump proíbe americanos de viajarem para os EUA em voos comerciais",
           "link": "https://www.theguardian.com/world/2026/jul/14/american-ebola-patient-arrives-germany",
-          "publicado_em": "2026-07-14T12:27:06.000Z"
+          "imagem": null,
+          "publicado_em": "2026-07-14T12:27:06.000Z",
+          "fonte": "The Guardian"
         },
         {
-          "id": "the_guardian-2026-07-13T14-00-49-000Z-02",
-          "titulo": "Continuam os assassinatos na fazenda Del Monte no Quênia, dizem familiares, após a G4S ser contratada para segurança",
-          "resumo": "Três homens foram mortos em incidentes nos últimos 12 meses, alegadamente envolvendo guardas da G4S, que substituíram a equipe de segurança interna após mortes anteriores. Familiares enlutados e políticos levantaram alarme sobre a continuação dos assassinatos.",
-          "imagem": null,
+          "id": "the_guardian-2026-07-16-1004",
+          "titulo": "Mortes continuam na fazenda Del Monte no Quênia, dizem famílias, após a G4S ser contratada para segurança",
+          "resumo": "Três homens foram mortos em incidentes nos últimos 12 meses, alegadamente envolvendo guardas da G4S, que substituíram a equipe de segurança interna após mortes anteriores",
           "link": "https://www.theguardian.com/world/2026/jul/13/del-monte-pineapple-farm-kenya-deaths-g4s",
-          "publicado_em": "2026-07-13T14:00:49.000Z"
+          "imagem": null,
+          "publicado_em": "2026-07-13T14:00:49.000Z",
+          "fonte": "The Guardian"
         },
         {
-          "id": "the_guardian-2026-07-12T08-00-12-000Z-03",
-          "titulo": "Primeiros pacientes inscritos em ensaio clínico de tratamento de Ebola de quebra de recordes na RDC",
-          "resumo": "Dois medicamentos estão sendo testados na região de Ituri em um programa estabelecido apenas seis semanas após a declaração do surto, com esperanças de reduzir as taxas de mortalidade. Não há medicamento aprovado para ajudar os pacientes com Ebola.",
-          "imagem": null,
+          "id": "the_guardian-2026-07-16-1005",
+          "titulo": "Primeiros pacientes inscritos em ensaio clínico de tratamento de Ebola na RDC",
+          "resumo": "Dois medicamentos estão sendo testados na região de Ituri em um programa estabelecido apenas seis semanas após a declaração do surto, com esperanças de reduzir as taxas de mortalidade",
           "link": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
-          "publicado_em": "2026-07-12T08:00:12.000Z"
+          "imagem": null,
+          "publicado_em": "2026-07-12T08:00:12.000Z",
+          "fonte": "The Guardian"
         },
         {
-          "id": "the_guardian-2026-07-11T11-59-11-000Z-04",
-          "titulo": "Nigéria diz que o exército matou 300 bandidos no estado noroeste de Zamfara",
-          "resumo": "Vigilantes também participaram da luta que durou a noite toda e na manhã seguinte, dizem moradores. Soldados nigerianos mataram mais de 300 membros de gangues de sequestro e roubo de gado no estado noroeste de Zamfara.",
+          "id": "the_guardian-2026-07-16-1006",
+          "titulo": "‘Malvinas são argentinas’: campeões do Mundo comemoram vitória sobre a Inglaterra com faixa sobre as Ilhas Falkland",
+          "resumo": "Faixa se refere ao conflito das Ilhas Falkland em 1982",
+          "link": "https://www.theguardian.com/football/2026/jul/15/malvinas-is-argentinian-world-cup-holders-celebrate-win-over-england-with-banner",
           "imagem": null,
-          "link": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
-          "publicado_em": "2026-07-11T11:59:11.000Z"
+          "publicado_em": "2026-07-16T08:13:50.000Z",
+          "fonte": "The Guardian"
         },
         {
-          "id": "the_guardian-2026-07-10T07-00-14-000Z-05",
-          "titulo": "Países em desenvolvimento gastam mais para pagar dívida externa do que em educação, revela a ONU",
-          "resumo": "Relatório da Unesco mostra que as crianças perderam para o serviço da dívida em 113 países, com 18 gastando cinco vezes mais em empréstimos. A maioria dos países em desenvolvimento gastou menos em educação do que em pagamento de dívida no ano passado.",
+          "id": "the_guardian-2026-07-16-1007",
+          "titulo": "Brasil condena decisão dos EUA de impor tarifas de 25% na próxima semana",
+          "resumo": "Escritório de comércio cita investigação de práticas comerciais brasileiras, enquanto Marco Rubio diz que as políticas de Lula são ‘ruins para os americanos e ruins para os brasileiros’",
+          "link": "https://www.theguardian.com/us-news/2026/jul/16/brazil-us-tariffs",
           "imagem": null,
-          "link": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
-          "publicado_em": "2026-07-10T07:00:14.000Z"
+          "publicado_em": "2026-07-16T05:01:23.000Z",
+          "fonte": "The Guardian"
         },
         {
-          "id": "the_guardian-2026-07-15T16-08-39-000Z-06",
-          "titulo": "Incêndios florestais em Ontário tornam a qualidade do ar de Toronto a pior do mundo",
-          "resumo": "Environment Canada emite alertas de saúde após o céu sobre a cidade ficar amarelo. A fumaça de mais de 100 incêndios florestais ativos no norte de Ontário tornou a qualidade do ar de Toronto a pior do mundo no momento.",
+          "id": "the_guardian-2026-07-16-1008",
+          "titulo": "México pede a promotores estaduais dos EUA que investiguem mortes de imigrantes em custódia da ICE",
+          "resumo": "Desde o início do segundo mandato de Trump, 14 imigrantes mexicanos morreram em custódia da ICE e três em operações da agência",
+          "link": "https://www.theguardian.com/us-news/2026/jul/15/mexico-investigate-ice-deaths",
           "imagem": null,
+          "publicado_em": "2026-07-15T20:58:43.000Z",
+          "fonte": "The Guardian"
+        },
+        {
+          "id": "the_guardian-2026-07-16-1009",
+          "titulo": "Incêndios florestais em Ontário tornam a qualidade do ar em Toronto a pior do mundo",
+          "resumo": "Environment Canada emite alertas de saúde após o céu sobre a cidade se tornar amarelo",
           "link": "https://www.theguardian.com/world/2026/jul/15/wildfires-in-ontario-make-toronto-canada-air-quality-worst-in-world",
-          "publicado_em": "2026-07-15T16:08:39.000Z"
+          "imagem": null,
+          "publicado_em": "2026-07-15T16:08:39.000Z",
+          "fonte": "The Guardian"
         },
         {
-          "id": "the_guardian-2026-07-15T11-46-23-000Z-07",
+          "id": "the_guardian-2026-07-16-1010",
           "titulo": "Governo interino da Venezuela e oposição começam negociações formais",
-          "resumo": "A laureada com o Prêmio Nobel María Corina Machado não liderará as negociações sobre novas eleições, contrariando expectativas. O governo interino da Venezuela anunciou que começará negociações formais com a oposição.",
-          "imagem": null,
+          "resumo": "A laureada com o Prêmio Nobel María Corina Machado não liderará as negociações sobre novas eleições, contrariando expectativas",
           "link": "https://www.theguardian.com/world/2026/jul/15/venezuela-interim-government-opposition-talks-democracy-maria-corina-machado",
-          "publicado_em": "2026-07-15T11:46:23.000Z"
-        },
-        {
-          "id": "the_guardian-2026-07-15T08-00-49-000Z-08",
-          "titulo": "Naufrágios de Shackleton e Scott recriados em forma digital 3D após expedição ao mar profundo",
-          "resumo": "Cientistas canadenses visitam os restos dos navios de exploração polar em uma ‘era de ouro para a investigação de naufrágios’. Momentos após devorar os últimos vestígios de luz, o fundo do mar ofereceu apenas escuridão.",
           "imagem": null,
-          "link": "https://www.theguardian.com/science/2026/jul/15/deep-sea-expedition-builds-digital-twins-shipwrecks-scott-shackleton",
-          "publicado_em": "2026-07-15T08:00:49.000Z"
+          "publicado_em": "2026-07-15T11:46:23.000Z",
+          "fonte": "The Guardian"
         },
         {
-          "id": "the_guardian-2026-07-14T18-23-45-000Z-09",
-          "titulo": "Desdém pelo plano da cadeia de restaurantes Chipotle de vender comida mexicana no México",
-          "resumo": "Um usuário das redes sociais descreveu a abertura da primeira loja em Monterrey como ‘como o cão ensinando um pato a voar’. Uma cadeia de restaurantes dos EUA planeja vender sua versão de comida mexicana para os mexicanos com a primeira loja.",
+          "id": "the_guardian-2026-07-16-1011",
+          "titulo": "Medo pelas espécies nativas da Nova Zelândia à medida que surge o primeiro caso de gripe aviária",
+          "resumo": "Ministro pede ao público que relatem casos de três ou mais pássaros doentes ou mortos em um grupo após um albatroz-marinho testar positivo para H5N1 em uma praia em Wellington",
+          "link": "https://www.theguardian.com/world/2026/jul/16/new-zealand-first-h5n1-bird-flu-case",
           "imagem": null,
-          "link": "https://www.theguardian.com/world/2026/jul/14/derision-at-us-chain-chipotles-plan-to-sell-its-mexican-food-in-mexico",
-          "publicado_em": "2026-07-14T18:23:45.000Z"
+          "publicado_em": "2026-07-16T02:23:46.000Z",
+          "fonte": "The Guardian"
         },
         {
-          "id": "the_guardian-2026-07-14T09-00-26-000Z-10",
-          "titulo": "‘Deus está punindo os políticos’: raiva com a resposta ao terremoto cresce na Venezuela",
-          "resumo": "Ameaça de distúrbios sociais aumenta à medida que a indignação pública com a falta de ajuda para desastres se soma à consequência da intervenção militar dos EUA. Uma revolução em ruínas: fúria entre os escombros de um projeto de habitação em Caracas.",
-          "imagem": null,
-          "link": "https://www.theguardian.com/world/2026/jul/14/anger-earthquake-response-venezuela",
-          "publicado_em": "2026-07-14T09:00:26.000Z"
-        },
-        {
-          "id": "the_guardian-2026-07-15T10-48-27-000Z-11",
+          "id": "the_guardian-2026-07-16-1012",
           "titulo": "A economia da China cresce 4,3%, uma das taxas mais baixas já registradas",
-          "resumo": "Figuras piores do que o esperado para os três meses até junho vêm em meio a preocupações sobre a economia desequilibrada. A China registrou taxas de crescimento piores do que o esperado para os três meses até junho, em meio a preocupações sobre a economia.",
-          "imagem": null,
+          "resumo": "Figuras piores do que o esperado para os três meses até junho vêm em meio a preocupações sobre uma economia desequilibrada",
           "link": "https://www.theguardian.com/business/2026/jul/15/china-economy-low-quarterly-growth-economic-concerns",
-          "publicado_em": "2026-07-15T10:48:27.000Z"
+          "imagem": null,
+          "publicado_em": "2026-07-15T10:48:27.000Z",
+          "fonte": "The Guardian"
         }
       ]
     },
