@@ -133,167 +133,79 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-07-16T10:00:01.919Z",
+      "gerado_em": "2026-07-16T21:00:00.778Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-07-16-1001",
-          "titulo": "Quase Metade dos Democratas do Congresso Vota para Encerrar Ajuda a Israel",
-          "resumo": "A medida fracassou, mas o nível de apoio entre os democratas expôs uma mudança drástica no partido em relação ao apoio ao Estado judeu.",
+          "id": "new_york_times-2026-07-16-2101",
+          "titulo": "Incêndios Florestais Continuam em Ontário",
+          "resumo": "O ministro de preparação para emergências de Ontário pediu ajuda ao governo federal, incluindo a possível implantação de soldados canadenses nas regiões afetadas.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/15/us/politics/democrats-house-israel-vote-aid.html",
-          "publicado_em": "2026-07-15T21:42:59.000Z"
+          "link": "https://www.nytimes.com/2026/07/16/weather/ontario-canada-wildfires.html",
+          "publicado_em": "2026-07-16T17:55:36.000Z"
         },
         {
-          "id": "new_york_times-2026-07-16-1002",
-          "titulo": "Preços do Diesel Atingem US$ 5 por Galão Novamente, com Aumento de 33% Desde o Início da Guerra no Irã",
-          "resumo": "Os preços do diesel nos EUA ultrapassaram US$ 5 por galão pela primeira vez em março. A retomada dos combates no Golfo Pérsico e a redução da capacidade de refino estão impulsionando novamente os preços.",
+          "id": "new_york_times-2026-07-16-2103",
+          "titulo": "Relatório das Academias Nacionais Apoia a Ciência de Atribuição de Mudanças Climáticas",
+          "resumo": "A ciência de atribuição está avançando rapidamente, disseram os pesquisadores. Isso pode apoiar processos judiciais que buscam danos por eventos graves piorados pelo aquecimento global.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/16/business/diesel-prices-us-iran-war.html",
-          "publicado_em": "2026-07-16T08:57:51.000Z"
+          "link": "https://www.nytimes.com/2026/07/16/climate/national-academies-extreme-weather-attribution.html",
+          "publicado_em": "2026-07-16T19:05:49.000Z"
         },
         {
-          "id": "new_york_times-2026-07-16-1003",
-          "titulo": "Mulher Iraniano-Americana Presa no Irã por Acusações de Espionagem é Libertada",
-          "resumo": "A cidadã dual iraniano-americana, Dena Karari, teve seu passaporte apreendido em dezembro de 2024 e não pôde deixar o Irã enquanto enfrentava acusações de espionagem.",
+          "id": "new_york_times-2026-07-16-2104",
+          "titulo": "Casa Branca Enfrenta Forte Reação Contra a Submissão de Subsídios a Revisão Política",
+          "resumo": "Acadêmicos, líderes de cidades e legisladores do Congresso estão entre os milhares que instam a administração Trump a reconsiderar um plano para impor mais controle sobre subsídios.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/15/world/middleeast/iran-american-released-trump.html",
-          "publicado_em": "2026-07-16T03:21:53.000Z"
+          "link": "https://www.nytimes.com/2026/07/16/us/politics/white-house-federal-grants-political-review.html",
+          "publicado_em": "2026-07-16T16:12:13.000Z"
         },
         {
-          "id": "new_york_times-2026-07-16-1004",
-          "titulo": "Todd Blanche, Escolha de Trump para Procurador-Geral, Enfrenta Obstáculo Crucial Após Audiência Turbulenta",
-          "resumo": "Mesmo um único voto 'não' republicano bloquearia a nomeação de Blanche para consideração pelo Senado completo, o que poderia afundar sua confirmação.",
+          "id": "new_york_times-2026-07-16-2105",
+          "titulo": "Senador Republicano Thom Tillis Exige que Todd Blanche Se Encontre com Sobreviventes de Epstein",
+          "resumo": "O senador Thom Tillis da Carolina do Norte fez a exigência durante uma audiência do Comitê Judiciário do Senado na quinta-feira para que testemunhas discutissem a nomeação de Mr. Blanche.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-attorney-general-confirmation.html",
-          "publicado_em": "2026-07-16T00:49:30.000Z"
+          "link": "https://www.nytimes.com/2026/07/16/us/politics/todd-blanche-attorney-general-epstein.html",
+          "publicado_em": "2026-07-16T17:02:31.000Z"
         },
         {
-          "id": "new_york_times-2026-07-16-1005",
-          "titulo": "Hegseth Planeja Realizar Testes em Todos os Soldados, Incluindo Mulheres, para Baixo Nível de Testosterona",
-          "resumo": "Pete Hegseth, como secretário de defesa, buscou cultivar uma imagem de líder amigável à manosphere.",
+          "id": "new_york_times-2026-07-16-2106",
+          "titulo": "Ucrânia Estava em uma Maré de Sucesso. Então um Conflito Sobre Estratégia de Guerra Explodiu em Vista.",
+          "resumo": "A partir de um estacionamento subterrâneo, o recém-demitido ministro da defesa da Ucrânia fez a crítica mais dramática e pública ao comando militar desde o início da guerra.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/15/us/politics/hegseth-troops-testosterone.html",
-          "publicado_em": "2026-07-16T09:30:22.000Z"
+          "link": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-military-defense-minister-drones.html",
+          "publicado_em": "2026-07-16T20:02:43.000Z"
         },
         {
-          "id": "new_york_times-2026-07-16-1006",
-          "titulo": "Administração Trump Imporá Novas Tarifas ao Brasil",
-          "resumo": "Os EUA acusaram o país de práticas comerciais desleais. A tarifa substituirá as que a Suprema Corte derrubou.",
+          "id": "new_york_times-2026-07-16-2107",
+          "titulo": "Sobre a Guerra Contra o Irã, o Pentágono Disse Pouco",
+          "resumo": "O secretário de defesa Pete Hegseth falou sobre uma variedade de questões nos últimos dias — desde testosterona até investigações de vazamentos —, mas disse pouco sobre a guerra.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/15/business/economy/trump-brazil-tariffs.html",
-          "publicado_em": "2026-07-16T04:43:45.000Z"
+          "link": "https://www.nytimes.com/2026/07/16/us/politics/hegseth-iran-war-briefings.html",
+          "publicado_em": "2026-07-16T20:33:25.000Z"
         },
         {
-          "id": "new_york_times-2026-07-16-1007",
-          "titulo": "Fumaça de Incêndios Florestais se Espalha pelo Nordeste à Medida que as Temperaturas Disparam",
-          "resumo": "Um 'dome de calor' é responsável pelas temperaturas miseravelmente altas, e também está ajudando a impulsionar a fumaça de incêndios florestais para o leste.",
+          "id": "new_york_times-2026-07-16-2112",
+          "titulo": "Chuva Relentless Causa Inundações Generalizadas no Texas Central",
+          "resumo": "Pelo menos uma pessoa morreu, e trabalhadores de emergência resgataram dezenas de pessoas. O governador Greg Abbott disse que a chuva no estado provavelmente quebraria recordes.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/15/weather/heat-dome-wildfire-smoke-minnesota-canada-nyc.html",
-          "publicado_em": "2026-07-16T02:06:45.000Z"
+          "link": "https://www.nytimes.com/2026/07/16/us/flooding-central-texas-hill-country.html",
+          "publicado_em": "2026-07-16T19:38:22.000Z"
         },
         {
-          "id": "new_york_times-2026-07-16-1008",
-          "titulo": "Emergência de Inundações é Declarada no Texas Após Dias de Chuvas Torrenciais",
-          "resumo": "Ruas se tornaram rios na quarta-feira à medida que os funcionários de emergência em cidades ao redor de San Antonio corriam para resgatar pessoas que estavam ilhadas.",
+          "id": "new_york_times-2026-07-16-2113",
+          "titulo": "Como os Esforços de Diversidade da Nike a Transformaram em um Alvo de Trump",
+          "resumo": "Uma investigação de direitos civis, que surgiu de um memorando de 26 páginas de um indicado político, fornece um mapa para o ataque da Casa Branca à D.E.I.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/15/weather/texas-flooding-boerne.html",
-          "publicado_em": "2026-07-16T01:47:57.000Z"
+          "link": "https://www.nytimes.com/2026/07/16/us/politics/nike-dei-trump-eeoc.html",
+          "publicado_em": "2026-07-16T16:27:25.000Z"
         },
         {
-          "id": "new_york_times-2026-07-16-1009",
-          "titulo": "Vídeo Força Polícia Local a Ser Transparente. O DHS Está Ignorando as Lições.",
-          "resumo": "A agência disse pouco sobre dois encontros fatais na última semana. Os departamentos de polícia locais aprenderam a ser francos.",
+          "id": "new_york_times-2026-07-16-2115",
+          "titulo": "Astrônomos Encontram uma Atmosfera em um Planeta Semelhante à Terra Próximo",
+          "resumo": "É o primeiro mundo potencialmente habitável conhecido por abrigar uma atmosfera, tornando-o um dos principais concorrentes na busca por vida além do nosso sistema solar.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/15/us/ice-public-statements.html",
-          "publicado_em": "2026-07-16T01:15:30.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-16-1010",
-          "titulo": "FBI Procura Van de Tiroteio da ICE em Houston por Drogas",
-          "resumo": "Investigadores federais acreditam que drogas ilegais estavam dentro do veículo, embora os agentes de imigração envolvidos no encontro não pareçam ter sabido disso.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/15/us/fbi-search-drugs-houston-ice-shooting.html",
-          "publicado_em": "2026-07-16T00:06:33.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-16-1011",
-          "titulo": "Trump Diz que Buscará Substituir Motoristas de Caminhão Imigrantes por Veteranos",
-          "resumo": "O presidente tem pressionado para restringir as licenças comerciais de imigrantes, incluindo residentes legais, que ele culpa por acidentes.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/15/us/politics/trump-immigrant-truck-drivers-veterans.html",
-          "publicado_em": "2026-07-16T01:14:44.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-16-1012",
-          "titulo": "Índia Está Avançando Rápido para Construir Centros de Dados de IA. Uma Cidade Costeira Pode Pagar o Preço.",
-          "resumo": "Com a Índia atrasada na tecnologia, os funcionários estão abraçando grandes centros de dados. No entanto, críticos dizem que os megaprojetos usarão energia e água, sem fornecer empregos de longo prazo.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/16/world/asia/india-ai-data-centers-google.html",
-          "publicado_em": "2026-07-16T05:24:49.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-16-1013",
-          "titulo": "TSMC Adiciona US$ 100 Bilhões ao Seu Plano de Gastos nos EUA",
-          "resumo": "O compromisso da gigante taiwanesa de fabricação de chips trouxe o total do compromisso com suas operações em rápida expansão no Arizona para US$ 265 bilhões.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/16/business/tsmc-chips-investment-arizona.html",
-          "publicado_em": "2026-07-16T09:23:39.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-16-1014",
-          "titulo": "Europa Encontra Dificuldade em Romper com a Tecnologia Americana e Chinesa",
-          "resumo": "França e Alemanha querem parar de depender dos EUA e da China para tecnologias-chave como inteligência artificial, mas estão tendo que escolher onde fazer isso.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html",
-          "publicado_em": "2026-07-16T08:20:56.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-16-1015",
-          "titulo": "The New York Times Entrega Moção para Anular Intimações de Seus Jornalistas",
-          "resumo": "O Departamento de Justiça está buscando compelir o testemunho do grande júri como parte de uma investigação sobre a reportagem do Times sobre o novo jato Air Force One do presidente.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/15/business/media/new-york-times-subpoenas-quash.html",
-          "publicado_em": "2026-07-16T01:38:22.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-16-1016",
-          "titulo": "Nosso Editor-Chefe sobre Intimações de Jornalistas do Times",
-          "resumo": "A administração Trump emitiu intimações a repórteres que escreveram sobre preocupações de segurança relacionadas ao novo Air Force One. Joe Kahn, editor-executivo do The New York Times, responde ao que ele chama de...",
-          "imagem": null,
-          "link": "https://www.nytimes.com/video/insider/100000011030047/our-top-editor-on-subpoenas-of-times-journalists.html",
-          "publicado_em": "2026-07-15T17:17:43.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-16-1017",
-          "titulo": "Investigadores Buscam Informações de Funcionários do Governo como Parte da Investigação sobre o Vazamento do Air Force One",
-          "resumo": "Após o The New York Times relatar sobre preocupações de segurança relacionadas ao jato doado pelo Catar, o FBI buscou falar com várias pessoas que voaram a bordo do avião com o presidente Trump na semana passada e como...",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/15/us/politics/air-force-one-lead-investigation-government-officials.html",
-          "publicado_em": "2026-07-16T00:36:50.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-16-1021",
-          "titulo": "Dentro da Busca dos Democratas do Maine por um Novo Candidato ao Senado Após a Saída de Graham Platner",
-          "resumo": "Candidatos democratas estão rapidamente construindo campanhas básicas e dispensando o alcance tradicional, como anúncios de TV, em uma corrida para atrair delegados do partido, em vez de eleitores do Maine.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/15/us/politics/maine-democrats-senate-convention.html",
-          "publicado_em": "2026-07-16T02:39:11.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-16-1022",
-          "titulo": "Aqui Estão os Democratas do Maine que Correm para Substituir Graham Platner",
-          "resumo": "Para vencer, eles precisarão convencer os democratas em uma convenção de 25 de julho de que são o melhor candidato para enfrentar a senadora republicana Susan Collins.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/15/us/politics/maine-democrats-senate-candidates.html",
-          "publicado_em": "2026-07-15T21:21:03.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-16-1023",
-          "titulo": "O Partido Republicano Parece Estar Aumentando a Campanha Primária do Socialista para Governador do Wisconsin",
-          "resumo": "Os republicanos parecem ver Francesca Hong como seu oponente mais fraco em uma eleição geral. Eles estão gastando US$ 2,2 milhões em uma aparente tentativa de ajudar sua campanha primária.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/15/us/politics/republicans-francesca-hong-wisconsin-governor.html",
-          "publicado_em": "2026-07-15T23:34:31.000Z"
+          "link": "https://www.nytimes.com/2026/07/16/science/astronomy-exoplanet-atmosphere.html",
+          "publicado_em": "2026-07-16T20:17:13.000Z"
         }
       ]
     },
