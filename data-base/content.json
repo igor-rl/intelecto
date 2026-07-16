@@ -5,12 +5,12 @@
   "itens_urgentes": {},
   "destaques": [],
   "capa": {
-    "categoria_nome": "Tensões Globais",
-    "titulo": "Conflitos Escalados",
-    "subtitulo": "Ucrânia, Irã e África Ocidental no centro das tensões globais",
-    "resumo": "Os principais conflitos ao redor do mundo continuam a escalar, com a Ucrânia e a Rússia envolvidas em um conflito cada vez mais intenso, o Irã enfrentando tensões com os EUA e a África Ocidental sofrendo com inundações devastadoras. Enquanto a Ucrânia e a Rússia trocam acusações de ataques, o Irã lança ataques retaliatórios contra bases dos EUA. Na África Ocidental, as inundações causadas pelo aquecimento global deslocam milhares de pessoas. Além disso, a situação no Sudão continua crítica, com a economia de guerra alimentando um conflito autoperpetuante. Os temas mais discutidos incluem a guerra entre Ucrânia e Rússia, as tensões entre EUA e Irã, e as inundações na África Ocidental. As fontes como The Guardian, New York Times e Euronews destacam a gravidade desses conflitos, enquanto a RT e a Moscow Times oferecem uma perspectiva russa sobre os eventos. A AllAfrica destaca a situação na África, com foco nas inundações e nos conflitos locais.",
+    "categoria_nome": "O que marcou o dia?",
+    "titulo": "Tensões globais: EUA, Irã e Ucrânia no centro",
+    "subtitulo": "Enquanto conflitos se intensificam, a comunidade internacional busca respostas",
+    "resumo": "O dia foi marcado por tensões globais, com o conflito entre EUA e Irã se intensificando e a Ucrânia no centro de uma crise política. A demissão do ministro da Defesa ucraniano, Mikhail Fedorov, desencadeou protestos em todo o país. Enquanto isso, a comunidade internacional busca respostas para os conflitos em curso. A Argélia investiga um incêndio em um orfanato que matou 11 crianças, e a Itália invade marcas de luxo por suspeitas de exploração de trabalhadores chineses. A Nigéria pode ter sua ajuda estrangeira cortada pelos EUA, e a Libéria enfrenta protestos contra o movimento de armas. A África do Sul vê filhos de imigrantes forçados a deixar escolas sul-africanas, e a Uganda tem seu militar aprendendo com críticos do governo. A Austrália acompanha as notícias da Telstra e do One Nation, enquanto a Marinha dos EUA causa caos em uma praia da Flórida.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-07-16T08:00:00-03:00",
+    "publicado_em": "2026-07-17T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -949,53 +949,57 @@
   },
   "temas_principais": [
     {
-      "tema": "Guerra Ucrânia-Rússia",
-      "descricao": "Conflito entre Ucrânia e Rússia intensifica-se, com acusações de ataques e retaliações.",
+      "tema": "Conflito EUA-Irã",
+      "descricao": "Tensões se intensificam entre EUA e Irã, com ataques aéreos e ameaças de escalada",
       "fontes_que_cobriram": [
-        "the_guardian",
-        "new_york_times",
-        "euronews",
-        "rt",
-        "mt"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a agressão russa, enquanto as fontes russas destacam a legítima defesa da Rússia."
-    },
-    {
-      "tema": "Tensões EUA-Irã",
-      "descricao": "Tensões entre EUA e Irã aumentam, com ataques e retaliações.",
-      "fontes_que_cobriram": [
-        "the_guardian",
-        "new_york_times",
-        "euronews"
+        "The New York Times",
+        "The Straits Times",
+        "Russia Today"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "rt",
-        "mt"
+        "The Guardian",
+        "AllAfrica"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais destacam a ameaça iraniana, enquanto as fontes russas minimizam a importância do conflito."
+      "divergencia_de_enquadramento": "Enquanto alguns veículos destacam a agressividade do Irã, outros enfatizam a resposta dos EUA"
     },
     {
-      "tema": "Inundações na África Ocidental",
-      "descricao": "Inundações devastadoras atingem a África Ocidental, deslocando milhares de pessoas.",
+      "tema": "Crise política na Ucrânia",
+      "descricao": "Demissão do ministro da Defesa ucraniano desencadeia protestos em todo o país",
       "fontes_que_cobriram": [
-        "the_guardian",
-        "all_africa"
+        "The New York Times",
+        "The Moscow Times",
+        "Euronews"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "new_york_times",
-        "euronews",
-        "rt",
-        "mt"
+        "The Guardian",
+        "AllAfrica"
       ],
-      "divergencia_de_enquadramento": "As fontes africanas e ocidentais destacam a gravidade da situação, enquanto as fontes russas não a mencionam."
+      "divergencia_de_enquadramento": "Enquanto alguns veículos destacam a crise política, outros enfatizam a importância da estabilidade na região"
+    },
+    {
+      "tema": "Incêndio em orfanato na Argélia",
+      "descricao": "Incêndio em um orfanato na Argélia mata 11 crianças e fere 19",
+      "fontes_que_cobriram": [
+        "Euronews",
+        "The Straits Times"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "The New York Times",
+        "The Guardian"
+      ],
+      "divergencia_de_enquadramento": "Enquanto alguns veículos destacam a tragédia, outros enfatizam a necessidade de investigação"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Sudão",
-      "por_que_importa": "A economia de guerra no Sudão está alimentando um conflito autoperpetuante, com graves consequências humanitárias.",
-      "cobertura": "Apenas a Euronews e a AllAfrica cobriram o tema, enquanto as outras fontes o ignoraram."
+      "tema": "Corte de ajuda estrangeira à Nigéria",
+      "por_que_importa": "A decisão dos EUA de cortar a ajuda estrangeira à Nigéria pode ter impactos significativos na região",
+      "cobertura": "Apenas AllAfrica cobriu o tema"
+    },
+    {
+      "tema": "Filhos de imigrantes forçados a deixar escolas sul-africanas",
+      "por_que_importa": "A decisão de forçar filhos de imigrantes a deixar escolas sul-africanas pode ter impactos significativos na educação e na integração",
+      "cobertura": "Apenas AllAfrica cobriu o tema"
     }
   ]
 }
