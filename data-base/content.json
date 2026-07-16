@@ -6,11 +6,11 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "Tensões Globais",
-    "titulo": "EUA e Irã Escaladam Conflito",
-    "subtitulo": "Ataques aéreos e tensões no Estreito de Ormuz enquanto o mundo observa",
-    "resumo": "As tensões entre os EUA e o Irã continuam a escalar, com ataques aéreos e uma crescente preocupação sobre a segurança no Estreito de Ormuz. Enquanto isso, a comunidade internacional observa com atenção, temendo as consequências de um conflito mais amplo. A Rússia, por sua vez, pede calma e diálogo, enquanto a UE anuncia um acordo de drones com a Ucrânia, buscando fortalecer sua posição na região. A África também está sob os holofotes, com a Etiópia iniciando sua Conferência Nacional de Diálogo e a Libéria enfrentando alertas sobre a infiltração de cartéis de drogas.",
+    "titulo": "Conflitos Escalados",
+    "subtitulo": "Ucrânia, Irã e África Ocidental no centro das tensões globais",
+    "resumo": "Os principais conflitos ao redor do mundo continuam a escalar, com a Ucrânia e a Rússia envolvidas em um conflito cada vez mais intenso, o Irã enfrentando tensões com os EUA e a África Ocidental sofrendo com inundações devastadoras. Enquanto a Ucrânia e a Rússia trocam acusações de ataques, o Irã lança ataques retaliatórios contra bases dos EUA. Na África Ocidental, as inundações causadas pelo aquecimento global deslocam milhares de pessoas. Além disso, a situação no Sudão continua crítica, com a economia de guerra alimentando um conflito autoperpetuante. Os temas mais discutidos incluem a guerra entre Ucrânia e Rússia, as tensões entre EUA e Irã, e as inundações na África Ocidental. As fontes como The Guardian, New York Times e Euronews destacam a gravidade desses conflitos, enquanto a RT e a Moscow Times oferecem uma perspectiva russa sobre os eventos. A AllAfrica destaca a situação na África, com foco nas inundações e nos conflitos locais.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-07-15T08:00:00-03:00",
+    "publicado_em": "2026-07-16T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -805,36 +805,53 @@
   },
   "temas_principais": [
     {
-      "tema": "Conflito EUA-Irã",
-      "descricao": "Ataques aéreos e tensões no Estreito de Ormuz",
+      "tema": "Guerra Ucrânia-Rússia",
+      "descricao": "Conflito entre Ucrânia e Rússia intensifica-se, com acusações de ataques e retaliações.",
       "fontes_que_cobriram": [
+        "the_guardian",
         "new_york_times",
         "euronews",
-        "smh"
+        "rt",
+        "mt"
       ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "rt"
-      ],
-      "divergencia_de_enquadramento": "Enquanto a mídia ocidental enfatiza a agressividade iraniana, a Rússia e a China tendem a culpabilizar os EUA pela escalada."
+      "fontes_que_ignoraram_ou_minimizaram": [],
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a agressão russa, enquanto as fontes russas destacam a legítima defesa da Rússia."
     },
     {
-      "tema": "Conferência Nacional de Diálogo da Etiópia",
-      "descricao": "Início das discussões para a resolução de conflitos internos",
+      "tema": "Tensões EUA-Irã",
+      "descricao": "Tensões entre EUA e Irã aumentam, com ataques e retaliações.",
       "fontes_que_cobriram": [
-        "allafrica"
+        "the_guardian",
+        "new_york_times",
+        "euronews"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian",
-        "new_york_times"
+        "rt",
+        "mt"
       ],
-      "divergencia_de_enquadramento": "A cobertura da AllAfrica destaca a importância da conferência para a estabilidade da região, enquanto outras fontes não a mencionam."
+      "divergencia_de_enquadramento": "As fontes ocidentais destacam a ameaça iraniana, enquanto as fontes russas minimizam a importância do conflito."
+    },
+    {
+      "tema": "Inundações na África Ocidental",
+      "descricao": "Inundações devastadoras atingem a África Ocidental, deslocando milhares de pessoas.",
+      "fontes_que_cobriram": [
+        "the_guardian",
+        "all_africa"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "new_york_times",
+        "euronews",
+        "rt",
+        "mt"
+      ],
+      "divergencia_de_enquadramento": "As fontes africanas e ocidentais destacam a gravidade da situação, enquanto as fontes russas não a mencionam."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Infiltração de Cartéis de Drogas na Libéria",
-      "por_que_importa": "Ameaça à segurança regional e ao desenvolvimento do país",
-      "cobertura": "Apenas a AllAfrica cobriu o tema, destacando a gravidade da situação."
+      "tema": "Sudão",
+      "por_que_importa": "A economia de guerra no Sudão está alimentando um conflito autoperpetuante, com graves consequências humanitárias.",
+      "cobertura": "Apenas a Euronews e a AllAfrica cobriram o tema, enquanto as outras fontes o ignoraram."
     }
   ]
 }
