@@ -434,135 +434,167 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-07-16T10:15:47.842Z",
+      "gerado_em": "2026-07-16T21:15:54.069Z",
       "artigos": [
         {
-          "id": "rt-2026-07-16-10-15-01",
-          "titulo": "Rússia ataca indústria de drones ucraniana e portos do Mar Negro – MOD",
-          "resumo": "Forças russas atacaram sites de produção e armazenamento de drones ucranianos em Kiev e infraestrutura portuária em Odessa e Yuzhny, de acordo com o MOD",
+          "id": "rt-2026-07-16-21-01",
+          "titulo": "Parlamento ucraniano escolhe novo primeiro-ministro ligado a 'carteira de Zelensky' Mindich",
+          "resumo": "O parlamento ucraniano escolheu o ex-CEO da Naftogaz, Sergey Koretsky, para primeiro-ministro, que é relatado como ligado ao empresário desacreditado Timur Mindich",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5918032030272fd035534b.jpg",
+          "link": "https://www.rt.com/russia/643147-ukraine-pm-koretsky-mindich-linked/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-16T19:08:22-03:00"
+        },
+        {
+          "id": "rt-2026-07-16-21-02",
+          "titulo": "Demissão de ministro da defesa de Zelensky desencadeia protestos em todo o país (VÍDEO)",
+          "resumo": "Centenas de pessoas se juntaram a protestos em toda a Ucrânia sobre a decisão de Vladimir Zelensky de demitir o ministro da Defesa, Mikhail Fedorov",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a59211f203027425a703c5b.jpg",
+          "link": "https://www.rt.com/russia/643150-zelensky-sacks-defense-minister-protests/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-16T18:34:52-03:00"
+        },
+        {
+          "id": "rt-2026-07-16-21-03",
+          "titulo": "A outra superpotência de IA: como Rússia e China estão construindo uma alternativa ao Vale do Silício",
+          "resumo": "De saúde a educação, um novo modelo de desenvolvimento tecnológico visa colocar os usuários comuns – e não monopólios – em primeiro lugar",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a591f0485f54047bd06d2a8.png",
+          "link": "https://www.rt.com/news/643148-china-russia-ai-organization/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-16T18:06:58-03:00"
+        },
+        {
+          "id": "rt-2026-07-16-21-04",
+          "titulo": "Equipe da RT testemunha ataques do IDF a área residencial no sul do Líbano (VÍDEO)",
+          "resumo": "Uma equipe da RT testemunhou um ataque israelense no sul do Líbano, justo quando as duas partes concluíram uma nova rodada de negociações intermediadas pelos EUA",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a58f24d85f5407d39646724.png",
+          "link": "https://www.rt.com/news/643142-israel-idf-strikes-lebanon/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-16T17:57:04-03:00"
+        },
+        {
+          "id": "rt-2026-07-16-21-05",
+          "titulo": "Irã e EUA já estão lutando sua próxima guerra",
+          "resumo": "A última troca de ataques entre os EUA e o Irã mostra que nenhum dos países pode impor paz – ou vencer a guerra que eles continuam a retornar",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a590a902030272be56f6e21.jpg",
+          "link": "https://www.rt.com/news/643145-iran-and-america-new-war/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-16T17:20:46-03:00"
+        },
+        {
+          "id": "rt-2026-07-16-21-06",
+          "titulo": "Estreito de Ormuz é a arma nuclear do Irã – ex-diplomata indiano (VÍDEO)",
+          "resumo": "O Irã encontrou uma alavanca importante no conflito do Estreito de Ormuz – diz ex-diplomata",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a58f10185f54002365e3d63.png",
+          "link": "https://www.rt.com/india/643144-rajiv-sikri-hormuz-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-16T16:32:26-03:00"
+        },
+        {
+          "id": "rt-2026-07-16-21-07",
+          "titulo": "Nova Délhi pede a proprietários de navios que não enviem marinheiros indianos ao Hormuz",
+          "resumo": "A Índia pede aos proprietários de navios que evitem enviar cidadãos indianos em navios que passam pelo Estreito de Ormuz",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a58f74b85f54047bd06d274.jpg",
+          "link": "https://www.rt.com/india/643136-india-sailors-hormuz-directive/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-16T15:54:40-03:00"
+        },
+        {
+          "id": "rt-2026-07-16-21-08",
+          "titulo": "França está construindo um estado orwelliano em plena vista",
+          "resumo": "A Europa tem talento, um talento muito específico – uma distopia politico-administrativa. E a França está liderando o caminho novamente",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a58c29a2030272da520ee8a.jpg",
+          "link": "https://www.rt.com/news/643129-france-internal-interference-orwell/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-16T15:47:47-03:00"
+        },
+        {
+          "id": "rt-2026-07-16-21-09",
+          "titulo": "China supera Neuralink de Musk em implantação de chip cerebral",
+          "resumo": "Cirurgiões chineses realizaram a primeira implantação comercial de uma interface cerebral invasiva aprovada",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a58cdff85f54009a05916a9.jpg",
+          "link": "https://www.rt.com/news/643134-china-brain-chip-implant/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-16T14:49:53-03:00"
+        },
+        {
+          "id": "rt-2026-07-16-21-10",
+          "titulo": "Mais de 200 drones ucranianos lançados em direção a Moscou – prefeito",
+          "resumo": "Mais de 200 drones ucranianos foram lançados em direção à capital russa durante a noite, disse o prefeito de Moscou, Sergey Sobyanin",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a58cf0685f54066355285f6.jpg",
+          "link": "https://www.rt.com/russia/643135-moscow-200-drones-launched/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-16T13:44:55-03:00"
+        },
+        {
+          "id": "rt-2026-07-16-21-11",
+          "titulo": "China supera EUA em favorabilidade global – pesquisa",
+          "resumo": "Uma pesquisa da Pew descobriu que a China e Xi Jinping são agora vistos mais favoravelmente do que os EUA e Donald Trump em todo o mundo",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a58ca8185f54047bd06d26a.jpg",
+          "link": "https://www.rt.com/news/643120-xi-trump-china-us-survey/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-16T13:29:45-03:00"
+        },
+        {
+          "id": "rt-2026-07-16-21-12",
+          "titulo": "Primeiro líder branco da Zâmbia morre aos 82 anos",
+          "resumo": "Guy Scott, que liderou brevemente a Zâmbia e se tornou o primeiro líder branco da África em duas décadas, morreu",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a58cd4e20302710394faf62.jpg",
+          "link": "https://www.rt.com/africa/643133-zambian-former-white-leader-guy-scott-dies/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-16T13:18:39-03:00"
+        },
+        {
+          "id": "rt-2026-07-16-21-13",
+          "titulo": "Onze pessoas morrem em incêndio em orfanato na Argélia (FOTOS)",
+          "resumo": "O serviço de proteção civil argelino confirmou que 11 pessoas morreram em um incêndio em um orfanato estatal em Argel",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a58c7b485f54047bd06d261.jpeg",
+          "link": "https://www.rt.com/africa/643131-eleven-killed-algeria-orphanage-fire/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-16T12:07:22-03:00"
+        },
+        {
+          "id": "rt-2026-07-16-21-14",
+          "titulo": "Ações da SpaceX caem abaixo do preço de IPO",
+          "resumo": "As ações da SpaceX caíram abaixo do preço de IPO na quarta-feira, diante de dúvidas sobre a valorização da empresa de Elon Musk e a concorrência emergente da China",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a58b76985f54066355285e7.jpg",
+          "link": "https://www.rt.com/news/643128-spacex-shares-sink-below-ipo/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-16T11:47:47-03:00"
+        },
+        {
+          "id": "rt-2026-07-16-21-15",
+          "titulo": "Nenhuma informação de segurança exposta em violação de dados de usina nuclear na Índia – operador",
+          "resumo": "Os dados expostos relacionados à maior usina nuclear da Índia não incluem informações de segurança, disse o operador",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a58c35c20302720cd292619.jpg",
+          "link": "https://www.rt.com/india/643130-india-nuclear-data-breach/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-16T11:47:09-03:00"
+        },
+        {
+          "id": "rt-2026-07-16-21-16",
+          "titulo": "Legisladores dos EUA 'enojados' com depoimento do ex-conselheiro de Obama sobre Epstein – WSJ",
+          "resumo": "Legisladores dos EUA estavam 'enojados' com o depoimento de Kathy Ruemmler, do Goldman Sachs, sobre suas ligações com Jeffrey Epstein, relata o WSJ",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a58b4e920302707ac0010b0.jpg",
+          "link": "https://www.rt.com/news/643127-lawmakers-disgusted-ruemmler-epstein-testimony/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-16T11:30:35-03:00"
+        },
+        {
+          "id": "rt-2026-07-16-21-17",
+          "titulo": "Ucrânia redesenha nova cédula devido a suposta fonte russa",
+          "resumo": "Kiev vai alterar a letra da nova cédula de 2.000 hryvnias após alegações de que se assemelha a uma fonte criada por um designer russo",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a58b1d72030277e465a4407.jpg",
+          "link": "https://www.rt.com/russia/643125-ukraine-banknote-redesign/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-16T11:07:11-03:00"
+        },
+        {
+          "id": "rt-2026-07-16-21-18",
+          "titulo": "Rússia ataca indústria de drones ucraniana e portos do Mar Negro – Ministério da Defesa",
+          "resumo": "Forças russas atacaram sites de produção e armazenamento de drones ucranianos em Kiev e infraestrutura portuária em Odessa e Yuzhny, disse o Ministério da Defesa",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5894962030277e465a43f9.jpg",
           "link": "https://www.rt.com/news/643118-russia-strikes-ukrainian-drone-industry/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-16T09:33:09-03:00"
         },
         {
-          "id": "rt-2026-07-16-10-15-02",
-          "titulo": "Deputados franceses selam o destino do projeto de lei de eutanásia",
-          "resumo": "Deputados franceses realizaram a votação final sobre um projeto de lei de eutanásia controverso, que agora está programado para uma revisão constitucional",
+          "id": "rt-2026-07-16-21-19",
+          "titulo": "Deputados franceses selam o destino da controversa lei de morte assistida",
+          "resumo": "Deputados franceses realizaram a votação final sobre uma lei de eutanásia controversa, que agora está programada para uma revisão constitucional",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a589baf203027040513328d.jpg",
           "link": "https://www.rt.com/news/643121-french-mps-seal-fate-euthanisia-bill/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-16T09:06:57-03:00"
         },
         {
-          "id": "rt-2026-07-16-10-15-03",
-          "titulo": "Ministério da Defesa russo compartilha VÍDEO de ataques de drones a navios ucranianos",
-          "resumo": "Rússia divulgou imagens de ataques de drones Geran-4 Seeker a navios e embarcações de carga ucranianos nas regiões de Odessa e Nikolaev",
+          "id": "rt-2026-07-16-21-20",
+          "titulo": "Exército russo compartilha VÍDEO de ataques de drones a navios ucranianos",
+          "resumo": "A Rússia divulgou imagens de ataques de drones Geran-4 Seeker a navios e embarcações de carga ucranianos nas regiões de Odessa e Nikolaev",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5892ea2030277af8117c84.png",
           "link": "https://www.rt.com/russia/643119-russian-mod-ukraine-ships/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-16T08:19:27-03:00"
-        },
-        {
-          "id": "rt-2026-07-16-10-15-04",
-          "titulo": "Assassino ucraniano acha seu trabalho 'fascinante'",
-          "resumo": "Um agente de espionagem militar ucraniano responsável por matar o suspeito do atentado em Mônaco admite 'terrorismo' em áudio exclusivo obtido pela RT",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a585e0385f5406d90522fdf.png",
-          "link": "https://www.rt.com/russia/643115-ukraine-assassin-fascinating-job/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-16T07:41:26-03:00"
-        },
-        {
-          "id": "rt-2026-07-16-10-15-05",
-          "titulo": "Zelensky 'quer mortes de civis' – espião ucraniano",
-          "resumo": "Kiev planejava um atentado terrorista que eclipsaria o massacre na Crocus City Hall em Moscou, alegou um espião ucraniano",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a58565585f540753b477c9b.jpg",
-          "link": "https://www.rt.com/news/643114-zelensky-wants-civilian-deaths/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-16T07:40:42-03:00"
-        },
-        {
-          "id": "rt-2026-07-16-10-15-06",
-          "titulo": "O que fazemos é chamado de terrorismo internacional – espião ucraniano por trás do atentado em Mônaco",
-          "resumo": "Espiões ucranianos sentem impunidade por seus ataques terroristas, disse o alegado mentor do atentado em Mônaco em gravações obtidas pela RT",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a57f7062030274aaf384bad.jpg",
-          "link": "https://www.rt.com/russia/643111-terrorism-ukrainian-spy-monaco-bombing/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-16T06:21:07-03:00"
-        },
-        {
-          "id": "rt-2026-07-16-10-15-07",
-          "titulo": "China defenderá firmemente suas empresas contra tarifas dos EUA sobre compradores de energia russa",
-          "resumo": "A China prometeu defender suas empresas após o Senado dos EUA propor um projeto de lei que poderia impor tarifas de 100% sobre os principais compradores de energia russa",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a57ec6985f5407e1c5a6fa8.jpg",
-          "link": "https://www.rt.com/news/643110-china-defends-firms-us-sanctions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-16T03:03:55-03:00"
-        },
-        {
-          "id": "rt-2026-07-16-10-15-08",
-          "titulo": "Legisladores dos EUA questionam a mudança de política de Trump sobre chips de IA para os Emirados Árabes",
-          "resumo": "O Congresso dos EUA está examinando a decisão de Donald Trump de facilitar as regras de exportação de chips de IA para os Emirados Árabes devido a alegados conflitos de interesse",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a57a7d72030274d7911fe72.jpg",
-          "link": "https://www.rt.com/news/643095-trump-scrutiny-ai-uae/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-16T01:03:19-03:00"
-        },
-        {
-          "id": "rt-2026-07-16-10-15-09",
-          "titulo": "Zelensky demite mais um ministro da Defesa",
-          "resumo": "O líder ucraniano Vladimir Zelensky demitiu o ministro da Defesa Mikhail Fedorov como parte de uma reforma no governo",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5813ee85f5406d90522fd0.jpg",
-          "link": "https://www.rt.com/russia/643113-zelensky-dismisses-defense-minister-fedorov/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-15T20:29:34-03:00"
-        },
-        {
-          "id": "rt-2026-07-16-10-15-10",
-          "titulo": "UEA falha em acordo sobre sanções contra a Rússia após dias de negociações – mídia",
-          "resumo": "Embaixadores da UE não conseguiram chegar a um acordo sobre um novo lote de sanções anti-russas, mas mantiveram o teto do preço do petróleo em $44,10 por barril por uma semana",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a58027e20302751c608eaae.jpg",
-          "link": "https://www.rt.com/news/643112-eu-russia-sanctions-fail/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-15T19:05:22-03:00"
-        },
-        {
-          "id": "rt-2026-07-16-10-15-11",
-          "titulo": "Moscovo exige ação da AIEA sobre o assassinato 'terrorista' de funcionários de usina nuclear",
-          "resumo": "A Rússia pediu à AIEA que responda após um drone ucraniano matar o engenheiro-chefe e o motorista da usina nuclear de Zaporozhye",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a57e9022030274aaf384ba4.jpg",
-          "link": "https://www.rt.com/russia/643108-russia-nuclear-power-plant-ukraine-attack/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-15T17:43:49-03:00"
-        },
-        {
-          "id": "rt-2026-07-16-10-15-12",
-          "titulo": "Histórias de terror dos países bálticos sobre a ameaça russa servem como pretexto para o aumento da OTAN – Kremlin",
-          "resumo": "Os países bálticos invocaram uma alegada ameaça russa para justificar o aumento militar da OTAN, disse o Kremlin",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a57c9b420302741796c9d6a.jpg",
-          "link": "https://www.rt.com/russia/643092-baltics-russia-nato-buildup/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-15T16:00:04-03:00"
-        },
-        {
-          "id": "rt-2026-07-16-10-15-13",
-          "titulo": "Primeiro-ministro armênio persegue dissidentes enquanto o Ocidente fecha os olhos – grupo de direitos",
-          "resumo": "O Ocidente encoraja a repressão do primeiro-ministro armênio contra a oposição por razões geopolíticas, disse um grupo de direitos",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a57cbfa20302750c76852a4.jpg",
-          "link": "https://www.rt.com/russia/643109-armenia-persecution-opposition-west-blind/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-15T15:20:44-03:00"
-        },
-        {
-          "id": "rt-2026-07-16-10-15-14",
-          "titulo": "O terrorismo foi para o ciberespaço – e o mundo não está preparado",
-          "resumo": "De Crocus a chatbots de IA, grupos extremistas como o ISKP mostram como a dark web, criptomoedas e IA estão superando as defesas globais",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a57c6b22030274ead2c85ba.jpg",
-          "link": "https://www.rt.com/news/643096-terrorism-cyber-extremism-digital/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-15T14:45:34-03:00"
-        },
-        {
-          "id": "rt-2026-07-16-10-15-15",
-          "titulo": "UE decidirá tirar proteção de refugiados de ucranianos em idade de recrutamento",
-          "resumo": "A UE aprovou novas restrições à proteção temporária para ucranianos em idade de recrutamento, de acordo com o Conselho da UE",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a57904485f54011f40ae2b4.jpg",
-          "link": "https://www.rt.com/news/643091-eu-ukraine-men-protection/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-15T11:22:15-03:00"
-        },
-        {
-          "id": "rt-2026-07-16-10-15-16",
-          "titulo": "Guerra do Irã termina a presença militar dos EUA no Iraque",
-          "resumo": "As forças dos EUA deixarão o Iraque até 30 de setembro devido à guerra do Irã, encerrando uma presença militar que começou com a invasão de 2003",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5785c72030274d7911fe6c.jpg",
-          "link": "https://www.rt.com/news/643090-us-ends-iraq-presence/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-15T10:50:08-03:00"
         }
       ]
     },
