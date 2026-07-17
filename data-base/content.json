@@ -6,9 +6,9 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Cortes de ajuda do Reino Unido reduzem apoio bilateral a alguns países africanos em 90%",
-    "subtitulo": "Enquanto a comunidade internacional se concentra em crises globais, a África enfrenta desafios silenciosos",
-    "resumo": "Os cortes de ajuda do Reino Unido afetam significativamente vários países africanos, com reduções de até 90% em alguns casos. Essa decisão tem implicações profundas para a comunidade internacional e para os esforços de desenvolvimento na África. Enquanto isso, a região também lida com desafios como a epidemia de ebola, inundações na África Ocidental e tensões políticas em países como o Sudão. A cobertura desses eventos varia significativamente entre diferentes fontes de notícias, com alguns veículos dando mais atenção a certos temas do que outros. Por exemplo, a crise de ebola na República Democrática do Congo recebeu atenção considerável de fontes como o The Guardian e a AllAfrica, enquanto a situação no Sudão foi mais amplamente coberta por veículos como a AllAfrica e o The Straits Times. A China, por sua vez, negou acusações de interferência nas eleições dos EUA, conforme reportado pelo South China Morning Post e pela Russia Today. Esses eventos destacam a importância de considerar múltiplas perspectivas ao avaliar as notícias globais.",
+    "titulo": "Tensões globais: EUA e Irã em conflito, crise na Ucrânia e desastres naturais",
+    "subtitulo": "Análise das principais notícias do dia, com enfoque nas tensões entre EUA e Irã, na crise na Ucrânia e nos desastres naturais que afetam o mundo",
+    "resumo": "O dia foi marcado por tensões globais, com o conflito entre EUA e Irã se intensificando, a crise na Ucrânia se prolongando e desastres naturais afetando várias regiões. Os EUA atacaram pontes no Irã, e Teerã respondeu atingindo uma usina de energia e dessalinização no Kuwait. Enquanto isso, a crise na Ucrânia continua, com a OTAN se preparando para uma possível escalada. Além disso, um terremoto de 7,3 magnitude atingiu a costa do México, e incêndios florestais devastam a Noruega. A fumaça densa de centenas de incêndios canadenses envolveu uma faixa dos EUA, e o presidente Donald Trump culpou o Canadá pela fumaça de incêndio. Em outra frente, a China rejeitou acusações de interferência nas eleições dos EUA, e o Reino Unido reduziu sua ajuda a alguns países africanos em 90%. A Rússia também esteve em destaque, com o Kremlin rejeitando alegações de interferência nas eleições dos EUA e a OTAN se preparando para uma possível escalada na Ucrânia. Em meio a essas tensões, é fundamental manter a calma e buscar informações confiáveis para entender melhor o que está acontecendo no mundo.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-07-17T08:00:00-03:00",
     "link": null,
@@ -849,55 +849,55 @@
   },
   "temas_principais": [
     {
-      "tema": "Cortes de ajuda do Reino Unido",
-      "descricao": "Redução de até 90% no apoio bilateral a alguns países africanos",
+      "tema": "Conflito entre EUA e Irã",
+      "descricao": "O conflito entre EUA e Irã se intensificou, com ataques aéreos e respostas de Teerã",
       "fontes_que_cobriram": [
-        "the_guardian",
-        "allafrica"
+        "new_york_times",
+        "scmp",
+        "euronews"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "rt",
+        "rt"
+      ],
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a agressividade do Irã, enquanto as fontes russas e chinesas destacam a responsabilidade dos EUA"
+    },
+    {
+      "tema": "Crise na Ucrânia",
+      "descricao": "A crise na Ucrânia se prolonga, com a OTAN se preparando para uma possível escalada",
+      "fontes_que_cobriram": [
+        "the_guardian",
+        "new_york_times",
+        "rt"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
         "scmp"
       ],
-      "divergencia_de_enquadramento": "Enquanto o The Guardian destaca o impacto negativo dos cortes, a AllAfrica aborda as implicações para a comunidade internacional"
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a agressividade da Rússia, enquanto as fontes russas destacam a responsabilidade da Ucrânia e do Ocidente"
     },
     {
-      "tema": "Epidemia de ebola",
-      "descricao": "Crise de saúde na República Democrática do Congo e Uganda",
+      "tema": "Desastres naturais",
+      "descricao": "Um terremoto de 7,3 magnitude atingiu a costa do México, e incêndios florestais devastam a Noruega",
       "fontes_que_cobriram": [
-        "the_guardian",
-        "allafrica"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
         "euronews",
-        "smh"
-      ],
-      "divergencia_de_enquadramento": "O The Guardian enfatiza a gravidade da epidemia, enquanto a AllAfrica discute as respostas internacionais"
-    },
-    {
-      "tema": "Tensões políticas no Sudão",
-      "descricao": "Conflitos e alegações de abusos humanitários",
-      "fontes_que_cobriram": [
-        "allafrica",
+        "scmp",
         "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "rt",
-        "scmp"
+        "rt"
       ],
-      "divergencia_de_enquadramento": "A AllAfrica e o The Straits Times abordam as dimensões humanitárias, enquanto a Russia Today se concentra em aspectos políticos"
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a gravidade dos desastres, enquanto as fontes russas e chinesas destacam a resposta dos governos locais"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Inundações na África Ocidental",
-      "por_que_importa": "Impacto sobre comunidades locais e necessidade de resposta internacional",
-      "cobertura": "Pouca cobertura em fontes como o The Guardian e a AllAfrica, com mais atenção necessária"
+      "tema": "Sudão",
+      "por_que_importa": "A crise no Sudão é um dos principais desafios humanitários do mundo",
+      "cobertura": "Apenas AllAfrica cobriu a crise no Sudão, enquanto as outras fontes ignoraram ou minimizaram o tema"
     },
     {
-      "tema": "Desenvolvimento sustentável na África",
-      "por_que_importa": "Importância para o futuro da região e para os esforços globais de desenvolvimento",
-      "cobertura": "Cobertura limitada em fontes como o South China Morning Post e o The Sydney Morning Herald, com necessidade de mais análise"
+      "tema": "África",
+      "por_que_importa": "A África é um continente em desenvolvimento, com muitos desafios e oportunidades",
+      "cobertura": "Apenas AllAfrica e The Guardian cobriram temas relacionados à África, enquanto as outras fontes ignoraram ou minimizaram o tema"
     }
   ]
 }
