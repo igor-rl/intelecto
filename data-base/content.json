@@ -430,167 +430,127 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-07-17T10:15:56.249Z",
+      "gerado_em": "2026-07-17T21:16:02.560Z",
       "artigos": [
         {
-          "id": "rt-2026-07-17-10-09-01",
-          "titulo": "EUA enfrentam obstáculo de Ebola em parceria de minerais na República Democrática do Congo",
-          "resumo": "A epidemia de Ebola na República Democrática do Congo teria interrompido as negociações relacionadas a uma parceria de minerais apoiada pelos EUA.",
+          "id": "rt-2026-07-17-2102-01",
+          "titulo": "Assassinato em Mônaco: tentativa de matar milionário ucraniano",
+          "resumo": "Promotores ucranianos divulgaram um vídeo mostrando a tentativa de assassinato do empresário Vadim Ermolaev em Mônaco",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5a666985f54079696d3fc7.png",
+          "link": "https://www.rt.com/news/643190-monaco-bombing-video-released/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-17T20:58:01-03:00"
+        },
+        {
+          "id": "rt-2026-07-17-2103-02",
+          "titulo": "Israel planeja usar crocodilos para guardar prisioneiros palestinos",
+          "resumo": "Israel removeu uma barreira legal para usar crocodilos do Nilo em prisões, reclassificando os répteis como \"animais domesticados\"",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5a88cd203027218e5f571c.jpg",
+          "link": "https://www.rt.com/news/643191-israel-crocodile-palestinian-prison/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-17T19:56:27-03:00"
+        },
+        {
+          "id": "rt-2026-07-17-2105-03",
+          "titulo": "Tarifas dos EUA sobre o Brasil aumentam preocupações sobre acordo comercial com a Índia",
+          "resumo": "A decisão dos EUA de impor tarifas sobre o Brasil despertou preocupações na Índia, levando Nova Délhi a proceder com cautela em um acordo comercial",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5a4e26203027218e5f5710.jpg",
+          "link": "https://www.rt.com/india/643186-us-tariffs-india-brazil/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-17T16:30:57-03:00"
+        },
+        {
+          "id": "rt-2026-07-17-2106-04",
+          "titulo": "Presidente polonês veta projeto de lei sobre parcerias civis para casais do mesmo sexo",
+          "resumo": "O presidente polonês Karol Nawrocki vetou um projeto de lei que introduziria \"contratos de coabitação\" para casais não casados",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5a540185f54017b4751e16.jpg",
+          "link": "https://www.rt.com/news/643187-poland-lgbtq-partnership-veto/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-17T16:10:27-03:00"
+        },
+        {
+          "id": "rt-2026-07-17-2108-05",
+          "titulo": "A guerra deve continuar: plano da OTAN não prevê fim para o conflito",
+          "resumo": "O apoio militar de longo prazo à Ucrânia se tornou uma política rotineira, mostrando que Bruxelas e Washington não veem a paz como uma opção",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5a48a385f5400ab7543862.jpg",
+          "link": "https://www.rt.com/news/643181-nato-ukraine-no-endgame/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-17T15:22:54-03:00"
+        },
+        {
+          "id": "rt-2026-07-17-2109-06",
+          "titulo": "Rússia deve permanecer como principal fornecedora de petróleo da Índia apesar de novas sanções dos EUA",
+          "resumo": "A Rússia provavelmente será a principal fornecedora de petróleo da Índia em julho e agosto, apesar da ameaça de novas sanções dos EUA",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5a4246203027223d7c87e8.jpg",
+          "link": "https://www.rt.com/india/643178-russia-india-oil-sanctions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-17T15:19:29-03:00"
+        },
+        {
+          "id": "rt-2026-07-17-2110-07",
+          "titulo": "Kremlin responde a acusações de interferência nas eleições dos EUA",
+          "resumo": "Moscou rejeitou as acusações dos EUA de interferência nas eleições, afirmando que elas se baseiam em inteligência não comprovada",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5a415b203027768f21b580.jpg",
+          "link": "https://www.rt.com/russia/643177-kremlin-responds-us-election-meddling/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-17T15:04:12-03:00"
+        },
+        {
+          "id": "rt-2026-07-17-2111-08",
+          "titulo": "Ataques anti-ucranianos aumentam na Polônia",
+          "resumo": "As denúncias de crimes de ódio anti-ucranianos na Polônia aumentaram 30% no início de 2026, de acordo com dados da polícia citados pela Rzeczpospolita",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5a30ce203027218e5f56f8.jpg",
+          "link": "https://www.rt.com/news/643168-poland-ukraine-hate-crimes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-17T14:23:34-03:00"
+        },
+        {
+          "id": "rt-2026-07-17-2113-09",
+          "titulo": "Quieve usa a África como \"segunda frente\" contra a Rússia, afirma vice-ministro das Relações Exteriores",
+          "resumo": "O diplomata russo Georgy Borisenko acusou a Ucrânia de apoiar militantes e atacar os interesses da Rússia em Mali, Líbia e Sudão",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5a235920302716d61e9fb0.jpg",
+          "link": "https://www.rt.com/africa/643170-kiev-using-africa-second-front-against-russia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-17T12:51:31-03:00"
+        },
+        {
+          "id": "rt-2026-07-17-2114-10",
+          "titulo": "Zelensky demite ministro da Defesa para fortalecer seu poder, afirma líder da oposição",
+          "resumo": "A reformulação do governo ucraniano é um esforço de Vladimir Zelensky para manter o poder e controlar os fluxos de corrupção, afirma Viktor Medvedchuk",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5a1d9785f540529a7b0b1d.jpg",
+          "link": "https://www.rt.com/russia/643171-medvedchuk-zelensky-defense-minister/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-17T12:22:58-03:00"
+        },
+        {
+          "id": "rt-2026-07-17-2116-11",
+          "titulo": "Merz adverte Trump contra interferência nas eleições",
+          "resumo": "O chanceler alemão Merz criticou um novo programa de subvenções dos EUA, advertindo a administração de Donald Trump para não interferir no voto alemão",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5a088b2030271940109977.jpg",
+          "link": "https://www.rt.com/news/643167-merz-trump-election-warning/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-17T11:13:30-03:00"
+        },
+        {
+          "id": "rt-2026-07-17-2117-12",
+          "titulo": "Impulso dos EUA para minerais atinge obstáculo de ebola na República Democrática do Congo",
+          "resumo": "A epidemia de ebola na República Democrática do Congo interrompeu as negociações relacionadas a uma parceria de minerais críticos apoiada pelos EUA",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a59fdc785f54017b4751de2.jpg",
           "link": "https://www.rt.com/africa/643165-us-minerals-push-hits-ebola-roadblock-drcongo/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-17T10:09:28-03:00"
         },
         {
-          "id": "rt-2026-07-17-10-00-02",
+          "id": "rt-2026-07-17-2118-13",
           "titulo": "Operador de teleprompter de Trump é investigado por apostas ilegais",
-          "resumo": "Gabriel Perez, operador de teleprompter de longa data de Donald Trump, está sendo investigado por apostas ilegais nas falas do presidente.",
+          "resumo": "O operador de teleprompter de longa data de Donald Trump, Gabriel Perez, está sendo investigado por apostas ilegais em discursos do presidente",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a59e83f85f54004ef3c9d33.jpg",
           "link": "https://www.rt.com/news/643163-trump-teleprompter-probe-insider-bets/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-17T10:00:40-03:00"
         },
         {
-          "id": "rt-2026-07-17-08-50-03",
+          "id": "rt-2026-07-17-2119-14",
           "titulo": "China nega interferência nas eleições dos EUA",
-          "resumo": "A China negou interferir nas eleições dos EUA após Trump acusá-la de roubar 220 milhões de arquivos de eleitores americanos.",
+          "resumo": "A China negou interferir nas eleições de 2020 após Trump acusá-la de roubar 220 milhões de arquivos de eleitores dos EUA",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a59eb5920302762fe6278c9.jpg",
           "link": "https://www.rt.com/news/643164-china-dismisses-trumps-election-meddling-claim/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-17T08:50:16-03:00"
         },
         {
-          "id": "rt-2026-07-17-05-58-04",
+          "id": "rt-2026-07-17-2120-15",
           "titulo": "Rússia oferece à Índia produção conjunta de tanque de próxima geração",
-          "resumo": "Moscou ofereceu a Nova Délhi a produção conjunta de tanques T-90MS e tecnologia para atualizar a frota existente de T-90.",
+          "resumo": "Moscou oferece a Nova Délhi a produção conjunta de tanques T-90MS testados em batalha, bem como novas tecnologias para a atualização da frota de tanques T-90 existente",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a58ff5a20302735d134da33.jpg",
           "link": "https://www.rt.com/india/643143-russia-india-t90ms-tank/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-17T05:58:33-03:00"
-        },
-        {
-          "id": "rt-2026-07-17-04-56-05",
-          "titulo": "Reino Unido pede à FIFA que puna a Argentina por faixa sobre as Ilhas Falkland",
-          "resumo": "A Argentina pode enfrentar ação da FIFA após os jogadores exibirem uma faixa questionando a soberania britânica sobre as Ilhas Falkland.",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a58e37185f540013969bdf7.jpg",
-          "link": "https://www.rt.com/news/643132-fifa-uk-complaint-argentina/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-17T04:56:35-03:00"
-        },
-        {
-          "id": "rt-2026-07-17-03-24-06",
-          "titulo": "Polônia culpa a Rússia por ucraniano que profanou memoriais da Segunda Guerra Mundial",
-          "resumo": "Um ucraniano foi acusado na Polônia por profanar memoriais da Segunda Guerra Mundial, com as autoridades alegando que foi orquestrado pela inteligência russa.",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5935582030273104155211.jpg",
-          "link": "https://www.rt.com/news/643153-poland-russia-ukrainian-wwii-memorials/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-17T03:24:11-03:00"
-        },
-        {
-          "id": "rt-2026-07-17-01-42-07",
-          "titulo": "Comitê Olímpico Internacional defende a reinstalação do Comitê Olímpico Russo após ameaça da UE",
-          "resumo": "O COI defendeu a decisão de levantar a suspensão do Comitê Olímpico Russo após os estados da UE ameaçarem cortar o financiamento.",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5939a485f54017b4751dbd.jpg",
-          "link": "https://www.rt.com/news/643151-ioc-russia-reinstatement-eu/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-17T01:42:58-03:00"
-        },
-        {
-          "id": "rt-2026-07-17-01-02-08",
-          "titulo": "Trump acusa a China de 'interferência nas eleições'",
-          "resumo": "O presidente Trump afirmou que os funcionários da inteligência americana suprimiram informações sobre uma grande violação de dados de eleitores americanos.",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a597aad203027651016ac06.jpg",
-          "link": "https://www.rt.com/news/643157-trump-major-address-election/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-17T01:02:23-03:00"
-        },
-        {
-          "id": "rt-2026-07-17-00-22-09",
-          "titulo": "Rússia e China buscam definir princípios globais de IA",
-          "resumo": "Rússia e China são membros fundadores da Organização de Cooperação em Inteligência Artificial Mundial.",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5973d985f5400ca946b675.jpg",
-          "link": "https://www.rt.com/news/643156-russia-china-ai-waico/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-17T00:22:14-03:00"
-        },
-        {
-          "id": "rt-2026-07-17-00-14-10",
-          "titulo": "Por que o BRICS não deve se tornar um bloco ao estilo ocidental",
-          "resumo": "O BRICS pode se tornar uma força na governança global ao promover o crescimento, e não ao se transformar em mais um bloco ao estilo ocidental.",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a59025e20302731041551f3.jpg",
-          "link": "https://www.rt.com/news/643146-bordachev-brics-west-future/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-17T00:14:17-03:00"
-        },
-        {
-          "id": "rt-2026-07-16-23-43-11",
-          "titulo": "Hegseth declara guerra ao baixo nível de testosterona",
-          "resumo": "O Pentágono irá testar as tropas para baixo nível de testosterona e oferecer terapia de reposição hormonal, anunciou Pete Hegseth.",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a58d6b220302735d134da24.jpg",
-          "link": "https://www.rt.com/news/643140-hegseth-declares-war-low-testosterone/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-16T23:43:57-03:00"
-        },
-        {
-          "id": "rt-2026-07-16-22-39-12",
-          "titulo": "Islamabade culpa o Reino Unido pelo crime de estupro de crianças por um cidadão paquistanês",
-          "resumo": "Islamabade afirmou que o líder da gangue de estupro de Rochdale, Shabir Ahmed, cometeu seus crimes devido à sua criação no Reino Unido.",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a595599203027425a703c60.png",
-          "link": "https://www.rt.com/news/643154-islamabad-grooming-gang-leader-uk/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-16T22:39:19-03:00"
-        },
-        {
-          "id": "rt-2026-07-16-22-03-13",
-          "titulo": "Irã avisa que 'toda a região pagará o preço' após os EUA bombardearem pontes",
-          "resumo": "Os EUA lançaram outra rodada de ataques noturnos, atingindo supostamente infraestrutura civil, incluindo várias pontes no Irã.",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a59549e2030275fcd2473f8.jpg",
-          "link": "https://www.rt.com/news/643155-iran-bridges-region-price/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-16T22:03:17-03:00"
-        },
-        {
-          "id": "rt-2026-07-16-19-08-14",
-          "titulo": "Ucrânia escolhe novo primeiro-ministro ligado a 'carteira de Zelensky' Mindich",
-          "resumo": "O parlamento ucraniano escolheu o ex-CEO da Naftogaz, Sergey Koretsky, para primeiro-ministro, que é supostamente ligado ao empresário desacreditado Timur Mindich.",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5918032030272fd035534b.jpg",
-          "link": "https://www.rt.com/russia/643147-ukraine-pm-koretsky-mindich-linked/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-16T19:08:22-03:00"
-        },
-        {
-          "id": "rt-2026-07-16-18-34-15",
-          "titulo": "Demissão do ministro da Defesa por Zelensky desencadeia protestos em todo o país",
-          "resumo": "Centenas de pessoas se juntaram a protestos em todo o país após a decisão de Vladimir Zelensky de demitir o ministro da Defesa, Mikhail Fedorov.",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a59211f203027425a703c5b.jpg",
-          "link": "https://www.rt.com/russia/643150-zelensky-sacks-defense-minister-protests/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-16T18:34:52-03:00"
-        },
-        {
-          "id": "rt-2026-07-16-18-06-16",
-          "titulo": "A outra superpotência de IA: como a Rússia e a China estão construindo uma alternativa ao Vale do Silício",
-          "resumo": "Desde a saúde até a educação, um novo modelo de desenvolvimento tecnológico visa colocar os usuários comuns – e não os monopólios – em primeiro lugar.",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a591f0485f54047bd06d2a8.png",
-          "link": "https://www.rt.com/news/643148-china-russia-ai-organization/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-16T18:06:58-03:00"
-        },
-        {
-          "id": "rt-2026-07-16-17-57-17",
-          "titulo": "Equipe da RT testemunha ataques do IDF a área residencial no sul do Líbano",
-          "resumo": "Uma equipe da RT testemunhou um ataque israelense no sul do Líbano, logo após as duas partes concluírem uma nova rodada de negociações intermediadas pelos EUA.",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a58f24d85f5407d39646724.png",
-          "link": "https://www.rt.com/news/643142-israel-idf-strikes-lebanon/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-16T17:57:04-03:00"
-        },
-        {
-          "id": "rt-2026-07-16-17-20-18",
-          "titulo": "Irã e EUA já estão lutando sua próxima guerra",
-          "resumo": "A última troca de ataques entre os EUA e o Irã mostra que nenhum dos países pode impor a paz – ou vencer a guerra que eles continuam a lutar.",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a590a902030272be56f6e21.jpg",
-          "link": "https://www.rt.com/news/643145-iran-and-america-new-war/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-16T17:20:46-03:00"
-        },
-        {
-          "id": "rt-2026-07-16-16-32-19",
-          "titulo": "Estreito de Ormuz é a arma nuclear do Irã – ex-diplomata indiano",
-          "resumo": "O Irã encontrou uma alavanca importante no conflito do Estreito de Ormuz – afirma o ex-diplomata.",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a58f10185f54002365e3d63.png",
-          "link": "https://www.rt.com/india/643144-rajiv-sikri-hormuz-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-16T16:32:26-03:00"
-        },
-        {
-          "id": "rt-2026-07-16-15-54-20",
-          "titulo": "Nova Délhi pede aos proprietários de navios que não enviem marinheiros indianos ao Estreito de Ormuz",
-          "resumo": "A Índia pediu aos proprietários de navios que evitem enviar cidadãos indianos para trabalhar em navios que passam pelo Estreito de Ormuz.",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a58f74b85f54047bd06d274.jpg",
-          "link": "https://www.rt.com/india/643136-india-sailors-hormuz-directive/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-16T15:54:40-03:00"
         }
       ]
     },
