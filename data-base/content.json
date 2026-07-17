@@ -133,79 +133,127 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-07-16T21:00:00.778Z",
+      "gerado_em": "2026-07-17T10:00:02.130Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-07-16-2101",
-          "titulo": "Incêndios Florestais Continuam em Ontário",
-          "resumo": "O ministro de preparação para emergências de Ontário pediu ajuda ao governo federal, incluindo a possível implantação de soldados canadenses nas regiões afetadas.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/16/weather/ontario-canada-wildfires.html",
-          "publicado_em": "2026-07-16T17:55:36.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-16-2103",
-          "titulo": "Relatório das Academias Nacionais Apoia a Ciência de Atribuição de Mudanças Climáticas",
-          "resumo": "A ciência de atribuição está avançando rapidamente, disseram os pesquisadores. Isso pode apoiar processos judiciais que buscam danos por eventos graves piorados pelo aquecimento global.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/16/climate/national-academies-extreme-weather-attribution.html",
-          "publicado_em": "2026-07-16T19:05:49.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-16-2104",
-          "titulo": "Casa Branca Enfrenta Forte Reação Contra a Submissão de Subsídios a Revisão Política",
-          "resumo": "Acadêmicos, líderes de cidades e legisladores do Congresso estão entre os milhares que instam a administração Trump a reconsiderar um plano para impor mais controle sobre subsídios.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/16/us/politics/white-house-federal-grants-political-review.html",
-          "publicado_em": "2026-07-16T16:12:13.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-16-2105",
-          "titulo": "Senador Republicano Thom Tillis Exige que Todd Blanche Se Encontre com Sobreviventes de Epstein",
-          "resumo": "O senador Thom Tillis da Carolina do Norte fez a exigência durante uma audiência do Comitê Judiciário do Senado na quinta-feira para que testemunhas discutissem a nomeação de Mr. Blanche.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/16/us/politics/todd-blanche-attorney-general-epstein.html",
-          "publicado_em": "2026-07-16T17:02:31.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-16-2106",
-          "titulo": "Ucrânia Estava em uma Maré de Sucesso. Então um Conflito Sobre Estratégia de Guerra Explodiu em Vista.",
-          "resumo": "A partir de um estacionamento subterrâneo, o recém-demitido ministro da defesa da Ucrânia fez a crítica mais dramática e pública ao comando militar desde o início da guerra.",
+          "id": "new_york_times-2026-07-17-1004",
+          "titulo": "Ucrânia Estava em uma Rola. Então um Conflito Sobre Estratégia de Guerra Explodiu em Vista.",
+          "resumo": "A partir de um estacionamento subterrâneo, o recém-demissso ministro da defesa da Ucrânia fez a crítica mais dramática e pública da comandância militar desde o início da guerra.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-military-defense-minister-drones.html",
-          "publicado_em": "2026-07-16T20:02:43.000Z"
+          "publicado_em": "2026-07-16T22:01:29-03:00"
         },
         {
-          "id": "new_york_times-2026-07-16-2107",
-          "titulo": "Sobre a Guerra Contra o Irã, o Pentágono Disse Pouco",
-          "resumo": "O secretário de defesa Pete Hegseth falou sobre uma variedade de questões nos últimos dias — desde testosterona até investigações de vazamentos —, mas disse pouco sobre a guerra.",
+          "id": "new_york_times-2026-07-17-1005",
+          "titulo": "Ele Era um Sobrevivente Político Russo, Até que os Homens Mascarados Apareceram",
+          "resumo": "Boris B. Nadezhdin, um oponente declarado da guerra na Ucrânia, diz que sabe por que foi detido: \"Entre nossa liderança, há pânico e caos.\"",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/16/us/politics/hegseth-iran-war-briefings.html",
-          "publicado_em": "2026-07-16T20:33:25.000Z"
+          "link": "https://www.nytimes.com/2026/07/17/world/europe/russia-politics-election-nadezhdin.html",
+          "publicado_em": "2026-07-17T08:31:14-03:00"
         },
         {
-          "id": "new_york_times-2026-07-16-2112",
-          "titulo": "Chuva Relentless Causa Inundações Generalizadas no Texas Central",
-          "resumo": "Pelo menos uma pessoa morreu, e trabalhadores de emergência resgataram dezenas de pessoas. O governador Greg Abbott disse que a chuva no estado provavelmente quebraria recordes.",
+          "id": "new_york_times-2026-07-17-1006",
+          "titulo": "Pontos Principais do Discurso de Trump Sobre Vulnerabilidades Eleitorais e Interferência da China",
+          "resumo": "Documentos divulgados pela administração Trump para apoiar as alegações do presidente não respaldaram suas declarações mais agressivas.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/16/us/flooding-central-texas-hill-country.html",
-          "publicado_em": "2026-07-16T19:38:22.000Z"
+          "link": "https://www.nytimes.com/2026/07/17/us/trump-speech-elections-takeaways.html",
+          "publicado_em": "2026-07-17T08:12:52-03:00"
         },
         {
-          "id": "new_york_times-2026-07-16-2113",
-          "titulo": "Como os Esforços de Diversidade da Nike a Transformaram em um Alvo de Trump",
-          "resumo": "Uma investigação de direitos civis, que surgiu de um memorando de 26 páginas de um indicado político, fornece um mapa para o ataque da Casa Branca à D.E.I.",
+          "id": "new_york_times-2026-07-17-1007",
+          "titulo": "Uma Obssessão de Trump que Tem um Custo para a Democracia",
+          "resumo": "Ao exigir medidas para abordar a integridade do voto, o presidente Trump persistiu em reabrir sua derrota nas eleições de 2020, enquanto encontrava maneiras de lançar dúvidas sobre o resultado de 2026.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/16/us/politics/nike-dei-trump-eeoc.html",
-          "publicado_em": "2026-07-16T16:27:25.000Z"
+          "link": "https://www.nytimes.com/2026/07/17/us/politics/trump-elections-politics.html",
+          "publicado_em": "2026-07-17T09:06:03-03:00"
         },
         {
-          "id": "new_york_times-2026-07-16-2115",
-          "titulo": "Astrônomos Encontram uma Atmosfera em um Planeta Semelhante à Terra Próximo",
-          "resumo": "É o primeiro mundo potencialmente habitável conhecido por abrigar uma atmosfera, tornando-o um dos principais concorrentes na busca por vida além do nosso sistema solar.",
+          "id": "new_york_times-2026-07-17-1008",
+          "titulo": "Em Horário Nobre, Trump Critica Redes por Não Transmitirem Seu Discurso",
+          "resumo": "O presidente também pediu que ABC e NBC perdessem suas licenças de transmissão, após reclamar que as redes não estavam transmitindo seus comentários.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/16/science/astronomy-exoplanet-atmosphere.html",
-          "publicado_em": "2026-07-16T20:17:13.000Z"
+          "link": "https://www.nytimes.com/2026/07/16/us/politics/trump-speech-television-networks.html",
+          "publicado_em": "2026-07-17T02:43:06-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-17-1009",
+          "titulo": "Trump Divulgou Documentos Sobre a China e as Eleições de 2020. Aqui está o que Sabemos",
+          "resumo": "O presidente Trump alegou que a China tentou adquirir dados de eleitores americanos. Possuir tais informações não permitiria manipular votos.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/16/us/politics/documents-china-2020-election-trump.html",
+          "publicado_em": "2026-07-17T02:50:07-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-17-1012",
+          "titulo": "Como Andy Burnham, o 'Rei do Norte', Conquistou a Política do Reino Unido",
+          "resumo": "Um político de fala direta de um background modesto no noroeste da Inglaterra, o Sr. Burnham está prestes a ser nomeado líder do Partido Trabalhista — e primeiro-ministro aparente — na sexta-feira.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/17/world/europe/andy-burnham-uk-labour-prime-minister.html",
+          "publicado_em": "2026-07-17T07:54:03-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-17-1013",
+          "titulo": "Novo Primeiro-Ministro Enfrenta Velhos Problemas: Como Fazer a Economia Britânica Crescer",
+          "resumo": "Conversas com economistas e pessoas ao seu redor lançam luz sobre como Andy Burnham pode lidar com desafios arraigados.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/17/business/britain-andy-burnham-prime-minister.html",
+          "publicado_em": "2026-07-17T08:46:31-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-17-1014",
+          "titulo": "Como Andy Burnham Se Torna o Novo Primeiro-Ministro da Grã-Bretanha",
+          "resumo": "Andy Burnham está prestes a se tornar oficialmente o próximo primeiro-ministro na segunda-feira, mas várias coisas precisam acontecer antes disso. Aqui está como tudo deve se desenrolar.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/17/world/europe/burnham-prime-minister-explainer.html",
+          "publicado_em": "2026-07-17T04:01:05-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-17-1015",
+          "titulo": "Rachaduras Republicanas se Aprofundam Sobre o Plano Orçamentário de US$ 95 Bilhões para a Guerra no Irã e a Lei SAVE",
+          "resumo": "Um painel da Câmara aprovou a medida. Mas os republicanos estão divididos sobre o seu tamanho, custo e disposições políticas, e muitos estão preocupados com o timing antes das eleições de meio de mandato.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/16/us/politics/iran-war-save-act.html",
+          "publicado_em": "2026-07-16T22:23:53-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-17-1017",
+          "titulo": "Senador Republicano Thom Tillis Exige que Todd Blanche Se Encontre com Sobreviventes de Epstein",
+          "resumo": "O senador Thom Tillis, da Carolina do Norte, um voto-chave na confirmação, havia exigido que o procurador-geral interino se encontrasse com as vítimas.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/16/us/politics/todd-blanche-attorney-general-epstein.html",
+          "publicado_em": "2026-07-17T00:41:28-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-17-1019",
+          "titulo": "Administração Trump Restringe Cartões Verdes para Imigrantes que Recebem Assistência Pública",
+          "resumo": "A medida é uma mudança significativa que pode dissuadir centenas de milhares de imigrantes de usar tais programas para atender às necessidades básicas.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/16/us/politics/trump-green-cards-public-assistance.html",
+          "publicado_em": "2026-07-16T23:03:47-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-17-1022",
+          "titulo": "Advogado de Direitos Humanos Chinês que Busca Asilo é Preso pela ICE",
+          "resumo": "Shaoping Wu estava trabalhando como motorista de entrega da Amazon quando foi parado na Pensilvânia. Ele havia defendido a liberdade pessoal e religiosa para cidadãos chineses.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/16/us/chinese-lawyer-wu-shaoping-ice-detention.html",
+          "publicado_em": "2026-07-16T21:25:14-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-17-1024",
+          "titulo": "Os Democratas Podem Finalmente Entender o Eleitor Latino em uma Era de Deportações em Massa?",
+          "resumo": "Por décadas, os democratas não entenderam os eleitores latinos. A campanha de deportação de Trump oferece uma chance para eles acertarem.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/17/opinion/latino-voter-democrats-immigration-trump.html",
+          "publicado_em": "2026-07-17T09:01:59-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-17-1025",
+          "titulo": "O Rei do Norte, Andy Burnham, Não Vai Salvar a Grã-Bretanha",
+          "resumo": "Para o país, Andy Burnham parece muito mais do mesmo.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/17/opinion/andy-burnham-britain-prime-minister.html",
+          "publicado_em": "2026-07-17T05:00:06-03:00"
         }
       ]
     },
