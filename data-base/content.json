@@ -739,63 +739,71 @@
     "aa": {
       "slug": "aa",
       "nome": "AllAfrica",
-      "gerado_em": "2026-07-17T10:46:33.380Z",
+      "gerado_em": "2026-07-17T21:46:32.760Z",
       "artigos": [
         {
-          "id": "aa-2026-07-17-01",
+          "id": "aa-2026-07-17-2101",
+          "titulo": "Sudão: Fome Aumenta para Famílias Deslocadas em El Obeid",
+          "resumo": "Funcionários humanitários da ONU destacam necessidades crescentes entre mais de 100.000 pessoas deslocadas em El Obeid.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607170430.html",
+          "publicado_em": "2026-07-17T12:23:18.000-03:00"
+        },
+        {
+          "id": "aa-2026-07-17-2102",
+          "titulo": "Congo-Kinshasa: Jornalistas Enfrentam Ameaças de Morte por Reportar Sobre a Guerra",
+          "resumo": "Jornalistas enfrentam ameaças de morte e incêndio por reportar sobre a guerra no leste do Congo.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607170354.html",
+          "publicado_em": "2026-07-17T11:45:32.000-03:00"
+        },
+        {
+          "id": "aa-2026-07-17-2103",
           "titulo": "África: Reino Unido Reduzirá Ajuda a Alguns Países Africanos em 90%",
-          "resumo": "O governo do Reino Unido confirmou reduções significativas em seu programa de ajuda bilateral. Nove países africanos devem perder mais de 80% da assistência direta britânica até 2029.",
+          "resumo": "O governo britânico confirmou reduções significativas no programa de ajuda bilateral.",
           "imagem": null,
           "link": "https://allafrica.com/stories/202607170151.html",
-          "publicado_em": "2026-07-17T09:03:58-03:00"
+          "publicado_em": "2026-07-17T09:03:58.000-03:00"
         },
         {
-          "id": "aa-2026-07-17-02",
-          "titulo": "Sudão: G7 e UE Pedem Fim dos Ataques em El-Obeid e Embargo de Armas",
-          "resumo": "Ministros das Relações Exteriores do G7 e a chefe da política externa da União Europeia pediram ao Sudão que parem todos os ataques.",
+          "id": "aa-2026-07-17-2108",
+          "titulo": "África do Sul: Quatro Funcionários Demitidos por Fraude em Programa de Assistência Social",
+          "resumo": "A Agência de Seguridade Social da África do Sul demitiu quatro funcionários por fraude.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607170408.html",
+          "publicado_em": "2026-07-17T12:12:18.000-03:00"
+        },
+        {
+          "id": "aa-2026-07-17-2112",
+          "titulo": "Sudão: G7 e UE Pedem Fim dos Ataques em El-Obeid",
+          "resumo": "O G7 e a UE pediram o fim dos ataques em El-Obeid e uma ampla embargo às armas.",
           "imagem": null,
           "link": "https://allafrica.com/stories/202607170219.html",
-          "publicado_em": "2026-07-17T09:59:51-03:00"
+          "publicado_em": "2026-07-17T09:59:51.000-03:00"
         },
         {
-          "id": "aa-2026-07-17-03",
-          "titulo": "Senegal: Campanha da ONU Leva Ex-Presidente Macky Sall de Volta ao Senegal",
-          "resumo": "O ex-presidente do Senegal, Macky Sall, retorna ao país para sua primeira visita desde que deixou o cargo em abril de 2024.",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202607170101.html",
-          "publicado_em": "2026-07-17T08:18:12-03:00"
-        },
-        {
-          "id": "aa-2026-07-17-04",
-          "titulo": "Malaui: Reino Unido Anuncia Cortes Profundos na Ajuda ao Malaui",
-          "resumo": "O governo do Reino Unido anunciou planos para cortar a ajuda internacional ao Malaui em 60% em 2026-27.",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202607170048.html",
-          "publicado_em": "2026-07-17T05:17:31-03:00"
-        },
-        {
-          "id": "aa-2026-07-17-05",
-          "titulo": "Sudão: Sudão Rejeita Novamente Alegações dos EUA Sobre Uso de Armas Químicas",
-          "resumo": "O Sudão rejeitou alegações renovadas dos EUA sobre o uso de armas químicas pelas forças armadas sudanesas.",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202607170043.html",
-          "publicado_em": "2026-07-17T05:12:06-03:00"
-        },
-        {
-          "id": "aa-2026-07-17-06",
-          "titulo": "Nigéria: Câmara dos EUA Aprova Projeto de Lei para Cortar Ajuda Estrangeira à Nigéria",
-          "resumo": "A Câmara dos EUA aprovou um projeto de lei que inclui a restrição de assistência à Nigéria até que medidas sejam tomadas para proteger comunidades cristãs.",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202607160663.html",
-          "publicado_em": "2026-07-16T16:37:07-03:00"
-        },
-        {
-          "id": "aa-2026-07-17-07",
+          "id": "aa-2026-07-17-2114",
           "titulo": "Sudão: Três Anos de Guerra no Sudão - Uma Crise que o Mundo Não Pode Ignorar",
-          "resumo": "Três anos após o início da guerra no Sudão, sobreviventes e defensores dos direitos humanos lutam para responder às necessidades esmagadoras.",
+          "resumo": "A guerra no Sudão completa três anos, com sobreviventes e defensores dos direitos humanos lutando para responder às necessidades crescentes.",
           "imagem": null,
           "link": "https://allafrica.com/stories/202607170098.html",
-          "publicado_em": "2026-07-17T08:18:10-03:00"
+          "publicado_em": "2026-07-17T08:18:10.000-03:00"
+        },
+        {
+          "id": "aa-2026-07-17-2117",
+          "titulo": "Malawi: Reino Unido Anuncia Cortes Profundos na Ajuda ao Malawi",
+          "resumo": "O governo britânico anunciou planos para cortar a ajuda ao desenvolvimento internacional ao Malawi.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607170048.html",
+          "publicado_em": "2026-07-17T05:17:31.000-03:00"
+        },
+        {
+          "id": "aa-2026-07-17-2119",
+          "titulo": "Nigéria: Macron Visitará a Nigéria para Aprofundar Parceria Estratégica",
+          "resumo": "O presidente francês Emmanuel Macron visitará a Nigéria para aprofundar a parceria estratégica entre os dois países.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607170334.html",
+          "publicado_em": "2026-07-17T11:38:40.000-03:00"
         }
       ]
     },
