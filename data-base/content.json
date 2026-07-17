@@ -6,9 +6,9 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Tensões globais: EUA, Irã e Ucrânia no centro",
-    "subtitulo": "Enquanto conflitos se intensificam, a comunidade internacional busca respostas",
-    "resumo": "O dia foi marcado por tensões globais, com o conflito entre EUA e Irã se intensificando e a Ucrânia no centro de uma crise política. A demissão do ministro da Defesa ucraniano, Mikhail Fedorov, desencadeou protestos em todo o país. Enquanto isso, a comunidade internacional busca respostas para os conflitos em curso. A Argélia investiga um incêndio em um orfanato que matou 11 crianças, e a Itália invade marcas de luxo por suspeitas de exploração de trabalhadores chineses. A Nigéria pode ter sua ajuda estrangeira cortada pelos EUA, e a Libéria enfrenta protestos contra o movimento de armas. A África do Sul vê filhos de imigrantes forçados a deixar escolas sul-africanas, e a Uganda tem seu militar aprendendo com críticos do governo. A Austrália acompanha as notícias da Telstra e do One Nation, enquanto a Marinha dos EUA causa caos em uma praia da Flórida.",
+    "titulo": "Cortes de ajuda do Reino Unido reduzem apoio bilateral a alguns países africanos em 90%",
+    "subtitulo": "Enquanto a comunidade internacional se concentra em crises globais, a África enfrenta desafios silenciosos",
+    "resumo": "Os cortes de ajuda do Reino Unido afetam significativamente vários países africanos, com reduções de até 90% em alguns casos. Essa decisão tem implicações profundas para a comunidade internacional e para os esforços de desenvolvimento na África. Enquanto isso, a região também lida com desafios como a epidemia de ebola, inundações na África Ocidental e tensões políticas em países como o Sudão. A cobertura desses eventos varia significativamente entre diferentes fontes de notícias, com alguns veículos dando mais atenção a certos temas do que outros. Por exemplo, a crise de ebola na República Democrática do Congo recebeu atenção considerável de fontes como o The Guardian e a AllAfrica, enquanto a situação no Sudão foi mais amplamente coberta por veículos como a AllAfrica e o The Straits Times. A China, por sua vez, negou acusações de interferência nas eleições dos EUA, conforme reportado pelo South China Morning Post e pela Russia Today. Esses eventos destacam a importância de considerar múltiplas perspectivas ao avaliar as notícias globais.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-07-17T08:00:00-03:00",
     "link": null,
@@ -941,57 +941,55 @@
   },
   "temas_principais": [
     {
-      "tema": "Conflito EUA-Irã",
-      "descricao": "Tensões se intensificam entre EUA e Irã, com ataques aéreos e ameaças de escalada",
+      "tema": "Cortes de ajuda do Reino Unido",
+      "descricao": "Redução de até 90% no apoio bilateral a alguns países africanos",
       "fontes_que_cobriram": [
-        "The New York Times",
-        "The Straits Times",
-        "Russia Today"
+        "the_guardian",
+        "allafrica"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "The Guardian",
-        "AllAfrica"
+        "rt",
+        "scmp"
       ],
-      "divergencia_de_enquadramento": "Enquanto alguns veículos destacam a agressividade do Irã, outros enfatizam a resposta dos EUA"
+      "divergencia_de_enquadramento": "Enquanto o The Guardian destaca o impacto negativo dos cortes, a AllAfrica aborda as implicações para a comunidade internacional"
     },
     {
-      "tema": "Crise política na Ucrânia",
-      "descricao": "Demissão do ministro da Defesa ucraniano desencadeia protestos em todo o país",
+      "tema": "Epidemia de ebola",
+      "descricao": "Crise de saúde na República Democrática do Congo e Uganda",
       "fontes_que_cobriram": [
-        "The New York Times",
-        "The Moscow Times",
-        "Euronews"
+        "the_guardian",
+        "allafrica"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "The Guardian",
-        "AllAfrica"
+        "euronews",
+        "smh"
       ],
-      "divergencia_de_enquadramento": "Enquanto alguns veículos destacam a crise política, outros enfatizam a importância da estabilidade na região"
+      "divergencia_de_enquadramento": "O The Guardian enfatiza a gravidade da epidemia, enquanto a AllAfrica discute as respostas internacionais"
     },
     {
-      "tema": "Incêndio em orfanato na Argélia",
-      "descricao": "Incêndio em um orfanato na Argélia mata 11 crianças e fere 19",
+      "tema": "Tensões políticas no Sudão",
+      "descricao": "Conflitos e alegações de abusos humanitários",
       "fontes_que_cobriram": [
-        "Euronews",
-        "The Straits Times"
+        "allafrica",
+        "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "The New York Times",
-        "The Guardian"
+        "rt",
+        "scmp"
       ],
-      "divergencia_de_enquadramento": "Enquanto alguns veículos destacam a tragédia, outros enfatizam a necessidade de investigação"
+      "divergencia_de_enquadramento": "A AllAfrica e o The Straits Times abordam as dimensões humanitárias, enquanto a Russia Today se concentra em aspectos políticos"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Corte de ajuda estrangeira à Nigéria",
-      "por_que_importa": "A decisão dos EUA de cortar a ajuda estrangeira à Nigéria pode ter impactos significativos na região",
-      "cobertura": "Apenas AllAfrica cobriu o tema"
+      "tema": "Inundações na África Ocidental",
+      "por_que_importa": "Impacto sobre comunidades locais e necessidade de resposta internacional",
+      "cobertura": "Pouca cobertura em fontes como o The Guardian e a AllAfrica, com mais atenção necessária"
     },
     {
-      "tema": "Filhos de imigrantes forçados a deixar escolas sul-africanas",
-      "por_que_importa": "A decisão de forçar filhos de imigrantes a deixar escolas sul-africanas pode ter impactos significativos na educação e na integração",
-      "cobertura": "Apenas AllAfrica cobriu o tema"
+      "tema": "Desenvolvimento sustentável na África",
+      "por_que_importa": "Importância para o futuro da região e para os esforços globais de desenvolvimento",
+      "cobertura": "Cobertura limitada em fontes como o South China Morning Post e o The Sydney Morning Herald, com necessidade de mais análise"
     }
   ]
 }
