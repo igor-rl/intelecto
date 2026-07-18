@@ -343,79 +343,55 @@
     "scmp": {
       "slug": "scmp",
       "nome": "South China Morning Post",
-      "gerado_em": "2026-07-18T10:15:31.980Z",
+      "gerado_em": "2026-07-18T21:15:31.244Z",
       "artigos": [
         {
-          "id": "scmp-2026-07-18-01",
-          "titulo": "Bali se transforma de paraíso de férias em centro financeiro internacional",
-          "resumo": "A Indonésia está impulsionando a transformação da ilha de Bali em um centro financeiro internacional, com o parlamento pronto para debater novas leis esta semana, enquanto uma conferência-chave estabelece metas...",
-          "link": "https://www.scmp.com/week-asia/economics/article/3361038/balis-big-leap-holiday-paradise-international-financial-centre?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/18/7390e240-ecc4-4440-a587-c12b2bdd906a_eb41949b.jpg?itok=FyGExzMt&v=1784359508",
-          "publicado_em": "2026-07-18T10:00:13.000Z"
+          "id": "scmp-2026-07-18-2102-01",
+          "titulo": "2 militares dos EUA mortos, 1 desaparecido após ataque iraniano a base na Jordânia",
+          "resumo": "Dois soldados americanos foram mortos e vários ficaram feridos por um drone iraniano, de acordo com o Pentágono.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/19/20f5f0cd-3082-4b73-bd56-552182eb1459_40459157.jpg?itok=VMPUrz0M&v=1784408246",
+          "link": "https://www.scmp.com/news/us/diplomacy/article/3361068/2-us-troops-dead-1-missing-after-iran-attacks-base-jordan?utm_source=rss_feed",
+          "publicado_em": "2026-07-18T18:01:11.000Z"
         },
         {
-          "id": "scmp-2026-07-18-02",
-          "titulo": "Megaprojetos da China transformaram a Costa do Marfim. Agora, o papel da China está mudando",
-          "resumo": "Em Abidjã, a capital comercial e o motor econômico da Costa do Marfim, a extensão do desenvolvimento de infraestrutura chinesa é uma característica permanente das redes de transporte e comércio.",
-          "link": "https://www.scmp.com/news/china/diplomacy/article/3360899/chinas-megaprojects-transformed-ivory-coast-now-its-own-role-changing?utm_source=rss_feed",
+          "id": "scmp-2026-07-18-2104-02",
+          "titulo": "Canadá evacua comunidade em Ontário devido a incêndios florestais que afetam os EUA",
+          "resumo": "O exército canadense está preparando a evacuação de uma comunidade remota de 600 pessoas ameaçada por incêndios florestais.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/18/2032c379-4ea1-458f-a1e5-85990ae3816e_76b48d9c.jpg?itok=UGfpJI4o&v=1784387105",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3361064/canada-evacuate-ontario-community-wildfire-smoke-chokes-us?utm_source=rss_feed",
+          "publicado_em": "2026-07-18T15:05:11.000Z"
+        },
+        {
+          "id": "scmp-2026-07-18-2109-03",
+          "titulo": "Ativista indiano Sonam Wangchuk hospitalizado após greve de fome de 21 dias",
+          "resumo": "Sonam Wangchuk foi levado ao hospital após sua condição piorar durante uma greve de fome para exigir ação sobre vazamentos de exames.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/18/55e47f7b-4464-4ac6-8bd7-9744aacbd667_8559aeaa.jpg?itok=0vCjTC0q&v=1784379317",
+          "link": "https://www.scmp.com/news/asia/south-asia/article/3361055/sonam-wangchuk-hospitalised-after-21-day-hunger-strike-over-exam-leaks?utm_source=rss_feed",
+          "publicado_em": "2026-07-18T12:55:26.000Z"
+        },
+        {
+          "id": "scmp-2026-07-18-2110-04",
+          "titulo": "Armas climáticas: por que a atmosfera pode se tornar o próximo campo de batalha geopolítico",
+          "resumo": "A capacidade de controlar o clima pode se tornar uma ferramenta poderosa nas relações internacionais e conflitos.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/17/a56e5608-bb31-40de-91e8-9271817e5d32_144618df.jpg?itok=Nf5TA1Aq&v=1784282362",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3360967/weather-weapons-why-atmosphere-could-become-next-geopolitical-battleground?utm_source=rss_feed",
+          "publicado_em": "2026-07-18T12:00:06.000Z"
+        },
+        {
+          "id": "scmp-2026-07-18-2116-05",
+          "titulo": "Índia lança primeiro foguete orbital privado, expandindo sua presença no espaço",
+          "resumo": "O lançamento marca um passo significativo para a Índia, que busca aumentar sua participação no mercado espacial global.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/18/e366712b-33a1-4536-96b9-3b34fd2e5894_a625f70e.jpg?itok=gpuQ8wPF&v=1784371475",
+          "link": "https://www.scmp.com/news/asia/south-asia/article/3361049/india-launches-first-private-orbital-rocket-space-start-ups-expand?utm_source=rss_feed",
+          "publicado_em": "2026-07-18T10:44:41.000Z"
+        },
+        {
+          "id": "scmp-2026-07-18-2118-06",
+          "titulo": "Megaprojetos da China transformaram a Costa do Marfim, agora seu papel está mudando",
+          "resumo": "A China tem investido pesadamente em infraestrutura na Costa do Marfim, transformando a economia local.",
           "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/17/c682f1b3-29e0-4668-abe0-00c99b1dd772_bbf01d93.jpg?itok=Kvuoiphh&v=1784267022",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3360899/chinas-megaprojects-transformed-ivory-coast-now-its-own-role-changing?utm_source=rss_feed",
           "publicado_em": "2026-07-18T10:00:07.000Z"
-        },
-        {
-          "id": "scmp-2026-07-18-03",
-          "titulo": "Hong Kong improvável de realizar eleição para preencher vaga deixada por William Wong",
-          "resumo": "O governo de Hong Kong indicou que é improvável realizar uma eleição para preencher a vaga deixada pela renúncia do ex-deputado William Wong Kam-fai devido a sua condenação por dirigir embriagado e atropelar...",
-          "link": "https://www.scmp.com/news/hong-kong/politics/article/3361046/hong-kong-unlikely-hold-legco-election-seat-vacated-william-wong?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/18/a300253d-35dc-4ade-90f9-d1ba9d1680a4_ba7a64b0.jpg?itok=66iTsKrT&v=1784368033",
-          "publicado_em": "2026-07-18T09:49:02.000Z"
-        },
-        {
-          "id": "scmp-2026-07-18-04",
-          "titulo": "Alemanha reduzirá subsídios para energias renováveis devido à pressão sobre a rede de energia",
-          "resumo": "A Alemanha planeja reduzir os subsídios para as energias renováveis em uma revisão abrangente do seu sistema de financiamento, à medida que a produção solar em alta pressiona a rede de energia do país.",
-          "link": "https://www.scmp.com/news/world/europe/article/3361045/germany-scale-back-renewable-subsidies-amid-power-grid-strain?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/18/74de758d-fb9c-4a1e-bdf9-74ca409d4695_d217b549.jpg?itok=fz3Xc2gz&v=1784366183",
-          "publicado_em": "2026-07-18T09:16:34.000Z"
-        },
-        {
-          "id": "scmp-2026-07-18-05",
-          "titulo": "Polícia de Hong Kong prende 61 pessoas em operação contra golpes telefônicos",
-          "resumo": "O número de golpes telefônicos registrados em Hong Kong nos primeiros cinco meses de 2026 aumentou 46% em comparação com o mesmo período do ano passado, com uma operação policial recente prendendo 61 suspeitos...",
-          "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3361042/hong-kong-police-arrest-61-crackdown-phone-scams-cases-surge-46?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/18/3c9b337f-72e0-4ea7-a62d-46f0e00a8cc2_9954a517.jpg?itok=Z8FCoHuf&v=1784363878",
-          "publicado_em": "2026-07-18T08:40:06.000Z"
-        },
-        {
-          "id": "scmp-2026-07-18-06",
-          "titulo": "Líder chinês pede que Tailândia e Camboja resolvam disputa de fronteira",
-          "resumo": "O presidente chinês Xi Jinping pediu que a Tailândia e o Camboja resolvam sua disputa de fronteira após se encontrar com os líderes de ambos os países no mesmo dia.",
-          "link": "https://www.scmp.com/news/china/diplomacy/article/3361036/chinese-leader-urges-thailand-and-cambodia-settle-long-running-border-dispute?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/18/6d5d373f-7c49-4d22-8edb-3284c8039e5d_a3ab0d57.jpg?itok=n3kdDBmM&v=1784357894",
-          "publicado_em": "2026-07-18T07:02:01.000Z"
-        },
-        {
-          "id": "scmp-2026-07-18-07",
-          "titulo": "Filipinas pode transformar reformas em ganhos na corrida de investimento estrangeiro direto da ASEAN?",
-          "resumo": "As Filipinas não eram há muito tempo atrás assombradas por sinais de alerta para investidores, desde a corrupção até a infraestrutura arquejante e uma crise de combustível nascida de uma guerra travada a milhares de quilômetros de distância.",
-          "link": "https://www.scmp.com/week-asia/economics/article/3360978/can-philippines-turn-reforms-gains-southeast-asias-fdi-race?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/17/553c2e99-cd64-4da0-bfa9-a83147c59ff8_26a2f2b7.jpg?itok=nNnXa9ZI&v=1784285590",
-          "publicado_em": "2026-07-18T07:00:06.000Z"
-        },
-        {
-          "id": "scmp-2026-07-18-08",
-          "titulo": "Trump afirma que a China interfere nas eleições americanas, o que revela uma crise na democracia americana",
-          "resumo": "O presidente Donald Trump afirmou que a China interfere nas eleições americanas, o que, segundo um conselheiro de Pequim, revela uma crise na democracia americana.",
-          "link": "https://www.scmp.com/news/china/diplomacy/article/3361031/trumps-chinese-interference-claims-reveal-huge-crisis-facing-american-democracy?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/18/c2f4b810-da67-4b64-9476-862e55fa94ae_cf3530b3.jpg?itok=o6LWHjbf&v=1784350460",
-          "publicado_em": "2026-07-18T05:44:43.000Z"
-        },
-        {
-          "id": "scmp-2026-07-18-09",
-          "titulo": "Reino Unido: Burnham enfrenta desafio à medida que Trump busca bases britânicas para atacar o Irã",
-          "resumo": "A retomada dos ataques americanos ao Irã colocou o primeiro-ministro britânico Andy Burnham diante de uma decisão potencial no primeiro dia de como apoiar o aliado mais próximo dos EUA em sua campanha militar controvertida.",
-          "link": "https://www.scmp.com/news/world/europe/article/3361030/uks-burnham-faces-test-trump-seeks-british-bases-iran-attack?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/18/fd2e6539-7a40-4d3d-933c-08be6d39b023_2df14ef8.jpg?itok=W-1eZoVZ&v=1784349058",
-          "publicado_em": "2026-07-18T04:31:07.000Z"
         }
       ]
     },
