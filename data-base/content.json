@@ -160,66 +160,90 @@
     "euronews": {
       "slug": "euronews",
       "nome": "Euro News",
-      "gerado_em": "2026-07-17T21:00:24.729Z",
+      "gerado_em": "2026-07-18T10:00:18.557Z",
       "artigos": [
         {
-          "id": "euronews-2026-07-17-2101",
+          "id": "euronews-2026-07-18-01",
+          "titulo": "Forças dos EUA atacam o Irã pela sétima noite consecutiva",
+          "resumo": "A agência de notícias estatal iraniana Fars relatou que as forças iranianas responderam atacando aliados e bases dos EUA na região, incluindo a base aérea Ali Al Salem no Kuwait.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/18/us-forces-strike-iran-for-seventh-consecutive-night",
+          "publicado_em": "2026-07-18T05:49:14.000Z"
+        },
+        {
+          "id": "euronews-2026-07-18-02",
           "titulo": "Chefe de política externa da UE, Kallas, visita missão naval da UE no Mar Vermelho",
-          "resumo": "A chefe de política externa da UE, Kaja Kallas, visitou pessoal que serve com as missões navais da UE, ASPIDES e ATALANTA, recebendo breves operacionais e encontrando tropas destacadas para ajudar a proteger o transporte marítimo...",
+          "resumo": "O chefe de política externa da UE, Kaja Kallas, visitou pessoal que serve com as missões navais ASPIDES e ATALANTA da UE, recebendo breves operacionais e reunindo-se com tropas destacadas para ajudar a proteger o envio de...",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/07/17/eu-foreign-policy-chief-kallas-visits-eu-naval-mission-in-the-red-sea",
           "publicado_em": "2026-07-17T18:00:59.000Z"
         },
         {
-          "id": "euronews-2026-07-17-2103",
-          "titulo": "Terremoto de 7,3 magnitude atinge costas do México e Guatemala, alerta de tsunami é cancelado",
-          "resumo": "Um terremoto de 7,3 magnitude abalou as costas do México e Guatemala na sexta-feira, com seu epicentro a cerca de 15 km de profundidade em Chiapas.",
+          "id": "euronews-2026-07-18-03",
+          "titulo": "Terremoto de 7,3 magnitude atinge costas do México e da Guatemala, alerta de tsunami levantado",
+          "resumo": "Um terremoto de 7,3 magnitude abalou as costas do México e da Guatemala na sexta-feira, com seu epicentro ao largo de Chiapas a cerca de 15 km de profundidade.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/17/magnitude-73-earthquake-strikes-mexico-and-guatemala-coasts-tsunami-alert-issued",
           "publicado_em": "2026-07-17T15:59:33.000Z"
         },
         {
-          "id": "euronews-2026-07-17-2105",
-          "titulo": "China rejeita acusações de interferência nas eleições de Trump como 'infundadas'",
-          "resumo": "Em uma coletiva de imprensa em Pequim, um porta-voz pediu que os EUA parassem de fazer o que descreveu como 'acusações infundadas' contra a China.",
+          "id": "euronews-2026-07-18-04",
+          "titulo": "Organizadores da Copa do Mundo 'monitoram' fumaça de incêndio florestal antes da final em Nova Jersey",
+          "resumo": "Oficiais em muitas cidades pediram aos residentes que ficassem em casa ou usassem máscaras ao ar livre, pois a qualidade do ar atingiu níveis insalubres a perigosos, representando um risco à saúde para todos.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/17/world-cup-organisers-monitor-wildfire-smoke-ahead-of-new-jersey-final",
+          "publicado_em": "2026-07-17T15:52:56.000Z"
+        },
+        {
+          "id": "euronews-2026-07-18-05",
+          "titulo": "China rejeita acusações de interferência eleitoral de Trump como 'infundadas'",
+          "resumo": "Em uma briefing diária em Pequim, um porta-voz pediu que os EUA parassem de fazer o que descreveu como 'acusações infundadas' contra a China.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/17/china-rejects-trumps-election-interference-accusations-as-groundless",
           "publicado_em": "2026-07-17T15:23:52.000Z"
         },
         {
-          "id": "euronews-2026-07-17-2106",
+          "id": "euronews-2026-07-18-06",
           "titulo": "Xi elogia 'novo nível' nas relações à medida que China e Cazaquistão assinam acordos no valor de 11,4 bilhões de euros",
-          "resumo": "Xi Jinping e Kassym-Jomart Tokayev assinaram mais de 70 acordos comerciais, incluindo a primeira fábrica de baterias da Ásia Central com a CATL e um novo...",
+          "resumo": "Xi Jinping e Kassym-Jomart Tokayev assinaram mais de 70 acordos comerciais nos bastidores da Conferência Mundial de IA em Xangai, incluindo a primeira fábrica de baterias da Ásia Central com a CATL e um novo...",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/17/xi-hails-new-level-in-ties-as-china-and-kazakhstan-sign-114bn-in-deals",
           "publicado_em": "2026-07-17T14:14:45.000Z"
         },
         {
-          "id": "euronews-2026-07-17-2107",
+          "id": "euronews-2026-07-18-07",
           "titulo": "Resgatistas da China correm para encontrar pessoas presas após deslizamento de terra",
-          "resumo": "A China lançou uma grande operação de resgate após um deslizamento de terra atingir o condado de Pengshui, na municipalidade de Chongqing, em 17 de julho, soterrando parte de uma área residencial e prendendo um número desconhecido de pessoas...",
+          "resumo": "A China lançou uma grande operação de resgate após um deslizamento de terra atingir o condado de Pengshui, na municipalidade de Chongqing, em 17 de julho, enterrando parte de uma área residencial e prendendo um número desconhecido de pessoas...",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/07/17/china-rescuers-race-to-find-trapped-people-after-landslide",
           "publicado_em": "2026-07-17T13:00:55.000Z"
         },
         {
-          "id": "euronews-2026-07-17-2108",
-          "titulo": "UE reforça missão no Mar Vermelho à medida que relatórios indicam que os Houthis podem fechar o Bab el-Mandeb",
-          "resumo": "A chefe de política externa da UE, Kaja Kallas, visitou Djibuti e assinou um novo acordo de segurança para fortalecer a presença naval da Europa, à medida que relatórios afirmam que Teerã pediu aos Houthis que fechassem o Bab el-Mandeb se...",
+          "id": "euronews-2026-07-18-08",
+          "titulo": "UE fortalece missão no Mar Vermelho à medida que relatórios indicam que os Houthis podem fechar o Bab el-Mandeb",
+          "resumo": "O chefe de política externa da UE, Kaja Kallas, visitou Djibuti e assinou um novo acordo de segurança para fortalecer a presença naval da Europa, à medida que relatórios dizem que Teerã pediu aos Houthis que fechassem o Bab el-Mandeb se...",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/17/eu-bolsters-red-sea-mission-amid-reports-houthis-may-shut-bab-el-mandeb",
           "publicado_em": "2026-07-17T12:23:00.000Z"
         },
         {
-          "id": "euronews-2026-07-17-2109",
+          "id": "euronews-2026-07-18-09",
           "titulo": "CIA desclassifica evidências de suposta fraude eleitoral na Venezuela em 2012",
-          "resumo": "Documentos da CIA desclassificados por Donald Trump confirmam que o regime venezuelano tinha, desde 2012, um sistema capaz de alterar até 1,5 milhão de votos, embora não provem fraude em todas as eleições...",
+          "resumo": "Documentos da CIA desclassificados por Donald Trump confirmam que o regime venezuelano tinha, desde 2012, um sistema capaz de alterar até 1,5 milhão de votos, embora não provem fraude em todas as eleições men...",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/17/cia-declassifies-evidence-of-electoral-machinery-used-by-chavismo-in-venezuela-since-2012",
           "publicado_em": "2026-07-17T11:48:19.000Z"
         },
         {
-          "id": "euronews-2026-07-17-2111",
+          "id": "euronews-2026-07-18-10",
+          "titulo": "Índia lança primeiro trem de passageiros movido a hidrogênio para reduzir emissões",
+          "resumo": "A Índia lançou seu primeiro trem de passageiros movido a hidrogênio, NaMo Green Rail, impulsionando o transporte ferroviário limpo e reduzindo as emissões de diesel.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/17/india-launches-first-hydrogen-powered-passenger-train-to-cut-emissions",
+          "publicado_em": "2026-07-17T11:20:07.000Z"
+        },
+        {
+          "id": "euronews-2026-07-18-11",
           "titulo": "Kim Jong Un recebe alto funcionário chinês em Pyongyang",
           "resumo": "A China tem buscado reafirmar sua posição na península coreana nos últimos anos. O presidente chinês Xi Jinping fez sua própria visita a Pyongyang em junho como parte dessa iniciativa.",
           "imagem": null,
@@ -227,52 +251,44 @@
           "publicado_em": "2026-07-17T10:33:23.000Z"
         },
         {
-          "id": "euronews-2026-07-17-2115",
-          "titulo": "Defesa aérea do Qatar intercepta nova barragem de mísseis iranianos sobre Doha",
-          "resumo": "O Irã desencadeou uma nova onda de ataques em todo o Golfo, visando o Qatar, Kuwait, Bahrein e Jordânia, após as contínuas ameaças de Teerã de arrastar os países do Golfo de volta ao seu conflito em escalada...",
+          "id": "euronews-2026-07-18-12",
+          "titulo": "Qatar intercepta nova barragem de mísseis iranianos sobre Doha",
+          "resumo": "O Irã desencadeou uma nova onda de ataques em todo o Golfo, atingindo Qatar, Kuwait, Bahrein e Jordânia, após as contínuas ameaças de Teerã de arrastar os países do Golfo de volta ao seu conflito em escala...",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/17/qatars-air-defence-intercepts-fresh-iranian-missile-barrage-over-doha",
           "publicado_em": "2026-07-17T08:05:19.000Z"
         },
         {
-          "id": "euronews-2026-07-17-2116",
+          "id": "euronews-2026-07-18-13",
           "titulo": "Japão revisa lei de sucessão imperial, mas mantém proibição de imperatrizes",
-          "resumo": "Pesquisas de opinião em todo o Japão sugeriram amplo apoio público a uma imperatriz, mas alguns figuras políticas conservadoras continuam se opondo à ideia.",
+          "resumo": "Pesquisas de opinião em todo o Japão sugeriram um amplo apoio público a uma imperatriz, mas alguns figuras políticas conservadoras continuam se opondo à ideia.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/17/japan-revises-imperial-succession-law-but-retains-ban-on-female-emperors",
           "publicado_em": "2026-07-17T06:31:23.000Z"
         },
         {
-          "id": "euronews-2026-07-17-2118",
-          "titulo": "Ataques aéreos dos EUA atingem sites civis iranianos enquanto Teerã ataca vizinhos do Golfo",
-          "resumo": "Em um discurso à nação, Trump disse que os EUA estavam 'vencendo grande' no Irã e que o público veria 'os frutos desse trabalho'. No entanto, um acordo parece estar longe do alcance à medida que os combates na região...",
+          "id": "euronews-2026-07-18-14",
+          "titulo": "Ataques aéreos dos EUA atingem sites civis iranianos, Teerã ataca vizinhos do Golfo",
+          "resumo": "Em um discurso ao vivo para a nação, Trump disse que os EUA estavam 'vencendo grande' no Irã e que o público veria 'os frutos desse trabalho'. No entanto, um acordo parece estar longe do alcance, pois os combates na região...",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/17/us-strikes-iranian-civilian-infrastructure-tehran-retaliates-with-attacks-on-us-facilities",
           "publicado_em": "2026-07-17T04:55:21.000Z"
         },
         {
-          "id": "euronews-2026-07-17-2119",
-          "titulo": "Trump revive alegações de interferência nas eleições durante discurso à nação",
-          "resumo": "O presidente dos EUA disse que desclassificaria dados de inteligência que revelavam que a China havia adquirido ilegalmente 220 milhões de arquivos de eleitores dos EUA. A alegação de Trump contradiz revisões que não encontraram evidências de...",
+          "id": "euronews-2026-07-18-15",
+          "titulo": "Trump revive acusações de interferência eleitoral durante discurso à nação",
+          "resumo": "O presidente dos EUA disse que desclassificaria dados de inteligência que revelavam que a China havia adquirido ilegalmente 220 milhões de arquivos de votantes dos EUA. A alegação de Trump contradiz revisões que não encontraram evidências de...",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/17/trump-revives-claims-of-election-interference-during-address-to-nation",
           "publicado_em": "2026-07-17T03:41:10.000Z"
         },
         {
-          "id": "euronews-2026-07-17-2123",
+          "id": "euronews-2026-07-18-16",
           "titulo": "Incêndio em orfanato na Argélia mata 11 crianças e fere 19",
-          "resumo": "As autoridades argelinas não disseram qual foi a causa do incêndio mortal, que ocorreu durante uma onda de calor que provocou quase 1.000 incêndios.",
+          "resumo": "As autoridades argelinas não disseram o que causou o incêndio mortal, que ocorreu durante uma onda de calor que provocou quase 1.000 incêndios.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/16/fire-at-algerian-orphanage-kills-11-children-injures-19",
           "publicado_em": "2026-07-16T18:36:50.000Z"
-        },
-        {
-          "id": "euronews-2026-07-17-2124",
-          "titulo": "Apoiantes saúdam a lei de eutanásia da França",
-          "resumo": "Apoiantes saúdam a lei de eutanásia da França após o parlamento aprovar a legislação histórica, chamando-a de 'um grande alívio' para pessoas com doenças incuráveis. A lei ainda requer aprovação do...",
-          "imagem": null,
-          "link": "http://www.euronews.com/my-europe/2026/07/16/supporters-welcome-frances-assisted-dying-law",
-          "publicado_em": "2026-07-16T18:26:00.000Z"
         }
       ]
     },
