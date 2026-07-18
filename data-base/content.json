@@ -787,79 +787,167 @@
     "aa": {
       "slug": "aa",
       "nome": "AllAfrica",
-      "gerado_em": "2026-07-18T10:46:18.769Z",
+      "gerado_em": "2026-07-18T21:46:16.642Z",
       "artigos": [
         {
-          "id": "aa-2026-07-17-01",
-          "titulo": "Sudão: Fome Aumenta para Famílias Deslocadas em El Obeid",
-          "resumo": "Funcionários humanitários da ONU destacam necessidades crescentes entre mais de 100.000 pessoas deslocadas em El Obeid.",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202607170430.html",
-          "publicado_em": "2026-07-17T12:23:18.000Z"
-        },
-        {
-          "id": "aa-2026-07-17-02",
-          "titulo": "Congo-Kinshasa: Jornalistas Enfrentam Ameaças de Morte por Relatar Sobre a Guerra",
-          "resumo": "Jornalistas estão sendo ameaçados por milicianos aliados ao governo devido à cobertura da guerra.",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202607170354.html",
-          "publicado_em": "2026-07-17T11:45:32.000Z"
-        },
-        {
-          "id": "aa-2026-07-17-03",
-          "titulo": "África Central: Dívida Pública do Gabão Aumenta 23%",
-          "resumo": "A dívida pública do Gabão aumentou 23% em um ano, atingindo 8.780,3 bilhões de FCFA.",
+          "id": "aa-2026-07-17T23-28-33-01",
+          "titulo": "Dívida Pública da África Central: Dívida Pública do Gabão Aumenta 23% à medida que o Governo se Volta para Mercados Regionais",
+          "resumo": "A dívida pública do Gabão aumentou 23% em relação ao ano anterior, atingindo 8.780,3 bilhões de FCFA no final de dezembro de 2025, impulsionada por um aumento acentuado na contratação de empréstimos domésticos à medida que o governo se volta para os mercados regionais.",
           "imagem": null,
           "link": "https://allafrica.com/stories/202607170715.html",
           "publicado_em": "2026-07-17T23:28:33.000Z"
         },
         {
-          "id": "aa-2026-07-17-04",
-          "titulo": "Nigéria: Sequestro de Candidatos à Prova do Neco é Resolvido",
-          "resumo": "Quatro pessoas sequestradas foram resgatadas pela polícia em Kogi.",
+          "id": "aa-2026-07-17T23-28-32-02",
+          "titulo": "Costa do Marfim: EUA Apoiam a Costa do Marfim com Acordos Digitais, de Saúde e Logística",
+          "resumo": "Os Estados Unidos anunciaram uma série de acordos de investimento e comércio com a Costa do Marfim durante uma visita do Secretário Adjunto de Estado para Assuntos Africanos, Frank Garcia, incluindo aplicativos e outros.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607170713.html",
+          "publicado_em": "2026-07-17T23:28:32.000Z"
+        },
+        {
+          "id": "aa-2026-07-17T23-28-32-03",
+          "titulo": "África Ocidental: Rali da BRVM Pára à medida que a Tomada de Lucro Afeta o Ecobank Group",
+          "resumo": "A BRVM terminou em baixa após várias sessões de ganhos, à medida que os investidores lucram, puxando os principais índices do mercado para o território negativo, apesar de uma forte atividade comercial.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607170714.html",
+          "publicado_em": "2026-07-17T23:28:32.000Z"
+        },
+        {
+          "id": "aa-2026-07-17T23-28-31-04",
+          "titulo": "África: A Uber Concorda com um Acordo de $15 Bilhões para a Delivery Hero para Criar um Gigante Global de Entregas",
+          "resumo": "A Uber concordou em adquirir a Delivery Hero, da Alemanha, em um acordo que valoriza a empresa de entrega de alimentos em $14,8 bilhões, criando a maior plataforma de entrega de alimentos fora da China e expandindo.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607170712.html",
+          "publicado_em": "2026-07-17T23:28:31.000Z"
+        },
+        {
+          "id": "aa-2026-07-17T12-23-18-05",
+          "titulo": "Sudão: A Fome Aumenta para Famílias Deslocadas no Sudão",
+          "resumo": "Os humanitários da ONU que trabalham no Sudão devastado pela guerra destacaram as necessidades em rápida expansão entre as mais de 100.000 pessoas deslocadas que agora se abrigam em campos na cidade de El Obeid.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607170430.html",
+          "publicado_em": "2026-07-17T12:23:18.000Z"
+        },
+        {
+          "id": "aa-2026-07-17T11-45-32-06",
+          "titulo": "Congo-Kinshasa: No Leste da República Democrática do Congo, Jornalistas Enfrentam Morte, Ameaças de Incêndio por Relatar Sobre a Guerra",
+          "resumo": "Milicianos aliados ao governo Wazalendo ameaçaram matar ou capturar um repórter e incendiar a estação de rádio de outro devido à cobertura desfavorável, à medida que as linhas de frente mudam sob diplomacia.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607170354.html",
+          "publicado_em": "2026-07-17T11:45:32.000Z"
+        },
+        {
+          "id": "aa-2026-07-17T16-33-48-07",
+          "titulo": "Uganda: Funcionários do Governo, Polícia Realizam Reunião de Crise Sobre Acidentes de Turismo Escolar em Aumento",
+          "resumo": "Funcionários do Ministério da Educação e Esportes, Ministério das Obras e Transportes e Força Policial de Uganda realizaram uma reunião de crise para abordar o crescente número de acidentes de trânsito.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607170583.html",
+          "publicado_em": "2026-07-17T16:33:48.000Z"
+        },
+        {
+          "id": "aa-2026-07-17T12-12-18-08",
+          "titulo": "África do Sul: Sassa Demite Quatro Funcionários por Fraude de Subsídios Sociais de R33 Milhões",
+          "resumo": "A Agência de Seguridade Social da África do Sul (SASSA) demitiu quatro funcionários de seu escritório local de Nebo em Sekhukhune após serem considerados culpados por envolvimento em uma fraude de subsídios sociais.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607170408.html",
+          "publicado_em": "2026-07-17T12:12:18.000Z"
+        },
+        {
+          "id": "aa-2026-07-17T11-14-16-09",
+          "titulo": "Gana: GACC Treina 140 Partes Interessadas para Aumentar a Responsabilidade",
+          "resumo": "A Coalizão Anticorrupção de Gana (GACC) pediu uma ação coletiva mais forte para combater a corrupção no país, alertando que o problema continua a minar o desenvolvimento nacional.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607170292.html",
+          "publicado_em": "2026-07-17T11:14:16.000Z"
+        },
+        {
+          "id": "aa-2026-07-17T11-02-19-10",
+          "titulo": "África do Sul: Polícia Luta para Parar Vigilantes que Visam Imigrantes em Alexandra",
+          "resumo": "Um vendedor ambulante de Malawi disse: \"Acho que essas pessoas querem nos matar.\"",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607170273.html",
+          "publicado_em": "2026-07-17T11:02:19.000Z"
+        },
+        {
+          "id": "aa-2026-07-17T10-43-51-11",
+          "titulo": "Libéria: Senado Quer que Joekai Saia por causa de uma Camiseta Nimbo em um Comício Pró-Boakai",
+          "resumo": "Uma camiseta pode custar a Dr. Josiah F. Joekai Jr. seu emprego. O Senado da Libéria pediu ao Presidente Joseph Nyuma Boakai que sancione ou remova o chefe da Agência de Serviço Civil após uma decisão.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607170240.html",
+          "publicado_em": "2026-07-17T10:43:51.000Z"
+        },
+        {
+          "id": "aa-2026-07-17T09-59-51-12",
+          "titulo": "Sudão: G7 e UE Pedem Fim dos Ataques no Sudão e Embargo de Armas Mais Amplo",
+          "resumo": "Os ministros das Relações Exteriores do G7 e o chefe da política externa da UE pediram às Forças de Apoio Rápido do Sudão e a grupos armados aliados que parem todas as ações que possam levar a mais atrocidades.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607170219.html",
+          "publicado_em": "2026-07-17T09:59:51.000Z"
+        },
+        {
+          "id": "aa-2026-07-17T09-03-58-13",
+          "titulo": "África: Reino Unido Reduziria Ajuda a Alguns Países Africanos em 90%",
+          "resumo": "O governo do Reino Unido confirmou reduções significativas em seu programa de ajuda bilateral. Nove países africanos devem perder mais de 80% da assistência direta britânica até 2029, à medida que a ajuda externa.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607170151.html",
+          "publicado_em": "2026-07-17T09:03:58.000Z"
+        },
+        {
+          "id": "aa-2026-07-17T06-52-29-14",
+          "titulo": "África: Tudo sobre a África Hoje - 17 de Julho de 2026",
+          "resumo": "",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607170079.html",
+          "publicado_em": "2026-07-17T06:52:29.000Z"
+        },
+        {
+          "id": "aa-2026-07-17T06-48-45-15",
+          "titulo": "Nigéria: Nigerianos Querem Gasolina Mais Barata, mas a Batalha Renovada no Hormuz Não Fará Isso Acontecer",
+          "resumo": "Muitos nigerianos clamam para que os preços da gasolina voltem ao nível pré-guerra.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607170070.html",
+          "publicado_em": "2026-07-17T06:48:45.000Z"
+        },
+        {
+          "id": "aa-2026-07-17T05-07-15-16",
+          "titulo": "Uganda: Tragédia de Ônibus em Kapchorwa - 23 Alunos da Escola Ndejje Temem ter Morrido após uma Viagem Escolar se Tornar Fatal",
+          "resumo": "Kapchorwa: Pelo menos 23 alunos da Escola Junior King David Ndejje são temidos mortos após um acidente de trânsito no distrito de Kapchorwa na quinta-feira à noite, quando os alunos viajavam para uma viagem de campo.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607170042.html",
+          "publicado_em": "2026-07-17T05:07:15.000Z"
+        },
+        {
+          "id": "aa-2026-07-17T16-39-17-17",
+          "titulo": "Uganda: Notas de Anthony Natif do Tribunal - Uganda vs. Molly Katanga e Outros, 16 de Julho de 2026, B",
+          "resumo": "As últimas semanas no caso Katanga foram sobre chegar ao fundo das provas de DNA e suas implicações para entender se a Sra. Molly Katanga e/ou seu falecido.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202607170606.html",
+          "publicado_em": "2026-07-17T16:39:17.000Z"
+        },
+        {
+          "id": "aa-2026-07-17T16-37-11-18",
+          "titulo": "Nigéria: Ododo Reafirma Política de Não-Resgate à medida que Forças de Segurança Resgatam Candidatos do Neco Sequestrados em Kogi",
+          "resumo": "O governador de Kogi, Alhaji Ahmed Usman Ododo, reiterou a política de seu governo de não negociar com sequestradores ou pagar resgate, após o resgate bem-sucedido de quatro pessoas.",
           "imagem": null,
           "link": "https://allafrica.com/stories/202607170601.html",
           "publicado_em": "2026-07-17T16:37:11.000Z"
         },
         {
-          "id": "aa-2026-07-17-05",
-          "titulo": "Liberia: Conselho de Sociedade Civil Desafia Suspensão do Presidente da Comissão de Direitos Humanos",
-          "resumo": "O Conselho de Sociedade Civil da Libéria criticou a suspensão do presidente da Comissão de Direitos Humanos.",
+          "id": "aa-2026-07-17T16-36-15-19",
+          "titulo": "Libéria: Conselho de Sociedade Civil Desafia a Suspensão do Presidente da Comissão de Direitos Humanos, Cita Violações Constitucionais",
+          "resumo": "O Conselho Nacional de Sociedade Civil da Libéria (NCSCL), juntamente com suas coalizões de direitos humanos baseadas em membros, criticou severamente a decisão do Presidente Joseph Nyuma Boakai de.",
           "imagem": null,
           "link": "https://allafrica.com/stories/202607170599.html",
           "publicado_em": "2026-07-17T16:36:15.000Z"
         },
         {
-          "id": "aa-2026-07-17-06",
-          "titulo": "Quênia: Gachagua Acusa Murkomen de Orquestrar Violência",
-          "resumo": "Rigathi Gachagua acusou Kipchumba Murkomen de orquestrar a violência durante as eleições.",
+          "id": "aa-2026-07-17T16-34-04-20",
+          "titulo": "Quênia: Gachagua Culpa Murkomen por Alegada Violência Durante a Eleição de Ol Kalou",
+          "resumo": "O líder do partido Democracia para os Cidadãos, Rigathi Gachagua, intensificou seus ataques ao Secretário do Interior, Kipchumba Murkomen, acusando-o de orquestrar o.",
           "imagem": null,
           "link": "https://allafrica.com/stories/202607170584.html",
           "publicado_em": "2026-07-17T16:34:04.000Z"
-        },
-        {
-          "id": "aa-2026-07-17-07",
-          "titulo": "Zimbábue: Governo Planeja Centros de Reabilitação para Dependentes Químicos",
-          "resumo": "O governo do Zimbábue planeja estabelecer centros de reabilitação para dependentes químicos em todo o país.",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202607170582.html",
-          "publicado_em": "2026-07-17T16:33:29.000Z"
-        },
-        {
-          "id": "aa-2026-07-17-08",
-          "titulo": "Namíbia e África do Sul Devem Parar de Exportar Oportunidades",
-          "resumo": "O presidente da África do Sul, Cyril Ramaphosa, pediu que Namíbia e África do Sul parem de exportar oportunidades.",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202607170581.html",
-          "publicado_em": "2026-07-17T16:32:48.000Z"
-        },
-        {
-          "id": "aa-2026-07-17-09",
-          "titulo": "Ruanda: Kagame Exorta Rwandenses a Rejeitar a Dependência de Ajuda",
-          "resumo": "O presidente de Ruanda, Paul Kagame, pediu que os cidadãos do país rejeitem a dependência de ajuda externa.",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202607170545.html",
-          "publicado_em": "2026-07-17T16:24:04.000Z"
         }
       ]
     },
