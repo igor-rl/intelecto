@@ -398,143 +398,167 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-07-18T10:15:48.071Z",
+      "gerado_em": "2026-07-18T21:15:42.149Z",
       "artigos": [
         {
-          "id": "rt-2026-07-18-01",
+          "id": "rt-2026-07-18-2101-01",
+          "titulo": "Líder parlamentar alemão renuncia devido a controvérsia sobre gestação de substituição",
+          "resumo": "O líder parlamentar da coalizão governista da Alemanha foi forçado a renunciar após ter um filho por gestação de substituição com o marido",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5be86785f540179d44e412.jpg",
+          "link": "https://www.rt.com/news/643204-german-gay-mp-scandal/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-18T20:56:23-03:00"
+        },
+        {
+          "id": "rt-2026-07-18-2102-02",
+          "titulo": "Nenhuma acusação foi apresentada após a morte de dezenas de detentos palestinos sob custódia israelense – Haaretz",
+          "resumo": "As investigações das Forças de Defesa de Israel sobre as mortes de dezenas de detentos palestinos não resultaram em nenhuma acusação, de acordo com o Haaretz",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5be2f92030277a660054d8.jpg",
+          "link": "https://www.rt.com/news/643216-zero-charges-filed-palestinian-detainee-deaths-idf-custody/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-18T20:33:49-03:00"
+        },
+        {
+          "id": "rt-2026-07-18-2103-03",
+          "titulo": "Dois militares americanos mortos em ataques retaliatórios iranianos – Pentágono",
+          "resumo": "Dois militares americanos foram mortos em ataques de mísseis e drones iranianos contra instalações militares na Jordânia, informou o Pentágono",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5bc5cc20302704c002fe00.png",
+          "link": "https://www.rt.com/news/643205-two-us-service-members-killed-iranian-retaliatory-strikes-pentagon/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-18T17:52:53-03:00"
+        },
+        {
+          "id": "rt-2026-07-18-2104-04",
+          "titulo": "Ucrânia pode sofrer derrota militar – comandante sênior",
+          "resumo": "A Ucrânia pode sofrer uma derrota, pois a cadeia de comando do exército está se tornando cada vez mais ineficaz, disse o brigadeiro-general Sergey Sobko",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5b8e4485f540277161a3cc.jpg",
+          "link": "https://www.rt.com/russia/643202-ukraine-staring-defeat-senior-commander/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-18T16:10:10-03:00"
+        },
+        {
+          "id": "rt-2026-07-18-2105-05",
+          "titulo": "Rússia destrói defesas ucranianas em cidade-chave de Donbass – Ministério da Defesa",
+          "resumo": "A Rússia destruiu as defesas ucranianas na cidade-chave de Krasny Liman, anunciou o chefe do Estado-Maior Valery Gerasimov",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5ba60f20302770f3363407.jpg",
+          "link": "https://www.rt.com/russia/643203-russia-on-track-liberate-liman/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-18T15:51:11-03:00"
+        },
+        {
+          "id": "rt-2026-07-18-2106-06",
+          "titulo": "Drones russos com IA atacam navios ucranianos (VÍDEOS)",
+          "resumo": "Tropas russas atingiram vários navios que transportavam carga militar para a Ucrânia com drones com IA",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5b9e9185f54018b7592973.png",
+          "link": "https://www.rt.com/russia/643201-ukraine-shipping-drone-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-18T15:47:20-03:00"
+        },
+        {
+          "id": "rt-2026-07-18-2107-07",
+          "titulo": "Prefeito de Moscou compartilha mapa de ataques de drones ucranianos na região de Moscou (VÍDEO)",
+          "resumo": "Quase 1.900 drones ucranianos atacaram a região de Moscou em uma semana, disse Sergey Sobyanin, após ataques a depósitos da Wildberries que mataram oito pessoas",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5b7c2c2030277f8a6798b9.png",
+          "link": "https://www.rt.com/russia/643200-moscow-mayor-map-ukraine-drones/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-18T14:26:29-03:00"
+        },
+        {
+          "id": "rt-2026-07-18-2108-08",
+          "titulo": "Legisladores americanos alertam contra projeto de lei de sanções à Rússia",
+          "resumo": "Legisladores democratas pediram ao Congresso que bloqueasse o projeto de lei de sanções à Rússia do falecido Lindsey Graham, alertando sobre danos às relações comerciais americanas",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5b57cf85f5400f4b4c7462.jpg",
+          "link": "https://www.rt.com/news/643198-democrats-warn-against-russia-sanctions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-18T10:43:16-03:00"
+        },
+        {
+          "id": "rt-2026-07-18-2109-09",
           "titulo": "O Mandela que eles querem que você esqueça: O estrategista que desafiou o Ocidente",
           "resumo": "Ao rejeitar a política de proxy e exigir um assento equitativo na mesa de decisões globais, o continente está realizando a visão de Mandela",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a561bdc203027367618125f.jpg",
           "link": "https://www.rt.com/africa/643019-mandela-african-legacy-sovereign-policy/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-18T08:58:52.000Z"
+          "publicado_em": "2026-07-18T08:58:52-03:00"
         },
         {
-          "id": "rt-2026-07-18-02",
-          "titulo": "UE preenche buraco orçamentário com multa recorde da Google",
-          "resumo": "A multa antitruste recorde da Google será incorporada ao orçamento da UE, reduzindo as contribuições dos estados-membros diante da pressão de gastos crescente",
+          "id": "rt-2026-07-18-2110-10",
+          "titulo": "UE preenche buraco orçamentário com multa gigante da Google",
+          "resumo": "A multa antitruste recorde da Google será incorporada ao orçamento da UE, reduzindo as contribuições dos estados-membros diante da pressão crescente sobre os gastos",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5a3dd6203027218e5f5703.jpg",
           "link": "https://www.rt.com/news/643174-google-fine-eu-budget/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-18T08:28:01.000Z"
+          "publicado_em": "2026-07-18T08:28:01-03:00"
         },
         {
-          "id": "rt-2026-07-18-03",
+          "id": "rt-2026-07-18-2111-11",
           "titulo": "Trump ‘traíção’ coloca EUA no caminho para a revolução – Tucker Carlson",
-          "resumo": "O presidente dos EUA, Donald Trump, foi “desleal” aos seus apoiadores, colocando o país no caminho para a revolução, disse Tucker Carlson",
+          "resumo": "O presidente americano Donald Trump foi “desleal” aos seus apoiadores, colocando o país no caminho para a revolução, disse Tucker Carlson",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5a687985f540098b462926.jpg",
           "link": "https://www.rt.com/news/643173-tucker-carlson-us-trump-revolution/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-18T03:56:51.000Z"
+          "publicado_em": "2026-07-18T03:56:51-03:00"
         },
         {
-          "id": "rt-2026-07-18-04",
-          "titulo": "Ataque de drone ucraniano mata sete trabalhadores de armazém russos – governador",
-          "resumo": "A Ucrânia atacou dois centros logísticos operados pelo varejista online russo Wildberries nas regiões de Tambov e Moscou durante a noite",
+          "id": "rt-2026-07-18-2112-12",
+          "titulo": "Drones ucranianos atacaram deliberadamente civis russos em ataque letal a armazém – sobrevivente",
+          "resumo": "Drones ucranianos atacaram deliberadamente civis durante um ataque letal a um armazém na região de Tambov, na Rússia, disse um sobrevivente",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5b3d1385f540529a7b0b47.png",
           "link": "https://www.rt.com/russia/643197-ukrainian-drones-wildberries-warehouse/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-18T03:23:14.000Z"
+          "publicado_em": "2026-07-18T03:23:14-03:00"
         },
         {
-          "id": "rt-2026-07-18-05",
-          "titulo": "Tropas dos EUA feridas em ataques iranianos – CBS (VÍDEOS)",
-          "resumo": "Vários militares dos EUA foram feridos quando ataques iranianos atingiram instalações militares na Jordânia no início da semana, de acordo com a CBS News",
+          "id": "rt-2026-07-18-2113-13",
+          "titulo": "Militares americanos feridos em ataques iranianos – CBS (VÍDEOS)",
+          "resumo": "Vários militares americanos foram feridos quando ataques iranianos atingiram instalações militares na Jordânia, informou a CBS News",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5ae20f85f5400ea567b2f8.png",
           "link": "https://www.rt.com/news/643195-bahrain-us-troops-injured/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-18T02:29:20.000Z"
+          "publicado_em": "2026-07-18T02:29:20-03:00"
         },
         {
-          "id": "rt-2026-07-18-06",
-          "titulo": "Trump ameaça Canadá sobre incêndios florestais antes da final da Copa do Mundo (VÍDEOS)",
-          "resumo": "O presidente dos EUA, Donald Trump, ameaçou impor tarifas adicionais ao Canadá devido à fumaça de incêndios florestais que cobriu grande parte do nordeste dos EUA",
+          "id": "rt-2026-07-18-2114-14",
+          "titulo": "Truth Social de Trump venderá acesso antecipado a posts ‘que movem o mercado’",
+          "resumo": "O Truth Social venderá aos investidores acesso antecipado a posts de contas de destaque, provavelmente incluindo os de Trump, e alimentando preocupações sobre conflito de interesses",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5a20022030270f70482809.jpg",
+          "link": "https://www.rt.com/news/643166-trump-truth-social-access-posts/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-18T01:15:44-03:00"
+        },
+        {
+          "id": "rt-2026-07-18-2115-15",
+          "titulo": "Trump ameaça Canadá devido a incêndios florestais antes da final da Copa do Mundo (VÍDEOS)",
+          "resumo": "O presidente americano Donald Trump ameaçou impor tarifas adicionais ao Canadá devido à fumaça de incêndios florestais que cobriu grande parte do nordeste americano",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5ac09520302725f10af330.jpg",
           "link": "https://www.rt.com/news/643194-us-wildfire-smoke-fifa/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-17T23:54:50.000Z"
+          "publicado_em": "2026-07-17T23:54:50-03:00"
         },
         {
-          "id": "rt-2026-07-18-07",
-          "titulo": "IRGC afirma ter atacado depósito de drones dos EUA e hub de IA no Bahrein",
-          "resumo": "Teerã advertiu que o Estreito de Ormuz permanece “extremamente inseguro e completamente fechado” diante da agressão contínua dos EUA",
+          "id": "rt-2026-07-18-2116-16",
+          "titulo": "IRGC afirma ter atacado depósito de drones e hub de IA dos EUA no Bahrein",
+          "resumo": "Teerã alertou que o Estreito de Ormuz permanece “extremamente inseguro e completamente fechado” diante da agressão americana contínua",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5ab2db203027252c72de19.png",
           "link": "https://www.rt.com/news/643193-iran-us-drone-ai-bahrain/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-17T22:59:49.000Z"
+          "publicado_em": "2026-07-17T22:59:49-03:00"
         },
         {
-          "id": "rt-2026-07-18-08",
+          "id": "rt-2026-07-18-2117-17",
           "titulo": "Roger Waters critica o Ocidente por banir a RT",
           "resumo": "O co-fundador do Pink Floyd, Roger Waters, criticou os governos ocidentais por banir a RT e se preparar para um conflito com a Rússia",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5a8fad85f5407c881fe718.jpg",
           "link": "https://www.rt.com/news/643192-roger-waters-rt-ban/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-17T22:07:13.000Z"
+          "publicado_em": "2026-07-17T22:07:13-03:00"
         },
         {
-          "id": "rt-2026-07-18-09",
-          "titulo": "Assassinato de empresário ucraniano em Mônaco (VÍDEO)",
-          "resumo": "Promotores ucranianos divulgaram um vídeo mostrando a tentativa de assassinato do empresário Vadim Ermolaev em Mônaco",
+          "id": "rt-2026-07-18-2118-18",
+          "titulo": "Lançamento do SpaceX Starship cancelado momentos antes da decolagem (VÍDEO)",
+          "resumo": "Um voo de teste da SpaceX Starship foi abortado segundos antes da decolagem após vários motores do foguete falharem ao iniciar",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5a998c85f5401b9c59cac4.jpg",
+          "link": "https://www.rt.com/news/643179-spacex-starship-launch-aborted/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-17T21:07:36-03:00"
+        },
+        {
+          "id": "rt-2026-07-18-2119-19",
+          "titulo": "ASSISTA ao momento em que uma bomba explode em tentativa de assassinato de milionário ucraniano em Mônaco",
+          "resumo": "Os promotores ucranianos divulgaram um vídeo mostrando a tentativa de assassinato do empresário Vadim Ermolaev em Mônaco",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5a666985f54079696d3fc7.png",
           "link": "https://www.rt.com/news/643190-monaco-bombing-video-released/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-17T20:58:01.000Z"
+          "publicado_em": "2026-07-17T20:58:01-03:00"
         },
         {
-          "id": "rt-2026-07-18-10",
-          "titulo": "Israel planeja usar crocodilos para guardar prisioneiros palestinos – mídia",
+          "id": "rt-2026-07-18-2120-20",
+          "titulo": "Israel planeja usar crocodilos para guardar presos palestinos – mídia",
           "resumo": "Israel removeu uma barreira legal para usar crocodilos do Nilo em prisões, reclassificando os répteis como “animais domesticados”",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5a88cd203027218e5f571c.jpg",
           "link": "https://www.rt.com/news/643191-israel-crocodile-palestinian-prison/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-17T19:56:27.000Z"
-        },
-        {
-          "id": "rt-2026-07-18-11",
-          "titulo": "Ex-chefe de agência de modelos francês acusado de estuprar menores",
-          "resumo": "O ex-chefe da Elite Europe, Gerald Marie, enfrenta seis denúncias de estupro de modelos menores de idade, além de alegações de mais de uma dúzia de mulheres",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5a3c9185f540782836a527.jpg",
-          "link": "https://www.rt.com/news/643176-french-modeling-agency-ex-boss-accused-raping-minors/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-17T17:29:52.000Z"
-        },
-        {
-          "id": "rt-2026-07-18-12",
-          "titulo": "Tarifas dos EUA sobre o Brasil aumentam preocupações da Índia sobre acordo comercial",
-          "resumo": "A decisão dos EUA de impor tarifas sobre o Brasil despertou preocupações na Índia, levando Nova Délhi a proceder com cautela em um acordo comercial",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5a4e26203027218e5f5710.jpg",
-          "link": "https://www.rt.com/india/643186-us-tariffs-india-brazil/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-17T16:30:57.000Z"
-        },
-        {
-          "id": "rt-2026-07-18-13",
-          "titulo": "Presidente polonês veta projeto de lei de parceria civil pró-LGBTQ+",
-          "resumo": "O presidente da Polônia, Karol Nawrocki, vetou um projeto de lei pró-LGBTQ+ que introduzia “contratos de coabitação” para casais não casados",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5a540185f54017b4751e16.jpg",
-          "link": "https://www.rt.com/news/643187-poland-lgbtq-partnership-veto/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-17T16:10:27.000Z"
-        },
-        {
-          "id": "rt-2026-07-18-14",
-          "titulo": "A guerra deve continuar: A OTAN planeja sem um final",
-          "resumo": "O apoio militar de longo prazo à Ucrânia se tornou uma política rotineira, mostrando que Bruxelas e Washington não veem a paz como uma opção",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5a48a385f5400ab7543862.jpg",
-          "link": "https://www.rt.com/news/643181-nato-ukraine-no-endgame/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-17T15:22:54.000Z"
-        },
-        {
-          "id": "rt-2026-07-18-15",
-          "titulo": "Rússia deve permanecer como o principal fornecedor de petróleo da Índia, apesar de novas sanções dos EUA",
-          "resumo": "A Rússia provavelmente será o principal fornecedor de petróleo da Índia em julho e agosto, apesar da ameaça de novas sanções dos EUA",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5a4246203027223d7c87e8.jpg",
-          "link": "https://www.rt.com/india/643178-russia-india-oil-sanctions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-17T15:19:29.000Z"
-        },
-        {
-          "id": "rt-2026-07-18-16",
-          "titulo": "Kremlin responde a acusações de interferência nas eleições dos EUA",
-          "resumo": "Moscou rejeitou as acusações dos EUA de interferência nas eleições, afirmando que elas se baseiam em inteligência não comprovada",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5a415b203027768f21b580.jpg",
-          "link": "https://www.rt.com/russia/643177-kremlin-responds-us-election-meddling/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-17T15:04:12.000Z"
-        },
-        {
-          "id": "rt-2026-07-18-17",
-          "titulo": "Ataques anti-ucranianos disparam na Polônia",
-          "resumo": "As denúncias de crimes de ódio anti-ucranianos na Polônia aumentaram 30% no início de 2026, de acordo com dados da polícia citados pelo Rzeczpospolita",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5a30ce203027218e5f56f8.jpg",
-          "link": "https://www.rt.com/news/643168-poland-ukraine-hate-crimes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-17T14:23:34.000Z"
+          "publicado_em": "2026-07-17T19:56:27-03:00"
         }
       ]
     },
