@@ -105,55 +105,103 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-07-18T10:00:00.867Z",
+      "gerado_em": "2026-07-18T21:00:01.582Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-07-18-01",
-          "titulo": "Israel Contra Espionagem Iraniana com Advertências Contra Recrutamento",
-          "resumo": "As autoridades israelenses implementaram uma ampla gama de contramedidas para conter o que descrevem como esforços de recrutamento online por agentes iranianos.",
+          "id": "new_york_times-2026-07-18-2101",
+          "titulo": "Por Que a Jordânia Está Se Tornando um Novo Foco na Guerra EUA-Irã",
+          "resumo": "Quatro ataques iranianos em cinco dias visaram tropas dos EUA na Jordânia, disseram funcionários dos EUA, incluindo um na sexta-feira que matou dois soldados e deixou outro membro do serviço desaparecido.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/18/world/middleeast/israel-recruits-rabbis-iran.html",
-          "publicado_em": "2026-07-18T09:00:35.000Z"
+          "link": "https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html",
+          "publicado_em": "2026-07-18T20:45:43.000Z"
         },
         {
-          "id": "new_york_times-2026-07-18-02",
-          "titulo": "Lamine Yamal, Estrela do Futebol e Filho de Imigrantes Africanos, Personifica uma Espanha em Mudança",
-          "resumo": "À medida que se prepara para a final da Copa do Mundo, Lamine Yamal, 19, está no centro de um debate nacional sobre o que significa ser espanhol em uma sociedade cada vez mais multicultural.",
+          "id": "new_york_times-2026-07-18-2102",
+          "titulo": "Ataques dos EUA Deixam Iranianos Isolados e Com Medo",
+          "resumo": "Ataques noturnos danificaram um túnel e três pontes na província de Hormozgan, disse o escritório do governador.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/18/world/europe/spain-lamine-yamal.html",
-          "publicado_em": "2026-07-18T09:02:09.000Z"
+          "link": "https://www.nytimes.com/2026/07/18/world/middleeast/us-iran-war-strikes-bridges-bandar-abbas.html",
+          "publicado_em": "2026-07-18T16:02:40.000Z"
         },
         {
-          "id": "new_york_times-2026-07-18-03",
-          "titulo": "Projeto de Lei da Rússia Amplia Sanções, mas Pode Aumentar Medos Sobre o Dólar",
-          "resumo": "A administração Trump recentemente buscou reduzir sanções à medida que adversários desenvolvem soluções que alguns acreditam poderem erodir a supremacia do dólar americano.",
+          "id": "new_york_times-2026-07-18-2104",
+          "titulo": "Mamdani Diz que Pode Ainda Ordenar a Prisão do Primeiro-Ministro de Israel Netanyahu em NYC",
+          "resumo": "O prefeito Zohran Mamdani disse em uma entrevista ao The New York Times que estava em \"uma conversa ativa\" com o Departamento de Lei de Nova York sobre se ele tinha a autoridade para prender o líder israelense...",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html",
-          "publicado_em": "2026-07-18T09:01:37.000Z"
+          "link": "https://www.nytimes.com/2026/07/18/nyregion/mamdani-netanyahu-interview.html",
+          "publicado_em": "2026-07-18T15:06:36.000Z"
         },
         {
-          "id": "new_york_times-2026-07-18-04",
-          "titulo": "Enquanto Trump Discute com Meloni, Seu Embaixador na Itália Está Perdido",
-          "resumo": "Tilman J. Fertitta, embaixador dos EUA em Roma, está passando o verão em seu iate de luxo enquanto o presidente Trump discute com a primeira-ministra Giorgia Meloni da Itália.",
+          "id": "new_york_times-2026-07-18-2105",
+          "titulo": "Sem Platner, Democratas do Maine Se Esforçam para Manter a Energia das Raízes Vivas",
+          "resumo": "A campanha de Graham Platner para o Senado implodiu na semana passada. Os ativistas que o apoiaram estão procurando um candidato para levar sua mensagem populista na corrida contra a republicana Susan Collins.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/18/us/politics/platner-voters-maine-senate.html",
+          "publicado_em": "2026-07-18T09:02:12.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-18-2106",
+          "titulo": "Mike Lindell Não Está Registrado para Votar em Minnesota, Onde Ele Está Correndo para Governador",
+          "resumo": "O presidente Trump apoiou Mike Lindell, um líder do movimento de negação de eleições, para governador de Minnesota esta semana.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/18/us/mike-lindell-mypillow-minnsota-governor-election.html",
+          "publicado_em": "2026-07-18T17:08:41.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-18-2107",
+          "titulo": "Cindy Burbank, Candidata Democrata ao Senado do Nebraska, Arquiva para se Retirar da Corrida",
+          "resumo": "A medida de Cindy Burbank pode abrir caminho para Dan Osborn, um candidato independente apoiado pela liderança do partido.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/18/us/politics/nebraska-senate-race-democrat-withdraw.html",
+          "publicado_em": "2026-07-18T19:25:16.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-18-2108",
+          "titulo": "Um CPAC Muito Britânico: Poucos, se Alguns, Disfarces e Pouco Trump",
+          "resumo": "Londres sediou uma versão contida da Conferência de Ação Política Conservadora, conhecida nos EUA por sua celebração exagerada de causas MAGA.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/18/world/europe/cpac-great-britain-farage.html",
+          "publicado_em": "2026-07-18T16:48:22.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-18-2110",
+          "titulo": "À Medida que Trump Briga com Meloni, Seu Embaixador na Itália Está no Mar",
+          "resumo": "Tilman J. Fertitta, embaixador dos EUA em Roma, está passando o verão em seu iate enquanto o presidente Trump discute com a primeira-ministra Giorgia Meloni da Itália.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/18/world/europe/tilman-fertitta-superyacht-italy-ambassador.html",
-          "publicado_em": "2026-07-18T04:01:16.000Z"
+          "publicado_em": "2026-07-18T15:45:27.000Z"
         },
         {
-          "id": "new_york_times-2026-07-18-05",
-          "titulo": "Incêndios: Novamente",
-          "resumo": "Havia céus alaranjados em 2023, 2025 e agora novamente em 2026. Ao longo dos últimos anos, uma coisa ficou claramente evidente: a Costa Leste está totalmente despreparada para o próximo desastre climático, incêndio...",
+          "id": "new_york_times-2026-07-18-2114",
+          "titulo": "O que os EUA e o Canadá Podem Esperar da Fumaça dos Incêndios Florestais Este Fim de Semana",
+          "resumo": "A fumaça não vai embora, mas onde afeta a qualidade do ar mudará nos próximos dias. As condições estavam melhorando no sábado para partes do Nordeste, disse um previsão.",
           "imagem": null,
-          "link": "https://www.nytimes.com/video/opinion/100000011034989/on-fire-again.html",
-          "publicado_em": "2026-07-17T21:28:47.000Z"
+          "link": "https://www.nytimes.com/2026/07/18/weather/canada-wildfires-smoke-updates-today.html",
+          "publicado_em": "2026-07-18T16:15:48.000Z"
         },
         {
-          "id": "new_york_times-2026-07-18-06",
-          "titulo": "Como Trump Abusou do Poder para Desclassificar Segredos dos EUA",
-          "resumo": "O presidente está manipulando a comunidade de inteligência para transformá-la em uma ferramenta de desinformação.",
+          "id": "new_york_times-2026-07-18-2115",
+          "titulo": "Incêndios Florestais Continuam a Queimar em Ontário, Canadá, Enviando Fumaça para Cidades dos EUA",
+          "resumo": "Quase 200 incêndios continuam a devastar vastas áreas da província enquanto a fumaça continua a se espalhar por partes do Canadá e dos EUA.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/17/opinion/trump-speech-us-intelligence-secrets-classified.html",
-          "publicado_em": "2026-07-17T23:06:52.000Z"
+          "link": "https://www.nytimes.com/2026/07/18/world/canada/ontario-wildfires-smoke-thunder-bay-canada.html",
+          "publicado_em": "2026-07-18T18:03:18.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-18-2116",
+          "titulo": "Dezenas de Incêndios Florestais Estão Queimando Repentinamente em Oregon",
+          "resumo": "O estado disse a milhares de pessoas para estarem prontas para evacuar.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/17/weather/oregon-wildfires-smoke-canada.html",
+          "publicado_em": "2026-07-17T22:12:40.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-18-2117",
+          "titulo": "Meu Filho Foi Morto pela ICE. Eu Quero Responsabilidade.",
+          "resumo": "Eu mereço responsabilidade e transparência, e assim também o público.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/18/opinion/ice-shooting-ruben-ray-martinez-texas.html",
+          "publicado_em": "2026-07-18T11:00:11.000Z"
         }
       ]
     },
