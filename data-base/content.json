@@ -652,7 +652,7 @@
     "mt": {
       "slug": "mt",
       "nome": "The Moscow Times",
-      "gerado_em": "2026-07-18T10:46:07.756Z",
+      "gerado_em": "2026-07-18T21:46:06.888Z",
       "artigos": [
         {
           "id": "mt-2026-07-18-01",
@@ -660,7 +660,7 @@
           "resumo": "Uma onda de drones ucranianos atingiu dois armazéns pertencentes ao varejista online Wildberries, bem como uma refinaria de petróleo na região de Moscou.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/18/ukrainian-drone-attacks-kill-seven-warehouse-workers-in-russia-a93280",
-          "publicado_em": "2026-07-18T08:06:31.000Z"
+          "publicado_em": "2026-07-18T08:06:31-03:00"
         },
         {
           "id": "mt-2026-07-18-02",
@@ -668,7 +668,7 @@
           "resumo": "Os bancos estão cada vez mais expostos à medida que as altas taxas de juros e o crescimento lento tornam mais difícil para as empresas e os lares pagarem suas dívidas.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/17/could-russias-wartime-debt-boom-trigger-a-banking-crisis-a93271",
-          "publicado_em": "2026-07-17T15:20:00.000Z"
+          "publicado_em": "2026-07-17T15:20:00-03:00"
         },
         {
           "id": "mt-2026-07-18-03",
@@ -676,7 +676,7 @@
           "resumo": "O ministro das Relações Exteriores da Rússia, Sergei Lavrov, disse que ambos os países agora “resolveram todas as questões” relacionadas ao abate de um jato de passageiros azeri no final de 2024.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/17/azerbaijan-and-russia-to-restore-direct-flights-halted-after-deadly-plane-crash-a93278",
-          "publicado_em": "2026-07-17T14:21:53.000Z"
+          "publicado_em": "2026-07-17T14:21:53-03:00"
         },
         {
           "id": "mt-2026-07-18-04",
@@ -684,31 +684,31 @@
           "resumo": "“A Rússia nunca interferiu nos assuntos internos de outros países”, disse o porta-voz do Kremlin, Dmitry Peskov, aos repórteres.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/17/kremlin-rejects-trumps-election-interference-claim-a93277",
-          "publicado_em": "2026-07-17T12:27:00.000Z"
+          "publicado_em": "2026-07-17T12:27:00-03:00"
         },
         {
           "id": "mt-2026-07-18-05",
           "titulo": "Um parlamentar disse que uma lei de violência doméstica minaria as famílias. Então veio a reação.",
-          "resumo": "Mulheres foram às redes sociais para criticar a afirmação do deputado da Duma Estatal, Nina Ostanina, de que uma lei de violência doméstica desencorajaria os homens a se casarem.",
+          "resumo": "Mulheres foram às redes sociais para criticar a afirmação da deputada da Duma Estatal, Nina Ostanina, de que uma lei de violência doméstica desencorajaria os homens a se casarem.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/17/a-lawmaker-said-a-domestic-violence-law-would-undermine-families-then-came-the-backlash-a93269",
-          "publicado_em": "2026-07-17T11:39:00.000Z"
+          "publicado_em": "2026-07-17T11:39:00-03:00"
         },
         {
           "id": "mt-2026-07-18-06",
           "titulo": "Tribunal da região de Moscou multa Nadezhdin em $13 por foto ‘extremista’ de Navalny",
-          "resumo": "A condenação significa que Nadezhdin agora está proibido de coletar assinaturas para aparecer na cédula para as eleições da Duma Estatal deste setembro.",
+          "resumo": "A condenação significa que Nadezhdin agora está proibido de coletar assinaturas para aparecer na cédula para as eleições da Duma Estatal em setembro.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/17/moscow-region-court-fines-nadezhdin-13-for-extremist-navalny-photo-a93276",
-          "publicado_em": "2026-07-17T10:37:00.000Z"
+          "publicado_em": "2026-07-17T10:37:00-03:00"
         },
         {
           "id": "mt-2026-07-18-07",
           "titulo": "Blogueiro pró-Kremlin é preso por ‘fakes de guerra’ meses após denunciar Putin",
-          "resumo": "Em março, Ilya Remeslo chocou tanto os apoiadores quanto os críticos quando denunciou publicamente o presidente Vladimir Putin em um manifesto contundente.",
+          "resumo": "Em março, Ilya Remeslo chocou tanto apoiadores quanto críticos quando denunciou publicamente o presidente Vladimir Putin em um manifesto contundente.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/17/pro-kremlin-blogger-arrested-for-war-fakes-months-after-denouncing-putin-a93275",
-          "publicado_em": "2026-07-17T09:38:38.000Z"
+          "publicado_em": "2026-07-17T09:38:38-03:00"
         },
         {
           "id": "mt-2026-07-18-08",
@@ -716,95 +716,71 @@
           "resumo": "Putin emitiu uma diretiva no mês passado ordenando um cronograma de entrega de combustível estrito para as fazendas para contrariar o impacto dos ataques ucranianos nas refinarias de petróleo.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/17/agriculture-minister-admits-to-rough-patches-as-fuel-shortages-squeeze-some-farmers-a93274",
-          "publicado_em": "2026-07-17T08:51:01.000Z"
+          "publicado_em": "2026-07-17T08:51:01-03:00"
         },
         {
           "id": "mt-2026-07-18-09",
-          "titulo": "Nadezhdin proibido de deixar a Rússia antes da audiência no tribunal",
-          "resumo": "Boris Nadezhdin, que ganhou destaque durante uma tentativa fracassada de candidatura presidencial em 2024 em uma plataforma pró-paz, foi designado como um ‘agente estrangeiro’ na semana passada.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/16/nadezhdin-banned-from-leaving-russia-ahead-of-court-hearing-a93268",
-          "publicado_em": "2026-07-16T13:39:13.000Z"
-        },
-        {
-          "id": "mt-2026-07-18-10",
-          "titulo": "Blogueiros militares pró-Kremlin comemoram a mudança no Ministério da Defesa da Ucrânia",
-          "resumo": "Blogueiros militares pró-Kremlin chamaram Mykhailo Fedorov de ‘inimigo muito inteligente e eficaz’.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/16/things-should-get-easier-now-russian-military-bloggers-cheer-ukraines-defense-minister-shake-up-a93267",
-          "publicado_em": "2026-07-16T12:57:00.000Z"
-        },
-        {
-          "id": "mt-2026-07-18-11",
-          "titulo": "Ações da Gazprom atingem mínimo histórico",
-          "resumo": "As ações da Gazprom caíram mais de 5% para um mínimo de 83,98 rublos por ação por volta do meio-dia, horário de Moscou, rompendo o recorde anterior de 84 rublos por ação estabelecido durante a crise financeira global de 2008.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/16/gazproms-shares-sink-to-record-low-a93266",
-          "publicado_em": "2026-07-16T12:45:00.000Z"
-        },
-        {
-          "id": "mt-2026-07-18-12",
           "titulo": "Rússia e Ucrânia trocam corpos de mais de 530 soldados mortos",
           "resumo": "A Ucrânia recebeu 501 corpos de seus soldados, enquanto entregou à Rússia os restos de 31 soldados, disse Shamsail Saraliyev, um deputado da Duma Estatal, ao RBC.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/16/russia-and-ukraine-exchange-bodies-of-over-530-fallen-soldiers-a93265",
-          "publicado_em": "2026-07-16T10:57:44.000Z"
+          "publicado_em": "2026-07-16T10:57:44-03:00"
         },
         {
-          "id": "mt-2026-07-18-13",
+          "id": "mt-2026-07-18-10",
           "titulo": "Universidade HSE oferece bolsas de estudo gratuitas para candidatos que assinam contratos militares",
-          "resumo": "A HSE disse que bolsas de estudo gratuitas também seriam oferecidas a candidatos que não atendem aos requisitos do exame de entrada da universidade se eles se alistarem no exército.",
+          "resumo": "A HSE disse que vagas de bolsas de estudo gratuitas também seriam oferecidas a candidatos que não atendem aos requisitos do exame de entrada da universidade se eles se alistarem no exército.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/16/hse-university-offers-free-tuition-to-applicants-who-sign-military-contracts-a93264",
-          "publicado_em": "2026-07-16T10:30:31.000Z"
+          "publicado_em": "2026-07-16T10:30:31-03:00"
         },
         {
-          "id": "mt-2026-07-18-14",
-          "titulo": "VK vende RuStore ao CEO do desenvolvedor após sanções da UE",
+          "id": "mt-2026-07-18-11",
+          "titulo": "VK vende RuStore para CEO do desenvolvedor após sanções da UE",
           "resumo": "O RuStore foi criado como uma alternativa doméstica ao Android, entrando em cena após a Apple e o Google limitarem o acesso para os usuários russos.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/16/vk-sells-rustore-to-developers-ceo-following-eu-sanctions-a93262",
-          "publicado_em": "2026-07-16T09:35:00.000Z"
+          "publicado_em": "2026-07-16T09:35:00-03:00"
         },
         {
-          "id": "mt-2026-07-18-15",
+          "id": "mt-2026-07-18-12",
           "titulo": "Ataque de drone ucraniano matou engenheiro-chefe da usina nuclear de Zaporizhzhia, diz Rússia",
           "resumo": "As autoridades russas disseram que um drone ucraniano atingiu um carro de serviço entre o local da usina e a cidade de Enerhodar, matando o engenheiro, Alexander Yakovlev, e o motorista.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/16/ukrainian-drone-attack-killed-chief-engineer-at-zaporizhzhia-nuclear-plant-russia-says-a93261",
-          "publicado_em": "2026-07-16T08:36:18.000Z"
+          "publicado_em": "2026-07-16T08:36:18-03:00"
         },
         {
-          "id": "mt-2026-07-18-16",
+          "id": "mt-2026-07-18-13",
           "titulo": "Pelo menos 3 mortos em ataques ucranianos em toda a Rússia",
           "resumo": "O Ministério da Defesa disse que interceptou 375 drones ucranianos em toda a Rússia e na Crimeia entre a noite de quarta-feira e a manhã de quinta-feira.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/16/at-least-3-killed-in-ukrainian-attacks-across-russia-a93260",
-          "publicado_em": "2026-07-16T07:37:27.000Z"
+          "publicado_em": "2026-07-16T07:37:27-03:00"
         },
         {
-          "id": "mt-2026-07-18-17",
+          "id": "mt-2026-07-18-14",
           "titulo": "MFA da Rússia pede que cidadãos nos países do Golfo tomem precauções à medida que Irã e EUA trocam ataques",
-          "resumo": "O Kremlin disse que “lamenta” a última escalada no Oriente Médio, que disse está impedindo que Washington se concentre em seu papel de mediador nas estagnadas negociações de paz na Ucrânia.",
+          "resumo": "O Kremlin disse que “lamenta” a última escalada no Oriente Médio, que disse estar impedindo que Washington se concentre em seu papel de mediador nas estagnadas negociações de paz na Ucrânia.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/15/russias-mfa-urges-citizens-in-gulf-countries-to-take-precautions-as-iran-and-us-exchange-strikes-a93255",
-          "publicado_em": "2026-07-15T14:47:33.000Z"
+          "publicado_em": "2026-07-15T14:47:33-03:00"
         },
         {
-          "id": "mt-2026-07-18-18",
-          "titulo": "Tribunal de Moscou rejeita pedido do ex-vice-ministro da Defesa para lutar na Ucrânia",
-          "resumo": "Timur Ivanov, que foi condenado a 13 anos de prisão por acusações de corrupção, havia solicitado assinar um contrato militar — um caminho comum para os condenados russos obterem uma liberdade antecipada em troca de combater.",
+          "id": "mt-2026-07-18-15",
+          "titulo": "Tribunal de Moscou rejeita pedido do ex-vice-ministro da Defesa preso para lutar na Ucrânia",
+          "resumo": "Timur Ivanov, que foi condenado a 13 anos de prisão por corrupção, havia solicitado assinar um contrato militar — um caminho comum para os condenados russos garantirem uma liberdade antecipada em troca de combater.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/15/moscow-court-rejects-jailed-former-deputy-defense-ministers-bid-to-fight-in-ukraine-a93253",
-          "publicado_em": "2026-07-15T12:10:19.000Z"
+          "publicado_em": "2026-07-15T12:10:19-03:00"
         },
         {
-          "id": "mt-2026-07-18-19",
-          "titulo": "Casal russo detido em Istambul por ler a Bíblia na Hagia Sofia",
+          "id": "mt-2026-07-18-16",
+          "titulo": "Casal russo detido em Istambul por ler a Bíblia em Hagia Sofia",
           "resumo": "A igreja do século VI e sítio da UNESCO perdeu seu status de museu em 2020 e foi reconvertida em uma mesquita.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/15/russian-couple-detained-in-istanbul-for-reading-bible-in-hagia-sofia-a93252",
-          "publicado_em": "2026-07-15T11:02:12.000Z"
+          "publicado_em": "2026-07-15T11:02:12-03:00"
         }
       ]
     },
