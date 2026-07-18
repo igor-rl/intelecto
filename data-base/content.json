@@ -6,11 +6,11 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Tensões globais: EUA e Irã em conflito, crise na Ucrânia e desastres naturais",
-    "subtitulo": "Análise das principais notícias do dia, com enfoque nas tensões entre EUA e Irã, na crise na Ucrânia e nos desastres naturais que afetam o mundo",
-    "resumo": "O dia foi marcado por tensões globais, com o conflito entre EUA e Irã se intensificando, a crise na Ucrânia se prolongando e desastres naturais afetando várias regiões. Os EUA atacaram pontes no Irã, e Teerã respondeu atingindo uma usina de energia e dessalinização no Kuwait. Enquanto isso, a crise na Ucrânia continua, com a OTAN se preparando para uma possível escalada. Além disso, um terremoto de 7,3 magnitude atingiu a costa do México, e incêndios florestais devastam a Noruega. A fumaça densa de centenas de incêndios canadenses envolveu uma faixa dos EUA, e o presidente Donald Trump culpou o Canadá pela fumaça de incêndio. Em outra frente, a China rejeitou acusações de interferência nas eleições dos EUA, e o Reino Unido reduziu sua ajuda a alguns países africanos em 90%. A Rússia também esteve em destaque, com o Kremlin rejeitando alegações de interferência nas eleições dos EUA e a OTAN se preparando para uma possível escalada na Ucrânia. Em meio a essas tensões, é fundamental manter a calma e buscar informações confiáveis para entender melhor o que está acontecendo no mundo.",
+    "titulo": "Tensões globais: EUA e Irã em confronto",
+    "subtitulo": "Enquanto o mundo assiste à escalada de tensões entre EUA e Irã, outros conflitos e desafios globais permanecem em segundo plano",
+    "resumo": "O dia foi marcado por uma escalada significativa nas tensões entre os EUA e o Irã, com relatos de ataques aéreos e respostas militares. Essa situação tem implicações globais, especialmente considerando a presença militar americana na região e as alianças complexas envolvidas. Paralelamente, a Ucrânia e a Rússia continuam seu conflito, com ataques de drones ucranianos causando danos e vítimas em solo russo. Em outra frente, a comunidade internacional está atenta às eleições nos EUA, com acusações de interferência russa sendo rejeitadas pelo Kremlin. Enquanto isso, a África enfrenta seus próprios desafios, com o Sudão lidando com a fome entre famílias deslocadas e o Gabão enfrentando um aumento significativo em sua dívida pública. A Austrália também está nas manchetes, com discussões sobre direitos trans e imigração. É um cenário global complexo, com muitas histórias importantes competindo por atenção.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-07-17T08:00:00-03:00",
+    "publicado_em": "2026-07-18T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -865,55 +865,54 @@
   },
   "temas_principais": [
     {
-      "tema": "Conflito entre EUA e Irã",
-      "descricao": "O conflito entre EUA e Irã se intensificou, com ataques aéreos e respostas de Teerã",
+      "tema": "Conflito EUA-Irã",
+      "descricao": "Escalada de tensões com ataques aéreos e respostas militares",
       "fontes_que_cobriram": [
-        "new_york_times",
-        "scmp",
-        "euronews"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "rt"
-      ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a agressividade do Irã, enquanto as fontes russas e chinesas destacam a responsabilidade dos EUA"
-    },
-    {
-      "tema": "Crise na Ucrânia",
-      "descricao": "A crise na Ucrânia se prolonga, com a OTAN se preparando para uma possível escalada",
-      "fontes_que_cobriram": [
-        "the_guardian",
-        "new_york_times",
+        "euronews",
+        "st",
         "rt"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
         "scmp"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a agressividade da Rússia, enquanto as fontes russas destacam a responsabilidade da Ucrânia e do Ocidente"
+      "divergencia_de_enquadramento": "Enquanto a euronews e o Straits Times destacam a gravidade do conflito, a RT enfatiza a posição do Irã e as ações dos EUA como agressivas"
     },
     {
-      "tema": "Desastres naturais",
-      "descricao": "Um terremoto de 7,3 magnitude atingiu a costa do México, e incêndios florestais devastam a Noruega",
+      "tema": "Conflito Ucrânia-Rússia",
+      "descricao": "Ataques de drones ucranianos contra alvos russos",
       "fontes_que_cobriram": [
-        "euronews",
-        "scmp",
-        "st"
+        "rt",
+        "st",
+        "mt"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "rt"
+        "smh"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a gravidade dos desastres, enquanto as fontes russas e chinesas destacam a resposta dos governos locais"
+      "divergencia_de_enquadramento": "A RT e o Moscow Times destacam as vítimas e danos na Rússia, enquanto o Straits Times aborda o contexto mais amplo do conflito"
+    },
+    {
+      "tema": "Desafios na África",
+      "descricao": "Fome no Sudão e aumento da dívida pública no Gabão",
+      "fontes_que_cobriram": [
+        "aa"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "the_guardian",
+        "new_york_times"
+      ],
+      "divergencia_de_enquadramento": "A AllAfrica destaca os desafios específicos enfrentados por países africanos, enquanto outras fontes não dedicam espaço a essas questões"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Sudão",
-      "por_que_importa": "A crise no Sudão é um dos principais desafios humanitários do mundo",
-      "cobertura": "Apenas AllAfrica cobriu a crise no Sudão, enquanto as outras fontes ignoraram ou minimizaram o tema"
+      "tema": "Direitos trans e imigração na Austrália",
+      "por_que_importa": "Reflete debates globais sobre direitos humanos e políticas de imigração",
+      "cobertura": "Apenas o Sydney Morning Herald abordou o tema, destacando as opiniões de Pauline Hanson"
     },
     {
-      "tema": "África",
-      "por_que_importa": "A África é um continente em desenvolvimento, com muitos desafios e oportunidades",
-      "cobertura": "Apenas AllAfrica e The Guardian cobriram temas relacionados à África, enquanto as outras fontes ignoraram ou minimizaram o tema"
+      "tema": "Interferência russa nas eleições americanas",
+      "por_que_importa": "Tem implicações significativas para a política global e a segurança internacional",
+      "cobertura": "O tema foi mencionado por fontes como a RT e o Moscow Times, mas com enfoque na negação do Kremlin"
     }
   ]
 }
