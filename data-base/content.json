@@ -359,127 +359,167 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-07-19T10:15:44.046Z",
+      "gerado_em": "2026-07-19T21:15:38.613Z",
       "artigos": [
         {
-          "id": "rt-2026-07-19-01",
-          "titulo": "EUA prontos para permitir que a Arábia Saudita enriqueça urânio",
+          "id": "rt-2026-07-19-21-01",
+          "titulo": "Trump recorre a whataboutism após ataque iraniano matar tropas dos EUA",
+          "resumo": "O presidente dos EUA, Donald Trump, descartou as críticas dos democratas sobre a guerra com o Irã, apontando para baixas mais altas no Vietnã e no Afeganistão",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5d36332030276998179a0b.jpg",
+          "link": "https://www.rt.com/news/643239-trump-iran-war-casualties-democrats-vietnam-afghanistan/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-19T20:58:00.000Z"
+        },
+        {
+          "id": "rt-2026-07-19-21-02",
+          "titulo": "Putin agradece à Coreia do Norte por ajudar a liberar território russo",
+          "resumo": "O presidente russo, Vladimir Putin, expressou gratidão à Coreia do Norte por ajudar a liberar a região de Kursk das forças ucranianas em 2025",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5d1f4c2030276c44735572.jpg",
+          "link": "https://www.rt.com/russia/643238-putin-thanks-north-korea-helping-liberate-russian-territory/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-19T20:43:10.000Z"
+        },
+        {
+          "id": "rt-2026-07-19-21-03",
+          "titulo": "Homem que se assemelha a Hitler é convocado a comparecer em tribunal alemão – mídia",
+          "resumo": "Um homem holandês que se assemelha a Hitler foi ordenado a comparecer em um tribunal alemão após elogiar publicamente o líder nazista, de acordo com a mídia",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5d009a2030275e8a19e431.jpg",
+          "link": "https://www.rt.com/news/643237-hitler-lookalike-summoned-german-court/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-19T17:29:30.000Z"
+        },
+        {
+          "id": "rt-2026-07-19-21-04",
+          "titulo": "Kiev vende vitória enquanto come seus próprios",
+          "resumo": "A demissão súbita de um 'garoto-propaganda' de guerra expõe as mentiras, rivalidades e pânico por trás da narrativa triunfalista da Ucrânia",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5cf27f85f54060b4643d9c.jpg",
+          "link": "https://www.rt.com/news/643235-ukraine-zelensky-fired-fedorov/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-19T16:23:06.000Z"
+        },
+        {
+          "id": "rt-2026-07-19-21-05",
+          "titulo": "Oposição do Reino Unido exige congelamento de ajuda ao Paquistão por causa de predador sexual de crianças",
+          "resumo": "Partidos de oposição do Reino Unido exigem o congelamento de ajuda e vistos após o Paquistão se recusar a aceitar a extradição de um condenado por estuprar crianças",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5c64d185f54060b4643d89.jpg",
+          "link": "https://www.rt.com/news/643221-uk-opposition-demands-pakistan-aid/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-19T15:43:47.000Z"
+        },
+        {
+          "id": "rt-2026-07-19-21-06",
+          "titulo": "Defesas aéreas dos EUA lutam contra mísseis iranianos – mídia",
+          "resumo": "Os EUA estão preocupados com o fato de os mísseis iranianos estarem se tornando mais difíceis de interceptar, de acordo com várias fontes da mídia",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5cd94820302770fc4eec22.jpg",
+          "link": "https://www.rt.com/news/643230-us-concerned-iran-growing-missile-prowess-media/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-19T14:48:33.000Z"
+        },
+        {
+          "id": "rt-2026-07-19-21-07",
+          "titulo": "Corpos torturados encontrados pendurados em ponte no México (VÍDEO GRÁFICO)",
+          "resumo": "Os corpos de dez pessoas, incluindo cinco pendurados em uma ponte rodoviária, foram descobertos em todo o estado de Zacatecas, no México, no sábado",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5ca9ab2030276a2242f6f4.jpg",
+          "link": "https://www.rt.com/news/643227-tortured-bodies-found-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-19T10:59:35.000Z"
+        },
+        {
+          "id": "rt-2026-07-19-21-08",
+          "titulo": "EUA prontos para permitir que a Arábia Saudita enriqueça urânio – CNN",
           "resumo": "Os EUA concordaram em permitir que a Arábia Saudita enriqueça urânio sem salvaguardas da AIEA, com o acordo aguardando assinatura presidencial",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5c9f8d85f5401fcb2883b8.jpg",
           "link": "https://www.rt.com/news/643224-us-saudi-arabia-nuclear-program/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-19T10:07:32-03:00"
+          "publicado_em": "2026-07-19T10:07:32.000Z"
         },
         {
-          "id": "rt-2026-07-19-02",
-          "titulo": "Ministério da Defesa da Rússia lista alvos em última barragem na Ucrânia",
-          "resumo": "O Ministério da Defesa da Rússia detalhou os alvos de seu último ataque de drones e mísseis contra sites militares ucranianos",
+          "id": "rt-2026-07-19-21-09",
+          "titulo": "Irmãos Tate presos nos EUA",
+          "resumo": "Os influenciadores de mídia social Andrew e Tristan Tate foram presos em Miami após a Grã-Bretanha solicitar sua extradição para enfrentar 59 acusações",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5c69cf85f5400b1c2e5f92.jpg",
+          "link": "https://www.rt.com/news/643222-tate-brothers-arrested-in-us/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-19T08:56:57.000Z"
+        },
+        {
+          "id": "rt-2026-07-19-21-10",
+          "titulo": "Ministério da Defesa russo lista alvos em último ataque à Ucrânia",
+          "resumo": "O Ministério da Defesa russo detalhou os alvos de seu último ataque de drones e mísseis contra sites militares ucranianos",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5c771d85f54020f531f2a7.jpg",
           "link": "https://www.rt.com/russia/643223-russian-mod-lists-ukraine-targets/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-19T07:08:37-03:00"
+          "publicado_em": "2026-07-19T07:08:37.000Z"
         },
         {
-          "id": "rt-2026-07-19-03",
-          "titulo": "Kiev atingida por drones e mísseis (VÍDEOS)",
+          "id": "rt-2026-07-19-21-11",
+          "titulo": "Surto de parasita causador de diarreia nos EUA rastreado até alface",
+          "resumo": "Autoridades de saúde dos EUA identificaram alface iceberg ralada servida em restaurantes Taco Bell como a fonte do surto de Cyclospora",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5b698c85f5400b2274d4ff.jpg",
+          "link": "https://www.rt.com/news/643199-us-cyclosporiasis-diarrhea-outbreak-lettuce/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-19T02:40:19.000Z"
+        },
+        {
+          "id": "rt-2026-07-19-21-12",
+          "titulo": "Netanyahu pode ser preso durante visita a Nova York – prefeito",
+          "resumo": "O prefeito de Nova York, Zohran Mamdani, está explorando a possibilidade legal de prender o primeiro-ministro israelense Benjamin Netanyahu durante a Assembleia Geral das Nações Unidas",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5c1aed85f540179d44e41e.jpg",
+          "link": "https://www.rt.com/news/643220-netanyahu-arrest-nyc-mamdani/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-19T01:01:53.000Z"
+        },
+        {
+          "id": "rt-2026-07-19-21-13",
+          "titulo": "Kiev atingida por ataques de drones e mísseis (VÍDEOS)",
           "resumo": "A capital ucraniana foi atingida por um ataque combinado de drones e mísseis no início da manhã de domingo, de acordo com o Ministério da Defesa",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5c10bf85f5401b9c59cafa.jpg",
           "link": "https://www.rt.com/russia/643219-kiev-missiles-strikes-fires/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-18T23:48:49-03:00"
+          "publicado_em": "2026-07-18T23:48:49.000Z"
         },
         {
-          "id": "rt-2026-07-19-04",
-          "titulo": "EUA emitem aviso de viagem mundial",
-          "resumo": "O Departamento de Estado dos EUA emitiu um aviso de segurança mundial devido a temores de uma escalada adicional na guerra renovada com o Irã",
+          "id": "rt-2026-07-19-21-14",
+          "titulo": "EUA emitem aviso de viagem para todo o mundo",
+          "resumo": "O Departamento de Estado dos EUA emitiu um aviso de segurança para todo o mundo devido a temores de uma escalada adicional na guerra renovada entre Washington e o Irã",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5bfafc85f54060b4643d82.jpg",
           "link": "https://www.rt.com/news/643218-us-iran-worldwide-travel-warning/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-18T22:16:25-03:00"
+          "publicado_em": "2026-07-18T22:16:25.000Z"
         },
         {
-          "id": "rt-2026-07-19-05",
-          "titulo": "Dois militares dos EUA mortos em ataques retaliatórios iranianos – Pentágono",
-          "resumo": "Dois militares dos EUA foram mortos em ataques de mísseis e drones iranianos contra instalações militares na Jordânia, informou o Pentágono",
+          "id": "rt-2026-07-19-21-15",
+          "titulo": "Líder gay do partido no poder alemão renuncia devido a controvérsia sobre gestação de substituição",
+          "resumo": "O líder parlamentar da coalizão governista alemã foi forçado a renunciar após ter um filho por gestação de substituição com seu marido",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5be86785f540179d44e412.jpg",
+          "link": "https://www.rt.com/news/643204-german-gay-mp-scandal/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-18T20:56:23.000Z"
+        },
+        {
+          "id": "rt-2026-07-19-21-16",
+          "titulo": "Nenhum indiciamento após a morte de dezenas de detentos palestinos sob custódia israelense – Haaretz",
+          "resumo": "Investigações das Forças de Defesa de Israel sobre a morte de dezenas de detentos palestinos não resultaram em nenhum indiciamento, de acordo com o Haaretz",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5be2f92030277a660054d8.jpg",
+          "link": "https://www.rt.com/news/643216-zero-charges-filed-palestinian-detainee-deaths-idf-custody/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-18T20:33:49.000Z"
+        },
+        {
+          "id": "rt-2026-07-19-21-17",
+          "titulo": "Quatro militares dos EUA mortos em ataques retaliatórios iranianos – Pentágono",
+          "resumo": "Quatro militares dos EUA foram mortos em ataques de mísseis e drones iranianos contra instalações militares na Jordânia e no Iraque",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5bc5cc20302704c002fe00.png",
           "link": "https://www.rt.com/news/643205-two-us-service-members-killed-iranian-retaliatory-strikes-pentagon/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-18T17:52:53-03:00"
+          "publicado_em": "2026-07-18T17:52:53.000Z"
         },
         {
-          "id": "rt-2026-07-19-06",
+          "id": "rt-2026-07-19-21-18",
           "titulo": "Ucrânia pode sofrer derrota militar – comandante sênior",
           "resumo": "A Ucrânia pode sofrer uma derrota, pois a cadeia de comando do exército está se tornando cada vez mais ineficaz, disse o brigadeiro-general Sergey Sobko",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5b8e4485f540277161a3cc.jpg",
           "link": "https://www.rt.com/russia/643202-ukraine-staring-defeat-senior-commander/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-18T16:10:10-03:00"
+          "publicado_em": "2026-07-18T16:10:10.000Z"
         },
         {
-          "id": "rt-2026-07-19-07",
-          "titulo": "Rússia destrói defesas ucranianas em cidade-chave de Donbass – Ministério da Defesa",
-          "resumo": "A Rússia destruiu as defesas ucranianas na cidade-chave de Krasny Liman, anunciou o chefe do Estado-Maior Valery Gerasimov",
+          "id": "rt-2026-07-19-21-19",
+          "titulo": "Rússia destrói defesas ucranianas em importante fortaleza de Donbass – Ministério da Defesa",
+          "resumo": "A Rússia destruiu as defesas ucranianas na cidade de Krasny Liman, uma importante fortaleza de Donbass, anunciou o chefe do Estado-Maior, Valery Gerasimov",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5ba60f20302770f3363407.jpg",
           "link": "https://www.rt.com/russia/643203-russia-on-track-liberate-liman/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-18T15:51:11-03:00"
+          "publicado_em": "2026-07-18T15:51:11.000Z"
         },
         {
-          "id": "rt-2026-07-19-08",
-          "titulo": "Drones russos com IA atacam navios de carga ucranianos (VÍDEOS do Ministério da Defesa)",
+          "id": "rt-2026-07-19-21-20",
+          "titulo": "Drones russos com IA atacam navios de transporte ucranianos (VÍDEOS do Ministério da Defesa)",
           "resumo": "Tropas russas atingiram vários navios que transportavam carga militar para a Ucrânia com drones com IA",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5b9e9185f54018b7592973.png",
           "link": "https://www.rt.com/russia/643201-ukraine-shipping-drone-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-18T15:47:20-03:00"
-        },
-        {
-          "id": "rt-2026-07-19-09",
-          "titulo": "Prefeito de Moscou compartilha mapa de ataques de drones ucranianos na região de Moscou (VÍDEO)",
-          "resumo": "Quase 1.900 drones ucranianos miraram na região de Moscou em uma semana, disse Sergey Sobyanin, após ataques a depósitos da Wildberries mataram oito pessoas",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5b7c2c2030277f8a6798b9.png",
-          "link": "https://www.rt.com/russia/643200-moscow-mayor-map-ukraine-drones/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-18T14:26:29-03:00"
-        },
-        {
-          "id": "rt-2026-07-19-10",
-          "titulo": "Legisladores dos EUA alertam contra projeto de lei de sanções à Rússia",
-          "resumo": "Legisladores democratas pediram ao Congresso que bloqueie o projeto de lei de sanções à Rússia do falecido Lindsey Graham, alertando sobre danos aos laços comerciais dos EUA",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5b57cf85f5400f4b4c7462.jpg",
-          "link": "https://www.rt.com/news/643198-democrats-warn-against-russia-sanctions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-18T10:43:16-03:00"
-        },
-        {
-          "id": "rt-2026-07-19-11",
-          "titulo": "O Mandela que eles querem que você esqueça: O estrategista que desafiou o Ocidente",
-          "resumo": "Ao rejeitar a política de proxy e exigir um assento equitativo na mesa de decisões globais, o continente está realizando a visão de Mandela",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a561bdc203027367618125f.jpg",
-          "link": "https://www.rt.com/africa/643019-mandela-african-legacy-sovereign-policy/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-18T08:58:52-03:00"
-        },
-        {
-          "id": "rt-2026-07-19-12",
-          "titulo": "UE preenche buraco orçamentário com multa recorde da Google",
-          "resumo": "A multa antitruste recorde da Google será incorporada ao orçamento da UE, reduzindo as contribuições dos estados-membros diante da pressão de gastos crescente",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5a3dd6203027218e5f5703.jpg",
-          "link": "https://www.rt.com/news/643174-google-fine-eu-budget/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-18T08:28:01-03:00"
-        },
-        {
-          "id": "rt-2026-07-19-13",
-          "titulo": "Trump ‘traíra’ coloca os EUA no caminho para a revolução – Tucker Carlson",
-          "resumo": "O presidente dos EUA, Donald Trump, foi “desleal” aos seus apoiadores, colocando o país no caminho para a revolução, disse Tucker Carlson",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5a687985f540098b462926.jpg",
-          "link": "https://www.rt.com/news/643173-tucker-carlson-us-trump-revolution/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-18T03:56:51-03:00"
-        },
-        {
-          "id": "rt-2026-07-19-14",
-          "titulo": "Drones ucranianos miraram deliberadamente em civis russos em ataque mortal a armazém – sobrevivente",
-          "resumo": "Drones ucranianos miraram deliberadamente em civis durante um ataque mortal a um armazém na região de Tambov, na Rússia, disse um sobrevivente",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5b3d1385f540529a7b0b47.png",
-          "link": "https://www.rt.com/russia/643197-ukrainian-drones-wildberries-warehouse/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-18T03:23:14-03:00"
-        },
-        {
-          "id": "rt-2026-07-19-15",
-          "titulo": "Militares dos EUA feridos em ataques iranianos – CBS (VÍDEOS)",
-          "resumo": "Vários militares dos EUA foram feridos quando ataques iranianos atingiram instalações militares na Jordânia, informou a CBS News",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5ae20f85f5400ea567b2f8.png",
-          "link": "https://www.rt.com/news/643195-bahrain-us-troops-injured/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-18T02:29:20-03:00"
+          "publicado_em": "2026-07-18T15:47:20.000Z"
         }
       ]
     },
