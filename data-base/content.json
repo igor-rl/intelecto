@@ -185,119 +185,111 @@
     "euronews": {
       "slug": "euronews",
       "nome": "Euro News",
-      "gerado_em": "2026-07-19T10:00:17.007Z",
+      "gerado_em": "2026-07-19T21:00:13.323Z",
       "artigos": [
         {
-          "id": "euronews-2026-07-19-1005",
-          "titulo": "Forças dos EUA atacam forças iranianas ligadas ao ataque na Jordânia",
-          "resumo": "Dois militares americanos foram mortos na sexta-feira enquanto as forças dos EUA e seus aliados defendiam contra ataques de mísseis balísticos e drones iranianos, de acordo com um comunicado do exército americano.",
+          "id": "euronews-2026-07-19-2101",
+          "titulo": "Trump e Sánchez se reúnem na final da Copa do Mundo após quase dois anos de tensões diplomáticas",
+          "resumo": "Por quase dois anos, os líderes da Espanha e dos Estados Unidos têm se chocado sobre questões que variam de gastos de defesa à política dos EUA no Oriente Médio.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/19/trump-and-sanchez-meet-at-world-cup-final-after-nearly-two-years-of-diplomatic-tensions",
+          "publicado_em": "2026-07-19T19:23:05.000Z"
+        },
+        {
+          "id": "euronews-2026-07-19-2104",
+          "titulo": "Terremoto de magnitude 5.1 no Peru deixa pelo menos cinco mortos e dez feridos",
+          "resumo": "Um terremoto de magnitude 5.1 centrado em Chupaca, Junín, deixou cinco pessoas mortas e cerca de dez feridas na noite de sábado, e danificou hospitais e monumentos religiosos na área andina.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/19/magnitude-51-earthquake-in-central-peru-leaves-at-least-one-dead-and-ten-injured",
+          "publicado_em": "2026-07-19T12:31:37.000Z"
+        },
+        {
+          "id": "euronews-2026-07-19-2105",
+          "titulo": "Balsa de passageiros com 116 pessoas a bordo afunda ao largo da costa da Guiana",
+          "resumo": "Um chamado de socorro feito pelo MV Barima à guarda costeira foi feito logo após as 23h, horário local. A embarcação tem 250 coletes salva-vidas, dois botes rígidos e seis botes infláveis.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/19/passenger-ferry-carrying-116-people-sinks-off-the-coast-of-guyana",
+          "publicado_em": "2026-07-19T11:53:26.000Z"
+        },
+        {
+          "id": "euronews-2026-07-19-2110",
+          "titulo": "Presidente húngaro Tamás Sulyok assina emenda constitucional que encerra seu próprio mandato",
+          "resumo": "O presidente Tamás Sulyok assinou a décima sétima emenda à Lei Fundamental no sábado, anunciou em uma postagem no Facebook. O mandato do presidente em exercício terminará no dia seguinte à sua entrada em vigor.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/18/hungarian-president-tamas-sulyok-signs-constitutional-amendment-ending-his-own-mandate",
+          "publicado_em": "2026-07-18T18:19:29.000Z"
+        },
+        {
+          "id": "euronews-2026-07-19-2111",
+          "titulo": "EUA lançam nova onda de ataques ao Irã, enquanto Israel promete resposta 'poderosa' a Teerã",
+          "resumo": "O Irã afirma que os ataques mais recentes dos EUA mataram pelo menos 50 pessoas e feriram 517. Washington disse que os ataques foram uma retaliação por um ataque a uma base dos EUA na Jordânia que matou dois militares americanos e deixou um ferido.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/18/two-us-troops-killed-in-jordan-by-iranian-attacks-us-military-says",
           "publicado_em": "2026-07-18T18:06:22.000Z"
         },
         {
-          "id": "euronews-2026-07-19-1007",
-          "titulo": "Mortes por terremotos na Venezuela aumentam para mais de 5.000",
+          "id": "euronews-2026-07-19-2113",
+          "titulo": "Mortes por terremotos na Venezuela sobem para mais de 5.000",
           "resumo": "A Venezuela conseguiu liberar €302 milhões de financiamento do Fundo Monetário Internacional para apoiar a recuperação e reconstrução após os terremotos devastadores que atingiram a costa norte do país.",
           "imagem": null,
           "link": "http://www.euronews.com/my-europe/2026/07/18/deaths-from-venezuela-earthquakes-rise-above-5000",
           "publicado_em": "2026-07-18T15:43:54.000Z"
         },
         {
-          "id": "euronews-2026-07-19-1009",
-          "titulo": "Forças americanas atacam o Irã pela sétima noite consecutiva",
-          "resumo": "A agência de notícias estatal iraniana Fars relatou que as forças iranianas responderam atacando aliados e bases americanas na região, incluindo a base aérea Ali Al Salem no Kuwait.",
+          "id": "euronews-2026-07-19-2115",
+          "titulo": "Forças dos EUA atacam o Irã pela sétima noite consecutiva",
+          "resumo": "A agência estatal de notícias do Irã, Fars, informou que as forças iranianas responderam atacando aliados e bases dos EUA na região, incluindo a base aérea Ali Al Salem no Kuwait.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/18/us-forces-strike-iran-for-seventh-consecutive-night",
           "publicado_em": "2026-07-18T05:49:14.000Z"
         },
         {
-          "id": "euronews-2026-07-19-1011",
-          "titulo": "Chefe da política externa da UE visita missão naval da UE no Mar Vermelho",
-          "resumo": "O chefe da política externa da UE, Kaja Kallas, visitou pessoal que serve com as missões navais da UE, ASPIDES e ATALANTA, recebendo breves operacionais e encontrando tropas destacadas para ajudar a proteger o tráfego marítimo.",
+          "id": "euronews-2026-07-19-2117",
+          "titulo": "Chefe da política externa da UE, Kallas, visita missão naval da UE no Mar Vermelho",
+          "resumo": "A chefe da política externa da UE, Kaja Kallas, visitou pessoal que serve com as missões navais da UE, ASPIDES e ATALANTA, recebendo breves operacionais e encontrando tropas destacadas para ajudar a proteger o tráfego marítimo.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/07/17/eu-foreign-policy-chief-kallas-visits-eu-naval-mission-in-the-red-sea",
           "publicado_em": "2026-07-17T18:00:59.000Z"
         },
         {
-          "id": "euronews-2026-07-19-1013",
-          "titulo": "Terremoto de magnitude 7,3 atinge as costas do México e da Guatemala",
-          "resumo": "Um terremoto de magnitude 7,3 abalou as costas do México e da Guatemala, com seu epicentro a cerca de 15 km de profundidade.",
+          "id": "euronews-2026-07-19-2119",
+          "titulo": "Terremoto de magnitude 7,3 atinge as costas do México e da Guatemala, alerta de tsunami é cancelado",
+          "resumo": "Um terremoto de magnitude 7,3 abalou as costas do México e da Guatemala na sexta-feira, com seu epicentro ao largo de Chiapas, a cerca de 15 km de profundidade.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/17/magnitude-73-earthquake-strikes-mexico-and-guatemala-coasts-tsunami-alert-issued",
           "publicado_em": "2026-07-17T15:59:33.000Z"
         },
         {
-          "id": "euronews-2026-07-19-1015",
-          "titulo": "China rejeita acusações de interferência nas eleições americanas como 'infundadas'",
-          "resumo": "Um porta-voz pediu que os EUA parassem de fazer o que chamou de 'acusações infundadas' contra a China.",
+          "id": "euronews-2026-07-19-2121",
+          "titulo": "China rejeita acusações de interferência nas eleições de Trump como 'infundadas'",
+          "resumo": "Em uma coletiva de imprensa em Pequim, um porta-voz pediu que os EUA parassem de fazer o que descreveu como 'acusações infundadas' contra a China.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/17/china-rejects-trumps-election-interference-accusations-as-groundless",
           "publicado_em": "2026-07-17T15:23:52.000Z"
         },
         {
-          "id": "euronews-2026-07-19-1016",
+          "id": "euronews-2026-07-19-2122",
           "titulo": "Xi elogia 'novo nível' nas relações à medida que a China e o Cazaquistão assinam acordos no valor de €11,4 bilhões",
-          "resumo": "Xi Jinping e Kassym-Jomart Tokayev assinaram mais de 70 acordos comerciais, incluindo a primeira fábrica de baterias da Ásia Central com a CATL e um novo projeto de infraestrutura.",
+          "resumo": "Xi Jinping e Kassym-Jomart Tokayev assinaram mais de 70 acordos comerciais à margem da Conferência Mundial de Inteligência Artificial em Xangai, incluindo a primeira fábrica de baterias da Ásia Central com a CATL e um novo.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/17/xi-hails-new-level-in-ties-as-china-and-kazakhstan-sign-114bn-in-deals",
           "publicado_em": "2026-07-17T14:14:45.000Z"
         },
         {
-          "id": "euronews-2026-07-19-1017",
-          "titulo": "Resgatistas da China correm para encontrar pessoas presas após deslizamento de terra",
-          "resumo": "A China lançou uma grande operação de resgate após um deslizamento de terra atingir o condado de Pengshui, na municipalidade de Chongqing, enterrando parte de uma área residencial e prendendo um número desconhecido de pessoas.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/07/17/china-rescuers-race-to-find-trapped-people-after-landslide",
-          "publicado_em": "2026-07-17T13:00:55.000Z"
-        },
-        {
-          "id": "euronews-2026-07-19-1018",
+          "id": "euronews-2026-07-19-2124",
           "titulo": "Euronews a bordo de navios de guerra da UE no Mar Vermelho: a Europa olha para um mandato mais amplo à medida que a ameaça dos houthis cresce",
-          "resumo": "Em um relatório especial a partir de navios-patrulha da UE em Djibouti, Kaja Kallas disse à Euronews que o bloco de 27 membros estava discutindo a expansão do mandato da Aspides e que navios prometidos à coalizão de Hormuz poderiam ser redirecionados.",
+          "resumo": "Em um relatório especial a partir de navios patrulheiros da UE em Djibuti, Kaja Kallas disse à Euronews que o bloco de 27 membros estava discutindo a ampliação do mandato da Aspides e que navios prometidos à coalizão de Hormuz poderiam ser.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/17/eu-bolsters-red-sea-mission-amid-reports-houthis-may-shut-bab-el-mandeb",
           "publicado_em": "2026-07-17T12:23:00.000Z"
         },
         {
-          "id": "euronews-2026-07-19-1019",
+          "id": "euronews-2026-07-19-2125",
           "titulo": "CIA desclassifica evidências de suposta fraude eleitoral na Venezuela em 2012",
           "resumo": "Documentos da CIA desclassificados por Donald Trump confirmam que o regime venezuelano tinha, desde 2012, um sistema capaz de alterar até 1,5 milhão de votos, embora não provem fraude em todas as eleições.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/17/cia-declassifies-evidence-of-electoral-machinery-used-by-chavismo-in-venezuela-since-2012",
           "publicado_em": "2026-07-17T11:48:19.000Z"
-        },
-        {
-          "id": "euronews-2026-07-19-1020",
-          "titulo": "Índia lança primeiro trem de passageiros movido a hidrogênio para reduzir emissões",
-          "resumo": "A Índia lançou seu primeiro trem de passageiros movido a hidrogênio, o NaMo Green Rail, impulsionando o transporte ferroviário limpo e reduzindo as emissões de diesel.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/07/17/india-launches-first-hydrogen-powered-passenger-train-to-cut-emissions",
-          "publicado_em": "2026-07-17T11:20:07.000Z"
-        },
-        {
-          "id": "euronews-2026-07-19-1021",
-          "titulo": "Kim Jong Un recebe alto funcionário chinês em Pyongyang",
-          "resumo": "A China busca reafirmar sua posição na península coreana nos últimos anos. O presidente chinês Xi Jinping fez sua própria visita a Pyongyang em junho como parte desse esforço.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/17/kim-jong-un-hosts-top-chinese-official-in-pyongyang",
-          "publicado_em": "2026-07-17T10:33:23.000Z"
-        },
-        {
-          "id": "euronews-2026-07-19-1024",
-          "titulo": "Chile avalia danos após tempestade mortal inunda cidade costeira de Penco",
-          "resumo": "A costa central do Chile foi atingida por uma tempestade excepcional que inundou casas e danificou infraestrutura. As autoridades estão pedindo aos moradores que fiquem longe da linha de costa devido a condições perigosas no mar.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/07/17/chile-assesses-damage-after-deadly-storm-surge-floods-coastal-city-of-penco",
-          "publicado_em": "2026-07-17T08:17:16.000Z"
-        },
-        {
-          "id": "euronews-2026-07-19-1025",
-          "titulo": "Defesa aérea do Catar intercepta nova barragem de mísseis iranianos sobre Doha",
-          "resumo": "O Irã desencadeou uma nova onda de ataques em todo o Golfo, visando o Catar, o Kuwait, a Bahrein e a Jordânia, após as contínuas ameaças de Teerã de arrastar os países do Golfo de volta ao seu conflito em escalada.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/17/qatars-air-defence-intercepts-fresh-iranian-missile-barrage-over-doha",
-          "publicado_em": "2026-07-17T08:05:19.000Z"
         }
       ]
     },
