@@ -5,10 +5,10 @@
   "itens_urgentes": {},
   "destaques": [],
   "capa": {
-    "categoria_nome": "Conflitos Globais",
-    "titulo": "Tensões no Oriente Médio e África",
-    "subtitulo": "Ataques iranianos, eleições em São Tomé e Príncipe, e crise no Sudão",
-    "resumo": "O Oriente Médio continua em chamas com ataques iranianos contra tropas americanas na Jordânia, enquanto a comunidade internacional aguarda os resultados das eleições presidenciais em São Tomé e Príncipe. Em outro cenário, o Sudão enfrenta uma crise humanitária profunda, com o mundo parecendo ter parado de assistir. Enquanto isso, a Rússia e a Ucrânia continuam em conflito, com ataques de mísseis balísticos em Kiev. A África também enfrenta desafios, com a Venezuela lidando com o aumento do número de mortos devido a terremotos e a Indonésia se posicionando contra o Irã. Os EUA, por sua vez, emitem avisos de viagem globais devido a temores de escalada na guerra com o Irã.",
+    "categoria_nome": "O que marcou o dia?",
+    "titulo": "Tensões Globais: Conflitos e Desafios",
+    "subtitulo": "De ataques no Mar Negro a eleições em São Tomé e Príncipe, o mundo enfrenta desafios variados",
+    "resumo": "O dia foi marcado por uma série de eventos que destacam as tensões globais atuais. No Mar Negro, um navio cargueiro foi atacado, resultando em mortos. Em São Tomé e Príncipe, as eleições presidenciais estão em andamento, com o atual presidente buscando a reeleição. Além disso, a situação na Ucrânia continua tensa, com ataques de drones e mísseis balísticos. A Coreia do Norte também está na cena internacional, com o presidente russo agradecendo o apoio do país na libertação de território russo. Enquanto isso, a África enfrenta seus próprios desafios, com a guerra no Sudão e a fome afetando famílias deslocadas. Os jornais também destacam a importância de não esquecer conflitos esquecidos e a necessidade de uma cobertura mais ampla e equilibrada dos eventos globais.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-07-19T08:00:00-03:00",
     "link": null,
@@ -908,54 +908,52 @@
   },
   "temas_principais": [
     {
-      "tema": "Conflito no Oriente Médio",
-      "descricao": "Ataques iranianos contra tropas americanas na Jordânia e tensões entre EUA e Irã",
+      "tema": "Ataques no Mar Negro",
+      "descricao": "Navio cargueiro atacado, resultando em mortos",
       "fontes_que_cobriram": [
-        "euronews",
-        "new_york_times",
-        "rt"
+        "st",
+        "mt"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "scmp"
+        "rt"
       ],
-      "divergencia_de_enquadramento": "Enquanto a euronews e o New York Times destacam a gravidade dos ataques iranianos, a RT enfatiza a retaliação americana contra o Irã"
+      "divergencia_de_enquadramento": "While some sources like The Straits Times and The Moscow Times covered the attack, others like Russia Today downplayed its significance or shifted the focus to other events."
     },
     {
       "tema": "Eleições em São Tomé e Príncipe",
-      "descricao": "Eleição presidencial em São Tomé e Príncipe, com o atual presidente Carlos Vila Nova buscando a reeleição",
+      "descricao": "Eleições presidenciais em andamento",
       "fontes_que_cobriram": [
-        "the_guardian",
-        "st"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "rt",
-        "scmp"
-      ],
-      "divergencia_de_enquadramento": "A cobertura se concentra na importância da eleição para a estabilidade política do país"
-    },
-    {
-      "tema": "Crise no Sudão",
-      "descricao": "Situuação humanitária crítica no Sudão, com deslocados e necessidades básicas não atendidas",
-      "fontes_que_cobriram": [
-        "aa"
+        "the_guardian"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
         "new_york_times",
         "euronews"
       ],
-      "divergencia_de_enquadramento": "A AllAfrica destaca a gravidade da crise, enquanto outras fontes não a mencionam"
+      "divergencia_de_enquadramento": "The Guardian provided in-depth coverage of the elections, while other sources like The New York Times and Euronews barely mentioned the event."
+    },
+    {
+      "tema": "Conflitos na Ucrânia",
+      "descricao": "Ataques de drones e mísseis balísticos",
+      "fontes_que_cobriram": [
+        "mt",
+        "st"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "rt"
+      ],
+      "divergencia_de_enquadramento": "Sources like The Moscow Times and The Straits Times reported on the ongoing conflicts, while Russia Today tended to focus on the Russian perspective and downplay Ukrainian actions."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Terremotos na Venezuela",
-      "por_que_importa": "Aumento do número de mortos e desafios para a recuperação",
-      "cobertura": "Apenas a euronews e o st mencionam os terremotos, enquanto outras fontes ignoram"
+      "tema": "Guerra no Sudão",
+      "por_que_importa": "O conflito tem impacto humanitário significativo e está sendo marginalizado pela cobertura internacional",
+      "cobertura": "Apenas AllAfrica deu destaque ao tema, enquanto outros veículos de imprensa o ignoraram ou minimizaram."
     },
     {
-      "tema": "Conflito entre Rússia e Ucrânia",
-      "por_que_importa": "Ataques de mísseis balísticos em Kiev e impacto na segurança regional",
-      "cobertura": "A RT e a moscow times destacam o conflito, enquanto outras fontes o mencionam brevemente"
+      "tema": "Fome em África",
+      "por_que_importa": "A fome afeta milhares de pessoas e é um problema crítico que requer atenção internacional",
+      "cobertura": "AllAfrica e alguns outros veículos africanos destacaram a questão, mas a cobertura foi geralmente escassa nos principais jornais internacionais."
     }
   ]
 }
