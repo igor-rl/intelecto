@@ -113,71 +113,61 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-07-19T10:00:01.228Z",
+      "gerado_em": "2026-07-19T21:00:01.563Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-07-18T23:03:24-01",
-          "titulo": "Por que a Jordânia está se tornando um novo foco na guerra EUA-Irã",
-          "resumo": "Quatro ataques iranianos em cinco dias visaram tropas americanas na Jordânia, disseram funcionários americanos, incluindo um na sexta-feira que matou dois soldados e deixou outro membro do serviço desaparecido.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html",
-          "publicado_em": "2026-07-18T23:03:24-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-19T08:37:18-02",
-          "titulo": "Uma proposta modesta para a disputa do estreito: um pacto compartilhado entre os estados do Golfo",
-          "resumo": "Um grupo de pesquisa com sede em Londres invocou um pacto europeu agora defunto sobre carvão e aço para sugerir a formação de uma coalizão de países que compartilhariam o controle do estreito de Ormuz.",
+          "id": "new_york_times-2026-07-19-2101",
+          "titulo": "Uma Proposta Modesta para a Disputa no Estreito: Um Pacto Compartilhado entre os Estados do Golfo",
+          "resumo": "Um grupo de pesquisa com sede em Londres invocou um pacto europeu agora extinto sobre carvão e aço para sugerir a formação de uma coalizão de países que compartilhariam o controle do Estreito de Hormuz.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
-          "publicado_em": "2026-07-19T08:37:18-03:00"
+          "fonte": "The New York Times",
+          "publicado_em": "2026-07-19T08:37:19.000Z"
         },
         {
-          "id": "new_york_times-2026-07-19T09:00:13-03",
-          "titulo": "Trump esvaziou agência de direitos civis, sufocando a fiscalização americana sobre viés no local de trabalho",
-          "resumo": "Um escritório federal pouco conhecido passou décadas investigando potencial discriminação por contratantes do governo — até ser interrompido pela administração Trump.",
+          "id": "new_york_times-2026-07-19-2102",
+          "titulo": "Agentes Federais Foram Informados de que o FBI Não Investigará mais Confrontos com o ICE",
+          "resumo": "Oficiais seniores negam que tal mudança esteja em andamento, apesar de orientações compartilhadas com agentes em todo o país nos últimos dias.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/19/us/politics/trump-gutted-civil-rights-agency-stifling-us-scrutiny-of-workplace-bias.html",
-          "publicado_em": "2026-07-19T09:00:13-03:00"
+          "link": "https://www.nytimes.com/2026/07/19/us/politics/fbi-ice-agents-investigations-shootings.html",
+          "fonte": "The New York Times",
+          "publicado_em": "2026-07-19T15:57:22.000Z"
         },
         {
-          "id": "new_york_times-2026-07-19T02:12:43-04",
-          "titulo": "Comentários de Vance sobre Epstein e Israel ecoam teorias da conspiração",
-          "resumo": "O comentário do vice-presidente de que havia ligações entre o sr. Epstein e os 'mais altos níveis' da inteligência israelense perturbou alguns em seu partido.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/18/us/vances-epstein-israel-conspiracy-theories.html",
-          "publicado_em": "2026-07-19T02:12:43-03:00"
-        },
-        {
-          "id": "new_york_times-2026-07-19T09:00:07-05",
-          "titulo": "Casos de imigração malsucedidos deixam escritório do promotor de Chicago abalado",
-          "resumo": "Promotores fugiram do escritório do procurador dos EUA em Chicago, zangados com os casos que foram instruídos a apresentar contra manifestantes e imigrantes.",
+          "id": "new_york_times-2026-07-19-2103",
+          "titulo": "Casos de Imigração Mal Sucedidos Deixam o Escritório do Promotor de Chicago Abalado",
+          "resumo": "Promotores abandonaram o escritório do procurador dos EUA em Chicago, zangados com os casos que foram instruídos a apresentar contra manifestantes e imigrantes.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/19/us/immigration-chicago-prosecutors.html",
-          "publicado_em": "2026-07-19T09:00:07-03:00"
+          "fonte": "The New York Times",
+          "publicado_em": "2026-07-19T11:44:25.000Z"
         },
         {
-          "id": "new_york_times-2026-07-18T19:49:49-06",
-          "titulo": "Eles foram acusados de agredir agentes da ICE. Os casos estão desmoronando.",
-          "resumo": "A administração Trump perdeu ou abandonou centenas de casos criminais contra manifestantes e imigrantes, descobriu uma investigação do Times.",
+          "id": "new_york_times-2026-07-19-2105",
+          "titulo": "Jackson Sai à Frente na Corrida ao Senado em Maine, à Medida que Bellows Desiste",
+          "resumo": "Troy Jackson, um progressista, solidificou sua vantagem sobre seus rivais em uma disputa de nomeação abreviada para substituir Graham Platner. Shenna Bellows, outra candidata, desistiu.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/18/us/ice-assaults-protesters.html",
-          "publicado_em": "2026-07-18T19:49:49-03:00"
+          "link": "https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellows-jackson-platner-democrats.html",
+          "fonte": "The New York Times",
+          "publicado_em": "2026-07-19T18:31:23.000Z"
         },
         {
-          "id": "new_york_times-2026-07-19T09:00:38-07",
-          "titulo": "Políticos estão tentando mudar o que os chatbots dizem sobre eles",
-          "resumo": "Campanhas políticas têm algo novo para se preocupar: informações desfavoráveis ou incompletas produzidas por programas de IA quando os eleitores fazem perguntas sobre candidatos.",
+          "id": "new_york_times-2026-07-19-2106",
+          "titulo": "Nos Primárias do Arizona, Democratas Lutam por uma Cadeira na Câmara que Eles Precisam Muito",
+          "resumo": "Os democratas têm a chance de virar uma distrito de batalha competitiva em e ao redor de Scottsdale, mas o vencedor da primária de terça-feira sairá sangrado e quebrado.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html",
-          "publicado_em": "2026-07-19T09:00:38-03:00"
+          "link": "https://www.nytimes.com/2026/07/19/us/elections/arizona-democratic-primary-shah-galan-woods.html",
+          "fonte": "The New York Times",
+          "publicado_em": "2026-07-19T17:41:41.000Z"
         },
         {
-          "id": "new_york_times-2026-07-19T09:43:50-08",
-          "titulo": "Rússia ataca Kyiv em ataque noturno",
+          "id": "new_york_times-2026-07-19-2112",
+          "titulo": "Rússia Bombardeia Kyiv em um dos Maiores Ataques com Mísseis da Guerra",
           "resumo": "No sábado, a Ucrânia atingiu dois armazéns na Rússia em ataques que mataram pelo menos oito pessoas e feriram 62.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
-          "publicado_em": "2026-07-19T09:43:50-03:00"
+          "fonte": "The New York Times",
+          "publicado_em": "2026-07-19T18:26:40.000Z"
         }
       ]
     },
