@@ -18,87 +18,95 @@
     "the_guardian": {
       "slug": "the_guardian",
       "nome": "The Guardian",
-      "gerado_em": "2026-07-18T21:00:10.620Z",
+      "gerado_em": "2026-07-19T10:00:10.198Z",
       "artigos": [
         {
-          "id": "the_guardian-2026-07-17T12:17:14.000Z-01",
-          "titulo": "Sete americanos em quarentena em instalação de Ebola no Quênia após proibição de viagem dos EUA, diz grupo de ajuda",
-          "resumo": "Trabalhadores de ajuda são as primeiras pessoas conhecidas a serem colocadas em quarentena na instalação, que gerou grande oposição no Quênia. Sete trabalhadores de ajuda americanos que estavam no Congo para combater o surto de Ebola estão em quarentena em uma instalação no Quênia",
+          "id": "the_guardian-2026-07-19-1001",
+          "titulo": "São Tomé and Príncipe heads to polls in tense presidential election",
+          "resumo": "Incumbent Carlos Vila Nova hopes to defeat his former party and secure second term as independent\nVoters in São Tomé and Príncipe go to the polls for a presidential election on Sunday as one of Africa...",
+          "link": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
           "imagem": null,
+          "publicado_em": "2026-07-19T04:00:16.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-19-1003",
+          "titulo": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
+          "resumo": "Aid workers are first known people to quarantine at facility, which sparked huge opposition in Kenya \nSeven American aid workers who had been in Congo to fight the Ebola outbreak are quarantining at a...",
           "link": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
+          "imagem": null,
           "publicado_em": "2026-07-17T12:17:14.000Z"
         },
         {
-          "id": "the_guardian-2026-07-16T15:20:58.000Z-02",
-          "titulo": "Cortes de ajuda do Reino Unido reduzem o apoio bilateral a alguns países africanos em 90%",
-          "resumo": "Críticos dizem que os números do Foreign Office enviam uma mensagem global sobre o papel que o país deseja desempenhar no palco internacional. Os cortes de ajuda estrangeira do Reino Unido significam reduções de até 90% no apoio bilateral a alguns países africanos",
-          "imagem": null,
+          "id": "the_guardian-2026-07-19-1004",
+          "titulo": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
+          "resumo": "Critics say Foreign Office figures send ‘global message about the role the country wants to play on international stage’\nLabour’s foreign aid cuts mean reductions of as much as 90% in the bilateral su...",
           "link": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
+          "imagem": null,
           "publicado_em": "2026-07-16T15:20:58.000Z"
         },
         {
-          "id": "the_guardian-2026-07-16T11:33:27.000Z-03",
-          "titulo": "Uganda pede que as restrições de viagem sejam levantadas após a última paciente de Ebola ser liberada",
-          "resumo": "O país começa a contagem regressiva de 42 dias para que o surto seja oficialmente declarado encerrado, à medida que os números continuam a aumentar na República Democrática do Congo. A Uganda começou a lobby para que os países levantem as restrições de viagem",
-          "imagem": null,
+          "id": "the_guardian-2026-07-19-1005",
+          "titulo": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
+          "resumo": "Country begins 42-day countdown to outbreak being declared officially over, as numbers continue to rise in neighbouring Democratic Republic of the Congo\nUganda has started lobbying countries to lift E...",
           "link": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
+          "imagem": null,
           "publicado_em": "2026-07-16T11:33:27.000Z"
         },
         {
-          "id": "the_guardian-2026-07-16T04:30:13.000Z-04",
-          "titulo": "Informante interno da inteligência marroquina revela uso generalizado do software de hacking Pegasus",
-          "resumo": "Denunciante sugere que os serviços de segurança interna implantaram o spyware a partir de 2017 contra alvos domésticos e estrangeiros importantes. Um ex-membro do serviço de inteligência interno de Marrocos ajudou a fornecer uma visão rara do uso generalizado do software de hacking Pegasus",
-          "imagem": null,
-          "link": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
-          "publicado_em": "2026-07-16T04:30:13.000Z"
-        },
-        {
-          "id": "the_guardian-2026-07-18T19:11:13.000Z-05",
-          "titulo": "Alertas de inundações repentinas atingem o nordeste dos EUA em meio a fumaça de incêndios florestais do Canadá",
-          "resumo": "A qualidade do ar ruim devido a incêndios florestais continua a afetar a cidade de Nova York, enquanto vários bairros são atingidos por tempestades. O sábado traz uma dose dupla de tempo perigoso no nordeste dos EUA",
-          "imagem": null,
+          "id": "the_guardian-2026-07-19-1006",
+          "titulo": "Flash flood warnings strike north-east US amid wildfire smoke from Canada",
+          "resumo": "Poor air quality from wildfires continues to plague New York City as several neighborhoods hit by thunderstorms\nSaturday is delivering a double dose of dangerous weather across the north-eastern US, w...",
           "link": "https://www.theguardian.com/us-news/2026/jul/18/flash-flood-weather-north-east-us",
+          "imagem": null,
           "publicado_em": "2026-07-18T19:11:13.000Z"
         },
         {
-          "id": "the_guardian-2026-07-18T14:13:36.000Z-06",
-          "titulo": "Alertas de qualidade do ar permanecem em vigor nos EUA à medida que a fumaça de incêndios florestais continua a envolver o país",
-          "resumo": "A chuva pode aliviar as condições na região do Atlântico Médio e nordeste, com a final da Copa do Mundo prevista para ocorrer no domingo. Alertas de condições perigosas devem permanecer em vigor em todo o país",
-          "imagem": null,
+          "id": "the_guardian-2026-07-19-1007",
+          "titulo": "Air quality warnings remain in place across US as wildfire smoke continues to swathe country",
+          "resumo": "Rain could alleviate conditions in mid-Atlantic and north-east, with World Cup final expected to go ahead on Sunday\nWarnings of dangerous conditions are expected to remain in place on Saturday across ...",
           "link": "https://www.theguardian.com/world/2026/jul/18/air-quality-warnings-canada-wildfires",
+          "imagem": null,
           "publicado_em": "2026-07-18T14:13:36.000Z"
         },
         {
-          "id": "the_guardian-2026-07-18T13:14:57.000Z-07",
-          "titulo": "Cuba está à beira do colapso à medida que cortes de energia e interferência dos EUA empurram a sociedade para o limite",
-          "resumo": "À medida que Cuba sufoca sob um bloqueio de seis meses imposto pelos EUA, os temperamentos estão se desgastando e o descontentamento está crescendo. Quando a rede nacional de Cuba colapsa, como aconteceu pela terceira vez em 10 dias na terça-feira",
-          "imagem": null,
+          "id": "the_guardian-2026-07-19-1008",
+          "titulo": "Cuba edges toward breakdown as power cuts and US meddling push society to brink",
+          "resumo": "As Cuba swelters under six-month oil blockade imposed by US, tempers are fraying and unrest is growing\nWhen Cuba’s national grid collapses, as it did for the third time in 10 days on Tuesday, a collec...",
           "link": "https://www.theguardian.com/world/2026/jul/18/cuba-edges-toward-breakdown-as-power-cuts-and-us-meddling-push-society-to-brink",
+          "imagem": null,
           "publicado_em": "2026-07-18T13:14:57.000Z"
         },
         {
-          "id": "the_guardian-2026-07-18T10:54:07.000Z-08",
-          "titulo": "Casa Branca apoia jogadores da Argentina sobre faixa das Falklands na semifinal da Copa do Mundo",
-          "resumo": "Chefe da força-tarefa da Fifa da Casa Branca defende os jogadores de futebol da Argentina, dizendo que os EUA acreditam na liberdade de expressão. A Casa Branca apoia os jogadores de futebol da Argentina que exibiram uma faixa apoiando a reivindicação do país sobre as ilhas Falklands",
-          "imagem": null,
+          "id": "the_guardian-2026-07-19-1009",
+          "titulo": "White House backs Argentina players over Falklands banner in World Cup semi-final",
+          "resumo": "White House Fifa taskforce chief defends Argentina footballers, saying US believes in free speech\nThe White House has backed Argentina’s footballers who displayed a banner supporting their country’s c...",
           "link": "https://www.theguardian.com/football/2026/jul/18/white-house-backs-argentina-team-falklands-banner-world-cup-semi-final",
+          "imagem": null,
           "publicado_em": "2026-07-18T10:54:07.000Z"
         },
         {
-          "id": "the_guardian-2026-07-17T22:28:42.000Z-09",
-          "titulo": "Artista dissidente cubano Luis Manuel Otero Alcántara liberado para viajar para os EUA",
-          "resumo": "O paradeiro do artista, preso após os protestos de 2021, era desconhecido após o fim de sua pena de prisão em julho. Luis Manuel Otero Alcántara, um proeminente artista dissidente cubano cujo paradeiro permanecia desconhecido",
-          "imagem": null,
+          "id": "the_guardian-2026-07-19-1010",
+          "titulo": "Cuban dissident artist Luis Manuel Otero Alcántara cleared to travel to US",
+          "resumo": "Whereabouts of artist imprisoned after 2021 protests had been unknown following end of his prison term in July\nLuis Manuel Otero Alcántara, a prominent Cuban dissident artist whose whereabouts remaine...",
           "link": "https://www.theguardian.com/world/2026/jul/17/cuban-dissident-artist-luis-manuel-otero-alcantara-cleared-to-travel-to-us",
+          "imagem": null,
           "publicado_em": "2026-07-17T22:28:42.000Z"
         },
         {
-          "id": "the_guardian-2026-07-17T21:36:05.000Z-10",
-          "titulo": "Austrália atualiza conselhos de viagem para o Laos à medida que acusações são anunciadas sobre envenenamento em massa por metanol",
-          "resumo": "O dono da destilaria pode enfrentar apenas três meses de prisão pelo suposto envenenamento de adolescentes australianos. O governo australiano aumentou os conselhos de viagem para o Laos",
-          "imagem": null,
+          "id": "the_guardian-2026-07-19-1011",
+          "titulo": "Australia updates travel advice for Laos as charges announced over mass methanol poisoning",
+          "resumo": "Distillery owner could face only three months in jail over alleged poisoning of Australian teenagers\n\nGet our breaking news email, free app or daily news podcast\n\nThe Australian government has increas...",
           "link": "https://www.theguardian.com/australia-news/2026/jul/17/distillery-owner-could-face-only-three-months-in-jail-over-alleged-poisoning-australian-teenagers",
+          "imagem": null,
           "publicado_em": "2026-07-17T21:36:05.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-19-1012",
+          "titulo": "Biodiversity fears as human-bred hybrid fish integrate into Philippines lake",
+          "resumo": "Escaped flowerhorn cichlids are causing concern for native species and about parasites capable of infecting humans\nEscaped ornamental aquarium fish have integrated into a local ecosystem in the Philip...",
+          "link": "https://www.theguardian.com/environment/2026/jul/17/biodiversity-fears-flowerhorn-cichlids-philippines-lake",
+          "imagem": null,
+          "publicado_em": "2026-07-17T14:00:31.000Z"
         }
       ]
     },
