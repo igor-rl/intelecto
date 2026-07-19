@@ -5,12 +5,12 @@
   "itens_urgentes": {},
   "destaques": [],
   "capa": {
-    "categoria_nome": "O que marcou o dia?",
-    "titulo": "Tensões globais: EUA e Irã em confronto",
-    "subtitulo": "Enquanto o mundo assiste à escalada de tensões entre EUA e Irã, outros conflitos e desafios globais permanecem em segundo plano",
-    "resumo": "O dia foi marcado por uma escalada significativa nas tensões entre os EUA e o Irã, com relatos de ataques aéreos e respostas militares. Essa situação tem implicações globais, especialmente considerando a presença militar americana na região e as alianças complexas envolvidas. Paralelamente, a Ucrânia e a Rússia continuam seu conflito, com ataques de drones ucranianos causando danos e vítimas em solo russo. Em outra frente, a comunidade internacional está atenta às eleições nos EUA, com acusações de interferência russa sendo rejeitadas pelo Kremlin. Enquanto isso, a África enfrenta seus próprios desafios, com o Sudão lidando com a fome entre famílias deslocadas e o Gabão enfrentando um aumento significativo em sua dívida pública. A Austrália também está nas manchetes, com discussões sobre direitos trans e imigração. É um cenário global complexo, com muitas histórias importantes competindo por atenção.",
+    "categoria_nome": "Conflitos Globais",
+    "titulo": "Tensões no Oriente Médio e África",
+    "subtitulo": "Ataques iranianos, eleições em São Tomé e Príncipe, e crise no Sudão",
+    "resumo": "O Oriente Médio continua em chamas com ataques iranianos contra tropas americanas na Jordânia, enquanto a comunidade internacional aguarda os resultados das eleições presidenciais em São Tomé e Príncipe. Em outro cenário, o Sudão enfrenta uma crise humanitária profunda, com o mundo parecendo ter parado de assistir. Enquanto isso, a Rússia e a Ucrânia continuam em conflito, com ataques de mísseis balísticos em Kiev. A África também enfrenta desafios, com a Venezuela lidando com o aumento do número de mortos devido a terremotos e a Indonésia se posicionando contra o Irã. Os EUA, por sua vez, emitem avisos de viagem globais devido a temores de escalada na guerra com o Irã.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-07-18T08:00:00-03:00",
+    "publicado_em": "2026-07-19T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -865,54 +865,54 @@
   },
   "temas_principais": [
     {
-      "tema": "Conflito EUA-Irã",
-      "descricao": "Escalada de tensões com ataques aéreos e respostas militares",
+      "tema": "Conflito no Oriente Médio",
+      "descricao": "Ataques iranianos contra tropas americanas na Jordânia e tensões entre EUA e Irã",
       "fontes_que_cobriram": [
         "euronews",
-        "st",
+        "new_york_times",
         "rt"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
         "scmp"
       ],
-      "divergencia_de_enquadramento": "Enquanto a euronews e o Straits Times destacam a gravidade do conflito, a RT enfatiza a posição do Irã e as ações dos EUA como agressivas"
+      "divergencia_de_enquadramento": "Enquanto a euronews e o New York Times destacam a gravidade dos ataques iranianos, a RT enfatiza a retaliação americana contra o Irã"
     },
     {
-      "tema": "Conflito Ucrânia-Rússia",
-      "descricao": "Ataques de drones ucranianos contra alvos russos",
+      "tema": "Eleições em São Tomé e Príncipe",
+      "descricao": "Eleição presidencial em São Tomé e Príncipe, com o atual presidente Carlos Vila Nova buscando a reeleição",
       "fontes_que_cobriram": [
-        "rt",
-        "st",
-        "mt"
+        "the_guardian",
+        "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "smh"
+        "rt",
+        "scmp"
       ],
-      "divergencia_de_enquadramento": "A RT e o Moscow Times destacam as vítimas e danos na Rússia, enquanto o Straits Times aborda o contexto mais amplo do conflito"
+      "divergencia_de_enquadramento": "A cobertura se concentra na importância da eleição para a estabilidade política do país"
     },
     {
-      "tema": "Desafios na África",
-      "descricao": "Fome no Sudão e aumento da dívida pública no Gabão",
+      "tema": "Crise no Sudão",
+      "descricao": "Situuação humanitária crítica no Sudão, com deslocados e necessidades básicas não atendidas",
       "fontes_que_cobriram": [
         "aa"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian",
-        "new_york_times"
+        "new_york_times",
+        "euronews"
       ],
-      "divergencia_de_enquadramento": "A AllAfrica destaca os desafios específicos enfrentados por países africanos, enquanto outras fontes não dedicam espaço a essas questões"
+      "divergencia_de_enquadramento": "A AllAfrica destaca a gravidade da crise, enquanto outras fontes não a mencionam"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Direitos trans e imigração na Austrália",
-      "por_que_importa": "Reflete debates globais sobre direitos humanos e políticas de imigração",
-      "cobertura": "Apenas o Sydney Morning Herald abordou o tema, destacando as opiniões de Pauline Hanson"
+      "tema": "Terremotos na Venezuela",
+      "por_que_importa": "Aumento do número de mortos e desafios para a recuperação",
+      "cobertura": "Apenas a euronews e o st mencionam os terremotos, enquanto outras fontes ignoram"
     },
     {
-      "tema": "Interferência russa nas eleições americanas",
-      "por_que_importa": "Tem implicações significativas para a política global e a segurança internacional",
-      "cobertura": "O tema foi mencionado por fontes como a RT e o Moscow Times, mas com enfoque na negação do Kremlin"
+      "tema": "Conflito entre Rússia e Ucrânia",
+      "por_que_importa": "Ataques de mísseis balísticos em Kiev e impacto na segurança regional",
+      "cobertura": "A RT e a moscow times destacam o conflito, enquanto outras fontes o mencionam brevemente"
     }
   ]
 }
