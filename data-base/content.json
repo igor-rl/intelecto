@@ -678,47 +678,159 @@
     "mt": {
       "slug": "mt",
       "nome": "The Moscow Times",
-      "gerado_em": "2026-07-20T10:46:02.071Z",
+      "gerado_em": "2026-07-20T21:46:15.318Z",
       "artigos": [
         {
           "id": "mt-2026-07-20-01",
-          "titulo": "Ataques ucranianos em toda a Rússia matam pelo menos 4",
-          "resumo": "O Ministério da Defesa da Rússia disse que interceptou quase 400 drones ucranianos entre domingo à noite e segunda-feira de manhã.",
+          "titulo": "Duma Estadual Espera Votar em Projeto de Lei Atualizado que Corta Críticos no Exílio de Serviços Bancários e de Propriedade",
+          "resumo": "A Duma Estadual aprovou anteriormente uma versão mais branda do projeto de lei — que incluiu congelamento de ativos básicos e negação de serviços consulares — em sua primeira leitura no mês de dezembro passado.",
           "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/20/ukrainian-attacks-across-russia-kill-at-least-4-a93283",
-          "publicado_em": "2026-07-20T07:36:00-03:00"
+          "link": "https://www.themoscowtimes.com/2026/07/20/state-duma-expected-to-vote-on-updated-bill-cutting-off-exiled-critics-from-banking-and-property-services-report-says-a93292",
+          "publicado_em": "2026-07-20T14:59:49-03:00"
         },
         {
           "id": "mt-2026-07-20-02",
-          "titulo": "Rússia atinge Ucrânia com maior número de mísseis balísticos, diz Kiev",
-          "resumo": "As forças russas aumentaram os ataques com mísseis balísticos em Kiev e outras cidades nas últimas semanas.",
+          "titulo": "O que Sabemos sobre as Consequências dos Ataques de Drones da Ucrânia em Wildberries",
+          "resumo": "Os ataques, um dos mais caros contra a infraestrutura comercial da Rússia desde o início da guerra, atingiram pequenas empresas com especial dureza.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/20/what-we-know-about-the-aftermath-of-ukraines-wildberries-drone-strikes-a93285",
+          "publicado_em": "2026-07-20T14:02:00-03:00"
+        },
+        {
+          "id": "mt-2026-07-20-03",
+          "titulo": "5 Mortos em Ataque de Drone a Ônibus perto da Fronteira com a Ucrânia, Diz Governador de Belgorod",
+          "resumo": "O governador interino da região de Belgorod, Alexander Shuvayev, disse que 23 pessoas foram feridas no ataque diurno.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/20/5-killed-in-drone-attack-on-bus-near-ukrainian-border-belgorod-governor-says-a93291",
+          "publicado_em": "2026-07-20T13:58:17-03:00"
+        },
+        {
+          "id": "mt-2026-07-20-04",
+          "titulo": "Rússia Prorroga Viagem sem Visto para Turistas Chineses",
+          "resumo": "A isenção, que reciprocamente isenta os russos do visto na China, agora está programada para expirar em dezembro de 2027.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/20/russia-extends-visa-free-travel-for-chinese-tourists-a93290",
+          "publicado_em": "2026-07-20T13:36:06-03:00"
+        },
+        {
+          "id": "mt-2026-07-20-05",
+          "titulo": "Exército Russo Restabeleceu Controle sobre Estrada de Suprimento-Chave para a Crimeia, Afirma Oficial",
+          "resumo": "Kyiv prometeu “isolar” a Crimeia da Rússia continental, tomando o controle da rodovia R-280 na Ucrânia ocupada no sul.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/20/russian-army-restored-control-over-key-supply-highway-to-crimea-official-claims-a93287",
+          "publicado_em": "2026-07-20T11:59:53-03:00"
+        },
+        {
+          "id": "mt-2026-07-20-06",
+          "titulo": "Ativista de Chelyabinsk Encerra Candidatura à Eleição após Pular de Janela para Evitar a Polícia",
+          "resumo": "Mikhail Popov fraturou a coluna vertebral e foi hospitalizado na semana passada após pular de uma janela do segundo andar enquanto tentava fugir de policiais que visitavam sua casa.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/20/chelyabinsk-activist-ends-election-bid-after-jump-from-window-to-escape-police-a93286",
+          "publicado_em": "2026-07-20T10:16:00-03:00"
+        },
+        {
+          "id": "mt-2026-07-20-07",
+          "titulo": "Juiz de Moscou Ordena Prisão de Pesquisador Espacial por Alegações de Traição",
+          "resumo": "Maxim Kravchuk, especialista em aerodinâmica, trabalha no Instituto Central de Pesquisa de Máquinas, uma instituição de pesquisa sediada em Moscou que opera sob a agência espacial estatal Roscosmos.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/20/moscow-judge-orders-detention-of-space-researcher-on-treason-allegations-a93284",
+          "publicado_em": "2026-07-20T08:34:14-03:00"
+        },
+        {
+          "id": "mt-2026-07-20-08",
+          "titulo": "Ataques Noturnos da Ucrânia em Toda a Rússia Matam Pelo Menos 4 Pessoas",
+          "resumo": "O Ministério da Defesa da Rússia disse que interceptou quase 400 drones ucranianos entre a noite de domingo e a manhã de segunda-feira.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/20/overnight-ukrainian-attacks-across-russia-kill-at-least-4-a93283",
+          "publicado_em": "2026-07-20T07:36:00-03:00"
+        },
+        {
+          "id": "mt-2026-07-20-09",
+          "titulo": "Nadezhdin Diz que Sua Campanha Política Chegou ao Fim sob Pressão do Kremlin",
+          "resumo": "“Eu não tenho mais nenhuma oportunidade de me envolver em política de oposição legalmente na Rússia”, disse o político.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/19/nadezhdin-says-his-political-campaign-is-over-amid-kremlin-pressure-a93282",
+          "publicado_em": "2026-07-19T16:45:00-03:00"
+        },
+        {
+          "id": "mt-2026-07-20-10",
+          "titulo": "Rússia Ataca a Ucrânia com o Maior Número de Mísseis Balísticos, Diz Kyiv",
+          "resumo": "As forças russas aumentaram os ataques com mísseis balísticos em Kyiv e outras cidades nas últimas semanas.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/19/russia-hits-ukraine-with-largest-number-of-ballistic-missiles-kyiv-says-a93281",
           "publicado_em": "2026-07-19T09:12:08-03:00"
         },
         {
-          "id": "mt-2026-07-20-03",
-          "titulo": "Ataques de drones ucranianos matam 7 trabalhadores de armazém na Rússia",
+          "id": "mt-2026-07-20-11",
+          "titulo": "Ataques de Drones da Ucrânia Matam 7 Trabalhadores de Armazém na Rússia",
           "resumo": "Uma onda de drones ucranianos atingiu dois armazéns pertencentes ao varejista online Wildberries, bem como uma refinaria de petróleo na região de Moscou.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/18/ukrainian-drone-attacks-kill-7-warehouse-workers-in-russia-a93280",
           "publicado_em": "2026-07-18T08:06:00-03:00"
         },
         {
-          "id": "mt-2026-07-20-04",
-          "titulo": "Rússia e Ucrânia trocam corpos de mais de 530 soldados mortos",
-          "resumo": "A Ucrânia recebeu 501 corpos de seus soldados, enquanto a Rússia recebeu os restos mortais de 31 soldados.",
+          "id": "mt-2026-07-20-12",
+          "titulo": "Pode a Explosão da Dívida da Rússia em Tempos de Guerra Acarretar uma Crise Bancária?",
+          "resumo": "Os bancos estão cada vez mais expostos à medida que as taxas de juros altas e o crescimento lento tornam mais difícil para as empresas e os lares pagarem suas dívidas.",
           "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/16/russia-and-ukraine-exchange-bodies-of-over-530-fallen-soldiers-a93265",
-          "publicado_em": "2026-07-16T10:57:44-03:00"
+          "link": "https://www.themoscowtimes.com/2026/07/17/could-russias-wartime-debt-boom-trigger-a-banking-crisis-a93271",
+          "publicado_em": "2026-07-17T15:20:00-03:00"
         },
         {
-          "id": "mt-2026-07-20-05",
-          "titulo": "Juiz de Moscou ordena prisão de pesquisador espacial por acusações de traição",
-          "resumo": "Maxim Kravchuk, especialista em aerodinâmica, trabalha no Instituto Central de Pesquisa de Máquinas, uma instituição de pesquisa de Moscou que opera sob a agência espacial estatal Roscosmos.",
+          "id": "mt-2026-07-20-13",
+          "titulo": "Azerbaijão e Rússia Restabelecerão Voos Diretos Interrompidos após Acidente Aéreo Fatal",
+          "resumo": "O ministro das Relações Exteriores da Rússia, Sergei Lavrov, disse que ambos os países agora “resolveram todas as questões” relacionadas ao abate de um jato de passageiros azerbaijano no final de 2024.",
           "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/20/moscow-judge-orders-detention-of-space-researcher-on-treason-allegations-a93284",
-          "publicado_em": "2026-07-20T08:34:14-03:00"
+          "link": "https://www.themoscowtimes.com/2026/07/17/azerbaijan-and-russia-to-restore-direct-flights-halted-after-deadly-plane-crash-a93278",
+          "publicado_em": "2026-07-17T14:21:53-03:00"
+        },
+        {
+          "id": "mt-2026-07-20-14",
+          "titulo": "Kremlin Rejeita Alegação de Trump sobre Interferência nas Eleições",
+          "resumo": "“A Rússia nunca interferiu nos assuntos internos de outros países”, disse o porta-voz Dmitry Peskov aos repórteres.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/17/kremlin-rejects-trumps-election-interference-claim-a93277",
+          "publicado_em": "2026-07-17T12:27:00-03:00"
+        },
+        {
+          "id": "mt-2026-07-20-15",
+          "titulo": "Uma Lei contra a Violência Doméstica Desencadeia Reação",
+          "resumo": "Mulheres foram às redes sociais para criticar a afirmação da deputada Nina Ostanina de que uma lei contra a violência doméstica desencorajaria os homens a se casarem.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/17/a-lawmaker-said-a-domestic-violence-law-would-undermine-families-then-came-the-backlash-a93269",
+          "publicado_em": "2026-07-17T11:39:00-03:00"
+        },
+        {
+          "id": "mt-2026-07-20-16",
+          "titulo": "Tribunal de Moscou Fina Nadezhdin por Foto ‘Extremista’ de Navalny",
+          "resumo": "A condenação significa que Nadezhdin agora está proibido de coletar assinaturas para aparecer na cédula para as eleições da Duma Estadual em setembro.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/17/moscow-region-court-fines-nadezhdin-13-for-extremist-navalny-photo-a93276",
+          "publicado_em": "2026-07-17T10:37:00-03:00"
+        },
+        {
+          "id": "mt-2026-07-20-17",
+          "titulo": "Blogueiro Pró-Kremlin Preso por ‘Fakes de Guerra’ Meses após Denunciar Putin",
+          "resumo": "Em março, Ilya Remeslo chocou tanto apoiadores quanto críticos quando denunciou publicamente o presidente Vladimir Putin em um manifesto contundente.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/17/pro-kremlin-blogger-arrested-for-war-fakes-months-after-denouncing-putin-a93275",
+          "publicado_em": "2026-07-17T09:38:38-03:00"
+        },
+        {
+          "id": "mt-2026-07-20-18",
+          "titulo": "Ministro da Agricultura Admite ‘Patches Difíceis’ à Medida que a Escassez de Combustível Afeta Alguns Agricultores",
+          "resumo": "Putin emitiu uma diretiva no mês passado ordenando um cronograma de entrega de combustível estrito para as fazendas para contrariar o impacto dos ataques ucranianos em refinarias de petróleo.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/17/agriculture-minister-admits-to-rough-patches-as-fuel-shortages-squeeze-some-farmers-a93274",
+          "publicado_em": "2026-07-17T08:51:01-03:00"
+        },
+        {
+          "id": "mt-2026-07-20-19",
+          "titulo": "Nadezhdin Proibido de Deixar a Rússia antes de Audiência no Tribunal",
+          "resumo": "Boris Nadezhdin, que ganhou destaque durante uma tentativa fracassada de candidatura presidencial em 2024 em uma plataforma pró-paz, foi designado como um ‘agente estrangeiro’ na semana passada.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/16/nadezhdin-banned-from-leaving-russia-ahead-of-court-hearing-a93268",
+          "publicado_em": "2026-07-16T13:39:13-03:00"
         }
       ]
     },
