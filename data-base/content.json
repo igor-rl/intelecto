@@ -5,12 +5,12 @@
   "itens_urgentes": {},
   "destaques": [],
   "capa": {
-    "categoria_nome": "O que marcou o dia?",
-    "titulo": "Tensões Globais: Conflitos e Desafios",
-    "subtitulo": "De ataques no Mar Negro a eleições em São Tomé e Príncipe, o mundo enfrenta desafios variados",
-    "resumo": "O dia foi marcado por uma série de eventos que destacam as tensões globais atuais. No Mar Negro, um navio cargueiro foi atacado, resultando em mortos. Em São Tomé e Príncipe, as eleições presidenciais estão em andamento, com o atual presidente buscando a reeleição. Além disso, a situação na Ucrânia continua tensa, com ataques de drones e mísseis balísticos. A Coreia do Norte também está na cena internacional, com o presidente russo agradecendo o apoio do país na libertação de território russo. Enquanto isso, a África enfrenta seus próprios desafios, com a guerra no Sudão e a fome afetando famílias deslocadas. Os jornais também destacam a importância de não esquecer conflitos esquecidos e a necessidade de uma cobertura mais ampla e equilibrada dos eventos globais.",
+    "categoria_nome": "Conflitos Globais",
+    "titulo": "Tensão no Oriente Médio e Ucrânia",
+    "subtitulo": "Ataques entre EUA, Irã e Ucrânia, Rússia intensificam-se",
+    "resumo": "Os últimos dias têm sido marcados por uma escalada de tensões no Oriente Médio e na Ucrânia. Os EUA e o Irã têm trocado ataques, com o Irã retaliando contra bases americanas na região. Paralelamente, a Ucrânia e a Rússia continuam seu conflito, com a Ucrânia lançando drones em direção a Moscou e a Rússia intensificando seus ataques com mísseis balísticos. Esses conflitos têm gerado preocupações globais sobre a possibilidade de uma guerra mais ampla. Enquanto isso, a comunidade internacional tem pedido calma e diálogo para resolver as disputas. A situação é complexa, com diferentes narrativas sendo apresentadas pelas fontes de imprensa de acordo com suas perspectivas geopolíticas. É crucial entender essas diferentes perspectivas para ter uma visão completa dos eventos em andamento.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-07-19T08:00:00-03:00",
+    "publicado_em": "2026-07-20T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -746,52 +746,37 @@
   },
   "temas_principais": [
     {
-      "tema": "Ataques no Mar Negro",
-      "descricao": "Navio cargueiro atacado, resultando em mortos",
+      "tema": "Conflito EUA-Irã",
+      "descricao": "Ataques entre EUA e Irã intensificam-se, com risco de guerra mais ampla",
       "fontes_que_cobriram": [
-        "st",
-        "mt"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "rt"
-      ],
-      "divergencia_de_enquadramento": "While some sources like The Straits Times and The Moscow Times covered the attack, others like Russia Today downplayed its significance or shifted the focus to other events."
-    },
-    {
-      "tema": "Eleições em São Tomé e Príncipe",
-      "descricao": "Eleições presidenciais em andamento",
-      "fontes_que_cobriram": [
-        "the_guardian"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
         "new_york_times",
-        "euronews"
-      ],
-      "divergencia_de_enquadramento": "The Guardian provided in-depth coverage of the elections, while other sources like The New York Times and Euronews barely mentioned the event."
-    },
-    {
-      "tema": "Conflitos na Ucrânia",
-      "descricao": "Ataques de drones e mísseis balísticos",
-      "fontes_que_cobriram": [
-        "mt",
+        "euronews",
         "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
         "rt"
       ],
-      "divergencia_de_enquadramento": "Sources like The Moscow Times and The Straits Times reported on the ongoing conflicts, while Russia Today tended to focus on the Russian perspective and downplay Ukrainian actions."
+      "divergencia_de_enquadramento": "Enquanto some fontes enfatizam a retaliação do Irã, outras destacam a necessidade de contenção por parte dos EUA"
+    },
+    {
+      "tema": "Conflito Ucrânia-Rússia",
+      "descricao": "Ucrânia lança drones em direção a Moscou, Rússia aumenta ataques com mísseis balísticos",
+      "fontes_que_cobriram": [
+        "euronews",
+        "mt",
+        "st"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "scmp"
+      ],
+      "divergencia_de_enquadramento": "Narrativas variam entre uma perspectiva de defesa ucraniana e uma de agressão russa"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Guerra no Sudão",
-      "por_que_importa": "O conflito tem impacto humanitário significativo e está sendo marginalizado pela cobertura internacional",
-      "cobertura": "Apenas AllAfrica deu destaque ao tema, enquanto outros veículos de imprensa o ignoraram ou minimizaram."
-    },
-    {
-      "tema": "Fome em África",
-      "por_que_importa": "A fome afeta milhares de pessoas e é um problema crítico que requer atenção internacional",
-      "cobertura": "AllAfrica e alguns outros veículos africanos destacaram a questão, mas a cobertura foi geralmente escassa nos principais jornais internacionais."
+      "tema": "Crise Humanitária em Moçambique",
+      "por_que_importa": "Necessidade de assistência humanitária em Cabo Delgado",
+      "cobertura": "Apenas AllAfrica cobriu o tema, destacando a necessidade de ajuda internacional"
     }
   ]
 }
