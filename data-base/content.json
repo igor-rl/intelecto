@@ -327,18 +327,90 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-07-19T21:15:38.613Z",
+      "gerado_em": "2026-07-20T10:15:38.893Z",
       "artigos": [
         {
-          "id": "rt-2026-07-19-21-01",
-          "titulo": "Trump recorre a whataboutism após ataque iraniano matar tropas dos EUA",
-          "resumo": "O presidente dos EUA, Donald Trump, descartou as críticas dos democratas sobre a guerra com o Irã, apontando para baixas mais altas no Vietnã e no Afeganistão",
+          "id": "rt-2026-07-20-01",
+          "titulo": "Canadá proíbe viajantes estrangeiros devido ao surto de ebola",
+          "resumo": "O Canadá impôs novas restrições de entrada a nacionais estrangeiros que estiveram recentemente na República Democrática do Congo, citando o surto de ebola",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5de56e2030271ce647f2b9.jpg",
+          "link": "https://www.rt.com/africa/643249-canada-bars-foreign-travelers-over-drcongo-ebola-outbreak/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-20T09:31:54.000Z"
+        },
+        {
+          "id": "rt-2026-07-20-02",
+          "titulo": "Israel gastou mais de $45 milhões em campanha de propaganda com IA nos EUA",
+          "resumo": "Israel está gastando dezenas de milhões em uma campanha com IA para influenciar a opinião pública nos EUA, segundo o Wall Street Journal",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5d931b85f54027f93a55ce.jpg",
+          "link": "https://www.rt.com/news/643245-israel-50-million-influence-opinion/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-20T06:41:45.000Z"
+        },
+        {
+          "id": "rt-2026-07-20-03",
+          "titulo": "Unidade do FSB russo caça operadores de drones ucranianos (VÍDEO)",
+          "resumo": "O Serviço de Segurança Federal da Rússia (FSB) divulgou imagens de sua unidade de drones eliminando sabotadores ucranianos na cidade de Konstantinovka",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5ce3a685f54007db1c73eb.png",
+          "link": "https://www.rt.com/russia/643231-fsb-drone-unit-video/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-20T04:06:35.000Z"
+        },
+        {
+          "id": "rt-2026-07-20-04",
+          "titulo": "Mais de 400 drones ucranianos lançados em direção a Moscou e subúrbios – autoridades",
+          "resumo": "Mais de 400 drones ucranianos foram lançados em direção à região de Moscou durante a noite, de acordo com o prefeito de Moscou, Sergey Sobyanin",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5dceed2030271ce647f2b5.jpg",
+          "link": "https://www.rt.com/russia/643246-moscow-ukrainian-drone-raid/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-20T03:34:02.000Z"
+        },
+        {
+          "id": "rt-2026-07-20-05",
+          "titulo": "Starmer sai, Burnham entra: O que você precisa saber sobre a nova liderança do Reino Unido",
+          "resumo": "O Reino Unido acolhe seu sétimo primeiro-ministro em uma década, Andy Burnham, após o colapso do governo de Keir Starmer",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5d40c285f5401b7a70fd32.jpg",
+          "link": "https://www.rt.com/news/643240-uk-leadership-change-explainer/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-20T03:03:33.000Z"
+        },
+        {
+          "id": "rt-2026-07-20-06",
+          "titulo": "Washington deve reconhecer o Irã como uma grande potência regional – ex-oficial",
+          "resumo": "O ex-chefe de contraterrorismo dos EUA, Joe Kent, instou Washington a abandonar suas bases no Oriente Médio e reconhecer o Irã como uma potência regional",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5d69bb20302716c32b18e8.jpg",
+          "link": "https://www.rt.com/news/643243-washington-recognize-iran-major-power/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-20T02:04:18.000Z"
+        },
+        {
+          "id": "rt-2026-07-20-07",
+          "titulo": "EUA adiam bombardeios noturnos ao Irã até após a final da Copa do Mundo",
+          "resumo": "Os EUA começaram sua nona noite consecutiva de ataques ao Irã apenas após a final da Copa do Mundo e a cerimônia de entrega do troféu terem terminado",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5d6f3285f54023b9364d95.png",
+          "link": "https://www.rt.com/news/643244-us-iran-bombing-world-cup/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-20T00:45:28.000Z"
+        },
+        {
+          "id": "rt-2026-07-20-08",
+          "titulo": "Trump apresenta pessoalmente o troféu da Copa do Mundo à Espanha (VÍDEOS)",
+          "resumo": "O presidente dos EUA, Donald Trump, se intrometeu na cerimônia de premiação, apresentando pessoalmente o troféu da Copa do Mundo da FIFA à Espanha",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5d5bff85f5402cdd7a9532.jpg",
+          "link": "https://www.rt.com/news/643242-spain-world-cup-trump/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-19T23:23:01.000Z"
+        },
+        {
+          "id": "rt-2026-07-20-09",
+          "titulo": "Tropas ucranianas capturadas em uma tentativa de golpe de relações públicas em Konstantinovka (VÍDEO)",
+          "resumo": "Kiev enviou tropas em uma missão suicida para a fortaleza perdida de Konstantinovka, no Donbass, segundo o Ministério da Defesa da Rússia",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5d4ea585f54029424c7c4f.png",
+          "link": "https://www.rt.com/russia/643241-konstantinovka-ukrainian-flag-pr-stunt/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-19T22:29:21.000Z"
+        },
+        {
+          "id": "rt-2026-07-20-10",
+          "titulo": "Trump recorre ao 'what aboutismo' após ataque iraniano matar tropas dos EUA",
+          "resumo": "O presidente dos EUA, Donald Trump, descartou as críticas dos democratas à guerra com o Irã, apontando para baixas mais altas no Vietnã e no Afeganistão",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5d36332030276998179a0b.jpg",
           "link": "https://www.rt.com/news/643239-trump-iran-war-casualties-democrats-vietnam-afghanistan/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-19T20:58:00.000Z"
         },
         {
-          "id": "rt-2026-07-19-21-02",
+          "id": "rt-2026-07-20-11",
           "titulo": "Putin agradece à Coreia do Norte por ajudar a liberar território russo",
           "resumo": "O presidente russo, Vladimir Putin, expressou gratidão à Coreia do Norte por ajudar a liberar a região de Kursk das forças ucranianas em 2025",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5d1f4c2030276c44735572.jpg",
@@ -346,15 +418,15 @@
           "publicado_em": "2026-07-19T20:43:10.000Z"
         },
         {
-          "id": "rt-2026-07-19-21-03",
+          "id": "rt-2026-07-20-12",
           "titulo": "Homem que se assemelha a Hitler é convocado a comparecer em tribunal alemão – mídia",
-          "resumo": "Um homem holandês que se assemelha a Hitler foi ordenado a comparecer em um tribunal alemão após elogiar publicamente o líder nazista, de acordo com a mídia",
+          "resumo": "Um homem holandês que se assemelha a Hitler, Stefan Wijkamp, foi ordenado a comparecer em um tribunal alemão após elogiar publicamente o líder nazista, segundo o Bild",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5d009a2030275e8a19e431.jpg",
           "link": "https://www.rt.com/news/643237-hitler-lookalike-summoned-german-court/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-19T17:29:30.000Z"
         },
         {
-          "id": "rt-2026-07-19-21-04",
+          "id": "rt-2026-07-20-13",
           "titulo": "Kiev vende vitória enquanto come seus próprios",
           "resumo": "A demissão súbita de um 'garoto-propaganda' de guerra expõe as mentiras, rivalidades e pânico por trás da narrativa triunfalista da Ucrânia",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5cf27f85f54060b4643d9c.jpg",
@@ -362,31 +434,31 @@
           "publicado_em": "2026-07-19T16:23:06.000Z"
         },
         {
-          "id": "rt-2026-07-19-21-05",
-          "titulo": "Oposição do Reino Unido exige congelamento de ajuda ao Paquistão por causa de predador sexual de crianças",
-          "resumo": "Partidos de oposição do Reino Unido exigem o congelamento de ajuda e vistos após o Paquistão se recusar a aceitar a extradição de um condenado por estuprar crianças",
+          "id": "rt-2026-07-20-14",
+          "titulo": "Oposição do Reino Unido exige congelamento de ajuda ao Paquistão devido a predador sexual de crianças",
+          "resumo": "Partidos de oposição do Reino Unido exigiram o congelamento de ajuda e vistos após o Paquistão se recusar a aceitar a extradição de Shabir Ahmed, condenado por estupro de crianças",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5c64d185f54060b4643d89.jpg",
           "link": "https://www.rt.com/news/643221-uk-opposition-demands-pakistan-aid/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-19T15:43:47.000Z"
         },
         {
-          "id": "rt-2026-07-19-21-06",
+          "id": "rt-2026-07-20-15",
           "titulo": "Defesas aéreas dos EUA lutam contra mísseis iranianos – mídia",
-          "resumo": "Os EUA estão preocupados com o fato de os mísseis iranianos estarem se tornando mais difíceis de interceptar, de acordo com várias fontes da mídia",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5cd94820302770fc4eec22.jpg",
+          "resumo": "Os EUA estão preocupados que os mísseis iranianos estejam se tornando mais difíceis de interceptar, segundo vários meios de comunicação",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5da99320302720233d16f6.jpg",
           "link": "https://www.rt.com/news/643230-us-concerned-iran-growing-missile-prowess-media/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-19T14:48:33.000Z"
         },
         {
-          "id": "rt-2026-07-19-21-07",
-          "titulo": "Corpos torturados encontrados pendurados em ponte no México (VÍDEO GRÁFICO)",
-          "resumo": "Os corpos de dez pessoas, incluindo cinco pendurados em uma ponte rodoviária, foram descobertos em todo o estado de Zacatecas, no México, no sábado",
+          "id": "rt-2026-07-20-16",
+          "titulo": "Corpos torturados encontrados pendurados em uma ponte no México (VÍDEO GRÁFICO)",
+          "resumo": "Os corpos de dez pessoas, incluindo cinco pendurados em uma ponte rodoviária, foram descobertos em todo o estado mexicano de Zacatecas no sábado",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5ca9ab2030276a2242f6f4.jpg",
           "link": "https://www.rt.com/news/643227-tortured-bodies-found-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-19T10:59:35.000Z"
         },
         {
-          "id": "rt-2026-07-19-21-08",
+          "id": "rt-2026-07-20-17",
           "titulo": "EUA prontos para permitir que a Arábia Saudita enriqueça urânio – CNN",
           "resumo": "Os EUA concordaram em permitir que a Arábia Saudita enriqueça urânio sem salvaguardas da AIEA, com o acordo aguardando assinatura presidencial",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5c9f8d85f5401fcb2883b8.jpg",
@@ -394,7 +466,7 @@
           "publicado_em": "2026-07-19T10:07:32.000Z"
         },
         {
-          "id": "rt-2026-07-19-21-09",
+          "id": "rt-2026-07-20-18",
           "titulo": "Irmãos Tate presos nos EUA",
           "resumo": "Os influenciadores de mídia social Andrew e Tristan Tate foram presos em Miami após a Grã-Bretanha solicitar sua extradição para enfrentar 59 acusações",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5c69cf85f5400b1c2e5f92.jpg",
@@ -402,92 +474,20 @@
           "publicado_em": "2026-07-19T08:56:57.000Z"
         },
         {
-          "id": "rt-2026-07-19-21-10",
-          "titulo": "Ministério da Defesa russo lista alvos em último ataque à Ucrânia",
-          "resumo": "O Ministério da Defesa russo detalhou os alvos de seu último ataque de drones e mísseis contra sites militares ucranianos",
+          "id": "rt-2026-07-20-19",
+          "titulo": "Ministério da Defesa da Rússia lista alvos em último ataque à Ucrânia",
+          "resumo": "O Ministério da Defesa da Rússia detalhou os alvos de seu último ataque de drones e mísseis a instalações militares ucranianas",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5c771d85f54020f531f2a7.jpg",
           "link": "https://www.rt.com/russia/643223-russian-mod-lists-ukraine-targets/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-19T07:08:37.000Z"
         },
         {
-          "id": "rt-2026-07-19-21-11",
-          "titulo": "Surto de parasita causador de diarreia nos EUA rastreado até alface",
-          "resumo": "Autoridades de saúde dos EUA identificaram alface iceberg ralada servida em restaurantes Taco Bell como a fonte do surto de Cyclospora",
+          "id": "rt-2026-07-20-20",
+          "titulo": "Surto de parasita que causa diarreia nos EUA rastreado até alface",
+          "resumo": "Autoridades de saúde dos EUA identificaram alface iceberg ralada servida em restaurantes Taco Bell como a fonte do surto de Ciclospora",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5b698c85f5400b2274d4ff.jpg",
           "link": "https://www.rt.com/news/643199-us-cyclosporiasis-diarrhea-outbreak-lettuce/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-19T02:40:19.000Z"
-        },
-        {
-          "id": "rt-2026-07-19-21-12",
-          "titulo": "Netanyahu pode ser preso durante visita a Nova York – prefeito",
-          "resumo": "O prefeito de Nova York, Zohran Mamdani, está explorando a possibilidade legal de prender o primeiro-ministro israelense Benjamin Netanyahu durante a Assembleia Geral das Nações Unidas",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5c1aed85f540179d44e41e.jpg",
-          "link": "https://www.rt.com/news/643220-netanyahu-arrest-nyc-mamdani/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-19T01:01:53.000Z"
-        },
-        {
-          "id": "rt-2026-07-19-21-13",
-          "titulo": "Kiev atingida por ataques de drones e mísseis (VÍDEOS)",
-          "resumo": "A capital ucraniana foi atingida por um ataque combinado de drones e mísseis no início da manhã de domingo, de acordo com o Ministério da Defesa",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5c10bf85f5401b9c59cafa.jpg",
-          "link": "https://www.rt.com/russia/643219-kiev-missiles-strikes-fires/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-18T23:48:49.000Z"
-        },
-        {
-          "id": "rt-2026-07-19-21-14",
-          "titulo": "EUA emitem aviso de viagem para todo o mundo",
-          "resumo": "O Departamento de Estado dos EUA emitiu um aviso de segurança para todo o mundo devido a temores de uma escalada adicional na guerra renovada entre Washington e o Irã",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5bfafc85f54060b4643d82.jpg",
-          "link": "https://www.rt.com/news/643218-us-iran-worldwide-travel-warning/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-18T22:16:25.000Z"
-        },
-        {
-          "id": "rt-2026-07-19-21-15",
-          "titulo": "Líder gay do partido no poder alemão renuncia devido a controvérsia sobre gestação de substituição",
-          "resumo": "O líder parlamentar da coalizão governista alemã foi forçado a renunciar após ter um filho por gestação de substituição com seu marido",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5be86785f540179d44e412.jpg",
-          "link": "https://www.rt.com/news/643204-german-gay-mp-scandal/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-18T20:56:23.000Z"
-        },
-        {
-          "id": "rt-2026-07-19-21-16",
-          "titulo": "Nenhum indiciamento após a morte de dezenas de detentos palestinos sob custódia israelense – Haaretz",
-          "resumo": "Investigações das Forças de Defesa de Israel sobre a morte de dezenas de detentos palestinos não resultaram em nenhum indiciamento, de acordo com o Haaretz",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5be2f92030277a660054d8.jpg",
-          "link": "https://www.rt.com/news/643216-zero-charges-filed-palestinian-detainee-deaths-idf-custody/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-18T20:33:49.000Z"
-        },
-        {
-          "id": "rt-2026-07-19-21-17",
-          "titulo": "Quatro militares dos EUA mortos em ataques retaliatórios iranianos – Pentágono",
-          "resumo": "Quatro militares dos EUA foram mortos em ataques de mísseis e drones iranianos contra instalações militares na Jordânia e no Iraque",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5bc5cc20302704c002fe00.png",
-          "link": "https://www.rt.com/news/643205-two-us-service-members-killed-iranian-retaliatory-strikes-pentagon/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-18T17:52:53.000Z"
-        },
-        {
-          "id": "rt-2026-07-19-21-18",
-          "titulo": "Ucrânia pode sofrer derrota militar – comandante sênior",
-          "resumo": "A Ucrânia pode sofrer uma derrota, pois a cadeia de comando do exército está se tornando cada vez mais ineficaz, disse o brigadeiro-general Sergey Sobko",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5b8e4485f540277161a3cc.jpg",
-          "link": "https://www.rt.com/russia/643202-ukraine-staring-defeat-senior-commander/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-18T16:10:10.000Z"
-        },
-        {
-          "id": "rt-2026-07-19-21-19",
-          "titulo": "Rússia destrói defesas ucranianas em importante fortaleza de Donbass – Ministério da Defesa",
-          "resumo": "A Rússia destruiu as defesas ucranianas na cidade de Krasny Liman, uma importante fortaleza de Donbass, anunciou o chefe do Estado-Maior, Valery Gerasimov",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5ba60f20302770f3363407.jpg",
-          "link": "https://www.rt.com/russia/643203-russia-on-track-liberate-liman/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-18T15:51:11.000Z"
-        },
-        {
-          "id": "rt-2026-07-19-21-20",
-          "titulo": "Drones russos com IA atacam navios de transporte ucranianos (VÍDEOS do Ministério da Defesa)",
-          "resumo": "Tropas russas atingiram vários navios que transportavam carga militar para a Ucrânia com drones com IA",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5b9e9185f54018b7592973.png",
-          "link": "https://www.rt.com/russia/643201-ukraine-shipping-drone-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-18T15:47:20.000Z"
         }
       ]
     },
