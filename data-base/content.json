@@ -5,10 +5,10 @@
   "itens_urgentes": {},
   "destaques": [],
   "capa": {
-    "categoria_nome": "Conflitos Globais",
-    "titulo": "Tensão no Oriente Médio e Ucrânia",
-    "subtitulo": "Ataques entre EUA, Irã e Ucrânia, Rússia intensificam-se",
-    "resumo": "Os últimos dias têm sido marcados por uma escalada de tensões no Oriente Médio e na Ucrânia. Os EUA e o Irã têm trocado ataques, com o Irã retaliando contra bases americanas na região. Paralelamente, a Ucrânia e a Rússia continuam seu conflito, com a Ucrânia lançando drones em direção a Moscou e a Rússia intensificando seus ataques com mísseis balísticos. Esses conflitos têm gerado preocupações globais sobre a possibilidade de uma guerra mais ampla. Enquanto isso, a comunidade internacional tem pedido calma e diálogo para resolver as disputas. A situação é complexa, com diferentes narrativas sendo apresentadas pelas fontes de imprensa de acordo com suas perspectivas geopolíticas. É crucial entender essas diferentes perspectivas para ter uma visão completa dos eventos em andamento.",
+    "categoria_nome": "O que marcou o dia?",
+    "titulo": "Tensão global: EUA e Irã em conflito",
+    "subtitulo": "Enquanto a guerra entre EUA e Irã se intensifica, a Ucrânia dispara drones em Moscou e a Rússia responde com ataques",
+    "resumo": "O dia foi marcado por uma escalada na tensão global, com o conflito entre EUA e Irã se intensificando. Os EUA lançaram novos ataques após os Houthis apoiados pelo Irã declararem bloqueio de outra importante rota de petróleo. Em outra frente, a Ucrânia disparou drones em Moscou, e a Rússia respondeu com ataques. Além disso, a eleição presidencial em São Tomé e Príncipe e a nomeação do novo primeiro-ministro da Grã-Bretanha, Andy Burnham, também foram destaques do dia. A cobertura da imprensa variou, com alguns veículos destacando a tensão entre EUA e Irã, enquanto outros focaram na Ucrânia e na Rússia. A AllAfrica destacou a rejeição do Sudão às sanções dos EUA e a prisão de comandantes do Ansaru na Nigéria.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-07-20T08:00:00-03:00",
     "link": null,
@@ -962,36 +962,53 @@
   "temas_principais": [
     {
       "tema": "Conflito EUA-Irã",
-      "descricao": "Ataques entre EUA e Irã intensificam-se, com risco de guerra mais ampla",
+      "descricao": "EUA e Irã estão em conflito, com ataques e contra-ataques",
       "fontes_que_cobriram": [
         "new_york_times",
         "euronews",
-        "st"
+        "smh"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
         "rt"
       ],
-      "divergencia_de_enquadramento": "Enquanto some fontes enfatizam a retaliação do Irã, outras destacam a necessidade de contenção por parte dos EUA"
+      "divergencia_de_enquadramento": "A cobertura variou, com alguns veículos destacando a agressividade do Irã e outros focando na resposta dos EUA"
     },
     {
-      "tema": "Conflito Ucrânia-Rússia",
-      "descricao": "Ucrânia lança drones em direção a Moscou, Rússia aumenta ataques com mísseis balísticos",
+      "tema": "Ucrânia e Rússia",
+      "descricao": "Ucrânia dispara drones em Moscou e a Rússia responde com ataques",
       "fontes_que_cobriram": [
         "euronews",
-        "mt",
-        "st"
+        "st",
+        "mt"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "scmp"
+        "the_guardian"
       ],
-      "divergencia_de_enquadramento": "Narrativas variam entre uma perspectiva de defesa ucraniana e uma de agressão russa"
+      "divergencia_de_enquadramento": "A cobertura variou, com alguns veículos destacando a agressividade da Ucrânia e outros focando na resposta da Rússia"
+    },
+    {
+      "tema": "Eleição presidencial em São Tomé e Príncipe",
+      "descricao": "São Tomé e Príncipe vai às urnas em eleição presidencial tensa",
+      "fontes_que_cobriram": [
+        "the_guardian"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "new_york_times",
+        "euronews"
+      ],
+      "divergencia_de_enquadramento": "A cobertura foi limitada, com apenas o The Guardian destacando a eleição"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Crise Humanitária em Moçambique",
-      "por_que_importa": "Necessidade de assistência humanitária em Cabo Delgado",
-      "cobertura": "Apenas AllAfrica cobriu o tema, destacando a necessidade de ajuda internacional"
+      "tema": "Sudão rejeita sanções dos EUA",
+      "por_que_importa": "A rejeição das sanções dos EUA pelo Sudão é um tema importante que pode ter implicações para a região",
+      "cobertura": "Apenas a AllAfrica cobriu o tema"
+    },
+    {
+      "tema": "Prisão de comandantes do Ansaru na Nigéria",
+      "por_que_importa": "A prisão de comandantes do Ansaru na Nigéria é um tema importante que pode ter implicações para a segurança na região",
+      "cobertura": "Apenas a AllAfrica cobriu o tema"
     }
   ]
 }
