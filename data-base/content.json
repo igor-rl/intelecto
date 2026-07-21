@@ -6,9 +6,9 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Tensões Globais: Tarifas, Eleições e Conflitos",
-    "subtitulo": "Análise das principais manchetes do dia, com foco em tensões comerciais, eleições e conflitos globais",
-    "resumo": "O dia foi marcado por uma série de eventos que refletem as tensões globais atuais. A imposição de tarifas de 50% sobre produtos canadenses pelos EUA, anunciada por Donald Trump, é um exemplo claro dessas tensões comerciais. Além disso, a realização de eleições em São Tomé e Príncipe e a ameaça de fechamento do Bab el-Mandeb pelos Houthis do Iêmen são outros pontos de destaque. A cobertura desses eventos pela imprensa internacional variou, com alguns veículos dando mais atenção às implicações econômicas, enquanto outros se concentraram nos aspectos políticos e de segurança. É importante notar que a cobertura da crise no Sudão e do surto de Ebola na região dos Grandes Lagos foi relativamente escassa em algumas fontes, o que pode indicar uma falta de atenção internacional a essas questões críticas.",
+    "titulo": "Tensões globais: EUA, Irã e Ucrânia no centro",
+    "subtitulo": "Enquanto a crise política na Ucrânia se aprofunda, as tensões entre EUA e Irã aumentam, com a Rússia e a China observando",
+    "resumo": "O dia foi marcado por uma série de eventos que destacam as tensões globais. A Ucrânia está no centro de uma crise política, com o presidente Zelensky demitindo o chefe do exército, Syrsky. Enquanto isso, as tensões entre EUA e Irã aumentam, com o presidente Trump ameaçando atacar o local nuclear de Pickaxe Mountain. A Rússia e a China observam esses desenvolvimentos com atenção, enquanto a Arábia Saudita e os Emirados Árabes Unidos buscam unidade após meses de tensão. Além disso, a África do Sul assinou um empréstimo de US$ 1,5 bilhão com o Banco Mundial para apoiar reformas de infraestrutura. Esses eventos mostram a complexidade das relações internacionais e a necessidade de uma abordagem cuidadosa e informada para navegar essas tensões.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-07-21T08:00:00-03:00",
     "link": null,
@@ -1048,51 +1048,47 @@
   },
   "temas_principais": [
     {
-      "tema": "Tarifas EUA-Canadá",
-      "descricao": "Imposto de 50% sobre produtos canadenses pelos EUA",
+      "tema": "Crise política na Ucrânia",
+      "descricao": "O presidente Zelensky demitiu o chefe do exército, Syrsky, após protestos que pediam sua demissão.",
       "fontes_que_cobriram": [
-        "The New York Times",
-        "Euronews"
+        "the_guardian",
+        "new_york_times",
+        "euronews",
+        "scmp",
+        "rt",
+        "st",
+        "mt"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "AllAfrica"
+        "aa",
+        "smh"
       ],
-      "divergencia_de_enquadramento": "Enquanto o The New York Times destaca as implicações econômicas, a Euronews se concentra nas relações bilaterais entre os EUA e o Canadá"
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a crise política na Ucrânia, enquanto as fontes russas e chinesas destacam a importância da estabilidade na região."
     },
     {
-      "tema": "Eleições em São Tomé e Príncipe",
-      "descricao": "Realização de eleições presidenciais no país africano",
+      "tema": "Tensões entre EUA e Irã",
+      "descricao": "O presidente Trump ameaçou atacar o local nuclear de Pickaxe Mountain no Irã, aumentando as tensões entre os dois países.",
       "fontes_que_cobriram": [
-        "The Guardian"
+        "the_guardian",
+        "new_york_times",
+        "euronews",
+        "scmp",
+        "rt",
+        "st",
+        "smh"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "The Moscow Times"
+        "aa",
+        "mt"
       ],
-      "divergencia_de_enquadramento": "A cobertura do The Guardian se concentra nos desafios políticos do país, enquanto outras fontes não deram atenção significativa ao evento"
-    },
-    {
-      "tema": "Ameaça de fechamento do Bab el-Mandeb",
-      "descricao": "Houthis do Iêmen ameaçam fechar o estreito",
-      "fontes_que_cobriram": [
-        "Euronews",
-        "The Straits Times"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "The Sydney Morning Herald"
-      ],
-      "divergencia_de_enquadramento": "A Euronews destaca as implicações para a navegação e o comércio, enquanto The Straits Times se concentra nas implicações de segurança regional"
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a ameaça iraniana, enquanto as fontes russas e chinesas destacam a necessidade de diálogo e cooperação."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Crise no Sudão",
-      "por_que_importa": "A crise no Sudão tem implicações significativas para a estabilidade regional e a segurança humana",
-      "cobertura": "A cobertura foi escassa em fontes como The New York Times e Euronews, enquanto AllAfrica deu mais atenção ao tema"
-    },
-    {
-      "tema": "Surto de Ebola na região dos Grandes Lagos",
-      "por_que_importa": "O surto de Ebola é uma questão de saúde pública crítica que requer atenção internacional",
-      "cobertura": "A cobertura foi limitada em fontes como The Guardian e The Moscow Times, enquanto AllAfrica e algumas fontes regionais deram mais atenção ao tema"
+      "tema": "Desenvolvimentos na África",
+      "por_que_importa": "A África é um continente em crescimento, com muitos desafios e oportunidades.",
+      "cobertura": "A cobertura foi limitada, com apenas algumas fontes mencionando a África do Sul e a assinatura de um empréstimo com o Banco Mundial."
     }
   ]
 }
