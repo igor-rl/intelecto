@@ -6,11 +6,11 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Tensão global: EUA e Irã em conflito",
-    "subtitulo": "Enquanto a guerra entre EUA e Irã se intensifica, a Ucrânia dispara drones em Moscou e a Rússia responde com ataques",
-    "resumo": "O dia foi marcado por uma escalada na tensão global, com o conflito entre EUA e Irã se intensificando. Os EUA lançaram novos ataques após os Houthis apoiados pelo Irã declararem bloqueio de outra importante rota de petróleo. Em outra frente, a Ucrânia disparou drones em Moscou, e a Rússia respondeu com ataques. Além disso, a eleição presidencial em São Tomé e Príncipe e a nomeação do novo primeiro-ministro da Grã-Bretanha, Andy Burnham, também foram destaques do dia. A cobertura da imprensa variou, com alguns veículos destacando a tensão entre EUA e Irã, enquanto outros focaram na Ucrânia e na Rússia. A AllAfrica destacou a rejeição do Sudão às sanções dos EUA e a prisão de comandantes do Ansaru na Nigéria.",
+    "titulo": "Tensões Globais: Tarifas, Eleições e Conflitos",
+    "subtitulo": "Análise das principais manchetes do dia, com foco em tensões comerciais, eleições e conflitos globais",
+    "resumo": "O dia foi marcado por uma série de eventos que refletem as tensões globais atuais. A imposição de tarifas de 50% sobre produtos canadenses pelos EUA, anunciada por Donald Trump, é um exemplo claro dessas tensões comerciais. Além disso, a realização de eleições em São Tomé e Príncipe e a ameaça de fechamento do Bab el-Mandeb pelos Houthis do Iêmen são outros pontos de destaque. A cobertura desses eventos pela imprensa internacional variou, com alguns veículos dando mais atenção às implicações econômicas, enquanto outros se concentraram nos aspectos políticos e de segurança. É importante notar que a cobertura da crise no Sudão e do surto de Ebola na região dos Grandes Lagos foi relativamente escassa em algumas fontes, o que pode indicar uma falta de atenção internacional a essas questões críticas.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-07-20T08:00:00-03:00",
+    "publicado_em": "2026-07-21T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -952,54 +952,51 @@
   },
   "temas_principais": [
     {
-      "tema": "Conflito EUA-Irã",
-      "descricao": "EUA e Irã estão em conflito, com ataques e contra-ataques",
+      "tema": "Tarifas EUA-Canadá",
+      "descricao": "Imposto de 50% sobre produtos canadenses pelos EUA",
       "fontes_que_cobriram": [
-        "new_york_times",
-        "euronews",
-        "smh"
+        "The New York Times",
+        "Euronews"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "rt"
+        "AllAfrica"
       ],
-      "divergencia_de_enquadramento": "A cobertura variou, com alguns veículos destacando a agressividade do Irã e outros focando na resposta dos EUA"
+      "divergencia_de_enquadramento": "Enquanto o The New York Times destaca as implicações econômicas, a Euronews se concentra nas relações bilaterais entre os EUA e o Canadá"
     },
     {
-      "tema": "Ucrânia e Rússia",
-      "descricao": "Ucrânia dispara drones em Moscou e a Rússia responde com ataques",
+      "tema": "Eleições em São Tomé e Príncipe",
+      "descricao": "Realização de eleições presidenciais no país africano",
       "fontes_que_cobriram": [
-        "euronews",
-        "st",
-        "mt"
+        "The Guardian"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian"
+        "The Moscow Times"
       ],
-      "divergencia_de_enquadramento": "A cobertura variou, com alguns veículos destacando a agressividade da Ucrânia e outros focando na resposta da Rússia"
+      "divergencia_de_enquadramento": "A cobertura do The Guardian se concentra nos desafios políticos do país, enquanto outras fontes não deram atenção significativa ao evento"
     },
     {
-      "tema": "Eleição presidencial em São Tomé e Príncipe",
-      "descricao": "São Tomé e Príncipe vai às urnas em eleição presidencial tensa",
+      "tema": "Ameaça de fechamento do Bab el-Mandeb",
+      "descricao": "Houthis do Iêmen ameaçam fechar o estreito",
       "fontes_que_cobriram": [
-        "the_guardian"
+        "Euronews",
+        "The Straits Times"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "new_york_times",
-        "euronews"
+        "The Sydney Morning Herald"
       ],
-      "divergencia_de_enquadramento": "A cobertura foi limitada, com apenas o The Guardian destacando a eleição"
+      "divergencia_de_enquadramento": "A Euronews destaca as implicações para a navegação e o comércio, enquanto The Straits Times se concentra nas implicações de segurança regional"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Sudão rejeita sanções dos EUA",
-      "por_que_importa": "A rejeição das sanções dos EUA pelo Sudão é um tema importante que pode ter implicações para a região",
-      "cobertura": "Apenas a AllAfrica cobriu o tema"
+      "tema": "Crise no Sudão",
+      "por_que_importa": "A crise no Sudão tem implicações significativas para a estabilidade regional e a segurança humana",
+      "cobertura": "A cobertura foi escassa em fontes como The New York Times e Euronews, enquanto AllAfrica deu mais atenção ao tema"
     },
     {
-      "tema": "Prisão de comandantes do Ansaru na Nigéria",
-      "por_que_importa": "A prisão de comandantes do Ansaru na Nigéria é um tema importante que pode ter implicações para a segurança na região",
-      "cobertura": "Apenas a AllAfrica cobriu o tema"
+      "tema": "Surto de Ebola na região dos Grandes Lagos",
+      "por_que_importa": "O surto de Ebola é uma questão de saúde pública crítica que requer atenção internacional",
+      "cobertura": "A cobertura foi limitada em fontes como The Guardian e The Moscow Times, enquanto AllAfrica e algumas fontes regionais deram mais atenção ao tema"
     }
   ]
 }
