@@ -489,87 +489,167 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-07-21T10:15:55.336Z",
+      "gerado_em": "2026-07-21T21:15:59.161Z",
       "artigos": [
         {
-          "id": "rt-2026-07-21-01",
-          "titulo": "FMI aprova nova parcela para Ucrânia apesar de 'deslize' nas reformas anticorrupção",
-          "resumo": "O FMI aprovou uma parcela de US$ 690 milhões do empréstimo para a Ucrânia, admitindo que Kiev perdeu ou atrasou reformas anticorrupção.",
+          "id": "rt-2026-07-21-21-01",
+          "titulo": "Zelensky demite general ucraniano Syrsky",
+          "resumo": "O presidente ucraniano, Vladimir Zelensky, demitiu o comandante militar de alta patente, General Aleksandr Syrsky, após protestos que pediam sua demissão",
+          "imagem": "https://mf.b37mrtl.ru/files/static.en/thumbnail/breaking.jpg",
+          "link": "https://www.rt.com/russia/643311-ukraine-syrsky-sacked-zelensky/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-21T19:46:03.000Z"
+        },
+        {
+          "id": "rt-2026-07-21-21-02",
+          "titulo": "Rússia e Laos elogiam laços de 'alto nível'",
+          "resumo": "O ministro das Relações Exteriores da Rússia, Sergey Lavrov, e seu homólogo laosiano, Thongsavanh Phomvihane, elogiaram os laços de 'alto nível' entre os dois países na cúpula da ASEAN em Manila",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5f9baa85f54039483b6844.jpg",
+          "link": "https://www.rt.com/russia/643309-russia-laos-lavrov-asean-meeting/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-21T18:50:15.000Z"
+        },
+        {
+          "id": "rt-2026-07-21-21-03",
+          "titulo": "Reino Unido troca um fracasso por outro",
+          "resumo": "Burnham chega com uma onda de expectativa, mas suas promessas vagas e agenda pesada de nostalgia parecem não ser mais viáveis do que as de Starmer",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5fbd9485f5403124583508.jpg",
+          "link": "https://www.rt.com/news/643308-uk-burnham-hope-failure/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-21T18:44:21.000Z"
+        },
+        {
+          "id": "rt-2026-07-21-21-04",
+          "titulo": "Violência irrompe na Itália após homem marroquino ser 'morto como um cão'",
+          "resumo": "A ira aumenta em Bolonha, Itália, após a morte de um homem marroquino que morreu enquanto era contido pela polícia",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5f712a85f54030ca090414.png",
+          "link": "https://www.rt.com/news/643302-violence-erupts-in-italy-after/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-21T16:43:37.000Z"
+        },
+        {
+          "id": "rt-2026-07-21-21-05",
+          "titulo": "Mercenário americano receberá comida especial na prisão indiana",
+          "resumo": "Um tribunal indiano ordenou que um mercenário americano preso em uma prisão de Deli receba comida especial",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5f901b203027391a5bf365.png",
+          "link": "https://www.rt.com/india/643306-us-mercenary-special-food/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-21T16:16:26.000Z"
+        },
+        {
+          "id": "rt-2026-07-21-21-06",
+          "titulo": "Crise presidencial estagna a 'mudança de regime' húngara de Magyar",
+          "resumo": "A campeã de xadrez Judit Polgar recusou o convite do primeiro-ministro húngaro, Peter Magyar, para substituir Tamas Sulyok como presidente",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5f91d985f54034877791f5.jpg",
+          "link": "https://www.rt.com/news/643307-hungary-magyar-chess-president/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-21T16:03:23.000Z"
+        },
+        {
+          "id": "rt-2026-07-21-21-07",
+          "titulo": "Grupo sul-africano investiga mortes atribuídas a ritos de iniciação",
+          "resumo": "Uma comissão de direitos humanos da África do Sul anunciou uma investigação após a morte de 43 meninos e jovens durante ritos de iniciação tradicionais",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5f8275203027391a5bf35b.jpg",
+          "link": "https://www.rt.com/africa/643304-south-african-group-investigates-traditional-initiation-rites-deaths/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-21T14:45:08.000Z"
+        },
+        {
+          "id": "rt-2026-07-21-21-08",
+          "titulo": "Ucrânia por trás de ataques de drones a petroleiros cazaques – Moscou",
+          "resumo": "A Ucrânia foi responsável por ataques de drones a petroleiros que transportavam petróleo cazaque pela rota de exportação do Consórcio de Petróleo do Cáspio, afirma Moscou",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5f7c4085f5401959331683.jpg",
+          "link": "https://www.rt.com/russia/643301-ukraine-strikes-kazakh-tankers/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-21T14:33:25.000Z"
+        },
+        {
+          "id": "rt-2026-07-21-21-09",
+          "titulo": "Quem é Ed Miliband, fanático por zero emissões e novo ministro das Relações Exteriores britânico?",
+          "resumo": "Downing Street nomeou o ex-secretário de Energia, Ed Miliband, como o novo ministro das Relações Exteriores da Grã-Bretanha",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5f71d385f54039483b6836.jpg",
+          "link": "https://www.rt.com/news/643303-uk-fm-ed-miliband/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-21T14:04:01.000Z"
+        },
+        {
+          "id": "rt-2026-07-21-21-10",
+          "titulo": "Centro de Ebola dos EUA opera no Quênia apesar de proibição judicial – ativistas",
+          "resumo": "Ativistas quenianos consideram a quarentena de sete estrangeiros em uma instalação de Ebola apoiada pelos EUA inaceitável e uma violação de ordens judiciais",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5f718785f54030ca090419.jpg",
+          "link": "https://www.rt.com/africa/643299-us-ebola-center-operating-violation-kenyan-court-order/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-21T13:41:01.000Z"
+        },
+        {
+          "id": "rt-2026-07-21-21-11",
+          "titulo": "Rússia continuará atacando navios que transportam armas para a Ucrânia – Kremlin",
+          "resumo": "O Kremlin afirmou que a Rússia continuará a atacar navios usados para transportar armas e munições para as forças ucranianas",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5f73d285f54048e0300db3.jpg",
+          "link": "https://www.rt.com/russia/643300-russia-strike-ships-ukraine-weapons/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-21T13:30:15.000Z"
+        },
+        {
+          "id": "rt-2026-07-21-21-12",
+          "titulo": "Agricultores indianos marcham para Deli para protestar contra acordo comercial dos EUA",
+          "resumo": "Agricultores indianos dizem que um acordo comercial dos EUA pode prejudicar a indústria láctea nacional ao fornecer maior acesso ao mercado",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5f680d203027391a5bf348.png",
+          "link": "https://www.rt.com/india/643297-indian-farmers-march-delhi/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-21T12:12:29.000Z"
+        },
+        {
+          "id": "rt-2026-07-21-21-13",
+          "titulo": "Trump espera continuar lançando ataques ao Irã a partir de bases britânicas – The Telegraph",
+          "resumo": "O presidente dos EUA, Donald Trump, espera que o primeiro-ministro britânico, Andy Burnham, mantenha o acesso americano a bases britânicas para ataques contra o Irã",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5f453785f5402b977cccc5.jpg",
+          "link": "https://www.rt.com/news/643286-trump-uk-burnham-bases/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-21T10:52:07.000Z"
+        },
+        {
+          "id": "rt-2026-07-21-21-14",
+          "titulo": "Membro da OTAN rejeita coalizões pró-Ucrânia 'apenas de conversa'",
+          "resumo": "O primeiro-ministro tcheco, Andrej Babis, rejeitou duas coalizões apoiadas pelo Ocidente que visam fornecer assistência militar à Ucrânia",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5f3bc485f540091908b000.jpg",
+          "link": "https://www.rt.com/news/643284-czech-pm-babis-dismisses-coalition-willing/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-21T10:23:01.000Z"
+        },
+        {
+          "id": "rt-2026-07-21-21-15",
+          "titulo": "FMI aprova nova parcela de dinheiro para a Ucrânia apesar de 'deslize' na luta contra a corrupção",
+          "resumo": "O FMI aprovou uma parcela de US$ 690 milhões de seu empréstimo para a Ucrânia, enquanto admite que Kiev perdeu ou atrasou reformas anticorrupção",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5f393285f54030ca0903e6.jpg",
           "link": "https://www.rt.com/news/643280-imf-ukraine-tranche-reforms-slippage/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-21T09:36:22-03:00"
+          "publicado_em": "2026-07-21T09:36:22.000Z"
         },
         {
-          "id": "rt-2026-07-21-02",
-          "titulo": "Índia convoca diplomata russo após morte de 4 marinheiros em ataque ao porto de Odessa",
-          "resumo": "A Índia convocou o encarregado de negócios russo após a morte de 4 marinheiros indianos em um ataque ao porto de Odessa.",
+          "id": "rt-2026-07-21-21-16",
+          "titulo": "Índia convoca diplomata russo após 4 marinheiros serem mortos em ataque ao porto de Odessa",
+          "resumo": "A Índia convocou o encarregado de negócios russo após 4 marinheiros indianos serem mortos em um ataque ao porto de Odessa",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5f3c6185f5403d23267258.png",
           "link": "https://www.rt.com/india/643282-india-summons-russian-diplomat/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-21T09:29:55-03:00"
+          "publicado_em": "2026-07-21T09:29:55.000Z"
         },
         {
-          "id": "rt-2026-07-21-03",
-          "titulo": "Gasoduto africano do Atlântico recebe apoio significativo",
-          "resumo": "A CEDEAO apoiou um gasoduto de US$ 25 bilhões entre a Nigéria e o Marrocos, que pode abastecer mercados europeus.",
+          "id": "rt-2026-07-21-21-17",
+          "titulo": "Gasoduto atlântico africano recebe apoio significativo",
+          "resumo": "A CEDEAO apoiou um gasoduto de US$ 25 bilhões entre a Nigéria e o Marrocos, projetado para atravessar 13 países e potencialmente abastecer mercados europeus",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5f379985f54039483b681e.jpg",
           "link": "https://www.rt.com/africa/643283-nigeria-morocco-african-atlantic-gas-pipeline-receives-major-ecowas-backing/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-21T09:23:10-03:00"
+          "publicado_em": "2026-07-21T09:23:10.000Z"
         },
         {
-          "id": "rt-2026-07-21-04",
-          "titulo": "Houthis declaram bloqueio naval à Arábia Saudita",
-          "resumo": "Os Houthis declararam um bloqueio naval à Arábia Saudita, marcando uma escalada significativa no Oriente Médio.",
+          "id": "rt-2026-07-21-21-18",
+          "titulo": "Julgamento de mãe americana acusada de matar os três filhos começa",
+          "resumo": "Um julgamento começou nos EUA para uma mãe acusada de matar os três filhos, enquanto sua defesa de psicose pós-parto chama a atenção nacional",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5e431a20302744af22c1c0.jpg",
+          "link": "https://www.rt.com/news/643267-mother-murder-children-postpartum/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-21T03:53:14.000Z"
+        },
+        {
+          "id": "rt-2026-07-21-21-19",
+          "titulo": "Houthis declaram bloqueio naval da Arábia Saudita",
+          "resumo": "Os Houthis no Iêmen anunciaram um bloqueio marítimo da Arábia Saudita, marcando uma grande escalada no Oriente Médio",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5ee5cf85f54030ca0903d2.jpg",
           "link": "https://www.rt.com/news/643278-houthis-saudi-naval-blockade/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-21T03:25:03-03:00"
+          "publicado_em": "2026-07-21T03:25:03.000Z"
         },
         {
-          "id": "rt-2026-07-21-05",
-          "titulo": "Diretor do FBI planeja viagem a Moscou – Politico",
-          "resumo": "O diretor do FBI, Kash Patel, planeja visitar Moscou em outubro, de acordo com o Politico.",
+          "id": "rt-2026-07-21-21-20",
+          "titulo": "Chefe do FBI planeja viagem a Moscou – Politico",
+          "resumo": "O diretor do FBI, Kash Patel, planeja visitar Moscou em outubro, de acordo com um relatório do Politico",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5ec3e285f5401dbc3f0c24.jpg",
           "link": "https://www.rt.com/news/643277-fbi-patel-russia-visit/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-21T00:57:59-03:00"
-        },
-        {
-          "id": "rt-2026-07-21-06",
-          "titulo": "Pentágono oculta verdadeiros números de baixas na guerra com o Irã – NYT",
-          "resumo": "O Pentágono não divulgou lesões sofridas por dezenas de militares em ataques iranianos, de acordo com o New York Times.",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5ea88d203027529c03c4e9.jpg",
-          "link": "https://www.rt.com/news/643276-pentagon-us-casualty-number-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-20T23:01:38-03:00"
-        },
-        {
-          "id": "rt-2026-07-21-07",
-          "titulo": "Ucrânia ataca civis porque não consegue atingir alvos militares – ex-oficial dos EUA",
-          "resumo": "A Ucrânia ataca civis porque não consegue atingir alvos militares reforçados, de acordo com um ex-oficial do Exército dos EUA.",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5e25a62030272e846686f9.jpg",
-          "link": "https://www.rt.com/russia/643248-ukraine-hitting-civilians-only-thing-it-can-do/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-20T14:25:25-03:00"
-        },
-        {
-          "id": "rt-2026-07-21-08",
-          "titulo": "Líder sul-africano promete bilhões para combater crise hídrica",
-          "resumo": "O presidente da África do Sul prometeu gastar US$ 9,5 bilhões em infraestrutura de água e saneamento nos próximos três anos.",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5e27cf85f5401b7a70fd53.jpg",
-          "link": "https://www.rt.com/africa/643259-south-african-leader-pledges-billions-tackle-water-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-20T14:21:59-03:00"
-        },
-        {
-          "id": "rt-2026-07-21-09",
-          "titulo": "UE enfrenta revolta sobre novas sanções à Rússia – FT",
-          "resumo": "As sanções da UE à Rússia enfrentam resistência crescente, com a Grécia, Alemanha, França e outros países buscando isenções, de acordo com o FT.",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5e148585f5401fcb288403.jpg",
-          "link": "https://www.rt.com/news/643255-eu-members-resist-russia-sanctions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-20T13:49:23-03:00"
-        },
-        {
-          "id": "rt-2026-07-21-10",
-          "titulo": "Pelo menos 5 civis mortos em ataque de drone ucraniano a ônibus (VÍDEO)",
-          "resumo": "Um drone ucraniano atingiu um ônibus em uma cidade fronteiriça russa, matando 5 pessoas e ferindo mais de 20.",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5e3b4820302757c41ad382.png",
-          "link": "https://www.rt.com/russia/643260-belgorod-bus-drone-attack/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-20T13:43:35-03:00"
+          "publicado_em": "2026-07-21T00:57:59.000Z"
         }
       ]
     },
