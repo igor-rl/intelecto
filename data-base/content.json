@@ -374,167 +374,87 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-07-20T21:15:51.190Z",
+      "gerado_em": "2026-07-21T10:15:55.336Z",
       "artigos": [
         {
-          "id": "rt-2026-07-20-19:16:49-01",
-          "titulo": "Vila do Reino Unido está cansada de imigrantes",
-          "resumo": "Piddington quer sair da Grã-Bretanha, refletindo a fúria crescente à medida que pequenas comunidades são informadas de que devem absorver imigrantes sem consentimento ou segurança",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5e73d585f5401dbc3f0c1d.jpg",
-          "link": "https://www.rt.com/news/643268-uk-migrants-racket-village/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-20T19:16:49.000Z"
+          "id": "rt-2026-07-21-01",
+          "titulo": "FMI aprova nova parcela para Ucrânia apesar de 'deslize' nas reformas anticorrupção",
+          "resumo": "O FMI aprovou uma parcela de US$ 690 milhões do empréstimo para a Ucrânia, admitindo que Kiev perdeu ou atrasou reformas anticorrupção.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5f393285f54030ca0903e6.jpg",
+          "link": "https://www.rt.com/news/643280-imf-ukraine-tranche-reforms-slippage/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-21T09:36:22-03:00"
         },
         {
-          "id": "rt-2026-07-20-18:02:49-02",
-          "titulo": "Alemanha negará proteção temporária automática a homens ucranianos que fogem do recrutamento militar",
-          "resumo": "A Alemanha cancelará a proteção temporária automática para ucranianos que fogem do recrutamento militar em casa, disse o ministro do Interior, Alexander Dobrindt",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5e549985f54027f93a5612.jpg",
-          "link": "https://www.rt.com/news/643271-germany-to-deny-ukrainian-men-automatic-temporary-protection/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-20T18:02:49.000Z"
+          "id": "rt-2026-07-21-02",
+          "titulo": "Índia convoca diplomata russo após morte de 4 marinheiros em ataque ao porto de Odessa",
+          "resumo": "A Índia convocou o encarregado de negócios russo após a morte de 4 marinheiros indianos em um ataque ao porto de Odessa.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5f3c6185f5403d23267258.png",
+          "link": "https://www.rt.com/india/643282-india-summons-russian-diplomat/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-21T09:29:55-03:00"
         },
         {
-          "id": "rt-2026-07-20-16:53:26-03",
-          "titulo": "Hamas nomeia novo líder à medida que a guerra em Gaza continua",
-          "resumo": "Hamas elegeu Khalil al-Hayya como o novo chefe de seu escritório político",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5e52472030276a044cf746.jpg",
-          "link": "https://www.rt.com/news/643270-hamas-names-new-leader-as-khalil-al-hayaa/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-20T16:53:26.000Z"
+          "id": "rt-2026-07-21-03",
+          "titulo": "Gasoduto africano do Atlântico recebe apoio significativo",
+          "resumo": "A CEDEAO apoiou um gasoduto de US$ 25 bilhões entre a Nigéria e o Marrocos, que pode abastecer mercados europeus.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5f379985f54039483b681e.jpg",
+          "link": "https://www.rt.com/africa/643283-nigeria-morocco-african-atlantic-gas-pipeline-receives-major-ecowas-backing/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-21T09:23:10-03:00"
         },
         {
-          "id": "rt-2026-07-20-16:48:22-04",
-          "titulo": "A Alemanha está trabalhando em um programa secreto de armas nucleares?",
-          "resumo": "Oficiais da OTAN acreditam que a pesquisa nuclear alemã tem um 'foco em armas', advertiu a agência de inteligência SVR da Rússia",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5e4b612030275465686b16.jpg",
-          "link": "https://www.rt.com/news/643269-germany-nuclear-weapons-russia-svr/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-20T16:48:22.000Z"
+          "id": "rt-2026-07-21-04",
+          "titulo": "Houthis declaram bloqueio naval à Arábia Saudita",
+          "resumo": "Os Houthis declararam um bloqueio naval à Arábia Saudita, marcando uma escalada significativa no Oriente Médio.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5ee5cf85f54030ca0903d2.jpg",
+          "link": "https://www.rt.com/news/643278-houthis-saudi-naval-blockade/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-21T03:25:03-03:00"
         },
         {
-          "id": "rt-2026-07-20-15:16:36-05",
-          "titulo": "Agente de IA autônomo ataca grande hub de modelos",
-          "resumo": "A empresa com sede em Nova York, Hugging Face, afirma que um agente de IA totalmente autônomo violou seu repositório de modelos de IA",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5e2e5f85f54020f531f32a.jpg",
-          "link": "https://www.rt.com/news/643261-autonomous-ai-agent-system-hacks-major-ai-model-repository/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-20T15:16:36.000Z"
+          "id": "rt-2026-07-21-05",
+          "titulo": "Diretor do FBI planeja viagem a Moscou – Politico",
+          "resumo": "O diretor do FBI, Kash Patel, planeja visitar Moscou em outubro, de acordo com o Politico.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5ec3e285f5401dbc3f0c24.jpg",
+          "link": "https://www.rt.com/news/643277-fbi-patel-russia-visit/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-21T00:57:59-03:00"
         },
         {
-          "id": "rt-2026-07-20-14:25:25-06",
-          "titulo": "Ucrânia ataca civis porque é a única coisa que pode fazer – ex-oficial dos EUA",
-          "resumo": "Kiev ataca alvos civis na Rússia porque não consegue atingir sites militares reforçados, disse um ex-oficial do exército dos EUA à RT",
+          "id": "rt-2026-07-21-06",
+          "titulo": "Pentágono oculta verdadeiros números de baixas na guerra com o Irã – NYT",
+          "resumo": "O Pentágono não divulgou lesões sofridas por dezenas de militares em ataques iranianos, de acordo com o New York Times.",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5ea88d203027529c03c4e9.jpg",
+          "link": "https://www.rt.com/news/643276-pentagon-us-casualty-number-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-20T23:01:38-03:00"
+        },
+        {
+          "id": "rt-2026-07-21-07",
+          "titulo": "Ucrânia ataca civis porque não consegue atingir alvos militares – ex-oficial dos EUA",
+          "resumo": "A Ucrânia ataca civis porque não consegue atingir alvos militares reforçados, de acordo com um ex-oficial do Exército dos EUA.",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5e25a62030272e846686f9.jpg",
           "link": "https://www.rt.com/russia/643248-ukraine-hitting-civilians-only-thing-it-can-do/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-20T14:25:25.000Z"
+          "publicado_em": "2026-07-20T14:25:25-03:00"
         },
         {
-          "id": "rt-2026-07-20-14:21:59-07",
-          "titulo": "Líder sul-africano promete bilhões para combater a crise da água",
-          "resumo": "O presidente da África do Sul disse que o governo gastará US$ 9,5 bilhões em infraestrutura de água e saneamento ao longo de três anos",
+          "id": "rt-2026-07-21-08",
+          "titulo": "Líder sul-africano promete bilhões para combater crise hídrica",
+          "resumo": "O presidente da África do Sul prometeu gastar US$ 9,5 bilhões em infraestrutura de água e saneamento nos próximos três anos.",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5e27cf85f5401b7a70fd53.jpg",
           "link": "https://www.rt.com/africa/643259-south-african-leader-pledges-billions-tackle-water-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-20T14:21:59.000Z"
+          "publicado_em": "2026-07-20T14:21:59-03:00"
         },
         {
-          "id": "rt-2026-07-20-13:49:23-08",
+          "id": "rt-2026-07-21-09",
           "titulo": "UE enfrenta revolta sobre novas sanções à Rússia – FT",
-          "resumo": "As sanções da UE à Rússia enfrentam resistência crescente, pois a Grécia, a Alemanha, a França e outros buscam isenções, disse o FT",
+          "resumo": "As sanções da UE à Rússia enfrentam resistência crescente, com a Grécia, Alemanha, França e outros países buscando isenções, de acordo com o FT.",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5e148585f5401fcb288403.jpg",
           "link": "https://www.rt.com/news/643255-eu-members-resist-russia-sanctions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-20T13:49:23.000Z"
+          "publicado_em": "2026-07-20T13:49:23-03:00"
         },
         {
-          "id": "rt-2026-07-20-13:43:35-09",
-          "titulo": "Pelo menos cinco civis mortos em ataque de drone ucraniano a ônibus",
-          "resumo": "Um drone kamikaze ucraniano atingiu um ônibus de passageiros em uma cidade fronteiriça russa, matando cinco e ferindo mais de 20 outros",
+          "id": "rt-2026-07-21-10",
+          "titulo": "Pelo menos 5 civis mortos em ataque de drone ucraniano a ônibus (VÍDEO)",
+          "resumo": "Um drone ucraniano atingiu um ônibus em uma cidade fronteiriça russa, matando 5 pessoas e ferindo mais de 20.",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5e3b4820302757c41ad382.png",
           "link": "https://www.rt.com/russia/643260-belgorod-bus-drone-attack/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-20T13:43:35.000Z"
-        },
-        {
-          "id": "rt-2026-07-20-13:39:21-10",
-          "titulo": "Nação insular reelege presidente após divisão no partido governista",
-          "resumo": "São Tomé e Príncipe reelegeu Carlos Vila Nova após ele concorrer de forma independente após uma divisão no partido ADI",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5e1ffe2030275055769c1c.jpg",
-          "link": "https://www.rt.com/africa/643258-island-nation-re-elects-president-carlos-vila-nova/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-20T13:39:21.000Z"
-        },
-        {
-          "id": "rt-2026-07-20-13:32:10-11",
-          "titulo": "Milhares protestam contra o crescente militarismo em Tóquio",
-          "resumo": "Milhares protestaram em Tóquio contra a revisão da constituição pacifista do Japão pelo primeiro-ministro Sanae Takaichi",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5e145085f54023b9364daf.png",
-          "link": "https://www.rt.com/news/643247-japan-anti-war-protests/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-20T13:32:10.000Z"
-        },
-        {
-          "id": "rt-2026-07-20-12:49:57-12",
-          "titulo": "Polícia de Delhi entra em confronto com estudantes que marcham em direção ao parlamento",
-          "resumo": "A polícia de Nova Delhi entrou em confronto com milhares perto do parlamento da Índia, exigindo a renúncia do ministro da Educação",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5e39a485f54027f93a5604.png",
-          "link": "https://www.rt.com/india/643257-delhi-protest-student-cjp/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-20T12:49:57.000Z"
-        },
-        {
-          "id": "rt-2026-07-20-12:23:44-13",
-          "titulo": "Startup coloca a Índia no clube elite do espaço",
-          "resumo": "Uma startup indiana lança o primeiro foguete privado, catapultando a nação para um clube elite que inclui os EUA e a China",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5dea5a85f5402cdd7a9545.png",
-          "link": "https://www.rt.com/india/643251-india-vikram-rocket-skyroot/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-20T12:23:44.000Z"
-        },
-        {
-          "id": "rt-2026-07-20-12:09:14-14",
-          "titulo": "Crise energética alemã causada pela 'falta de gás russo' – Merz",
-          "resumo": "Cortar-se do gás russo desencadeou a crise energética em andamento na Alemanha, admitiu o chanceler Friedrich Merz",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5e00ef203027241e2d7ec0.jpg",
-          "link": "https://www.rt.com/news/643254-germany-crisis-russian-gas/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-20T12:09:14.000Z"
-        },
-        {
-          "id": "rt-2026-07-20-11:26:28-15",
-          "titulo": "Irã agradece aos jordanianos por ajudar a atacar forças dos EUA",
-          "resumo": "A Guarda Revolucionária Islâmica do Irã agradeceu aos jordanianos por supostamente fornecer inteligência usada para atacar forças e aeronaves dos EUA",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5dfe4285f540058c239638.jpg",
-          "link": "https://www.rt.com/news/643253-iran-jordan-us-strike/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-20T11:26:28.000Z"
-        },
-        {
-          "id": "rt-2026-07-20-10:20:33-16",
-          "titulo": "EUA planejam uma guerra mais ampla com o Irã – WaPo",
-          "resumo": "Os EUA estão planejando uma guerra mais ampla com o Irã, apesar de a munição estar acabando, informou o Washington Post",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5df46585f540091908afa8.jpg",
-          "link": "https://www.rt.com/news/643252-us-planning-wider-war-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-20T10:20:33.000Z"
-        },
-        {
-          "id": "rt-2026-07-20-09:31:54-17",
-          "titulo": "Canadá proíbe viajantes estrangeiros devido ao surto de ebola",
-          "resumo": "O Canadá impôs novas restrições de entrada a nacionais estrangeiros que recentemente estiveram na República Democrática do Congo, citando o surto de ebola",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5de56e2030271ce647f2b9.jpg",
-          "link": "https://www.rt.com/africa/643249-canada-bars-foreign-travelers-over-drcongo-ebola-outbreak/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-20T09:31:54.000Z"
-        },
-        {
-          "id": "rt-2026-07-20-06:41:45-18",
-          "titulo": "Israel gastou mais de US$ 45 milhões em campanha de propaganda de IA nos EUA – WSJ",
-          "resumo": "Israel está gastando dezenas de milhões em uma campanha alimentada por IA para influenciar a opinião pública nos EUA, informou o Wall Street Journal",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5d931b85f54027f93a55ce.jpg",
-          "link": "https://www.rt.com/news/643245-israel-50-million-influence-opinion/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-20T06:41:45.000Z"
-        },
-        {
-          "id": "rt-2026-07-20-04:06:35-19",
-          "titulo": "Unidade do FSB russa caça operadores de drones ucranianos",
-          "resumo": "O Serviço de Segurança Federal da Rússia (FSB) divulgou imagens de sua unidade de drones eliminando sabotadores ucranianos na cidade de Konstantinovka",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5ce3a685f54007db1c73eb.png",
-          "link": "https://www.rt.com/russia/643231-fsb-drone-unit-video/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-20T04:06:35.000Z"
-        },
-        {
-          "id": "rt-2026-07-20-03:34:02-20",
-          "titulo": "Mais de 400 drones ucranianos lançados em direção a Moscou e subúrbios – autoridades",
-          "resumo": "Mais de 400 drones ucranianos foram lançados em direção à região de Moscou durante a noite, de acordo com o prefeito de Moscou, Sergey Sobyanin",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a5dceed2030271ce647f2b5.jpg",
-          "link": "https://www.rt.com/russia/643246-moscow-ukrainian-drone-raid/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-20T03:34:02.000Z"
+          "publicado_em": "2026-07-20T13:43:35-03:00"
         }
       ]
     },
