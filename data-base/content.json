@@ -113,111 +113,95 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-07-21T10:00:00.715Z",
+      "gerado_em": "2026-07-21T21:00:00.666Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-07-21-09-02-07-01",
-          "titulo": "EUA Reduzem Esforços de Eficiência Energética",
-          "resumo": "A administração Trump está desfazendo esforços para economizar combustível, mesmo com a guerra no Irã, centros de dados e ondas de calor aumentando os custos de gasolina e eletricidade.",
-          "link": "https://www.nytimes.com/2026/07/21/climate/trump-energy-efficiency-standards.html",
+          "id": "new_york_times-2026-07-21-2101",
+          "titulo": "Pentagon Identifica Soldado Morto na Guerra do Irã como Sgt. Michael Emmanuel Swinton",
+          "resumo": "Sgt. Michael Emmanuel Swinton, o 17º membro do serviço a ser nomeado, foi morto durante a disposição de um drone no norte do Iraque.",
           "imagem": null,
-          "publicado_em": "2026-07-21T09:02:07.000Z"
+          "link": "https://www.nytimes.com/2026/07/21/us/pentagon-identifies-soldier-iran-war-emmanuel-swinton.html",
+          "publicado_em": "2026-07-21T20:25:29.000Z"
         },
         {
-          "id": "new_york_times-2026-07-21-02-58-49-02",
-          "titulo": "Trump Rejeitou Quase 6.000 Pedidos de Clemência",
-          "resumo": "Expectativas foram criadas para uma onda de indultos em conexão com o 250º aniversário do país, mas o presidente concedeu menos de 20 em 3 de julho.",
-          "link": "https://www.nytimes.com/2026/07/20/us/politics/trump-rejected-clemency-applications.html",
+          "id": "new_york_times-2026-07-21-2102",
+          "titulo": "Zelensky Demite o General-Chefe da Ucrânia Após Protestos",
+          "resumo": "A medida seguiu o afastamento de um ministro da defesa popular, que havia entrado em conflito com o general sobre como lutar a guerra.",
           "imagem": null,
-          "publicado_em": "2026-07-21T02:58:49.000Z"
+          "link": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html",
+          "publicado_em": "2026-07-21T20:50:31.000Z"
         },
         {
-          "id": "new_york_times-2026-07-21-21-43-14-03",
-          "titulo": "Casa Branca Diz que Novo Air Force One Estará Fora de Serviço por um Mês para 'Melhorias'",
-          "resumo": "O secretário de imprensa da Casa Branca disse que as 'melhorias' não especificadas ocorrerão no outono. O avião tem sido criticado por não ter capacidades defensivas suficientes.",
-          "link": "https://www.nytimes.com/2026/07/20/us/politics/new-air-force-one-upgrades.html",
+          "id": "new_york_times-2026-07-21-2103",
+          "titulo": "Funcionários de Trump Retêm US$ 1 Bilhão em Fundos do Medicaid da Califórnia e de Minnesota por Suspeita de Fraude",
+          "resumo": "A administração acusou a Califórnia e Minnesota de atividade fraudulenta em seus programas de seguro de saúde pública.",
           "imagem": null,
-          "publicado_em": "2026-07-20T21:43:14.000Z"
+          "link": "https://www.nytimes.com/2026/07/21/us/politics/trump-administration-medicaid-california-minnesota-fraud.html",
+          "publicado_em": "2026-07-21T19:35:16.000Z"
         },
         {
-          "id": "new_york_times-2026-07-21-00-25-52-04",
-          "titulo": "Trump Imporá Tarifa de 50% em Muitos Produtos Canadenses",
-          "resumo": "A administração usará uma provisão legal não testada para impor tarifas significativas às exportações canadenses, reacendendo um conflito com um dos maiores parceiros comerciais dos EUA.",
-          "link": "https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html",
+          "id": "new_york_times-2026-07-21-2104",
+          "titulo": "Trump Promove Ameaça Eleitoral Chinesa, mas Arquivos Mostram a Mão Pesada da Rússia",
+          "resumo": "Documentos de inteligência que a Casa Branca divulgou para apoiar as alegações do presidente Trump sobre a China destacam os esforços da Rússia para influenciar as eleições dos EUA.",
           "imagem": null,
-          "publicado_em": "2026-07-21T00:25:52.000Z"
+          "link": "https://www.nytimes.com/2026/07/21/us/politics/trump-china-russia-election.html",
+          "publicado_em": "2026-07-21T18:27:44.000Z"
         },
         {
-          "id": "new_york_times-2026-07-21-09-50-13-05",
-          "titulo": "Novo Primeiro-Ministro do Reino Unido, Burnham, Promete Esperança e Mudança",
-          "resumo": "O novo primeiro-ministro do Reino Unido, Andy Burnham, prometeu políticas que dariam aos britânicos comuns 'espaço para respirar' financeiramente. Seus oponentes já estão criticando.",
-          "link": "https://www.nytimes.com/2026/07/21/world/europe/andy-burnham-new-uk-prime-minister-policies.html",
+          "id": "new_york_times-2026-07-21-2106",
+          "titulo": "Uma Família Corajosa Escapa da Coreia do Norte",
+          "resumo": "Sua determinação pela liberdade se fortaleceu durante a pandemia, quando viveram uma grave escassez de alimentos e foram forçados a testemunhar frequentes execuções públicas.",
           "imagem": null,
-          "publicado_em": "2026-07-21T09:50:13.000Z"
+          "link": "https://www.nytimes.com/2026/07/21/world/asia/south-korea-family-defection-escape.html",
+          "publicado_em": "2026-07-21T18:02:12.000Z"
         },
         {
-          "id": "new_york_times-2026-07-21-09-39-56-06",
-          "titulo": "Novo Primeiro-Ministro do Reino Unido, Burnham, Ordena Corte de Impostos sobre Eletricidade",
-          "resumo": "O primeiro-ministro Andy Burnham agiu rapidamente para enfrentar o alto custo de vida. E o presidente Trump deseja sucesso a ele após uma ligação entre os dois líderes.",
-          "link": "https://www.nytimes.com/2026/07/21/world/europe/uk-andy-burnham-electricity-tax-vat.html",
+          "id": "new_york_times-2026-07-21-2111",
+          "titulo": "Troy Jackson Fortalece Controle sobre a Nomeação do Senado Democrata em Maine",
+          "resumo": "Os democratas do estado lançaram uma cédula para a convenção de nomeação no sábado que inclui o Sr. Jackson e dois candidatos de longo prazo com pouco apoio público dos delegados.",
           "imagem": null,
-          "publicado_em": "2026-07-21T09:39:56.000Z"
+          "link": "https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-maine-senate-democrats.html",
+          "publicado_em": "2026-07-21T20:10:13.000Z"
         },
         {
-          "id": "new_york_times-2026-07-21-09-05-37-07",
-          "titulo": "Houthis no Iêmen Aproximam-se de Entrar na Guerra EUA-Irã",
-          "resumo": "A milícia Houthi apoiada pelo Irã no Iêmen declarou um bloqueio no Mar Vermelho à Arábia Saudita, potencialmente abrindo um novo front na guerra que se espalha pelo Oriente Médio.",
-          "link": "https://www.nytimes.com/2026/07/21/world/middleeast/houthis-yemen-iran-war.html",
+          "id": "new_york_times-2026-07-21-2112",
+          "titulo": "Jovens Protestantes Indianos São Agressivos, mas Não se Rendem",
+          "resumo": "Um dia após a polícia dispersar à força os protestos, milhares retornaram ao local do protesto em Nova Delhi para continuar pressionando por ações sobre as falhas do país na educação.",
           "imagem": null,
-          "publicado_em": "2026-07-21T09:05:37.000Z"
+          "link": "https://www.nytimes.com/2026/07/21/world/asia/india-protests-cockroach-janta-party.html",
+          "publicado_em": "2026-07-21T17:24:25.000Z"
         },
         {
-          "id": "new_york_times-2026-07-21-09-28-09-08",
-          "titulo": "Quando Manifestantes Falam, Zelensky Ouve, na Tradição Ucraniana",
-          "resumo": "Com a ira alta sobre a demissão do ministro da Defesa, o gabinete do presidente sinaliza abertura para compromisso.",
-          "link": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-zelensky-protests.html",
+          "id": "new_york_times-2026-07-21-2115",
+          "titulo": "Dentro da Luta para Erradicar Imigrantes Negros da África do Sul",
+          "resumo": "À medida que a imigração aumenta no país, ativistas estão indo a extremos para expulsar nacionais estrangeiros, frequentemente tomando a lei em suas próprias mãos.",
           "imagem": null,
-          "publicado_em": "2026-07-21T09:28:09.000Z"
+          "link": "https://www.nytimes.com/2026/07/21/world/africa/south-africa-migrants.html",
+          "publicado_em": "2026-07-21T18:00:20.000Z"
         },
         {
-          "id": "new_york_times-2026-07-21-09-02-56-09",
-          "titulo": "Dois Irmãos Jovens e sua Busca pelos Mortos da Venezuela",
-          "resumo": "Winder e Deivi Delfín cavaram todos os dias durante 26 dias para encontrar os corpos de sua mãe, irmão e avó.",
-          "link": "https://www.nytimes.com/2026/07/21/world/americas/venezuela-quake-victims-search.html",
+          "id": "new_york_times-2026-07-21-2116",
+          "titulo": "3 Mitos que Alimentam o Sentimento Anti-Imigrante na África do Sul",
+          "resumo": "À medida que a nação se contorce com protestos e violência, dados e pesquisas sugerem que alguns dos principais argumentos contra os estrangeiros não se sustentam diante dos fatos.",
           "imagem": null,
-          "publicado_em": "2026-07-21T09:02:56.000Z"
+          "link": "https://www.nytimes.com/2026/07/21/world/africa/south-africa-immigration-protests-explainer.html",
+          "publicado_em": "2026-07-21T18:00:05.000Z"
         },
         {
-          "id": "new_york_times-2026-07-21-09-02-06-10",
-          "titulo": "Como uma Ligação para o 911 Levou à Lei de Banheiro Transgênero Mais Rígida do País",
-          "resumo": "As pessoas em Sandpoint, Idaho, não sabem como caracterizar o encontro de uma mulher com uma mulher transgênero em um vestiário da YMCA, mas a ligação de emergência que se seguiu ainda está reverberando.",
-          "link": "https://www.nytimes.com/2026/07/21/us/sandpoint-idaho-transgender-bathroom-law.html",
+          "id": "new_york_times-2026-07-21-2121",
+          "titulo": "Trump, Netanyahu e Putin Cometeram Erros em Guerras Sem Saída",
+          "resumo": "As fantasias de solução rápida dos líderes mundiais.",
           "imagem": null,
-          "publicado_em": "2026-07-21T09:02:06.000Z"
+          "link": "https://www.nytimes.com/2026/07/21/opinion/trump-netanyahu-putin-war.html",
+          "publicado_em": "2026-07-21T20:37:50.000Z"
         },
         {
-          "id": "new_york_times-2026-07-21-09-03-33-11",
-          "titulo": "Ciclospora se Espalha Através de Fezes Humanas. Como Ela Entrou em Nosso Fornecimento de Alimentos?",
-          "resumo": "O grande número de casos sugere que excrementos entraram no sistema alimentar em uma 'escala surpreendente'.",
-          "link": "https://www.nytimes.com/2026/07/21/well/eat/how-cyclospora-contaminates-food.html",
+          "id": "new_york_times-2026-07-21-2123",
+          "titulo": "Na Ruína da Venezuela, uma Busca pelos Animais de Estimação das Famílias",
+          "resumo": "Voluntários estão reunindo animais de estimação com famílias, oferecendo conforto aos venezuelanos em meio à perda e devastação.",
           "imagem": null,
-          "publicado_em": "2026-07-21T09:03:33.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-21-09-03-39-12",
-          "titulo": "O Beijo da Morte de Trump",
-          "resumo": "Além de tudo, o presidente é inepto.",
-          "link": "https://www.nytimes.com/2026/07/21/opinion/trump-inept-second-term.html",
-          "imagem": null,
-          "publicado_em": "2026-07-21T09:03:39.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-21-05-47-03-13",
-          "titulo": "As Lições Sombrias da Guerra de Israel em Gaza",
-          "resumo": "Israel não foi responsabilizado por suas ações em Gaza. A nação e os indivíduos e países que permitem que Israel escape ao castigo podem ser os únicos a se beneficiar.",
-          "link": "https://www.nytimes.com/2026/07/21/opinion/israel-gaza-palestinians-genocide.html",
-          "imagem": null,
-          "publicado_em": "2026-07-21T05:47:03.000Z"
+          "link": "https://www.nytimes.com/2026/07/20/world/americas/venezuela-earthquakes-volunteer-pets.html",
+          "publicado_em": "2026-07-21T11:01:44.000Z"
         }
       ]
     },
