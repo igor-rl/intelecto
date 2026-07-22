@@ -208,127 +208,135 @@
     "euronews": {
       "slug": "euronews",
       "nome": "Euro News",
-      "gerado_em": "2026-07-22T10:00:20.276Z",
+      "gerado_em": "2026-07-22T21:00:19.826Z",
       "artigos": [
         {
-          "id": "euronews-2026-07-22-1001",
-          "titulo": "A capital mais fria do mundo enfrenta calor recorde",
-          "resumo": "Especialistas alertam que o calor extremo reflete uma tendência climática mais ampla que aumenta os riscos à saúde, à água e à segurança alimentar na Ásia Central.",
+          "id": "euronews-2026-07-22-2101",
+          "titulo": "Surto de Ebola no Congo mata mais de 1.000 pessoas",
+          "resumo": "A Organização Mundial da Saúde disse que a verdadeira escala do surto pode ser duas a quatro vezes maior do que os números oficiais indicam.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/22/congos-ebola-outbreak-kills-more-than-1000-people",
+          "publicado_em": "2026-07-22T19:53:47.000Z"
+        },
+        {
+          "id": "euronews-2026-07-22-2103",
+          "titulo": "Trump ameaça bombardear Teerã em resposta a ataques iranianos no Hormuz",
+          "resumo": "O presidente dos EUA disse que Washington destruiria uma peça de infraestrutura civil — incluindo sites perto de Teerã — a cada vez que o Irã atacasse um navio no Estreito de Hormuz, à medida que a guerra entra em seu 11º dia.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/22/trump-threatens-to-bomb-tehran-back-for-every-iranian-attack-in-hormuz",
+          "publicado_em": "2026-07-22T15:36:05.000Z"
+        },
+        {
+          "id": "euronews-2026-07-22-2104",
+          "titulo": "Data de julgamento marcada para caso de tráfico de drogas contra Nicolas Maduro nos EUA",
+          "resumo": "Os EUA permitiram que a Venezuela pagasse a defesa legal de Maduro e Flores em abril, algo anteriormente proibido sob sanções dos EUA.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/22/nicolas-maduro-returns-to-court-in-us-drug-trafficking-case",
+          "publicado_em": "2026-07-22T14:54:57.000Z"
+        },
+        {
+          "id": "euronews-2026-07-22-2105",
+          "titulo": "Drones atingem armazéns da Wildberries na Rússia pela segunda semana consecutiva",
+          "resumo": "Incêndios irromperam em sites de armazéns da Wildberries em Krasnodar e Stavropol após ataques noturnos de drones, ferindo 15 pessoas e forçando ambas as instalações a suspender as operações.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/22/russia-reports-fresh-drone-strikes-on-wildberries-logistics-hubs",
+          "publicado_em": "2026-07-22T12:56:19.000Z"
+        },
+        {
+          "id": "euronews-2026-07-22-2108",
+          "titulo": "A capital mais fria do mundo enfrenta onda de calor recorde",
+          "resumo": "Especialistas alertam que o calor extremo reflete uma tendência climática mais ampla que aumenta os riscos para a saúde, água e segurança alimentar na Ásia Central.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/22/it-will-get-worse-worlds-second-coldest-capital-faces-record-heat",
           "publicado_em": "2026-07-22T09:57:10.000Z"
         },
         {
-          "id": "euronews-2026-07-22-1003",
-          "titulo": "Mamdani diz que NYC não tem autoridade para prender o primeiro-ministro israelense Netanyahu",
-          "resumo": "O escritório de Netanyahu rotulou a Corte Penal Internacional de \"tribunal de kanguru\" e chamou o mandado de prisão contra o líder israelense de \"falso\".",
+          "id": "euronews-2026-07-22-2110",
+          "titulo": "Mamdani diz que Nova York não tem autoridade para prender o premier israelense Netanyahu",
+          "resumo": "O gabinete de Netanyahu rotulou o TPI como um \"tribunal de kanguru\" e chamou o mandado de prisão contra o líder israelense de \"falso\".",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/22/mamdani-says-nyc-lacks-authority-to-arrest-israeli-pm-netanyahu",
           "publicado_em": "2026-07-22T06:53:03.000Z"
         },
         {
-          "id": "euronews-2026-07-22-1004",
-          "titulo": "Imagens aéreas revelam a escala do incêndio florestal de La Mierla na Espanha",
-          "resumo": "Imagens aéreas mostram a escala do incêndio florestal de La Mierla em Guadalajara, Espanha, enquanto os bombeiros lutam contra as chamas que queimaram até 30.000 hectares.",
+          "id": "euronews-2026-07-22-2111",
+          "titulo": "Imagens aéreas revelam a escala do incêndio florestal na Espanha",
+          "resumo": "Imagens aéreas mostram a escala do incêndio florestal em Guadalajara, Espanha, enquanto os bombeiros lutam contra as chamas que queimaram até 30.000 hectares.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/07/22/aerial-footage-reveals-the-scale-of-spains-la-mierla-wildfire",
           "publicado_em": "2026-07-22T06:12:02.000Z"
         },
         {
-          "id": "euronews-2026-07-22-1007",
-          "titulo": "Trump diz que os EUA não têm interesse em conversas com o Irã à medida que o custo da guerra aumenta",
-          "resumo": "Os EUA entraram em sua 11ª noite consecutiva de ataques ao Irã, enquanto Teerã expandiu sua ofensiva contra os estados do Golfo.",
+          "id": "euronews-2026-07-22-2113",
+          "titulo": "Protestos na Argélia após a morte de dois médicos após turnos de trabalho extenuantes",
+          "resumo": "Um neurocirurgião residente morreu de ataque cardíaco após um turno de 24 horas, e um anestesista morreu dias depois — mortes que os colegas dizem refletem anos de supertrabalho crônico, falta de pessoal e condições inadequadas.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/22/outcry-in-algeria-after-two-doctors-die-after-gruelling-on-call-shifts",
+          "publicado_em": "2026-07-22T05:00:22.000Z"
+        },
+        {
+          "id": "euronews-2026-07-22-2114",
+          "titulo": "Trump diz que os EUA não têm interesse em negociações com o Irã à medida que o custo da guerra aumenta",
+          "resumo": "Os EUA entraram em sua 11ª noite consecutiva de ataques ao Irã, enquanto Teerã expandiu sua ofensiva contra os estados do Golfo. Enquanto isso, o Paquistão intensificou esforços diplomáticos na esperança de salvar as negociações.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/22/trump-says-us-has-no-interest-in-iran-talks-as-cost-of-war-increases",
           "publicado_em": "2026-07-22T03:45:38.000Z"
         },
         {
-          "id": "euronews-2026-07-22-1008",
+          "id": "euronews-2026-07-22-2115",
           "titulo": "Aliyev diz que ex-oficiais russos e alemães estiveram em Baku para possível reunião sobre a Ucrânia",
-          "resumo": "O presidente do Azerbaijão revelou que ex-oficiais russos e alemães estiveram em Baku no início de julho, mas as autoridades do Azerbaijão não foram notificadas nem estavam cientes da reunião.",
+          "resumo": "O presidente do Azerbaijão revelou que ex-oficiais russos e alemães estiveram em Baku ao mesmo tempo no início de julho, mas as autoridades do Azerbaijão não foram notificadas nem estavam cientes da reunião.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/21/aliyev-says-former-russian-and-german-officials-were-in-baku-for-possible-meeting-over-ukr",
           "publicado_em": "2026-07-21T20:26:43.000Z"
         },
         {
-          "id": "euronews-2026-07-22-1009",
+          "id": "euronews-2026-07-22-2116",
           "titulo": "Trump promete apoio dos EUA ao Líbano em reunião na Casa Branca com o presidente",
-          "resumo": "O Líbano e Israel realizaram raras conversas diretas mediadas por Washington.",
+          "resumo": "O Líbano e Israel realizaram raras negociações diretas mediadas por Washington. A visita de Aoun foi a primeira de um presidente libanês à Casa Branca desde 2009.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/21/trump-promises-us-support-for-lebanon-in-white-house-meeting-with-president",
           "publicado_em": "2026-07-21T19:50:18.000Z"
         },
         {
-          "id": "euronews-2026-07-22-1010",
-          "titulo": "Tribunal de apelação dos EUA rejeita pedido de Biden para bloquear a divulgação de gravações de ghostwriter",
-          "resumo": "Um painel de três juízes da Corte de Apelações dos EUA suspendeu sua decisão até 3 de agosto para dar a Biden mais tempo para considerar um recurso adicional.",
+          "id": "euronews-2026-07-22-2117",
+          "titulo": "Tribunal de apelação dos EUA rejeita pedido de Biden para bloquear a divulgação de gravações de ghostwriter de memórias",
+          "resumo": "Um painel de três juízes do Tribunal de Apelações dos EUA para o Circuito de Washington suspendeu sua decisão até 3 de agosto para dar a Biden mais tempo para considerar um recurso adicional.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/21/us-appeals-court-rejects-biden-bid-to-block-release-of-memoir-ghostwriter-recordings",
           "publicado_em": "2026-07-21T18:23:22.000Z"
         },
         {
-          "id": "euronews-2026-07-22-1011",
+          "id": "euronews-2026-07-22-2118",
           "titulo": "Aliyev visita Berlim para aprofundar laços de energia e comércio com a Alemanha",
-          "resumo": "O Azerbaijão e a Alemanha assinaram uma declaração de parceria estratégica abrangendo energia, transporte e comércio.",
+          "resumo": "O Azerbaijão e a Alemanha assinaram uma declaração de parceria estratégica abrangendo energia, transporte e comércio, com o chanceler Merz dando as boas-vindas às entregas de gás do Azerbaijão, esperadas para atingir 2 bilhões de metros cúbicos.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/21/aliyev-visits-berlin-to-deepen-energy-and-trade-ties-with-germany",
           "publicado_em": "2026-07-21T18:15:04.000Z"
         },
         {
-          "id": "euronews-2026-07-22-1016",
+          "id": "euronews-2026-07-22-2123",
           "titulo": "ONU relata 144 mortos ou desaparecidos após barco de migrantes ficar à deriva no mar por 25 dias",
-          "resumo": "Dois crianças a bordo do barco com destino às Ilhas Canárias perderam toda a família antes que os passageiros fossem resgatados por uma operação de resgate da Mauritânia.",
+          "resumo": "Duas crianças a bordo do barco com destino às Ilhas Canárias perderam toda a família antes que os passageiros fossem resgatados por uma operação de resgate da Mauritânia.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/21/un-reports-144-dead-or-missing-after-migrant-boat-is-stranded-at-sea-for-25-days",
           "publicado_em": "2026-07-21T13:16:21.000Z"
         },
         {
-          "id": "euronews-2026-07-22-1017",
+          "id": "euronews-2026-07-22-2124",
           "titulo": "Quatro ataques de drones em quatro dias atingem petroleiros que transportam óleo do Cazaquistão",
-          "resumo": "Ataques de drones a navios encarregados de transportar óleo do Cazaquistão persistiram por vários dias, com Astana condenando os ataques.",
+          "resumo": "Ataques de drones a navios no Mar Negro encarregados de transportar óleo do Cazaquistão persistiram por vários dias, com Astana condenando os ataques. A rota do CPC transporta cerca de 80% do óleo do Cazaquistão.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/21/four-drone-strikes-in-four-days-hit-tankers-carrying-kazakhstans-oil",
           "publicado_em": "2026-07-21T12:08:41.000Z"
         },
         {
-          "id": "euronews-2026-07-22-1018",
-          "titulo": "Irã promete bombardear seu próprio território à medida que crescem os temores sobre a incursão no Kuwait",
-          "resumo": "Deputados iranianos pediram a captura de soldados americanos e o lançamento de ataques terrestres ao Kuwait e à Bahrein.",
+          "id": "euronews-2026-07-22-2125",
+          "titulo": "Irã promete bombardear seu próprio território à medida que crescem os temores sobre a invasão do Kuwait",
+          "resumo": "Parlamentares iranianos pediram a captura de soldados americanos e o lançamento de ataques terrestres ao Kuwait e à Bahrein, à medida que crescem as discussões sobre uma possível operação terrestre de um ou ambos os lados e os ataques americanos entram em seu 10º dia.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/21/iran-vows-to-bomb-own-land-as-fears-grow-over-kuwait-incursion",
           "publicado_em": "2026-07-21T11:52:04.000Z"
-        },
-        {
-          "id": "euronews-2026-07-22-1019",
-          "titulo": "Exército libanês começa a se deslocar para as regiões do sul após acordo com Israel",
-          "resumo": "Beirute anunciou o início de sua mobilização para as regiões do sul do Líbano à medida que o presidente Aoun se prepara para uma reunião de alto risco com o presidente dos EUA, Donald Trump.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/21/lebanese-army-begins-deployment-to-southern-regions-after-israel-deal",
-          "publicado_em": "2026-07-21T11:47:54.000Z"
-        },
-        {
-          "id": "euronews-2026-07-22-1020",
-          "titulo": "IRGC do Irã afirma ter atacado o principal hub de dados da Amazon no Bahrein",
-          "resumo": "O IRGC afirma que seus mísseis de cruzeiro destruíram a infraestrutura de dados central da Amazon no Bahrein e atingiram sistemas de defesa aérea dos EUA.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/21/irans-irgc-claims-attack-on-amazons-main-data-hub-in-bahrain",
-          "publicado_em": "2026-07-21T10:06:24.000Z"
-        },
-        {
-          "id": "euronews-2026-07-22-1022",
-          "titulo": "Ataque de drone causa incêndio em Sumy, nordeste da Ucrânia",
-          "resumo": "Um centro de compras de materiais de construção em Sumy, Ucrânia, pegou fogo após um suposto ataque de drone russo com FPV.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/07/21/drone-strike-sparks-major-fire-in-sumy-northeastern-ukraine",
-          "publicado_em": "2026-07-21T07:00:03.000Z"
-        },
-        {
-          "id": "euronews-2026-07-22-1024",
-          "titulo": "Trump impõe tarifas de 50% sobre bens canadenses, citando disputas sobre automóveis",
-          "resumo": "O presidente Donald Trump impôs tarifas de 50% sobre a maioria dos bens canadenses, declarando que o Canadá discriminou injustamente os automóveis, o álcool e os produtos lácteos americanos.",
-          "imagem": null,
-          "link": "http://www.euronews.com/business/2026/07/21/trump-imposes-50-tariffs-on-canadian-goods-citing-disputes-over-autos",
-          "publicado_em": "2026-07-21T05:18:09.000Z"
         }
       ]
     },
