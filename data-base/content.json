@@ -6,11 +6,11 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Tensões globais: EUA, Irã e Ucrânia no centro",
-    "subtitulo": "Enquanto a crise política na Ucrânia se aprofunda, as tensões entre EUA e Irã aumentam, com a Rússia e a China observando",
-    "resumo": "O dia foi marcado por uma série de eventos que destacam as tensões globais. A Ucrânia está no centro de uma crise política, com o presidente Zelensky demitindo o chefe do exército, Syrsky. Enquanto isso, as tensões entre EUA e Irã aumentam, com o presidente Trump ameaçando atacar o local nuclear de Pickaxe Mountain. A Rússia e a China observam esses desenvolvimentos com atenção, enquanto a Arábia Saudita e os Emirados Árabes Unidos buscam unidade após meses de tensão. Além disso, a África do Sul assinou um empréstimo de US$ 1,5 bilhão com o Banco Mundial para apoiar reformas de infraestrutura. Esses eventos mostram a complexidade das relações internacionais e a necessidade de uma abordagem cuidadosa e informada para navegar essas tensões.",
+    "titulo": "Tensões globais: EUA, Rússia e conflitos",
+    "subtitulo": "Enquanto a guerra no Irã e a Ucrânia dominam as manchetes, a fome global diminui, mas a África se torna o epicentro da crise alimentar",
+    "resumo": "O dia foi marcado por tensões globais, com a guerra no Irã e a Ucrânia dominando as manchetes. Os EUA e a Rússia continuam a se confrontar, enquanto a fome global diminuiu pelo terceiro ano consecutivo, mas a África se tornou o epicentro da crise alimentar. A Ucrânia atingiu dois armazéns de varejistas russos, deixando trabalhadores feridos. Além disso, o presidente dos EUA, Donald Trump, participará de uma cerimônia para quatro militares americanos mortos em ataques iranianos. A Rússia emitiu um mandado de prisão para o novo comandante militar da Ucrânia, apenas horas após a nomeação. A África agora é o epicentro da fome no mundo, com o continente agora abrigando a maior parte da crise alimentar global. A fome global diminuiu pelo terceiro ano consecutivo em 2025, mas o progresso permanece desigual em diferentes regiões. A agência de refugiados da ONU relata 144 migrantes mortos ou desaparecidos ao largo da costa da Mauritânia. O processo de paz no Sudão está negociando uma guerra que não existe mais, com as Forças Armadas do Sudão recuperando Car. Além disso, a Bienal de Veneza desafiou a decisão da União Europeia de retirar uma subvenção de 2 milhões de euros devido à controvérsia sobre o pavilhão russo.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-07-21T08:00:00-03:00",
+    "publicado_em": "2026-07-22T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -995,47 +995,47 @@
   },
   "temas_principais": [
     {
-      "tema": "Crise política na Ucrânia",
-      "descricao": "O presidente Zelensky demitiu o chefe do exército, Syrsky, após protestos que pediam sua demissão.",
+      "tema": "Guerra no Irã e Ucrânia",
+      "descricao": "Conflitos armados entre EUA, Rússia e Irã, com a Ucrânia no centro das tensões",
       "fontes_que_cobriram": [
-        "the_guardian",
-        "new_york_times",
-        "euronews",
-        "scmp",
-        "rt",
-        "st",
-        "mt"
+        "The Guardian",
+        "New York Times",
+        "Euronews",
+        "RT",
+        "The Moscow Times"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "aa",
-        "smh"
+        "AllAfrica",
+        "SMH"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a crise política na Ucrânia, enquanto as fontes russas e chinesas destacam a importância da estabilidade na região."
+      "divergencia_de_enquadramento": "Enquanto a mídia ocidental enfatiza a agressão russa e iraniana, a mídia russa e iraniana destacam a intervenção ocidental e a ameaça à soberania"
     },
     {
-      "tema": "Tensões entre EUA e Irã",
-      "descricao": "O presidente Trump ameaçou atacar o local nuclear de Pickaxe Mountain no Irã, aumentando as tensões entre os dois países.",
+      "tema": "Fome global e crise alimentar",
+      "descricao": "Diminuição da fome global, mas com a África se tornando o epicentro da crise alimentar",
       "fontes_que_cobriram": [
-        "the_guardian",
-        "new_york_times",
-        "euronews",
-        "scmp",
-        "rt",
-        "st",
-        "smh"
+        "The Guardian",
+        "AllAfrica",
+        "Euronews"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "aa",
-        "mt"
+        "New York Times",
+        "RT",
+        "The Moscow Times"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a ameaça iraniana, enquanto as fontes russas e chinesas destacam a necessidade de diálogo e cooperação."
+      "divergencia_de_enquadramento": "Enquanto a mídia ocidental destaca a diminuição da fome global, a mídia africana e russa enfatizam a gravidade da crise alimentar no continente"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Desenvolvimentos na África",
-      "por_que_importa": "A África é um continente em crescimento, com muitos desafios e oportunidades.",
-      "cobertura": "A cobertura foi limitada, com apenas algumas fontes mencionando a África do Sul e a assinatura de um empréstimo com o Banco Mundial."
+      "tema": "Processo de paz no Sudão",
+      "por_que_importa": "O processo de paz no Sudão é crucial para a estabilidade na região",
+      "cobertura": "Apenas AllAfrica e The Moscow Times cobriram o tema, enquanto as demais fontes ignoraram ou minimizaram"
+    },
+    {
+      "tema": "Bienal de Veneza e controvérsia sobre o pavilhão russo",
+      "por_que_importa": "A Bienal de Veneza é um evento cultural importante, e a controvérsia sobre o pavilhão russo reflete as tensões geopolíticas atuais",
+      "cobertura": "Apenas The Straits Times e Euronews cobriram o tema, enquanto as demais fontes ignoraram ou minimizaram"
     }
   ]
 }
