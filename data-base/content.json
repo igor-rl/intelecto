@@ -343,63 +343,103 @@
     "scmp": {
       "slug": "scmp",
       "nome": "South China Morning Post",
-      "gerado_em": "2026-07-22T10:15:34.575Z",
+      "gerado_em": "2026-07-22T21:15:36.652Z",
       "artigos": [
         {
           "id": "scmp-2026-07-22-01",
-          "titulo": "Trump propõe diplomata experiente como embaixador na Malásia em vez de 'macho alfa'",
-          "resumo": "Os Estados Unidos recorreram a um diplomata de carreira do Oriente Médio para seu próximo embaixador na Malásia, uma mudança brusca de tom após um indicado anterior conhecido por seu 'macho alfa' bravado, posts pró-Israel...",
-          "link": "https://www.scmp.com/week-asia/politics/article/3361475/trump-proposes-seasoned-diplomat-malaysia-envoy-instead-alpha-male?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/22/bacb6aef-4b8c-4ae5-b579-3790ed62c5b6_5e13c96d.jpg?itok=k1Pn-hSe&v=1784715236",
-          "publicado_em": "2026-07-22T10:13:58.000-03:00"
+          "titulo": "Julgamento de terrorismo começa em caso de esfaqueamento do autor Salman Rushdie",
+          "resumo": "O homem condenado por tentar matar Salman Rushdie passou anos pesquisando o paradeiro do escritor antes de esfaqueá-lo em um palco de palestra, disseram promotores federais na abertura do julgamento.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/23/4b4b87ed-99d2-4403-897d-3604be479bc3_1a1f7fec.jpg?itok=SXrTYXHZ&v=1784754312",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3361512/terrorism-trial-opens-stabbing-author-salman-rushdie?utm_source=rss_feed",
+          "publicado_em": "2026-07-22T21:05:15.000Z"
         },
         {
           "id": "scmp-2026-07-22-02",
-          "titulo": "Wang Yi e Marco Rubio discutem visita de Xi aos EUA e disputa no Mar da China Meridional",
-          "resumo": "Os principais diplomatas chinês e americano discutiram a visita planejada do presidente Xi Jinping aos EUA no final do ano e a disputa entre Pequim e Manila no Mar da China Meridional durante sua reunião bilateral...",
-          "link": "https://www.scmp.com/news/china/diplomacy/article/3361473/wang-and-rubio-discuss-xis-planned-us-visit-south-china-sea-clash-asean?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/22/c2383407-266f-4f84-82c9-943fe2742e87_80f9eb8d.jpg?itok=OW7a39xe&v=1784714679",
-          "publicado_em": "2026-07-22T10:04:41.000-03:00"
+          "titulo": "Legisladores dos EUA acusam China de usar forças de paz da ONU para espionar países",
+          "resumo": "Legisladores chamaram a atenção para a crescente presença da China nas Nações Unidas como um veículo para espionagem, mesmo enquanto uma audiência congressional sobre seu financiamento descambou para uma batalha partidária acalorada.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/23/cdd5d3b7-9970-4f1b-84d3-1c05a1df2a79_c0b89de8.jpg?itok=Cnzd0zQs&v=1784754193",
+          "link": "https://www.scmp.com/news/us/diplomacy/article/3361511/us-lawmakers-accuse-china-using-un-peacekeeping-forces-spy-countries?utm_source=rss_feed",
+          "publicado_em": "2026-07-22T21:03:22.000Z"
         },
         {
           "id": "scmp-2026-07-22-03",
-          "titulo": "Canadá se torna o primeiro observador do projeto de caça de sexta geração da Grã-Bretanha, Itália e Japão",
-          "resumo": "O Canadá foi dado um assento na primeira fila para um esforço britânico-italiano-japonês para desenvolver um caça de sexta geração, permitindo que Ottawa diversifique suas parcerias de defesa à medida que os EUA e a China...",
-          "link": "https://www.scmp.com/news/china/military/article/3361465/canada-becomes-first-observer-british-italian-japanese-gcap-fighter-jet-project?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/22/4776dc27-8bf2-4019-af8c-2ddb6ec62c71_7ef0ae83.jpg?itok=f6JlmsyJ&v=1784712587",
-          "publicado_em": "2026-07-22T10:00:35.000-03:00"
+          "titulo": "Oficial de tecnologia de Trump acusa Moonshot AI da China de roubar da Anthropic",
+          "resumo": "A administração Trump acusou a startup chinesa Moonshot AI de extrair secretamente capacidades de modelos de inteligência artificial líderes dos EUA e obter chips Nvidia restritos no exterior.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/23/bdb8bd29-04c0-4d2c-8bfd-5d2b13ce136c_9cc33cea.jpg?itok=YDA0ahJP&v=1784748738",
+          "link": "https://www.scmp.com/news/us/diplomacy/article/3361510/trump-tech-official-accuses-chinas-moonshot-ai-stealing-anthropic?utm_source=rss_feed",
+          "publicado_em": "2026-07-22T19:32:25.000Z"
         },
         {
           "id": "scmp-2026-07-22-04",
-          "titulo": "EUA ameaçam sanções contra modelos de IA abertos à medida que os modelos chineses ganham terreno",
-          "resumo": "O secretário do Tesouro dos EUA, Scott Bessent, sinalizou uma possível ação contra modelos de IA de código aberto, acusando os desenvolvedores chineses de criar sistemas de baixo custo usando tecnologia roubada...",
-          "link": "https://www.scmp.com/plus/business/article/3361455/us-levels-ai-sanctions-threat-china-models-gain?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/22/890e996e-af56-4563-ac4f-9845e9825456_9bf1f8f6.jpg?itok=S4CbjKrm&v=1784708835",
-          "publicado_em": "2026-07-22T09:00:12.000-03:00"
+          "titulo": "Repressão à fraude cibernética da China empurra sindicatos para alvos americanos, dizem analistas",
+          "resumo": "Sindicatos criminosos cada vez mais se voltaram para americanos após a repressão de Pequim às fraudes online no Sudeste Asiático em 2023, disseram analistas, desencadeando uma onda global de alertas.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/23/afcad96a-7e6f-4b94-8d81-e84ec4fe1648_ef854327.jpg?itok=1tz9A0ft&v=1784746042",
+          "link": "https://www.scmp.com/news/us/science-technology/article/3361509/chinas-cyberscam-crackdown-pushed-syndicates-target-americans-analysts-say?utm_source=rss_feed",
+          "publicado_em": "2026-07-22T18:36:05.000Z"
         },
         {
           "id": "scmp-2026-07-22-05",
-          "titulo": "Mianmar e Laos planejam a maior represa do baixo Mekong",
-          "resumo": "Planejadores esboçaram a maior represa hidrelétrica do baixo Mekong, na fronteira entre Mianmar e Laos, que seria o maior projeto de energia hidrelétrica da região...",
-          "link": "https://www.scmp.com/week-asia/health-environment/article/3361456/myanmar-and-laos-plan-downstream-mekongs-biggest-dam-yet?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/22/6063f357-87bb-4942-ae0e-c560b80265a1_a6fb3352.jpg?itok=jrQxcBIH&v=1784709217",
-          "publicado_em": "2026-07-22T08:40:33.000-03:00"
+          "titulo": "Daniel Siad, olheiro de modelos francês com ligações a Epstein, encontrado morto",
+          "resumo": "Um olheiro de modelos francês com laços estreitos com o condenado delinquente sexual americano Jeffrey Epstein foi encontrado morto em sua casa fora de Paris, disseram promotores e seu advogado.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/23/a43a0e9a-a910-4a69-8957-0459de77c7c3_0d6177a7.jpg?itok=IlmBRoNI&v=1784750886",
+          "link": "https://www.scmp.com/news/world/europe/article/3361508/french-modelling-scout-links-epstein-found-dead?utm_source=rss_feed",
+          "publicado_em": "2026-07-22T18:34:01.000Z"
         },
         {
           "id": "scmp-2026-07-22-06",
-          "titulo": "Austrália levanta teste de mísseis da China em reunião com diplomata de alto escalão Wang Yi",
-          "resumo": "O ministro das Relações Exteriores da China, Wang Yi, pediu à Austrália que abandone 'duplos padrões' e se junte aos esforços para manter o momentum da melhoria das relações bilaterais, enquanto Canberra expressou preocupações sobre os testes de mísseis de Pequim...",
-          "link": "https://www.scmp.com/news/china/diplomacy/article/3361432/australia-raises-chinas-missile-test-meeting-top-diplomat-wang-yi?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/22/4b0c0d36-f270-4205-af00-91c6f1987ff4_de6e7881.jpg?itok=sYcgNV7V&v=1784701751",
-          "publicado_em": "2026-07-22T06:00:07.000-03:00"
+          "titulo": "Ataques da Ucrânia a 'Amazon da Rússia' trazem a guerra mais perto dos russos comuns",
+          "resumo": "A partir de humildes origens como um negócio familiar administrado a partir de um apartamento perto de Moscou, a Wildberries cresceu em menos de duas décadas para se tornar a maior varejista online da Rússia.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/23/5ee93de5-da75-416f-8e2d-6239d2d02d04_9c54a5d4.jpg?itok=hiujrci8&v=1784740016",
+          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3361507/ukraines-strikes-russias-amazon-bring-war-closer-ordinary-russians?utm_source=rss_feed",
+          "publicado_em": "2026-07-22T17:07:07.000Z"
         },
         {
           "id": "scmp-2026-07-22-07",
-          "titulo": "Plataforma de moeda digital do banco central da China anuncia as maiores transações até o momento",
-          "resumo": "Um banco chinês processou as maiores transações transfronteiriças até o momento por meio da plataforma mBridge, uma plataforma multilateral de moeda digital do banco central, marcando um marco importante para o pagamento emergente...",
-          "link": "https://www.scmp.com/business/banking-finance/article/3361433/china-dominated-central-bank-digital-currency-platform-touts-largest-transactions-date?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/22/988890db-1361-4d29-ab6e-9bef464561dc_07113552.jpg?itok=LeJAd8No&v=1784700041",
-          "publicado_em": "2026-07-22T06:00:47.000-03:00"
+          "titulo": "Trump ameaça bombardear ponte ou usina de energia iraniana após ataques no Hormuz",
+          "resumo": "O presidente dos EUA, Donald Trump, ameaçou destruir uma ponte ou usina de energia iraniana sempre que Teerã atacar um navio no estreito de Hormuz, escalando a resposta de Washington.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/22/68367b3b-767c-4889-bf9b-09a2bfbadd0c_71bea9e5.jpg?itok=mUUolG4v&v=1784734284",
+          "link": "https://www.scmp.com/news/us/diplomacy/article/3361503/trump-threatens-bomb-iranian-bridge-or-power-plant-after-hormuz-attacks?utm_source=rss_feed",
+          "publicado_em": "2026-07-22T14:41:21.000Z"
+        },
+        {
+          "id": "scmp-2026-07-22-08",
+          "titulo": "China e UE avançam com pesquisa conjunta apesar de tensões comerciais",
+          "resumo": "A China e a UE renovaram seu acordo de pesquisa conjunta, segundo a mídia estatal chinesa, sinalizando disposição para colaborar em clima e agricultura apesar de tensões comerciais.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/22/4d42fe93-6291-43ac-a863-eb695a3dd8aa_7f22bfff.jpg?itok=T1UVjvQe&v=1784733701",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3361500/china-eu-pushing-ahead-joint-research-despite-trade-tensions?utm_source=rss_feed",
+          "publicado_em": "2026-07-22T14:25:10.000Z"
+        },
+        {
+          "id": "scmp-2026-07-22-09",
+          "titulo": "Julgamento de impeachment nas Filipinas: decisão do tribunal aumenta as apostas para a vice-presidente Sara",
+          "resumo": "A vice-presidente das Filipinas, Sara Duterte-Carpio, sofreu um revés sério em seu julgamento de impeachment após o Senado permitir que promotores examinassem registros financeiros importantes.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/22/36fbeb8c-1fb3-4a53-a745-7a7e4e7b38de_01123d28.jpg?itok=f3HhE9Y6&v=1784734871",
+          "link": "https://www.scmp.com/week-asia/politics/article/3361499/philippines-impeachment-trial-court-ruling-heightens-stakes-vp-sara?utm_source=rss_feed",
+          "publicado_em": "2026-07-22T14:06:58.000Z"
+        },
+        {
+          "id": "scmp-2026-07-22-10",
+          "titulo": "Por que a expedição polar da China ao Oceano Ártico despertou a ira dos EUA",
+          "resumo": "A Guarda Costeira dos EUA disse que acompanhou de perto as embarcações da expedição polar chinesa que transitavam pelo Mar de Bering a caminho do Oceano Ártico na semana passada.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/22/47bca655-5797-4e9e-8890-149debe8978c_cf861da0.jpg?itok=Ftk_bF-E&v=1784715906",
+          "link": "https://www.scmp.com/news/china/military/article/3361476/why-chinas-polar-expedition-arctic-ocean-has-drawn-us-ire?utm_source=rss_feed",
+          "publicado_em": "2026-07-22T14:00:11.000Z"
+        },
+        {
+          "id": "scmp-2026-07-22-11",
+          "titulo": "Malásia não será intimidada sobre a proibição de entrada de israelenses, diz Anwar a legisladores dos EUA",
+          "resumo": "A Malásia não será intimidada a mudar sua política de décadas de não permitir que nacionais israelenses entrem no país, disse o primeiro-ministro Anwar Ibrahim.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/22/9cb11e1f-9348-4a67-ad5d-9cf8c3a14f85_824c10c9.jpg?itok=Ti_iFoZP&v=1784725730",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3361498/malaysia-wont-be-intimidated-over-israelis-entry-ban-anwar-tells-us-lawmakers?utm_source=rss_feed",
+          "publicado_em": "2026-07-22T13:08:57.000Z"
+        },
+        {
+          "id": "scmp-2026-07-22-12",
+          "titulo": "Surto de ebola no Congo mata quase 1.000 pessoas, com aviso de piora",
+          "resumo": "Pelo menos 999 pessoas morreram devido ao surto de ebola no Congo, de acordo com dados oficiais publicados na quarta-feira, um número sombrio no que já foi declarado o surto de ebola mais rápido.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/22/911a7c54-4507-4d4c-8548-72f89d215b61_8181b954.jpg?itok=JG5WPVg2&v=1784721236",
+          "link": "https://www.scmp.com/news/world/africa/article/3361493/congos-ebola-outbreak-kills-nearly-1000-people-warning-worse-come?utm_source=rss_feed",
+          "publicado_em": "2026-07-22T11:54:01.000Z"
         }
       ]
     },
