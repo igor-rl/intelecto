@@ -6,9 +6,9 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Tensões globais: EUA, Rússia e conflitos",
-    "subtitulo": "Enquanto a guerra no Irã e a Ucrânia dominam as manchetes, a fome global diminui, mas a África se torna o epicentro da crise alimentar",
-    "resumo": "O dia foi marcado por tensões globais, com a guerra no Irã e a Ucrânia dominando as manchetes. Os EUA e a Rússia continuam a se confrontar, enquanto a fome global diminuiu pelo terceiro ano consecutivo, mas a África se tornou o epicentro da crise alimentar. A Ucrânia atingiu dois armazéns de varejistas russos, deixando trabalhadores feridos. Além disso, o presidente dos EUA, Donald Trump, participará de uma cerimônia para quatro militares americanos mortos em ataques iranianos. A Rússia emitiu um mandado de prisão para o novo comandante militar da Ucrânia, apenas horas após a nomeação. A África agora é o epicentro da fome no mundo, com o continente agora abrigando a maior parte da crise alimentar global. A fome global diminuiu pelo terceiro ano consecutivo em 2025, mas o progresso permanece desigual em diferentes regiões. A agência de refugiados da ONU relata 144 migrantes mortos ou desaparecidos ao largo da costa da Mauritânia. O processo de paz no Sudão está negociando uma guerra que não existe mais, com as Forças Armadas do Sudão recuperando Car. Além disso, a Bienal de Veneza desafiou a decisão da União Europeia de retirar uma subvenção de 2 milhões de euros devido à controvérsia sobre o pavilhão russo.",
+    "titulo": "Ebola e Tensões Globais",
+    "subtitulo": "Surto de ebola na RDC e tensões comerciais entre EUA e Canadá dominam manchetes",
+    "resumo": "Um surto de ebola na República Democrática do Congo (RDC) tem gerado preocupação global, com mais de 1.000 mortes registradas. Enquanto isso, as tensões comerciais entre os EUA e o Canadá aumentam, com ameaças de tarifas de 50% por parte do presidente Trump. Além disso, a Ucrânia e a Rússia continuam a se envolver em conflitos, com a Rússia realizando ataques a portos e navios ucranianos. A China também está sob escrutínio, com acusações de roubo de segredos de inteligência artificial. Em meio a essas tensões, a Austrália busca medidas para lidar com o custo de vida, enquanto a Libéria lida com uma grande apreensão de cocaína.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-07-22T08:00:00-03:00",
     "link": null,
@@ -939,47 +939,52 @@
   },
   "temas_principais": [
     {
-      "tema": "Guerra no Irã e Ucrânia",
-      "descricao": "Conflitos armados entre EUA, Rússia e Irã, com a Ucrânia no centro das tensões",
+      "tema": "Surto de Ebola",
+      "descricao": "Mais de 1.000 mortes registradas na RDC",
       "fontes_que_cobriram": [
-        "The Guardian",
-        "New York Times",
-        "Euronews",
-        "RT",
-        "The Moscow Times"
+        "the_guardian",
+        "euronews"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "AllAfrica",
-        "SMH"
+        "rt"
       ],
-      "divergencia_de_enquadramento": "Enquanto a mídia ocidental enfatiza a agressão russa e iraniana, a mídia russa e iraniana destacam a intervenção ocidental e a ameaça à soberania"
+      "divergencia_de_enquadramento": "Enquanto o The Guardian destaca a gravidade do surto, a RT não menciona o tema"
     },
     {
-      "tema": "Fome global e crise alimentar",
-      "descricao": "Diminuição da fome global, mas com a África se tornando o epicentro da crise alimentar",
+      "tema": "Tensões Comerciais EUA-Canadá",
+      "descricao": "Ameaças de tarifas de 50% por parte do presidente Trump",
       "fontes_que_cobriram": [
-        "The Guardian",
-        "AllAfrica",
-        "Euronews"
+        "new_york_times",
+        "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "New York Times",
-        "RT",
-        "The Moscow Times"
+        "scmp"
       ],
-      "divergencia_de_enquadramento": "Enquanto a mídia ocidental destaca a diminuição da fome global, a mídia africana e russa enfatizam a gravidade da crise alimentar no continente"
+      "divergencia_de_enquadramento": "Enquanto o New York Times destaca as ameaças de Trump, o SCMP não menciona o tema"
+    },
+    {
+      "tema": "Conflito Ucrânia-Rússia",
+      "descricao": "Ataques a portos e navios ucranianos",
+      "fontes_que_cobriram": [
+        "rt",
+        "mt"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "the_guardian"
+      ],
+      "divergencia_de_enquadramento": "Enquanto a RT destaca os ataques russos, o The Guardian não menciona o tema"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Processo de paz no Sudão",
-      "por_que_importa": "O processo de paz no Sudão é crucial para a estabilidade na região",
-      "cobertura": "Apenas AllAfrica e The Moscow Times cobriram o tema, enquanto as demais fontes ignoraram ou minimizaram"
+      "tema": "Apreensão de Cocaína na Libéria",
+      "por_que_importa": "Apreensão de 3.971 quilogramas de cocaína, avaliados em US$ 318 milhões",
+      "cobertura": "Apenas a AllAfrica cobriu o tema"
     },
     {
-      "tema": "Bienal de Veneza e controvérsia sobre o pavilhão russo",
-      "por_que_importa": "A Bienal de Veneza é um evento cultural importante, e a controvérsia sobre o pavilhão russo reflete as tensões geopolíticas atuais",
-      "cobertura": "Apenas The Straits Times e Euronews cobriram o tema, enquanto as demais fontes ignoraram ou minimizaram"
+      "tema": "Roubo de Segredos de IA pela China",
+      "por_que_importa": "Acusações de roubo de segredos de inteligência artificial por parte de uma empresa chinesa",
+      "cobertura": "Apenas o SMH cobriu o tema"
     }
   ]
 }
