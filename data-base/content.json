@@ -124,95 +124,103 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-07-21T21:00:00.666Z",
+      "gerado_em": "2026-07-22T10:00:01.042Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-07-21-2101",
-          "titulo": "Pentagon Identifica Soldado Morto na Guerra do Irã como Sgt. Michael Emmanuel Swinton",
-          "resumo": "Sgt. Michael Emmanuel Swinton, o 17º membro do serviço a ser nomeado, foi morto durante a disposição de um drone no norte do Iraque.",
+          "id": "new_york_times-2026-07-22-1001",
+          "titulo": "Sauditas Chegam a Acordo Com EUA Que Pode Permitir Que Eles Enriqueçam Combustível Nuclear",
+          "resumo": "Legisladores americanos e funcionários israelenses expressaram oposição a tal plano, a ser anunciado na quarta-feira, temendo que o reino possa usar um projeto nuclear civil para desenvolver armas nucleares.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/21/us/pentagon-identifies-soldier-iran-war-emmanuel-swinton.html",
-          "publicado_em": "2026-07-21T20:25:29.000Z"
+          "link": "https://www.nytimes.com/2026/07/21/us/politics/trump-saudi-nuclear-deal.html",
+          "publicado_em": "2026-07-22T03:44:50.000Z"
         },
         {
-          "id": "new_york_times-2026-07-21-2102",
+          "id": "new_york_times-2026-07-22-1002",
+          "titulo": "Com Suas Últimas Ameaças, Trump Sinaliza ao Irã Que Ele Está Disposto a Escalar",
+          "resumo": "O presidente Trump está enfrentando um momento crítico na guerra, que não conseguiu trazer a 'rendição incondicional' que ele uma vez exigiu.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html",
+          "publicado_em": "2026-07-22T00:00:14.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-22-1003",
+          "titulo": "Hegseth Estima Que a Guerra no Irã Custou $37,5 Bilhões",
+          "resumo": "O secretário de Defesa Pete Hegseth está solicitando até $70 bilhões em gastos militares de emergência após quase cinco meses de guerra.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/21/us/politics/iran-war-cost-estimate.html",
+          "publicado_em": "2026-07-21T21:30:34.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-22-1004",
+          "titulo": "Mamdani Chama Netanyahu de 'Criminoso de Guerra' e Pede aos EUA Que O Prendam",
+          "resumo": "O prefeito Zohran Mamdani desafiou os EUA a executar um mandado de prisão internacional contra o primeiro-ministro Benjamin Netanyahu de Israel, o que Nova York não pode fazer.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html",
+          "publicado_em": "2026-07-22T03:49:08.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-22-1005",
           "titulo": "Zelensky Demite o General-Chefe da Ucrânia Após Protestos",
-          "resumo": "A medida seguiu o afastamento de um ministro da defesa popular, que havia entrado em conflito com o general sobre como lutar a guerra.",
+          "resumo": "A medida seguiu a demissão de um ministro da Defesa popular, que havia entrado em conflito com o general sobre como lutar na guerra.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html",
-          "publicado_em": "2026-07-21T20:50:31.000Z"
+          "publicado_em": "2026-07-21T21:39:10.000Z"
         },
         {
-          "id": "new_york_times-2026-07-21-2103",
-          "titulo": "Funcionários de Trump Retêm US$ 1 Bilhão em Fundos do Medicaid da Califórnia e de Minnesota por Suspeita de Fraude",
-          "resumo": "A administração acusou a Califórnia e Minnesota de atividade fraudulenta em seus programas de seguro de saúde pública.",
+          "id": "new_york_times-2026-07-22-1006",
+          "titulo": "Mykhailo Drapatyi: O Que Saber Sobre o Novo General-Chefe da Ucrânia",
+          "resumo": "O major-general Mykhailo Drapatyi, um comandante condecorado, é popular tanto dentro quanto fora de seu país.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/21/us/politics/trump-administration-medicaid-california-minnesota-fraud.html",
-          "publicado_em": "2026-07-21T19:35:16.000Z"
+          "link": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-mykhailo-drapatyi.html",
+          "publicado_em": "2026-07-21T23:39:36.000Z"
         },
         {
-          "id": "new_york_times-2026-07-21-2104",
-          "titulo": "Trump Promove Ameaça Eleitoral Chinesa, mas Arquivos Mostram a Mão Pesada da Rússia",
-          "resumo": "Documentos de inteligência que a Casa Branca divulgou para apoiar as alegações do presidente Trump sobre a China destacam os esforços da Rússia para influenciar as eleições dos EUA.",
+          "id": "new_york_times-2026-07-22-1007",
+          "titulo": "Escolha de Trump Vence a Nomeação do GOP Para Desafiar o Governador do Arizona",
+          "resumo": "O representante Andy Biggs, um republicano conservador e aliado do presidente, tentará unir os republicanos contra a governadora Katie Hobbs em um estado-chave.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/21/us/politics/trump-china-russia-election.html",
-          "publicado_em": "2026-07-21T18:27:44.000Z"
+          "link": "https://www.nytimes.com/2026/07/21/us/elections/arizona-governor-andy-biggs-republican-primary.html",
+          "publicado_em": "2026-07-22T03:06:56.000Z"
         },
         {
-          "id": "new_york_times-2026-07-21-2106",
-          "titulo": "Uma Família Corajosa Escapa da Coreia do Norte",
-          "resumo": "Sua determinação pela liberdade se fortaleceu durante a pandemia, quando viveram uma grave escassez de alimentos e foram forçados a testemunhar frequentes execuções públicas.",
+          "id": "new_york_times-2026-07-22-1008",
+          "titulo": "Negador de Eleições Vence a Nomeação do GOP Para Ser o Principal Funcionário de Eleições do Arizona",
+          "resumo": "O representante estadual Alexander Kolodin enfrentará o secretário de Estado democrata em exercício, Adrian Fontes, após derrotar um republicano mais moderado nas primárias.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/21/world/asia/south-korea-family-defection-escape.html",
-          "publicado_em": "2026-07-21T18:02:12.000Z"
+          "link": "https://www.nytimes.com/2026/07/21/us/elections/arizona-primary-secretary-of-state-alexander-kolodin-wins.html",
+          "publicado_em": "2026-07-22T03:22:21.000Z"
         },
         {
-          "id": "new_york_times-2026-07-21-2111",
-          "titulo": "Troy Jackson Fortalece Controle sobre a Nomeação do Senado Democrata em Maine",
-          "resumo": "Os democratas do estado lançaram uma cédula para a convenção de nomeação no sábado que inclui o Sr. Jackson e dois candidatos de longo prazo com pouco apoio público dos delegados.",
+          "id": "new_york_times-2026-07-22-1011",
+          "titulo": "Câmara Aprova Projetos de Lei de Gastos Temporários, Mas Luta Contra o Fechamento do Governo Paira",
+          "resumo": "Os republicanos conseguiram aprovar a legislação para financiar o governo até 4 de dezembro. Mas com os democratas se opondo, o palco está montado para uma batalha mais ampla.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-maine-senate-democrats.html",
-          "publicado_em": "2026-07-21T20:10:13.000Z"
+          "link": "https://www.nytimes.com/2026/07/21/us/politics/house-stopgap-spending-bill-shutdown.html",
+          "publicado_em": "2026-07-22T02:37:17.000Z"
         },
         {
-          "id": "new_york_times-2026-07-21-2112",
-          "titulo": "Jovens Protestantes Indianos São Agressivos, mas Não se Rendem",
-          "resumo": "Um dia após a polícia dispersar à força os protestos, milhares retornaram ao local do protesto em Nova Delhi para continuar pressionando por ações sobre as falhas do país na educação.",
+          "id": "new_york_times-2026-07-22-1016",
+          "titulo": "Vigilância de Tornado Emitida para Nova York e Outras Áreas do Nordeste à Medida que Tempestades Trazem Chuva Pesada e Ventos",
+          "resumo": "Nova York estava sob vigilância de tornado, e os meteorologistas alertaram que inundações repentinas eram possíveis até a noite.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/21/world/asia/india-protests-cockroach-janta-party.html",
-          "publicado_em": "2026-07-21T17:24:25.000Z"
+          "link": "https://www.nytimes.com/2026/07/21/weather/new-york-rain-flood-forecast.html",
+          "publicado_em": "2026-07-22T00:37:31.000Z"
         },
         {
-          "id": "new_york_times-2026-07-21-2115",
-          "titulo": "Dentro da Luta para Erradicar Imigrantes Negros da África do Sul",
-          "resumo": "À medida que a imigração aumenta no país, ativistas estão indo a extremos para expulsar nacionais estrangeiros, frequentemente tomando a lei em suas próprias mãos.",
+          "id": "new_york_times-2026-07-22-1017",
+          "titulo": "O Japão Fica Surpreso com a Agenda de Sono Exaustiva do Primeiro-Ministro",
+          "resumo": "Sanae Takaichi disse que ela dorme apenas 'zero a três horas' por noite, provocando um debate no país sobre o equilíbrio entre trabalho e vida.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/21/world/africa/south-africa-migrants.html",
-          "publicado_em": "2026-07-21T18:00:20.000Z"
+          "link": "https://www.nytimes.com/2026/07/22/world/asia/japan-takaichi-sleep-schedule.html",
+          "publicado_em": "2026-07-22T06:03:38.000Z"
         },
         {
-          "id": "new_york_times-2026-07-21-2116",
-          "titulo": "3 Mitos que Alimentam o Sentimento Anti-Imigrante na África do Sul",
-          "resumo": "À medida que a nação se contorce com protestos e violência, dados e pesquisas sugerem que alguns dos principais argumentos contra os estrangeiros não se sustentam diante dos fatos.",
+          "id": "new_york_times-2026-07-22-1018",
+          "titulo": "Joe McCarthy Vive!",
+          "resumo": "A tentativa de Trump de criar um terceiro susto vermelho certamente fracassará.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/21/world/africa/south-africa-immigration-protests-explainer.html",
-          "publicado_em": "2026-07-21T18:00:05.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-21-2121",
-          "titulo": "Trump, Netanyahu e Putin Cometeram Erros em Guerras Sem Saída",
-          "resumo": "As fantasias de solução rápida dos líderes mundiais.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/21/opinion/trump-netanyahu-putin-war.html",
-          "publicado_em": "2026-07-21T20:37:50.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-21-2123",
-          "titulo": "Na Ruína da Venezuela, uma Busca pelos Animais de Estimação das Famílias",
-          "resumo": "Voluntários estão reunindo animais de estimação com famílias, oferecendo conforto aos venezuelanos em meio à perda e devastação.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/20/world/americas/venezuela-earthquakes-volunteer-pets.html",
-          "publicado_em": "2026-07-21T11:01:44.000Z"
+          "link": "https://www.nytimes.com/2026/07/22/opinion/trump-red-scare-midterms.html",
+          "publicado_em": "2026-07-22T09:02:39.000Z"
         }
       ]
     },
