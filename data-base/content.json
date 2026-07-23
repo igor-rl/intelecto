@@ -105,103 +105,71 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-07-22T21:00:01.870Z",
+      "gerado_em": "2026-07-23T10:00:00.979Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-07-22-2102",
-          "titulo": "O Futuro de Laredo Dependente da Próxima Ação Comercial de Trump",
-          "resumo": "A economia de Laredo, Texas, floresceu sob as tarifas globais do presidente. Agora, suas exigências podem ameaçar seu sucesso.",
-          "link": "https://www.nytimes.com/2026/07/22/business/economy/trump-tariffs-laredo-trade-mexico.html",
+          "id": "new_york_times-2026-07-23-01",
+          "titulo": "O que as imagens mostram sobre os danos recentes aos locais militares dos EUA no Oriente Médio",
+          "resumo": "Imagens de vídeo e fotos de satélite revelam novos detalhes sobre os ataques iranianos a alvos americanos durante o último surto de violência.",
           "imagem": null,
-          "publicado_em": "2026-07-22T19:20:35.000Z"
+          "link": "https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html",
+          "publicado_em": "2026-07-23T01:37:39.000Z"
         },
         {
-          "id": "new_york_times-2026-07-22-2103",
-          "titulo": "Tarifas de 50% de Trump sobre o Canadá: O que Saber e o que Vem a Seguir",
-          "resumo": "O presidente disse que tarifas punitivas de 50 por cento começariam em 19 de agosto, uma escalada significativa da guerra comercial entre o Canadá e os EUA que ele iniciou há mais de um ano.",
-          "link": "https://www.nytimes.com/2026/07/22/world/canada/canada-trump-tariffs-trade.html",
+          "id": "new_york_times-2026-07-23-02",
+          "titulo": "Com o acordo com a Arábia Saudita, Trump flexibiliza os padrões nucleares para um aliado próximo",
+          "resumo": "Especialistas em nuclear dizem que isso joga combustível no fogo da proliferação atômica, criando uma situação desestabilizadora que pode aumentar o risco de guerra nuclear.",
           "imagem": null,
-          "publicado_em": "2026-07-22T20:33:31.000Z"
+          "link": "https://www.nytimes.com/2026/07/22/us/politics/trump-saudi-nuclear-standards.html",
+          "publicado_em": "2026-07-22T23:05:44.000Z"
         },
         {
-          "id": "new_york_times-2026-07-22-2104",
-          "titulo": "Veja como os Houthis Colocam o Mar Vermelho em Risco como Rota de Petróleo Alternativa",
-          "resumo": "A Arábia Saudita desviou enormes quantidades de petróleo para o Mar Vermelho desde que a guerra com o Irã começou, mas agora os militantes Houthi apoiados pelo Irã dizem que pretendem bloquear essa rota.",
-          "link": "https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html",
+          "id": "new_york_times-2026-07-23-03",
+          "titulo": "O acordo nuclear dos EUA é um golpe para o príncipe herdeiro saudita",
+          "resumo": "A Arábia Saudita busca há anos um acordo para obter tecnologia nuclear americana. O acordo, assinado na quarta-feira, pode aprofundar os laços EUA-Arábia Saudita por décadas.",
           "imagem": null,
-          "publicado_em": "2026-07-22T12:17:51.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-22-2106",
-          "titulo": "Administração Trump Pressiona Alguns Imigrantes a se Auto-Deportarem com Multas de até 1,8 Milhão de Dólares",
-          "resumo": "Dezenas de milhares de imigrantes receberam cartas para pagar ou deixar o país, à medida que o governo contrata cobradores de dívidas e apreende reembolsos de impostos.",
-          "link": "https://www.nytimes.com/2026/07/22/us/immigration-civil-fines-self-deportation.html",
-          "imagem": null,
-          "publicado_em": "2026-07-22T17:29:01.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-22-2107",
-          "titulo": "Republicanos da Câmara Amarram o Projeto de Lei de Política de Defesa à Lei SAVE de Trump",
-          "resumo": "Os republicanos da Câmara amarraram toda a sua agenda legislativa à medida de restrição de votação do presidente Trump, como ele exigiu.",
-          "link": "https://www.nytimes.com/2026/07/22/us/politics/house-gop-defense-bill-trump-voter-id.html",
-          "imagem": null,
-          "publicado_em": "2026-07-22T17:15:36.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-22-2108",
-          "titulo": "Rubio e Diplomata Chinês Planejam Cúpula de Trump e Xi em Washington",
-          "resumo": "O secretário de Estado Marco Rubio passou grande parte de uma reunião com o ministro das Relações Exteriores da China discutindo a cúpula, mas não mencionou as alegações do presidente Trump de interferência eleitoral pela China.",
-          "link": "https://www.nytimes.com/2026/07/22/us/politics/trump-xi-rubio-manila-china.html",
-          "imagem": null,
-          "publicado_em": "2026-07-22T16:23:07.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-22-2109",
-          "titulo": "Cobiçado Acordo Nuclear dos EUA é um Golpe para o Príncipe Herdeiro da Arábia Saudita",
-          "resumo": "A Arábia Saudita busca há anos um acordo para obter tecnologia nuclear americana. O acordo, assinado na quarta-feira, pode aprofundar as relações EUA-Arábia Saudita por décadas.",
           "link": "https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal.html",
-          "imagem": null,
           "publicado_em": "2026-07-22T20:54:10.000Z"
         },
         {
-          "id": "new_york_times-2026-07-22-2110",
-          "titulo": "Como o Acordo Nuclear da Administração Trump com a Arábia Saudita Pode Funcionar",
-          "resumo": "A administração Trump anunciou um acordo com a Arábia Saudita sobre um programa nuclear civil. Acordos desse tipo, conhecidos como Acordos 123, são projetados para prevenir o desenvolvimento de armas.",
-          "link": "https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal-123-agreement.html",
+          "id": "new_york_times-2026-07-23-04",
+          "titulo": "Mamdani sabia que não podia prender Netanyahu, mas podia denunciá-lo",
+          "resumo": "Em uma mensagem de vídeo, o prefeito de Nova York disse que não podia legalmente prender o primeiro-ministro de Israel, mas reforçou sua posição como voz da esquerda internacional.",
           "imagem": null,
-          "publicado_em": "2026-07-22T20:43:49.000Z"
+          "link": "https://www.nytimes.com/2026/07/22/nyregion/mamdani-netanyahu-speech.html",
+          "publicado_em": "2026-07-22T23:42:33.000Z"
         },
         {
-          "id": "new_york_times-2026-07-22-2114",
-          "titulo": "Bancos Israelenses Ameaçam Cortar a Economia Palestina",
-          "resumo": "Duas firmas financeiras israelenses serviram por muito tempo como parceiras dos bancos palestinos, lidando com transações que tornam possíveis as importações e exportações da Cisjordânia.",
-          "link": "https://www.nytimes.com/2026/07/22/world/middleeast/israeli-banks-palestinian-economy.html",
+          "id": "new_york_times-2026-07-23-05",
+          "titulo": "Administração Trump pressiona alguns imigrantes a se autodeportar com multas de até 1,8 milhão de dólares",
+          "resumo": "Dezenas de milhares de imigrantes receberam cartas para pagar ou deixar o país, à medida que o governo contrata cobradores de dívidas e confisca reembolsos de impostos.",
           "imagem": null,
-          "publicado_em": "2026-07-22T19:05:30.000Z"
+          "link": "https://www.nytimes.com/2026/07/22/us/immigration-civil-fines-self-deportation.html",
+          "publicado_em": "2026-07-22T17:29:01.000Z"
         },
         {
-          "id": "new_york_times-2026-07-22-2115",
-          "titulo": "Carolina do Sul e Nevada Lutam para Iniciar o Calendário Presidencial Democrata de 2028",
-          "resumo": "A ordem do calendário pode ser extremamente importante para a corrida primária presidencial de 2028. Insiders democratas tentarão esboçar um cronograma esta semana, e estados rivais estão atacando um ao outro.",
-          "link": "https://www.nytimes.com/2026/07/22/us/politics/south-carolina-nevada-democrats-2028-presidential-calendar.html",
+          "id": "new_york_times-2026-07-23-06",
+          "titulo": "Plano de Trump para a ciência: mais dinheiro para IA, menos para universidades",
+          "resumo": "Michael Kratsios, conselheiro de ciência do presidente Trump, propôs uma reformulação de como o governo financia a pesquisa. Democratas disseram que as ações de Trump enfraqueceram a ciência.",
           "imagem": null,
-          "publicado_em": "2026-07-22T20:30:40.000Z"
+          "link": "https://www.nytimes.com/2026/07/22/us/politics/trump-research-funding-artificial-intelligence.html",
+          "publicado_em": "2026-07-22T22:30:42.000Z"
         },
         {
-          "id": "new_york_times-2026-07-22-2116",
-          "titulo": "6 Pontos-Chave das Primárias do Arizona Dominadas por Trump",
-          "resumo": "Os republicanos nomearam um ex-chutador da NFL em uma importante disputa na Câmara, um lealista de Trump para governador e um negador de eleições para o principal cargo eleitoral do estado.",
-          "link": "https://www.nytimes.com/2026/07/22/us/politics/arizona-primary-takeaways.html",
+          "id": "new_york_times-2026-07-23-07",
+          "titulo": "Líder do Japão invoca seu herói, Shinzo Abe, para impulsionar a agenda nacionalista",
+          "resumo": "A primeira-ministra Sanae Takaichi está usando seus laços com o falecido líder japonês para promover a defesa e a economia.",
           "imagem": null,
-          "publicado_em": "2026-07-22T17:14:21.000Z"
+          "link": "https://www.nytimes.com/2026/07/23/world/asia/japan-sanae-takaichi-shinzo-abe.html",
+          "publicado_em": "2026-07-23T04:01:09.000Z"
         },
         {
-          "id": "new_york_times-2026-07-22-2122",
-          "titulo": "Galeria do Louvre Reabre Após um Audacioso Roubo de Joias",
-          "resumo": "Ladrões roubaram joias da coroa da Galeria Apolo no Museu do Louvre em outubro, forçando seu fechamento. Turistas finalmente retornaram na quarta-feira.",
-          "link": "https://www.nytimes.com/2026/07/22/france-louvre-reopening-jewels.html",
+          "id": "new_york_times-2026-07-23-08",
+          "titulo": "Crise de diesel coloca agricultores pobres em todo o mundo em risco",
+          "resumo": "O fechamento do estreito de Ormuz limitou o envio de diesel, privando os agricultores de combustível para bombas de irrigação e ameaçando o suprimento de alimentos.",
           "imagem": null,
-          "publicado_em": "2026-07-22T20:30:13.000Z"
+          "link": "https://www.nytimes.com/2026/07/23/business/bangladesh-farmers-diesel-water-iran.html",
+          "publicado_em": "2026-07-23T04:01:17.000Z"
         }
       ]
     },
