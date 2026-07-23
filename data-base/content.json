@@ -7,10 +7,10 @@
   "capa": {
     "categoria_nome": "O que marcou o dia?",
     "titulo": "Ebola e Tensões Globais",
-    "subtitulo": "Surto de ebola na RDC e tensões comerciais entre EUA e Canadá dominam manchetes",
-    "resumo": "Um surto de ebola na República Democrática do Congo (RDC) tem gerado preocupação global, com mais de 1.000 mortes registradas. Enquanto isso, as tensões comerciais entre os EUA e o Canadá aumentam, com ameaças de tarifas de 50% por parte do presidente Trump. Além disso, a Ucrânia e a Rússia continuam a se envolver em conflitos, com a Rússia realizando ataques a portos e navios ucranianos. A China também está sob escrutínio, com acusações de roubo de segredos de inteligência artificial. Em meio a essas tensões, a Austrália busca medidas para lidar com o custo de vida, enquanto a Libéria lida com uma grande apreensão de cocaína.",
+    "subtitulo": "Surto de ebola na RDC e tensões políticas em várias regiões do mundo",
+    "resumo": "O surto de ebola na República Democrática do Congo continua a ser uma preocupação global, com mais de 1.000 mortes registradas. Enquanto isso, tensões políticas em várias regiões do mundo, incluindo a Ásia, a África e o Oriente Médio, continuam a dominar as manchetes. A Arábia Saudita e os EUA anunciaram um acordo nuclear histórico, enquanto a Rússia e a Ucrânia continuam a se confrontar. A China e os EUA também estão envolvidos em tensões comerciais e políticas. Além disso, a África está enfrentando desafios de direitos humanos e desenvolvimento, com a Nigéria e o Quênia sendo exemplos de países que estão lutando contra a pobreza e a corrupção.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-07-22T08:00:00-03:00",
+    "publicado_em": "2026-07-23T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -922,51 +922,38 @@
   "temas_principais": [
     {
       "tema": "Surto de Ebola",
-      "descricao": "Mais de 1.000 mortes registradas na RDC",
+      "descricao": "O surto de ebola na RDC continua a ser uma preocupação global",
       "fontes_que_cobriram": [
         "the_guardian",
-        "euronews"
+        "euronews",
+        "aa"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "rt"
+        "rt",
+        "st"
       ],
-      "divergencia_de_enquadramento": "Enquanto o The Guardian destaca a gravidade do surto, a RT não menciona o tema"
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a gravidade do surto, enquanto as fontes russas e chinesas tendem a minimizar a ameaça"
     },
     {
-      "tema": "Tensões Comerciais EUA-Canadá",
-      "descricao": "Ameaças de tarifas de 50% por parte do presidente Trump",
+      "tema": "Tensões Políticas",
+      "descricao": "Tensões políticas em várias regiões do mundo, incluindo a Ásia, a África e o Oriente Médio",
       "fontes_que_cobriram": [
         "new_york_times",
+        "scmp",
         "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "scmp"
+        "the_guardian",
+        "aa"
       ],
-      "divergencia_de_enquadramento": "Enquanto o New York Times destaca as ameaças de Trump, o SCMP não menciona o tema"
-    },
-    {
-      "tema": "Conflito Ucrânia-Rússia",
-      "descricao": "Ataques a portos e navios ucranianos",
-      "fontes_que_cobriram": [
-        "rt",
-        "mt"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian"
-      ],
-      "divergencia_de_enquadramento": "Enquanto a RT destaca os ataques russos, o The Guardian não menciona o tema"
+      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar a ameaça da Rússia e da China, enquanto as fontes russas e chinesas enfatizam a importância da cooperação e do diálogo"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Apreensão de Cocaína na Libéria",
-      "por_que_importa": "Apreensão de 3.971 quilogramas de cocaína, avaliados em US$ 318 milhões",
-      "cobertura": "Apenas a AllAfrica cobriu o tema"
-    },
-    {
-      "tema": "Roubo de Segredos de IA pela China",
-      "por_que_importa": "Acusações de roubo de segredos de inteligência artificial por parte de uma empresa chinesa",
-      "cobertura": "Apenas o SMH cobriu o tema"
+      "tema": "Desenvolvimento na África",
+      "por_que_importa": "A África está enfrentando desafios de direitos humanos e desenvolvimento",
+      "cobertura": "A cobertura é limitada, com apenas algumas fontes abordando o tema"
     }
   ]
 }
