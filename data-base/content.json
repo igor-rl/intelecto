@@ -677,10 +677,42 @@
     "mt": {
       "slug": "mt",
       "nome": "The Moscow Times",
-      "gerado_em": "2026-07-23T10:46:07.907Z",
+      "gerado_em": "2026-07-23T21:46:10.623Z",
       "artigos": [
         {
           "id": "mt-2026-07-23-01",
+          "titulo": "Regiões Chamando: Candidatos Independentes da Rússia Enfrentam Sua Eleição Mais Difícil",
+          "resumo": "Muitos russos estão frustrados com a guerra e a economia. Isso pode ajudar candidatos que tentam desafiar o status quo político?",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/23/russias-independent-candidates-face-their-toughest-election-yet-a93322",
+          "publicado_em": "2026-07-23T15:44:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-23-02",
+          "titulo": "Cazaquistão Reduz Produção de Petróleo Após Ataques de Drones em Petroleiros do Mar Negro",
+          "resumo": "A Rússia acusou a Ucrânia de atacar petroleiros ao largo da costa sul do Mar Negro para interromper o mercado energético global.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/23/kazakhstan-cuts-oil-production-following-drone-strikes-on-black-sea-tankers-a93325",
+          "publicado_em": "2026-07-23T13:57:03.000Z"
+        },
+        {
+          "id": "mt-2026-07-23-03",
+          "titulo": "Avião de Guerra Cai Durante Voo de Treinamento na Região de Moscou",
+          "resumo": "O piloto ejetou com segurança do avião desarmado, disseram oficiais militares à mídia estatal.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/23/warplane-crashes-during-training-flight-in-moscow-region-a93323",
+          "publicado_em": "2026-07-23T12:34:18.000Z"
+        },
+        {
+          "id": "mt-2026-07-23-04",
+          "titulo": "Oficial do Partido Comunista Morto em Ataque de Drone Ucraniano em Belgorod",
+          "resumo": "Alexander Logvinov, que chefiava o ramo da cidade de Belgorod do Partido Comunista, foi morto na terça-feira, disseram oficiais do partido.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/23/communist-party-official-killed-in-ukrainian-drone-attack-in-belgorod-a93321",
+          "publicado_em": "2026-07-23T12:11:59.000Z"
+        },
+        {
+          "id": "mt-2026-07-23-05",
           "titulo": "Rubio Diz que EUA Continuam Comprometidos com Negociações de Paz na Ucrânia Após Reunião com Lavrov",
           "resumo": "Rubio disse que o presidente Donald Trump havia deixado claro que os EUA estavam preparados para ajudar a facilitar o fim de uma 'guerra sem sentido' se a oportunidade surgisse.",
           "imagem": null,
@@ -688,15 +720,15 @@
           "publicado_em": "2026-07-23T10:12:50.000Z"
         },
         {
-          "id": "mt-2026-07-23-02",
-          "titulo": "Quirguistão Pediu aos Cidadãos na Rússia que Exerçam Cautela Após Ataques de Drones em Armazéns da Wildberries",
+          "id": "mt-2026-07-23-06",
+          "titulo": "Quirguistão Adverte Cidadãos na Rússia para Ter Cuidado Após Ataques de Drones em Armazéns da Wildberries",
           "resumo": "Dois cidadãos quirguizes estavam entre mais de 70 pessoas feridas durante ataques ucranianos a instalações da Wildberries.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/23/kyrgyzstan-urges-citizens-in-russia-to-exercise-caution-following-drone-attacks-on-wildberries-warehouses-a93318",
           "publicado_em": "2026-07-23T09:46:00.000Z"
         },
         {
-          "id": "mt-2026-07-23-03",
+          "id": "mt-2026-07-23-07",
           "titulo": "UE Acorda 21º Pacote de Sanções Contra a Rússia",
           "resumo": "A Grécia recebeu uma isenção que permite que suas empresas de navegação continuem transportando gás natural liquefeito russo do Ártico.",
           "imagem": null,
@@ -704,31 +736,31 @@
           "publicado_em": "2026-07-23T08:56:56.000Z"
         },
         {
-          "id": "mt-2026-07-23-04",
-          "titulo": "2 Mortos em Onda de Ataques de Drones Ucranianos no Sul da Rússia e na Crimeia",
-          "resumo": "Em Voronezh, destroços de drones caídos desencadearam um incêndio em uma residência que matou um menino de três anos, disseram autoridades locais.",
+          "id": "mt-2026-07-23-08",
+          "titulo": "3 Mortos em Onda de Ataques de Drones Ucranianos ao Sul da Rússia e Crimeia",
+          "resumo": "Em Voronezh, destroços de drone caídos acenderam um incêndio em uma residência que matou um menino de três anos, disseram oficiais locais.",
           "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/23/2-killed-as-wave-of-ukrainian-drones-strikes-southern-russia-and-crimea-a93316",
-          "publicado_em": "2026-07-23T07:50:38.000Z"
+          "link": "https://www.themoscowtimes.com/2026/07/23/3-killed-as-wave-of-ukrainian-drones-strikes-southern-russia-and-crimea-a93316",
+          "publicado_em": "2026-07-23T07:50:00.000Z"
         },
         {
-          "id": "mt-2026-07-23-05",
-          "titulo": "Usina de Combustível Nuclear Alemã Autorizada a Trabalhar com a Rosatom da Rússia",
-          "resumo": "Até o momento, não há acordo da UE sobre a extensão de sanções à Rússia para o setor de energia nuclear.",
+          "id": "mt-2026-07-23-09",
+          "titulo": "Planta de Combustível Nuclear Alemã Autorizada a Trabalhar com a Rosatom da Rússia",
+          "resumo": "Ainda não há acordo da UE sobre a extensão de sanções à Rússia para o setor de energia nuclear.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/22/german-nuclear-fuel-plant-cleared-to-work-with-russias-rosatom-a93315",
           "publicado_em": "2026-07-22T17:14:39.000Z"
         },
         {
-          "id": "mt-2026-07-23-06",
+          "id": "mt-2026-07-23-10",
           "titulo": "Yandex Market Limita Responsabilidade por Ataques de Drones Após Ataques à Wildberries",
-          "resumo": "As mudanças tornam o Yandex Market a última grande plataforma de mercado russa a transferir mais riscos financeiros de interrupções de guerra para os vendedores.",
+          "resumo": "As mudanças tornam o Yandex Market a última grande plataforma de comércio eletrônico russo a transferir mais riscos financeiros de interrupções de guerra para os vendedores.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/22/yandex-market-limits-liability-for-drone-attacks-after-wildberries-strikes-a93314",
           "publicado_em": "2026-07-22T17:06:19.000Z"
         },
         {
-          "id": "mt-2026-07-23-07",
+          "id": "mt-2026-07-23-11",
           "titulo": "Candidatos Mais Ricos do Partido Rússia Unida Relatam Mais de $103 Milhões em Renda Combinada",
           "resumo": "A renda combinada dos sete candidatos mais ricos do Partido Rússia Unida excedeu os orçamentos anuais de várias capitais regionais.",
           "imagem": null,
@@ -736,7 +768,7 @@
           "publicado_em": "2026-07-22T16:44:20.000Z"
         },
         {
-          "id": "mt-2026-07-23-08",
+          "id": "mt-2026-07-23-12",
           "titulo": "Rússia Diz que Atacou Portos e Navios Ucranianos",
           "resumo": "O Ministério da Defesa disse que atacou infraestrutura portuária e navios nas cidades de Odesa e Chornomorsk, que supostamente apoiavam o exército ucraniano.",
           "imagem": null,
@@ -744,23 +776,23 @@
           "publicado_em": "2026-07-22T15:54:32.000Z"
         },
         {
-          "id": "mt-2026-07-23-09",
+          "id": "mt-2026-07-23-13",
           "titulo": "Forças Europeias Interceptam Petroleiro da 'Frota Fantasma' no Mar Mediterrâneo",
-          "resumo": "Uma missão naval europeia abordou um petroleiro russo suspeito de navegar sob uma bandeira falsa na segunda-feira, disse a principal diplomata da UE, Kaja Kallas.",
+          "resumo": "Uma missão naval europeia abordou um petroleiro ligado à Rússia suspeito de navegar sob uma bandeira falsa na segunda-feira, disse a principal diplomata da UE, Kaja Kallas.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/22/european-forces-intercept-shadow-fleet-oil-tanker-in-mediterranean-sea-a93311",
           "publicado_em": "2026-07-22T15:07:55.000Z"
         },
         {
-          "id": "mt-2026-07-23-10",
-          "titulo": "Duma Estadual Aprova Projetos de Lei de 'Morte Cívica' que Cortam Serviços Bancários e Consulares para Críticos no Exílio",
+          "id": "mt-2026-07-23-14",
+          "titulo": "Duma Estadual Aprova Projetos de Lei de 'Morte Cívica' que Cortam Críticos Exilados de Serviços Bancários e Consulares",
           "resumo": "Defensores dos direitos alertam que a legislação estende a capacidade do governo russo de punir a dissidência muito além de suas fronteiras.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/22/state-duma-passes-civic-death-bills-cutting-off-exiled-critics-from-banking-and-consular-services-a93308",
           "publicado_em": "2026-07-22T13:13:00.000Z"
         },
         {
-          "id": "mt-2026-07-23-11",
+          "id": "mt-2026-07-23-15",
           "titulo": "Lavrov e Rubio Devem se Encontrar na Cúpula da ASEAN para Discutir Negociações de Paz na Ucrânia",
           "resumo": "O secretário de Estado dos EUA, Marco Rubio, disse que também discutiria questões bilaterais mais amplas com o ministro das Relações Exteriores da Rússia na quinta-feira.",
           "imagem": null,
@@ -768,76 +800,44 @@
           "publicado_em": "2026-07-22T10:40:07.000Z"
         },
         {
-          "id": "mt-2026-07-23-12",
+          "id": "mt-2026-07-23-16",
           "titulo": "Rússia Emite Mandado de Prisão para o Novo Comandante Militar da Ucrânia Horas Após sua Nomeação",
-          "resumo": "O mandado de prisão foi emitido apenas horas após o presidente ucraniano Volodymyr Zelensky demitir o general Oleksandr Syrskyi e nomear Mykhailo Drapatyi como seu substituto.",
+          "resumo": "O mandado de prisão foi emitido apenas horas após o presidente ucraniano Volodymyr Zelensky ter dispensado o general Oleksandr Syrskyi e nomeado Mykhailo Drapatyi como seu substituto.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/22/russia-issues-arrest-warrant-for-ukraines-new-military-commander-just-hours-after-appointment-a93305",
           "publicado_em": "2026-07-22T08:47:29.000Z"
         },
         {
-          "id": "mt-2026-07-23-13",
-          "titulo": "Drones Ucranianos Atacam Centros Logísticos da Wildberries no Sul da Rússia",
+          "id": "mt-2026-07-23-17",
+          "titulo": "Drones Ucranianos Atacam Centros Logísticos da Wildberries na Rússia Meridional",
           "resumo": "O fundador do varejista online disse que ataques noturnos atingiram dois centros de distribuição nas regiões de Krasnodar e Stavropol.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/22/ukrainian-drones-strike-wildberries-logistics-hubs-in-southern-russia-a93304",
           "publicado_em": "2026-07-22T08:08:00.000Z"
         },
         {
-          "id": "mt-2026-07-23-14",
-          "titulo": "Azerbaijão Sediar Reuniões Secretas entre Rússia e Alemanha, Diz o Presidente Aliyev",
-          "resumo": "O presidente azerbaijano Ilham Aliyev alegou que a reunião foi realizada sem o seu conhecimento, mas disse que poderia 'apenas saudá-la' se pudesse ajudar a encerrar a guerra na Ucrânia.",
+          "id": "mt-2026-07-23-18",
+          "titulo": "Azerbaijão Sediar Negociações Secretas Russo-Alemãs, Diz Presidente Aliyev",
+          "resumo": "O presidente azerbaijano Ilham Aliyev alegou que a reunião foi realizada sem o seu conhecimento, mas disse que poderia 'apenas saudar' se pudesse ajudar a encerrar a guerra na Ucrânia.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/21/azerbaijan-hosted-secret-russian-german-talks-president-aliyev-says-a93302",
           "publicado_em": "2026-07-21T15:27:07.000Z"
         },
         {
-          "id": "mt-2026-07-23-15",
-          "titulo": "Mercado de Combustível da Rússia Está 'Parcialmente Estabilizando', Diz o Vice-Premier Novak",
-          "resumo": "Novak disse que medidas estatais, como compras de combustível estrangeiro e manutenção de refinarias adiada, ajudaram a aliviar a pressão no mercado interno.",
+          "id": "mt-2026-07-23-19",
+          "titulo": "Mercado de Combustível da Rússia Parcialmente 'Estabilizado', Diz Vice-Premier Novak",
+          "resumo": "Novak disse que medidas estatais, como compras de combustível estrangeiro e manutenção de refinarias atrasadas, ajudaram a aliviar a pressão no mercado interno.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/21/russias-fuel-market-partially-stabilizing-deputy-pm-novak-says-a93300",
           "publicado_em": "2026-07-21T14:36:54.000Z"
         },
         {
-          "id": "mt-2026-07-23-16",
+          "id": "mt-2026-07-23-20",
           "titulo": "A Rússia Deve se Preparar para uma Nova Mobilização?",
-          "resumo": "Perguntas estão surgindo novamente sobre se o Kremlin poderia recorrer a uma mobilização politicamente custosa para aumentar sua mão de obra.",
+          "resumo": "Surgem novamente questionamentos sobre se o Kremlin poderia recorrer a uma mobilização politicamente custosa para aumentar sua mão de obra.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/21/should-russia-brace-for-a-new-mobilization-a93256",
           "publicado_em": "2026-07-21T13:38:00.000Z"
-        },
-        {
-          "id": "mt-2026-07-23-17",
-          "titulo": "Candidatos do Yabloko Desqualificados nas Eleições de São Petersburgo por Documentação em Falta",
-          "resumo": "Membros do Yabloko disseram à mídia local que 11 de seus 25 indicados receberam notificações formais alegando que suas inscrições estavam incompletas.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/21/yabloko-candidates-disqualified-in-st-petersburg-elections-over-missing-paperwork-a93299",
-          "publicado_em": "2026-07-21T12:40:15.000Z"
-        },
-        {
-          "id": "mt-2026-07-23-18",
-          "titulo": "Diretor do FBI, Kash Patel, Planeja Viagem à Rússia em Outubro – Politico",
-          "resumo": "O Kremlin recusou-se a confirmar ou negar a viagem, dizendo aos repórteres que 'esse tipo de visita geralmente ocorre atrás de portas fechadas'.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/21/fbi-director-kash-patel-plans-trip-to-russia-in-october-politico-a93296",
-          "publicado_em": "2026-07-21T10:12:35.000Z"
-        },
-        {
-          "id": "mt-2026-07-23-19",
-          "titulo": "Índia Convoca Embaixador Russo sobre a Morte de 4 Marinheiros Indianos",
-          "resumo": "A Ucrânia disse que a Rússia atingiu um navio de carga com três mísseis de cruzeiro no domingo, matando 10 pessoas, incluindo quatro cidadãos indianos.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/21/india-summons-russian-envoy-over-killing-of-4-indian-sailors-a93295",
-          "publicado_em": "2026-07-21T08:28:48.000Z"
-        },
-        {
-          "id": "mt-2026-07-23-20",
-          "titulo": "Rússia Expulsa Diplomatas Italianos em Retaliação",
-          "resumo": "A expulsão de dois diplomatas italianos ocorre após Roma expulsar um par de diplomatas russos acusados de espionagem.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/21/russia-expels-italian-diplomats-in-tit-for-tat-move-a93294",
-          "publicado_em": "2026-07-21T07:41:09.000Z"
         }
       ]
     },
