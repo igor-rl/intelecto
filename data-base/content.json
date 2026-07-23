@@ -398,167 +398,159 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-07-22T21:15:55.366Z",
+      "gerado_em": "2026-07-23T10:15:46.857Z",
       "artigos": [
         {
-          "id": "rt-2026-07-22-2101-01",
-          "titulo": "O que o Ocidente não conta sobre o novo general de Zelensky",
-          "resumo": "O recém-nomeado comandante militar ucraniano, Mikhail Drapaty, foi acusado de crimes de guerra na Rússia",
+          "id": "rt-2026-07-23-01",
+          "titulo": "Índia: Modi faz oferta a protestantes estudantis irados",
+          "resumo": "Modi diz que irá criar tribunais rápidos para julgar os acusados no escândalo de vazamento de provas recente",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a61dbd8203027694525cb21.jpg",
+          "link": "https://www.rt.com/india/643372-india-modi-fasttrack-courts/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-23T09:55:40-03:00"
+        },
+        {
+          "id": "rt-2026-07-23-02",
+          "titulo": "Rabate exige investigação após a morte de um homem marroquino durante a prisão pela polícia italiana",
+          "resumo": "Marrocos exigiu uma investigação completa após um de seus nacionais morrer enquanto era contido pela polícia em Bolonha",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a61d9b42030275f0f08f73d.jpg",
+          "link": "https://www.rt.com/africa/643371-morocco-demands-probe-national-death-italian-police/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-23T09:14:23-03:00"
+        },
+        {
+          "id": "rt-2026-07-23-03",
+          "titulo": "Este homem desafiou a Grã-Bretanha, a França e Israel – e seu legado ainda anima a África",
+          "resumo": "Gamal Abdel Nasser provou que a verdadeira independência é conquistada por meio de solidariedade ativa",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a60e556203027267b7069b8.jpg",
+          "link": "https://www.rt.com/africa/643347-when-cairo-was-centre-of-anticolonial-struggle/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-23T09:04:16-03:00"
+        },
+        {
+          "id": "rt-2026-07-23-04",
+          "titulo": "Estado americano permitiu que centenas de não-cidadãos votassem por engano",
+          "resumo": "Um erro de software em Nova Jersey permitiu que milhares de não-cidadãos votassem, com quase 400 emitindo cédulas, disse o governador do estado",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a61255e203027267b7069d4.jpg",
+          "link": "https://www.rt.com/news/643353-new-jersey-illegal-voting/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-23T04:47:36-03:00"
+        },
+        {
+          "id": "rt-2026-07-23-05",
+          "titulo": "Lavrov e Rubio se reúnem em Manila (VÍDEO)",
+          "resumo": "O ministro das Relações Exteriores da Rússia, Sergey Lavrov, e o secretário de Estado dos EUA, Marco Rubio, se reuniram em Manila, Filipinas",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6193e185f5404ad7127a88.jpg",
+          "link": "https://www.rt.com/news/643359-lavrov-rubio-meet-manila/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-23T04:09:43-03:00"
+        },
+        {
+          "id": "rt-2026-07-23-06",
+          "titulo": "Houthis reivindicam ataques a petroleiros sauditas no Mar Vermelho (VÍDEO)",
+          "resumo": "Os Houthis do Iêmen relatam que atacaram dois petroleiros sauditas no Mar Vermelho após impor um bloqueio naval ao reino",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a61819885f5405d975dff47.jpg",
+          "link": "https://www.rt.com/news/643358-houthis-strikes-saudi-tankers/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-23T02:55:04-03:00"
+        },
+        {
+          "id": "rt-2026-07-23-07",
+          "titulo": "EUA perderam a soberania para Israel há muito tempo – Tucker Carlson (VÍDEO)",
+          "resumo": "O jornalista Tucker Carlson disse que os EUA perderam sua soberania ao travar guerras em nome de Israel",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a61665420302747ce1900c9.png",
+          "link": "https://www.rt.com/news/643356-tucker-carlson-interview-trump/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-23T00:55:43-03:00"
+        },
+        {
+          "id": "rt-2026-07-23-08",
+          "titulo": "EUA retêm US$ 400 milhões em ajuda militar à Ucrânia – senador",
+          "resumo": "A Casa Branca está retendo US$ 400 milhões em ajuda militar para a Ucrânia aprovada pelo Congresso, disse o senador Dick Durbin",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a614fbc85f54010675d9433.jpg",
+          "link": "https://www.rt.com/news/643357-us-withhold-military-aid-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-22T20:18:59-03:00"
+        },
+        {
+          "id": "rt-2026-07-23-09",
+          "titulo": "O que o Ocidente não contará sobre o novo general de Zelensky",
+          "resumo": "O novo comandante militar ucraniano, Mikhail Drapaty, foi acusado de crimes de guerra na Rússia",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6129bf85f5404640476bd2.png",
           "link": "https://www.rt.com/russia/643354-zelesnky-new-top-general-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-22T21:01:16.000Z"
+          "publicado_em": "2026-07-22T18:01:16-03:00"
         },
         {
-          "id": "rt-2026-07-22-2102-02",
+          "id": "rt-2026-07-23-10",
           "titulo": "Civis de Donbass contam como foram caçados por drones ucranianos (VÍDEOS)",
-          "resumo": "Forças ucranianas caçaram sistematicamente civis em Konstantinovka, Donbass, de acordo com testemunhas em um tribunal em Moscou",
+          "resumo": "Forças ucranianas caçaram sistematicamente civis em Konstantinovka, Donbass, disseram testemunhas a um tribunal em Moscou",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a61189e20302738090cb708.png",
           "link": "https://www.rt.com/russia/643348-ukrainian-troops-hunted-civilians-donbass/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-22T20:59:50.000Z"
+          "publicado_em": "2026-07-22T17:59:50-03:00"
         },
         {
-          "id": "rt-2026-07-22-2103-03",
-          "titulo": "Conectados para a Guerra: Palantir recompensa seu melhor vendedor ucraniano",
+          "id": "rt-2026-07-23-11",
+          "titulo": "Conectados para a guerra: Palantir recompensa seu melhor vendedor ucraniano",
           "resumo": "O ex-ministro da Defesa da Ucrânia foi oferecido um emprego na Palantir, ilustrando a porta giratória entre Kiev e o Vale do Silício",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a60f860203027299061cdfe.png",
           "link": "https://www.rt.com/russia/643349-palantir-fedorov-ukraine-salesman/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-22T20:56:08.000Z"
+          "publicado_em": "2026-07-22T17:56:08-03:00"
         },
         {
-          "id": "rt-2026-07-22-2104-04",
+          "id": "rt-2026-07-23-12",
           "titulo": "Washington é controlada por uma 'mafia gay enrustida' – Hunter Biden",
-          "resumo": "O falecido senador Lindsey Graham era gay, segundo Hunter Biden, que alega que uma 'mafia gay enrustida' controla a política de Washington",
+          "resumo": "O falecido senador Lindsey Graham era gay, alegou Hunter Biden, afirmando que uma 'mafia gay enrustida' controla a política de Washington",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a60ce2885f5404ad7127a6f.jpg",
           "link": "https://www.rt.com/news/643322-biden-graham-gay/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-22T19:35:02.000Z"
+          "publicado_em": "2026-07-22T16:35:02-03:00"
         },
         {
-          "id": "rt-2026-07-22-2105-05",
-          "titulo": "Jornal italiano é forçado a pagar por difamar 'putinistas'",
+          "id": "rt-2026-07-23-13",
+          "titulo": "Jornal italiano forçado a pagar por difamar 'putinistas'",
           "resumo": "O jornal Corriere della Sera da Itália foi ordenado a pagar indenização a um professor que foi difamado como propagandista do Kremlin",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a610e8f2030272eea19338f.png",
           "link": "https://www.rt.com/news/643352-italy-newspaper-putin-network/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-22T19:14:57.000Z"
+          "publicado_em": "2026-07-22T16:14:57-03:00"
         },
         {
-          "id": "rt-2026-07-22-2106-06",
-          "titulo": "A Ucrânia tem um novo 'açougueiro-chefe' – e isso é melhor para alimentar os ucranianos no moedor",
+          "id": "rt-2026-07-23-14",
+          "titulo": "A Ucrânia tem um novo açougueiro-chefe – e isso é melhor para alimentar os ucranianos no moedor",
           "resumo": "Syrsky foi embora, mas seu substituto é um sinal de que Zelensky está mais comprometido do que nunca em prolongar uma guerra perdida a um custo humano terrível",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6117452030271aab759292.jpg",
           "link": "https://www.rt.com/news/643351-ukraine-drapaty-new-butcher/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-22T19:03:40.000Z"
+          "publicado_em": "2026-07-22T16:03:40-03:00"
         },
         {
-          "id": "rt-2026-07-22-2107-07",
-          "titulo": "Paz na Ucrânia, militarização da Europa, guerra no Irã e proliferação nuclear: briefing da ASEAN de Lavrov",
-          "resumo": "Sergey Lavrov discutiu esforços de paz na Ucrânia, militarização da Europa, guerra no Irã e proliferação nuclear, além das relações da Rússia com a ASEAN",
+          "id": "rt-2026-07-23-15",
+          "titulo": "Paz na Ucrânia, militarização da Europa, guerra do Irã e proliferação nuclear: briefing da ASEAN de Lavrov",
+          "resumo": "Sergey Lavrov discutiu esforços de paz na Ucrânia, militarização da Europa, guerra do Irã e proliferação nuclear e os laços da Rússia com a ASEAN",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a60cad385f5403bf34f388f.jpg",
           "link": "https://www.rt.com/russia/643343-lavrov-asean-press-recap/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-22T17:20:23.000Z"
+          "publicado_em": "2026-07-22T14:20:23-03:00"
         },
         {
-          "id": "rt-2026-07-22-2108-08",
-          "titulo": "Oposição indiana apoia jovens manifestantes 'Baratas'",
-          "resumo": "Protestos juvenis na Índia aumentam a pressão sobre o governo de Modi, enquanto a oposição assume a causa",
+          "id": "rt-2026-07-23-16",
+          "titulo": "Oposição indiana apoia jovens protestantes 'baratas'",
+          "resumo": "Os protestos da juventude indiana aumentam a pressão sobre o governo de Modi à medida que a oposição assume a causa",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a60ef7985f54028817d6c7d.jpg",
           "link": "https://www.rt.com/india/643341-indian-opposition-cockroach-protest/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-22T16:25:20.000Z"
+          "publicado_em": "2026-07-22T13:25:20-03:00"
         },
         {
-          "id": "rt-2026-07-22-2109-09",
+          "id": "rt-2026-07-23-17",
           "titulo": "Irã declara que radares dos EUA sofreram uma 'noite escura' de ataques com mísseis",
-          "resumo": "O Irã afirma que seus últimos ataques desativaram vários sistemas de radar e defesa aérea dos EUA no Kuwait e na Jordânia",
+          "resumo": "O Irã afirma que seus últimos ataques desativaram vários radares e sistemas de defesa aérea dos EUA no Kuwait e na Jordânia",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a60cc9e20302723444295a0.jpg",
           "link": "https://www.rt.com/news/643344-iran-us-dark-night/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-22T16:19:15.000Z"
+          "publicado_em": "2026-07-22T13:19:15-03:00"
         },
         {
-          "id": "rt-2026-07-22-2110-10",
+          "id": "rt-2026-07-23-18",
           "titulo": "Agente de modelos ligado a Epstein encontrado morto perto de Paris",
           "resumo": "Daniel Siad, um agente de modelos ligado ao falecido pedófilo condenado Jeffrey Epstein, foi encontrado morto na França",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a60ddb5203027278406514d.jpg",
           "link": "https://www.rt.com/news/643346-epstein-fashion-scout-siad-dead/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-22T15:47:23.000Z"
+          "publicado_em": "2026-07-22T12:47:23-03:00"
         },
         {
-          "id": "rt-2026-07-22-2111-11",
-          "titulo": "Economia da África do Sul poderia ser três vezes maior – ex-chefe de estatísticas",
-          "resumo": "Um ex-chefe de estatísticas da África do Sul afirma que a economia do país, que vale US$ 426 bilhões, deveria valer cerca de US$ 1,3 trilhão",
+          "id": "rt-2026-07-23-19",
+          "titulo": "A economia da África do Sul poderia ser três vezes maior – ex-chefe de estatísticas",
+          "resumo": "Um ex-chefe de estatísticas da África do Sul disse que a economia do país de US$ 426 bilhões deveria valer cerca de US$ 1,3 trilhão",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a60cc4b85f5402a8562555d.jpg",
           "link": "https://www.rt.com/africa/643342-south-african-economy-could-three-times-larger/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-22T14:11:51.000Z"
-        },
-        {
-          "id": "rt-2026-07-22-2112-12",
-          "titulo": "EUA diretamente envolvidos em ataques ucranianos à Rússia – Lavrov",
-          "resumo": "O ministro das Relações Exteriores da Rússia, Sergey Lavrov, acusou os EUA de participar diretamente dos ataques ucranianos a alvos dentro da Rússia",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a60c7eb203027223010d5cb.jpg",
-          "link": "https://www.rt.com/russia/643340-lavrov-us-ukraine-strike-involvement/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-22T13:43:22.000Z"
-        },
-        {
-          "id": "rt-2026-07-22-2113-13",
-          "titulo": "Dezenas de migrantes mortos ou desaparecidos na costa africana – ONU",
-          "resumo": "A agência de refugiados da ONU afirma que 144 migrantes estão mortos ou desaparecidos após incidentes marítimos separados na costa da Mauritânia",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a60c196203027788a4554ba.jpg",
-          "link": "https://www.rt.com/africa/643338-dozens-migrants-dead-missing-mauritania-coast/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-22T13:36:39.000Z"
-        },
-        {
-          "id": "rt-2026-07-22-2114-14",
-          "titulo": "Zelensky temia a ascensão política do ex-ministro da Defesa – mídia",
-          "resumo": "Vladimir Zelensky demitiu o ministro da Defesa Mikhail Fedorov devido a temores de que ele pudesse se tornar um rival em futuras eleições",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a60ae4785f5402e57657b29.jpg",
-          "link": "https://www.rt.com/news/643330-zelensky-fedorov-removal-political-ambitions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-22T13:26:46.000Z"
-        },
-        {
-          "id": "rt-2026-07-22-2115-15",
-          "titulo": "20 mortos e 5 desaparecidos em colapso de túnel na Índia",
-          "resumo": "Vinte pessoas morreram e cinco estão desaparecidas após o colapso de um túnel em construção no estado de Sikkim, nordeste da Índia",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a60c1d7203027299061cde6.png",
-          "link": "https://www.rt.com/india/643339-india-tunnel-collapse-sikkim/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-22T13:21:44.000Z"
-        },
-        {
-          "id": "rt-2026-07-22-2116-16",
-          "titulo": "Relações Índia-China são valiosas para um mundo multipolar – ministro das Relações Exteriores",
-          "resumo": "A Índia elogiou a normalização das relações com a China, com progressos em voos e comércio, e enfatizou a necessidade de manter a paz ao longo da fronteira",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a60aa1085f54017c524a7c5.jpg",
-          "link": "https://www.rt.com/india/643324-jaishankar-wang-yi-meeting/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-22T11:24:08.000Z"
-        },
-        {
-          "id": "rt-2026-07-22-2117-17",
-          "titulo": "Ucrânia atinge dois armazéns de varejista russo",
-          "resumo": "A Ucrânia atingiu dois armazéns adicionais da Wildberries, deixando trabalhadores feridos, de acordo com a fundadora da empresa, Tatyana Kim, e autoridades",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a60952520302779190f926e.jpg",
-          "link": "https://www.rt.com/russia/643321-wildberries-ukraine-attack/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-22T10:05:43.000Z"
-        },
-        {
-          "id": "rt-2026-07-22-2118-18",
-          "titulo": "Político ganês preso por 20 anos por mineração ilegal",
-          "resumo": "O político da oposição ganês Bernard Antwi Boasiako foi preso por 20 anos por mineração ilegal",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a608dab85f5404de80b00fc.jpg",
-          "link": "https://www.rt.com/africa/643320-ghanaian-politician-bernard-antwi-boasiako-jailed-illegal-mining/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-22T09:45:11.000Z"
-        },
-        {
-          "id": "rt-2026-07-22-2119-19",
-          "titulo": "Rússia ataca alvos militares ucranianos na região de Odessa – Ministério da Defesa",
-          "resumo": "Forças russas atingiram dois navios, instalações portuárias ligadas ao militar e uma bateria de mísseis costeiros ucraniana na região de Odessa",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a607ac185f54043334c3b28.jpg",
-          "link": "https://www.rt.com/russia/643318-russia-odessa-region-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-22T08:56:00.000Z"
-        },
-        {
-          "id": "rt-2026-07-22-2120-20",
-          "titulo": "Trump quer que o chefe da FIFA lidera a ONU – New York Post",
-          "resumo": "O presidente dos EUA, Donald Trump, supostamente quer que o chefe da FIFA, Gianni Infantino, se torne o próximo secretário-geral da ONU",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6041c92030276951288c08.jpg",
-          "link": "https://www.rt.com/pop-culture/643316-trump-fifa-boss-un/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-22T04:07:48.000Z"
+          "publicado_em": "2026-07-22T11:11:51-03:00"
         }
       ]
     },
