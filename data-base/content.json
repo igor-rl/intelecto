@@ -106,95 +106,160 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-07-23T21:00:00.680Z",
+      "gerado_em": "2026-07-24T10:00:00.986Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-07-23-2101",
-          "titulo": "EUA Retiram Intimações Expedidas a Jornalistas do New York Times",
-          "resumo": "Um juiz federal levantou questões sobre a maneira como o governo lidou com as intimações, que O Times disse serem uma tentativa de intimidar a imprensa livre.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/23/business/media/new-york-times-subpoenas-withdraw.html",
-          "publicado_em": "2026-07-23T19:36:19.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-23-2102",
-          "titulo": "Administração Trump Abandona Intimação que Exigia Lista de Judeus da Penn",
-          "resumo": "A medida foi um raro recuo para a administração Trump, que usou investigações como alavanca. Poucas escolas resistiram como a Penn fez após ser pressionada por reclamações de antissemitismo e uma lista de ca...",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/23/us/eeoc-subpoena-penn-jewish-list.html",
-          "publicado_em": "2026-07-23T20:04:33.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-23-2103",
-          "titulo": "Acordo EUA-Arábia Saudita Provoca Medos de uma Corrida Armamentista Nuclear Global",
-          "resumo": "Na Europa, Ásia e Oriente Médio, países buscam capacidades nucleares para se proteger contra vizinhos agressivos e uma Washington em recuo, potencialmente criando uma era mais desenfreada.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html",
-          "publicado_em": "2026-07-23T15:28:15.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-23-2104",
-          "titulo": "Para a Coreia do Sul, Acordo Nuclear EUA-Arábia Saudita Expos um Padrão Duplo",
-          "resumo": "O presidente Trump colocou a Arábia Saudita no caminho para enriquecer urânio em seu próprio solo, uma demanda que a Coreia do Sul vem fazendo por anos.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/23/world/asia/us-saudi-nuclear-deal-south-korea.html",
-          "publicado_em": "2026-07-23T14:24:39.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-23-2105",
-          "titulo": "Câmara Reprova Trump sobre o Irã em Voto de Poderes de Guerra à medida que o Senado Bloqueia Debate",
-          "resumo": "Pela segunda vez, alguns republicanos da Câmara se juntaram aos democratas para apoiar uma medida que pede ao presidente que busque autorização para a guerra.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/23/us/politics/house-iran-war-powers-vote-trump.html",
-          "publicado_em": "2026-07-23T18:17:54.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-23-2106",
-          "titulo": "Trump Prepara Mais uma Estratégia para Resgatar Tarifas Globais",
-          "resumo": "As tarifas globais de 10% da administração estão prestes a expirar à meia-noite, mas os funcionários vêm preparando substitutos.",
-          "imagem": null,
+          "id": "new_york_times-2026-07-24-1001",
+          "titulo": "Administração Trump Impõe Novas Tarifas de Cerca de 10% em Mais de 80 Nações",
+          "resumo": "A administração lançou novas taxas vinculadas às importações de países de bens feitos com trabalho forçado, substituindo uma tarifa de 10% imediatamente após sua expiração.",
           "link": "https://www.nytimes.com/2026/07/23/business/economy/trump-tariffs.html",
-          "publicado_em": "2026-07-23T17:18:13.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-23-2109",
-          "titulo": "Por Que Eu Procurei um Comandante Talibã que Eu Havera Combatido",
-          "resumo": "Primeiro como fuzileiro naval e depois como jornalista, eu passei anos ligado ao Afeganistão. Eu retornei uma última vez para falar com um ex-inimigo em busca de respostas, e talvez fechamento.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/23/world/asia/taliban-afghanistan-marine.html",
-          "publicado_em": "2026-07-23T13:26:28.000Z"
+          "publicado_em": "2026-07-24T04:04:00-03:00",
+          "fonte": "The New York Times"
         },
         {
-          "id": "new_york_times-2026-07-23-2110",
-          "titulo": "Os Irmãos Tate Perdem Aliados de Direita Após Sua Prisão",
-          "resumo": "Após Andrew e Tristan Tate, líderes proeminentes da chamada 'manosphere', serem presos em Miami, muitos de seus ex-aliados na direita americana recuaram o apoio.",
+          "id": "new_york_times-2026-07-24-1002",
+          "titulo": "Tarifas Globais de Trump: O Que é o Mais Recentemente Sobre a Guerra Comercial",
+          "resumo": "O presidente apresentou um sistema complicado para prosseguir com sua guerra comercial, após a Suprema Corte derrubar suas tarifas originais.",
+          "link": "https://www.nytimes.com/article/trump-tariffs-trade.html",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/23/us/tate-brothers-trump-tucker-carlson.html",
-          "publicado_em": "2026-07-23T19:40:01.000Z"
+          "publicado_em": "2026-07-24T04:01:02-03:00",
+          "fonte": "The New York Times"
         },
         {
-          "id": "new_york_times-2026-07-23-2111",
-          "titulo": "ICE Mira 'Deserto de Detenção' com Nova Instalação na Carolina do Norte",
-          "resumo": "Mesmo enquanto o ICE recuou de seu plano de comprar armazéns, o novo complexo perto da fronteira com a Virgínia sinaliza que a agência permanece determinada a aumentar sua capacidade de detenção.",
+          "id": "new_york_times-2026-07-24-1003",
+          "titulo": "EUA Retiram Subpoenas Emitidas para Jornalistas do New York Times",
+          "resumo": "Um juiz federal levantou questões sobre o manejo do governo das subpoenas, que O Times chamou de tentativa de intimidar a imprensa livre.",
+          "link": "https://www.nytimes.com/2026/07/23/business/media/new-york-times-subpoenas-withdraw.html",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/23/us/winton-nc-ice-detention-center.html",
-          "publicado_em": "2026-07-23T19:41:14.000Z"
+          "publicado_em": "2026-07-23T22:56:42-03:00",
+          "fonte": "The New York Times"
         },
         {
-          "id": "new_york_times-2026-07-23-2112",
-          "titulo": "Modi Pego de Surpresa à medida que as Falhas Econômicas da Índia Inflamam os Jovens",
+          "id": "new_york_times-2026-07-24-1004",
+          "titulo": "Kagan Diz que a Suprema Corte Se Opôs a Trump em Casos-Chave",
+          "resumo": "Em uma reunião anual de juízes e advogados, a justiça liberal defendeu seus colegas conservadores de críticas de que eles haviam aprovado a agenda do presidente Trump.",
+          "link": "https://www.nytimes.com/2026/07/23/us/politics/elena-kagan-supreme-court-trump.html",
+          "imagem": null,
+          "publicado_em": "2026-07-23T21:59:39-03:00",
+          "fonte": "The New York Times"
+        },
+        {
+          "id": "new_york_times-2026-07-24-1005",
+          "titulo": "A Angústia, o Amor e a Saudade de um Soldado Caído que Queria Voltar para Casa a Partir da Guerra no Irã",
+          "resumo": "Sgt. Michael Emmanuel Swinton foi morto nos últimos dias, um dos 18 soldados americanos que perderam a vida desde o início da guerra no Irã.",
+          "link": "https://www.nytimes.com/2026/07/23/us/michael-emmanuel-swinton-iran-soldier.html",
+          "imagem": null,
+          "publicado_em": "2026-07-24T00:04:57-03:00",
+          "fonte": "The New York Times"
+        },
+        {
+          "id": "new_york_times-2026-07-24-1006",
+          "titulo": "Número de Mortes de Tropas Americanas na Guerra do Irã Aparece Menor no Site do Pentágono",
+          "resumo": "Três oficiais militares e um porta-voz do Pentágono deram explicações conflitantes sobre por que o número de americanos mortos na guerra do Irã havia mudado.",
+          "link": "https://www.nytimes.com/2026/07/23/us/politics/iran-troop-deaths.html",
+          "imagem": null,
+          "publicado_em": "2026-07-24T00:15:18-03:00",
+          "fonte": "The New York Times"
+        },
+        {
+          "id": "new_york_times-2026-07-24-1007",
+          "titulo": "Preços do Petróleo Brent Ultrapassam US$ 100 à Medida que o Conflito com o Irã Continua",
+          "resumo": "As ações na Ásia caíram após uma venda no mercado americano devido aos preços do petróleo em alta, aos custos de empréstimo e às preocupações com a indústria de tecnologia.",
+          "link": "https://www.nytimes.com/2026/07/24/business/oil-prices-global-stocks-shipping.html",
+          "imagem": null,
+          "publicado_em": "2026-07-24T09:28:16-03:00",
+          "fonte": "The New York Times"
+        },
+        {
+          "id": "new_york_times-2026-07-24-1008",
+          "titulo": "Como Parte do Acordo Nuclear, Trump Exige que a Arábia Saudita Adira aos Acordos de Abraão",
+          "resumo": "A nova condição do presidente pode criar um obstáculo para o acordo que sua administração anunciou esta semana.",
+          "link": "https://www.nytimes.com/2026/07/23/us/politics/saudi-nuclear-deal-israel.html",
+          "imagem": null,
+          "publicado_em": "2026-07-23T17:29:33-03:00",
+          "fonte": "The New York Times"
+        },
+        {
+          "id": "new_york_times-2026-07-24-1009",
+          "titulo": "A Copa do Mundo Atendeu às Expectativas Turísticas? Aqui Estão os Vencedores e Perdedores.",
+          "resumo": "Cidades-sede, hotéis, conselhos de turismo e mais tinham expectativas altas para a Copa do Mundo, mas alguns alcançaram o ouro, enquanto outros fracassaram. Aqui está a análise.",
+          "link": "https://www.nytimes.com/2026/07/23/travel/world-cup-tourism-us-canada-mexico.html",
+          "imagem": null,
+          "publicado_em": "2026-07-23T22:05:14-03:00",
+          "fonte": "The New York Times"
+        },
+        {
+          "id": "new_york_times-2026-07-24-1010",
+          "titulo": "Trump e Thune Entram em Conflito Sobre a Lei SAVE America",
+          "resumo": "Uma porta-voz da Casa Branca disse que a paciência do presidente Trump estava se esgotando. O principal republicano do Senado disse que ela deveria tentar encontrar os votos.",
+          "link": "https://www.nytimes.com/2026/07/23/us/politics/trump-thune-senate-election-bill.html",
+          "imagem": null,
+          "publicado_em": "2026-07-23T21:39:07-03:00",
+          "fonte": "The New York Times"
+        },
+        {
+          "id": "new_york_times-2026-07-24-1011",
+          "titulo": "Eleitores Democratas Continuam Desafiando o Estabelecimento do Partido",
+          "resumo": "A campanha democrata para a Câmara aumentou suas intervenções em primárias de alto perfil disputadas. Mas esta semana, sofreu sua terceira derrota primária em dois meses.",
+          "link": "https://www.nytimes.com/2026/07/23/us/politics/democrats-dccc-house.html",
+          "imagem": null,
+          "publicado_em": "2026-07-23T21:57:06-03:00",
+          "fonte": "The New York Times"
+        },
+        {
+          "id": "new_york_times-2026-07-24-1013",
+          "titulo": "A Imagem Definidora dos Protestos da Geração Z na Índia",
+          "resumo": "Um novo movimento de protesto está se espalhando pela Índia, e o vídeo de uma mulher bloqueando uma van da polícia capturou a determinação dos jovens que o lideram.",
+          "link": "https://www.nytimes.com/2026/07/23/world/asia/rhiya-ahir-mumbai-india-student-protests-genz.html",
+          "imagem": null,
+          "publicado_em": "2026-07-23T21:01:45-03:00",
+          "fonte": "The New York Times"
+        },
+        {
+          "id": "new_york_times-2026-07-24-1014",
+          "titulo": "Prominente Ativista Indiano Rompe Greve de Fome Após 26 Dias",
+          "resumo": "O ativista, Sonam Wangchuk, disse que havia interrompido seu jejum 'após longas negociações' com funcionários e 'em vista da possível violência no país'.",
+          "link": "https://www.nytimes.com/2026/07/23/world/asia/sonam-wangchuk-india-hunger-strike-protests-modi.html",
+          "imagem": null,
+          "publicado_em": "2026-07-23T23:46:35-03:00",
+          "fonte": "The New York Times"
+        },
+        {
+          "id": "new_york_times-2026-07-24-1015",
+          "titulo": "Modi Pego de Surpresa à Medida que as Falhas Econômicas da Índia Inflamam os Jovens",
           "resumo": "O primeiro-ministro Narendra Modi estava ocupado tentando apagar outros incêndios quando um movimento estudantil explodiu subitamente. Não há soluções fáceis para os problemas por trás disso.",
-          "imagem": null,
           "link": "https://www.nytimes.com/2026/07/23/world/asia/india-modi-protests-economy-cockroach-party.html",
-          "publicado_em": "2026-07-23T17:59:45.000Z"
+          "imagem": null,
+          "publicado_em": "2026-07-24T04:52:34-03:00",
+          "fonte": "The New York Times"
         },
         {
-          "id": "new_york_times-2026-07-23-2119",
-          "titulo": "Nova York Enfrenta Meio Bilhão em Custos de Prevenção de Tempestades, Relatório Encontra",
-          "resumo": "Um estudo do grupo Rebuild by Design estima que o dinheiro será necessário para reparar os efeitos das mudanças climáticas nos próximos 24 anos.",
+          "id": "new_york_times-2026-07-24-1016",
+          "titulo": "Os Irmãos Tate Perdem Aliados de Direita Após Sua Prisão",
+          "resumo": "Após Andrew e Tristan Tate, líderes proeminentes da chamada 'manosphere', serem presos em Miami, muitos de seus ex-aliados na direita americana recuaram em seu apoio.",
+          "link": "https://www.nytimes.com/2026/07/23/us/tate-brothers-trump-tucker-carlson.html",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/23/nyregion/new-york-storm-damage-repair-cost-climate-change.html",
-          "publicado_em": "2026-07-23T18:05:14.000Z"
+          "publicado_em": "2026-07-23T19:40:01-03:00",
+          "fonte": "The New York Times"
+        },
+        {
+          "id": "new_york_times-2026-07-24-1017",
+          "titulo": "O Que Saber Sobre Andrew Tate e Tristan Tate",
+          "resumo": "O influenciador, acusado de tráfico de seres humanos e estupro, está sob investigação em três países, junto com seu irmão, Tristan. Eles foram presos em Miami na semana passada.",
+          "link": "https://www.nytimes.com/article/andrew-tate-arrests-explained.html",
+          "imagem": null,
+          "publicado_em": "2026-07-24T05:24:47-03:00",
+          "fonte": "The New York Times"
+        },
+        {
+          "id": "new_york_times-2026-07-24-1018",
+          "titulo": "População de Sem-Teto de Los Angeles Aumenta Novamente, Após 2 Anos de Declínio",
+          "resumo": "Los Angeles teve um aumento no número de moradores de rua entre o início de 2025 e o início de 2026. O aumento pode prejudicar a prefeita Karen Bass, à medida que ela concorre à reeleição.",
+          "link": "https://www.nytimes.com/2026/07/23/us/los-angeles-homeless-increase.html",
+          "imagem": null,
+          "publicado_em": "2026-07-24T01:57:52-03:00",
+          "fonte": "The New York Times"
         }
       ]
     },
