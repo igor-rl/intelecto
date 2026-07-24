@@ -6,11 +6,11 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Tensões Globais: Conflitos e Negociações",
-    "subtitulo": "Enquanto o mundo lida com crises em várias frentes, a busca por soluções diplomáticas se torna cada vez mais complexa",
-    "resumo": "O dia foi marcado por uma série de eventos que refletem as tensões globais atuais. De um lado, a situação no Oriente Médio continua a se deteriorar, com ataques e contra-ataques entre diferentes atores. Por outro lado, a comunidade internacional busca maneiras de abordar essas crises, seja através de negociações diretas ou de esforços multilaterais. A questão do petróleo e sua influência nos preços globais também está no centro das discussões, com o preço do barril atingindo US$ 100 novamente. Além disso, a situação na Ucrânia e as relações entre Rússia e Ocidente continuam a ser um ponto de tensão. Enquanto isso, a África enfrenta seus próprios desafios, com questões de direitos humanos, segurança e desenvolvimento econômico sendo debatidas. Diante desse cenário complexo, a necessidade de diálogo e cooperação internacional se torna cada vez mais evidente.",
+    "titulo": "Tensões Globais: Conflitos e Desafios",
+    "subtitulo": "Ucrânia, Oriente Médio e África: Pontos Quentes do Planeta",
+    "resumo": "O dia foi marcado por uma série de eventos tensos em diferentes partes do mundo. A Ucrânia continua a ser um ponto quente, com drones ucranianos atingindo armazéns e instalações industriais da Wildberries, resultando em mortes e feridos. Em outra frente, a situação no Sudão permanece crítica, com refugiados sudaneses retornando ao seu país em voos de retorno voluntário. Além disso, a comunidade internacional está atenta às negociações de paz na Ucrânia, com o envolvimento de líderes mundiais. A África também está sob os holofotes devido a questões de saúde, como a prevenção do HIV, e conflitos armados, como os ataques de gangues em Zamfara, Nigéria. Enquanto isso, a política global é sacudida por decisões econômicas, como as novas tarifas impostas pela administração Trump, afetando dezenas de países, incluindo a Rússia. Esses eventos refletem a complexidade e a interconexão dos desafios globais atuais, exigindo uma abordagem coordenada e cooperativa da comunidade internacional.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-07-23T14:00:00-03:00",
+    "publicado_em": "2026-07-24T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -970,53 +970,54 @@
   },
   "temas_principais": [
     {
-      "tema": "Conflitos no Oriente Médio",
-      "descricao": "A região continua a ser palco de tensões e conflitos, com impactos significativos na política e economia globais.",
+      "tema": "Conflito na Ucrânia",
+      "descricao": "Drones ucranianos atingem armazéns e instalações industriais da Wildberries, resultando em mortes e feridos.",
+      "fontes_que_cobriram": [
+        "euronews",
+        "rt",
+        "mt"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "new_york_times"
+      ],
+      "divergencia_de_enquadramento": "Enquanto a euronews e a rt destacam o ataque como um ato de agressão, a mt enfatiza as consequências humanitárias."
+    },
+    {
+      "tema": "Sudão",
+      "descricao": "Refugiados sudaneses retornam ao seu país em voos de retorno voluntário.",
+      "fontes_que_cobriram": [
+        "aa"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "the_guardian",
+        "scmp"
+      ],
+      "divergencia_de_enquadramento": "A aa destaca a importância do retorno voluntário, enquanto outras fontes não deram cobertura significativa."
+    },
+    {
+      "tema": "Tarifas de Trump",
+      "descricao": "Administração Trump impõe novas tarifas a dezenas de países, incluindo a Rússia.",
       "fontes_que_cobriram": [
         "new_york_times",
-        "euronews",
+        "scmp",
         "rt"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian"
+        "euronews"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar a responsabilidade dos países do Oriente Médio nos conflitos, enquanto as fontes russas e de outros blocos geopolíticos oferecem perspectivas diferentes."
-    },
-    {
-      "tema": "Preços do Petróleo",
-      "descricao": "O aumento nos preços do petróleo tem implicações significativas para a economia global, afetando desde a inflação até a produção industrial.",
-      "fontes_que_cobriram": [
-        "smh",
-        "scmp"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "mt"
-      ],
-      "divergencia_de_enquadramento": "As fontes financeiras e econômicas tendem a se concentrar nos aspectos mercadológicos, enquanto as fontes políticas podem abordar as implicações geopolíticas."
-    },
-    {
-      "tema": "Ucrânia e Relações Rússia-Ocidente",
-      "descricao": "A situação na Ucrânia e as relações entre Rússia e Ocidente continuam a ser um ponto de tensão, com implicações para a segurança europeia e global.",
-      "fontes_que_cobriram": [
-        "rt",
-        "st"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "aa"
-      ],
-      "divergencia_de_enquadramento": "As fontes russas e ocidentais têm narrativas muito diferentes sobre a crise ucraniana e as relações Rússia-Ocidente."
+      "divergencia_de_enquadramento": "Enquanto o new_york_times e o scmp veem as tarifas como uma medida econômica, a rt as vê como uma ação política contra a Rússia."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Desenvolvimento Sustentável na África",
-      "por_que_importa": "O desenvolvimento sustentável é crucial para o futuro da África, abordando questões de pobreza, desigualdade e meio ambiente.",
-      "cobertura": "A cobertura foi limitada, com apenas algumas fontes abordando o tema, como a AllAfrica."
+      "tema": "Prevenção do HIV na África",
+      "por_que_importa": "A prevenção do HIV é crucial para a saúde pública na África.",
+      "cobertura": "Apenas a aa deu cobertura significativa a este tema."
     },
     {
-      "tema": "Direitos Humanos em Regiões Conflituosas",
-      "por_que_importa": "A proteção dos direitos humanos é essencial em áreas afetadas por conflitos, garantindo a dignidade e a segurança das populações locais.",
-      "cobertura": "A cobertura foi variada, com algumas fontes destacando violações de direitos humanos em diferentes regiões, enquanto outras não deram muita atenção ao tema."
+      "tema": "Conflitos Armados em Zamfara, Nigéria",
+      "por_que_importa": "Os conflitos armados afetam a segurança e a estabilidade na região.",
+      "cobertura": "Apenas a aa reportou sobre os ataques de gangues em Zamfara."
     }
   ]
 }
