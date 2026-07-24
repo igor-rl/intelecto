@@ -692,127 +692,88 @@
     "mt": {
       "slug": "mt",
       "nome": "The Moscow Times",
-      "gerado_em": "2026-07-24T10:46:09.672Z",
+      "gerado_em": "2026-07-24T21:46:15.440Z",
       "artigos": [
         {
-          "id": "mt-2026-07-24-1002",
-          "titulo": "Rússia entre dezenas de países alvo de novas tarifas de Trump",
-          "resumo": "A Casa Branca acusou a Rússia e outros países de não promulgar ou aplicar efetivamente proibições de bens produzidos com trabalho forçado.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/24/russia-among-dozens-of-countries-targeted-by-new-trump-tariffs-a93328",
-          "publicado_em": "2026-07-24T09:08:10.000Z"
-        },
-        {
-          "id": "mt-2026-07-24-1003",
-          "titulo": "Pelo menos 6 mortos após drones ucranianos atingirem armazéns e instalações industriais da Wildberries",
+          "id": "mt-2026-07-24-2108",
+          "titulo": "Pelo menos 6 mortos após drones ucranianos atingirem armazéns da Wildberries e instalação industrial",
           "resumo": "A varejista online disse que seus centros logísticos em São Petersburgo e na região de Leningrado, bem como na Crimeia anexada, foram atingidos durante a noite.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/24/at-least-6-dead-after-ukrainian-drones-hit-wildberries-warehouses-and-industrial-facility-a93327",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-24T09:00:00.000Z"
         },
         {
-          "id": "mt-2026-07-24-1005",
-          "titulo": "Cazaquistão reduz produção de petróleo após ataques de drones a petroleiros no Mar Negro",
-          "resumo": "A Rússia acusou a Ucrânia de atacar petroleiros ao largo da costa sul do Mar Negro para interromper o mercado energético global.",
+          "id": "mt-2026-07-24-2111",
+          "titulo": "Avião de guerra cai durante voo de treinamento na região de Moscou",
+          "resumo": "O piloto ejetou com segurança do avião desarmado, disseram oficiais militares à mídia estatal.",
           "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/23/kazakhstan-cuts-oil-production-following-drone-strikes-on-black-sea-tankers-a93325",
-          "publicado_em": "2026-07-23T13:57:03.000Z"
+          "link": "https://www.themoscowtimes.com/2026/07/23/warplane-crashes-during-training-flight-in-moscow-region-a93323",
+          "fonte": "The Moscow Times",
+          "publicado_em": "2026-07-23T12:34:18.000Z"
         },
         {
-          "id": "mt-2026-07-24-1007",
+          "id": "mt-2026-07-24-2112",
           "titulo": "Oficial do Partido Comunista morto em ataque de drone ucraniano em Belgorod",
-          "resumo": "Alexander Logvinov, que chefiava a seção da cidade de Belgorod do Partido Comunista, foi morto na terça-feira, disseram oficiais do partido.",
+          "resumo": "Alexander Logvinov, que chefiava a seção do Partido Comunista na cidade de Belgorod, foi morto na terça-feira, disseram oficiais do partido.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/23/communist-party-official-killed-in-ukrainian-drone-attack-in-belgorod-a93321",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-23T12:11:59.000Z"
         },
         {
-          "id": "mt-2026-07-24-1008",
+          "id": "mt-2026-07-24-2113",
           "titulo": "Rubio diz que EUA continuam comprometidos com as negociações de paz na Ucrânia após reunião com Lavrov",
-          "resumo": "Rubio disse que o presidente Donald Trump havia deixado claro que os EUA estavam preparados para ajudar a facilitar o fim de uma 'guerra sem sentido' se a oportunidade surgisse.",
+          "resumo": "Rubio disse que o presidente Donald Trump deixou claro que os EUA estavam preparados para ajudar a facilitar o fim de uma \"guerra sem sentido\" se a oportunidade surgisse.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/23/rubio-says-us-remains-committed-to-ukraine-peace-talks-after-meeting-with-lavrov-a93320",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-23T10:12:50.000Z"
         },
         {
-          "id": "mt-2026-07-24-1009",
-          "titulo": "Quirguistão pede que cidadãos na Rússia exerçam cautela após ataques de drones a armazéns da Wildberries",
-          "resumo": "Dois cidadãos quirguizes estavam entre mais de 70 pessoas feridas durante os ataques ucranianos a instalações da Wildberries.",
+          "id": "mt-2026-07-24-2114",
+          "titulo": "Quirguistão pede que cidadãos na Rússia tenham cuidado após ataques de drones em armazéns da Wildberries",
+          "resumo": "Dois cidadãos quirguizes estavam entre mais de 70 pessoas feridas durante o fim de semana durante ataques ucranianos a instalações da Wildberries.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/23/kyrgyzstan-urges-citizens-in-russia-to-exercise-caution-following-drone-attacks-on-wildberries-warehouses-a93318",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-23T09:46:00.000Z"
         },
         {
-          "id": "mt-2026-07-24-1010",
+          "id": "mt-2026-07-24-2115",
           "titulo": "UE concorda com 21º pacote de sanções contra a Rússia",
           "resumo": "A Grécia recebeu uma isenção que permite que suas empresas de navegação continuem transportando gás natural liquefeito russo do Ártico.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/23/eu-agrees-21st-sanctions-package-against-russia-a93317",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-23T08:56:56.000Z"
         },
         {
-          "id": "mt-2026-07-24-1011",
+          "id": "mt-2026-07-24-2116",
           "titulo": "3 mortos em onda de ataques de drones ucranianos no sul da Rússia e na Crimeia",
-          "resumo": "Em Voronezh, destroços de drone caídos acenderam um incêndio em uma residência que matou um menino de três anos, disseram oficiais locais.",
+          "resumo": "Em Voronezh, destroços de drone caídos desencadearam um incêndio em uma residência que matou um menino de três anos, disseram oficiais locais.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/23/3-killed-as-wave-of-ukrainian-drones-strikes-southern-russia-and-crimea-a93316",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-23T07:50:00.000Z"
         },
         {
-          "id": "mt-2026-07-24-1012",
-          "titulo": "Usina de combustível nuclear alemã autorizada a trabalhar com a Rosatom da Rússia",
+          "id": "mt-2026-07-24-2117",
+          "titulo": "Planta de combustível nuclear alemã autorizada a trabalhar com a Rosatom da Rússia",
           "resumo": "Até agora, não há acordo da UE sobre a extensão de sanções à Rússia para o setor de energia nuclear.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/22/german-nuclear-fuel-plant-cleared-to-work-with-russias-rosatom-a93315",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-22T17:14:39.000Z"
         },
         {
-          "id": "mt-2026-07-24-1015",
-          "titulo": "Rússia diz que atacou portos e navios ucranianos",
-          "resumo": "O Ministério da Defesa disse que atacou infraestrutura portuária e navios nas cidades de Odesa e Chornomorsk que, segundo eles, apoiavam o exército ucraniano.",
+          "id": "mt-2026-07-24-2120",
+          "titulo": "Rússia diz que atingiu portos e navios ucranianos",
+          "resumo": "O Ministério da Defesa disse que atingiu infraestrutura portuária e navios nas cidades de Odesa e Chornomorsk que, segundo eles, estavam apoiando o exército ucraniano.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/22/russia-says-it-struck-ukrainian-ports-and-ships-a93312",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-22T15:54:32.000Z"
-        },
-        {
-          "id": "mt-2026-07-24-1016",
-          "titulo": "Forças europeias interceptam petroleiro 'frota fantasma' no Mar Mediterrâneo",
-          "resumo": "Uma missão naval europeia abordou um petroleiro ligado à Rússia suspeito de navegar sob uma bandeira falsa na segunda-feira, disse a principal diplomata da UE, Kaja Kallas.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/22/european-forces-intercept-shadow-fleet-oil-tanker-in-mediterranean-sea-a93311",
-          "publicado_em": "2026-07-22T15:07:55.000Z"
-        },
-        {
-          "id": "mt-2026-07-24-1017",
-          "titulo": "Duma Estatal aprova projetos de lei 'morte cívica' que cortam exilados críticos de serviços bancários e consulares",
-          "resumo": "Defensores dos direitos alertam que a legislação estende a capacidade do governo russo de punir a dissidência muito além de suas fronteiras.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/22/state-duma-passes-civic-death-bills-cutting-off-exiled-critics-from-banking-and-consular-services-a93308",
-          "publicado_em": "2026-07-22T13:13:00.000Z"
-        },
-        {
-          "id": "mt-2026-07-24-1018",
-          "titulo": "Lavrov e Rubio devem se encontrar na cúpula da ASEAN para discutir negociações de paz na Ucrânia",
-          "resumo": "O secretário de Estado dos EUA, Marco Rubio, disse que também discutiria questões bilaterais mais amplas com o ministro das Relações Exteriores da Rússia na quinta-feira.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/22/lavrov-and-rubio-set-to-meet-at-asean-summit-to-discuss-ukraine-peace-talks-a93306",
-          "publicado_em": "2026-07-22T10:40:07.000Z"
-        },
-        {
-          "id": "mt-2026-07-24-1019",
-          "titulo": "Rússia emite mandado de prisão para o novo comandante militar da Ucrânia apenas horas após nomeação",
-          "resumo": "O mandado de prisão foi emitido apenas horas após o presidente ucraniano Volodymyr Zelensky ter dispensado o general Oleksandr Syrskyi e nomeado Mykhailo Drapatyi como seu substituto.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/22/russia-issues-arrest-warrant-for-ukraines-new-military-commander-just-hours-after-appointment-a93305",
-          "publicado_em": "2026-07-22T08:47:29.000Z"
-        },
-        {
-          "id": "mt-2026-07-24-1020",
-          "titulo": "Drones ucranianos atingem centros logísticos da Wildberries no sul da Rússia",
-          "resumo": "O fundador da varejista online disse que ataques noturnos atingiram dois centros de distribuição nas regiões de Krasnodar e Stavropol.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/22/ukrainian-drones-strike-wildberries-logistics-hubs-in-southern-russia-a93304",
-          "publicado_em": "2026-07-22T08:08:00.000Z"
         }
       ]
     },
