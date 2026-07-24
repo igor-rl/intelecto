@@ -5,10 +5,10 @@
   "itens_urgentes": {},
   "destaques": [],
   "capa": {
-    "categoria_nome": "O que marcou o dia?",
-    "titulo": "Tensões Globais: Conflitos e Desafios",
-    "subtitulo": "Ucrânia, Oriente Médio e África: Pontos Quentes do Planeta",
-    "resumo": "O dia foi marcado por uma série de eventos tensos em diferentes partes do mundo. A Ucrânia continua a ser um ponto quente, com drones ucranianos atingindo armazéns e instalações industriais da Wildberries, resultando em mortes e feridos. Em outra frente, a situação no Sudão permanece crítica, com refugiados sudaneses retornando ao seu país em voos de retorno voluntário. Além disso, a comunidade internacional está atenta às negociações de paz na Ucrânia, com o envolvimento de líderes mundiais. A África também está sob os holofotes devido a questões de saúde, como a prevenção do HIV, e conflitos armados, como os ataques de gangues em Zamfara, Nigéria. Enquanto isso, a política global é sacudida por decisões econômicas, como as novas tarifas impostas pela administração Trump, afetando dezenas de países, incluindo a Rússia. Esses eventos refletem a complexidade e a interconexão dos desafios globais atuais, exigindo uma abordagem coordenada e cooperativa da comunidade internacional.",
+    "categoria_nome": "Tensões Globais",
+    "titulo": "Conflitos e Ameaças",
+    "subtitulo": "Tensões entre EUA, Rússia e China aumentam, enquanto a Ucrânia e o Oriente Médio continuam em crise",
+    "resumo": "Os últimos desenvolvimentos globais mostram um aumento nas tensões entre as principais potências mundiais. A Rússia e a Ucrânia continuam em conflito, com a Rússia atingindo alvos civis e a Ucrânia respondendo com ataques de drones. Enquanto isso, os EUA e a China estão em uma disputa comercial e tecnológica, com o presidente Trump ameaçando impor novas tarifas. No Oriente Médio, a situação também é tensa, com ataques aéreos e terrestres em várias regiões. Além disso, a África enfrenta desafios de segurança, com o Sudão do Sul preparando-se para eleições e a Libéria lidando com um grande caso de tráfico de cocaína. Neste cenário complexo, é fundamental entender as perspectivas de cada lado e como as notícias são apresentadas por diferentes fontes de mídia.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-07-24T08:00:00-03:00",
     "link": null,
@@ -954,54 +954,59 @@
   },
   "temas_principais": [
     {
-      "tema": "Conflito na Ucrânia",
-      "descricao": "Drones ucranianos atingem armazéns e instalações industriais da Wildberries, resultando em mortes e feridos.",
+      "tema": "Conflito Rússia-Ucrânia",
+      "descricao": "A Rússia e a Ucrânia continuam em conflito, com ataques de drones e bombardeios.",
       "fontes_que_cobriram": [
-        "euronews",
+        "the_guardian",
+        "new_york_times",
         "rt",
         "mt"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "new_york_times"
+        "scmp",
+        "st"
       ],
-      "divergencia_de_enquadramento": "Enquanto a euronews e a rt destacam o ataque como um ato de agressão, a mt enfatiza as consequências humanitárias."
+      "divergencia_de_enquadramento": "As fontes russas enfatizam a ameaça ucraniana, enquanto as fontes ocidentais destacam a agressão russa."
     },
     {
-      "tema": "Sudão",
-      "descricao": "Refugiados sudaneses retornam ao seu país em voos de retorno voluntário.",
-      "fontes_que_cobriram": [
-        "aa"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian",
-        "scmp"
-      ],
-      "divergencia_de_enquadramento": "A aa destaca a importância do retorno voluntário, enquanto outras fontes não deram cobertura significativa."
-    },
-    {
-      "tema": "Tarifas de Trump",
-      "descricao": "Administração Trump impõe novas tarifas a dezenas de países, incluindo a Rússia.",
+      "tema": "Tensões EUA-China",
+      "descricao": "Os EUA e a China estão em uma disputa comercial e tecnológica, com ameaças de novas tarifas.",
       "fontes_que_cobriram": [
         "new_york_times",
         "scmp",
-        "rt"
+        "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "euronews"
+        "rt",
+        "mt"
       ],
-      "divergencia_de_enquadramento": "Enquanto o new_york_times e o scmp veem as tarifas como uma medida econômica, a rt as vê como uma ação política contra a Rússia."
+      "divergencia_de_enquadramento": "As fontes americanas enfatizam a necessidade de proteger a indústria nacional, enquanto as fontes chinesas destacam a importância da cooperação internacional."
+    },
+    {
+      "tema": "Crise no Oriente Médio",
+      "descricao": "A região enfrenta ataques aéreos e terrestres, com tensões entre várias nações.",
+      "fontes_que_cobriram": [
+        "euronews",
+        "st",
+        "mt"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "the_guardian",
+        "new_york_times"
+      ],
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a necessidade de estabilidade na região, enquanto as fontes locais destacam a complexidade dos conflitos."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Prevenção do HIV na África",
-      "por_que_importa": "A prevenção do HIV é crucial para a saúde pública na África.",
-      "cobertura": "Apenas a aa deu cobertura significativa a este tema."
+      "tema": "Sudão do Sul",
+      "por_que_importa": "O país está se preparando para eleições e enfrenta desafios de segurança.",
+      "cobertura": "Apenas a AllAfrica cobriu o tema, destacando a importância da estabilidade na região."
     },
     {
-      "tema": "Conflitos Armados em Zamfara, Nigéria",
-      "por_que_importa": "Os conflitos armados afetam a segurança e a estabilidade na região.",
-      "cobertura": "Apenas a aa reportou sobre os ataques de gangues em Zamfara."
+      "tema": "Libéria",
+      "por_que_importa": "O país está lidando com um grande caso de tráfico de cocaína.",
+      "cobertura": "Apenas a AllAfrica cobriu o tema, destacando a necessidade de cooperação internacional para combater o tráfico de drogas."
     }
   ]
 }
