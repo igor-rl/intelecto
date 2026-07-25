@@ -184,119 +184,103 @@
     "euronews": {
       "slug": "euronews",
       "nome": "Euro News",
-      "gerado_em": "2026-07-24T21:00:20.146Z",
+      "gerado_em": "2026-07-25T10:00:20.591Z",
       "artigos": [
         {
-          "id": "euronews-2026-07-24-21:00-01",
-          "titulo": "Irã afirma que alvos bases dos EUA no Bahrein, Jordânia e Kuwait",
-          "resumo": "Teerã diz que qualquer instalação ou base no Oriente Médio usada pelo exército dos EUA para lançar ataques ao Irã é um alvo legítimo para retaliação.",
+          "id": "euronews-2026-07-25-1001",
+          "titulo": "Sol vermelho, céu laranja enquanto Madri luta contra o pior incêndio florestal de sua história",
+          "resumo": "Incêndios florestais perto de Madri e Ávila forçaram dezenas de milhares a evacuar, tornando o céu laranja e o sol vermelho-sangue sobre as cidades afetadas.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/25/red-sun-orange-sky-as-madrid-battles-worst-wildfire-in-its-history",
+          "publicado_em": "2026-07-25T09:12:17.000Z"
+        },
+        {
+          "id": "euronews-2026-07-25-1004",
+          "titulo": "Inundações da monção matam pelo menos 41 em Assam, na Índia",
+          "resumo": "Inundações da monção submergem casas e estradas em Assam, na Índia, enquanto os esforços de resgate continuam após pelo menos 41 pessoas terem sido mortas.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/25/assam-monsoon-flooding-kills-at-least-41-as-rescue-operations-continue",
+          "publicado_em": "2026-07-25T08:05:11.000Z"
+        },
+        {
+          "id": "euronews-2026-07-25-1005",
+          "titulo": "Tunísia marca aniversário de medidas de emergência de Saied em meio a crise de energia letal",
+          "resumo": "Entre 150 e 200 pessoas são relatadas mortas após mais de uma semana de apagões durante uma onda de calor excepcional, enquanto a Tunísia marca cinco anos desde que o presidente Kais Saied suspendeu o parlamento e concentrou o poder.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/25/tunisia-marks-saieds-emergency-measures-anniversary-amid-deadly-power-crisis",
+          "publicado_em": "2026-07-25T05:30:11.000Z"
+        },
+        {
+          "id": "euronews-2026-07-25-1007",
+          "titulo": "Militar iraniano diz que atacou bases dos EUA na Bahrein, Jordânia e Kuwait",
+          "resumo": "Teerã diz que qualquer instalação ou base no Oriente Médio usada pelo exército dos EUA para lançar ataques contra o Irã é um alvo legítimo para retaliação.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/24/iran-military-says-it-targeted-us-bases-in-bahrain-jordan-and-kuwait",
           "publicado_em": "2026-07-24T20:06:25.000Z"
         },
         {
-          "id": "euronews-2026-07-24-21:00-02",
-          "titulo": "Trump e Zelenskyy se encontrarão em Washington na próxima semana",
-          "resumo": "Kiev não confirmou imediatamente se o presidente Volodymyr Zelenskyy se encontrará com o presidente Donald Trump em Washington na próxima semana ou participará do funeral do senador Lindsey Graham",
+          "id": "euronews-2026-07-25-1008",
+          "titulo": "Trump e Zelenskyy devem se encontrar em Washington na próxima semana",
+          "resumo": "Quieve não confirmou imediatamente se o presidente Volodymyr Zelenskyy se encontrará com o presidente Donald Trump em Washington na próxima semana ou participará do funeral do senador Lindsey Graham.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/24/trump-and-zelenskyy-to-meet-in-washington-next-week",
           "publicado_em": "2026-07-24T18:19:48.000Z"
         },
         {
-          "id": "euronews-2026-07-24-21:00-03",
+          "id": "euronews-2026-07-25-1009",
           "titulo": "Incêndios florestais aumentam 57% na Europa em apenas quatro anos, alerta OMS",
-          "resumo": "À medida que incêndios florestais se espalham por partes da Europa, a OMS alertou sobre um aumento acentuado nos incêndios florestais na região e seu impacto crescente na saúde humana.",
+          "resumo": "À medida que incêndios florestais ardem em partes da Europa, a OMS alertou sobre um aumento acentuado nos incêndios florestais na região e seu impacto crescente na saúde humana.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/24/wildfires-up-57-in-europe-in-just-four-years-who-warns",
           "publicado_em": "2026-07-24T18:01:55.000Z"
         },
         {
-          "id": "euronews-2026-07-24-21:00-04",
+          "id": "euronews-2026-07-25-1010",
           "titulo": "Bombardeiro suicida mata 15 em posto de controle de segurança no noroeste do Paquistão",
-          "resumo": "O Paquistão testemunhou um aumento nos ataques militantes contra as forças de segurança nos últimos anos, com as autoridades culpando o TTP e grupos aliados por grande parte da violência.",
+          "resumo": "O Paquistão testemunhou um aumento nos ataques militantes que visam as forças de segurança nos últimos anos, com as autoridades culpando o TTP e grupos aliados por grande parte da violência.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/24/suicide-bomber-kills-15-at-security-checkpoint-in-northwest-pakistan",
           "publicado_em": "2026-07-24T16:34:59.000Z"
         },
         {
-          "id": "euronews-2026-07-24-21:00-05",
+          "id": "euronews-2026-07-25-1012",
           "titulo": "Netanyahu ordena 'firme' ação militar após confronto mortal na Cisjordânia",
-          "resumo": "Netanyahu disse que ordenou ao IDF que \"acelerasse a legalização de fazendas existentes e o estabelecimento de novas\" após o incidente perto da vila de Tell.",
+          "resumo": "Netanyahu disse que havia ordenado ao IDF que 'acelerasse a legalização de fazendas existentes e o estabelecimento de novas' após o incidente perto da vila de Tell.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/24/netanyahu-orders-firm-military-action-after-deadly-west-bank-clash",
           "publicado_em": "2026-07-24T13:06:22.000Z"
         },
         {
-          "id": "euronews-2026-07-24-21:00-06",
-          "titulo": "Ataque de drone ucraniano causa grande incêndio em armazéns de São Petersburgo",
-          "resumo": "Um ataque de drone ucraniano causou um grande incêndio em um armazém da Wildberries perto de São Petersburgo na madrugada de quinta-feira, 24 de julho, enviando fumaça espessa pela cidade e interrompendo temporariamente os voos no aeroporto de Pulkovo.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/07/24/ukrainian-drone-strike-ignites-major-blaze-at-saint-petersburg-warehouses",
-          "publicado_em": "2026-07-24T08:55:19.000Z"
-        },
-        {
-          "id": "euronews-2026-07-24-21:00-07",
-          "titulo": "Incêndio destrói florestas em Cap Ferret, na França, e milhares são evacuados",
-          "resumo": "Um incêndio florestal forçou a evacuação da península de Cap Ferret após destruir dezenas de casas, enquanto 700 bombeiros lutavam para conter o incêndio.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/07/24/france-massive-blaze-engulfs-cap-ferret-forests-as-thousands-evacuated",
-          "publicado_em": "2026-07-24T08:06:30.000Z"
-        },
-        {
-          "id": "euronews-2026-07-24-21:00-08",
-          "titulo": "Economia do Uzbequistão cresce 8,5% à medida que serviços e investimentos se expandem",
-          "resumo": "Figuras oficiais apresentadas em uma revisão presidencial mostraram investimentos alcançando €24,6 bilhões e exportações de €12,7 bilhões no primeiro semestre de 2026, à medida que a Moody's atualizou a classificação de crédito soberana do Uzbequistão para 'B1'.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/24/uzbek-economy-grows-85-as-services-and-investment-expand",
-          "publicado_em": "2026-07-24T11:09:30.000Z"
-        },
-        {
-          "id": "euronews-2026-07-24-21:00-09",
-          "titulo": "Emergência de incêndio florestal perto de Madri força mais de 10.000 a fugir, enquanto a Espanha soa o alarme",
+          "id": "euronews-2026-07-25-1016",
+          "titulo": "Emergência de incêndio florestal perto de Madri força mais de 10.000 a fugir enquanto a Espanha soa o alarme",
           "resumo": "Oficiais da Guarda Civil, bombeiros e a Unidade de Emergência Militar lutam contra incêndios florestais ferozes perto de Madri, com mais de 10.000 pessoas evacuadas em meio ao calor extremo.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/07/24/wildfire-emergency-near-madrid-forces-over-10000-to-flee-as-spain-sounds-alarm",
           "publicado_em": "2026-07-24T10:48:26.000Z"
         },
         {
-          "id": "euronews-2026-07-24-21:00-10",
-          "titulo": "Trump ameaça usar ativos iranianos congelados para pagar danos de navios",
-          "resumo": "Teerã disse na sexta-feira que a ameaça do presidente dos EUA, Donald Trump, de pagar danos de navios com ativos iranianos congelados foi um 'precedente inflamável'.",
+          "id": "euronews-2026-07-25-1018",
+          "titulo": "Ataque de drone ucraniano incendeia grande incêndio em armazéns de São Petersburgo",
+          "resumo": "Um ataque de drone ucraniano provocou um grande incêndio em um armazém da Wildberries perto de São Petersburgo no início da quinta-feira, 24 de julho, enviando fumaça espessa sobre a cidade e interrompendo temporariamente os voos no aeroporto de Pulkovo.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/24/ukrainian-drone-strike-ignites-major-blaze-at-saint-petersburg-warehouses",
+          "publicado_em": "2026-07-24T08:55:19.000Z"
+        },
+        {
+          "id": "euronews-2026-07-25-1019",
+          "titulo": "França: Grande incêndio engole florestas de Cap Ferret enquanto milhares são evacuados",
+          "resumo": "Um incêndio florestal em rápida propagação forçou a evacuação da península de Cap Ferret inteira após destruir dezenas de casas, enquanto 700 bombeiros lutam para conter o incêndio.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/24/france-massive-blaze-engulfs-cap-ferret-forests-as-thousands-evacuated",
+          "publicado_em": "2026-07-24T08:06:30.000Z"
+        },
+        {
+          "id": "euronews-2026-07-25-1022",
+          "titulo": "Trump ameaça usar ativos iranianos congelados para pagar danos de navegação",
+          "resumo": "Teerã disse na sexta-feira que a ameaça do presidente dos EUA, Donald Trump, de pagar danos de navegação com ativos iranianos era um 'precedente incendiário'.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/24/trump-threatens-to-use-frozen-iranian-assets-to-pay-for-shipping-damage",
           "publicado_em": "2026-07-24T04:22:00.000Z"
-        },
-        {
-          "id": "euronews-2026-07-24-21:00-11",
-          "titulo": "Liberia apreende cocaína no valor de €277 milhões ligada a rede de tráfico 'organizada e bem financiada'",
-          "resumo": "De acordo com a Iniciativa Global Contra o Crime Transnacional Organizado, a África Ocidental é um hub de trânsito importante para cocaína destinada à Europa.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/23/liberia-seizes-277-million-worth-of-cocaine-linked-to-organised-and-well-funded-traffickin",
-          "publicado_em": "2026-07-23T14:29:49.000Z"
-        },
-        {
-          "id": "euronews-2026-07-24-21:00-12",
-          "titulo": "Danos do terremoto na Venezuela somam quase US$ 20 bilhões, diz Banco Mundial",
-          "resumo": "Quase um mês após os terremotos devastadores, a Venezuela tem uma tarefa gigantesca pela frente em termos de reconstrução, reabilitação e mitigação dos danos sociais e econômicos do maior desastre natural da história do país.",
-          "imagem": null,
-          "link": "http://www.euronews.com/business/2026/07/23/venezuela-earthquake-damages-add-up-to-almost-20-billion-world-bank-says",
-          "publicado_em": "2026-07-23T14:03:55.000Z"
-        },
-        {
-          "id": "euronews-2026-07-24-21:00-13",
-          "titulo": "Incêndio florestal se espalha no sudoeste da França, milhares evacuados",
-          "resumo": "Um incêndio florestal se espalha perto de Le Porge em Gironde, na França, enquanto bombeiros lutam contra as chamas na floresta e milhares de pessoas são evacuadas.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/07/23/thousands-evacuated-as-wildfire-spreads-in-southwestern-france",
-          "publicado_em": "2026-07-23T12:14:13.000Z"
-        },
-        {
-          "id": "euronews-2026-07-24-21:00-14",
-          "titulo": "Modi aborda o movimento 'Barata' da juventude indiana, enquanto manifestantes realizam um sit-in na capital",
-          "resumo": "Os protestos 'Barata', que ganharam um seguimento mais amplo entre os indianos de todas as idades sobre a responsabilidade do governo, desemprego e oportunidades econômicas, são considerados um dos principais desafios do primeiro-ministro Narendra Modi.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/23/modi-adresses-indias-youths-cockroach-movement-as-protesters-hold-capital-sit-in",
-          "publicado_em": "2026-07-23T15:34:20.000Z"
         }
       ]
     },
