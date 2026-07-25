@@ -6,11 +6,11 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Tensões globais: do Oriente Médio à Europa",
-    "subtitulo": "Conflitos, incêndios e ameaças nucleares dominam manchetes",
-    "resumo": "O dia foi marcado por uma série de eventos tensos em diferentes partes do mundo. No Oriente Médio, a situação entre EUA e Irã continua crítica, com Trump ameaçando ataques maciços. Na Ucrânia, ataques ucranianos a refinarias de petróleo e sites comerciais russos alimentam preocupações de inflação e escalada do conflito. Enquanto isso, na Europa, incêndios florestais varrem a Espanha e a França, forçando a evacuação de cerca de 200.000 pessoas. Além disso, a Rússia proíbe importações de laticínios armênios devido a supostas violações de saúde, e o Sudão do Sul enfrenta ameaças à sua transição frágil devido ao contrabando de armas. Esses eventos refletem a complexidade e a interconexão dos desafios globais atuais, exigindo uma abordagem cuidadosa e coordenada para mitigar tensões e promover a estabilidade.",
+    "titulo": "Tensões Globais: Conflitos e Desafios",
+    "subtitulo": "Ucrânia, Irã e Rússia no centro das tensões internacionais",
+    "resumo": "O dia foi marcado por uma série de eventos que destacam as tensões globais atuais. A Ucrânia e a Rússia continuam no centro dos conflitos, com ataques e contra-ataques. O Irã também está sob escrutínio devido a sua participação nos conflitos no Oriente Médio. Além disso, a Rússia está enfrentando desafios internos, com a economia enfrentando dificuldades. Os EUA também estão envolvidos, com o presidente Trump enfrentando críticas por suas políticas. A Europa está lidando com incêndios florestais devastadores, que têm levado à evacuação de centenas de milhares de pessoas. Esses eventos mostram a complexidade e a interconexão dos desafios globais atuais.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-07-25T08:00:00-03:00",
+    "publicado_em": "2026-07-25T14:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -955,54 +955,61 @@
   },
   "temas_principais": [
     {
-      "tema": "Conflito EUA-Irã",
-      "descricao": "Tensões escalam com ameaças de ataques maciços",
-      "fontes_que_cobriram": [
-        "new_york_times",
-        "euronews",
-        "smh"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "rt"
-      ],
-      "divergencia_de_enquadramento": "Enquanto a mídia ocidental destaca as ameaças de Trump, a Rússia e aliados do Irã minimizam ou omitem essas notícias."
-    },
-    {
-      "tema": "Incêndios na Europa",
-      "descricao": "Espanha e França enfrentam incêndios florestais devastadores",
-      "fontes_que_cobriram": [
-        "euronews",
-        "smh"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian"
-      ],
-      "divergencia_de_enquadramento": "A cobertura varia de acordo com a região afetada, com mais atenção da mídia local e europeia."
-    },
-    {
       "tema": "Conflito Ucrânia-Rússia",
-      "descricao": "Ataques ucranianos a alvos russos aumentam tensões",
+      "descricao": "Ataques e contra-ataques entre Ucrânia e Rússia",
       "fontes_que_cobriram": [
         "the_guardian",
+        "new_york_times",
         "rt",
         "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "new_york_times"
+        "euronews",
+        "scmp"
       ],
-      "divergencia_de_enquadramento": "A narrativa varia significativamente entre fontes pró-ucranianas e pró-russas, com cada lado apresentando sua versão dos eventos."
+      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar a agressão russa, enquanto as fontes russas destacam a legítima defesa ucraniana."
+    },
+    {
+      "tema": "Irã e Oriente Médio",
+      "descricao": "Participação do Irã nos conflitos no Oriente Médio",
+      "fontes_que_cobriram": [
+        "new_york_times",
+        "st",
+        "rt"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "the_guardian",
+        "euronews"
+      ],
+      "divergencia_de_enquadramento": "As fontes ocidentais tendem a criticar a participação do Irã, enquanto as fontes iranianas e russas a defendem."
+    },
+    {
+      "tema": "Incêndios florestais na Europa",
+      "descricao": "Incêndios florestais devastadores na França e Espanha",
+      "fontes_que_cobriram": [
+        "smh"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "the_guardian",
+        "new_york_times",
+        "rt",
+        "st",
+        "euronews",
+        "scmp"
+      ],
+      "divergencia_de_enquadramento": "A cobertura dos incêndios florestais variou significativamente entre as fontes, com algumas destacando a gravidade da situação e outras minimizando-a."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Sudão do Sul",
-      "por_que_importa": "A região enfrenta desafios significativos de estabilidade devido ao contrabando de armas",
-      "cobertura": "Apenas a AllAfrica deu destaque a essa questão, enquanto outras fontes a ignoraram ou minimizaram."
+      "tema": "Desafios econômicos da Rússia",
+      "por_que_importa": "A economia russa enfrenta dificuldades devido às sanções internacionais",
+      "cobertura": "A cobertura desse tema foi limitada, com apenas algumas fontes abordando o assunto."
     },
     {
-      "tema": "Proibição de laticínios armênios pela Rússia",
-      "por_que_importa": "Reflete tensões econômicas e políticas entre a Rússia e a Armênia",
-      "cobertura": "Apenas a Moscow Times mencionou esse evento, indicando uma falta de atenção da mídia ocidental a questões específicas da região."
+      "tema": "Políticas de Trump",
+      "por_que_importa": "As políticas do presidente Trump têm impacto significativo nas relações internacionais",
+      "cobertura": "A cobertura desse tema foi ampla, com muitas fontes criticando as políticas de Trump."
     }
   ]
 }
