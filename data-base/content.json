@@ -834,23 +834,39 @@
     "smh": {
       "slug": "smh",
       "nome": "The Sydney Morning Herald (SMH)",
-      "gerado_em": "2026-07-24T21:46:32.728Z",
+      "gerado_em": "2026-07-25T10:46:25.744Z",
       "artigos": [
         {
-          "id": "smh-2026-07-24-2102-01",
-          "titulo": "Donald Trump prepara reprise da Ceia de Correspondentes da Casa Branca",
-          "resumo": "Três meses após um atirador invadir a Ceia de Correspondentes da Casa Branca, Donald Trump está se preparando para uma reprise do evento sob forte segurança.",
-          "link": "https://www.smh.com.au/world/donald-trump-prepares-to-redo-white-house-correspondents-dinner-20260725-p60ig2.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/5c4f77061b78af365def560ed50b54ea2820d76a",
-          "publicado_em": "2026-07-24T21:37:20.000Z"
+          "id": "smh-2026-07-25-01",
+          "titulo": "Resgate encontra 11 turistas europeus e um tripulante vivo após barco de alta velocidade afundar na Indonésia",
+          "resumo": "O grupo desapareceu após seu barco de alta velocidade aparentemente se partir e afundar em condições climáticas adversas em uma baía da ilha de Sulawesi na sexta-feira à tarde.",
+          "imagem": "https://static.ffx.io/images/$zoom_0.9401%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_14%2C$y_66/t_crop_custom/q_86%2Cf_auto/2e5823da9030462c0951f04e33554618bcb87e6f",
+          "link": "https://www.smh.com.au/world/asia/indonesian-rescuers-search-for-missing-speedboat-with-11-european-tourists-two-local-crew-20260725-p60ij5.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-25T10:09:05.000Z"
         },
         {
-          "id": "smh-2026-07-24-2108-02",
-          "titulo": "Australia had a chance to fazer algo grande. Então veio liderança fraca e erros fatais",
-          "resumo": "A falha em implementar um novo esquema nacional de compra de armas oferece uma visão sobre o estado da política e o poder profundo do interesse próprio.",
-          "link": "https://www.smh.com.au/politics/nsw/australia-had-a-chance-to-do-something-big-then-came-weak-leadership-and-fatal-errors-20260624-p609jo.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "imagem": "https://static.ffx.io/images/$zoom_0.5174%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_1%2C$y_0/t_crop_custom/q_86%2Cf_auto/c5e5632955b21efb8ed02b400d493b3a7d90f464",
-          "publicado_em": "2026-07-24T19:01:00.000Z"
+          "id": "smh-2026-07-25-02",
+          "titulo": "Trump avisa que EUA estão 'trancados e carregados' para ataques maciços no Irã",
+          "resumo": "Donald Trump alertou que os EUA estão \"trancados e carregados\" e considerando ataques maciços ao Irã após novos ataques a bases militares americanas no Oriente Médio.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/d98f32dc15a006964ee84f282cad0645e5c94c91",
+          "link": "https://www.smh.com.au/world/trump-warns-us-locked-and-loaded-for-massive-strikes-on-iran-20260725-p60ijg.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-25T08:52:19.000Z"
+        },
+        {
+          "id": "smh-2026-07-25-03",
+          "titulo": "Trump anuncia candidatura presidencial para 2028",
+          "resumo": "Donald Trump anunciou que irá concorrer à presidência novamente, em uma movimentação que violaria a constituição.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/05bf58bb2f01d8f988ec6f8f7d69ef7fad5d192c",
+          "link": "https://www.smh.com.au/world/trump-announces-2028-presidential-bid-20260725-p60iho.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-25T08:43:30.000Z"
+        },
+        {
+          "id": "smh-2026-07-25-04",
+          "titulo": "200.000 pessoas forçadas a evacuar enquanto incêndios florestais varrem a Espanha e a França",
+          "resumo": "Cerca de 200.000 pessoas foram ordenadas a evacuar, à medida que incêndios florestais se espalham pela França e Espanha.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/93f7cce7dde3f8baa7bc18c50408b9e6744a5def",
+          "link": "https://www.smh.com.au/world/200-000-people-forced-to-evacuate-as-wildfires-rip-through-spain-and-france-20260725-p60ijd.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-25T08:41:55.000Z"
         }
       ]
     }
