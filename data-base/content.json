@@ -596,88 +596,135 @@
     "mt": {
       "slug": "mt",
       "nome": "The Moscow Times",
-      "gerado_em": "2026-07-24T21:46:15.440Z",
+      "gerado_em": "2026-07-25T10:46:07.855Z",
       "artigos": [
         {
-          "id": "mt-2026-07-24-2108",
+          "id": "mt-2026-07-25-1001",
+          "titulo": "Ataques ucranianos matam 2 em Belgorod e atingem armazém da Wildberries nos Urais",
+          "resumo": "A Wildberries suspendeu as operações e evacuou os trabalhadores de sua instalação logística local na cidade de Yekaterinburg.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/25/ukrainian-attacks-kill-2-in-belgorod-and-target-wildberries-warehouse-in-urals-a93338",
+          "publicado_em": "2026-07-25T09:19:22.000Z"
+        },
+        {
+          "id": "mt-2026-07-25-1002",
+          "titulo": "Importante terminal de petróleo russo no Mar Negro para operações devido a ameaça de drones ucranianos",
+          "resumo": "O terminal Sheskharis no porto de Novorossiysk não carregou nenhum petroleiro desde a manhã de terça-feira, segundo a Bloomberg.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/25/major-russian-black-sea-oil-terminal-halts-operations-amid-ukrainian-drone-threat-a93337",
+          "publicado_em": "2026-07-25T07:50:03.000Z"
+        },
+        {
+          "id": "mt-2026-07-25-1005",
+          "titulo": "Putin visita fábrica siberiana que produz a aeronave russa atrasada",
+          "resumo": "O Kremlin disse que Vladimir Putin visitou a fábrica de aviação de Irkutsk, que está produzindo o avião de passageiros MC-21 da Rússia.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/24/putin-visits-siberian-factory-producing-delayed-russian-airliner-a93332",
+          "publicado_em": "2026-07-24T13:58:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-25-1006",
+          "titulo": "Rússia proíbe importações de laticínios armênios devido a supostas violações de saúde",
+          "resumo": "A proibição segue uma série de restrições russas à importação e trânsito de produtos alimentícios armênios neste verão.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/24/russia-bans-armenian-dairy-imports-over-alleged-health-violations-a93331",
+          "publicado_em": "2026-07-24T12:41:11.000Z"
+        },
+        {
+          "id": "mt-2026-07-25-1007",
+          "titulo": "Banco Central Russo alerta sobre inflação mais alta à medida que reduz a taxa-chave para 14%",
+          "resumo": "A modesta redução vem apesar das preocupações de que os ataques ucranianos a refinarias de petróleo e sites comerciais alimentarão um novo surto de inflação.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/24/russian-central-bank-warns-of-higher-inflation-as-it-lowers-key-rate-to-14-a93329",
+          "publicado_em": "2026-07-24T10:57:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-25-1009",
+          "titulo": "Rússia está entre dezenas de países visados por novas tarifas de Trump",
+          "resumo": "A Casa Branca acusou a Rússia e outros países de não promulgar ou aplicar efetivamente proibições de bens produzidos com trabalho forçado.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/24/russia-among-dozens-of-countries-targeted-by-new-trump-tariffs-a93328",
+          "publicado_em": "2026-07-24T09:08:10.000Z"
+        },
+        {
+          "id": "mt-2026-07-25-1010",
           "titulo": "Pelo menos 6 mortos após drones ucranianos atingirem armazéns da Wildberries e instalação industrial",
-          "resumo": "A varejista online disse que seus centros logísticos em São Petersburgo e na região de Leningrado, bem como na Crimeia anexada, foram atingidos durante a noite.",
+          "resumo": "O varejista online disse que seus centros logísticos em São Petersburgo e na região de Leningrado, bem como na Crimeia anexada, foram atingidos durante a noite.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/24/at-least-6-dead-after-ukrainian-drones-hit-wildberries-warehouses-and-industrial-facility-a93327",
-          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-24T09:00:00.000Z"
         },
         {
-          "id": "mt-2026-07-24-2111",
+          "id": "mt-2026-07-25-1011",
+          "titulo": "Candidatos independentes da Rússia enfrentam sua eleição mais difícil",
+          "resumo": "Muitos russos estão frustrados com a guerra e a economia. Isso pode ajudar os candidatos que tentam desafiar o status quo político?",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/23/russias-independent-candidates-face-their-toughest-election-yet-a93322",
+          "publicado_em": "2026-07-23T15:44:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-25-1012",
+          "titulo": "Cazaquistão reduz produção de petróleo após ataques de drones a petroleiros no Mar Negro",
+          "resumo": "A Rússia acusou a Ucrânia de atacar petroleiros ao largo de sua costa sul do Mar Negro para interromper o mercado energético global.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/23/kazakhstan-cuts-oil-production-following-drone-strikes-on-black-sea-tankers-a93325",
+          "publicado_em": "2026-07-23T13:57:03.000Z"
+        },
+        {
+          "id": "mt-2026-07-25-1013",
           "titulo": "Avião de guerra cai durante voo de treinamento na região de Moscou",
           "resumo": "O piloto ejetou com segurança do avião desarmado, disseram oficiais militares à mídia estatal.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/23/warplane-crashes-during-training-flight-in-moscow-region-a93323",
-          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-23T12:34:18.000Z"
         },
         {
-          "id": "mt-2026-07-24-2112",
+          "id": "mt-2026-07-25-1014",
           "titulo": "Oficial do Partido Comunista morto em ataque de drone ucraniano em Belgorod",
           "resumo": "Alexander Logvinov, que chefiava a seção do Partido Comunista na cidade de Belgorod, foi morto na terça-feira, disseram oficiais do partido.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/23/communist-party-official-killed-in-ukrainian-drone-attack-in-belgorod-a93321",
-          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-23T12:11:59.000Z"
         },
         {
-          "id": "mt-2026-07-24-2113",
-          "titulo": "Rubio diz que EUA continuam comprometidos com as negociações de paz na Ucrânia após reunião com Lavrov",
+          "id": "mt-2026-07-25-1015",
+          "titulo": "Rubio diz que EUA permanecem comprometidos com as negociações de paz na Ucrânia após reunião com Lavrov",
           "resumo": "Rubio disse que o presidente Donald Trump deixou claro que os EUA estavam preparados para ajudar a facilitar o fim de uma \"guerra sem sentido\" se a oportunidade surgisse.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/23/rubio-says-us-remains-committed-to-ukraine-peace-talks-after-meeting-with-lavrov-a93320",
-          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-23T10:12:50.000Z"
         },
         {
-          "id": "mt-2026-07-24-2114",
-          "titulo": "Quirguistão pede que cidadãos na Rússia tenham cuidado após ataques de drones em armazéns da Wildberries",
-          "resumo": "Dois cidadãos quirguizes estavam entre mais de 70 pessoas feridas durante o fim de semana durante ataques ucranianos a instalações da Wildberries.",
+          "id": "mt-2026-07-25-1016",
+          "titulo": "Quirguistão pede a cidadãos na Rússia que exerçam cautela após ataques de drones a armazéns da Wildberries",
+          "resumo": "Dois cidadãos quirguizes estavam entre mais de 70 pessoas feridas durante os ataques ucranianos às instalações da Wildberries.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/23/kyrgyzstan-urges-citizens-in-russia-to-exercise-caution-following-drone-attacks-on-wildberries-warehouses-a93318",
-          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-23T09:46:00.000Z"
         },
         {
-          "id": "mt-2026-07-24-2115",
+          "id": "mt-2026-07-25-1017",
           "titulo": "UE concorda com 21º pacote de sanções contra a Rússia",
           "resumo": "A Grécia recebeu uma isenção que permite que suas empresas de navegação continuem transportando gás natural liquefeito russo do Ártico.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/23/eu-agrees-21st-sanctions-package-against-russia-a93317",
-          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-23T08:56:56.000Z"
         },
         {
-          "id": "mt-2026-07-24-2116",
-          "titulo": "3 mortos em onda de ataques de drones ucranianos no sul da Rússia e na Crimeia",
+          "id": "mt-2026-07-25-1018",
+          "titulo": "3 mortos em onda de drones ucranianos que atingem o sul da Rússia e a Crimeia",
           "resumo": "Em Voronezh, destroços de drone caídos desencadearam um incêndio em uma residência que matou um menino de três anos, disseram oficiais locais.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/23/3-killed-as-wave-of-ukrainian-drones-strikes-southern-russia-and-crimea-a93316",
-          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-23T07:50:00.000Z"
         },
         {
-          "id": "mt-2026-07-24-2117",
+          "id": "mt-2026-07-25-1019",
           "titulo": "Planta de combustível nuclear alemã autorizada a trabalhar com a Rosatom da Rússia",
-          "resumo": "Até agora, não há acordo da UE sobre a extensão de sanções à Rússia para o setor de energia nuclear.",
+          "resumo": "Até agora, não há acordo da UE sobre a extensão das sanções à Rússia para o setor de energia nuclear.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/22/german-nuclear-fuel-plant-cleared-to-work-with-russias-rosatom-a93315",
-          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-22T17:14:39.000Z"
-        },
-        {
-          "id": "mt-2026-07-24-2120",
-          "titulo": "Rússia diz que atingiu portos e navios ucranianos",
-          "resumo": "O Ministério da Defesa disse que atingiu infraestrutura portuária e navios nas cidades de Odesa e Chornomorsk que, segundo eles, estavam apoiando o exército ucraniano.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/22/russia-says-it-struck-ukrainian-ports-and-ships-a93312",
-          "fonte": "The Moscow Times",
-          "publicado_em": "2026-07-22T15:54:32.000Z"
         }
       ]
     },
