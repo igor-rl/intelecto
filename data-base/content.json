@@ -353,55 +353,63 @@
     "scmp": {
       "slug": "scmp",
       "nome": "South China Morning Post",
-      "gerado_em": "2026-07-25T10:15:31.350Z",
+      "gerado_em": "2026-07-25T21:15:32.839Z",
       "artigos": [
         {
-          "id": "scmp-2026-07-25-10-01-01",
-          "titulo": "Ministro da Educação da Índia renuncia em grande vitória para os manifestantes jovens",
-          "resumo": "O ministro da Educação da Índia renunciou no sábado, concedendo uma grande vitória aos manifestantes jovens que exigiam que ele renunciasse para assumir a responsabilidade pelas vazamentos de provas de exames.",
-          "link": "https://www.scmp.com/news/asia/south-asia/article/3361839/indias-education-minister-quits-major-win-youth-protesters?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/00bf80ac-0e65-43d9-a9e4-a216fe3e6f2d_da0a1793.jpg?itok=nKD8XspR&v=1784973705",
-          "publicado_em": "2026-07-25T10:01:49.000Z"
+          "id": "scmp-2026-07-25-2101",
+          "titulo": "Democratas do Maine escolhem Troy Jackson para substituir candidato envolvido em escândalo em eleição crucial para o Senado",
+          "resumo": "O Partido Democrata do Maine escolheu seu novo candidato para uma eleição crucial ao Senado dos EUA, após o candidato original ser pressionado a desistir devido a alegações de conduta sexual inadequada.",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3361855/maine-democrats-pick-troy-jackson-replace-scandal-plagued-candidate-key-senate-race?utm_source=rss_feed",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/26/c0198f51-8df2-41eb-88f4-c6f036831140_dc5be66c.jpg?itok=ElXG3EU9&v=1785003182",
+          "publicado_em": "2026-07-25T18:13:12-03:00"
         },
         {
-          "id": "scmp-2026-07-25-10-00-02",
-          "titulo": "O que o voo de um helicóptero no Estreito de Taiwan diz sobre os planos de guerra de Pequim",
-          "resumo": "O voo sem precedentes de um helicóptero da Força de Libertação do Povo no Estreito de Taiwan levantou preocupações em Taipei de que Pequim está ensaiando uma nova operação para um possível conflito trans-estrait.",
+          "id": "scmp-2026-07-25-2102",
+          "titulo": "Como o sonho de 250 anos dos EUA com a China se tornou seu maior desafio estratégico",
+          "resumo": "Um navio chamado Empress of China partiu do porto de Nova York em 1784, rumo à China, marcando o início de uma longa relação entre os EUA e a China.",
+          "link": "https://www.scmp.com/news/china/article/3361843/how-americas-250-year-china-dream-became-its-greatest-strategic-challenge?utm_source=rss_feed",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/484c8ba8-a4c8-420e-886d-77ed3dc058bd_e87999e9.jpg?itok=ualeeqMv&v=1784978326",
+          "publicado_em": "2026-07-25T15:00:08-03:00"
+        },
+        {
+          "id": "scmp-2026-07-25-2103",
+          "titulo": "Japão, Reino Unido e Itália consideram fábrica japonesa para produzir caça de próxima geração",
+          "resumo": "Uma fábrica da Mitsubishi Heavy Industries pode se tornar o centro de desenvolvimento e montagem de um caça de próxima geração a ser produzido pelo Japão, Reino Unido e Itália.",
+          "link": "https://www.scmp.com/news/asia/east-asia/article/3361851/japan-uk-italy-eye-japanese-factory-build-fighter-jet?utm_source=rss_feed",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/d73ccc70-1a0f-4c02-9496-48471ac9aa0d_70cf02e2.jpg?itok=P1DWOjvu&v=1784989807",
+          "publicado_em": "2026-07-25T14:30:15-03:00"
+        },
+        {
+          "id": "scmp-2026-07-25-2106",
+          "titulo": "2 mortos após avião pequeno cair em casa na Alemanha",
+          "resumo": "Dois homens morreram quando um avião leve caiu em uma casa unifamiliar no estado alemão da Baixa Saxônia.",
+          "link": "https://www.scmp.com/news/world/europe/article/3361848/1-dead-after-small-plane-crashes-house-germany?utm_source=rss_feed",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/d77db96b-6f2e-49f3-84a4-5557724d2653_5aa680a2.jpg?itok=bpDsbgQB&v=1784983569",
+          "publicado_em": "2026-07-25T12:46:10-03:00"
+        },
+        {
+          "id": "scmp-2026-07-25-2112",
+          "titulo": "O que o voo de um helicóptero na Straits de Taiwan diz sobre os planos de guerra de Pequim",
+          "resumo": "Um helicóptero da Força de Libertação do Povo voou pela primeira vez sobre a Straits de Taiwan, levantando preocupações em Taipei de que Pequim esteja ensaiando uma nova operação para um possível conflito.",
           "link": "https://www.scmp.com/news/china/military/article/3361835/what-helicopters-flight-taiwan-strait-says-about-beijings-war-plans?utm_source=rss_feed",
           "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/c01b541b-2695-46df-ad27-b80c50554cf2_28283a36.jpg?itok=mBwS3D2m&v=1784966890",
-          "publicado_em": "2026-07-25T10:00:13.000Z"
+          "publicado_em": "2026-07-25T10:00:13-03:00"
         },
         {
-          "id": "scmp-2026-07-25-08-00-03",
-          "titulo": "Bloqueio dos Houthi ao comércio saudita ameaça um conflito mais amplo no Oriente Médio",
-          "resumo": "A Arábia Saudita e o movimento Houthi apoiado pelo Irã se aproximaram de abrir um novo front no conflito do Iêmen, após Riad bombardear a cidade portuária de Hodeidah em retaliação a um ataque com mísseis dos Houthi.",
+          "id": "scmp-2026-07-25-2116",
+          "titulo": "Bloqueio de comércio saudita pelos Houthi ameaça conflito mais amplo no Oriente Médio",
+          "resumo": "A Arábia Saudita e o movimento Houthi, aliado do Irã, estão próximos de abrir um novo front no conflito no Iêmen, após Riad bombardear a cidade portuária de Hodeidah em retaliação a um ataque com mísseis.",
           "link": "https://www.scmp.com/week-asia/politics/article/3361822/houthi-blockade-saudi-trade-threatens-wider-middle-east-conflict?utm_source=rss_feed",
           "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/8c24467d-c25d-4eef-a3ce-838411fe8cc5_e8387767.jpg?itok=ENQaWoCJ&v=1784951582",
-          "publicado_em": "2026-07-25T08:00:18.000Z"
+          "publicado_em": "2026-07-25T08:00:18-03:00"
         },
         {
-          "id": "scmp-2026-07-25-07-06-04",
-          "titulo": "Trump diz que os EUA estão 'trancados e carregados', prometendo mais ataques ao Irã enquanto sugere negociações",
-          "resumo": "Mísseis dos EUA atingiram alvos em todo o Irã na sexta-feira e o presidente Donald Trump prometeu 'punição militar importante' para Teerã e seus aliados Houthi no Iêmen, embora tenha deixado aberta a porta para negociações.",
+          "id": "scmp-2026-07-25-2120",
+          "titulo": "Trump diz que EUA estão 'trancados e carregados', prometendo mais ataques ao Irã enquanto sugere negociações",
+          "resumo": "O presidente dos EUA, Donald Trump, prometeu 'punição militar importante' ao Irã e aos seus aliados Houthi no Iêmen, mas deixou aberta a porta para negociações.",
           "link": "https://www.scmp.com/news/world/middle-east/article/3361831/trump-says-us-locked-and-loaded-vows-more-iran-strikes-while-hinting-talks?utm_source=rss_feed",
           "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/22022343-d082-49d5-a332-1fea1264b987_0f288b57.jpg?itok=3BShdvpu&v=1784961764",
-          "publicado_em": "2026-07-25T07:06:05.000Z"
-        },
-        {
-          "id": "scmp-2026-07-25-05-23-05",
-          "titulo": "Ucrânia insiste que as regras pacifistas do Japão permitem ajuda com mísseis Patriot",
-          "resumo": "A Ucrânia espera obter apoio do Japão à medida que busca produzir sistemas de defesa aérea Patriot sob licença dos EUA, citando a expertise da Mitsubishi Heavy Industries que fabrica os interceptores para o Japão.",
-          "link": "https://www.scmp.com/news/world/europe/article/3361829/ukraine-insists-japans-pacifist-rules-permit-patriot-missile-help?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/5d2c7b5a-bc2d-4a63-9394-844bfb32a57a_254b646e.jpg?itok=mYz66ER1&v=1784957034",
-          "publicado_em": "2026-07-25T05:23:57.000Z"
-        },
-        {
-          "id": "scmp-2026-07-25-05-20-06",
-          "titulo": "Serviços ferroviários e aéreos cancelados à medida que o sul da China se prepara para o tufão Noul",
-          "resumo": "Trens foram paralisados, escolas foram fechadas e residentes foram evacuados no sul da China à medida que o tufão Noul se aproximava da costa.",
-          "link": "https://www.scmp.com/news/china/politics/article/3361828/rail-and-air-services-cancelled-and-schools-shut-southern-china-braces-typhoon-noul?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/25/25ed6f35-a5d6-4944-beb5-11b4b25c3706_6f0f6077.jpg?itok=Oug5WL2i&v=1784956793",
-          "publicado_em": "2026-07-25T05:20:37.000Z"
+          "publicado_em": "2026-07-25T07:06:05-03:00"
         }
       ]
     },
