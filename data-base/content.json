@@ -105,79 +105,103 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-07-25T10:00:01.078Z",
+      "gerado_em": "2026-07-25T21:00:00.792Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-07-25-1001",
+          "id": "new_york_times-2026-07-25-2101",
           "titulo": "Dentro do Esforço Apressado para Entregar o Novo Air Force One para Trump",
           "resumo": "Uma investigação do New York Times descobriu que a pressa do presidente Trump para acelerar a entrega do avião levou a custos inflados e compromissos em recursos de segurança.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html",
-          "publicado_em": "2026-07-25T09:02:08.000Z"
+          "publicado_em": "2026-07-25T19:06:38-03:00"
         },
         {
-          "id": "new_york_times-2026-07-25-1002",
-          "titulo": "Na Corrida para Investigar Vazamentos do Air Force One, o DOJ Inverteu seu Próprio Processo",
-          "resumo": "Comentários de um juiz sobre intimações a repórteres chamaram a atenção para dois funcionários do governo que estão sendo considerados para cargos importantes no gabinete, Todd Blanche e Jay Clayton.",
+          "id": "new_york_times-2026-07-25-2102",
+          "titulo": "Na Corrida para Rastrear Vazamentos do Air Force One, o DOJ Inverteu seu Próprio Processo",
+          "resumo": "Comentários de um juiz sobre intimações a repórteres chamaram a atenção para dois funcionários da administração que estão sendo considerados para cargos poderosos no gabinete, Todd Blanche e Jay Clayton.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/24/us/politics/doj-new-york-times-subpoenas-leaks.html",
-          "publicado_em": "2026-07-25T01:46:39.000Z"
+          "publicado_em": "2026-07-25T01:46:39-03:00"
         },
         {
-          "id": "new_york_times-2026-07-25-1003",
-          "titulo": "Viagem ao Irã Revela Desafio e Esperança em Tempos de Guerra",
+          "id": "new_york_times-2026-07-25-2103",
+          "titulo": "Como um Projeto de Lei de Habitação Rejeitado por Trump se Tornou Lei",
+          "resumo": "Apesar das diferenças partidárias, brigas intrapartidárias e a falta de interesse do presidente, o Congresso aprovou a primeira lei de habitação importante em uma geração.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/25/us/politics/elizabeth-warren-housing-bill-trump.html",
+          "publicado_em": "2026-07-25T09:00:53-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-25-2104",
+          "titulo": "Uma Economia Global Abalada por um Choque de Petróleo Agora Recebe um Lembrete de Tarifa",
+          "resumo": "As tarifas estão de volta, mas desta vez há uma guerra no Golfo Pérsico e o petróleo atingiu US$ 100 o barril.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html",
+          "publicado_em": "2026-07-25T04:00:07-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-25-2105",
+          "titulo": "Uma Viagem ao Irã Revela a Desafio e a Esperança da Sociedade em Tempos de Guerra",
           "resumo": "Desde a capital, Teerã, até a cidade sagrada de Mashhad, o Irã que eu vi foi uma nação de muitas camadas: desafiadora, mas também cansada, desesperada, mas cheia de esperança.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/25/world/middleeast/what-a-journey-through-wartime-iran-revealed.html",
-          "publicado_em": "2026-07-25T09:01:55.000Z"
+          "publicado_em": "2026-07-25T12:11:26-03:00"
         },
         {
-          "id": "new_york_times-2026-07-25-1004",
-          "titulo": "Ameaça de Trump de Abrir um Novo Front na Guerra do Irã Pode Esticar as Forças dos EUA",
-          "resumo": "O presidente Trump disse que expandiria a guerra se os militantes Houthi apoiados pelo Irã lançarem ataques adicionais.",
+          "id": "new_york_times-2026-07-25-2106",
+          "titulo": "De Celebração a Escalada: Como o Acordo de Cessar-Fogo do Irã de Trump Desmoronou",
+          "resumo": "O acordo dos EUA com o Irã assinado em junho inicialmente parecia um sucesso. Não demorou muito para desmoronar.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/24/us/politics/trump-new-front-iran-war.html",
-          "publicado_em": "2026-07-24T21:26:23.000Z"
+          "link": "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-cease-fire-collapse.html",
+          "publicado_em": "2026-07-25T13:58:49-03:00"
         },
         {
-          "id": "new_york_times-2026-07-25-1005",
-          "titulo": "Petroleiros Navegam pelo Mar Vermelho Apesar do Bloqueio dos Houthi",
-          "resumo": "Dúzias de navios continuaram a atravessar o Mar Vermelho esta semana, mas com interrupções espalhadas, a incerteza sobre a passagem cresce a cada hora.",
+          "id": "new_york_times-2026-07-25-2107",
+          "titulo": "Famílias Militares Expressam Indignação Após o Pentágono Reduzir o Número de Mortos de Tropas Americanas na Guerra do Irã",
+          "resumo": "A mudança no número para 14, de 18, esta semana, levou a questionamentos sobre as práticas de contabilidade e relatórios do Departamento de Defesa.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/25/business/energy-environment/houthi-blockade-red-sea-maps.html",
-          "publicado_em": "2026-07-25T09:02:10.000Z"
+          "link": "https://www.nytimes.com/2026/07/25/us/pentagon-iran-war-troops-death-toll.html",
+          "publicado_em": "2026-07-25T18:34:35-03:00"
         },
         {
-          "id": "new_york_times-2026-07-25-1006",
-          "titulo": "Após a Reorganização Democrata, Susan Collins Mantém uma Grande Vantagem em Dinheiro em Maine",
-          "resumo": "Os republicanos estão despejando grandes somas atrás do senador do Maine por meio de uma teia de super PACs financiados por bilionários. Troy Jackson, o provável candidato democrata, tem muito a recuperar.",
+          "id": "new_york_times-2026-07-25-2108",
+          "titulo": "Condições para Incêndios Florestais na Europa Criadas por um Verão de Extremos",
+          "resumo": "Os incêndios florestais estão queimando partes da França e da Espanha que já enfrentavam verões anormalmente quentes e secos.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-europe-spain-france.html",
+          "publicado_em": "2026-07-25T18:29:11-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-25-2109",
+          "titulo": "Fumaça de Incêndio Florestal Enche os Céus na Espanha e na França",
+          "resumo": "Centenas de milhares de pessoas, incluindo residentes e turistas, foram forçadas a evacuar ou instruídas a permanecer em casa.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html",
+          "publicado_em": "2026-07-25T20:02:35-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-25-2110",
+          "titulo": "Troy Jackson Escolhido para Substituir Platner como Candidato Democrata na Eleição para o Senado do Maine",
+          "resumo": "O Sr. Jackson, um ex-presidente progressista do Senado Estadual, conquistou a indicação em uma convenção do partido estadual realizada às pressas.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/25/us/politics/troy-jackson-maine-senate-democrats-platner.html",
+          "publicado_em": "2026-07-25T20:39:31-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-25-2111",
+          "titulo": "Após a Reviravolta Democrata, Susan Collins Mantém uma Grande Vantagem em Dinheiro na Eleição para o Senado do Maine",
+          "resumo": "Os republicanos estão investindo grandes somas atrás da senadora do Maine por meio de uma rede de super PACs financiados por bilionários. Troy Jackson, escolhido como o novo candidato democrata, tem muito a recuperar.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/25/us/politics/collins-jackson-maine-senate-fundraising.html",
-          "publicado_em": "2026-07-25T09:00:32.000Z"
+          "publicado_em": "2026-07-25T19:03:07-03:00"
         },
         {
-          "id": "new_york_times-2026-07-25-1007",
-          "titulo": "O Presidente-Eleito da Colômbia, Endossado por Trump, Já Foi Investigado pelas Autoridades dos EUA",
-          "resumo": "Enquanto vivia em Miami, o presidente-eleito da Colômbia representou acusados de tráfico de drogas e lavagem de dinheiro. Ele próprio foi investigado pelas autoridades dos EUA, embora nunca tenha sido acusado.",
+          "id": "new_york_times-2026-07-25-2112",
+          "titulo": "O Vale do Silício se Divide sobre o Fechamento das Fronteiras para a Inteligência Artificial Chinesa",
+          "resumo": "A Anthropic e a OpenAI estão em conflito com o restante da indústria de tecnologia sobre se os modelos de código aberto da China devem estar disponíveis livremente ou ser restritos.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/25/world/americas/colombia-president-de-la-espriella-trump-us-investigation.html",
-          "publicado_em": "2026-07-25T09:00:23.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-25-1008",
-          "titulo": "Após Facadas, um Aumento nos Medos Judeus e Perguntas para Mamdani",
-          "resumo": "Alguns políticos disseram que a crítica do prefeito Zohran Mamdani a Israel criou um ambiente perigoso. Ele reagiu, condenando as facadas de dois homens no Upper West Side e defendendo sua posição.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/24/nyregion/antisemitism-nyc-stabbing-jewish.html",
-          "publicado_em": "2026-07-25T03:36:09.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-25-1013",
-          "titulo": "O Ministro da Educação da Índia Renuncia, Concedendo uma Vitória aos Manifestantes",
-          "resumo": "Com a renúncia de Dharmendra Pradhan, o movimento de protesto estudantil alcançou uma grande vitória contra o governo do primeiro-ministro Narendra Modi.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns.html",
-          "publicado_em": "2026-07-25T09:27:28.000Z"
+          "link": "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html",
+          "publicado_em": "2026-07-25T20:07:33-03:00"
         }
       ]
     },
