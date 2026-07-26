@@ -7,10 +7,10 @@
   "capa": {
     "categoria_nome": "O que marcou o dia?",
     "titulo": "Tensões Globais: Conflitos e Desafios",
-    "subtitulo": "Ucrânia, Irã e Rússia no centro das tensões internacionais",
-    "resumo": "O dia foi marcado por uma série de eventos que destacam as tensões globais atuais. A Ucrânia e a Rússia continuam no centro dos conflitos, com ataques e contra-ataques. O Irã também está sob escrutínio devido a sua participação nos conflitos no Oriente Médio. Além disso, a Rússia está enfrentando desafios internos, com a economia enfrentando dificuldades. Os EUA também estão envolvidos, com o presidente Trump enfrentando críticas por suas políticas. A Europa está lidando com incêndios florestais devastadores, que têm levado à evacuação de centenas de milhares de pessoas. Esses eventos mostram a complexidade e a interconexão dos desafios globais atuais.",
+    "subtitulo": "Análise das principais notícias do dia, com foco em conflitos, política e desafios globais",
+    "resumo": "O dia foi marcado por uma série de notícias que refletem as tensões globais atuais. A guerra entre EUA e Irã parece ter pausado, mas as preocupações sobre a segurança no Oriente Médio persistem. Enquanto isso, a Rússia busca reforçar sua presença na Ucrânia, e a Europa enfrenta desafios em relação à imigração e à segurança energética. Além disso, a África enfrenta problemas de saúde pública, como o surto de ebola, e a Ásia está atenta às negociações sobre o comércio e a segurança. Neste contexto, é fundamental entender as diferentes perspectivas e enquadramentos que cada bloco de imprensa oferece sobre esses temas.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-07-25T14:00:00-03:00",
+    "publicado_em": "2026-07-26T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -852,61 +852,55 @@
   },
   "temas_principais": [
     {
-      "tema": "Conflito Ucrânia-Rússia",
-      "descricao": "Ataques e contra-ataques entre Ucrânia e Rússia",
+      "tema": "Conflito EUA-Irã",
+      "descricao": "Análise das notícias sobre o conflito entre EUA e Irã, incluindo a pausa nos ataques aéreos e as implicações para a região.",
       "fontes_que_cobriram": [
-        "the_guardian",
         "new_york_times",
-        "rt",
-        "st"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
         "euronews",
-        "scmp"
-      ],
-      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar a agressão russa, enquanto as fontes russas destacam a legítima defesa ucraniana."
-    },
-    {
-      "tema": "Irã e Oriente Médio",
-      "descricao": "Participação do Irã nos conflitos no Oriente Médio",
-      "fontes_que_cobriram": [
-        "new_york_times",
-        "st",
         "rt"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian",
-        "euronews"
+        "the_guardian"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais tendem a criticar a participação do Irã, enquanto as fontes iranianas e russas a defendem."
+      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar a ameaça iraniana, enquanto as fontes russas e chinesas destacam a agressividade dos EUA."
     },
     {
-      "tema": "Incêndios florestais na Europa",
-      "descricao": "Incêndios florestais devastadores na França e Espanha",
+      "tema": "Guerra na Ucrânia",
+      "descricao": "Análise das notícias sobre a guerra na Ucrânia, incluindo as negociações de paz e as manobras militares.",
       "fontes_que_cobriram": [
-        "smh"
+        "scmp",
+        "mt",
+        "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian",
-        "new_york_times",
-        "rt",
-        "st",
-        "euronews",
-        "scmp"
+        "aa"
       ],
-      "divergencia_de_enquadramento": "A cobertura dos incêndios florestais variou significativamente entre as fontes, com algumas destacando a gravidade da situação e outras minimizando-a."
+      "divergencia_de_enquadramento": "As fontes ocidentais tendem a apoiar a Ucrânia, enquanto as fontes russas defendem a posição de Moscou."
+    },
+    {
+      "tema": "Saúde Pública",
+      "descricao": "Análise das notícias sobre a saúde pública, incluindo o surto de ebola e a varicela.",
+      "fontes_que_cobriram": [
+        "the_guardian",
+        "euronews",
+        "aa"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "new_york_times"
+      ],
+      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar a resposta humanitária, enquanto as fontes africanas destacam a necessidade de apoio local."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Desafios econômicos da Rússia",
-      "por_que_importa": "A economia russa enfrenta dificuldades devido às sanções internacionais",
-      "cobertura": "A cobertura desse tema foi limitada, com apenas algumas fontes abordando o assunto."
+      "tema": "Crise na Venezuela",
+      "por_que_importa": "A crise na Venezuela tem implicações regionais e globais, incluindo a migração e a segurança energética.",
+      "cobertura": "A cobertura foi limitada, com apenas algumas fontes mencionando o tema."
     },
     {
-      "tema": "Políticas de Trump",
-      "por_que_importa": "As políticas do presidente Trump têm impacto significativo nas relações internacionais",
-      "cobertura": "A cobertura desse tema foi ampla, com muitas fontes criticando as políticas de Trump."
+      "tema": "Eleições na África",
+      "por_que_importa": "As eleições na África têm implicações para a democracia e a estabilidade no continente.",
+      "cobertura": "A cobertura foi escassa, com apenas algumas fontes mencionando as eleições."
     }
   ]
 }
