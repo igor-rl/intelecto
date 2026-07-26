@@ -821,23 +821,31 @@
     "smh": {
       "slug": "smh",
       "nome": "The Sydney Morning Herald (SMH)",
-      "gerado_em": "2026-07-25T21:46:29.209Z",
+      "gerado_em": "2026-07-26T10:46:22.295Z",
       "artigos": [
         {
-          "id": "smh-2026-07-25-2103-01",
-          "titulo": "Centenas de milhares de pessoas evacuadas à medida que incêndios florestais assolam a Europa",
-          "resumo": "Centenas de milhares de pessoas na França e na Espanha foram evacuadas à medida que incêndios florestais mortais se espalham pelo sul da Europa.",
-          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/35e40b0f6bcb0e404c20603e546f2d9c2f6fac45",
-          "link": "https://www.smh.com.au/world/hundreds-of-thousands-of-people-evacuated-as-wildfires-rage-across-europe-20260726-p60ikk.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "publicado_em": "2026-07-25T21:22:55.000Z"
+          "id": "smh-2026-07-26-01",
+          "titulo": "Programa de 'drone ship' da Marinha em dúvida",
+          "resumo": "O governo insiste que ainda planeja adquirir seis grandes embarcações de superfície opcionalmente tripuladas, mas desenvolvimentos nos EUA colocaram isso em questão.",
+          "imagem": "https://static.ffx.io/images/$zoom_0.7253%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_jpg/2753c0422dc498b503b65e6817202a9ca55fe4ed",
+          "link": "https://www.smh.com.au/politics/federal/dead-in-the-water-navy-s-flagship-drone-ship-program-in-doubt-20260726-p60ill.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-26T10:00:00-03:00"
         },
         {
-          "id": "smh-2026-07-25-2106-02",
-          "titulo": "A garra de ferro de Albanese trouxe unidade, mas a batalha mais difícil está à frente",
-          "resumo": "Como um partido governista pode manter a disciplina sem perder a capacidade de ouvir, debater e persuadir? É uma pergunta que o Partido Trabalhista está lidando à medida que confronta a One Nation.",
-          "imagem": "https://static.ffx.io/images/$zoom_0.3652344546381243%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_584%2C$y_596/t_crop_custom/q_86%2Cf_auto/ea35cfc9cd5581e371e57397c3b13e28da9194ed",
-          "link": "https://www.smh.com.au/politics/federal/albanese-s-iron-grip-has-delivered-unity-but-the-harder-battle-lies-ahead-20260725-p60ih6.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "publicado_em": "2026-07-25T19:30:00.000Z"
+          "id": "smh-2026-07-26-02",
+          "titulo": "Cinco deputados liberais apoiaram um acordo faccional. Agora está no centro de uma investigação de corrupção",
+          "resumo": "À medida que a investigação do ICAC sobre os links do desenvolvedor de propriedades foragido Jean Nassif com os poderosos do Partido Liberal começa, os deputados estão preocupados com o impacto do escândalo.",
+          "imagem": "https://static.ffx.io/images/$zoom_0.5171%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/20ff9d58df42e0aad45e99a06d2f928769eb22c8",
+          "link": "https://www.smh.com.au/politics/nsw/five-liberal-mps-supported-a-factional-deal-now-it-s-at-the-centre-of-a-corruption-probe-20260726-p60ilv.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-26T10:00:00-03:00"
+        },
+        {
+          "id": "smh-2026-07-26-03",
+          "titulo": "Motivo ulterior: má vontade borbulha dentro do Partido Trabalhista sobre política de Israel",
+          "resumo": "O premier da Austrália Meridional, Peter Malinauskas, disse que esperava que Ed Husic não estivesse procurando 'garner atenção por motivos ulteriores'.",
+          "imagem": "https://static.ffx.io/images/$zoom_0.2606%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_210%2C$y_0/t_crop_custom/q_86%2Cf_auto/0d1999dfac5b4305a7bdbfbdcf5bfac0992aaedb",
+          "link": "https://www.smh.com.au/politics/federal/ulterior-motives-bad-blood-simmers-within-labor-over-israel-policy-20260726-p60inp.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-07-26T08:42:48-03:00"
         }
       ]
     }
