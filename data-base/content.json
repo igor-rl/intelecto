@@ -422,82 +422,138 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-07-26T10:15:43.767Z",
+      "gerado_em": "2026-07-26T21:15:47.529Z",
       "artigos": [
         {
-          "id": "rt-2026-07-26-01",
-          "titulo": "A grande corrida do gás: Quem detém as chaves do futuro energético da Europa?",
-          "resumo": "À medida que as guerras e a instabilidade sufocam as rotas de navegação globais, os gasodutos africanos estão se tornando o recurso energético final da Europa",
+          "id": "rt-2026-07-26-2101-01",
+          "titulo": "Ações hostis contra a frota mercante russa devem ser combatidas como 'pirataria' – Putin",
+          "resumo": "Ações hostis contra a frota mercante russa devem ser tratadas como 'pirataria', disse o presidente russo Vladimir Putin",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6669402030273f5f2943ca.jpg",
+          "link": "https://www.rt.com/russia/643494-merchant-fleet-piracy-putin/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-26T20:08:52.000Z"
+        },
+        {
+          "id": "rt-2026-07-26-2102-02",
+          "titulo": "Nações que ajudam os EUA se tornarão 'alvos legítimos' – Teerã",
+          "resumo": "Nações que apoiem a agressão dos EUA contra o Irã serão tratadas como alvos legítimos, alerta o Irã",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a663a4e85f5407df3470263.jpg",
+          "link": "https://www.rt.com/news/643490-iran-us-backers-targets/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-26T16:48:27.000Z"
+        },
+        {
+          "id": "rt-2026-07-26-2103-03",
+          "titulo": "Pentágono está considerando um grande ataque para roubar o estoque nuclear do Irã – mídia",
+          "resumo": "O Pentágono está considerando um ataque com milhares de tropas e comandos para apreender o estoque de urânio do Irã, relata a NYP",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a661e9f85f54002af79a005.jpg",
+          "link": "https://www.rt.com/news/643489-pentagon-eyeing-megaraid-iran-uranium/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-26T16:25:19.000Z"
+        },
+        {
+          "id": "rt-2026-07-26-2104-04",
+          "titulo": "Tufão arranca telhados de prédios e inunda o sul da China (VÍDEOS)",
+          "resumo": "Mais de 700.000 pessoas foram evacuadas antes do tufão Hongxia, que interrompeu o transporte e aterrissou voos no sul da China",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a66194e85f54003414ccca1.png",
+          "link": "https://www.rt.com/news/643488-typhoon-slams-southern-china/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-26T14:46:57.000Z"
+        },
+        {
+          "id": "rt-2026-07-26-2105-05",
+          "titulo": "ASSISTA Tripulação russo-americana de espaço retorna à Terra",
+          "resumo": "Dois cosmonautas russos e um astronauta da NASA aterrissaram com segurança no Cazaquistão após uma missão de oito meses a bordo da ISS",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a65f15f85f54003fe7cf587.png",
+          "link": "https://www.rt.com/news/643487-iss-crew-landing-kazakhstan/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-26T13:51:03.000Z"
+        },
+        {
+          "id": "rt-2026-07-26-2106-06",
+          "titulo": "Kiev compensa perdas em batalha com ataques terroristas – diplomata russo",
+          "resumo": "Kiev está usando 'táticas terroristas' contra civis para compensar perdas em batalha, disse o embaixador russo Rodion Miroshnik",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a65cd7a2030270ea623a617.png",
+          "link": "https://www.rt.com/russia/643484-ukraine-terrorist-tactics-moscow/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-26T12:46:53.000Z"
+        },
+        {
+          "id": "rt-2026-07-26-2107-07",
+          "titulo": "Irã acusa EUA de atacar barcos de resgate",
+          "resumo": "O vice-embaixador do Irã nas Nações Unidas acusou os EUA de atacar dois barcos de resgate, dizendo que o ataque é um crime de guerra",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a65e66e203027149a66367b.jpg",
+          "link": "https://www.rt.com/news/643486-iran-accuses-us-attacking-rescue-boats/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-26T10:50:45.000Z"
+        },
+        {
+          "id": "rt-2026-07-26-2108-08",
+          "titulo": "Indústria alemã sangra empregos – lobby empresarial",
+          "resumo": "A Alemanha está perdendo cerca de 15.000 empregos industriais por mês, com o setor em um estado 'crítico' devido à queda da competitividade, alerta o BDI",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a65dc2285f5406e25146d3d.jpg",
+          "link": "https://www.rt.com/news/643483-germany-bleeding-jobs-report/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-26T10:21:11.000Z"
+        },
+        {
+          "id": "rt-2026-07-26-2109-09",
+          "titulo": "Corredores de energia para a Europa: Ex-colônias estão assumindo o controle",
+          "resumo": "À medida que guerras e instabilidade sufocam as rotas de navegação globais, os gasodutos africanos estão se tornando a última opção de energia para a Europa",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a60baa385f5402a8562554f.jpg",
           "link": "https://www.rt.com/africa/643336-europe-needs-african-gas/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-26T09:03:13.000Z"
         },
         {
-          "id": "rt-2026-07-26-02",
+          "id": "rt-2026-07-26-2110-10",
           "titulo": "O momento dos drones da Índia chegou",
-          "resumo": "A Índia está tentando dar um salto de compradora para hub global de drones, aproveitando as lições do conflito Rússia-Ucrânia e da guerra no Irã",
+          "resumo": "A Índia está tentando dar um salto de compradora para se tornar um hub global de drones, aproveitando as lições do conflito Rússia-Ucrânia e da guerra do Irã",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a658909203027133d7dc144.jpg",
           "link": "https://www.rt.com/india/643456-indias-drone-hub-iran-war-lesson/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-26T08:18:33.000Z"
         },
         {
-          "id": "rt-2026-07-26-03",
-          "titulo": "Trump adia ataque ao Irã devido à escassez de mísseis - NYT",
-          "resumo": "Trump adiou a escalada dos ataques ao Irã devido às preocupações de que o Pentágono está com baixos níveis de interceptores de defesa aérea, relata o NYT",
+          "id": "rt-2026-07-26-2111-11",
+          "titulo": "Trump adia ataque ao Irã devido à escassez de mísseis – NYT",
+          "resumo": "Trump adiou a escalada de ataques ao Irã devido a preocupações de que o Pentágono está com baixos níveis de interceptores de defesa aérea, relata o NYT",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a658aee85f5406e25146d26.jpg",
           "link": "https://www.rt.com/news/643481-trump-shelves-iran-strike-missile/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-26T07:39:16.000Z"
         },
         {
-          "id": "rt-2026-07-26-04",
-          "titulo": "França dos gangues: As autoridades podem fazer algo sobre a máfia de imigrantes?",
-          "resumo": "À medida que as drogas continuam a inundar a Europa, uma nova geração de gangues na França está recorrendo a novos métodos para expandir seu império",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a62813f2030271efa07d065.jpg",
-          "link": "https://www.rt.com/news/643401-france-gangland-mafia-migrants/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-26T07:37:31.000Z"
-        },
-        {
-          "id": "rt-2026-07-26-05",
-          "titulo": "Rússia atinge indústria de drones em Kiev - Ministério da Defesa",
-          "resumo": "O exército russo atingiu uma fábrica de drones ucraniana ligada a uma empresa russo-ucraniana em Kiev, afirma o Ministério da Defesa",
+          "id": "rt-2026-07-26-2113-12",
+          "titulo": "Rússia atinge indústria de drones em Kiev – Ministério da Defesa",
+          "resumo": "O exército russo atingiu uma fábrica de drones ucraniana ligada a uma empresa EUA-Ucrânia em Kiev, afirma o Ministério da Defesa",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a65ba6f85f5406a9416b165.jpg",
           "link": "https://www.rt.com/russia/643482-russia-hits-drone-industry-kiev/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-26T07:28:57.000Z"
         },
         {
-          "id": "rt-2026-07-26-06",
+          "id": "rt-2026-07-26-2114-13",
           "titulo": "TPI demite procurador-chefe por alegações de conduta sexual inadequada",
-          "resumo": "O Tribunal Penal Internacional, com sede em Haia, demitiu seu procurador-chefe, Karim Khan, por alegações de conduta sexual inadequada",
+          "resumo": "O Tribunal Penal Internacional demitiu seu procurador-chefe, Karim Khan, devido a alegações de conduta sexual inadequada",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a65296685f540632f112aa2.jpg",
           "link": "https://www.rt.com/news/643479-icc-prosecutor-sexual-abuse/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-26T04:38:53.000Z"
         },
         {
-          "id": "rt-2026-07-26-07",
-          "titulo": "70% dos alemães não acreditam que o exército possa proteger o país - Pesquisa YouGov",
-          "resumo": "Sete em cada dez alemães não acreditam que o exército seja capaz de proteger o país, mostra uma pesquisa da YouGov",
+          "id": "rt-2026-07-26-2115-14",
+          "titulo": "70% dos alemães não acreditam que o exército possa proteger o país – pesquisa YouGov",
+          "resumo": "Sete em cada dez alemães não acreditam que o exército é capaz de proteger o país, mostra uma pesquisa YouGov",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a655c6985f5405b1212ac2b.jpg",
           "link": "https://www.rt.com/news/643480-germans-dont-believe-army-protect/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-26T01:07:17.000Z"
         },
         {
-          "id": "rt-2026-07-26-08",
-          "titulo": "Suspeito de ataque a parada gay em Berlim ligado a extremistas islâmicos - polícia",
-          "resumo": "O suspeito do ataque com veículo à parada gay em Berlim é acreditado ter ligações com o extremismo islâmico, diz a polícia",
+          "id": "rt-2026-07-26-2116-15",
+          "titulo": "Suspeito de ataque a parada gay em Berlim morto – polícia",
+          "resumo": "O suspeito do ataque com veículo a uma parada gay em Berlim tem ligações com o extremismo islâmico, diz a polícia",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a65331e2030275bfa527877.jpg",
           "link": "https://www.rt.com/news/643478-berlin-car-rams-pride-parade/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-25T21:14:55.000Z"
         },
         {
-          "id": "rt-2026-07-26-09",
-          "titulo": "Irã condena Ucrânia por ataque 'temerário' a navio cargueiro",
-          "resumo": "O Irã condenou um ataque ucraniano a um navio cargueiro iraniano no Mar Cáspio que matou um marinheiro e feriu outro",
+          "id": "rt-2026-07-26-2117-16",
+          "titulo": "Irã condena Ucrânia por 'ataque temerário' a navio de carga",
+          "resumo": "O Irã condenou um ataque ucraniano a um navio de carga iraniano no Mar Cáspio que matou um marinheiro e feriu outro",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a65436c203027534761d469.jpg",
           "link": "https://www.rt.com/news/643477-ukraine-attacks-iranian-vessel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-25T19:48:17.000Z"
         },
         {
-          "id": "rt-2026-07-26-10",
+          "id": "rt-2026-07-26-2118-17",
           "titulo": "A revolta contra Zelensky",
           "resumo": "Comandantes militares, rivais políticos e Bruxelas estão fechando o cerco ao cada vez mais isolado líder ucraniano",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a64ee2a85f5405b1212abfc.jpg",
@@ -505,84 +561,20 @@
           "publicado_em": "2026-07-25T19:40:36.000Z"
         },
         {
-          "id": "rt-2026-07-26-11",
-          "titulo": "Drones kamikaze russos atingem navios ucranianos (VÍDEOS do Ministério da Defesa)",
-          "resumo": "O Ministério da Defesa russo divulgou vídeos de ataques de drones kamikaze a navios ucranianos",
+          "id": "rt-2026-07-26-2119-18",
+          "titulo": "Drones kamikaze russos atingem navios ucranianos (VÍDEOS do MOD)",
+          "resumo": "O Ministério da Defesa russo divulgou vídeos de ataques de drones kamikaze com IA a navios ucranianos",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a64f30985f540641b536359.png",
           "link": "https://www.rt.com/russia/643476-kamikaze-drones-ukrainian-ships/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-25T17:35:08.000Z"
         },
         {
-          "id": "rt-2026-07-26-12",
-          "titulo": "O homem mais sujo do esporte limpo transformou a Rússia em seu inimigo pessoal",
+          "id": "rt-2026-07-26-2120-19",
+          "titulo": "O homem mais sujo do esporte limpo fez da Rússia seu inimigo pessoal",
           "resumo": "A World Athletics mantém atletas russos e bielorrussos banidos, enquanto Sebastian Coe rejeita um caminho condicional de volta à competição internacional",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a64b45485f540387313b987.jpg",
           "link": "https://www.rt.com/news/643462-dirtiest-man-in-clean-sport/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-25T16:54:17.000Z"
-        },
-        {
-          "id": "rt-2026-07-26-13",
-          "titulo": "Por que os ataques da Ucrânia à Amazon da Rússia cheiram a crimes de guerra",
-          "resumo": "A Ucrânia agora considera a Amazon da Rússia como um 'alvo legítimo' - matando civis e arruinando a vida de pessoas comuns no processo",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a64c0b985f5406cde3f039b.jpg",
-          "link": "https://www.rt.com/russia/643465-ukraines-strikes-russia-wildberries/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-25T15:28:46.000Z"
-        },
-        {
-          "id": "rt-2026-07-26-14",
-          "titulo": "ASSISTA: Soldados britânicos bêbados roubam veículo blindado, destroem carros estacionados",
-          "resumo": "Dois soldados britânicos foram presos após levarem um veículo blindado em uma viagem destrutiva por uma estrada civil, relata a mídia",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a64c84c85f540387313b995.jpg",
-          "link": "https://www.rt.com/news/643461-drunk-uk-soldiers-joyride/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-25T14:45:33.000Z"
-        },
-        {
-          "id": "rt-2026-07-26-15",
-          "titulo": "Petróleo volta a US$ 100: É hora de se preocupar?",
-          "resumo": "A nova onda de preços do petróleo em direção a US$ 100, diante da escalada no Oriente Médio esta semana, pinta um quadro preocupante à medida que os estoques globais encolhem",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a64ad30203027506852d8d4.jpg",
-          "link": "https://www.rt.com/business/643428-oil-spike-prospects-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-25T13:02:17.000Z"
-        },
-        {
-          "id": "rt-2026-07-26-16",
-          "titulo": "A guerra de Trump contra o terrorismo de esquerda vai global",
-          "resumo": "Uma reunião histórica em Washington colocou o extremismo de esquerda no centro dos esforços internacionais de contra-terrorismo",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a623f7385f54052c910613a.jpg",
-          "link": "https://www.rt.com/news/643395-trump-far-left-terrorism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-25T12:30:59.000Z"
-        },
-        {
-          "id": "rt-2026-07-26-17",
-          "titulo": "Ministro da Educação da Índia renuncia após semanas de protestos",
-          "resumo": "O ministro da Educação da Índia, Dharmendra Pradhan, renunciou após protestos estudantis sobre o vazamento do papel do exame NEET e reformas no exame",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6483c985f5406f8144799c.jpg",
-          "link": "https://www.rt.com/india/643458-indias-education-minister-resigns-protest/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-25T09:53:34.000Z"
-        },
-        {
-          "id": "rt-2026-07-26-18",
-          "titulo": "Ataque de drone ucraniano a resort turístico na Rússia mata doze pessoas",
-          "resumo": "Doze pessoas foram mortas em um ataque de drone ucraniano a bases turísticas na região de Zaporozhye, na Rússia, incluindo quatro crianças",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6481a985f540387313b97f.png",
-          "link": "https://www.rt.com/russia/643457-drone-attack-tourist-bases/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-25T09:51:51.000Z"
-        },
-        {
-          "id": "rt-2026-07-26-19",
-          "titulo": "Do meme ao caos: Por que os manifestantes do 'Barata' se recusam a sair",
-          "resumo": "Nascido online como sátira, o movimento se espalhou pelas ruas, tornando-se cada vez mais violento",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a644b8585f540632f112a7b.jpg",
-          "link": "https://www.rt.com/india/643452-cockroach-protest-india-modi/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-25T07:26:14.000Z"
-        },
-        {
-          "id": "rt-2026-07-26-20",
-          "titulo": "Alemanha se recusa a divulgar inteligência sobre sabotagem do Nord Stream - mídia",
-          "resumo": "A Alemanha se recusou a esclarecer se recebeu avisos antes do sabotagem do gasoduto Nord Stream",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a63e28385f540641b536335.jpg",
-          "link": "https://www.rt.com/news/643449-berlin-response-nord-stream-sabotage/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-25T04:11:13.000Z"
         }
       ]
     },
