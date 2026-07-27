@@ -311,119 +311,87 @@
     "euronews": {
       "slug": "euronews",
       "nome": "Euro News",
-      "gerado_em": "2026-07-27T10:00:22.278Z",
+      "gerado_em": "2026-07-27T21:00:24.332Z",
       "artigos": [
         {
-          "id": "euronews-2026-07-27-1002",
-          "titulo": "EUA e Irã suspendem fogo por terceira noite enquanto negociações são 'dadas espaço'",
-          "resumo": "Houve 13 noites consecutivas de ataques dos EUA ao Irã, que o exército dos EUA disse visar 'diminuir a capacidade do Irã de ameaçar o transporte marítimo no Estreito de Ormuz.'",
+          "id": "euronews-2026-07-27-2101",
+          "titulo": "Ucrânia continua ataques de longo alcance em instalações de exportação e petróleo russas à medida que a pressão sobre Moscou aumenta",
+          "resumo": "O presidente ucraniano Volodymyr Zelenskyy disse que suas forças atacaram um terminal de exportação na região ocidental de Rostov, bem como instalações de petróleo nas regiões de Yaroslavl e Udmúrtia, longe da frente de batalha...",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/27/ukraine-keeps-up-long-range-strikes-on-russian-export-and-oil-facilities-as-pressure-on-mo",
+          "publicado_em": "2026-07-27T19:54:07.000Z"
+        },
+        {
+          "id": "euronews-2026-07-27-2103",
+          "titulo": "Incêndios florestais na Espanha deixam destruição em toda a província de Ávila",
+          "resumo": "Bombeiros lutam contra incêndios florestais no centro da Espanha, enquanto casas queimadas, carros e paisagens queimadas revelam a devastação em toda a província de Ávila.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/27/spain-wildfires-leave-destruction-across-avila-province",
+          "publicado_em": "2026-07-27T15:12:38.000Z"
+        },
+        {
+          "id": "euronews-2026-07-27-2104",
+          "titulo": "Presidente eleito da Colômbia fechará embaixadas em três países europeus em reforma diplomática",
+          "resumo": "Abelardo de la Espriella diz que cortará laços diplomáticos com Havana e Manágua e fechará 15 consulados e 14 embaixadas para reduzir custos e fortalecer a segurança.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/27/colombias-president-elect-to-close-embassies-in-three-european-countries-in-diplomatic-ove",
+          "publicado_em": "2026-07-27T15:03:38.000Z"
+        },
+        {
+          "id": "euronews-2026-07-27-2105",
+          "titulo": "Rabis visitam emir do Catar para expressar condolências em demonstração de laços inter-religiosos",
+          "resumo": "Após uma reunião com o emir do Catar, o rabino Mendy Chitrik, da Aliança de Rabis em Estados Islâmicos, disse que a delegação se sentiu calorosamente recebida e pediu por mais diálogo para fortalecer os laços muçulmano-judaicos...",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/27/rabbis-visit-qatars-emir-for-condolences-in-show-of-interfaith-bonds",
+          "publicado_em": "2026-07-27T14:49:13.000Z"
+        },
+        {
+          "id": "euronews-2026-07-27-2111",
+          "titulo": "EUA e Irã suspendem fogo por terceira noite consecutiva, enquanto as negociações são 'dadas espaço'",
+          "resumo": "Houve 13 noites consecutivas de ataques dos EUA ao Irã, que o Exército dos EUA disse visar 'diminuir a capacidade do Irã de ameaçar o transporte marítimo comercial no Estreito de Ormuz.'",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/27/us-and-iran-hold-fire-for-third-night-as-talks-given-space",
           "publicado_em": "2026-07-27T07:09:42.000Z"
         },
         {
-          "id": "euronews-2026-07-27-1004",
-          "titulo": "10 mortos e quase duas dezenas de feridos após inundações repentinas atingirem local turístico no noroeste da China",
-          "resumo": "Alertas de tempo severo foram enviados a muitas áreas da região à medida que o tufão Noul fez landfall no domingo.",
+          "id": "euronews-2026-07-27-2113",
+          "titulo": "10 mortos e quase duas dúzias de feridos após inundações repentinas atingirem local turístico no noroeste da China",
+          "resumo": "Alertas de tempo severo foram enviados a muitas áreas da região, à medida que o tufão Noul fez landfall no domingo.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/27/10-killed-and-close-to-two-dozen-injured-after-flash-floods-hit-tourist-site-in-northweste",
           "publicado_em": "2026-07-27T04:49:15.000Z"
         },
         {
-          "id": "euronews-2026-07-27-1005",
-          "titulo": "Três pessoas mortas e quatro outras feridas em tiroteio em um festival em Seattle",
-          "resumo": "Oficiais em um centro médico próximo disseram que uma criança de colo foi uma das admitidas na instalação no domingo após o incidente de tiroteio, onde quatro pessoas permanecem hospitalizadas.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/27/two-people-were-killed-and-five-others-injured-in-shooting-incident-at-food-festival-in-se",
-          "publicado_em": "2026-07-27T04:01:18.000Z"
-        },
-        {
-          "id": "euronews-2026-07-27-1006",
+          "id": "euronews-2026-07-27-2115",
           "titulo": "Mourners depositam flores e velas após ataque mortal no orgulho de Berlim",
-          "resumo": "Berlineses depositaram flores e velas em um memorial perto da Porta de Brandemburgo à medida que equipes desmontavam palcos e limpavam após o ataque mortal de sábado perto do festival de orgulho da cidade.",
+          "resumo": "Berlineses depositaram flores e velas em um memorial perto do Portão de Brandemburgo, à medida que as equipes desmontavam os palcos e limpavam após o ataque mortal perto do festival de orgulho da cidade no sábado.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/07/26/mourners-lay-flowers-and-candles-after-deadly-berlin-pride-attack",
           "publicado_em": "2026-07-26T19:53:13.000Z"
         },
         {
-          "id": "euronews-2026-07-27-1008",
+          "id": "euronews-2026-07-27-2117",
           "titulo": "Ucrânia responde enquanto o presidente do Cazaquistão, Tokayev, pede a Putin que congele a guerra na Ucrânia",
-          "resumo": "O presidente do Cazaquistão, Kassym-Jomart Tokayev, pediu a Vladimir Putin em uma reunião cara a cara para congelar a guerra na Ucrânia e retornar às negociações como 'é uma vergonha, jovens estão morrendo'.",
+          "resumo": "O presidente do Cazaquistão, Kassym-Jomart Tokayev, pediu a Vladimir Putin em uma reunião cara a cara para congelar a guerra na Ucrânia e retornar às negociações, pois 'é uma vergonha, jovens estão morrendo'.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/26/ukraine-responds-as-kazakh-president-tokayev-urges-putin-to-freeze-the-war-in-ukraine",
           "publicado_em": "2026-07-26T18:27:07.000Z"
         },
         {
-          "id": "euronews-2026-07-27-1010",
-          "titulo": "Chefe da ONU pede o fim de todas as sanções à Síria durante a segunda dia de visita",
+          "id": "euronews-2026-07-27-2119",
+          "titulo": "Chefe da ONU pede o fim de todas as sanções à Síria durante o segundo dia de visita",
           "resumo": "Países ocidentais, incluindo os EUA, anunciaram o alívio das sanções à Síria, mas os investidores permanecem cautelosos.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/26/un-chief-calls-for-end-of-all-sanctions-on-syria-during-second-day-of-visit",
           "publicado_em": "2026-07-26T15:02:06.000Z"
         },
         {
-          "id": "euronews-2026-07-27-1011",
-          "titulo": "Ucrânia ataca carga russa com destino ao Irã à medida que a guerra do Irã se alarga",
+          "id": "euronews-2026-07-27-2120",
+          "titulo": "Ucrânia ataca carga russa destinada ao Irã, à medida que a guerra do Irã se amplia",
           "resumo": "A Ucrânia diz que atacou rotas de longo alcance que movem equipamentos militares russos ligados ao Irã, enquanto Zelenskyy afirma que Moscou deu a Teerã dados de satélite para ataques a locais dos EUA no Oriente Médio.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/26/ukraine-strikes-russian-iran-bound-cargo-as-iran-war-widens",
           "publicado_em": "2026-07-26T11:06:06.000Z"
-        },
-        {
-          "id": "euronews-2026-07-27-1014",
-          "titulo": "Varicela varre campos de Gaza à medida que milhares de casos surgem em duas semanas",
-          "resumo": "Médicos dizem que a escala real do surto é provavelmente muito maior, pois o superlotamento torna o isolamento impossível, e famílias de seis ou mais compartilham tendas de poucos metros quadrados.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/26/chickenpox-sweeps-gaza-camps-as-thousands-of-cases-emerge-in-two-weeks",
-          "publicado_em": "2026-07-26T05:00:32.000Z"
-        },
-        {
-          "id": "euronews-2026-07-27-1016",
-          "titulo": "Flávio Bolsonaro, do Brasil, desafia Lula após ganhar a nomeação do partido",
-          "resumo": "Flávio Bolsonaro recebeu apoio do presidente argentino Javier Milei e uma mensagem de apoio do primeiro-ministro israelense Benjamin Netanyahu, enquanto busca mais endossos de aliados do presidente dos EUA",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/25/brazils-flavio-bolsonaro-to-challenge-lula-after-winning-party-nomination",
-          "publicado_em": "2026-07-25T17:56:00.000Z"
-        },
-        {
-          "id": "euronews-2026-07-27-1018",
-          "titulo": "Terremotos gêmeos da Venezuela: o custo um mês depois",
-          "resumo": "Um mês após terremotos gêmeos atingirem a Venezuela, o número oficial de mortos ultrapassou 5.500, com 16.700 feridos. Os danos são estimados em $19,6 bilhões, enquanto milhares permanecem sem-teto e o número de desabrigados",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/25/the-toll-of-the-tragedy-one-month-after-venezuelas-double-earthquake",
-          "publicado_em": "2026-07-25T15:52:05.000Z"
-        },
-        {
-          "id": "euronews-2026-07-27-1019",
-          "titulo": "Movimento 'Barata' da Índia encerra protestos após o ministro da Educação renunciar",
-          "resumo": "Dharmendra Pradhan anunciou sua renúncia em uma postagem no X, concedendo uma grande vitória ao movimento juvenil que liderou manifestações nacionais, sentadas e greves de fome.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/25/indias-cockroach-movement-ends-protests-after-education-minister-resigns",
-          "publicado_em": "2026-07-25T15:39:46.000Z"
-        },
-        {
-          "id": "euronews-2026-07-27-1020",
-          "titulo": "Banco central russo reduz previsão de crescimento do PIB para zero, espera inflação mais rápida",
-          "resumo": "O banco central da Rússia reduziu sua previsão de crescimento do PIB para 2026 para 0,0-1,0% e espera inflação mais rápida à medida que a crise de combustível impulsiona os preços de muitos bens e serviços, disse sua chefe Elvira Nabiullina.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/25/russian-central-bank-cuts-gdp-growth-forecast-to-zero-expects-faster-inflation",
-          "publicado_em": "2026-07-25T14:06:43.000Z"
-        },
-        {
-          "id": "euronews-2026-07-27-1021",
-          "titulo": "Chefe da ONU pede apoio global à Síria durante a primeira visita a Damasco desde 2009",
-          "resumo": "O secretário-geral das Nações Unidas, António Guterres, é o primeiro chefe da ONU a visitar a Síria desde seu antecessor Ban Ki-moon em 2009, dois anos antes do início da guerra civil da Síria.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/25/un-chief-urges-global-support-for-syria-during-first-damascus-visit-since-2009",
-          "publicado_em": "2026-07-25T12:40:35.000Z"
-        },
-        {
-          "id": "euronews-2026-07-27-1023",
-          "titulo": "Sol vermelho, céu laranja à medida que Madrid luta contra o pior incêndio florestal de sua história",
-          "resumo": "Incêndios florestais perto de Madrid e Ávila forçaram dezenas de milhares a evacuar, tornando o céu laranja e o sol vermelho-sangue sobre as cidades afetadas.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/07/25/red-sun-orange-sky-as-madrid-battles-worst-wildfire-in-its-history",
-          "publicado_em": "2026-07-25T09:12:17.000Z"
         }
       ]
     },
