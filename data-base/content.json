@@ -692,87 +692,135 @@
     "mt": {
       "slug": "mt",
       "nome": "The Moscow Times",
-      "gerado_em": "2026-07-26T10:46:06.681Z",
+      "gerado_em": "2026-07-27T10:46:22.576Z",
       "artigos": [
         {
-          "id": "mt-2026-07-26-01",
-          "titulo": "Romênia Derruba Terceiro Drone Russo, enquanto Presidente Chama Violações de 'Inadmissíveis'",
-          "resumo": "Moscou não fez nenhum comentário público imediato sobre os incidentes.",
+          "id": "mt-2026-07-27-01",
+          "titulo": "Ex-Kremlin Loyalist Ilya Remeslo Placed in Moscow Psychiatric Facility",
+          "resumo": "Remeslo previously spent a month at a psychiatric hospital in St. Petersburg between March and April after he publicly denounced President Vladimir Putin for mishandling the full-scale invasion of Ukr...",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/27/ex-kremlin-loyalist-ilya-remeslo-placed-in-moscow-psychiatric-facility-a93346",
+          "publicado_em": "2026-07-27T09:37:32.000Z"
+        },
+        {
+          "id": "mt-2026-07-27-02",
+          "titulo": "FSB Arrests Khabarovsk Man Accused of Spying for New Zealand",
+          "resumo": "The FSB claimed that New Zealand “recruited” the man to gather intelligence on Russia’s defense cooperation with countries in the Asia-Pacific region.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/27/fsb-arrests-khabarovsk-man-accused-of-spying-for-new-zealand-a93345",
+          "publicado_em": "2026-07-27T08:44:25.000Z"
+        },
+        {
+          "id": "mt-2026-07-27-03",
+          "titulo": "Ukrainian Attacks Kill At Least 5 People in Southern Russia",
+          "resumo": "Authorities said 17 others were wounded in separate attacks on the Belgorod and Rostov regions.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/27/ukrainian-attacks-kill-at-least-5-people-in-southern-russia-a93344",
+          "publicado_em": "2026-07-27T07:49:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-27-04",
+          "titulo": "Kremlin Says Too Early to Comment on Reported U.S.-Ukraine Air Ceasefire Talks",
+          "resumo": "\"We have heard statements that some new formulas may be possible. We still need to learn more about them,\" Kremlin spokesman Dmitry Peskov said.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/26/kremlin-says-too-early-to-comment-on-reported-us-ukraine-air-ceasefire-talks-a93342",
+          "publicado_em": "2026-07-26T14:55:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-27-05",
+          "titulo": "Russia and Ukraine Both Report Civilians Killed in Strikes",
+          "resumo": "Russia said four people were killed by a Ukrainian drone strike in the Russian-occupied Ukrainian city of Horlivka.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/26/russia-and-ukraine-both-report-civilians-killed-in-strikes-a93341",
+          "publicado_em": "2026-07-26T14:04:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-27-06",
+          "titulo": "Romania Shoots Down Third Russian Drone, as President Calls Breaches ‘Intolerable'",
+          "resumo": "Moscow made no immediate public comment on the incidents.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/26/romania-shoots-down-third-russian-drone-as-president-calls-breaches-intolerable-a93340",
-          "publicado_em": "2026-07-26T10:20:23-03:00"
+          "publicado_em": "2026-07-26T10:20:23.000Z"
         },
         {
-          "id": "mt-2026-07-26-02",
-          "titulo": "Ao lado de Putin, Presidente do Cazaquistão Pede Congelamento da Guerra na Ucrânia",
-          "resumo": "O Kremlin disse mais tarde que \"congelar o conflito como tal é impossível, dado a posição de Kyiv.\"",
+          "id": "mt-2026-07-27-07",
+          "titulo": "Speaking Alongside Putin, Kazakh President Calls for Freeze of Ukraine War",
+          "resumo": "The Kremlin later said that \"freezing the conflict as such is impossible, given Kyiv's position.\"",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/26/speaking-alongside-putin-kazakh-president-calls-for-freeze-of-ukraine-war-a93339",
-          "publicado_em": "2026-07-26T07:29:13-03:00"
+          "publicado_em": "2026-07-26T07:29:13.000Z"
         },
         {
-          "id": "mt-2026-07-26-03",
-          "titulo": "Ataques Ucranianos Matam 2 em Belgorod e Atacam Armazém da Wildberries nos Urais",
-          "resumo": "A Wildberries suspendeu as operações e evacuou os trabalhadores em sua instalação logística local na cidade de Yekaterinburg.",
+          "id": "mt-2026-07-27-08",
+          "titulo": "Ukrainian Attacks Kill 2 in Belgorod and Target Wildberries Warehouse in Urals",
+          "resumo": "Wildberries suspended operations and evacuated workers at its local logistics facility in the city of Yekaterinburg.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/25/ukrainian-attacks-kill-2-in-belgorod-and-target-wildberries-warehouse-in-urals-a93338",
-          "publicado_em": "2026-07-25T09:19:00-03:00"
+          "publicado_em": "2026-07-25T09:19:00.000Z"
         },
         {
-          "id": "mt-2026-07-26-04",
-          "titulo": "Importante Terminal de Petróleo Russo no Mar Negro Para as Operações devido a Ameaça de Drones Ucranianos",
-          "resumo": "O terminal Sheskharis no porto de Novorossiysk não carregou nenhum petroleiro desde a manhã de terça-feira, segundo a Bloomberg.",
+          "id": "mt-2026-07-27-09",
+          "titulo": "Major Russian Black Sea Oil Terminal Halts Operations Amid Ukrainian Drone Threat",
+          "resumo": "The Sheskharis terminal in the Black Sea port of Novorossiysk has not loaded any tankers since Tuesday morning, Bloomberg reported.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/25/major-russian-black-sea-oil-terminal-halts-operations-amid-ukrainian-drone-threat-a93337",
-          "publicado_em": "2026-07-25T07:50:03-03:00"
+          "publicado_em": "2026-07-25T07:50:03.000Z"
         },
         {
-          "id": "mt-2026-07-26-05",
-          "titulo": "Rússia Proíbe Importações de Laticínios da Armênia por Supostas Violações de Saúde",
-          "resumo": "A proibição segue uma série de restrições russas à importação e trânsito de produtos alimentícios armênios neste verão.",
+          "id": "mt-2026-07-27-10",
+          "titulo": "Russia and Ukraine Both Report Civilians Killed in Strikes",
+          "resumo": "Russia said four people were killed by a Ukrainian drone strike in the Russian-occupied Ukrainian city of Horlivka.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/26/russia-and-ukraine-both-report-civilians-killed-in-strikes-a93341",
+          "publicado_em": "2026-07-26T14:04:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-27-11",
+          "titulo": "Putin Visits Siberian Factory Producing Delayed Russian Airliner",
+          "resumo": "The Kremlin said Vladimir Putin toured the Irkutsk Aviation Plant, which is producing Russia’s long-delayed MC-21 passenger jet.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/24/putin-visits-siberian-factory-producing-delayed-russian-airliner-a93332",
+          "publicado_em": "2026-07-24T13:58:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-27-12",
+          "titulo": "Russia Bans Armenian Dairy Imports Over Alleged Health Violations",
+          "resumo": "The ban follows a raft of Russian restrictions on the import and transit of Armenian food products this summer.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/24/russia-bans-armenian-dairy-imports-over-alleged-health-violations-a93331",
-          "publicado_em": "2026-07-24T12:41:11-03:00"
+          "publicado_em": "2026-07-24T12:41:11.000Z"
         },
         {
-          "id": "mt-2026-07-26-06",
-          "titulo": "Banco Central Russo Adverte sobre Inflação Mais Alta ao Reduzir a Taxa-Chave para 14%",
-          "resumo": "A redução modesta ocorre apesar de preocupações de que os ataques ucranianos a refinarias de petróleo e sites comerciais alimentarão um novo surto de inflação.",
+          "id": "mt-2026-07-27-13",
+          "titulo": "Russian Central Bank Warns of Higher Inflation as It Lowers Key Rate to 14%",
+          "resumo": "The modest decrease comes despite concerns that Ukrainian attacks on oil refineries and commercial sites will fuel a renewed inflation surge.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/24/russian-central-bank-warns-of-higher-inflation-as-it-lowers-key-rate-to-14-a93329",
-          "publicado_em": "2026-07-24T10:57:00-03:00"
+          "publicado_em": "2026-07-24T10:57:00.000Z"
         },
         {
-          "id": "mt-2026-07-26-07",
-          "titulo": "Rússia Entre Dúzias de Países Alvo de Novas Tarifas do Trump",
-          "resumo": "A Casa Branca acusou a Rússia e outros países de não promulgar ou aplicar efetivamente proibições de bens produzidos com trabalho forçado.",
+          "id": "mt-2026-07-27-14",
+          "titulo": "Russia Among Dozens of Countries Targeted by New Trump Tariffs",
+          "resumo": "The White House accused Russia and other countries of failing to enact or effectively enforce bans on goods produced with forced labor.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/24/russia-among-dozens-of-countries-targeted-by-new-trump-tariffs-a93328",
-          "publicado_em": "2026-07-24T09:08:10-03:00"
+          "publicado_em": "2026-07-24T09:08:10.000Z"
         },
         {
-          "id": "mt-2026-07-26-08",
-          "titulo": "Pelo Menos 6 Mortos após Drones Ucranianos Atacarem Armazéns da Wildberries e Instalação Industrial",
-          "resumo": "A varejista online disse que seus centros logísticos em São Petersburgo e na região de Leningrado, bem como na Crimeia anexada, foram atingidos durante a noite.",
+          "id": "mt-2026-07-27-15",
+          "titulo": "At Least 6 Dead After Ukrainian Drones Hit Wildberries Warehouses and Industrial Facility",
+          "resumo": "The online retailer said its logistics centers in St. Petersburg and the Leningrad region, as well as in annexed Crimea, were hit overnight.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/24/at-least-6-dead-after-ukrainian-drones-hit-wildberries-warehouses-and-industrial-facility-a93327",
-          "publicado_em": "2026-07-24T09:00:00-03:00"
+          "publicado_em": "2026-07-24T09:00:00.000Z"
         },
         {
-          "id": "mt-2026-07-26-09",
-          "titulo": "UE Concorde com 21º Pacote de Sanções Contra a Rússia",
-          "resumo": "A Grécia recebeu uma isenção que permite que suas empresas de navegação continuem transportando gás natural liquefeito russo do Ártico.",
+          "id": "mt-2026-07-27-16",
+          "titulo": "Kazakhstan Cuts Oil Production Following Drone Strikes on Black Sea Tankers",
+          "resumo": "Russia has accused Ukraine of targeting oil tankers off its southern Black Sea coast to disrupt the global energy market.",
           "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/23/eu-agrees-21st-sanctions-package-against-russia-a93317",
-          "publicado_em": "2026-07-23T08:56:56-03:00"
-        },
-        {
-          "id": "mt-2026-07-26-10",
-          "titulo": "3 Mortos em Onda de Drones Ucranianos que Atacam o Sul da Rússia e a Crimeia",
-          "resumo": "Em Voronezh, destroços de drone caídos desencadearam um incêndio em uma residência que matou um menino de três anos, disseram autoridades locais.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/23/3-killed-as-wave-of-ukrainian-drones-strikes-southern-russia-and-crimea-a93316",
-          "publicado_em": "2026-07-23T07:50:00-03:00"
+          "link": "https://www.themoscowtimes.com/2026/07/23/kazakhstan-cuts-oil-production-following-drone-strikes-on-black-sea-tankers-a93325",
+          "publicado_em": "2026-07-23T13:57:03.000Z"
         }
       ]
     },
