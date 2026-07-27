@@ -747,26 +747,50 @@
     "mt": {
       "slug": "mt",
       "nome": "The Moscow Times",
-      "gerado_em": "2026-07-27T10:46:22.576Z",
+      "gerado_em": "2026-07-27T21:46:15.951Z",
       "artigos": [
         {
           "id": "mt-2026-07-27-01",
-          "titulo": "Ex-Kremlin Loyalist Ilya Remeslo Placed in Moscow Psychiatric Facility",
-          "resumo": "Remeslo previously spent a month at a psychiatric hospital in St. Petersburg between March and April after he publicly denounced President Vladimir Putin for mishandling the full-scale invasion of Ukr...",
+          "titulo": "Armenia's Pashinyan Asks Putin to Help Resolve Russian Restrictions on Armenian Exports",
+          "resumo": "Pashinyan, who has steered Armenia in a more pro-Western direction, told Putin that the trade restrictions violated agreements between the two countries.",
           "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/27/ex-kremlin-loyalist-ilya-remeslo-placed-in-moscow-psychiatric-facility-a93346",
-          "publicado_em": "2026-07-27T09:37:32.000Z"
+          "link": "https://www.themoscowtimes.com/2026/07/27/armenias-pashinyan-asks-putin-to-help-resolve-russian-restrictions-on-armenian-exports-a93355",
+          "publicado_em": "2026-07-27T19:33:00.000Z"
         },
         {
           "id": "mt-2026-07-27-02",
-          "titulo": "FSB Arrests Khabarovsk Man Accused of Spying for New Zealand",
-          "resumo": "The FSB claimed that New Zealand “recruited” the man to gather intelligence on Russia’s defense cooperation with countries in the Asia-Pacific region.",
+          "titulo": "Sarmat Missile Held Back By Repeated Delays Despite Kremlin Boasts, Leaked Documents Show",
+          "resumo": "Russia’s ambitious claims about its nuclear capabilities come years before defense manufacturers can meet the deadlines needed to make them real.",
           "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/27/fsb-arrests-khabarovsk-man-accused-of-spying-for-new-zealand-a93345",
-          "publicado_em": "2026-07-27T08:44:25.000Z"
+          "link": "https://www.themoscowtimes.com/2026/07/27/sarmat-missile-held-back-by-repeated-delays-despite-kremlin-boasts-leaked-documents-show-a93348",
+          "publicado_em": "2026-07-27T16:41:57.000Z"
         },
         {
           "id": "mt-2026-07-27-03",
+          "titulo": "Montenegro Ends Visa-Free Entry for Russians Amid 2028 EU Membership Bid",
+          "resumo": "Montenegro has remained one of the few European countries to offer visa-free entry to Russians for up to 30 days, and saw a massive influx of anti-war Russian citizens after the 2022 invasion of Ukraine...",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/27/montenegro-ends-visa-free-entry-for-russians-amid-2028-eu-membership-bid-a93351",
+          "publicado_em": "2026-07-27T14:55:39.000Z"
+        },
+        {
+          "id": "mt-2026-07-27-04",
+          "titulo": "New People Leader Says Russians Are Tired of War, Slams Tech Bans in Duma Speech",
+          "resumo": "“Let’s change our approach. Let’s stop viewing the average citizen as an ignorant child or a potential criminal,” party chief Alexei Nechayev said.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/27/new-people-leader-says-russians-are-tired-of-war-slams-tech-bans-in-duma-speech-a93349",
+          "publicado_em": "2026-07-27T14:15:54.000Z"
+        },
+        {
+          "id": "mt-2026-07-27-05",
+          "titulo": "Peskov’s Wife Challenges EU Sanctions Against Her in Court",
+          "resumo": "Tatiana Navka, a former Olympic ice-skating champion, was put on a sanctions list by the EU in June 2022 that targeted people over Russia's invasion of Ukraine.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/27/peskovs-wife-challenges-eu-sanctions-against-her-in-court-a93350",
+          "publicado_em": "2026-07-27T13:39:24.000Z"
+        },
+        {
+          "id": "mt-2026-07-27-06",
           "titulo": "Ukrainian Attacks Kill At Least 5 People in Southern Russia",
           "resumo": "Authorities said 17 others were wounded in separate attacks on the Belgorod and Rostov regions.",
           "imagem": null,
@@ -774,7 +798,15 @@
           "publicado_em": "2026-07-27T07:49:00.000Z"
         },
         {
-          "id": "mt-2026-07-27-04",
+          "id": "mt-2026-07-27-07",
+          "titulo": "FSB Arrests Khabarovsk Man Accused of Spying for New Zealand",
+          "resumo": "The FSB claimed that New Zealand “recruited” the man to gather intelligence on Russia’s defense cooperation with countries in the Asia-Pacific region.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/27/fsb-arrests-khabarovsk-man-accused-of-spying-for-new-zealand-a93345",
+          "publicado_em": "2026-07-27T08:44:25.000Z"
+        },
+        {
+          "id": "mt-2026-07-27-08",
           "titulo": "Kremlin Says Too Early to Comment on Reported U.S.-Ukraine Air Ceasefire Talks",
           "resumo": "\"We have heard statements that some new formulas may be possible. We still need to learn more about them,\" Kremlin spokesman Dmitry Peskov said.",
           "imagem": null,
@@ -782,7 +814,7 @@
           "publicado_em": "2026-07-26T14:55:00.000Z"
         },
         {
-          "id": "mt-2026-07-27-05",
+          "id": "mt-2026-07-27-09",
           "titulo": "Russia and Ukraine Both Report Civilians Killed in Strikes",
           "resumo": "Russia said four people were killed by a Ukrainian drone strike in the Russian-occupied Ukrainian city of Horlivka.",
           "imagem": null,
@@ -790,7 +822,7 @@
           "publicado_em": "2026-07-26T14:04:00.000Z"
         },
         {
-          "id": "mt-2026-07-27-06",
+          "id": "mt-2026-07-27-10",
           "titulo": "Romania Shoots Down Third Russian Drone, as President Calls Breaches ‘Intolerable'",
           "resumo": "Moscow made no immediate public comment on the incidents.",
           "imagem": null,
@@ -798,7 +830,7 @@
           "publicado_em": "2026-07-26T10:20:23.000Z"
         },
         {
-          "id": "mt-2026-07-27-07",
+          "id": "mt-2026-07-27-11",
           "titulo": "Speaking Alongside Putin, Kazakh President Calls for Freeze of Ukraine War",
           "resumo": "The Kremlin later said that \"freezing the conflict as such is impossible, given Kyiv's position.\"",
           "imagem": null,
@@ -806,7 +838,7 @@
           "publicado_em": "2026-07-26T07:29:13.000Z"
         },
         {
-          "id": "mt-2026-07-27-08",
+          "id": "mt-2026-07-27-12",
           "titulo": "Ukrainian Attacks Kill 2 in Belgorod and Target Wildberries Warehouse in Urals",
           "resumo": "Wildberries suspended operations and evacuated workers at its local logistics facility in the city of Yekaterinburg.",
           "imagem": null,
@@ -814,7 +846,7 @@
           "publicado_em": "2026-07-25T09:19:00.000Z"
         },
         {
-          "id": "mt-2026-07-27-09",
+          "id": "mt-2026-07-27-13",
           "titulo": "Major Russian Black Sea Oil Terminal Halts Operations Amid Ukrainian Drone Threat",
           "resumo": "The Sheskharis terminal in the Black Sea port of Novorossiysk has not loaded any tankers since Tuesday morning, Bloomberg reported.",
           "imagem": null,
@@ -822,15 +854,7 @@
           "publicado_em": "2026-07-25T07:50:03.000Z"
         },
         {
-          "id": "mt-2026-07-27-10",
-          "titulo": "Russia and Ukraine Both Report Civilians Killed in Strikes",
-          "resumo": "Russia said four people were killed by a Ukrainian drone strike in the Russian-occupied Ukrainian city of Horlivka.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/26/russia-and-ukraine-both-report-civilians-killed-in-strikes-a93341",
-          "publicado_em": "2026-07-26T14:04:00.000Z"
-        },
-        {
-          "id": "mt-2026-07-27-11",
+          "id": "mt-2026-07-27-14",
           "titulo": "Putin Visits Siberian Factory Producing Delayed Russian Airliner",
           "resumo": "The Kremlin said Vladimir Putin toured the Irkutsk Aviation Plant, which is producing Russia’s long-delayed MC-21 passenger jet.",
           "imagem": null,
@@ -838,44 +862,12 @@
           "publicado_em": "2026-07-24T13:58:00.000Z"
         },
         {
-          "id": "mt-2026-07-27-12",
+          "id": "mt-2026-07-27-15",
           "titulo": "Russia Bans Armenian Dairy Imports Over Alleged Health Violations",
           "resumo": "The ban follows a raft of Russian restrictions on the import and transit of Armenian food products this summer.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/24/russia-bans-armenian-dairy-imports-over-alleged-health-violations-a93331",
           "publicado_em": "2026-07-24T12:41:11.000Z"
-        },
-        {
-          "id": "mt-2026-07-27-13",
-          "titulo": "Russian Central Bank Warns of Higher Inflation as It Lowers Key Rate to 14%",
-          "resumo": "The modest decrease comes despite concerns that Ukrainian attacks on oil refineries and commercial sites will fuel a renewed inflation surge.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/24/russian-central-bank-warns-of-higher-inflation-as-it-lowers-key-rate-to-14-a93329",
-          "publicado_em": "2026-07-24T10:57:00.000Z"
-        },
-        {
-          "id": "mt-2026-07-27-14",
-          "titulo": "Russia Among Dozens of Countries Targeted by New Trump Tariffs",
-          "resumo": "The White House accused Russia and other countries of failing to enact or effectively enforce bans on goods produced with forced labor.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/24/russia-among-dozens-of-countries-targeted-by-new-trump-tariffs-a93328",
-          "publicado_em": "2026-07-24T09:08:10.000Z"
-        },
-        {
-          "id": "mt-2026-07-27-15",
-          "titulo": "At Least 6 Dead After Ukrainian Drones Hit Wildberries Warehouses and Industrial Facility",
-          "resumo": "The online retailer said its logistics centers in St. Petersburg and the Leningrad region, as well as in annexed Crimea, were hit overnight.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/24/at-least-6-dead-after-ukrainian-drones-hit-wildberries-warehouses-and-industrial-facility-a93327",
-          "publicado_em": "2026-07-24T09:00:00.000Z"
-        },
-        {
-          "id": "mt-2026-07-27-16",
-          "titulo": "Kazakhstan Cuts Oil Production Following Drone Strikes on Black Sea Tankers",
-          "resumo": "Russia has accused Ukraine of targeting oil tankers off its southern Black Sea coast to disrupt the global energy market.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/23/kazakhstan-cuts-oil-production-following-drone-strikes-on-black-sea-tankers-a93325",
-          "publicado_em": "2026-07-23T13:57:03.000Z"
         }
       ]
     },
