@@ -105,103 +105,119 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-07-26T21:00:00.675Z",
+      "gerado_em": "2026-07-27T10:00:01.999Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-07-26-2101",
+          "id": "new_york_times-2026-07-26-1001",
           "titulo": "Empregadores Temem Escassez de Mão de Obra à Medida que Muitos Imigrantes Perdem Status de Proteção",
           "resumo": "Um recente julgamento do Supremo Tribunal abriu caminho para a administração Trump encerrar um programa humanitário que permitiu que cerca de um milhão de imigrantes trabalhassem legalmente nos EUA.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/26/us/trump-tps-labor-shortage.html",
-          "publicado_em": "2026-07-26T16:10:07.000Z"
+          "publicado_em": "2026-07-26T16:10:08.000-03:00"
         },
         {
-          "id": "new_york_times-2026-07-26-2102",
+          "id": "new_york_times-2026-07-26-1002",
           "titulo": "A Ascensão de um Almirante Revela a Política por trás do Pentágono de Hegseth",
           "resumo": "Antes de ser escolhido para liderar a Marinha, o Almirante Daryl Caudle encontrou maneiras de sinalizar seu apoio aos objetivos anti-diversidade do Secretário de Defesa Pete Hegseth.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/26/us/politics/caudle-navy-hegseth-parlatore-promotion.html",
-          "publicado_em": "2026-07-26T13:58:18.000Z"
+          "publicado_em": "2026-07-26T13:58:18.000-03:00"
         },
         {
-          "id": "new_york_times-2026-07-26-2104",
-          "titulo": "Trump Está Impulsionando a Energia Nuclear, Incluindo Acordo com a Arábia Saudita. Sua Família e Apoiadores Podem se Beneficiar.",
-          "resumo": "Em alguns casos, não é possível traçar uma linha direta entre a agenda nuclear doméstica do presidente e sua família ou aliados próximos. No entanto, eles têm laços comerciais que os posicionam para ganhos.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/26/us/politics/trump-nuclear-energy-agenda-saudi-deal.html",
-          "publicado_em": "2026-07-26T17:47:40.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-26-2105",
-          "titulo": "Trump Parece Preso na Guerra com o Irã, Mesmo ao Manusear o Maior Martelo do Mundo",
+          "id": "new_york_times-2026-07-26-1003",
+          "titulo": "Trump Parece Preso na Guerra com o Irã, Mesmo com o Maior Poder Mundial",
           "resumo": "Um presidente que pensava que não havia limites para seu poder descobriu vários, deixando-o mais frustrado e errático.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/26/us/politics/trump-trapped-in-iran-war.html",
-          "publicado_em": "2026-07-26T16:11:05.000Z"
+          "publicado_em": "2026-07-26T16:11:05.000-03:00"
         },
         {
-          "id": "new_york_times-2026-07-26-2106",
-          "titulo": "Trump Adia Escalada de Guerra Contra o Irã à Medida que Assessores Expressam Preocupações",
-          "resumo": "Entre as preocupações está o fato de que hostilidades expandidas poderiam esvaziar perigosamente o estoque diminuído de munições de defesa aérea no Oriente Médio.",
+          "id": "new_york_times-2026-07-27-1004",
+          "titulo": "Pentágono Muda como Relata Baixas na Guerra com o Irã",
+          "resumo": "As mudanças separaram os números de baixas em duas páginas da web separadas, potencialmente tornando mais difícil calcular o total de vítimas da guerra.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html",
-          "publicado_em": "2026-07-26T13:57:39.000Z"
+          "link": "https://www.nytimes.com/2026/07/26/us/politics/pentagon-casualties-iran-war.html",
+          "publicado_em": "2026-07-27T00:14:23.000-03:00"
         },
         {
-          "id": "new_york_times-2026-07-26-2107",
-          "titulo": "Guerra EUA-Irã Pausa por 2º Dia Consecutivo com Ambos os Lados se Abstendo de Ataques",
-          "resumo": "O Presidente Trump adiou planos para escalar a luta em parte devido ao estoque diminuído de mísseis interceptadores, disseram funcionários americanos.",
+          "id": "new_york_times-2026-07-27-1005",
+          "titulo": "O que Saber sobre o Irã e os Houthis",
+          "resumo": "O grupo militante iemenita abriu uma nova frente no conflito entre seu patrono, Teerã, e Washington, anunciando um bloqueio ao transporte marítimo saudita em um estreito estratégico e atacando navios.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/26/world/middleeast/us-iran-war-pause.html",
-          "publicado_em": "2026-07-26T12:49:15.000Z"
+          "link": "https://www.nytimes.com/2026/07/23/world/middleeast/what-to-know-iran-houthis.html",
+          "publicado_em": "2026-07-26T12:23:34.000-03:00"
         },
         {
-          "id": "new_york_times-2026-07-26-2108",
-          "titulo": "UE Dividida sobre Proibir Importações de Assentamentos Israelenses",
-          "resumo": "A discussão sobre restringir bens de assentamentos israelenses em territórios ocupados reflete uma divisão europeia sobre se e como confrontar Israel.",
+          "id": "new_york_times-2026-07-27-1006",
+          "titulo": "Preços do Petróleo Caiem após EUA e Irã Pausarem os Conflitos por Segundo Dia",
+          "resumo": "Nenhum ataque foi relatado de nenhum dos lados desde sexta-feira, deixando os investidores otimistas sobre uma resolução do conflito.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/26/world/middleeast/eu-debate-about-import-ban-reveals-deep-divides-over-israel.html",
-          "publicado_em": "2026-07-26T16:16:23.000Z"
+          "link": "https://www.nytimes.com/2026/07/26/business/oil-prices-fall-iran-war.html",
+          "publicado_em": "2026-07-27T09:41:24.000-03:00"
         },
         {
-          "id": "new_york_times-2026-07-26-2109",
-          "titulo": "Dentro do Drama do Partido Democrata em Crise Financeira",
-          "resumo": "Os democratas deveriam estar bem posicionados para fazer ganhos nas eleições de meio de mandato deste ano. No entanto, dentro da sede do partido, cada semana traz paranoia, preocupações com dinheiro e, ocasionalmente, erupções emocionais.",
+          "id": "new_york_times-2026-07-27-1007",
+          "titulo": "Dentro do Drama do Partido Democrata",
+          "resumo": "Os democratas deveriam estar bem posicionados para fazer ganhos nas eleições de meio de mandato deste ano. Mas dentro da sede do partido, cada semana traz paranoia, preocupações com dinheiro e, ocasionalmente, erupções emocionais.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/26/us/politics/ken-martin-dnc-democrats.html",
-          "publicado_em": "2026-07-26T17:31:21.000Z"
+          "publicado_em": "2026-07-26T17:31:22.000-03:00"
         },
         {
-          "id": "new_york_times-2026-07-26-2110",
-          "titulo": "Democratas Reajustam a Corrida ao Senado em Maine. Agora Vem a Parte Difícil.",
-          "resumo": "Troy Jackson está substituindo Graham Platner, mas os republicanos buscam ligá-los como uma corrida refeita começa com apostas altas.",
+          "id": "new_york_times-2026-07-27-1012",
+          "titulo": "Netanyahu Acusa Mamdani de ‘Discurso de Ódio’ após Vídeo do Prefeito",
+          "resumo": "O primeiro-ministro israelense criticou o Sr. Mamdani por lançar um vídeo na semana passada no qual o prefeito pediu que o governo federal prendesse o Sr. Netanyahu por crimes de guerra.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/26/us/politics/jackson-collins-platner-senate-maine.html",
-          "publicado_em": "2026-07-26T09:01:42.000Z"
+          "link": "https://www.nytimes.com/2026/07/26/nyregion/netanyahu-mamdani-fox-news.html",
+          "publicado_em": "2026-07-26T23:00:49.000-03:00"
         },
         {
-          "id": "new_york_times-2026-07-26-2111",
-          "titulo": "Socialistas Democráticos Estão Vencendo Grande. Agora Eles Querem Ação.",
-          "resumo": "Os Socialistas Democráticos da América, após uma série de vitórias eleitorais em Nova York, estão ansiosos para taxar os ricos e implementar políticas anti-Israel.",
+          "id": "new_york_times-2026-07-27-1013",
+          "titulo": "Guerra com o Irã Força Compradores de Energia a se ‘Desacorrentar’ dos Mercados Globais",
+          "resumo": "Nações em desenvolvimento da Ásia, marcadas por choques de suprimento no Oriente Médio, estão trabalhando para reduzir sua dependência de combustíveis importados, incluindo gás natural liquefeito.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/26/nyregion/dsa-tax-rich-hochul-mamdani.html",
-          "publicado_em": "2026-07-26T13:41:19.000Z"
+          "link": "https://www.nytimes.com/2026/07/27/business/natural-gas-lng-asia-exposure.html",
+          "publicado_em": "2026-07-27T04:01:10.000-03:00"
         },
         {
-          "id": "new_york_times-2026-07-26-2112",
-          "titulo": "Candidato ao Senado Josh Turek Pedala de Mão na Trilha da Campanha em Iowa",
-          "resumo": "O Representante Estadual Josh Turek, o democrata que corre para virar o assento aberto do Senado em Iowa, pedalou com as mãos em um evento de ciclismo em Iowa que ocorreu entre duas cidades a cerca de 97 km de distância.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/26/us/politics/turek-iowa-senate-democrat.html",
-          "publicado_em": "2026-07-26T14:22:22.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-26-2113",
-          "titulo": "Atacante do Evento do Orgulho de Berlim é Morto em Tiroteio com a Polícia, Dizem Oficiais",
+          "id": "new_york_times-2026-07-27-1014",
+          "titulo": "Atacante do Evento do Orgulho Gay em Berlim é Morto em Confronto com a Polícia, Dizem Autoridades",
           "resumo": "O confronto com o suspeito no que foi descrito como um provável ato de terrorismo islâmico ocorreu enquanto uma grande caçada humana estava em andamento, disseram as autoridades.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
-          "publicado_em": "2026-07-26T19:07:03.000Z"
+          "publicado_em": "2026-07-26T22:00:25.000-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-27-1015",
+          "titulo": "Chamas Avançam sobre Bordeaux, Onde Evacuados Equilibram Medo e Esperança",
+          "resumo": "Com cidades vizinhas no sudoeste da França evacuadas e o fogo ainda se espalhando rapidamente, vários milhares estão abrigados na cidade, incertos sobre o que acontecerá com suas casas.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/26/world/europe/france-fires-bordeaux.html",
+          "publicado_em": "2026-07-26T21:25:31.000-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-27-1016",
+          "titulo": "O Herói Acidental que Desafiou o Governo da Índia",
+          "resumo": "Abhijeet Dipke fundou o Partido Cockroach Janta como uma piada após um juiz insultar jovens. A ideia se transformou em um movimento geracional que desafiou os líderes do país.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/26/world/asia/india-protests-cockroach-janta-party-abhijeet-dipke.html",
+          "publicado_em": "2026-07-26T21:12:46.000-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-27-1017",
+          "titulo": "Quem São as Pessoas que Protestam na Índia?",
+          "resumo": "Alguns dos jovens manifestantes que forçaram a saída do ministro da Educação do país descreveram sua profunda raiva, frustração e desejos que os levaram às ruas.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/25/world/asia/india-protests-profiles.html",
+          "publicado_em": "2026-07-25T13:53:43.000-03:00"
+        },
+        {
+          "id": "new_york_times-2026-07-27-1018",
+          "titulo": "A Diáspora Indiana em Nova York se Junta aos Protestos do ‘Partido Cockroach’",
+          "resumo": "Centenas de indianos no exterior se reuniram em Manhattan para apoiar o movimento liderado pela Geração Z que abalou o governo indiano e levou à renúncia de seu ministro da Educação.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/26/nyregion/indians-nyc-cockroach-party-protests.html",
+          "publicado_em": "2026-07-26T20:25:58.000-03:00"
         }
       ]
     },
