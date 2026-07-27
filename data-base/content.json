@@ -438,34 +438,106 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-07-26T21:15:47.529Z",
+      "gerado_em": "2026-07-27T10:15:58.739Z",
       "artigos": [
         {
-          "id": "rt-2026-07-26-2101-01",
-          "titulo": "Ações hostis contra a frota mercante russa devem ser combatidas como 'pirataria' – Putin",
-          "resumo": "Ações hostis contra a frota mercante russa devem ser tratadas como 'pirataria', disse o presidente russo Vladimir Putin",
+          "id": "rt-2026-07-27-10-01",
+          "titulo": "França planeja terceiro ataque a antiga colônia – Líder africano",
+          "resumo": "O líder militar do Níger disse que a inteligência francesa está preparando um terceiro ataque contra Niamey após assaltos em janeiro e junho",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6726d22030276fa9170203.jpg",
+          "link": "https://www.rt.com/africa/643511-france-planning-third-attack-niger/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-27T09:49:05.000Z"
+        },
+        {
+          "id": "rt-2026-07-27-10-02",
+          "titulo": "Trump rejeita relatórios de falta de mísseis nos EUA",
+          "resumo": "Trump negou uma escassez de munições nos EUA após relatórios da mídia sugerirem que era uma das razões para uma pausa na guerra com o Irã",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a67239e85f5401e551733b6.jpg",
+          "link": "https://www.rt.com/news/643514-trump-rejects-reports-us-missile-shortfall/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-27T09:25:46.000Z"
+        },
+        {
+          "id": "rt-2026-07-27-10-03",
+          "titulo": "Homem russo acusado de traição após lidar com grupo de espionagem dos Cinco Olhos",
+          "resumo": "Um homem russo foi acusado de traição após supostamente oferecer serviços de espionagem à Nova Zelândia",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a66f7fb85f5400ff1471e2a.png",
+          "link": "https://www.rt.com/russia/643507-fsb-khabarovsk-five-eyes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-27T06:55:08.000Z"
+        },
+        {
+          "id": "rt-2026-07-27-10-04",
+          "titulo": "Suécia está criando seu próprio ‘MI6’ para espionar líderes russos – Carl Bildt",
+          "resumo": "A Suécia está criando um serviço de inteligência civil para melhor entender a liderança política russa após falhas de inteligência em 2022",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a66e0e72030276e1738e4aa.jpg",
+          "link": "https://www.rt.com/news/643506-sweden-new-spy-agency-monitor-russia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-27T05:18:24.000Z"
+        },
+        {
+          "id": "rt-2026-07-27-10-05",
+          "titulo": "Chefe do CENTCOM acredita que ataques dos EUA ao redor do Hormuz não são mais eficazes – Axios",
+          "resumo": "O chefe do CENTCOM relatou ter aconselhado o presidente Donald Trump a parar os ataques ao redor do Estreito de Hormuz, dizendo que não eram mais eficazes",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a66d1c685f54003414cccbe.png",
+          "link": "https://www.rt.com/news/643505-us-iran-strikes-not-effective/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-27T03:38:16.000Z"
+        },
+        {
+          "id": "rt-2026-07-27-10-06",
+          "titulo": "Trump fez ‘erro estratégico’ com tarifas – Lula",
+          "resumo": "As tarifas de Trump sobre o Brasil são um ‘erro estratégico’ que acabará prejudicando a economia americana, alertou o presidente Lula",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a66a7a185f54002af79a046.jpg",
+          "link": "https://www.rt.com/news/643504-trump-made-strategic-mistake-lula/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-27T01:03:14.000Z"
+        },
+        {
+          "id": "rt-2026-07-27-10-07",
+          "titulo": "Zelensky atacou navio de carga no Mar Cáspio a pedido de Israel – Irã",
+          "resumo": "O Irã alega que a Ucrânia atacou seu navio mercante no Mar Cáspio a pedido de Israel",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a66a12585f5407df3470275.jpg",
+          "link": "https://www.rt.com/news/643503-iran-zelensky-attacked-ship/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-27T00:07:52.000Z"
+        },
+        {
+          "id": "rt-2026-07-27-10-08",
+          "titulo": "O próximo poder nuclear do mundo pode surpreender você",
+          "resumo": "Riade diz que seu programa nuclear é pacífico, mas o enriquecimento de urânio e salvaguardas mais fracas poderiam dar à Arábia Saudita um caminho futuro para a bomba",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a64c13585f5405ce77a578f.png",
+          "link": "https://www.rt.com/news/643463-middle-east-next-nuclear-power/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-26T21:30:08.000Z"
+        },
+        {
+          "id": "rt-2026-07-27-10-09",
+          "titulo": "Rússia realiza novos ataques a portos e navios ucranianos",
+          "resumo": "O exército russo realizou novos ataques contra a infraestrutura portuária e navios ucranianos",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a66794785f54003414cccaf.jpg",
+          "link": "https://www.rt.com/russia/643499-ukraine-ports-shipping-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-26T21:17:41.000Z"
+        },
+        {
+          "id": "rt-2026-07-27-10-10",
+          "titulo": "Ações hostis contra a frota mercante russa devem ser combatidas como ‘pirataria’ – Putin",
+          "resumo": "Ações hostis contra a frota mercante russa devem ser tratadas como ‘pirataria’, disse o presidente russo Vladimir Putin",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6669402030273f5f2943ca.jpg",
           "link": "https://www.rt.com/russia/643494-merchant-fleet-piracy-putin/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-26T20:08:52.000Z"
         },
         {
-          "id": "rt-2026-07-26-2102-02",
-          "titulo": "Nações que ajudam os EUA se tornarão 'alvos legítimos' – Teerã",
-          "resumo": "Nações que apoiem a agressão dos EUA contra o Irã serão tratadas como alvos legítimos, alerta o Irã",
+          "id": "rt-2026-07-27-10-11",
+          "titulo": "Nações que apoiam a agressão dos EUA se tornarão ‘alvos legítimos’ – Teerã",
+          "resumo": "Nações que apoiam a agressão dos EUA contra o Irã serão tratadas como alvos legítimos, alertou o Irã",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a663a4e85f5407df3470263.jpg",
           "link": "https://www.rt.com/news/643490-iran-us-backers-targets/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-26T16:48:27.000Z"
         },
         {
-          "id": "rt-2026-07-26-2103-03",
-          "titulo": "Pentágono está considerando um grande ataque para roubar o estoque nuclear do Irã – mídia",
-          "resumo": "O Pentágono está considerando um ataque com milhares de tropas e comandos para apreender o estoque de urânio do Irã, relata a NYP",
+          "id": "rt-2026-07-27-10-12",
+          "titulo": "Pentágono está planejando um grande ataque para roubar o estoque nuclear do Irã – mídia",
+          "resumo": "O exército dos EUA está planejando um ataque envolvendo milhares de tropas e comandos de elite para apreender o estoque de urânio do Irã, relata o NYP",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a661e9f85f54002af79a005.jpg",
           "link": "https://www.rt.com/news/643489-pentagon-eyeing-megaraid-iran-uranium/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-26T16:25:19.000Z"
         },
         {
-          "id": "rt-2026-07-26-2104-04",
+          "id": "rt-2026-07-27-10-13",
           "titulo": "Tufão arranca telhados de prédios e inunda o sul da China (VÍDEOS)",
           "resumo": "Mais de 700.000 pessoas foram evacuadas antes do tufão Hongxia, que interrompeu o transporte e aterrissou voos no sul da China",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a66194e85f54003414ccca1.png",
@@ -473,7 +545,7 @@
           "publicado_em": "2026-07-26T14:46:57.000Z"
         },
         {
-          "id": "rt-2026-07-26-2105-05",
+          "id": "rt-2026-07-27-10-14",
           "titulo": "ASSISTA Tripulação russo-americana de espaço retorna à Terra",
           "resumo": "Dois cosmonautas russos e um astronauta da NASA aterrissaram com segurança no Cazaquistão após uma missão de oito meses a bordo da ISS",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a65f15f85f54003fe7cf587.png",
@@ -481,15 +553,15 @@
           "publicado_em": "2026-07-26T13:51:03.000Z"
         },
         {
-          "id": "rt-2026-07-26-2106-06",
+          "id": "rt-2026-07-27-10-15",
           "titulo": "Kiev compensa perdas em batalha com ataques terroristas – diplomata russo",
-          "resumo": "Kiev está usando 'táticas terroristas' contra civis para compensar perdas em batalha, disse o embaixador russo Rodion Miroshnik",
+          "resumo": "Kiev está usando ‘táticas terroristas’ contra civis para compensar perdas em batalha, disse o embaixador russo Rodion Miroshnik",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a65cd7a2030270ea623a617.png",
           "link": "https://www.rt.com/russia/643484-ukraine-terrorist-tactics-moscow/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-26T12:46:53.000Z"
         },
         {
-          "id": "rt-2026-07-26-2107-07",
+          "id": "rt-2026-07-27-10-16",
           "titulo": "Irã acusa EUA de atacar barcos de resgate",
           "resumo": "O vice-embaixador do Irã nas Nações Unidas acusou os EUA de atacar dois barcos de resgate, dizendo que o ataque é um crime de guerra",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a65e66e203027149a66367b.jpg",
@@ -497,100 +569,36 @@
           "publicado_em": "2026-07-26T10:50:45.000Z"
         },
         {
-          "id": "rt-2026-07-26-2108-08",
-          "titulo": "Indústria alemã sangra empregos – lobby empresarial",
-          "resumo": "A Alemanha está perdendo cerca de 15.000 empregos industriais por mês, com o setor em um estado 'crítico' devido à queda da competitividade, alerta o BDI",
+          "id": "rt-2026-07-27-10-17",
+          "titulo": "Indústria alemã está perdendo empregos – lobby empresarial",
+          "resumo": "A Alemanha está perdendo cerca de 15.000 empregos industriais por mês, com o setor em um estado ‘crítico’ devido à queda da competitividade, alertou o BDI",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a65dc2285f5406e25146d3d.jpg",
           "link": "https://www.rt.com/news/643483-germany-bleeding-jobs-report/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-26T10:21:11.000Z"
         },
         {
-          "id": "rt-2026-07-26-2109-09",
-          "titulo": "Corredores de energia para a Europa: Ex-colônias estão assumindo o controle",
+          "id": "rt-2026-07-27-10-18",
+          "titulo": "Corredores de energia para a Europa: Antigas colônias estão tomando o controle",
           "resumo": "À medida que guerras e instabilidade sufocam as rotas de navegação globais, os gasodutos africanos estão se tornando a última opção de energia para a Europa",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a60baa385f5402a8562554f.jpg",
           "link": "https://www.rt.com/africa/643336-europe-needs-african-gas/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-26T09:03:13.000Z"
         },
         {
-          "id": "rt-2026-07-26-2110-10",
+          "id": "rt-2026-07-27-10-19",
           "titulo": "O momento dos drones da Índia chegou",
-          "resumo": "A Índia está tentando dar um salto de compradora para se tornar um hub global de drones, aproveitando as lições do conflito Rússia-Ucrânia e da guerra do Irã",
+          "resumo": "A Índia está tentando dar um salto de comprador para se tornar um hub global de drones, aproveitando as lições da guerra entre Rússia e Ucrânia e da guerra com o Irã",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a658909203027133d7dc144.jpg",
           "link": "https://www.rt.com/india/643456-indias-drone-hub-iran-war-lesson/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-26T08:18:33.000Z"
         },
         {
-          "id": "rt-2026-07-26-2111-11",
-          "titulo": "Trump adia ataque ao Irã devido à escassez de mísseis – NYT",
-          "resumo": "Trump adiou a escalada de ataques ao Irã devido a preocupações de que o Pentágono está com baixos níveis de interceptores de defesa aérea, relata o NYT",
+          "id": "rt-2026-07-27-10-20",
+          "titulo": "Trump adia ataque ao Irã devido à falta de mísseis nos EUA – NYT",
+          "resumo": "Trump adiou a escalada dos ataques ao Irã devido a preocupações de que o Pentágono está com baixos estoques de interceptores de defesa aérea, relata o NYT",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a658aee85f5406e25146d26.jpg",
           "link": "https://www.rt.com/news/643481-trump-shelves-iran-strike-missile/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-26T07:39:16.000Z"
-        },
-        {
-          "id": "rt-2026-07-26-2113-12",
-          "titulo": "Rússia atinge indústria de drones em Kiev – Ministério da Defesa",
-          "resumo": "O exército russo atingiu uma fábrica de drones ucraniana ligada a uma empresa EUA-Ucrânia em Kiev, afirma o Ministério da Defesa",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a65ba6f85f5406a9416b165.jpg",
-          "link": "https://www.rt.com/russia/643482-russia-hits-drone-industry-kiev/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-26T07:28:57.000Z"
-        },
-        {
-          "id": "rt-2026-07-26-2114-13",
-          "titulo": "TPI demite procurador-chefe por alegações de conduta sexual inadequada",
-          "resumo": "O Tribunal Penal Internacional demitiu seu procurador-chefe, Karim Khan, devido a alegações de conduta sexual inadequada",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a65296685f540632f112aa2.jpg",
-          "link": "https://www.rt.com/news/643479-icc-prosecutor-sexual-abuse/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-26T04:38:53.000Z"
-        },
-        {
-          "id": "rt-2026-07-26-2115-14",
-          "titulo": "70% dos alemães não acreditam que o exército possa proteger o país – pesquisa YouGov",
-          "resumo": "Sete em cada dez alemães não acreditam que o exército é capaz de proteger o país, mostra uma pesquisa YouGov",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a655c6985f5405b1212ac2b.jpg",
-          "link": "https://www.rt.com/news/643480-germans-dont-believe-army-protect/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-26T01:07:17.000Z"
-        },
-        {
-          "id": "rt-2026-07-26-2116-15",
-          "titulo": "Suspeito de ataque a parada gay em Berlim morto – polícia",
-          "resumo": "O suspeito do ataque com veículo a uma parada gay em Berlim tem ligações com o extremismo islâmico, diz a polícia",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a65331e2030275bfa527877.jpg",
-          "link": "https://www.rt.com/news/643478-berlin-car-rams-pride-parade/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-25T21:14:55.000Z"
-        },
-        {
-          "id": "rt-2026-07-26-2117-16",
-          "titulo": "Irã condena Ucrânia por 'ataque temerário' a navio de carga",
-          "resumo": "O Irã condenou um ataque ucraniano a um navio de carga iraniano no Mar Cáspio que matou um marinheiro e feriu outro",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a65436c203027534761d469.jpg",
-          "link": "https://www.rt.com/news/643477-ukraine-attacks-iranian-vessel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-25T19:48:17.000Z"
-        },
-        {
-          "id": "rt-2026-07-26-2118-17",
-          "titulo": "A revolta contra Zelensky",
-          "resumo": "Comandantes militares, rivais políticos e Bruxelas estão fechando o cerco ao cada vez mais isolado líder ucraniano",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a64ee2a85f5405b1212abfc.jpg",
-          "link": "https://www.rt.com/russia/643475-revolt-against-zelensky/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-25T19:40:36.000Z"
-        },
-        {
-          "id": "rt-2026-07-26-2119-18",
-          "titulo": "Drones kamikaze russos atingem navios ucranianos (VÍDEOS do MOD)",
-          "resumo": "O Ministério da Defesa russo divulgou vídeos de ataques de drones kamikaze com IA a navios ucranianos",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a64f30985f540641b536359.png",
-          "link": "https://www.rt.com/russia/643476-kamikaze-drones-ukrainian-ships/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-25T17:35:08.000Z"
-        },
-        {
-          "id": "rt-2026-07-26-2120-19",
-          "titulo": "O homem mais sujo do esporte limpo fez da Rússia seu inimigo pessoal",
-          "resumo": "A World Athletics mantém atletas russos e bielorrussos banidos, enquanto Sebastian Coe rejeita um caminho condicional de volta à competição internacional",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a64b45485f540387313b987.jpg",
-          "link": "https://www.rt.com/news/643462-dirtiest-man-in-clean-sport/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-25T16:54:17.000Z"
         }
       ]
     },
