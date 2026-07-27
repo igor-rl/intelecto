@@ -5,10 +5,10 @@
   "itens_urgentes": {},
   "destaques": [],
   "capa": {
-    "categoria_nome": "Conflitos Globais e Desafios Humanitários",
-    "titulo": "Tensões no Oriente Médio e África",
-    "subtitulo": "Enquanto a guerra entre EUA e Irã dá sinais de pausa, a fome e a seca assolam a África",
-    "resumo": "O cenário geopolítico global está marcado por tensões no Oriente Médio, com a guerra entre EUA e Irã mostrando sinais de pausa após uma série de ataques. Paralelamente, a África enfrenta desafios humanitários, com a fome e a seca afetando milhares de pessoas, especialmente em países como Uganda, onde o governo iniciou a distribuição de ajuda alimentar de emergência após a morte de 19 pessoas devido à fome. Além disso, a região do Chifre da África está sob alerta devido à seca e às falhas nas colheitas, o que pode agravar a crise alimentar. Enquanto isso, a Europa também está lidando com questões de segurança, como o ataque mortal durante as celebrações do orgulho gay em Berlim, que deixou vários mortos e feridos. A Rússia e a Ucrânia continuam envolvidas em conflitos, com relatos de ataques e mortos em ambos os lados. A situação no Sudão do Sul também é de preocupação, com a aproximação das eleições e o risco de violência. Diante desses desafios, a comunidade internacional está sendo chamada a atuar para mitigar os efeitos dessas crises e promover a paz e a estabilidade global.",
+    "categoria_nome": "O que marcou o dia?",
+    "titulo": "Incêndios na Europa e conflitos globais",
+    "subtitulo": "Enquanto a Europa luta contra incêndios florestais, conflitos em várias partes do mundo dominam as manchetes",
+    "resumo": "Os incêndios florestais na França e na Espanha continuam a ser uma grande preocupação, com bombeiros lutando para controlar as chamas. Enquanto isso, conflitos em várias partes do mundo, incluindo a Ucrânia, o Oriente Médio e a África, dominam as manchetes. A retirada de financiamento para a AIDS na África também é um tema importante, com ativistas desafiando as reformas do PEPFAR. Além disso, a Austrália está acompanhando as últimas atualizações de notícias ao vivo, incluindo um tiroteio em um festival de comida em Seattle e um desafio de liderança em Victoria.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-07-27T08:00:00-03:00",
     "link": null,
@@ -1081,56 +1081,62 @@
   },
   "temas_principais": [
     {
-      "tema": "Guerra EUA-Irã",
-      "descricao": "Conflito entre EUA e Irã no Oriente Médio, com ataques e contra-ataques",
+      "tema": "Incêndios florestais na Europa",
+      "descricao": "Incêndios florestais descontrolados na França e na Espanha",
       "fontes_que_cobriram": [
         "new_york_times",
         "euronews",
-        "rt"
+        "scmp",
+        "smh"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "scmp",
-        "st"
+        "rt"
       ],
-      "divergencia_de_enquadramento": "Enquanto a New York Times destaca a posição dos EUA, a RT enfatiza a perspectiva iraniana"
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a gravidade dos incêndios e a luta dos bombeiros, enquanto a RT destaca as sanções da UE contra a Rússia como um obstáculo para o combate aos incêndios"
     },
     {
-      "tema": "Fome e seca na África",
-      "descricao": "Crise humanitária na África devido à fome e à seca",
+      "tema": "Conflitos globais",
+      "descricao": "Conflitos em várias partes do mundo, incluindo a Ucrânia, o Oriente Médio e a África",
       "fontes_que_cobriram": [
         "the_guardian",
+        "new_york_times",
+        "euronews",
+        "rt",
+        "st"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "scmp"
+      ],
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a agressão russa na Ucrânia, enquanto a RT destaca a legítima defesa da Rússia"
+    },
+    {
+      "tema": "Retirada de financiamento para a AIDS na África",
+      "descricao": "Ativistas desafiam as reformas do PEPFAR",
+      "fontes_que_cobriram": [
         "aa"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
+        "the_guardian",
         "new_york_times",
-        "euronews"
-      ],
-      "divergencia_de_enquadramento": "A Guardian e a AllAfrica destacam a gravidade da crise, enquanto outras fontes a minimizam"
-    },
-    {
-      "tema": "Ataque em Berlim",
-      "descricao": "Ataque mortal durante as celebrações do orgulho gay em Berlim",
-      "fontes_que_cobriram": [
         "euronews",
-        "st"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
+        "scmp",
         "rt",
-        "scmp"
+        "st",
+        "smh"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais destacam a violência do ataque, enquanto as fontes russas e chinesas o minimizam"
+      "divergencia_de_enquadramento": "A AllAfrica destaca a preocupação dos ativistas com a retirada de financiamento, enquanto as outras fontes não cobrem o tema"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Sudão do Sul",
-      "por_que_importa": "Aproximação das eleições e risco de violência",
-      "cobertura": "Apenas a AllAfrica cobriu o tema, enquanto outras fontes o ignoraram"
+      "tema": "Desafio de liderança em Victoria",
+      "por_que_importa": "Um desafio de liderança em Victoria pode ter implicações para a política australiana",
+      "cobertura": "Apenas o SMH cobriu o tema"
     },
     {
-      "tema": "Conflito Rússia-Ucrânia",
-      "por_que_importa": "Continuação do conflito e relatos de ataques e mortos",
-      "cobertura": "Apenas a RT e a Moscow Times cobriram o tema, enquanto outras fontes o minimizam"
+      "tema": "Tiroteio em um festival de comida em Seattle",
+      "por_que_importa": "Um tiroteio em um festival de comida em Seattle é um tema importante de segurança pública",
+      "cobertura": "Apenas o SMH cobriu o tema"
     }
   ]
 }
