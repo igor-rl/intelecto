@@ -5,12 +5,12 @@
   "itens_urgentes": {},
   "destaques": [],
   "capa": {
-    "categoria_nome": "O que marcou o dia?",
-    "titulo": "Tensões Globais: Conflitos e Desafios",
-    "subtitulo": "Análise das principais notícias do dia, com foco em conflitos, política e desafios globais",
-    "resumo": "O dia foi marcado por uma série de notícias que refletem as tensões globais atuais. A guerra entre EUA e Irã parece ter pausado, mas as preocupações sobre a segurança no Oriente Médio persistem. Enquanto isso, a Rússia busca reforçar sua presença na Ucrânia, e a Europa enfrenta desafios em relação à imigração e à segurança energética. Além disso, a África enfrenta problemas de saúde pública, como o surto de ebola, e a Ásia está atenta às negociações sobre o comércio e a segurança. Neste contexto, é fundamental entender as diferentes perspectivas e enquadramentos que cada bloco de imprensa oferece sobre esses temas.",
+    "categoria_nome": "Conflitos Globais e Desafios Humanitários",
+    "titulo": "Tensões no Oriente Médio e África",
+    "subtitulo": "Enquanto a guerra entre EUA e Irã dá sinais de pausa, a fome e a seca assolam a África",
+    "resumo": "O cenário geopolítico global está marcado por tensões no Oriente Médio, com a guerra entre EUA e Irã mostrando sinais de pausa após uma série de ataques. Paralelamente, a África enfrenta desafios humanitários, com a fome e a seca afetando milhares de pessoas, especialmente em países como Uganda, onde o governo iniciou a distribuição de ajuda alimentar de emergência após a morte de 19 pessoas devido à fome. Além disso, a região do Chifre da África está sob alerta devido à seca e às falhas nas colheitas, o que pode agravar a crise alimentar. Enquanto isso, a Europa também está lidando com questões de segurança, como o ataque mortal durante as celebrações do orgulho gay em Berlim, que deixou vários mortos e feridos. A Rússia e a Ucrânia continuam envolvidas em conflitos, com relatos de ataques e mortos em ambos os lados. A situação no Sudão do Sul também é de preocupação, com a aproximação das eleições e o risco de violência. Diante desses desafios, a comunidade internacional está sendo chamada a atuar para mitigar os efeitos dessas crises e promover a paz e a estabilidade global.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-07-26T08:00:00-03:00",
+    "publicado_em": "2026-07-27T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -985,55 +985,56 @@
   },
   "temas_principais": [
     {
-      "tema": "Conflito EUA-Irã",
-      "descricao": "Análise das notícias sobre o conflito entre EUA e Irã, incluindo a pausa nos ataques aéreos e as implicações para a região.",
+      "tema": "Guerra EUA-Irã",
+      "descricao": "Conflito entre EUA e Irã no Oriente Médio, com ataques e contra-ataques",
       "fontes_que_cobriram": [
         "new_york_times",
         "euronews",
         "rt"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian"
+        "scmp",
+        "st"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar a ameaça iraniana, enquanto as fontes russas e chinesas destacam a agressividade dos EUA."
+      "divergencia_de_enquadramento": "Enquanto a New York Times destaca a posição dos EUA, a RT enfatiza a perspectiva iraniana"
     },
     {
-      "tema": "Guerra na Ucrânia",
-      "descricao": "Análise das notícias sobre a guerra na Ucrânia, incluindo as negociações de paz e as manobras militares.",
+      "tema": "Fome e seca na África",
+      "descricao": "Crise humanitária na África devido à fome e à seca",
       "fontes_que_cobriram": [
-        "scmp",
-        "mt",
+        "the_guardian",
+        "aa"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "new_york_times",
+        "euronews"
+      ],
+      "divergencia_de_enquadramento": "A Guardian e a AllAfrica destacam a gravidade da crise, enquanto outras fontes a minimizam"
+    },
+    {
+      "tema": "Ataque em Berlim",
+      "descricao": "Ataque mortal durante as celebrações do orgulho gay em Berlim",
+      "fontes_que_cobriram": [
+        "euronews",
         "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "aa"
+        "rt",
+        "scmp"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais tendem a apoiar a Ucrânia, enquanto as fontes russas defendem a posição de Moscou."
-    },
-    {
-      "tema": "Saúde Pública",
-      "descricao": "Análise das notícias sobre a saúde pública, incluindo o surto de ebola e a varicela.",
-      "fontes_que_cobriram": [
-        "the_guardian",
-        "euronews",
-        "aa"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "new_york_times"
-      ],
-      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar a resposta humanitária, enquanto as fontes africanas destacam a necessidade de apoio local."
+      "divergencia_de_enquadramento": "As fontes ocidentais destacam a violência do ataque, enquanto as fontes russas e chinesas o minimizam"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Crise na Venezuela",
-      "por_que_importa": "A crise na Venezuela tem implicações regionais e globais, incluindo a migração e a segurança energética.",
-      "cobertura": "A cobertura foi limitada, com apenas algumas fontes mencionando o tema."
+      "tema": "Sudão do Sul",
+      "por_que_importa": "Aproximação das eleições e risco de violência",
+      "cobertura": "Apenas a AllAfrica cobriu o tema, enquanto outras fontes o ignoraram"
     },
     {
-      "tema": "Eleições na África",
-      "por_que_importa": "As eleições na África têm implicações para a democracia e a estabilidade no continente.",
-      "cobertura": "A cobertura foi escassa, com apenas algumas fontes mencionando as eleições."
+      "tema": "Conflito Rússia-Ucrânia",
+      "por_que_importa": "Continuação do conflito e relatos de ataques e mortos",
+      "cobertura": "Apenas a RT e a Moscow Times cobriram o tema, enquanto outras fontes o minimizam"
     }
   ]
 }
