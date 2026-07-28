@@ -115,196 +115,159 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-07-27T21:00:00.895Z",
+      "gerado_em": "2026-07-28T10:00:00.917Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-07-27-2101",
-          "titulo": "Calor dos incêndios na França cria uma 'nuvem de fogo', ou pirrocumulonimbus",
-          "resumo": "Um pirrocumulonimbus — uma nuvem de tempestade criada pelo calor intenso — é um fenômeno que pode acender novos incêndios e é 'sem precedentes na França', disseram os funcionários.",
+          "id": "new_york_times-2026-07-28-1001",
+          "titulo": "Trump Apoia Novas Negociações com o Irã, mas é Incerto o que Ele Espera Alcançar Desta Vez",
+          "resumo": "O Irã negou a afirmação do presidente Trump de que deseja negociar, e não deu nenhum sinal de que faria concessões ou se comunicaria diretamente com funcionários dos EUA.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/27/world/europe/pyrocumulonimbus-fire-cloud-france-wildfires.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-07-27T16:04:03.000Z"
+          "link": "https://www.nytimes.com/2026/07/27/us/politics/trump-iran-talks-negotiations.html",
+          "publicado_em": "2026-07-28T09:29:10.000Z"
         },
         {
-          "id": "new_york_times-2026-07-27-2102",
-          "titulo": "Fumaça de incêndios sufoca os céus na Espanha e na França",
-          "resumo": "Centenas de milhares de pessoas foram forçadas a evacuar ou instruídas a se abrigar dentro.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-07-27T12:48:09.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-27-2103",
-          "titulo": "O Congresso orçou bilhões para grandes projetos de trânsito. Trump não está gastando.",
-          "resumo": "“É difícil olhar para o último ano e ver algo além de uma desaceleração deliberada dessas subvenções.”",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/27/upshot/transit-projects-trump.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-07-27T16:35:32.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-27-2104",
-          "titulo": "Comey busca a dispensa de acusações que o acusam de ameaçar Trump",
-          "resumo": "O arquivo se concentrou na questão de se uma fotografia de conchas dispostas para ler '86 47' constituía uma ameaça real sob a lei federal.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/27/us/politics/comey-seeks-dismissal-of-charges.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-07-27T19:07:24.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-27-2105",
-          "titulo": "Caso será arquivado contra o líder trabalhista David Huerta em uma invasão de imigração em Los Angeles",
-          "resumo": "A prisão de David Huerta no verão passado ajudou a desencadear uma onda de protestos contra a repressão imigratória da administração Trump.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/27/us/david-huerta-charges-dismiss-la-immigration-raids.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-07-27T20:21:19.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-27-2106",
-          "titulo": "Um progressista pode vencer em um estado roxo? Abdul El-Sayed quer descobrir.",
-          "resumo": "A primária de 4 de agosto em Michigan é um front crítico na luta entre as alas progressista e moderada dos democratas e um vislumbre da primária presidencial de 2028.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/27/us/politics/el-sayed-michigan-senate.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-07-27T09:05:26.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-27-2107",
-          "titulo": "McConnell estende licença do Senado, perderá piquenique do estado",
-          "resumo": "Um novo comunicado disse que o senador não foi 'medicamente liberado' para deixar uma instalação de reabilitação e perderia um evento político do Kentucky.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/27/us/politics/mcconnell-extends-senate-leave-update.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-07-27T18:02:25.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-27-2108",
-          "titulo": "Como a Meta conseguiu tudo o que queria em um acordo secreto de centro de dados na Louisiana",
-          "resumo": "Um exame do The Times detalha como o gigante do Vale do Silício usou conversas privadas com funcionários locais para iniciar um projeto grande o suficiente para cobrir quase seis milhas quadradas.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-07-27T19:54:45.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-27-2109",
-          "titulo": "5 coisas a saber sobre o grande centro de dados da Meta na Louisiana",
-          "resumo": "A estrada para o grande projeto foi pavimentada com reuniões secretas e um plano de construção em constante expansão.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/27/business/meta-data-center-louisiana-takeaways.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-07-27T14:13:22.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-27-2110",
-          "titulo": "Trump esvaziou o Centro Kennedy. Um guia de turismo quer que você o veja de qualquer forma.",
-          "resumo": "Em uma demonstração obstinada de amor por uma instituição de Washington, Sandy Weiswasser está entre algumas dezenas de voluntários que ainda mostram a um número cada vez menor de visitantes um prédio oco.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/27/us/politics/kennedy-center-trump.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-07-27T13:28:10.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-27-2111",
-          "titulo": "A guerra com o Irã entra no 6º mês e em um período de maior incerteza",
+          "id": "new_york_times-2026-07-28-1002",
+          "titulo": "Guerra com o Irã Entra no 6º Mês e em um Período de Maior Incerteza",
           "resumo": "Aqui está um resumo dos principais eventos da guerra, à medida que ambos os lados consideram seus próximos passos.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/27/us/politics/iran-war-timeline.html",
-          "fonte": "The New York Times",
           "publicado_em": "2026-07-27T20:20:41.000Z"
         },
         {
-          "id": "new_york_times-2026-07-27-2112",
-          "titulo": "Como os Houthis apoiados pelo Irã encurralaram a Arábia Saudita em um novo conflito",
-          "resumo": "A milícia Houthi apoiada pelo Irã no Iêmen aproveitou um momento vulnerável para a Arábia Saudita vizinha. O grupo espera forçar concessões políticas no Iêmen.",
+          "id": "new_york_times-2026-07-28-1003",
+          "titulo": "Incêndios Florestais Massivos se Aproximam de Madri",
+          "resumo": "Madri está em alta, cultural e economicamente, mas os incêndios florestais que ardem a uma curta distância da capital forneceram um cheque de realidade.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/27/world/middleeast/houthis-saudi-arabia-iran-war.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-07-27T20:45:41.000Z"
+          "link": "https://www.nytimes.com/2026/07/28/world/europe/spain-wildfires-madrid.html",
+          "publicado_em": "2026-07-28T04:01:36.000Z"
         },
         {
-          "id": "new_york_times-2026-07-27-2113",
-          "titulo": "Bryan Kohberger, condenado nos assassinatos na faculdade de Idaho, busca retirar sua confissão",
-          "resumo": "Em uma entrevista da prisão, Bryan Kohberger disse que havia apresentado um pedido para reabrir o caso. Ele culpou sua confissão por 'promessas falsas' e informações erradas.",
+          "id": "new_york_times-2026-07-28-1004",
+          "titulo": "À Medida que as Comunidades se Unem Contra os Incêndios Florestais da Europa, Políticos Trocam Golpes",
+          "resumo": "A esquerda do centro da Espanha acusou os conservadores de subfinanciar a resposta ao desastre, enquanto críticos do governo da França deploraram atrasos.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/27/us/bryan-kohberger-idaho-college-deaths.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-07-27T20:18:31.000Z"
+          "link": "https://www.nytimes.com/2026/07/27/world/europe/europe-wildfires-politician-response.html",
+          "publicado_em": "2026-07-27T19:36:33.000Z"
         },
         {
-          "id": "new_york_times-2026-07-27-2114",
-          "titulo": "Devemos tornar o Horário de Verão permanente?",
-          "resumo": "Mais luz no final do dia vem com um preço: nasceres de sol muito mais tardios no inverno em grande parte dos EUA. Cientistas documentaram consequências para a saúde pública e a economia.",
+          "id": "new_york_times-2026-07-28-1005",
+          "titulo": "Em Meio aos Incêndios Florestais na França, Alguns Moradores Ajudam os Bombeiros a Conter as Chamas",
+          "resumo": "Com os bombeiros esticados ao limite, voluntários se colocaram em risco, usando tanques de água, mangueiras e tratores para segurar as chamas de vilas e fazendas no sudoeste da França.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/27/science/daylight-saving-time-health-safety.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-07-27T18:15:02.000Z"
+          "link": "https://www.nytimes.com/2026/07/27/world/europe/residents-farmers-firefighters-france-wildfires.html",
+          "publicado_em": "2026-07-27T16:52:12.000Z"
         },
         {
-          "id": "new_york_times-2026-07-27-2115",
-          "titulo": "A Apple reconquista o posto de empresa mais valiosa, superando a Nvidia",
-          "resumo": "A empresa ultrapassou a fabricante de chips Nvidia, em meio a crescentes preocupações com os custos associados ao boom da inteligência artificial.",
+          "id": "new_york_times-2026-07-28-1006",
+          "titulo": "Trump Culpa Problemas de Acessibilidade em Biden em Discurso em Michigan",
+          "resumo": "O presidente também assegurou aos apoiadores que as negociações para encerrar a guerra no Irã, um conflito que enviou os preços de combustível e energia às alturas, continuam de forma \"amigável\".",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/27/technology/apple-valuation.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-07-27T20:34:32.000Z"
+          "link": "https://www.nytimes.com/2026/07/27/us/politics/trump-michigan-speech-tariffs.html",
+          "publicado_em": "2026-07-27T23:13:13.000Z"
         },
         {
-          "id": "new_york_times-2026-07-27-2116",
-          "titulo": "Mesmo as potências da IA da China não conseguem descobrir como lucrar com a IA",
-          "resumo": "Os modelos de IA chineses estão ganhando terreno. Mas as empresas por trás deles não têm uma estratégia clara para lucrar com esse sucesso.",
+          "id": "new_york_times-2026-07-28-1007",
+          "titulo": "Comey Procura Descartar Acusações que o Acusam de Ameaçar Trump",
+          "resumo": "O arquivo se concentrou na questão de se uma fotografia de conchas dispostas para ler \"86 47\" constituía uma ameaça real sob a lei federal.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/27/business/china-ai-alibaba-bytedance.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-07-27T15:41:16.000Z"
+          "link": "https://www.nytimes.com/2026/07/27/us/politics/comey-seeks-dismissal-of-charges.html",
+          "publicado_em": "2026-07-27T19:07:24.000Z"
         },
         {
-          "id": "new_york_times-2026-07-27-2117",
-          "titulo": "Por que reiniciar uma usina nuclear pode ser muito mais difícil do que o esperado",
-          "resumo": "A primeira tentativa dos EUA de reabrir um reator fechado foi retardada por equipamentos desgastados e falta de planejamento.",
+          "id": "new_york_times-2026-07-28-1008",
+          "titulo": "Caso Contra Líder Trabalhista David Huerta em Raide de Imigração em Los Angeles Será Descartado",
+          "resumo": "A prisão de David Huerta no verão passado ajudou a desencadear uma onda de protestos contra a ofensiva de imigração da administração Trump.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/27/business/energy-environment/nuclear-power-palisades-michigan.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-07-27T19:11:28.000Z"
+          "link": "https://www.nytimes.com/2026/07/27/us/david-huerta-charges-dismiss-la-immigration-raids.html",
+          "publicado_em": "2026-07-27T20:21:19.000Z"
         },
         {
-          "id": "new_york_times-2026-07-27-2118",
-          "titulo": "A Paramount está apostando que Johnny Depp pode fazer um retorno com 'Ebenezer: Um Conto de Natal'",
-          "resumo": "A Paramount está apostando que o público reabraçará a estrela uma década após alegações de abuso doméstico e um julgamento por difamação.",
+          "id": "new_york_times-2026-07-28-1009",
+          "titulo": "Zelensky e Trump se Encontrarão na Casa Branca. Sua Relação Aqueceu?",
+          "resumo": "O presidente Trump se encontrará com seu homólogo ucraniano em Washington esta semana. O presidente Volodymyr Zelensky também participará do funeral do senador Lindsey Graham.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/27/movies/johnny-depp-ebenezer-a-christmas-carol-paramount.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-07-27T09:00:42.000Z"
+          "link": "https://www.nytimes.com/2026/07/28/world/europe/zelensky-trump-meeting-ukraine-war-russia.html",
+          "publicado_em": "2026-07-28T08:00:38.000Z"
         },
         {
-          "id": "new_york_times-2026-07-27-2119",
-          "titulo": "Quer um melhor sistema alimentar? Use o manual anti-tabaco.",
-          "resumo": "Um processo de um adolescente contra a indústria alimentícia nos mostra o caminho para um melhor sistema alimentar.",
+          "id": "new_york_times-2026-07-28-1011",
+          "titulo": "Ele Serviu ao Estado Policial da China em Xinjiang. Ele Diz que Foi Preso também.",
+          "resumo": "Depois de quase 10 anos aplicando a repressão do governo chinês em Xinjiang, um ex-oficial de polícia agora busca asilo na Alemanha.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/27/opinion/ultraprocessed-food-lawsuit.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-07-27T09:00:33.000Z"
+          "link": "https://www.nytimes.com/2026/07/28/business/china-uyghurs.html",
+          "publicado_em": "2026-07-28T04:01:20.000Z"
         },
         {
-          "id": "new_york_times-2026-07-27-2120",
-          "titulo": "Se você acha que a detenção do ICE é ruim agora, a privatização a tornará pior",
-          "resumo": "A administração Trump tem um problema de moradia.",
+          "id": "new_york_times-2026-07-28-1012",
+          "titulo": "Fauci, em Diário Privado, Refletiu sobre as Origens da Covid e Sua Própria Fama",
+          "resumo": "Entradas privadas, divulgadas por um senador republicano, reacenderam um debate furioso sobre se a Covid-19 vazou de um laboratório.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/27/opinion/ice-immigration-detention-privatization.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-07-27T18:42:35.000Z"
+          "link": "https://www.nytimes.com/2026/07/27/us/politics/fauci-in-private-diary-reflected-on-covids-origins-and-his-own-fame.html",
+          "publicado_em": "2026-07-28T03:31:06.000Z"
         },
         {
-          "id": "new_york_times-2026-07-27-2121",
-          "titulo": "A doença dos Legionários fez de Nova York sua casa. Aqui está como.",
-          "resumo": "Nova York sofreu surtos significativos nos últimos anos. Alguns especialistas dizem que os funcionários devem se concentrar mais nos riscos nos sistemas de encanamento, até mesmo em cabeças de chuveiro.",
+          "id": "new_york_times-2026-07-28-1013",
+          "titulo": "6 Pontos Principais do Debate do Senado em Michigan entre Abdul El-Sayed e Haley Stevens",
+          "resumo": "No último debate antes das primárias democráticas da semana que vem para o Senado, o Dr. Abdul El-Sayed e a representante Haley Stevens mostraram suas posições ideológicas e estilos políticos muito diferentes.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/27/nyregion/nyc-legionnaires-disease-epicenter.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-07-27T18:30:19.000Z"
+          "link": "https://www.nytimes.com/2026/07/27/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate-takeaways.html",
+          "publicado_em": "2026-07-28T02:43:31.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-28-1014",
+          "titulo": "Trump Pede à Suprema Corte que Permita Ordem que Restringe o Voto por Correio",
+          "resumo": "A administração Trump pede que os juízes intervenham após um tribunal de apelações bloquear partes-chave de uma ordem executiva de voto por correio.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/27/us/politics/supreme-court-trump-mail-ballots.html",
+          "publicado_em": "2026-07-27T22:17:18.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-28-1015",
+          "titulo": "Ações de Tecnologia Caem devido a Preocupações com Gastos em IA e Concorrência de Chips da China",
+          "resumo": "A Coreia do Sul suspendeu temporariamente as negociações na terça-feira, à medida que seu índice de ações líder fechou mais de 10% mais baixo, liderando as perdas na região.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/28/business/stocks-ai-chips.html",
+          "publicado_em": "2026-07-28T09:40:32.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-28-1016",
+          "titulo": "Polícia de Seattle Procura por 3º Atirador em Tiroteio Mortal em Festival de Comida",
+          "resumo": "Um suspeito de 15 anos estava sob custódia, e documentos disseram que um segundo atirador foi morto no local. A polícia estava procurando por pelo menos um suspeito no ataque que deixou três mortos.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/27/us/seattle-food-festival-shooting.html",
+          "publicado_em": "2026-07-28T01:32:41.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-28-1018",
+          "titulo": "Mamdani’s Netanyahu Stunt Foi um Desperdício de Seu Talento e do Nosso Tempo",
+          "resumo": "E se Mamdani realmente quisesse ser um construtor de pontes entre israelenses e palestinos, um papel para o qual ele tem a capacidade e o talento únicos?",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/28/opinion/mamdani-netanyahu-stunt-israel.html",
+          "publicado_em": "2026-07-28T09:03:15.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-28-1019",
+          "titulo": "O Partido Democrata Precisa de Mudanças",
+          "resumo": "Ben Wikler, um ex-presidente do partido estadual, acredita que o Partido Democrata precisa se reinventar.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/28/opinion/ezra-klein-podcast-ben-wikler.html",
+          "publicado_em": "2026-07-28T09:41:05.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-28-1020",
+          "titulo": "Late Night Satiriza a Tentativa de Comédia do Presidente Trump",
+          "resumo": "“E vamos dizer que o Irã não é a única coisa que ele bombardeou”, disse Seth Meyers sobre a performance do presidente no jantar dos correspondentes da Casa Branca.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/28/arts/television/late-night-trump-white-house-correspondents-dinner.html",
+          "publicado_em": "2026-07-28T06:27:09.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-28-1021",
+          "titulo": "Danos de Tornado Relatados em Wisconsin à Medida que Tempestades Desencadeiam Chuva Pesada e Ventos",
+          "resumo": "Previsores alertaram que mais tempestades eram esperadas até a noite, estendendo-se por todo o Meio-Oeste.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/27/weather/chicago-wisconsin-tornadoes-forecast.html",
+          "publicado_em": "2026-07-28T05:09:14.000Z"
         }
       ]
     },
