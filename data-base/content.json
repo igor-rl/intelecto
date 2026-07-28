@@ -260,103 +260,127 @@
     "euronews": {
       "slug": "euronews",
       "nome": "Euro News",
-      "gerado_em": "2026-07-28T10:00:23.746Z",
+      "gerado_em": "2026-07-28T21:00:22.673Z",
       "artigos": [
         {
-          "id": "euronews-2026-07-28-01",
-          "titulo": "O timing da guerra e da paz não é para você decidir, Irã diz a EUA",
-          "resumo": "O ministério das Relações Exteriores de Teerã disse que o Irã não permitirá que Washington determine \"o timing da guerra e da paz,\" como Trump afirmou que a República Islâmica havia solicitado negociações e mediadores buscavam revisar...",
+          "id": "euronews-2026-07-28-2101",
+          "titulo": "Keiko Fujimori assume o cargo de presidente do Peru, prometendo acabar com a década de instabilidade",
+          "resumo": "A líder da Força Popular se torna a primeira presidente feminina do Peru, retornando o fujimorismo ao poder após 26 anos. Ela deve fazer seu discurso de posse e anunciar seu gabinete.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/28/keiko-fujimori-takes-office-as-perus-president-vowing-to-end-decade-of-instability",
+          "publicado_em": "2026-07-28T19:57:52.000Z"
+        },
+        {
+          "id": "euronews-2026-07-28-2102",
+          "titulo": "Trump e Netanyahu realizam primeira reunião presencial desde sua 'discordância' sobre a guerra no Irã",
+          "resumo": "A reunião foi a oitava entre Trump e Netanyahu desde que o presidente dos EUA retornou ao cargo no início de 2025 e ocorreu antes das eleições em Israel e dos meio-períodos nos EUA mais tarde este ano.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/28/trump-and-netanyahu-hold-first-face-to-face-talks-since-their-disagreement-on-the-iran-war",
+          "publicado_em": "2026-07-28T18:12:30.000Z"
+        },
+        {
+          "id": "euronews-2026-07-28-2104",
+          "titulo": "Zelenskyy se reúne com Trump na Casa Branca enquanto a Ucrânia busca mais apoio dos EUA",
+          "resumo": "Desde que retornou ao poder no início do ano passado, Trump interrompeu as entregas diretas de armas dos EUA para Kiev em favor de um programa que permite que os países europeus comprem armas para a Ucrânia.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/28/zelenskyy-meets-trump-at-white-house-as-ukraine-seeks-more-us-support",
+          "publicado_em": "2026-07-28T15:55:54.000Z"
+        },
+        {
+          "id": "euronews-2026-07-28-2105",
+          "titulo": "Gravações de áudio aparentemente mostram Biden discutindo informações classificadas com seu ghostwriter",
+          "resumo": "Biden tinha 74 anos quando as entrevistas começaram e 81 quando Hur lançou seu relatório no início de 2024, enquanto buscava a reeleição.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/28/audio-recordings-appear-to-show-biden-discussing-classified-information-with-his-ghostwrit",
+          "publicado_em": "2026-07-28T15:15:30.000Z"
+        },
+        {
+          "id": "euronews-2026-07-28-2106",
+          "titulo": "Equipes de resgate evacuam aldeias inundadas em Sheikhupura, no Paquistão",
+          "resumo": "Equipes de resgate evacuam moradores de barco em Sheikhupura, no Paquistão, após inundações causadas por monções submergirem casas e deixarem comunidades sem suprimentos básicos.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/28/rescue-teams-evacuate-flooded-villages-in-sheikhupura-pakistan",
+          "publicado_em": "2026-07-28T14:14:13.000Z"
+        },
+        {
+          "id": "euronews-2026-07-28-2107",
+          "titulo": "Alerta de tsunami após terremoto poderoso no sudoeste do Japão",
+          "resumo": "O Japão emitiu um alerta de tsunami após um terremoto de magnitude 7,1 atingir Kyushu, danificando edifícios, cortando a energia e desencadeando esforços de resposta de emergência.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/28/tsunami-alert-follows-powerful-earthquake-in-southwest-japan",
+          "publicado_em": "2026-07-28T12:40:56.000Z"
+        },
+        {
+          "id": "euronews-2026-07-28-2108",
+          "titulo": "Imagens aéreas mostram incêndios florestais se espalhando pela região de Madrid, na Espanha",
+          "resumo": "Bombeiros lutam para conter incêndios florestais na região de Madrid, na Espanha, com aeronaves de combate a incêndios despachadas para apagar a área e reduzir o calor e a seca extremos que alimentam as chamas.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/28/aerial-footage-shows-wildfires-spreading-across-spains-madrid-region",
+          "publicado_em": "2026-07-28T12:10:59.000Z"
+        },
+        {
+          "id": "euronews-2026-07-28-2109",
+          "titulo": "Muitos temem que haja mortos após terremoto deixar compradores presos em shopping center japonês",
+          "resumo": "A polícia recebeu relatos de uma explosão no outlet do Aeon Mall na região de Kumamoto, mas a força não forneceu informações sobre danos ou vítimas.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/28/tsunami-warning-lifted-in-southern-japan-after-71-quake",
+          "publicado_em": "2026-07-28T11:56:38.000Z"
+        },
+        {
+          "id": "euronews-2026-07-28-2110",
+          "titulo": "Comunidade de Berlim lembra vítimas do ataque ao desfile do orgulho",
+          "resumo": "Berlineses deixam flores, velas e mensagens no memorial do Tiergarten após um ataque mortal com veículo e faca perto do desfile do orgulho.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/28/berlin-community-remembers-victims-of-pride-parade-attack",
+          "publicado_em": "2026-07-28T11:19:23.000Z"
+        },
+        {
+          "id": "euronews-2026-07-28-2113",
+          "titulo": "O timing da guerra e da paz não é seu para decidir, diz o Irã aos EUA",
+          "resumo": "O ministério das Relações Exteriores de Teerã disse que o Irã não permitirá que Washington determine \"o timing da guerra e da paz\", como Trump alegou que a República Islâmica havia solicitado negociações e mediadores buscavam revisar...",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/28/the-timing-of-war-and-peace-is-not-yours-to-decide-iran-tells-us",
           "publicado_em": "2026-07-28T09:43:49.000Z"
         },
         {
-          "id": "euronews-2026-07-28-02",
-          "titulo": "Incêndio na França: moradores apagam brasas com água após incêndio destruir 170 casas em Le Porge",
-          "resumo": "Moradores em Le Porge, na região de Gironde, no sudoeste da França, trabalham para evitar que um incêndio devastador se reacenda, pulverizando água sobre brasas incandescentes na floresta. O incêndio destruiu pelo menos...",
+          "id": "euronews-2026-07-28-2114",
+          "titulo": "Incêndio florestal na França: moradores regam brasas com água após incêndio destruir 170 casas em Le Porge",
+          "resumo": "Moradores em Le Porge, na região de Gironde, no sudoeste da França, trabalham para evitar que um incêndio florestal devastador se reacenda, pulverizando água sobre brasas em chamas. O incêndio destruiu pelo menos 170 casas.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/28/france-wildfire-residents-douse-embers-with-water-after-blaze-destroys-170-homes-in-le-por",
           "publicado_em": "2026-07-28T09:28:36.000Z"
         },
         {
-          "id": "euronews-2026-07-28-03",
-          "titulo": "Irã executa publicamente dois manifestantes de Isfahan, apesar de apelos da ONU para parar",
-          "resumo": "Dois manifestantes foram executados publicamente em Isfahan na manhã de terça-feira, elevando o total para quatro mortes entre 12 condenados no mesmo caso, após especialistas da ONU condenarem confissões forçadas e julgamentos fechados...",
+          "id": "euronews-2026-07-28-2115",
+          "titulo": "Irã executa publicamente dois manifestantes em Isfahan, apesar de apelos da ONU para parar",
+          "resumo": "Dois manifestantes foram executados publicamente em Isfahan na terça-feira de manhã, elevando o total para quatro mortes entre as 12 sentenças no mesmo caso, após especialistas da ONU condenarem confissões forçadas e julgamentos fechados.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/28/iran-publicly-executes-two-isfahan-protesters-despite-un-calls-to-stop",
           "publicado_em": "2026-07-28T08:44:56.000Z"
         },
         {
-          "id": "euronews-2026-07-28-04",
-          "titulo": "Trípoli explode em protestos por cortes de energia com pedidos para derrubar o governo",
-          "resumo": "Manifestantes bloquearam estradas, fecharam instituições estatais e selaram prédios do governo, enquanto as temperaturas atingiram até 50 graus Celsius e os cortes de energia diários se estenderam por 14 horas. Os protestos se espalharam rapidamente...",
+          "id": "euronews-2026-07-28-2116",
+          "titulo": "Trípoli explode em protestos devido a cortes de energia com pedidos para derrubar o governo",
+          "resumo": "Manifestantes bloquearam estradas, fecharam instituições estatais e selaram prédios do governo, enquanto as temperaturas atingiram até 50 graus Celsius e os cortes diários de energia se estenderam por 14 horas. Os protestos se espalharam rapidamente.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/28/tripoli-erupts-in-protests-over-power-cuts-with-calls-to-topple-government",
           "publicado_em": "2026-07-28T08:08:32.000Z"
         },
         {
-          "id": "euronews-2026-07-28-05",
+          "id": "euronews-2026-07-28-2117",
           "titulo": "Casa Branca se prepara para negociações de alto risco com Zelenskyy e Netanyahu",
-          "resumo": "As reuniões mostrarão o equilíbrio da política externa de Washington, enquanto tenta mediar a paz na Ucrânia, apesar de ser a instigadora de ações militares no Oriente Médio.",
+          "resumo": "As reuniões mostrarão o equilíbrio da política externa de Washington, enquanto tenta intermediar a paz na Ucrânia, apesar de ser o instigador da ação militar no Oriente Médio.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/28/white-house-prepares-for-high-stakes-talks-with-zelenskyy-and-netanyahu",
           "publicado_em": "2026-07-28T06:59:34.000Z"
         },
         {
-          "id": "euronews-2026-07-28-06",
-          "titulo": "Ucrânia mantém ataques de longo alcance em instalações de exportação e petróleo russas, aumentando pressão sobre Moscou",
-          "resumo": "O presidente ucraniano Volodymyr Zelenskyy disse que suas forças atacaram um terminal de exportação na região ocidental de Rostov, bem como instalações de petróleo nas regiões de Yaroslavl e Udmúrtia, longe da linha de frente...",
+          "id": "euronews-2026-07-28-2121",
+          "titulo": "Ucrânia continua ataques de longo alcance a instalações de exportação e petróleo russas, aumentando a pressão sobre Moscou",
+          "resumo": "O presidente ucraniano Volodymyr Zelenskyy disse que suas forças atacaram um terminal de exportação na região ocidental de Rostov, bem como instalações de petróleo nas regiões de Yaroslavl e Udmúrtia, longe da linha de frente.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/27/ukraine-keeps-up-long-range-strikes-on-russian-export-and-oil-facilities-as-pressure-on-mo",
           "publicado_em": "2026-07-27T19:54:07.000Z"
-        },
-        {
-          "id": "euronews-2026-07-28-07",
-          "titulo": "Incêndios na Espanha deixam destruição em toda a província de Ávila",
-          "resumo": "Bombeiros combatem incêndios na região central da Espanha, enquanto casas queimadas, carros e paisagens queimadas revelam a devastação em toda a província de Ávila.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/07/27/spain-wildfires-leave-destruction-across-avila-province",
-          "publicado_em": "2026-07-27T15:12:38.000Z"
-        },
-        {
-          "id": "euronews-2026-07-28-08",
-          "titulo": "Presidente eleito da Colômbia fechará embaixadas em três países europeus como parte de uma reforma diplomática",
-          "resumo": "Abelardo de la Espriella disse que cortará laços diplomáticos com Havana e Manágua e fechará 15 consulados e 14 embaixadas para reduzir custos e fortalecer a segurança. O presidente eleito será empossado em...",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/27/colombias-president-elect-to-close-embassies-in-three-european-countries-in-diplomatic-ove",
-          "publicado_em": "2026-07-27T15:03:38.000Z"
-        },
-        {
-          "id": "euronews-2026-07-28-09",
-          "titulo": "Rabis visitam emir do Catar para prestar condolências em demonstração de laços inter-religiosos",
-          "resumo": "Após uma reunião com o emir do Catar, o rabino Mendy Chitrik, da Aliança de Rabis em Estados Islâmicos, disse que a delegação se sentiu calorosamente recebida e pediu por mais diálogo para fortalecer os laços muçulmano-judaicos...",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/27/rabbis-visit-qatars-emir-for-condolences-in-show-of-interfaith-bonds",
-          "publicado_em": "2026-07-27T14:49:13.000Z"
-        },
-        {
-          "id": "euronews-2026-07-28-10",
-          "titulo": "EUA e Irã suspendem fogo por terceira noite consecutiva, enquanto negociações recebem 'espaço'",
-          "resumo": "Houve 13 noites consecutivas de ataques dos EUA ao Irã, que o Exército dos EUA disse visar \"degradar a capacidade do Irã de ameaçar o transporte marítimo comercial no Estreito de Ormuz.\"",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/27/us-and-iran-hold-fire-for-third-night-as-talks-given-space",
-          "publicado_em": "2026-07-27T07:09:42.000Z"
-        },
-        {
-          "id": "euronews-2026-07-28-11",
-          "titulo": "10 mortos e quase duas dúzias de feridos após inundações repentinas atingirem local turístico no noroeste da China",
-          "resumo": "Alertas de tempo severo foram enviados a muitas áreas da região, à medida que o tufão Noul fez landfall no domingo.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/27/10-killed-and-close-to-two-dozen-injured-after-flash-floods-hit-tourist-site-in-northweste",
-          "publicado_em": "2026-07-27T04:49:15.000Z"
-        },
-        {
-          "id": "euronews-2026-07-28-12",
-          "titulo": "Ucrânia responde enquanto presidente do Cazaquistão, Tokayev, pede a Putin para congelar a guerra na Ucrânia",
-          "resumo": "O presidente do Cazaquistão, Kassym-Jomart Tokayev, pediu a Vladimir Putin em uma reunião cara a cara para congelar a guerra na Ucrânia e retornar às negociações, pois \"é uma vergonha, jovens estão morrendo\". O Ministério das Relações Exteriores da Ucrânia respondeu...",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/26/ukraine-responds-as-kazakh-president-tokayev-urges-putin-to-freeze-the-war-in-ukraine",
-          "publicado_em": "2026-07-26T18:27:07.000Z"
         }
       ]
     },
