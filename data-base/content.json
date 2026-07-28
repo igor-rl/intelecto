@@ -466,119 +466,127 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-07-28T10:15:52.224Z",
+      "gerado_em": "2026-07-28T21:15:55.044Z",
       "artigos": [
         {
-          "id": "rt-2026-07-28-01",
-          "titulo": "Chade anuncia sua retirada do TPI",
-          "resumo": "O Chade anunciou sua retirada do TPI, citando viés político e o foco desproporcional do tribunal em países africanos",
+          "id": "rt-2026-07-28-2101",
+          "titulo": "Lindsey Graham’s Ukrainian birthday-gift drone meant ‘to kill Russians’ – Laura Loomer",
+          "resumo": "A Ukrainian birthday-gift drone meant for US Senator Lindsey Graham will be deployed “to kill Russians,” activist Laura Loomer has said",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a68eb0920302701bb3965fa.png",
+          "link": "https://www.rt.com/news/643581-ukraine-lindsey-graham-drone/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-28T19:11:40-03:00"
+        },
+        {
+          "id": "rt-2026-07-28-2104",
+          "titulo": "Some of Europe’s worst Russophobes are tearing themselves apart – but it won’t help Russia",
+          "resumo": "Poland’s right-wing Law and Justice party is splitting into factions, but Moscow shouldn’t expect an olive branch any time soon",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a68dd1f203027044d192ec6.jpg",
+          "link": "https://www.rt.com/news/643577-poland-europe-worst-russophobes-fighting/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-28T16:46:42-03:00"
+        },
+        {
+          "id": "rt-2026-07-28-2106",
+          "titulo": "Kiev-linked militants busted in Iraq – top official",
+          "resumo": "Several Ukraine-linked militant groups have been apprehended in Iraq after launching attacks on local facilities, a top official has said",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a68d0fd20302706bf6d0333.jpg",
+          "link": "https://www.rt.com/news/643582-ukraine-militants-iraq-attacks/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-28T15:57:20-03:00"
+        },
+        {
+          "id": "rt-2026-07-28-2107",
+          "titulo": "Russia’s victory over Ukraine to benefit all humanity – academic",
+          "resumo": "Russia’s win in the Ukraine conflict would serve peace-loving humanity, Greek philosophy professor Dimitrios Patelis has said",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a68bae385f540115437c949.jpg",
+          "link": "https://www.rt.com/news/643565-russias-victory-over-ukraine-to-benefit-everyone/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-28T15:05:42-03:00"
+        },
+        {
+          "id": "rt-2026-07-28-2108",
+          "titulo": "Uganda declares itself Ebola-free",
+          "resumo": "Uganda has officially declared itself Ebola-free after 42 days without locally transmitted cases",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a68acee85f5406a2243184a.jpg",
+          "link": "https://www.rt.com/africa/643574-uganda-declares-ebola-free/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-28T14:32:08-03:00"
+        },
+        {
+          "id": "rt-2026-07-28-2109",
+          "titulo": "Earthquake levels buildings in Japan, ‘many deaths’ reported (VIDEOS)",
+          "resumo": "A magnitude 7.1 earthquake has destroyed buildings and killed multiple people in Japan’s Kumamoto Prefecture",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a68b0a085f54019105af8d2.png",
+          "link": "https://www.rt.com/news/643575-japan-earthquake-mall-deaths/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-28T14:17:39-03:00"
+        },
+        {
+          "id": "rt-2026-07-28-2111",
+          "titulo": "Ukrainian press gang allegedly shoots, runs over women (HARROWING VIDEO)",
+          "resumo": "Ukrainian draft officers allegedly injured several women during a recent forced-conscription incident in Dnepr",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a689b2920302701bb3965e8.png",
+          "link": "https://www.rt.com/russia/643570-dnepr-busification-video-injured/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-28T13:40:46-03:00"
+        },
+        {
+          "id": "rt-2026-07-28-2112",
+          "titulo": "Diplomats in Kiev stole $1.3 million in Western aid – anti-graft agencies",
+          "resumo": "Western-backed anti-corruption agencies in Ukraine have filed charges over an alleged scheme to steal at least $1.3 million in foreign aid",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a68881485f5407635209cc5.jpg",
+          "link": "https://www.rt.com/russia/643563-nabu-charges-foreign-ministry/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-28T13:13:39-03:00"
+        },
+        {
+          "id": "rt-2026-07-28-2114",
+          "titulo": "Trump claims US and Iran having ‘friendly’ talks",
+          "resumo": "Trump touts “friendly” talks with Iran but warns of a return to war if diplomacy fails",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a68a79a85f5407cc164731e.jpg",
+          "link": "https://www.rt.com/news/643572-trump-us-iran-friendly-talks/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-28T13:00:45-03:00"
+        },
+        {
+          "id": "rt-2026-07-28-2115",
+          "titulo": "Apartheid bioweapons doctor loses appeal",
+          "resumo": "A South African court rejected a bid by the former head of the apartheid-era ‘Project Coast’ program to stop disciplinary proceedings",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a68912220302756cd57c605.jpg",
+          "link": "https://www.rt.com/africa/643569-apartheid-bioweapons-doctor-loses-appeal/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-28T12:26:56-03:00"
+        },
+        {
+          "id": "rt-2026-07-28-2116",
+          "titulo": "Chinese chip giant defies US pressure with 466% debut surge",
+          "resumo": "CXMT’s shares surged 466% in Asia’s biggest IPO of 2026, despite years of US export curbs",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a687c7920302751770a67a1.jpg",
+          "link": "https://www.rt.com/news/643562-cxmt-chips-ipo-defies-us-pressure/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-28T11:15:02-03:00"
+        },
+        {
+          "id": "rt-2026-07-28-2117",
+          "titulo": "Ukraine using mobilization threat to pressure journalists – media",
+          "resumo": "Ukrainian journalists are reportedly facing intimidation through mobilization amid forced conscription and recurring corruption scandals",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a687f1220302759e65fb312.jpg",
+          "link": "https://www.rt.com/russia/643566-ukraine-pressures-journalists-through-mobilization/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-28T11:15:01-03:00"
+        },
+        {
+          "id": "rt-2026-07-28-2118",
+          "titulo": "Somali pirates hijack fuel tanker",
+          "resumo": "Seven pirates have reportedly seized the tanker MT Asana after it departed Yemen and forced it into Somali waters",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a687cb720302753481027dc.jpg",
+          "link": "https://www.rt.com/africa/643567-somali-pirates-hijack-fuel-tanker/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-28T10:30:17-03:00"
+        },
+        {
+          "id": "rt-2026-07-28-2119",
+          "titulo": "India summons Meta official after Modi video blocked",
+          "resumo": "India summons Meta after it briefly removed Narendra Modi’s video addressed to the youth",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a687f7c85f5400dcf1106fa.jpg",
+          "link": "https://www.rt.com/india/643568-india-meta-modi-video/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-28T10:21:22-03:00"
+        },
+        {
+          "id": "rt-2026-07-28-2120",
+          "titulo": "Another state quits ICC",
+          "resumo": "Chad has announced its withdrawal from the ICC, citing political bias and the court’s disproportionate focus on African countries",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a68718585f54029083c6767.jpg",
           "link": "https://www.rt.com/africa/643564-chad-quits-politically-biased-icc/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-28T09:36:03-03:00"
-        },
-        {
-          "id": "rt-2026-07-28-02",
-          "titulo": "Kiev lança grande onda de drones em Moscou antes da reunião Trump-Zelensky",
-          "resumo": "Kiev lançou quase 400 drones em Moscou antes de uma reunião entre Trump e Zelensky, danificando prédios residenciais nos subúrbios",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a68579620302759e65fb306.jpg",
-          "link": "https://www.rt.com/russia/643555-ukraine-moscow-major-drone-wave/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-28T07:39:05-03:00"
-        },
-        {
-          "id": "rt-2026-07-28-03",
-          "titulo": "Roger Waters critica o Ocidente por sacrificar vidas russas e ucranianas por dinheiro",
-          "resumo": "O co-fundador do Pink Floyd diz que o aumento militar da OTAN arrisca uma catástrofe enquanto as elites governantes prolongam o conflito na Ucrânia por lucro",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a67eb9285f5407635209cae.png",
-          "link": "https://www.rt.com/news/643549-waters-ukraine-insane-confrontation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T20:38:27-03:00"
-        },
-        {
-          "id": "rt-2026-07-28-04",
-          "titulo": "Drone ucraniano atinge civis evacuando Konstantinovka",
-          "resumo": "Forças de Kiev têm sistematicamente caçado residentes de língua russa da cidade de Donbass, disseram testemunhas anteriormente",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a67d5122030272b791440d6.png",
-          "link": "https://www.rt.com/russia/643552-ukrainian-drone-konstantinovka-civilians/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T19:06:20-03:00"
-        },
-        {
-          "id": "rt-2026-07-28-05",
-          "titulo": "Mamdani está 'incitando ódio' – Netanyahu",
-          "resumo": "O primeiro-ministro israelense Benjamin Netanyahu acusou o prefeito de Nova York, Zohran Mamdani, de 'incitar ódio' sobre a guerra em Gaza",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a67b71220302721765fc99a.jpg",
-          "link": "https://www.rt.com/news/643548-israel-gaza-war-netanyahu-us/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T18:03:23-03:00"
-        },
-        {
-          "id": "rt-2026-07-28-06",
-          "titulo": "Ministério da Defesa russo detalha novos ataques a navios e portos ucranianos",
-          "resumo": "O exército russo divulgou novos ataques contra a infraestrutura portuária ucraniana e o transporte de mercadorias militares",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a67c61b2030271fd20f66d9.jpg",
-          "link": "https://www.rt.com/russia/643551-ukraine-black-sea-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T17:58:27-03:00"
-        },
-        {
-          "id": "rt-2026-07-28-07",
-          "titulo": "Colonos israelenses incendeiam duas mesquitas em West Bank",
-          "resumo": "Colonos israelenses fizeram arruaças em West Bank após um confronto mortal com palestinos locais",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a67a8912030272583216152.jpg",
-          "link": "https://www.rt.com/news/643545-israeli-settlers-west-bank/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T15:51:37-03:00"
-        },
-        {
-          "id": "rt-2026-07-28-08",
-          "titulo": "Sanções da UE contra a Rússia obstaculizam luta contra incêndios florestais",
-          "resumo": "Sanções da UE têm aterrissado helicópteros de combate a incêndios russos na Espanha, em meio a incêndios florestais recordes que assolam a Europa meridional",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a67805285f54078c8522422.jpg",
-          "link": "https://www.rt.com/news/643547-spain-wildfire-russia-sanctions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T15:20:45-03:00"
-        },
-        {
-          "id": "rt-2026-07-28-09",
-          "titulo": "Zelensky quer fábrica de drones no Reino Unido",
-          "resumo": "Zelensky está pressionando por uma nova fábrica de drones no Reino Unido, à medida que a indústria militar doméstica da Ucrânia é atingida pela Rússia",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6773e2203027258321613f.jpg",
-          "link": "https://www.rt.com/russia/643543-zelensky-want-uk-drone-plant/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T15:00:16-03:00"
-        },
-        {
-          "id": "rt-2026-07-28-10",
-          "titulo": "Índia e China retomam comércio de fronteira",
-          "resumo": "A Índia e a China retomarão o comércio de fronteira, suspenso desde 2020, à medida que os países dão passos para normalizar as relações",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a677880203027239070c551.jpg",
-          "link": "https://www.rt.com/india/643544-india-china-border-trade/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T13:42:19-03:00"
-        },
-        {
-          "id": "rt-2026-07-28-11",
-          "titulo": "UE levanta sanções a exportações de luxo russas",
-          "resumo": "A UE levantou sanções a peles de zibelina russas após pressão de estados-membros fortemente dependentes, segundo relatos da Euractiv",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a677d8585f5400bfd007b04.jpg",
-          "link": "https://www.rt.com/business/643538-eu-lifts-russian-sable-fur-sanctions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T13:34:55-03:00"
-        },
-        {
-          "id": "rt-2026-07-28-12",
-          "titulo": "Deslike dos poloneses por Zelensky aumenta devido a escândalo nazista – pesquisa",
-          "resumo": "Uma nova pesquisa de opinião na Polônia indica uma atitude negativa esmagadora em relação ao presidente ucraniano Vladimir Zelensky",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6762e22030272a8d1fc4a5.jpg",
-          "link": "https://www.rt.com/news/643540-zelensky-poland-opinion-poll/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T11:57:24-03:00"
-        },
-        {
-          "id": "rt-2026-07-28-13",
-          "titulo": "Estado africano nomeia ex-ministro das Relações Exteriores para liderar a ONU",
-          "resumo": "A Uganda nomeou o ex-ministro das Relações Exteriores Olara Otunnu para se tornar o próximo secretário-geral da ONU",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a675b3420302721d13c76a2.jpg",
-          "link": "https://www.rt.com/africa/643541-uganda-nominates-former-minister-un-chief/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T10:53:55-03:00"
-        },
-        {
-          "id": "rt-2026-07-28-14",
-          "titulo": "Putin se reúne com deputados da Duma Estatal: O que aconteceu",
-          "resumo": "Vladimir Putin se reuniu com deputados da Duma Estatal e revisou o trabalho legislativo deles nos últimos cinco anos",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a672a2d203027786f220d7c.jpg",
-          "link": "https://www.rt.com/russia/643517-putin-kremlin-duma-address/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T07:56:37-03:00"
         }
       ]
     },
