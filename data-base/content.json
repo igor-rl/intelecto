@@ -280,50 +280,90 @@
     "euronews": {
       "slug": "euronews",
       "nome": "Euro News",
-      "gerado_em": "2026-07-27T21:00:24.332Z",
+      "gerado_em": "2026-07-28T10:00:23.746Z",
       "artigos": [
         {
-          "id": "euronews-2026-07-27-2101",
-          "titulo": "Ucrânia continua ataques de longo alcance em instalações de exportação e petróleo russas à medida que a pressão sobre Moscou aumenta",
-          "resumo": "O presidente ucraniano Volodymyr Zelenskyy disse que suas forças atacaram um terminal de exportação na região ocidental de Rostov, bem como instalações de petróleo nas regiões de Yaroslavl e Udmúrtia, longe da frente de batalha...",
+          "id": "euronews-2026-07-28-01",
+          "titulo": "O timing da guerra e da paz não é para você decidir, Irã diz a EUA",
+          "resumo": "O ministério das Relações Exteriores de Teerã disse que o Irã não permitirá que Washington determine \"o timing da guerra e da paz,\" como Trump afirmou que a República Islâmica havia solicitado negociações e mediadores buscavam revisar...",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/28/the-timing-of-war-and-peace-is-not-yours-to-decide-iran-tells-us",
+          "publicado_em": "2026-07-28T09:43:49.000Z"
+        },
+        {
+          "id": "euronews-2026-07-28-02",
+          "titulo": "Incêndio na França: moradores apagam brasas com água após incêndio destruir 170 casas em Le Porge",
+          "resumo": "Moradores em Le Porge, na região de Gironde, no sudoeste da França, trabalham para evitar que um incêndio devastador se reacenda, pulverizando água sobre brasas incandescentes na floresta. O incêndio destruiu pelo menos...",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/28/france-wildfire-residents-douse-embers-with-water-after-blaze-destroys-170-homes-in-le-por",
+          "publicado_em": "2026-07-28T09:28:36.000Z"
+        },
+        {
+          "id": "euronews-2026-07-28-03",
+          "titulo": "Irã executa publicamente dois manifestantes de Isfahan, apesar de apelos da ONU para parar",
+          "resumo": "Dois manifestantes foram executados publicamente em Isfahan na manhã de terça-feira, elevando o total para quatro mortes entre 12 condenados no mesmo caso, após especialistas da ONU condenarem confissões forçadas e julgamentos fechados...",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/28/iran-publicly-executes-two-isfahan-protesters-despite-un-calls-to-stop",
+          "publicado_em": "2026-07-28T08:44:56.000Z"
+        },
+        {
+          "id": "euronews-2026-07-28-04",
+          "titulo": "Trípoli explode em protestos por cortes de energia com pedidos para derrubar o governo",
+          "resumo": "Manifestantes bloquearam estradas, fecharam instituições estatais e selaram prédios do governo, enquanto as temperaturas atingiram até 50 graus Celsius e os cortes de energia diários se estenderam por 14 horas. Os protestos se espalharam rapidamente...",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/28/tripoli-erupts-in-protests-over-power-cuts-with-calls-to-topple-government",
+          "publicado_em": "2026-07-28T08:08:32.000Z"
+        },
+        {
+          "id": "euronews-2026-07-28-05",
+          "titulo": "Casa Branca se prepara para negociações de alto risco com Zelenskyy e Netanyahu",
+          "resumo": "As reuniões mostrarão o equilíbrio da política externa de Washington, enquanto tenta mediar a paz na Ucrânia, apesar de ser a instigadora de ações militares no Oriente Médio.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/28/white-house-prepares-for-high-stakes-talks-with-zelenskyy-and-netanyahu",
+          "publicado_em": "2026-07-28T06:59:34.000Z"
+        },
+        {
+          "id": "euronews-2026-07-28-06",
+          "titulo": "Ucrânia mantém ataques de longo alcance em instalações de exportação e petróleo russas, aumentando pressão sobre Moscou",
+          "resumo": "O presidente ucraniano Volodymyr Zelenskyy disse que suas forças atacaram um terminal de exportação na região ocidental de Rostov, bem como instalações de petróleo nas regiões de Yaroslavl e Udmúrtia, longe da linha de frente...",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/27/ukraine-keeps-up-long-range-strikes-on-russian-export-and-oil-facilities-as-pressure-on-mo",
           "publicado_em": "2026-07-27T19:54:07.000Z"
         },
         {
-          "id": "euronews-2026-07-27-2103",
-          "titulo": "Incêndios florestais na Espanha deixam destruição em toda a província de Ávila",
-          "resumo": "Bombeiros lutam contra incêndios florestais no centro da Espanha, enquanto casas queimadas, carros e paisagens queimadas revelam a devastação em toda a província de Ávila.",
+          "id": "euronews-2026-07-28-07",
+          "titulo": "Incêndios na Espanha deixam destruição em toda a província de Ávila",
+          "resumo": "Bombeiros combatem incêndios na região central da Espanha, enquanto casas queimadas, carros e paisagens queimadas revelam a devastação em toda a província de Ávila.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/07/27/spain-wildfires-leave-destruction-across-avila-province",
           "publicado_em": "2026-07-27T15:12:38.000Z"
         },
         {
-          "id": "euronews-2026-07-27-2104",
-          "titulo": "Presidente eleito da Colômbia fechará embaixadas em três países europeus em reforma diplomática",
-          "resumo": "Abelardo de la Espriella diz que cortará laços diplomáticos com Havana e Manágua e fechará 15 consulados e 14 embaixadas para reduzir custos e fortalecer a segurança.",
+          "id": "euronews-2026-07-28-08",
+          "titulo": "Presidente eleito da Colômbia fechará embaixadas em três países europeus como parte de uma reforma diplomática",
+          "resumo": "Abelardo de la Espriella disse que cortará laços diplomáticos com Havana e Manágua e fechará 15 consulados e 14 embaixadas para reduzir custos e fortalecer a segurança. O presidente eleito será empossado em...",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/27/colombias-president-elect-to-close-embassies-in-three-european-countries-in-diplomatic-ove",
           "publicado_em": "2026-07-27T15:03:38.000Z"
         },
         {
-          "id": "euronews-2026-07-27-2105",
-          "titulo": "Rabis visitam emir do Catar para expressar condolências em demonstração de laços inter-religiosos",
+          "id": "euronews-2026-07-28-09",
+          "titulo": "Rabis visitam emir do Catar para prestar condolências em demonstração de laços inter-religiosos",
           "resumo": "Após uma reunião com o emir do Catar, o rabino Mendy Chitrik, da Aliança de Rabis em Estados Islâmicos, disse que a delegação se sentiu calorosamente recebida e pediu por mais diálogo para fortalecer os laços muçulmano-judaicos...",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/27/rabbis-visit-qatars-emir-for-condolences-in-show-of-interfaith-bonds",
           "publicado_em": "2026-07-27T14:49:13.000Z"
         },
         {
-          "id": "euronews-2026-07-27-2111",
-          "titulo": "EUA e Irã suspendem fogo por terceira noite consecutiva, enquanto as negociações são 'dadas espaço'",
-          "resumo": "Houve 13 noites consecutivas de ataques dos EUA ao Irã, que o Exército dos EUA disse visar 'diminuir a capacidade do Irã de ameaçar o transporte marítimo comercial no Estreito de Ormuz.'",
+          "id": "euronews-2026-07-28-10",
+          "titulo": "EUA e Irã suspendem fogo por terceira noite consecutiva, enquanto negociações recebem 'espaço'",
+          "resumo": "Houve 13 noites consecutivas de ataques dos EUA ao Irã, que o Exército dos EUA disse visar \"degradar a capacidade do Irã de ameaçar o transporte marítimo comercial no Estreito de Ormuz.\"",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/27/us-and-iran-hold-fire-for-third-night-as-talks-given-space",
           "publicado_em": "2026-07-27T07:09:42.000Z"
         },
         {
-          "id": "euronews-2026-07-27-2113",
+          "id": "euronews-2026-07-28-11",
           "titulo": "10 mortos e quase duas dúzias de feridos após inundações repentinas atingirem local turístico no noroeste da China",
           "resumo": "Alertas de tempo severo foram enviados a muitas áreas da região, à medida que o tufão Noul fez landfall no domingo.",
           "imagem": null,
@@ -331,36 +371,12 @@
           "publicado_em": "2026-07-27T04:49:15.000Z"
         },
         {
-          "id": "euronews-2026-07-27-2115",
-          "titulo": "Mourners depositam flores e velas após ataque mortal no orgulho de Berlim",
-          "resumo": "Berlineses depositaram flores e velas em um memorial perto do Portão de Brandemburgo, à medida que as equipes desmontavam os palcos e limpavam após o ataque mortal perto do festival de orgulho da cidade no sábado.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/07/26/mourners-lay-flowers-and-candles-after-deadly-berlin-pride-attack",
-          "publicado_em": "2026-07-26T19:53:13.000Z"
-        },
-        {
-          "id": "euronews-2026-07-27-2117",
-          "titulo": "Ucrânia responde enquanto o presidente do Cazaquistão, Tokayev, pede a Putin que congele a guerra na Ucrânia",
-          "resumo": "O presidente do Cazaquistão, Kassym-Jomart Tokayev, pediu a Vladimir Putin em uma reunião cara a cara para congelar a guerra na Ucrânia e retornar às negociações, pois 'é uma vergonha, jovens estão morrendo'.",
+          "id": "euronews-2026-07-28-12",
+          "titulo": "Ucrânia responde enquanto presidente do Cazaquistão, Tokayev, pede a Putin para congelar a guerra na Ucrânia",
+          "resumo": "O presidente do Cazaquistão, Kassym-Jomart Tokayev, pediu a Vladimir Putin em uma reunião cara a cara para congelar a guerra na Ucrânia e retornar às negociações, pois \"é uma vergonha, jovens estão morrendo\". O Ministério das Relações Exteriores da Ucrânia respondeu...",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/26/ukraine-responds-as-kazakh-president-tokayev-urges-putin-to-freeze-the-war-in-ukraine",
           "publicado_em": "2026-07-26T18:27:07.000Z"
-        },
-        {
-          "id": "euronews-2026-07-27-2119",
-          "titulo": "Chefe da ONU pede o fim de todas as sanções à Síria durante o segundo dia de visita",
-          "resumo": "Países ocidentais, incluindo os EUA, anunciaram o alívio das sanções à Síria, mas os investidores permanecem cautelosos.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/26/un-chief-calls-for-end-of-all-sanctions-on-syria-during-second-day-of-visit",
-          "publicado_em": "2026-07-26T15:02:06.000Z"
-        },
-        {
-          "id": "euronews-2026-07-27-2120",
-          "titulo": "Ucrânia ataca carga russa destinada ao Irã, à medida que a guerra do Irã se amplia",
-          "resumo": "A Ucrânia diz que atacou rotas de longo alcance que movem equipamentos militares russos ligados ao Irã, enquanto Zelenskyy afirma que Moscou deu a Teerã dados de satélite para ataques a locais dos EUA no Oriente Médio.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/26/ukraine-strikes-russian-iran-bound-cargo-as-iran-war-widens",
-          "publicado_em": "2026-07-26T11:06:06.000Z"
         }
       ]
     },
