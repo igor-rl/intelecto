@@ -438,167 +438,119 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-07-27T21:15:53.691Z",
+      "gerado_em": "2026-07-28T10:15:52.224Z",
       "artigos": [
         {
-          "id": "rt-2026-07-27-21-01",
-          "titulo": "Netanyahu acusa prefeito de Nova York de 'incitar ódio' sobre a guerra em Gaza",
+          "id": "rt-2026-07-28-01",
+          "titulo": "Chade anuncia sua retirada do TPI",
+          "resumo": "O Chade anunciou sua retirada do TPI, citando viés político e o foco desproporcional do tribunal em países africanos",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a68718585f54029083c6767.jpg",
+          "link": "https://www.rt.com/africa/643564-chad-quits-politically-biased-icc/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-28T09:36:03-03:00"
+        },
+        {
+          "id": "rt-2026-07-28-02",
+          "titulo": "Kiev lança grande onda de drones em Moscou antes da reunião Trump-Zelensky",
+          "resumo": "Kiev lançou quase 400 drones em Moscou antes de uma reunião entre Trump e Zelensky, danificando prédios residenciais nos subúrbios",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a68579620302759e65fb306.jpg",
+          "link": "https://www.rt.com/russia/643555-ukraine-moscow-major-drone-wave/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-28T07:39:05-03:00"
+        },
+        {
+          "id": "rt-2026-07-28-03",
+          "titulo": "Roger Waters critica o Ocidente por sacrificar vidas russas e ucranianas por dinheiro",
+          "resumo": "O co-fundador do Pink Floyd diz que o aumento militar da OTAN arrisca uma catástrofe enquanto as elites governantes prolongam o conflito na Ucrânia por lucro",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a67eb9285f5407635209cae.png",
+          "link": "https://www.rt.com/news/643549-waters-ukraine-insane-confrontation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-27T20:38:27-03:00"
+        },
+        {
+          "id": "rt-2026-07-28-04",
+          "titulo": "Drone ucraniano atinge civis evacuando Konstantinovka",
+          "resumo": "Forças de Kiev têm sistematicamente caçado residentes de língua russa da cidade de Donbass, disseram testemunhas anteriormente",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a67d5122030272b791440d6.png",
+          "link": "https://www.rt.com/russia/643552-ukrainian-drone-konstantinovka-civilians/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-27T19:06:20-03:00"
+        },
+        {
+          "id": "rt-2026-07-28-05",
+          "titulo": "Mamdani está 'incitando ódio' – Netanyahu",
           "resumo": "O primeiro-ministro israelense Benjamin Netanyahu acusou o prefeito de Nova York, Zohran Mamdani, de 'incitar ódio' sobre a guerra em Gaza",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a67b71220302721765fc99a.jpg",
           "link": "https://www.rt.com/news/643548-israel-gaza-war-netanyahu-us/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T21:03:23-03:00"
+          "publicado_em": "2026-07-27T18:03:23-03:00"
         },
         {
-          "id": "rt-2026-07-27-21-02",
-          "titulo": "Ministério da Defesa da Rússia detalha novos ataques a portos e navios ucranianos",
-          "resumo": "O Ministério da Defesa da Rússia divulgou informações sobre novos ataques a infraestrutura portuária e transporte de mercadorias militares ucranianas",
+          "id": "rt-2026-07-28-06",
+          "titulo": "Ministério da Defesa russo detalha novos ataques a navios e portos ucranianos",
+          "resumo": "O exército russo divulgou novos ataques contra a infraestrutura portuária ucraniana e o transporte de mercadorias militares",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a67c61b2030271fd20f66d9.jpg",
           "link": "https://www.rt.com/russia/643551-ukraine-black-sea-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T20:58:27-03:00"
+          "publicado_em": "2026-07-27T17:58:27-03:00"
         },
         {
-          "id": "rt-2026-07-27-21-03",
-          "titulo": "Colonos israelenses incendeiam duas mesquitas na Cisjordânia",
-          "resumo": "Colonos israelenses invadiram a Cisjordânia e incendiaram duas mesquitas após um confronto violento com palestinos locais",
+          "id": "rt-2026-07-28-07",
+          "titulo": "Colonos israelenses incendeiam duas mesquitas em West Bank",
+          "resumo": "Colonos israelenses fizeram arruaças em West Bank após um confronto mortal com palestinos locais",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a67a8912030272583216152.jpg",
           "link": "https://www.rt.com/news/643545-israeli-settlers-west-bank/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T18:51:37-03:00"
+          "publicado_em": "2026-07-27T15:51:37-03:00"
         },
         {
-          "id": "rt-2026-07-27-21-04",
-          "titulo": "Sanções da UE contra a Rússia atrapalham combate a incêndios na Espanha",
-          "resumo": "As sanções da União Europeia contra a Rússia impedem o uso de helicópteros de combate a incêndios russos na Espanha, onde incêndios florestais estão fora de controle",
+          "id": "rt-2026-07-28-08",
+          "titulo": "Sanções da UE contra a Rússia obstaculizam luta contra incêndios florestais",
+          "resumo": "Sanções da UE têm aterrissado helicópteros de combate a incêndios russos na Espanha, em meio a incêndios florestais recordes que assolam a Europa meridional",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a67805285f54078c8522422.jpg",
           "link": "https://www.rt.com/news/643547-spain-wildfire-russia-sanctions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T18:20:45-03:00"
+          "publicado_em": "2026-07-27T15:20:45-03:00"
         },
         {
-          "id": "rt-2026-07-27-21-05",
-          "titulo": "Zelensky busca fábrica de drones no Reino Unido",
-          "resumo": "O presidente ucraniano, Volodymyr Zelensky, está procurando estabelecer uma fábrica de drones no Reino Unido, devido à pressão militar russa sobre a indústria militar ucraniana",
+          "id": "rt-2026-07-28-09",
+          "titulo": "Zelensky quer fábrica de drones no Reino Unido",
+          "resumo": "Zelensky está pressionando por uma nova fábrica de drones no Reino Unido, à medida que a indústria militar doméstica da Ucrânia é atingida pela Rússia",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6773e2203027258321613f.jpg",
           "link": "https://www.rt.com/russia/643543-zelensky-want-uk-drone-plant/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T18:00:16-03:00"
+          "publicado_em": "2026-07-27T15:00:16-03:00"
         },
         {
-          "id": "rt-2026-07-27-21-06",
-          "titulo": "Índia e China retomam comércio frontal",
-          "resumo": "A Índia e a China decidiram retomar o comércio frontal, suspenso desde 2020, como parte dos esforços para normalizar as relações entre os dois países",
+          "id": "rt-2026-07-28-10",
+          "titulo": "Índia e China retomam comércio de fronteira",
+          "resumo": "A Índia e a China retomarão o comércio de fronteira, suspenso desde 2020, à medida que os países dão passos para normalizar as relações",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a677880203027239070c551.jpg",
           "link": "https://www.rt.com/india/643544-india-china-border-trade/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T16:42:19-03:00"
+          "publicado_em": "2026-07-27T13:42:19-03:00"
         },
         {
-          "id": "rt-2026-07-27-21-07",
-          "titulo": "UE suspende sanções a exportações russas de pele de zibelina",
-          "resumo": "A União Europeia decidiu suspender as sanções às exportações russas de pele de zibelina, após pressão de países membros que dependem fortemente dessas importações",
+          "id": "rt-2026-07-28-11",
+          "titulo": "UE levanta sanções a exportações de luxo russas",
+          "resumo": "A UE levantou sanções a peles de zibelina russas após pressão de estados-membros fortemente dependentes, segundo relatos da Euractiv",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a677d8585f5400bfd007b04.jpg",
           "link": "https://www.rt.com/business/643538-eu-lifts-russian-sable-fur-sanctions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T16:34:55-03:00"
+          "publicado_em": "2026-07-27T13:34:55-03:00"
         },
         {
-          "id": "rt-2026-07-27-21-08",
-          "titulo": "Desaprovação de Zelensky aumenta na Polônia devido a escândalo nazista",
-          "resumo": "Uma pesquisa de opinião na Polônia mostra uma atitude cada vez mais negativa em relação ao presidente ucraniano, Volodymyr Zelensky, devido a um escândalo envolvendo nazistas",
+          "id": "rt-2026-07-28-12",
+          "titulo": "Deslike dos poloneses por Zelensky aumenta devido a escândalo nazista – pesquisa",
+          "resumo": "Uma nova pesquisa de opinião na Polônia indica uma atitude negativa esmagadora em relação ao presidente ucraniano Vladimir Zelensky",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6762e22030272a8d1fc4a5.jpg",
           "link": "https://www.rt.com/news/643540-zelensky-poland-opinion-poll/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T14:57:24-03:00"
+          "publicado_em": "2026-07-27T11:57:24-03:00"
         },
         {
-          "id": "rt-2026-07-27-21-09",
-          "titulo": "Três mulheres feridas em ataque com faca em Paris",
-          "resumo": "Um ataque com faca em Paris deixou três mulheres feridas; o suspeito foi preso pelas autoridades francesas",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a676a142030271fd20f66c7.jpg",
-          "link": "https://www.rt.com/news/643542-paris-stabbing-women-wounded/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T14:24:33-03:00"
-        },
-        {
-          "id": "rt-2026-07-27-21-10",
+          "id": "rt-2026-07-28-13",
           "titulo": "Estado africano nomeia ex-ministro das Relações Exteriores para liderar a ONU",
-          "resumo": "O Uganda nomeou o ex-ministro das Relações Exteriores, Olara Otunnu, para se tornar o próximo secretário-geral da ONU",
+          "resumo": "A Uganda nomeou o ex-ministro das Relações Exteriores Olara Otunnu para se tornar o próximo secretário-geral da ONU",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a675b3420302721d13c76a2.jpg",
           "link": "https://www.rt.com/africa/643541-uganda-nominates-former-minister-un-chief/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T13:53:55-03:00"
+          "publicado_em": "2026-07-27T10:53:55-03:00"
         },
         {
-          "id": "rt-2026-07-27-21-11",
-          "titulo": "Laura Loomer diz que não há problema nazista na Ucrânia. Aqui está o que ela não viu",
-          "resumo": "Laura Loomer afirma que uma conversa com Zelensky mudou sua opinião sobre a Ucrânia e o problema dos grupos de extrema-direita no país",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a670f412030276dc647ed24.jpg",
-          "link": "https://www.rt.com/russia/643498-nazis-and-jews-in-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T13:08:31-03:00"
-        },
-        {
-          "id": "rt-2026-07-27-21-12",
-          "titulo": "Modi anuncia reformas após protestos estudantis",
-          "resumo": "O primeiro-ministro indiano, Narendra Modi, estabeleceu um painel para sugerir reformas nos exames após protestos estudantis que levaram à saída do ministro da Educação",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6766e785f5400dd5337a0b.jpg",
-          "link": "https://www.rt.com/india/643539-india-modi-exam-panel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T12:48:23-03:00"
-        },
-        {
-          "id": "rt-2026-07-27-21-13",
-          "titulo": "Frota de quebra-gelos russa está décadas à frente dos rivais – Putin",
-          "resumo": "O presidente russo, Vladimir Putin, elogiou a frota de quebra-gelos do país, afirmando que está muito à frente dos rivais",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a67400485f54055896e060a.jpg",
-          "link": "https://www.rt.com/russia/643513-putin-arctic-icebreaker-fleet/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T12:26:33-03:00"
-        },
-        {
-          "id": "rt-2026-07-27-21-14",
-          "titulo": "Rei zulu reinstaura altos funcionários reais",
-          "resumo": "O rei zulu, Misuzulu kaZwelithini, restaurou dois funcionários após anular decisões tomadas pelo ex-primeiro-ministro tradicional",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a673d692030276fa9170213.jpg",
-          "link": "https://www.rt.com/africa/643522-zulu-king-reinstates-top-officials/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T11:27:33-03:00"
-        },
-        {
-          "id": "rt-2026-07-27-21-15",
+          "id": "rt-2026-07-28-14",
           "titulo": "Putin se reúne com deputados da Duma Estatal: O que aconteceu",
-          "resumo": "O presidente russo, Vladimir Putin, se reuniu com deputados da Duma Estatal e revisou o trabalho legislativo dos últimos cinco anos",
+          "resumo": "Vladimir Putin se reuniu com deputados da Duma Estatal e revisou o trabalho legislativo deles nos últimos cinco anos",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a672a2d203027786f220d7c.jpg",
           "link": "https://www.rt.com/russia/643517-putin-kremlin-duma-address/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T10:56:37-03:00"
-        },
-        {
-          "id": "rt-2026-07-27-21-16",
-          "titulo": "Cinco mortos em ataque de drone ucraniano – governador russo",
-          "resumo": "Um ataque de drone ucraniano matou cinco civis em Rostov-on-Don, de acordo com o governador Yury Slyusar",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a671a1485f5400dd53379f3.png",
-          "link": "https://www.rt.com/russia/643510-ukraine-drone-raids-russia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T10:36:01-03:00"
-        },
-        {
-          "id": "rt-2026-07-27-21-17",
-          "titulo": "Nova Délhi convoca embaixador ucraniano após ataque a navio comercial",
-          "resumo": "O embaixador ucraniano na Índia foi convocado após um ataque a um navio comercial que resultou na morte de um marinheiro indiano",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a67323720302718f715a6e6.png",
-          "link": "https://www.rt.com/india/643518-india-summons-ukrainian-ambassador/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T10:32:22-03:00"
-        },
-        {
-          "id": "rt-2026-07-27-21-18",
-          "titulo": "RT relata sobre as consequências do ataque ucraniano a resort russo (VÍDEO)",
-          "resumo": "A RT está relatando sobre as consequências de um ataque de drone ucraniano a um resort russo, que matou 12 pessoas, incluindo cinco crianças",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a67269085f5400dd53379f6.jpg",
-          "link": "https://www.rt.com/russia/643515-zaporozhye-hotel-ukraine-strike-aftermath/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T10:28:04-03:00"
-        },
-        {
-          "id": "rt-2026-07-27-21-19",
-          "titulo": "Casos de ebola ultrapassam 3.200",
-          "resumo": "A República Democrática do Congo relatou 3.200 casos confirmados de ebola e 1.405 mortes em cinco províncias, de acordo com as autoridades",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6727302030276e1738e4c3.jpg",
-          "link": "https://www.rt.com/africa/643516-ebola-cases-top-3200/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T10:16:46-03:00"
-        },
-        {
-          "id": "rt-2026-07-27-21-20",
-          "titulo": "França planeja terceiro ataque a antiga colônia – líder africano",
-          "resumo": "O líder militar do Níger afirma que a inteligência francesa está planejando um terceiro ataque contra Niamey, após ataques em janeiro e junho",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6726d22030276fa9170203.jpg",
-          "link": "https://www.rt.com/africa/643511-france-planning-third-attack-niger/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-27T09:49:05-03:00"
+          "publicado_em": "2026-07-27T07:56:37-03:00"
         }
       ]
     },
