@@ -6,11 +6,11 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Incêndios na Europa e conflitos globais",
-    "subtitulo": "Enquanto a Europa luta contra incêndios florestais, conflitos em várias partes do mundo dominam as manchetes",
-    "resumo": "Os incêndios florestais na França e na Espanha continuam a ser uma grande preocupação, com bombeiros lutando para controlar as chamas. Enquanto isso, conflitos em várias partes do mundo, incluindo a Ucrânia, o Oriente Médio e a África, dominam as manchetes. A retirada de financiamento para a AIDS na África também é um tema importante, com ativistas desafiando as reformas do PEPFAR. Além disso, a Austrália está acompanhando as últimas atualizações de notícias ao vivo, incluindo um tiroteio em um festival de comida em Seattle e um desafio de liderança em Victoria.",
+    "titulo": "Tensões Globais: Conflitos e Desafios",
+    "subtitulo": "Ucrânia, Oriente Médio e África: Pontos Quentes no Mapa Mundial",
+    "resumo": "O dia foi marcado por uma série de eventos que destacam as tensões globais. A Ucrânia continua a ser um ponto de conflito, com drones ucranianos atacando Moscou e a Rússia retaliando. No Oriente Médio, a situação em Gaza permanece tensa, com Israel expandindo sua zona militar e o primeiro-ministro israelense, Benjamin Netanyahu, acusando o prefeito de Nova York de 'incitar ódio' sobre a guerra em Gaza. Na África, a Uganda começou a distribuir ajuda alimentar de emergência após 19 pessoas morrerem de fome, enquanto o Quênia enfrenta protestos por cortes de energia. Além disso, a comunidade internacional está atenta às negociações entre Trump, Zelensky e Netanyahu, que podem ter implicações significativas para a região. Enquanto isso, a Europa lida com incêndios florestais massivos que se aproximam de Madri, e a Malásia prepara-se para eleições estaduais em Negeri Sembilan, onde a mobilidade dos eleitores pode influenciar o resultado.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-07-27T08:00:00-03:00",
+    "publicado_em": "2026-07-28T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -1017,62 +1017,56 @@
   },
   "temas_principais": [
     {
-      "tema": "Incêndios florestais na Europa",
-      "descricao": "Incêndios florestais descontrolados na França e na Espanha",
+      "tema": "Conflito na Ucrânia",
+      "descricao": "Drones ucranianos atacam Moscou, e a Rússia responde com força.",
       "fontes_que_cobriram": [
-        "new_york_times",
-        "euronews",
-        "scmp",
-        "smh"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "rt"
-      ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a gravidade dos incêndios e a luta dos bombeiros, enquanto a RT destaca as sanções da UE contra a Rússia como um obstáculo para o combate aos incêndios"
-    },
-    {
-      "tema": "Conflitos globais",
-      "descricao": "Conflitos em várias partes do mundo, incluindo a Ucrânia, o Oriente Médio e a África",
-      "fontes_que_cobriram": [
-        "the_guardian",
-        "new_york_times",
-        "euronews",
         "rt",
+        "mt",
         "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "scmp"
+        "the_guardian",
+        "new_york_times"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a agressão russa na Ucrânia, enquanto a RT destaca a legítima defesa da Rússia"
+      "divergencia_de_enquadramento": "Enquanto a Rússia vê os ataques como uma ameaça à sua segurança, a Ucrânia os considera uma resposta legítima à agressão russa."
     },
     {
-      "tema": "Retirada de financiamento para a AIDS na África",
-      "descricao": "Ativistas desafiam as reformas do PEPFAR",
+      "tema": "Tensões no Oriente Médio",
+      "descricao": "Israel expande sua zona militar em Gaza, e o primeiro-ministro israelense acusa o prefeito de Nova York de 'incitar ódio'.",
       "fontes_que_cobriram": [
+        "scmp",
+        "st"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "euronews",
+        "aa"
+      ],
+      "divergencia_de_enquadramento": "Enquanto Israel vê sua ação como necessária para a segurança, a comunidade internacional expressa preocupação com as consequências humanitárias."
+    },
+    {
+      "tema": "Desafios na África",
+      "descricao": "Uganda distribui ajuda alimentar de emergência, e o Quênia enfrenta protestos por cortes de energia.",
+      "fontes_que_cobriram": [
+        "the_guardian",
         "aa"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian",
         "new_york_times",
-        "euronews",
-        "scmp",
-        "rt",
-        "st",
-        "smh"
+        "rt"
       ],
-      "divergencia_de_enquadramento": "A AllAfrica destaca a preocupação dos ativistas com a retirada de financiamento, enquanto as outras fontes não cobrem o tema"
+      "divergencia_de_enquadramento": "Enquanto a África lida com desafios internos, a comunidade internacional é chamada a prestar atenção e oferecer apoio."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Desafio de liderança em Victoria",
-      "por_que_importa": "Um desafio de liderança em Victoria pode ter implicações para a política australiana",
-      "cobertura": "Apenas o SMH cobriu o tema"
+      "tema": "Incêndios Florestais na Europa",
+      "por_que_importa": "Os incêndios florestais massivos que se aproximam de Madri são um lembrete dos desafios ambientais que a Europa enfrenta.",
+      "cobertura": "A cobertura foi limitada, com apenas algumas fontes abordando o tema."
     },
     {
-      "tema": "Tiroteio em um festival de comida em Seattle",
-      "por_que_importa": "Um tiroteio em um festival de comida em Seattle é um tema importante de segurança pública",
-      "cobertura": "Apenas o SMH cobriu o tema"
+      "tema": "Eleições em Negeri Sembilan",
+      "por_que_importa": "As eleições estaduais em Negeri Sembilan podem ter implicações significativas para a Malásia, especialmente considerando a mobilidade dos eleitores.",
+      "cobertura": "A cobertura foi escassa, com poucas fontes dedicando atenção a este tema."
     }
   ]
 }
