@@ -680,34 +680,66 @@
     "mt": {
       "slug": "mt",
       "nome": "The Moscow Times",
-      "gerado_em": "2026-07-28T10:46:12.195Z",
+      "gerado_em": "2026-07-28T21:46:13.329Z",
       "artigos": [
         {
           "id": "mt-2026-07-28-01",
-          "titulo": "Refinaria de Petróleo de Tyumen Para a Produção Após Ataque de Drona Ucraniana, Dizem Fontes",
-          "resumo": "Fontes da indústria disseram que é difícil estimar quanto tempo os reparos levarão.",
+          "titulo": "Mais de 4 Anos de Guerra na Ucrânia, Metais e Energia Russos Continuam Fluindo para a Europa",
+          "resumo": "A Rússia fornece à Europa energia, metais e outros bens industriais por meio de isenções e setores que até agora evitaram as restrições mais rigorosas.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/28/over-4-years-into-the-ukraine-war-russian-metals-keep-flowing-to-europe-a93357",
+          "publicado_em": "2026-07-28T15:34:39.000Z"
+        },
+        {
+          "id": "mt-2026-07-28-02",
+          "titulo": "3 Mortos em Ataques de Drones na Região de Belgorod",
+          "resumo": "As autoridades na região fronteiriça acusaram a Ucrânia de atacar alvos civis em uma campanha aérea \"caótica\" visando \"semeiar pânico\".",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/28/3-killed-in-belgorod-region-drone-attacks-a93362",
+          "publicado_em": "2026-07-28T15:07:05.000Z"
+        },
+        {
+          "id": "mt-2026-07-28-03",
+          "titulo": "Postos de Gasolina Russos Começam a Reduzir Limites de Compra à Medida que Oficiais Dizem que o Mercado de Combustível Mostra Sinais de 'Estabilização'",
+          "resumo": "Postos de gasolina de propriedade da Gazprom e Lukoil removeram todos os limites de compra de gasolina em algumas partes do país, embora escassez persista em muitas regiões.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/28/russian-gas-stations-begin-easing-purchase-limits-as-officials-say-fuel-market-shows-signs-of-stabilization-a93361",
+          "publicado_em": "2026-07-28T14:32:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-28-04",
+          "titulo": "Empresa Russa Ganha Ação de US$ 194 Milhões Contra a Euroclear em Moscou",
+          "resumo": "A decisão do Tribunal de Arbitragem de Moscou a favor da empresa de finanças especializada Silicium-2 marca o último veredicto que visa a Euroclear sobre ativos congelados por sanções ocidentais.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/28/russian-firm-wins-194m-lawsuit-against-euroclear-in-moscow-a93360",
+          "publicado_em": "2026-07-28T12:02:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-28-05",
+          "titulo": "Refinaria de Petróleo de Tyumen Para a Produção Após Ataque de Drone Ucraniano, Dizem Fontes",
+          "resumo": "Fontes da indústria disseram que é difícil estimar quanto tempo levarão os reparos.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/28/tyumen-oil-refinery-halts-production-after-ukrainian-drone-strike-sources-say-a93359",
           "publicado_em": "2026-07-28T10:25:43.000Z"
         },
         {
-          "id": "mt-2026-07-28-02",
-          "titulo": "Centenas de Dronas Ucranianas Atacam Moscou em Blitz Noturno",
-          "resumo": "O prefeito Sergei Sobyanin disse que 390 dronas foram rastreados nos céus acima da região de Moscou entre a noite de segunda-feira e a manhã de terça-feira.",
+          "id": "mt-2026-07-28-06",
+          "titulo": "Centenas de Drones Ucranianos Visam Moscou em Ataque Noturno",
+          "resumo": "O prefeito Sergei Sobyanin disse que 390 drones foram rastreados nos céus acima da região mais ampla de Moscou entre a noite de segunda-feira e a manhã de terça-feira.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/28/hundreds-of-ukrainian-drones-target-moscow-in-overnight-blitz-a93356",
           "publicado_em": "2026-07-28T08:35:00.000Z"
         },
         {
-          "id": "mt-2026-07-28-03",
+          "id": "mt-2026-07-28-07",
           "titulo": "Região de Tyumen Declara Estado de Emergência à Medida que se Prepara para Inundações Graves",
-          "resumo": "Os níveis de água no rio Tura subiram para 8,77 metros e devem continuar a subir após fortes chuvas na região de Tyumen e na região vizinha de Sverdlovsk.",
+          "resumo": "Os níveis de água no rio Tura subiram para 8,77 metros e devem continuar subindo após fortes chuvas em toda a região de Tyumen e na região vizinha de Sverdlovsk.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/28/tyumen-region-declares-state-of-emergency-as-it-braces-for-major-flooding-a93347",
           "publicado_em": "2026-07-28T06:27:00.000Z"
         },
         {
-          "id": "mt-2026-07-28-04",
+          "id": "mt-2026-07-28-08",
           "titulo": "Pashinyan da Armênia Pede a Putin que Ajude a Resolver Restrições Russas às Exportações Armênias",
           "resumo": "Pashinyan, que direcionou a Armênia para uma direção mais pró-Ocidente, disse a Putin que as restrições comerciais violavam acordos entre os dois países.",
           "imagem": null,
@@ -715,31 +747,31 @@
           "publicado_em": "2026-07-27T19:33:00.000Z"
         },
         {
-          "id": "mt-2026-07-28-05",
+          "id": "mt-2026-07-28-09",
           "titulo": "Míssil Sarmat Atrasado por Repetidos Atrasos Apesar de Boastes do Kremlin, Mostram Documentos Vazados",
-          "resumo": "As ambições declarações da Rússia sobre suas capacidades nucleares vêm anos antes que os fabricantes de defesa possam atender aos prazos necessários para torná-las reais.",
+          "resumo": "As ambições declarações da Rússia sobre suas capacidades nucleares vêm anos antes de os fabricantes de defesa poderem atender aos prazos necessários para torná-las reais.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/27/sarmat-missile-held-back-by-repeated-delays-despite-kremlin-boasts-leaked-documents-show-a93348",
-          "publicado_em": "2026-07-27T16:41:57.000Z"
+          "publicado_em": "2026-07-27T16:41:00.000Z"
         },
         {
-          "id": "mt-2026-07-28-06",
-          "titulo": "Montenegro Acaba com Entrada sem Visto para Russos em meio à Candidatura à UE de 2028",
+          "id": "mt-2026-07-28-10",
+          "titulo": "Montenegro Acaba com a Entrada sem Visto para Russos em Meio à Candidatura de Adesão à UE de 2028",
           "resumo": "Montenegro permaneceu como um dos poucos países europeus a oferecer entrada sem visto para russos por até 30 dias e viu um grande influxo de cidadãos russos anti-guerra após a invasão da Ucrânia em 2022.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/27/montenegro-ends-visa-free-entry-for-russians-amid-2028-eu-membership-bid-a93351",
           "publicado_em": "2026-07-27T14:55:39.000Z"
         },
         {
-          "id": "mt-2026-07-28-07",
+          "id": "mt-2026-07-28-11",
           "titulo": "Líder do Novo Povo Diz que os Russos Estão Cansados da Guerra, Critica Proibições de Tecnologia em Discurso na Duma",
-          "resumo": "“Vamos mudar nossa abordagem. Vamos parar de ver o cidadão médio como uma criança ignorante ou um possível criminoso”, disse o chefe do partido, Alexei Nechayev.",
+          "resumo": "“Vamos mudar nossa abordagem. Vamos parar de ver o cidadão médio como uma criança ignorante ou um potencial criminoso”, disse o chefe do partido, Alexei Nechayev.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/27/new-people-leader-says-russians-are-tired-of-war-slams-tech-bans-in-duma-speech-a93349",
           "publicado_em": "2026-07-27T14:15:00.000Z"
         },
         {
-          "id": "mt-2026-07-28-08",
+          "id": "mt-2026-07-28-12",
           "titulo": "Esposa de Peskov Desafia Sanções da UE Contra Ela em Tribunal",
           "resumo": "Tatiana Navka, uma ex-campeã olímpica de patinação artística no gelo, foi incluída em uma lista de sanções da UE em junho de 2022 que visava pessoas devido à invasão da Ucrânia pela Rússia.",
           "imagem": null,
@@ -747,23 +779,23 @@
           "publicado_em": "2026-07-27T13:39:24.000Z"
         },
         {
-          "id": "mt-2026-07-28-09",
+          "id": "mt-2026-07-28-13",
           "titulo": "Ex-Loyalista do Kremlin Ilya Remeslo Colocado em uma Instalação Psiquiátrica de Moscou",
-          "resumo": "Remeslo passou anteriormente um mês em um hospital psiquiátrico em São Petersburgo entre março e abril após denunciar publicamente o presidente Vladimir Putin por lidar mal com a invasão em grande escala da Ucrânia.",
+          "resumo": "Remeslo passou anteriormente um mês em um hospital psiquiátrico em São Petersburgo entre março e abril após denunciar publicamente o presidente Vladimir Putin por manejar mal a invasão em grande escala da Ucrânia.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/27/ex-kremlin-loyalist-ilya-remeslo-placed-in-moscow-psychiatric-facility-a93346",
           "publicado_em": "2026-07-27T09:37:32.000Z"
         },
         {
-          "id": "mt-2026-07-28-10",
-          "titulo": "FSB Prende Homem de Khabarovsk Acusado de Espionar para a Nova Zelândia",
-          "resumo": "O FSB alegou que a Nova Zelândia “recrutou” o homem para coletar informações sobre a cooperação de defesa da Rússia com países da região da Ásia-Pacífico.",
+          "id": "mt-2026-07-28-14",
+          "titulo": "FSB Detém Homem de Khabarovsk Acusado de Espionar para a Nova Zelândia",
+          "resumo": "O FSB alegou que a Nova Zelândia \"recrutou\" o homem para coletar inteligência sobre a cooperação de defesa da Rússia com países da região da Ásia-Pacífico.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/27/fsb-arrests-khabarovsk-man-accused-of-spying-for-new-zealand-a93345",
           "publicado_em": "2026-07-27T08:44:25.000Z"
         },
         {
-          "id": "mt-2026-07-28-11",
+          "id": "mt-2026-07-28-15",
           "titulo": "Ataques Ucranianos Matam Pelo Menos 5 Pessoas no Sul da Rússia",
           "resumo": "As autoridades disseram que 17 outras pessoas ficaram feridas em ataques separados nas regiões de Belgorod e Rostov.",
           "imagem": null,
@@ -771,7 +803,7 @@
           "publicado_em": "2026-07-27T07:49:00.000Z"
         },
         {
-          "id": "mt-2026-07-28-12",
+          "id": "mt-2026-07-28-16",
           "titulo": "Alpinistas da Bósnia Morrem no Monte Elbrus da Rússia",
           "resumo": "O Ministério de Situações de Emergência da Rússia disse que os resgatadores salvaram dois outros alpinistas, que foram evacuados e levados para atendimento médico.",
           "imagem": null,
@@ -779,23 +811,23 @@
           "publicado_em": "2026-07-26T15:38:00.000Z"
         },
         {
-          "id": "mt-2026-07-28-13",
-          "titulo": "Kremlin Diz que é Cedo Demais para Comentar sobre Relatos de Negociações de Cessar-Fogo Aéreo entre EUA e Ucrânia",
-          "resumo": "\"Ouvimos declarações de que algumas novas fórmulas podem ser possíveis. Ainda precisamos aprender mais sobre elas\", disse o porta-voz do Kremlin, Dmitry Peskov.",
+          "id": "mt-2026-07-28-17",
+          "titulo": "Kremlin Diz que é Cedo Demais para Comentar sobre Relatados Negociações de Ceasefire Aéreo entre EUA e Ucrânia",
+          "resumo": "\"Ouvimos declarações de que podem ser possíveis novas fórmulas. Ainda precisamos aprender mais sobre elas\", disse o porta-voz do Kremlin, Dmitry Peskov.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/26/kremlin-says-too-early-to-comment-on-reported-us-ukraine-air-ceasefire-talks-a93342",
           "publicado_em": "2026-07-26T14:55:00.000Z"
         },
         {
-          "id": "mt-2026-07-28-14",
+          "id": "mt-2026-07-28-18",
           "titulo": "Rússia e Ucrânia Relatam Civis Mortos em Ataques",
-          "resumo": "A Rússia disse que quatro pessoas foram mortas por um ataque de drona ucraniano na cidade ucraniana ocupada pela Rússia de Horlivka.",
+          "resumo": "A Rússia disse que quatro pessoas foram mortas por um ataque de drone ucraniano na cidade ucraniana ocupada pela Rússia de Horlivka.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/26/russia-and-ukraine-both-report-civilians-killed-in-strikes-a93341",
           "publicado_em": "2026-07-26T14:04:00.000Z"
         },
         {
-          "id": "mt-2026-07-28-15",
+          "id": "mt-2026-07-28-19",
           "titulo": "Romênia Derruba Terceiro Drone Russo, enquanto o Presidente Chama as Violações de 'Inaceitáveis'",
           "resumo": "Moscou não fez nenhum comentário público imediato sobre os incidentes.",
           "imagem": null,
@@ -803,28 +835,12 @@
           "publicado_em": "2026-07-26T10:20:23.000Z"
         },
         {
-          "id": "mt-2026-07-28-16",
+          "id": "mt-2026-07-28-20",
           "titulo": "Ao Falar ao Lado de Putin, o Presidente do Cazaquistão Pede um Congelamento da Guerra na Ucrânia",
           "resumo": "O Kremlin disse mais tarde que \"congelar o conflito como tal é impossível, dado a posição de Kyiv\".",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/26/speaking-alongside-putin-kazakh-president-calls-for-freeze-of-ukraine-war-a93339",
           "publicado_em": "2026-07-26T07:29:13.000Z"
-        },
-        {
-          "id": "mt-2026-07-28-17",
-          "titulo": "Ataques Ucranianos Matam 2 em Belgorod e Atacam Armazém da Wildberries nos Urais",
-          "resumo": "A Wildberries suspendeu as operações e evacuou os trabalhadores de sua instalação logística local na cidade de Yekaterinburg.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/25/ukrainian-attacks-kill-2-in-belgorod-and-target-wildberries-warehouse-in-urals-a93338",
-          "publicado_em": "2026-07-25T09:19:00.000Z"
-        },
-        {
-          "id": "mt-2026-07-28-18",
-          "titulo": "Importante Terminal de Petróleo Russo no Mar Negro Para as Operações devido à Ameaça de Drona Ucraniana",
-          "resumo": "O terminal de Sheskharis no porto do Mar Negro de Novorossiysk não carregou nenhum petroleiro desde a manhã de terça-feira, segundo a Bloomberg.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/25/major-russian-black-sea-oil-terminal-halts-operations-amid-ukrainian-drone-threat-a93337",
-          "publicado_em": "2026-07-25T07:50:03.000Z"
         }
       ]
     },
