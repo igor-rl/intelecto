@@ -6,9 +6,9 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Tensões Globais: Conflitos e Desafios",
-    "subtitulo": "Ucrânia, Oriente Médio e África: Pontos Quentes no Mapa Mundial",
-    "resumo": "O dia foi marcado por uma série de eventos que destacam as tensões globais. A Ucrânia continua a ser um ponto de conflito, com drones ucranianos atacando Moscou e a Rússia retaliando. No Oriente Médio, a situação em Gaza permanece tensa, com Israel expandindo sua zona militar e o primeiro-ministro israelense, Benjamin Netanyahu, acusando o prefeito de Nova York de 'incitar ódio' sobre a guerra em Gaza. Na África, a Uganda começou a distribuir ajuda alimentar de emergência após 19 pessoas morrerem de fome, enquanto o Quênia enfrenta protestos por cortes de energia. Além disso, a comunidade internacional está atenta às negociações entre Trump, Zelensky e Netanyahu, que podem ter implicações significativas para a região. Enquanto isso, a Europa lida com incêndios florestais massivos que se aproximam de Madri, e a Malásia prepara-se para eleições estaduais em Negeri Sembilan, onde a mobilidade dos eleitores pode influenciar o resultado.",
+    "titulo": "Tensões globais: Irã, Ucrânia e conflitos esquecidos",
+    "subtitulo": "Enquanto o mundo acompanha as negociações sobre o Irã, a Ucrânia busca mais apoio dos EUA e crises humanitárias são marginalizadas",
+    "resumo": "O dia foi marcado por tensões globais, com o Irã e a Ucrânia no centro das atenções. O presidente dos EUA, Donald Trump, se reuniu com o presidente ucraniano, Volodymyr Zelensky, para discutir o apoio americano à Ucrânia, enquanto o Irã enfrenta pressões internacionais sobre seu programa nuclear. No entanto, crises humanitárias em lugares como a Uganda, que foi declarada livre do surto de ebola, e o Sudão, onde a fome e a seca afetam milhares de pessoas, são marginalizadas pela grande imprensa. A Rússia também está no centro das atenções, com notícias sobre a guerra na Ucrânia e as relações com a Europa. Além disso, a África enfrenta desafios como a hepatite e o HIV, com esforços para expandir a triagem e o tratamento. O dia também foi marcado por notícias sobre a política interna dos EUA, com o presidente Trump enfrentando críticas sobre sua abordagem em relação ao Irã e a Ucrânia.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-07-28T08:00:00-03:00",
     "link": null,
@@ -973,56 +973,66 @@
   },
   "temas_principais": [
     {
-      "tema": "Conflito na Ucrânia",
-      "descricao": "Drones ucranianos atacam Moscou, e a Rússia responde com força.",
+      "tema": "Guerra na Ucrânia",
+      "descricao": "A Ucrânia busca mais apoio dos EUA, enquanto a Rússia continua a influenciar a região",
       "fontes_que_cobriram": [
+        "the_guardian",
+        "new_york_times",
+        "euronews",
         "rt",
-        "mt",
-        "st"
+        "mt"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian",
-        "new_york_times"
-      ],
-      "divergencia_de_enquadramento": "Enquanto a Rússia vê os ataques como uma ameaça à sua segurança, a Ucrânia os considera uma resposta legítima à agressão russa."
-    },
-    {
-      "tema": "Tensões no Oriente Médio",
-      "descricao": "Israel expande sua zona militar em Gaza, e o primeiro-ministro israelense acusa o prefeito de Nova York de 'incitar ódio'.",
-      "fontes_que_cobriram": [
         "scmp",
         "st"
       ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "euronews",
-        "aa"
-      ],
-      "divergencia_de_enquadramento": "Enquanto Israel vê sua ação como necessária para a segurança, a comunidade internacional expressa preocupação com as consequências humanitárias."
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a agressão russa, enquanto as fontes russas destacam a legítima defesa ucraniana"
     },
     {
-      "tema": "Desafios na África",
-      "descricao": "Uganda distribui ajuda alimentar de emergência, e o Quênia enfrenta protestos por cortes de energia.",
+      "tema": "Crise no Irã",
+      "descricao": "O Irã enfrenta pressões internacionais sobre seu programa nuclear",
+      "fontes_que_cobriram": [
+        "the_guardian",
+        "new_york_times",
+        "euronews",
+        "rt"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "scmp",
+        "st",
+        "aa"
+      ],
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a ameaça iraniana, enquanto as fontes iranianas destacam a soberania nacional"
+    },
+    {
+      "tema": "Crises humanitárias",
+      "descricao": "A Uganda foi declarada livre do surto de ebola, enquanto a fome e a seca afetam milhares de pessoas no Sudão",
       "fontes_que_cobriram": [
         "the_guardian",
         "aa"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
         "new_york_times",
-        "rt"
+        "euronews",
+        "rt",
+        "scmp",
+        "st",
+        "mt",
+        "smh"
       ],
-      "divergencia_de_enquadramento": "Enquanto a África lida com desafios internos, a comunidade internacional é chamada a prestar atenção e oferecer apoio."
+      "divergencia_de_enquadramento": "As fontes africanas destacam a importância da ajuda humanitária, enquanto as fontes ocidentais tendem a marginalizar essas crises"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Incêndios Florestais na Europa",
-      "por_que_importa": "Os incêndios florestais massivos que se aproximam de Madri são um lembrete dos desafios ambientais que a Europa enfrenta.",
-      "cobertura": "A cobertura foi limitada, com apenas algumas fontes abordando o tema."
+      "tema": "Hepatite e HIV na África",
+      "por_que_importa": "A África enfrenta desafios significativos na luta contra essas doenças",
+      "cobertura": "Apenas a AllAfrica cobriu esse tema, enquanto as outras fontes o ignoraram"
     },
     {
-      "tema": "Eleições em Negeri Sembilan",
-      "por_que_importa": "As eleições estaduais em Negeri Sembilan podem ter implicações significativas para a Malásia, especialmente considerando a mobilidade dos eleitores.",
-      "cobertura": "A cobertura foi escassa, com poucas fontes dedicando atenção a este tema."
+      "tema": "Política interna dos EUA",
+      "por_que_importa": "O presidente Trump enfrenta críticas sobre sua abordagem em relação ao Irã e a Ucrânia",
+      "cobertura": "As fontes americanas cobriram esse tema, enquanto as fontes internacionais o minimizaram"
     }
   ]
 }
