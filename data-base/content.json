@@ -807,47 +807,79 @@
     "smh": {
       "slug": "smh",
       "nome": "The Sydney Morning Herald (SMH)",
-      "gerado_em": "2026-07-29T10:46:33.462Z",
+      "gerado_em": "2026-07-29T21:46:17.610Z",
       "artigos": [
         {
-          "id": "smh-2026-07-29-01",
-          "titulo": "Sem fim rápido para a guerra à medida que EUA e Arábia Saudita atacam aliados do Irã no Iraque",
-          "resumo": "Irã disse que havia atirado em navios no Estreito de Ormuz e em bases dos EUA na Jordânia, à medida que esforços diplomáticos dão lugar a operações de combate renovadas.",
-          "imagem": "https://static.ffx.io/images/$zoom_0.3632%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_123/t_crop_custom/q_86%2Cf_auto/b1cc1fe4fa39872241ec7ea8ff72ab6d38b67a0636f2b114327688ded93ca0dd",
+          "id": "smh-2026-07-29-2101",
+          "titulo": "Dr. Fauci invoca repetidamente a Quinta Emenda em audiência do Senado sobre COVID-19",
+          "resumo": "O médico e imunologista invoca repetidamente a Quinta Emenda em uma audiência do Senado liderada pelos republicanos sobre a pandemia de COVID-19.",
+          "link": "https://www.smh.com.au/world/dr-fauci-repeatedly-invokes-fifth-amendment-in-covid-19-senate-hearing-20260730-p60juo.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/864c758759d6edc62d8ccf1c65261e5ff62de434",
+          "publicado_em": "2026-07-29T21:23:51.000Z"
+        },
+        {
+          "id": "smh-2026-07-29-2104",
+          "titulo": "Anthony Fauci se recusa a responder em audiência nos EUA",
+          "resumo": "O ex-médico-chefe dos EUA, Anthony Fauci, enfrentou uma audiência do Senado liderada pelos republicanos sobre seu manejo da pandemia de COVID-19.",
+          "link": "https://www.smh.com.au/world/anthony-fauci-pleads-the-fifth-in-us-hearing-20260730-p60juf.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/c973c5ffc3d43f8f3a174d55503e9e602fc743d1",
+          "publicado_em": "2026-07-29T20:54:52.000Z"
+        },
+        {
+          "id": "smh-2026-07-29-2110",
+          "titulo": "Bilionário dá o dedo do meio a Moscou após ser incluído na lista de mais procurados da Rússia",
+          "resumo": "O fundador da aplicação de mensagens Telegram, que nasceu na Rússia, nunca fugiu do holofote e afirma ter mais de 100 filhos.",
+          "link": "https://www.smh.com.au/business/companies/billionaire-gives-moscow-the-middle-finger-after-being-placed-on-most-wanted-list-20260730-p60jtq.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "imagem": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_190%2C$y_370/t_crop_custom/q_86%2Cf_auto/6907571b3016c28ae8919909b9d35084ab3d3dfa",
+          "publicado_em": "2026-07-29T20:35:54.000Z"
+        },
+        {
+          "id": "smh-2026-07-29-2111",
+          "titulo": "ASX deve cair após oscilações na Wall Street, Fed mantém taxas de juros, petróleo dispara devido às tensões no Oriente Médio",
+          "resumo": "Os preços do petróleo estão subindo novamente à medida que as tensões no Oriente Médio aumentam, enquanto o Federal Reserve manteve as taxas de juros estáveis.",
+          "link": "https://www.smh.com.au/business/markets/asx-set-to-rise-oil-jumps-as-middle-east-tensions-escalate-fed-keeps-rates-on-hold-after-family-fight-20260730-p60jto.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "imagem": "https://static.ffx.io/images/$zoom_0.2933%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_68%2C$y_36/t_crop_custom/q_86%2Cf_auto/b3af78a458913da6ef05e16c4e2e869a40bed19e",
+          "publicado_em": "2026-07-29T20:31:59.000Z"
+        },
+        {
+          "id": "smh-2026-07-29-2112",
+          "titulo": "Notícias da Austrália AO VIVO: Trump sinaliza ataque iminente ao Irã; teste de sangue para Alzheimer pode transformar detecção precoce",
+          "resumo": "Acompanhe nossa cobertura em tempo real dos últimos desenvolvimentos e notícias da Austrália e do mundo.",
+          "link": "https://www.smh.com.au/national/australia-news-live-trump-flags-imminent-attack-on-iran-alzheimer-s-blood-test-to-transform-early-detection-20260730-p60jtv.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "imagem": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/db433fce54efce18c2c19de6b2ef3eeda29c2cac",
+          "publicado_em": "2026-07-29T20:20:58.000Z"
+        },
+        {
+          "id": "smh-2026-07-29-2113",
+          "titulo": "‘É nossa vez de atacar’: Trump sinaliza retaliação após o Irã disparar mísseis contra forças dos EUA na Jordânia",
+          "resumo": "Aumento de tensões em várias frentes no Oriente Médio, após vários dias de calma relativa, aumenta o risco de retorno à guerra total.",
           "link": "https://www.smh.com.au/world/middle-east/no-quick-end-to-the-war-as-us-and-saudi-strike-iran-s-allies-in-iraq-20260729-p60jsg.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "publicado_em": "2026-07-29T10:02:42.000Z"
+          "imagem": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/db433fce54efce18c2c19de6b2ef3eeda29c2cac",
+          "publicado_em": "2026-07-29T20:07:57.000Z"
         },
         {
-          "id": "smh-2026-07-29-02",
-          "titulo": "Rinehart defendeu Rockhampton para remo no dia seguinte ao LNP apoiar",
-          "resumo": "Uma carta obtida por este jornal mostra que a bilionária Gina Rinehart defendeu Rockhampton para sediar o remo em 2032. O estado então rejeitou seu próprio conselho independente.",
-          "imagem": "https://static.ffx.io/images/$zoom_0.15886588658865886%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_jpg/befa0f074e5ff455bd64e0902bd4b05001b2ea50",
-          "link": "https://www.smh.com.au/politics/queensland/rinehart-lobbied-bleijie-on-rockhampton-rowing-then-the-lnp-backed-it-20260729-p60jox.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "publicado_em": "2026-07-29T10:24:39.000Z"
+          "id": "smh-2026-07-29-2115",
+          "titulo": "Trabalho, o CFMEU e uma pergunta de $109 bilhões que os vitorianos querem responder",
+          "resumo": "Governos trabalhistas anteriores entregaram projetos no prazo e dentro do orçamento. Em algum lugar, isso deu errado.",
+          "link": "https://www.smh.com.au/politics/victoria/labor-the-cfmeu-and-a-109b-question-victorians-want-answered-20260728-p60j54.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "imagem": "https://static.ffx.io/images/$zoom_0.2075656605252842%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_31/t_crop_custom/q_86%2Cf_auto/0e0aaf227baebed73d8397e31b89a2974356b06e",
+          "publicado_em": "2026-07-29T19:55:00.000Z"
         },
         {
-          "id": "smh-2026-07-29-03",
-          "titulo": "Sloane improvisa sua resposta à ICAC. Por que não prometer erradicar os ovos ruins?",
-          "resumo": "“ Honestamente”, disse o líder liberal, “estou aprendendo sobre isso como todos os demais.” Ainda assim, ela poderia anunciar tolerância zero para a corrupção.",
-          "imagem": "https://static.ffx.io/images/$zoom_0.2648%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_25/t_crop_custom/q_86%2Cf_auto/448f3f5c3dc1f949575c9585685367140331db2e",
-          "link": "https://www.smh.com.au/politics/nsw/sloane-ad-libs-her-icac-response-why-not-promise-to-root-out-bad-eggs-20260728-p60j5z.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "publicado_em": "2026-07-29T09:30:00.000Z"
+          "id": "smh-2026-07-29-2118",
+          "titulo": "Fauci enfrenta possível acusação de desacato após invocar a Quinta Emenda sobre as origens da COVID-19",
+          "resumo": "O ex-conselheiro médico do presidente dos EUA, cujo inimigo de longa data é o senador republicano Rand Paul, teve seu advogado expulso da sala durante uma audiência tensa que pode levar a acusações criminais.",
+          "link": "https://www.smh.com.au/world/north-america/fauci-pleads-fifth-amendment-on-covid-19-origins-lawyer-thrown-out-of-tense-hearing-20260730-p60jtf.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "imagem": "https://static.ffx.io/images/$zoom_0.2176%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/6ec15c5023a63a7ff60af12aadfbb72aa0bece8d",
+          "publicado_em": "2026-07-29T19:11:51.000Z"
         },
         {
-          "id": "smh-2026-07-29-04",
-          "titulo": "Ativista liberal passou a maior parte do tempo de trabalho planejando empilhar filiais",
-          "resumo": "O ex-funcionário da Catholic Schools NSW, Robert Assaf, será a testemunha-chave na ICAC na quinta-feira.",
-          "imagem": "https://static.ffx.io/images/$zoom_0.5684380032206119%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_88/t_crop_custom/q_86%2Cf_auto/e731a5f6cb66c54d87d0621418498166b56b5187",
-          "link": "https://www.smh.com.au/politics/nsw/very-large-distaste-icac-told-of-efforts-to-damage-mp-building-commission-20260729-p60jlw.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "publicado_em": "2026-07-29T09:05:01.000Z"
-        },
-        {
-          "id": "smh-2026-07-29-05",
-          "titulo": "ASIC expõe erro de deslocamento de hipoteca em todo o sistema bancário australiano",
-          "resumo": "A ASIC expôs falhas generalizadas de vários milhões de dólares em todos os principais prestamistas, envolvendo contas de deslocamento de hipoteca.",
-          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/8b57c115cdb25b6f9253bd49f595d0f17ed911bd",
-          "link": "https://www.smh.com.au/national/asic-exposes-mortgage-offset-blunder-across-major-australian-banks-20260729-p60jsd.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "publicado_em": "2026-07-29T09:04:41.000Z"
+          "id": "smh-2026-07-29-2119",
+          "titulo": "Aviso de superanuação para expatriados australianos após colapso de $1,1 bilhão",
+          "resumo": "Um cidadão australiano que vive no exterior há quase 20 anos emitiu um aviso a outros expatriados: verifique seu fundo de superanuação agora.",
+          "link": "https://www.smh.com.au/national/superannuation-warning-for-aussie-expats-after-1-1-billion-collapse-20260730-p60jtm.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/8ee7ef34e1923fbaf848c7c8ea0a5d33b36414e3",
+          "publicado_em": "2026-07-29T19:05:41.000Z"
         }
       ]
     }
