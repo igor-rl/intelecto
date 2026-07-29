@@ -6,11 +6,11 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Tensões globais: Irã, Ucrânia e conflitos esquecidos",
-    "subtitulo": "Enquanto o mundo acompanha as negociações sobre o Irã, a Ucrânia busca mais apoio dos EUA e crises humanitárias são marginalizadas",
-    "resumo": "O dia foi marcado por tensões globais, com o Irã e a Ucrânia no centro das atenções. O presidente dos EUA, Donald Trump, se reuniu com o presidente ucraniano, Volodymyr Zelensky, para discutir o apoio americano à Ucrânia, enquanto o Irã enfrenta pressões internacionais sobre seu programa nuclear. No entanto, crises humanitárias em lugares como a Uganda, que foi declarada livre do surto de ebola, e o Sudão, onde a fome e a seca afetam milhares de pessoas, são marginalizadas pela grande imprensa. A Rússia também está no centro das atenções, com notícias sobre a guerra na Ucrânia e as relações com a Europa. Além disso, a África enfrenta desafios como a hepatite e o HIV, com esforços para expandir a triagem e o tratamento. O dia também foi marcado por notícias sobre a política interna dos EUA, com o presidente Trump enfrentando críticas sobre sua abordagem em relação ao Irã e a Ucrânia.",
+    "titulo": "Mortes de elefantes no Quênia e tensões no Oriente Médio",
+    "subtitulo": "Investigações sobre mortes inesperadas de elefantes no Quênia e escalada de tensões entre EUA, Arábia Saudita e Irã",
+    "resumo": "O dia foi marcado por notícias de mortes inesperadas de 15 elefantes no parque nacional Amboseli, no Quênia, com suspeitas de envenenamento. Enquanto isso, no Oriente Médio, as tensões entre EUA, Arábia Saudita e Irã continuam a escalar, com ataques a navios e bases militares. A Rússia também está envolvida, com notícias de um mandado de prisão internacional para o fundador do Telegram. Além disso, a África do Sul e a Rússia fortalecem laços militares, e a Ucrânia continua a sofrer com ataques de drones. Em outro cenário, a Libéria e a França preparam um acordo de segurança para combater o tráfico de drogas.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-07-28T08:00:00-03:00",
+    "publicado_em": "2026-07-29T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -972,66 +972,37 @@
   },
   "temas_principais": [
     {
-      "tema": "Guerra na Ucrânia",
-      "descricao": "A Ucrânia busca mais apoio dos EUA, enquanto a Rússia continua a influenciar a região",
+      "tema": "Mortes de elefantes no Quênia",
+      "descricao": "Investigação sobre mortes inesperadas de 15 elefantes no parque nacional Amboseli",
       "fontes_que_cobriram": [
-        "the_guardian",
-        "new_york_times",
-        "euronews",
-        "rt",
-        "mt"
+        "the_guardian"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "scmp",
+        "new_york_times",
+        "euronews"
+      ],
+      "divergencia_de_enquadramento": "Enquanto o The Guardian destaca a investigação sobre as mortes, outros veículos não deram grande cobertura ao tema."
+    },
+    {
+      "tema": "Tensões no Oriente Médio",
+      "descricao": "Escalada de tensões entre EUA, Arábia Saudita e Irã",
+      "fontes_que_cobriram": [
+        "new_york_times",
+        "euronews",
         "st"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a agressão russa, enquanto as fontes russas destacam a legítima defesa ucraniana"
-    },
-    {
-      "tema": "Crise no Irã",
-      "descricao": "O Irã enfrenta pressões internacionais sobre seu programa nuclear",
-      "fontes_que_cobriram": [
-        "the_guardian",
-        "new_york_times",
-        "euronews",
-        "rt"
-      ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "scmp",
-        "st",
-        "aa"
-      ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a ameaça iraniana, enquanto as fontes iranianas destacam a soberania nacional"
-    },
-    {
-      "tema": "Crises humanitárias",
-      "descricao": "A Uganda foi declarada livre do surto de ebola, enquanto a fome e a seca afetam milhares de pessoas no Sudão",
-      "fontes_que_cobriram": [
         "the_guardian",
-        "aa"
+        "scmp"
       ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "new_york_times",
-        "euronews",
-        "rt",
-        "scmp",
-        "st",
-        "mt",
-        "smh"
-      ],
-      "divergencia_de_enquadramento": "As fontes africanas destacam a importância da ajuda humanitária, enquanto as fontes ocidentais tendem a marginalizar essas crises"
+      "divergencia_de_enquadramento": "Os veículos ocidentais tendem a enfatizar a ameaça iraniana, enquanto os veículos russos e chineses destacam a intervenção dos EUA e da Arábia Saudita."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Hepatite e HIV na África",
-      "por_que_importa": "A África enfrenta desafios significativos na luta contra essas doenças",
-      "cobertura": "Apenas a AllAfrica cobriu esse tema, enquanto as outras fontes o ignoraram"
-    },
-    {
-      "tema": "Política interna dos EUA",
-      "por_que_importa": "O presidente Trump enfrenta críticas sobre sua abordagem em relação ao Irã e a Ucrânia",
-      "cobertura": "As fontes americanas cobriram esse tema, enquanto as fontes internacionais o minimizaram"
+      "tema": "Acordo de segurança entre Libéria e França",
+      "por_que_importa": "Combate ao tráfico de drogas e crime organizado",
+      "cobertura": "Apenas a AllAfrica deu cobertura a esse tema"
     }
   ]
 }
