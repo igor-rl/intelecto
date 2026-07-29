@@ -121,71 +121,95 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-07-29T10:00:01.068Z",
+      "gerado_em": "2026-07-29T21:00:00.700Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-07-29-1004",
-          "titulo": "Alguns jordanianos exigem que as tropas americanas deixem o reino",
-          "resumo": "Centenas de figuras políticas, jurídicas e outras assinaram uma carta pública advertindo que a aliança próxima da Jordânia com os EUA representa um risco.",
+          "id": "new_york_times-2026-07-29-2101",
+          "titulo": "Arábia Saudita Lança Ataques no Iraque, Marcando Entrada na Guerra EUA-Irã",
+          "resumo": "O ministério da defesa do reino disse que os ataques aéreos no Iraque, visando milícias apoiadas pelo Irã, foram em retaliação aos ataques às instalações petrolíferas sauditas esta semana.",
+          "link": "https://www.nytimes.com/2026/07/29/world/middleeast/saudi-arabia-us-iran-war.html",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/29/world/middleeast/jordan-us-military-iran-war.html",
-          "publicado_em": "2026-07-29T04:01:19.000Z"
+          "publicado_em": "2026-07-29T20:35:32.000Z"
         },
         {
-          "id": "new_york_times-2026-07-29-1005",
-          "titulo": "Houthis reivindicam ataque a outro petroleiro saudita",
-          "resumo": "Com seu aliado, o Irã, bloqueando o estreito de Ormuz, o grupo Houthi no Iêmen está escalando sua declaração de bloqueio dos navios sauditas em outra via aquática vital, o Mar Vermelho.",
+          "id": "new_york_times-2026-07-29-2102",
+          "titulo": "Famílias Enfrentam Ansiedade à Medida que Entes Queridos São Despachados para Lutar Contra o Irã",
+          "resumo": "À medida que a guerra com o Irã continua, alguns estão descobrindo que o estresse está trazendo de volta velhas ansiedades.",
+          "link": "https://www.nytimes.com/2026/07/29/us/iran-war-military-families-anxiety.html",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/28/world/middleeast/houthis-strike-saudi-tanker.html",
-          "publicado_em": "2026-07-29T01:08:39.000Z"
+          "publicado_em": "2026-07-29T20:18:27.000Z"
         },
         {
-          "id": "new_york_times-2026-07-29-1006",
-          "titulo": "As tarifas de Trump estão enviando algumas empresas de volta à China",
-          "resumo": "Para algumas marcas americanas que buscam um local para suas fábricas, a lógica econômica está apontando novamente para a China.",
+          "id": "new_york_times-2026-07-29-2103",
+          "titulo": "Senadores Cornyn e Tillis Ameaçam Bloquear a Nomeação de Blanche por Causa do Acordo do IRS com Trump",
+          "resumo": "Os senadores John Cornyn e Thom Tillis acusaram o indicado ao cargo de procurador-geral de se recusar a colocar no papel sua promessa de acabar com aspectos do acordo que ele fez para resolver a ação do presidente Trump contra a agência.",
+          "link": "https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-senate-vote-irs.html",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/29/business/economy/trumps-tariffs-are-sending-some-companies-back-to-china.html",
-          "publicado_em": "2026-07-29T09:02:02.000Z"
+          "publicado_em": "2026-07-29T20:26:52.000Z"
         },
         {
-          "id": "new_york_times-2026-07-29-1007",
-          "titulo": "O que assistir na reunião de julho do Federal Reserve",
-          "resumo": "Kevin M. Warsh, que presidirá sua segunda reunião como presidente do banco central, enfrenta pressão para aumentar as taxas de juros à medida que a inflação permanece elevada.",
+          "id": "new_york_times-2026-07-29-2104",
+          "titulo": "Com a Nomeação de Blanche em Jogo, Pagamentos a Aliados de Trump Continuam",
+          "resumo": "Um acordo de sete dígitos foi anunciado dois dias antes de uma votação agendada do comitê do Senado sobre a nomeação de Todd Blanche para procurador-geral.",
+          "link": "https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-weaponization-payouts.html",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/29/business/what-to-know-federal-reserve-july-meeting.html",
-          "publicado_em": "2026-07-29T09:02:10.000Z"
+          "publicado_em": "2026-07-29T18:54:42.000Z"
         },
         {
-          "id": "new_york_times-2026-07-29-1008",
-          "titulo": "Verão de calor, incêndios e tempestades é um acerto de contas para a Europa sobre o clima",
+          "id": "new_york_times-2026-07-29-2105",
+          "titulo": "Trump Exigiu Detalhes da Entrevista de Agentes com Comey, Diz Nova Petição",
+          "resumo": "O pedido sugere o envolvimento pessoal intenso do presidente Trump na investigação de um de seus críticos de longa data, o ex-diretor do FBI James B. Comey.",
+          "link": "https://www.nytimes.com/2026/07/29/us/james-comey-seashells-trump-secret-service.html",
+          "imagem": null,
+          "publicado_em": "2026-07-29T16:54:13.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-29-2109",
+          "titulo": "Projeto de Lei de Sanções Daria a Trump Novos Poderes para Impor Tarifas",
+          "resumo": "Um projeto de lei bipartidário no Senado permitiria que o presidente Trump impusesse tarifas sobre os maiores importadores de energia russa.",
+          "link": "https://www.nytimes.com/2026/07/29/us/politics/trump-tariffs-sanctions.html",
+          "imagem": null,
+          "publicado_em": "2026-07-29T19:40:21.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-29-2110",
+          "titulo": "Resposta do Canadá às Tarifas de Trump: Mais Acordos de Energia com a Europa",
+          "resumo": "O acordo do governo Carney com uma empresa de gás natural alemã também reduzirá a dependência da Europa de um suprimento do Catar tornado mais incerto pela guerra.",
+          "link": "https://www.nytimes.com/2026/07/29/world/canada/canada-lng-germany-carney-trump-tariffs.html",
+          "imagem": null,
+          "publicado_em": "2026-07-29T20:21:07.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-29-2114",
+          "titulo": "Incêndios Florestais na Europa Ampliados por Campo Abandonado e Menos Fazendas",
+          "resumo": "Um planeta em aquecimento e uma mudança para longe da agricultura criaram o cenário para incêndios maiores no continente. 'Devemos aprender a coexistir com eles', disse um relatório.",
+          "link": "https://www.nytimes.com/2026/07/29/climate/france-spain-europe-megafires.html",
+          "imagem": null,
+          "publicado_em": "2026-07-29T16:18:59.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-29-2115",
+          "titulo": "Verão de Calor, Incêndios e Tempestades é um Acerto de Contas para a Europa sobre o Clima",
           "resumo": "O continente está experimentando alguns de seus maiores incêndios e temperaturas mais altas já registradas. Moradores estão fugindo, líderes estão lutando para responder e 'isso vai piorar', disse um especialista em clima.",
-          "imagem": null,
           "link": "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html",
-          "publicado_em": "2026-07-29T09:55:53.000Z"
+          "imagem": null,
+          "publicado_em": "2026-07-29T14:06:52.000Z"
         },
         {
-          "id": "new_york_times-2026-07-29-1011",
-          "titulo": "Japão corre para alcançar pessoas presas após terremoto que matou pelo menos 13",
-          "resumo": "Pessoal de resgate está trabalhando para libertar aqueles presos em prédios desmoronados após um terremoto de magnitude 6,8 atingir Kumamoto na terça-feira.",
+          "id": "new_york_times-2026-07-29-2116",
+          "titulo": "Em Meio à Guerra Civil de Mianmar, os Ricos Buscam Festas e 'Vibrações Positivas Apenas'",
+          "resumo": "Os estilos de vida dos ricos em Mianmar — boates, caviar e viagens ao exterior — permaneceram em grande parte intocados por anos de conflito mortal.",
+          "link": "https://www.nytimes.com/2026/07/29/world/asia/myanmar-war-nightlife-luxury.html",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/28/world/asia/japan-earthquake-kumamoto-rescue-survivors.html",
-          "publicado_em": "2026-07-29T07:50:22.000Z"
+          "publicado_em": "2026-07-29T04:01:17.000Z"
         },
         {
-          "id": "new_york_times-2026-07-29-1015",
-          "titulo": "Elon Musk é uma ameaça à sociedade",
-          "resumo": "Por que o dono do X recebe um passe livre pelo que diz e faz lá?",
-          "imagem": null,
+          "id": "new_york_times-2026-07-29-2118",
+          "titulo": "Por Que Toleramos os Comentários Racistas de Elon Musk?",
+          "resumo": "Por que o dono do X recebe um passe livre pelo que ele diz e faz lá?",
           "link": "https://www.nytimes.com/2026/07/29/opinion/elon-musk-far-right-remigration.html",
-          "publicado_em": "2026-07-29T09:01:57.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-29-1018",
-          "titulo": "Em Ohio, águas residuais tóxicas estão borbulhando do chão",
-          "resumo": "O estado é um grande importador de águas residuais de fraturamento, que são bombeadas para debaixo da terra, mas nem sempre ficam lá. A cidade de Marietta está lutando de volta.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/29/climate/ohio-fracking-water-injection-wells.html",
-          "publicado_em": "2026-07-29T09:00:28.000Z"
+          "publicado_em": "2026-07-29T19:12:35.000Z"
         }
       ]
     },
