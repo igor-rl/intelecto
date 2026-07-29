@@ -192,127 +192,135 @@
     "euronews": {
       "slug": "euronews",
       "nome": "Euro News",
-      "gerado_em": "2026-07-28T21:00:22.673Z",
+      "gerado_em": "2026-07-29T10:00:16.678Z",
       "artigos": [
         {
-          "id": "euronews-2026-07-28-2101",
+          "id": "euronews-2026-07-29-1003",
+          "titulo": "Rússia emite mandado de prisão internacional para fundador do Telegram",
+          "resumo": "Durov, que possui passaportes francês e dos Emirados Árabes Unidos e vive fora da Rússia há anos, chamou o caso de motivado politicamente.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/29/russia-issues-international-arrest-warrant-for-telegram-founder-durov",
+          "publicado_em": "2026-07-29T08:13:55.000Z"
+        },
+        {
+          "id": "euronews-2026-07-29-1005",
+          "titulo": "Manifestantes israelenses marcham em Tel Aviv contra violência de colonos na Cisjordânia",
+          "resumo": "Manifestantes israelenses marcharam em Tel Aviv contra a violência de colonos na Cisjordânia ocupada, enquanto a polícia bloqueou a rota e confrontou manifestantes.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/29/israeli-protesters-march-in-tel-aviv-against-west-bank-settler-violence",
+          "publicado_em": "2026-07-29T06:35:27.000Z"
+        },
+        {
+          "id": "euronews-2026-07-29-1008",
+          "titulo": "EUA interceptam ataque iraniano e lançam ataques conjuntos com a Arábia Saudita contra milícias apoiadas pelo Irã no Iraque",
+          "resumo": "O exército dos EUA alertou o Irã para parar seus ataques realizados diretamente ou por meio de seus proxies regionais contra ativos de Washington no Golfo ou infraestrutura de energia da Arábia Saudita.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/29/us-intercepts-iranian-attack-and-launches-joint-strikes-with-saudi-arabia-against-iran-bac",
+          "publicado_em": "2026-07-29T04:19:50.000Z"
+        },
+        {
+          "id": "euronews-2026-07-29-1009",
+          "titulo": "Equipes de resgate procuram sobreviventes após terremoto poderoso atingir sudoeste do Japão",
+          "resumo": "Dezenas de pessoas ainda estão presas sob os escombros enquanto as autoridades correm contra o relógio para salvar o máximo de pessoas possível durante o período crítico de 72 horas de resgate.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/29/rescuers-scramble-to-locate-survivors-as-death-toll-climbs-to-13-after-powerful-quake-hits",
+          "publicado_em": "2026-07-29T03:19:25.000Z"
+        },
+        {
+          "id": "euronews-2026-07-29-1010",
           "titulo": "Keiko Fujimori assume o cargo de presidente do Peru, prometendo acabar com a década de instabilidade",
-          "resumo": "A líder da Força Popular se torna a primeira presidente feminina do Peru, retornando o fujimorismo ao poder após 26 anos. Ela deve fazer seu discurso de posse e anunciar seu gabinete.",
+          "resumo": "A líder da Força Popular se torna a primeira presidente mulher do Peru, retornando o fujimorismo ao poder após 26 anos.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/28/keiko-fujimori-takes-office-as-perus-president-vowing-to-end-decade-of-instability",
           "publicado_em": "2026-07-28T19:57:52.000Z"
         },
         {
-          "id": "euronews-2026-07-28-2102",
-          "titulo": "Trump e Netanyahu realizam primeira reunião presencial desde sua 'discordância' sobre a guerra no Irã",
-          "resumo": "A reunião foi a oitava entre Trump e Netanyahu desde que o presidente dos EUA retornou ao cargo no início de 2025 e ocorreu antes das eleições em Israel e dos meio-períodos nos EUA mais tarde este ano.",
+          "id": "euronews-2026-07-29-1011",
+          "titulo": "Trump e Netanyahu realizam primeira reunião presencial desde sua 'desavença' sobre a guerra com o Irã",
+          "resumo": "A reunião foi a oitava entre Trump e Netanyahu desde que o presidente dos EUA retornou ao cargo no início de 2025 e ocorreu antes das eleições em Israel e dos meio-mandatos nos EUA mais tarde este ano.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/28/trump-and-netanyahu-hold-first-face-to-face-talks-since-their-disagreement-on-the-iran-war",
           "publicado_em": "2026-07-28T18:12:30.000Z"
         },
         {
-          "id": "euronews-2026-07-28-2104",
-          "titulo": "Zelenskyy se reúne com Trump na Casa Branca enquanto a Ucrânia busca mais apoio dos EUA",
-          "resumo": "Desde que retornou ao poder no início do ano passado, Trump interrompeu as entregas diretas de armas dos EUA para Kiev em favor de um programa que permite que os países europeus comprem armas para a Ucrânia.",
+          "id": "euronews-2026-07-29-1013",
+          "titulo": "Zelenskyy e Trump realizam reunião fechada na Casa Branca sobre a guerra na Ucrânia",
+          "resumo": "Desde que retornou ao cargo no início do ano passado, Trump parou as entregas diretas de armas dos EUA para Kiev, favorecendo um programa que permite que países europeus comprem armas para a Ucrânia.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/28/zelenskyy-meets-trump-at-white-house-as-ukraine-seeks-more-us-support",
           "publicado_em": "2026-07-28T15:55:54.000Z"
         },
         {
-          "id": "euronews-2026-07-28-2105",
+          "id": "euronews-2026-07-29-1014",
           "titulo": "Gravações de áudio aparentemente mostram Biden discutindo informações classificadas com seu ghostwriter",
-          "resumo": "Biden tinha 74 anos quando as entrevistas começaram e 81 quando Hur lançou seu relatório no início de 2024, enquanto buscava a reeleição.",
+          "resumo": "Biden tinha 74 anos quando as entrevistas começaram e 81 anos quando Hur lançou seu relatório no início de 2024, enquanto buscava a reeleição.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/28/audio-recordings-appear-to-show-biden-discussing-classified-information-with-his-ghostwrit",
           "publicado_em": "2026-07-28T15:15:30.000Z"
         },
         {
-          "id": "euronews-2026-07-28-2106",
-          "titulo": "Equipes de resgate evacuam aldeias inundadas em Sheikhupura, no Paquistão",
+          "id": "euronews-2026-07-29-1015",
+          "titulo": "Equipes de resgate evacuam vilas inundadas no Paquistão",
           "resumo": "Equipes de resgate evacuam moradores de barco em Sheikhupura, no Paquistão, após inundações causadas por monções submergirem casas e deixarem comunidades sem suprimentos básicos.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/07/28/rescue-teams-evacuate-flooded-villages-in-sheikhupura-pakistan",
           "publicado_em": "2026-07-28T14:14:13.000Z"
         },
         {
-          "id": "euronews-2026-07-28-2107",
+          "id": "euronews-2026-07-29-1016",
           "titulo": "Alerta de tsunami após terremoto poderoso no sudoeste do Japão",
-          "resumo": "O Japão emitiu um alerta de tsunami após um terremoto de magnitude 7,1 atingir Kyushu, danificando edifícios, cortando a energia e desencadeando esforços de resposta de emergência.",
+          "resumo": "O Japão emitiu um alerta de tsunami após um terremoto de magnitude 7,1 atingir Kyushu, danificando prédios, cortando a energia e provocando esforços de resposta de emergência.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/07/28/tsunami-alert-follows-powerful-earthquake-in-southwest-japan",
           "publicado_em": "2026-07-28T12:40:56.000Z"
         },
         {
-          "id": "euronews-2026-07-28-2108",
-          "titulo": "Imagens aéreas mostram incêndios florestais se espalhando pela região de Madrid, na Espanha",
-          "resumo": "Bombeiros lutam para conter incêndios florestais na região de Madrid, na Espanha, com aeronaves de combate a incêndios despachadas para apagar a área e reduzir o calor e a seca extremos que alimentam as chamas.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/07/28/aerial-footage-shows-wildfires-spreading-across-spains-madrid-region",
-          "publicado_em": "2026-07-28T12:10:59.000Z"
-        },
-        {
-          "id": "euronews-2026-07-28-2109",
-          "titulo": "Muitos temem que haja mortos após terremoto deixar compradores presos em shopping center japonês",
+          "id": "euronews-2026-07-29-1018",
+          "titulo": "Muitos temem mortos após terremoto deixar compradores presos em shopping center japonês",
           "resumo": "A polícia recebeu relatos de uma explosão no outlet do Aeon Mall na região de Kumamoto, mas a força não forneceu informações sobre danos ou vítimas.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/28/tsunami-warning-lifted-in-southern-japan-after-71-quake",
           "publicado_em": "2026-07-28T11:56:38.000Z"
         },
         {
-          "id": "euronews-2026-07-28-2110",
-          "titulo": "Comunidade de Berlim lembra vítimas do ataque ao desfile do orgulho",
-          "resumo": "Berlineses deixam flores, velas e mensagens no memorial do Tiergarten após um ataque mortal com veículo e faca perto do desfile do orgulho.",
+          "id": "euronews-2026-07-29-1019",
+          "titulo": "Comunidade de Berlim lembra vítimas de ataque a desfile do orgulho gay",
+          "resumo": "Berlineses deixam flores, velas e mensagens no memorial do Tiergarten após um ataque mortal com veículo e faca perto do desfile do orgulho gay.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/07/28/berlin-community-remembers-victims-of-pride-parade-attack",
           "publicado_em": "2026-07-28T11:19:23.000Z"
         },
         {
-          "id": "euronews-2026-07-28-2113",
+          "id": "euronews-2026-07-29-1022",
           "titulo": "O timing da guerra e da paz não é seu para decidir, diz o Irã aos EUA",
-          "resumo": "O ministério das Relações Exteriores de Teerã disse que o Irã não permitirá que Washington determine \"o timing da guerra e da paz\", como Trump alegou que a República Islâmica havia solicitado negociações e mediadores buscavam revisar...",
+          "resumo": "O ministério das Relações Exteriores do Irã disse que o país não permitirá que Washington determine \"o timing da guerra e da paz\", enquanto Trump alegou que a República Islâmica solicitou negociações e mediadores buscavam revisar o acordo nuclear.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/28/the-timing-of-war-and-peace-is-not-yours-to-decide-iran-tells-us",
           "publicado_em": "2026-07-28T09:43:49.000Z"
         },
         {
-          "id": "euronews-2026-07-28-2114",
+          "id": "euronews-2026-07-29-1023",
           "titulo": "Incêndio florestal na França: moradores regam brasas com água após incêndio destruir 170 casas em Le Porge",
-          "resumo": "Moradores em Le Porge, na região de Gironde, no sudoeste da França, trabalham para evitar que um incêndio florestal devastador se reacenda, pulverizando água sobre brasas em chamas. O incêndio destruiu pelo menos 170 casas.",
+          "resumo": "Moradores em Le Porge, na região de Gironde, no sudoeste da França, trabalham para evitar que um incêndio devastador se reacenda, borrifando água sobre brasas fumegantes na floresta.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/28/france-wildfire-residents-douse-embers-with-water-after-blaze-destroys-170-homes-in-le-por",
           "publicado_em": "2026-07-28T09:28:36.000Z"
         },
         {
-          "id": "euronews-2026-07-28-2115",
+          "id": "euronews-2026-07-29-1024",
           "titulo": "Irã executa publicamente dois manifestantes em Isfahan, apesar de apelos da ONU para parar",
-          "resumo": "Dois manifestantes foram executados publicamente em Isfahan na terça-feira de manhã, elevando o total para quatro mortes entre as 12 sentenças no mesmo caso, após especialistas da ONU condenarem confissões forçadas e julgamentos fechados.",
+          "resumo": "Dois manifestantes foram executados publicamente em Isfahan na terça-feira de manhã, elevando o total para quatro mortes entre 12 sentenciados no mesmo caso, após especialistas da ONU condenarem confissões forçadas e julgamentos fechados.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/28/iran-publicly-executes-two-isfahan-protesters-despite-un-calls-to-stop",
           "publicado_em": "2026-07-28T08:44:56.000Z"
         },
         {
-          "id": "euronews-2026-07-28-2116",
-          "titulo": "Trípoli explode em protestos devido a cortes de energia com pedidos para derrubar o governo",
-          "resumo": "Manifestantes bloquearam estradas, fecharam instituições estatais e selaram prédios do governo, enquanto as temperaturas atingiram até 50 graus Celsius e os cortes diários de energia se estenderam por 14 horas. Os protestos se espalharam rapidamente.",
+          "id": "euronews-2026-07-29-1025",
+          "titulo": "Trípoli explode em protestos por cortes de energia com pedidos para derrubar o governo",
+          "resumo": "Manifestantes bloquearam estradas, fecharam instituições estatais e selaram prédios do governo enquanto as temperaturas atingiram até 50 graus Celsius e os cortes de energia diários se estendiam por 14 horas.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/28/tripoli-erupts-in-protests-over-power-cuts-with-calls-to-topple-government",
           "publicado_em": "2026-07-28T08:08:32.000Z"
-        },
-        {
-          "id": "euronews-2026-07-28-2117",
-          "titulo": "Casa Branca se prepara para negociações de alto risco com Zelenskyy e Netanyahu",
-          "resumo": "As reuniões mostrarão o equilíbrio da política externa de Washington, enquanto tenta intermediar a paz na Ucrânia, apesar de ser o instigador da ação militar no Oriente Médio.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/28/white-house-prepares-for-high-stakes-talks-with-zelenskyy-and-netanyahu",
-          "publicado_em": "2026-07-28T06:59:34.000Z"
-        },
-        {
-          "id": "euronews-2026-07-28-2121",
-          "titulo": "Ucrânia continua ataques de longo alcance a instalações de exportação e petróleo russas, aumentando a pressão sobre Moscou",
-          "resumo": "O presidente ucraniano Volodymyr Zelenskyy disse que suas forças atacaram um terminal de exportação na região ocidental de Rostov, bem como instalações de petróleo nas regiões de Yaroslavl e Udmúrtia, longe da linha de frente.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/27/ukraine-keeps-up-long-range-strikes-on-russian-export-and-oil-facilities-as-pressure-on-mo",
-          "publicado_em": "2026-07-27T19:54:07.000Z"
         }
       ]
     },
