@@ -6,9 +6,9 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Mortes de elefantes no Quênia e tensões no Oriente Médio",
-    "subtitulo": "Investigações sobre mortes inesperadas de elefantes no Quênia e escalada de tensões entre EUA, Arábia Saudita e Irã",
-    "resumo": "O dia foi marcado por notícias de mortes inesperadas de 15 elefantes no parque nacional Amboseli, no Quênia, com suspeitas de envenenamento. Enquanto isso, no Oriente Médio, as tensões entre EUA, Arábia Saudita e Irã continuam a escalar, com ataques a navios e bases militares. A Rússia também está envolvida, com notícias de um mandado de prisão internacional para o fundador do Telegram. Além disso, a África do Sul e a Rússia fortalecem laços militares, e a Ucrânia continua a sofrer com ataques de drones. Em outro cenário, a Libéria e a França preparam um acordo de segurança para combater o tráfico de drogas.",
+    "titulo": "Tensões no Oriente Médio e conflitos globais",
+    "subtitulo": "Análise das principais notícias do dia, com foco nas tensões no Oriente Médio e nos conflitos globais",
+    "resumo": "As tensões no Oriente Médio continuam a aumentar, com ataques a navios-tanque e ameaças de retaliação. Enquanto isso, os conflitos globais, como a guerra na Ucrânia, continuam a ser uma preocupação. Nesta edição, analisamos as principais notícias do dia e como elas se relacionam com os conflitos globais.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-07-29T08:00:00-03:00",
     "link": null,
@@ -886,37 +886,39 @@
   },
   "temas_principais": [
     {
-      "tema": "Mortes de elefantes no Quênia",
-      "descricao": "Investigação sobre mortes inesperadas de 15 elefantes no parque nacional Amboseli",
+      "tema": "Tensões no Oriente Médio",
+      "descricao": "Ataques a navios-tanque e ameaças de retaliação aumentam as tensões na região",
       "fontes_que_cobriram": [
-        "the_guardian"
+        "euronews",
+        "st",
+        "nyt"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "new_york_times",
-        "euronews"
+        "rt",
+        "mt"
       ],
-      "divergencia_de_enquadramento": "Enquanto o The Guardian destaca a investigação sobre as mortes, outros veículos não deram grande cobertura ao tema."
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a ameaça iraniana, enquanto as fontes russas e chinesas destacam a necessidade de diálogo e cooperação"
     },
     {
-      "tema": "Tensões no Oriente Médio",
-      "descricao": "Escalada de tensões entre EUA, Arábia Saudita e Irã",
+      "tema": "Conflitos globais",
+      "descricao": "A guerra na Ucrânia e outros conflitos globais continuam a ser uma preocupação",
       "fontes_que_cobriram": [
-        "new_york_times",
-        "euronews",
+        "the_guardian",
+        "nyt",
         "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian",
-        "scmp"
+        "aa",
+        "smh"
       ],
-      "divergencia_de_enquadramento": "Os veículos ocidentais tendem a enfatizar a ameaça iraniana, enquanto os veículos russos e chineses destacam a intervenção dos EUA e da Arábia Saudita."
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a agressão russa, enquanto as fontes russas e chinesas destacam a necessidade de negociações e resolução pacífica"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Acordo de segurança entre Libéria e França",
-      "por_que_importa": "Combate ao tráfico de drogas e crime organizado",
-      "cobertura": "Apenas a AllAfrica deu cobertura a esse tema"
+      "tema": "Crise na África",
+      "por_que_importa": "A crise na África tem implicações globais, incluindo a segurança alimentar e a estabilidade política",
+      "cobertura": "A cobertura da crise na África é limitada, com apenas algumas fontes abordando o tema"
     }
   ]
 }
