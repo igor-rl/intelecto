@@ -228,135 +228,119 @@
     "euronews": {
       "slug": "euronews",
       "nome": "Euro News",
-      "gerado_em": "2026-07-29T10:00:16.678Z",
+      "gerado_em": "2026-07-29T21:00:19.469Z",
       "artigos": [
         {
-          "id": "euronews-2026-07-29-1003",
-          "titulo": "Rússia emite mandado de prisão internacional para fundador do Telegram",
-          "resumo": "Durov, que possui passaportes francês e dos Emirados Árabes Unidos e vive fora da Rússia há anos, chamou o caso de motivado politicamente.",
+          "id": "euronews-2026-07-29-2101",
+          "titulo": "Mais da metade da Inglaterra 'oficialmente em seca', afirma agência de meio ambiente do Reino Unido",
+          "resumo": "Rios estão com baixo nível, agricultores estão colhendo culturas precocemente, o risco de incêndios florestais está aumentando e milhões de pessoas estão vivendo sob restrições de uso de água",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/29/more-than-half-of-england-officially-in-drought-uk-environment-agency-says",
+          "publicado_em": "2026-07-29T18:05:58-03:00"
+        },
+        {
+          "id": "euronews-2026-07-29-2102",
+          "titulo": "Trump pede à Suprema Corte que anule indenização de 71 milhões de euros por difamação em caso de agressão sexual",
+          "resumo": "O recurso foi apresentado eletronicamente e deve ser formalmente protocolado no tribunal mais tarde na quarta-feira",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/29/trump-asks-supreme-court-to-overturn-71-million-defamation-award-in-sexual-assault-case",
+          "publicado_em": "2026-07-29T17:35:51-03:00"
+        },
+        {
+          "id": "euronews-2026-07-29-2104",
+          "titulo": "Houthis planejam cobrar pedágio no Mar Vermelho, inspirados no modelo do Irã no Hormuz",
+          "resumo": "O ministro da Informação do Iêmen disse que a inteligência confirmou que assessores do IRGC estavam diretamente envolvidos no projeto de um sistema de pedágio imposto pelos Houthis no Bab el-Mandeb, semelhante à reivindicação contestada do Irã sobre o Hormuz",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/29/houthis-to-copy-irans-hormuz-playbook-with-red-sea-toll-plan",
+          "publicado_em": "2026-07-29T15:28:12-03:00"
+        },
+        {
+          "id": "euronews-2026-07-29-2105",
+          "titulo": "Irã rejeita acordo sobre o Hormuz e lança ataque surpresa contra forças dos EUA na Jordânia",
+          "resumo": "Teerã rejeitou uma proposta do Omã para dividir o estreito igualmente e declarou que o Hormuz 'nunca voltará à sua situação anterior à guerra', horas antes de o IRGC lançar vários mísseis balísticos contra as forças dos EUA",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/29/iran-rejects-hormuz-deal-and-launches-surprise-strike-on-us-forces-in-jordan",
+          "publicado_em": "2026-07-29T14:57:52-03:00"
+        },
+        {
+          "id": "euronews-2026-07-29-2109",
+          "titulo": "Moradores de Gaza fogem antes de ataque israelense atingir área de mesquita",
+          "resumo": "Ataques israelenses atingiram a Cidade de Gaza e Deir al-Balah após um aviso de evacuação, com imagens mostrando explosões, chamas e fumaça subindo para o céu noturno",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/29/gaza-residents-flee-before-israeli-strike-hits-mosque-area",
+          "publicado_em": "2026-07-29T11:30:57-03:00"
+        },
+        {
+          "id": "euronews-2026-07-29-2110",
+          "titulo": "Iraque pretende fornecer 1 milhão de barris de petróleo por dia à Turquia em meio à crise do Hormuz",
+          "resumo": "O primeiro-ministro iraquiano Ali Zeydi visitou Ancara para suas primeiras conversas com Erdoğan desde que assumiu o cargo, oferecendo fornecer à Turquia 1 milhão de barris de petróleo por dia, à medida que Ancara busca reduzir sua dependência",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/29/iraq-eyes-supplying-turkey-with-1-million-oil-barrels-a-day-amid-hormuz-crisis",
+          "publicado_em": "2026-07-29T11:01:24-03:00"
+        },
+        {
+          "id": "euronews-2026-07-29-2112",
+          "titulo": "Síria caça suspeitos de ataques na costa em março e desmantela células do Estado Islâmico em Aleppo",
+          "resumo": "Forças de segurança atraíram um comandante de milícia acusado de liderar uma das unidades de assalto de março para uma emboscada perto de Jableh, matando-o e um segundo suspeito em um tiroteio",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/07/29/syria-hunts-down-suspects-in-march-coastal-attacks-dismantles-is-cells-in-aleppo",
+          "publicado_em": "2026-07-29T10:01:43-03:00"
+        },
+        {
+          "id": "euronews-2026-07-29-2116",
+          "titulo": "Rússia emite mandado de prisão internacional contra o fundador do Telegram, Durov",
+          "resumo": "Durov, que possui passaportes francês e dos Emirados Árabes Unidos e vive fora da Rússia há anos, chamou o caso de motivado politicamente",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/29/russia-issues-international-arrest-warrant-for-telegram-founder-durov",
-          "publicado_em": "2026-07-29T08:13:55.000Z"
+          "publicado_em": "2026-07-29T08:13:55-03:00"
         },
         {
-          "id": "euronews-2026-07-29-1005",
-          "titulo": "Manifestantes israelenses marcham em Tel Aviv contra violência de colonos na Cisjordânia",
-          "resumo": "Manifestantes israelenses marcharam em Tel Aviv contra a violência de colonos na Cisjordânia ocupada, enquanto a polícia bloqueou a rota e confrontou manifestantes.",
+          "id": "euronews-2026-07-29-2118",
+          "titulo": "Manifestantes israelenses marcham em Tel Aviv contra a violência de colonos na Cisjordânia",
+          "resumo": "Manifestantes israelenses marcharam em Tel Aviv contra a violência de colonos na Cisjordânia ocupada, enquanto a polícia bloqueou sua rota e confrontou manifestantes",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/07/29/israeli-protesters-march-in-tel-aviv-against-west-bank-settler-violence",
-          "publicado_em": "2026-07-29T06:35:27.000Z"
+          "publicado_em": "2026-07-29T06:35:27-03:00"
         },
         {
-          "id": "euronews-2026-07-29-1008",
+          "id": "euronews-2026-07-29-2119",
+          "titulo": "Terremoto no Japão sacode redação de notícias em Kumamoto enquanto funcionários se abrigam sob mesas",
+          "resumo": "Imagens mostram funcionários da redação se abrigando enquanto um terremoto de magnitude 7,1 atingiu Kumamoto no sudoeste do Japão, matando 13 pessoas",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/07/29/japan-earthquake-shakes-kumamoto-newsroom-as-staff-shelter-under-desks",
+          "publicado_em": "2026-07-29T06:11:27-03:00"
+        },
+        {
+          "id": "euronews-2026-07-29-2121",
           "titulo": "EUA interceptam ataque iraniano e lançam ataques conjuntos com a Arábia Saudita contra milícias apoiadas pelo Irã no Iraque",
-          "resumo": "O exército dos EUA alertou o Irã para parar seus ataques realizados diretamente ou por meio de seus proxies regionais contra ativos de Washington no Golfo ou infraestrutura de energia da Arábia Saudita.",
+          "resumo": "O exército dos EUA alertou o Irã para parar seus ataques realizados diretamente ou por meio de seus proxies regionais contra os ativos de Washington no Golfo ou a infraestrutura de energia da Arábia Saudita para 'evitar mais ações militares'",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/29/us-intercepts-iranian-attack-and-launches-joint-strikes-with-saudi-arabia-against-iran-bac",
-          "publicado_em": "2026-07-29T04:19:50.000Z"
+          "publicado_em": "2026-07-29T04:19:50-03:00"
         },
         {
-          "id": "euronews-2026-07-29-1009",
-          "titulo": "Equipes de resgate procuram sobreviventes após terremoto poderoso atingir sudoeste do Japão",
-          "resumo": "Dezenas de pessoas ainda estão presas sob os escombros enquanto as autoridades correm contra o relógio para salvar o máximo de pessoas possível durante o período crítico de 72 horas de resgate.",
+          "id": "euronews-2026-07-29-2122",
+          "titulo": "Resgatistas correm para localizar sobreviventes à medida que o número de mortos sobe para 13 após terremoto poderoso atingir o sudoeste do Japão",
+          "resumo": "Dezenas de pessoas ainda estão presas sob os escombros enquanto as autoridades correm contra o relógio para salvar o máximo de pessoas possível durante o período crítico de 72 horas de resgate",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/29/rescuers-scramble-to-locate-survivors-as-death-toll-climbs-to-13-after-powerful-quake-hits",
-          "publicado_em": "2026-07-29T03:19:25.000Z"
+          "publicado_em": "2026-07-29T03:19:25-03:00"
         },
         {
-          "id": "euronews-2026-07-29-1010",
+          "id": "euronews-2026-07-29-2123",
           "titulo": "Keiko Fujimori assume o cargo de presidente do Peru, prometendo acabar com a década de instabilidade",
-          "resumo": "A líder da Força Popular se torna a primeira presidente mulher do Peru, retornando o fujimorismo ao poder após 26 anos.",
+          "resumo": "A líder da Força Popular se torna a primeira presidente mulher do Peru, retornando o fujimorismo ao poder após 26 anos",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/28/keiko-fujimori-takes-office-as-perus-president-vowing-to-end-decade-of-instability",
-          "publicado_em": "2026-07-28T19:57:52.000Z"
+          "publicado_em": "2026-07-28T19:57:52-03:00"
         },
         {
-          "id": "euronews-2026-07-29-1011",
-          "titulo": "Trump e Netanyahu realizam primeira reunião presencial desde sua 'desavença' sobre a guerra com o Irã",
-          "resumo": "A reunião foi a oitava entre Trump e Netanyahu desde que o presidente dos EUA retornou ao cargo no início de 2025 e ocorreu antes das eleições em Israel e dos meio-mandatos nos EUA mais tarde este ano.",
+          "id": "euronews-2026-07-29-2124",
+          "titulo": "Trump e Netanyahu realizam primeira reunião presencial desde seu 'desacordo' sobre a guerra com o Irã",
+          "resumo": "A reunião foi a oitava entre Trump e Netanyahu desde que o presidente dos EUA retornou ao cargo no início de 2025 e ocorreu antes das eleições em Israel e dos meio-mandatos nos EUA mais tarde este ano",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/28/trump-and-netanyahu-hold-first-face-to-face-talks-since-their-disagreement-on-the-iran-war",
-          "publicado_em": "2026-07-28T18:12:30.000Z"
-        },
-        {
-          "id": "euronews-2026-07-29-1013",
-          "titulo": "Zelenskyy e Trump realizam reunião fechada na Casa Branca sobre a guerra na Ucrânia",
-          "resumo": "Desde que retornou ao cargo no início do ano passado, Trump parou as entregas diretas de armas dos EUA para Kiev, favorecendo um programa que permite que países europeus comprem armas para a Ucrânia.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/28/zelenskyy-meets-trump-at-white-house-as-ukraine-seeks-more-us-support",
-          "publicado_em": "2026-07-28T15:55:54.000Z"
-        },
-        {
-          "id": "euronews-2026-07-29-1014",
-          "titulo": "Gravações de áudio aparentemente mostram Biden discutindo informações classificadas com seu ghostwriter",
-          "resumo": "Biden tinha 74 anos quando as entrevistas começaram e 81 anos quando Hur lançou seu relatório no início de 2024, enquanto buscava a reeleição.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/28/audio-recordings-appear-to-show-biden-discussing-classified-information-with-his-ghostwrit",
-          "publicado_em": "2026-07-28T15:15:30.000Z"
-        },
-        {
-          "id": "euronews-2026-07-29-1015",
-          "titulo": "Equipes de resgate evacuam vilas inundadas no Paquistão",
-          "resumo": "Equipes de resgate evacuam moradores de barco em Sheikhupura, no Paquistão, após inundações causadas por monções submergirem casas e deixarem comunidades sem suprimentos básicos.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/07/28/rescue-teams-evacuate-flooded-villages-in-sheikhupura-pakistan",
-          "publicado_em": "2026-07-28T14:14:13.000Z"
-        },
-        {
-          "id": "euronews-2026-07-29-1016",
-          "titulo": "Alerta de tsunami após terremoto poderoso no sudoeste do Japão",
-          "resumo": "O Japão emitiu um alerta de tsunami após um terremoto de magnitude 7,1 atingir Kyushu, danificando prédios, cortando a energia e provocando esforços de resposta de emergência.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/07/28/tsunami-alert-follows-powerful-earthquake-in-southwest-japan",
-          "publicado_em": "2026-07-28T12:40:56.000Z"
-        },
-        {
-          "id": "euronews-2026-07-29-1018",
-          "titulo": "Muitos temem mortos após terremoto deixar compradores presos em shopping center japonês",
-          "resumo": "A polícia recebeu relatos de uma explosão no outlet do Aeon Mall na região de Kumamoto, mas a força não forneceu informações sobre danos ou vítimas.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/28/tsunami-warning-lifted-in-southern-japan-after-71-quake",
-          "publicado_em": "2026-07-28T11:56:38.000Z"
-        },
-        {
-          "id": "euronews-2026-07-29-1019",
-          "titulo": "Comunidade de Berlim lembra vítimas de ataque a desfile do orgulho gay",
-          "resumo": "Berlineses deixam flores, velas e mensagens no memorial do Tiergarten após um ataque mortal com veículo e faca perto do desfile do orgulho gay.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/07/28/berlin-community-remembers-victims-of-pride-parade-attack",
-          "publicado_em": "2026-07-28T11:19:23.000Z"
-        },
-        {
-          "id": "euronews-2026-07-29-1022",
-          "titulo": "O timing da guerra e da paz não é seu para decidir, diz o Irã aos EUA",
-          "resumo": "O ministério das Relações Exteriores do Irã disse que o país não permitirá que Washington determine \"o timing da guerra e da paz\", enquanto Trump alegou que a República Islâmica solicitou negociações e mediadores buscavam revisar o acordo nuclear.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/28/the-timing-of-war-and-peace-is-not-yours-to-decide-iran-tells-us",
-          "publicado_em": "2026-07-28T09:43:49.000Z"
-        },
-        {
-          "id": "euronews-2026-07-29-1023",
-          "titulo": "Incêndio florestal na França: moradores regam brasas com água após incêndio destruir 170 casas em Le Porge",
-          "resumo": "Moradores em Le Porge, na região de Gironde, no sudoeste da França, trabalham para evitar que um incêndio devastador se reacenda, borrifando água sobre brasas fumegantes na floresta.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/28/france-wildfire-residents-douse-embers-with-water-after-blaze-destroys-170-homes-in-le-por",
-          "publicado_em": "2026-07-28T09:28:36.000Z"
-        },
-        {
-          "id": "euronews-2026-07-29-1024",
-          "titulo": "Irã executa publicamente dois manifestantes em Isfahan, apesar de apelos da ONU para parar",
-          "resumo": "Dois manifestantes foram executados publicamente em Isfahan na terça-feira de manhã, elevando o total para quatro mortes entre 12 sentenciados no mesmo caso, após especialistas da ONU condenarem confissões forçadas e julgamentos fechados.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/28/iran-publicly-executes-two-isfahan-protesters-despite-un-calls-to-stop",
-          "publicado_em": "2026-07-28T08:44:56.000Z"
-        },
-        {
-          "id": "euronews-2026-07-29-1025",
-          "titulo": "Trípoli explode em protestos por cortes de energia com pedidos para derrubar o governo",
-          "resumo": "Manifestantes bloquearam estradas, fecharam instituições estatais e selaram prédios do governo enquanto as temperaturas atingiram até 50 graus Celsius e os cortes de energia diários se estendiam por 14 horas.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/28/tripoli-erupts-in-protests-over-power-cuts-with-calls-to-topple-government",
-          "publicado_em": "2026-07-28T08:08:32.000Z"
+          "publicado_em": "2026-07-28T18:12:30-03:00"
         }
       ]
     },
