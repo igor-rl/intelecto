@@ -418,119 +418,127 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-07-29T10:15:54.849Z",
+      "gerado_em": "2026-07-29T21:15:42.591Z",
       "artigos": [
         {
-          "id": "rt-2026-07-29-10-15-54-01",
-          "titulo": "Corpo Africano da Rússia em tiroteio com militantes islâmicos",
-          "resumo": "O Corpo Africano da Rússia divulgou imagens de um tiroteio com combatentes do JNIM, ligado à Al-Qaeda, no Mali",
+          "id": "rt-2026-07-29-2101",
+          "titulo": "Rússia não pode sobreviver sem vitória na Ucrânia – Medvedev",
+          "resumo": "A Rússia só pode se preservar vencendo o conflito na Ucrânia, pois o Ocidente busca destruí-la através de Kiev, disse Dmitry Medvedev",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6a4f5f2030276e7e78974c.jpg",
+          "link": "https://www.rt.com/news/643635-russia-ukraine-conflict-medvedev/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-29T21:14:11.000Z"
+        },
+        {
+          "id": "rt-2026-07-29-2102",
+          "titulo": "Pavel Durov é um defensor da liberdade de expressão ou um barão da tecnologia sem responsabilidade?",
+          "resumo": "Pavel Durov é um defensor da liberdade de expressão ou um barão da tecnologia sem responsabilidade? O caso contra o fundador do Telegram explicado",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6a6a7320302768c346b826.jpg",
+          "link": "https://www.rt.com/news/643639-is-pavel-durov-free-speech-champion-or-tech-baron/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-29T21:03:11.000Z"
+        },
+        {
+          "id": "rt-2026-07-29-2103",
+          "titulo": "De Wall Street a chefe de espionagem: Quem é Jay Clayton, o novo DNI de Trump?",
+          "resumo": "O Senado dos EUA confirmou o advogado de Wall Street e procurador federal Jay Clayton como o novo chefe de inteligência de Donald Trump",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6a1abd203027784d0fb000.jpg",
+          "link": "https://www.rt.com/news/643629-us-dni-jay-clayton/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-29T19:14:54.000Z"
+        },
+        {
+          "id": "rt-2026-07-29-2104",
+          "titulo": "Este estado-chave da OTAN está rumo a uma tempestade perfeita",
+          "resumo": "A coalizão governista da Turquia está rumo a uma tempestade perfeita de crises econômicas e políticas – pode escolher agir antes que isso aconteça",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6a11662030276e7e78971d.jpg",
+          "link": "https://www.rt.com/news/643623-turkiye-erdogan-perfect-storm/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-29T18:11:11.000Z"
+        },
+        {
+          "id": "rt-2026-07-29-2105",
+          "titulo": "Monge russo morto por drone americano em ataque ucraniano – Igreja Ortodoxa Russa",
+          "resumo": "Um ataque de drone ucraniano a um carro na República Popular de Lugansk matou um monge e feriu um padre, relata a Igreja Ortodoxa Russa",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6a34a92030276011635b7f.jpg",
+          "link": "https://www.rt.com/russia/643633-monk-killed-ukrainian-attack-drone/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-29T17:28:30.000Z"
+        },
+        {
+          "id": "rt-2026-07-29-2107",
+          "titulo": "Ministro da Defesa da Polônia descarta possibilidade de ataque russo",
+          "resumo": "Varsóvia não vê sinais de que a Rússia esteja se preparando para um ataque militar, disse o Ministro da Defesa Wladyslaw Kosiniak-Kamysz",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6a2368203027784d0fb00b.jpg",
+          "link": "https://www.rt.com/news/643631-polish-defense-minister-dismisses-russia-attack/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-29T16:28:36.000Z"
+        },
+        {
+          "id": "rt-2026-07-29-2108",
+          "titulo": "A crise do futebol é na verdade o fim da ordem mundial americana",
+          "resumo": "A Copa do Mundo de 2026 expôs divisões geopolíticas, duplos padrões da FIFA e os limites da influência dos EUA",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6a1c8f2030276a23241d41.jpg",
+          "link": "https://www.rt.com/news/643628-mirror-of-americas-decline/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-29T16:27:13.000Z"
+        },
+        {
+          "id": "rt-2026-07-29-2109",
+          "titulo": "A Índia deve ver grandes benefícios na rota marítima do Ártico – especialista em marinha",
+          "resumo": "A Índia pode fornecer apoio logístico, incluindo a provisão de marinheiros, à medida que a Rota Marítima do Norte (NSR) é aberta, disse Anurag Bisen à RT Índia",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6a212d85f540606468d842.jpg",
+          "link": "https://www.rt.com/india/643630-india-nsr-arctic-route/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-29T16:15:47.000Z"
+        },
+        {
+          "id": "rt-2026-07-29-2110",
+          "titulo": "Quase metade dos americanos quer que Benjamin Netanyahu seja preso",
+          "resumo": "Cerca de 49% dos americanos querem que seu governo prenda Benjamin Netanyahu por 'crimes de guerra na Faixa de Gaza', de acordo com uma nova pesquisa",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6a176685f54025662da0d1.jpg",
+          "link": "https://www.rt.com/news/643627-netanyahu-icc-arrest-poll/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-29T15:33:22.000Z"
+        },
+        {
+          "id": "rt-2026-07-29-2114",
+          "titulo": "EUA proíbem robôs humanoides chineses",
+          "resumo": "Os EUA proibiram robôs chineses em meio a uma rivalidade intensificada para dominar a tecnologia avançada e o setor de IA",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a69f1282030276dbf1a4660.jpg",
+          "link": "https://www.rt.com/business/643599-us-bans-chinese-humanoid-robots/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-29T13:01:55.000Z"
+        },
+        {
+          "id": "rt-2026-07-29-2115",
+          "titulo": "EUA apoiam projeto de terras raras no valor de $150 milhões para contrariar a China",
+          "resumo": "Washington está apoiando um projeto de terras raras no valor de $150 milhões em Madagascar, enquanto busca alternativas às cadeias de suprimento de minerais dominadas pela China",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a69f0902030276dbf1a4656.jpg",
+          "link": "https://www.rt.com/africa/643614-us-seeks-counter-china-dominance-madagascar-multi-million-dollar-rare-earths-project/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-29T12:53:30.000Z"
+        },
+        {
+          "id": "rt-2026-07-29-2117",
+          "titulo": "Influenciadora do MAGA que negou a presença de neonazistas na Ucrânia entrevista um",
+          "resumo": "A influenciadora americana Laura Loomer entrevistou o comandante de extrema-direita ucraniano Andrey Biletsky durante sua turnê pró-Kiev",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a69d4382030273338734207.jpg",
+          "link": "https://www.rt.com/russia/643607-loomer-biletsky-neo-nazi/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-29T12:09:47.000Z"
+        },
+        {
+          "id": "rt-2026-07-29-2118",
+          "titulo": "Líder sudanês visita áreas recapturadas (VÍDEO)",
+          "resumo": "O líder militar do Sudão visitou tropas da linha de frente após o exército recapturar áreas-chave em North Kordofan",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a69cec4203027353969a909.jpeg",
+          "link": "https://www.rt.com/africa/643606-sudanese-leader-visits-recaptured-areas/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-29T11:12:06.000Z"
+        },
+        {
+          "id": "rt-2026-07-29-2119",
+          "titulo": "Ocidente impõe 'ultimato' à Rússia sobre a Ucrânia – Lavrov",
+          "resumo": "O Ocidente quer forçar a Rússia a aceitar um 'ultimato' sobre a Ucrânia, disse o Ministro das Relações Exteriores Sergey Lavrov",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a69cd272030273ca23fd185.jpg",
+          "link": "https://www.rt.com/russia/643605-west-ultimatum-russia-lavrov-interview/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-07-29T10:19:14.000Z"
+        },
+        {
+          "id": "rt-2026-07-29-2120",
+          "titulo": "ASSISTA tiroteio do Corpo Africano Russo com militantes islâmicos (VÍDEO GRÁFICO)",
+          "resumo": "O Corpo Africano Russo divulgou imagens de um tiroteio com combatentes do JNIM, ligado à Al-Qaeda, no Mali",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a69a5a320302734826c6b38.png",
           "link": "https://www.rt.com/africa/643598-russian-african-corps-gunfight-mali/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-07-29T09:45:31.000Z"
-        },
-        {
-          "id": "rt-2026-07-29-10-15-54-02",
-          "titulo": "Crimeia não está na mesa de negociações – Zelensky",
-          "resumo": "Vladimir Zelensky afirmou que a devolução da península da Crimeia ao controle ucraniano não está atualmente na agenda de Kiev",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a69c56320302733387341f4.jpg",
-          "link": "https://www.rt.com/russia/643601-crimea-not-on-table-zelensky/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-29T09:30:03.000Z"
-        },
-        {
-          "id": "rt-2026-07-29-10-15-54-03",
-          "titulo": "Índia enfrenta tarifas de 100% após avanço de legislação nos EUA",
-          "resumo": "O Senado dos EUA aprovou um projeto de lei que dará ao presidente Trump a autoridade para impor tarifas de 100% sobre os principais compradores de petróleo e gás russo",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a69c4fa2030272f32305263.jpg",
-          "link": "https://www.rt.com/india/643602-india-tariffs-russian-oil/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-29T09:24:25.000Z"
-        },
-        {
-          "id": "rt-2026-07-29-10-15-54-04",
-          "titulo": "África do Sul e Rússia fortalecem laços militares",
-          "resumo": "O chefe do Exército da África do Sul, Lawrence Mbatha, realizou conversas em Moscou e concordou em expandir a cooperação militar bilateral com a Rússia",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a69c2ef2030276011635b54.jpg",
-          "link": "https://www.rt.com/africa/643600-south-africa-russia-strengthen-military-ties/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-29T09:23:05.000Z"
-        },
-        {
-          "id": "rt-2026-07-29-10-15-54-05",
-          "titulo": "Destroços de míssil ucraniano matam mulher russa – governador",
-          "resumo": "Um ataque de míssil ucraniano na região de Rostov, na Rússia, resultou na morte de uma mulher em Taganrog, de acordo com o governador Yury Slyusar",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a69a4a385f5401765501afc.jpg",
-          "link": "https://www.rt.com/russia/643596-russian-woman-ukrainian-missile/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-29T07:49:45.000Z"
-        },
-        {
-          "id": "rt-2026-07-29-10-15-54-06",
-          "titulo": "Fundador do Telegram é procurado na Rússia por permitir terrorismo ucraniano",
-          "resumo": "O fundador do Telegram, Pavel Durov, é procurado na Rússia por permitir o recrutamento de terroristas ucranianos em sua plataforma, de acordo com o FSB",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a69a2ca20302730af702c1f.jpg",
-          "link": "https://www.rt.com/russia/643595-durov-wanted-russia-terrorism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-29T06:22:08.000Z"
-        },
-        {
-          "id": "rt-2026-07-29-10-15-54-07",
-          "titulo": "Irã exige 'restituição' por ataque letal de Kiev",
-          "resumo": "O ministro das Relações Exteriores da Ucrânia mudou abruptamente sua retórica sobre o ataque ao navio cargueiro, buscando 'evitar uma escalada desnecessária'",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6980ab20302739465f6d14.png",
-          "link": "https://www.rt.com/news/643593-iran-ukraine-vessel-attack-restitution/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-29T04:29:23.000Z"
-        },
-        {
-          "id": "rt-2026-07-29-10-15-54-08",
-          "titulo": "Ataque de drone danifica maior hub de petróleo da Arábia Saudita – relatórios",
-          "resumo": "O complexo de Abqaiq, na Arábia Saudita, foi supostamente danificado em um ataque de drone, com imagens de satélite mostrando fumaça e instalações queimadas",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a68b11420302706bf6d02fa.png",
-          "link": "https://www.rt.com/news/643573-drone-strike-saudi-oil-hub/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-29T02:32:48.000Z"
-        },
-        {
-          "id": "rt-2026-07-29-10-15-54-09",
-          "titulo": "Arábia Saudita se junta a ataques dos EUA contra 'milícias alinhadas com o Irã' no Iraque (VÍDEOS)",
-          "resumo": "Aviões de guerra dos EUA e da Arábia Saudita realizaram ataques conjuntos contra supostos sites de milícias alinhadas com o Irã no leste do Iraque, de acordo com o CENTCOM",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a694fef20302733387341d7.png",
-          "link": "https://www.rt.com/news/643594-saudi-us-strikes-iraq/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-29T01:02:57.000Z"
-        },
-        {
-          "id": "rt-2026-07-29-10-15-54-10",
-          "titulo": "Irã lança 'ataque surpresa' contra bases dos EUA – CENTCOM (VÍDEOS)",
-          "resumo": "O Irã lançou vários mísseis balísticos contra forças dos EUA no Oriente Médio, em um ataque descrito como uma 'tentativa de ataque surpresa' pelo CENTCOM",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a693a1920302709b03596cc.png",
-          "link": "https://www.rt.com/news/643592-iran-us-jordan-surprise-attack/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-28T22:42:21.000Z"
-        },
-        {
-          "id": "rt-2026-07-29-10-15-54-11",
-          "titulo": "Trump não compartilha detalhes da reunião com Zelensky",
-          "resumo": "O presidente Donald Trump recebeu o ucraniano Vladimir Zelensky na Casa Branca, mas os funcionários dos EUA não divulgaram detalhes",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6927e285f5401c924d9b7d.jpg",
-          "link": "https://www.rt.com/news/643578-trump-zelensky-meeting-us/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-28T22:07:53.000Z"
-        },
-        {
-          "id": "rt-2026-07-29-10-15-54-12",
-          "titulo": "Funeral de Lindsey Graham: uma celebração da guerra",
-          "resumo": "Vladimir Zelensky e Benjamin Netanyahu estão em Washington para homenagear Lindsey Graham – e para obter mais apoio de Donald Trump",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6922402030270af0159e51.jpg",
-          "link": "https://www.rt.com/news/643591-lindsey-graham-funeral-netanyahu-zelensky/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-28T22:06:31.000Z"
-        },
-        {
-          "id": "rt-2026-07-29-10-15-54-13",
-          "titulo": "Uma pessoa morta e duas feridas em ataques com carros-bomba na Ucrânia",
-          "resumo": "Um oficial da Marinha ucraniana e um operativo do SBU foram supostamente alvos de dois ataques com carros-bomba em Odessa",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a68fdf785f5401c924d9b70.png",
-          "link": "https://www.rt.com/russia/643589-ukraine-odessa-car-bombings/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-28T21:17:42.000Z"
-        },
-        {
-          "id": "rt-2026-07-29-10-15-54-14",
-          "titulo": "Militantes ucranianos presos no Iraque – oficial",
-          "resumo": "Vários grupos militantes ligados à Ucrânia foram presos no Iraque após lançar ataques contra instalações locais, de acordo com um alto funcionário",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a68d0fd20302706bf6d0333.jpg",
-          "link": "https://www.rt.com/news/643582-ukraine-militants-iraq-attacks/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-28T15:57:20.000Z"
         }
       ]
     },
