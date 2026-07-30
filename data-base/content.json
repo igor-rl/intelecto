@@ -516,95 +516,135 @@
     "mt": {
       "slug": "mt",
       "nome": "The Moscow Times",
-      "gerado_em": "2026-07-29T21:46:01.840Z",
+      "gerado_em": "2026-07-30T10:45:59.671Z",
       "artigos": [
         {
-          "id": "mt-2026-07-29-2101",
-          "titulo": "França Ordena Expulsão da Ex-Editora do RT Ksenia Fedorova",
-          "resumo": "Fedorova foi acusada de espalhar propaganda do Kremlin pela televisão e rádio francesa.",
+          "id": "mt-2026-07-30-01",
+          "titulo": "Míssil russo provavelmente caiu no leste da Polônia, diz PM Tusk",
+          "resumo": "O primeiro-ministro polonês, Donald Tusk, disse que o míssil caiu em uma área desabitada e não representou uma ameaça direta para os civis.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/30/russian-missile-likely-crashed-in-eastern-poland-pm-tusk-says-a93379",
+          "publicado_em": "2026-07-30T09:58:24.000Z"
+        },
+        {
+          "id": "mt-2026-07-30-02",
+          "titulo": "Ucrânia intensifica campanha contra Wildberries, atacando armazéns em Penza e Udmúrtia",
+          "resumo": "Os ataques ocorrem após strikes russos na Ucrânia matarem pelo menos oito pessoas durante a noite e a Polônia ter enviado caças.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/30/ukraine-ramps-up-campaign-against-wildberries-striking-warehouses-in-penza-and-udmurtia-a93375",
+          "publicado_em": "2026-07-30T08:49:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-30-03",
+          "titulo": "França ordena expulsão da ex-editora do RT, Ksenia Fedorova",
+          "resumo": "Fedorova foi acusada de espalhar propaganda do Kremlin na televisão e rádio francesa.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/29/france-orders-expulsion-of-former-rt-editor-ksenia-fedorova-a93373",
           "publicado_em": "2026-07-29T13:49:00.000Z"
         },
         {
-          "id": "mt-2026-07-29-2102",
-          "titulo": "Tribunal de Moscou Condena Jornalista Daria Shipacheva a 12 Anos por Traição",
-          "resumo": "Shipacheva, nascida na Ucrânia, trabalhou como jornalista freelancer para várias agências de notícias na Rússia, incluindo Forbes e RBC.",
+          "id": "mt-2026-07-30-04",
+          "titulo": "Tribunal de Moscou condena jornalista Daria Shipacheva a 12 anos por traição",
+          "resumo": "Shipacheva, que nasceu na Ucrânia, trabalhou como jornalista freelancer para várias publicações na Rússia, incluindo Forbes e RBC.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/29/moscow-court-jails-journalist-daria-shipacheva-12-years-for-treason-a93372",
           "publicado_em": "2026-07-29T13:23:14.000Z"
         },
         {
-          "id": "mt-2026-07-29-2104",
-          "titulo": "Putin Substitui Chefe da República de Udmurtia Após Renúncia Surpresa",
-          "resumo": "O presidente nomeou Olga Abramova, nativa de Udmurtia e ex-funcionária agrícola, como governadora interina até as eleições regionais do próximo ano.",
+          "id": "mt-2026-07-30-05",
+          "titulo": "Putin substitui chefe da República de Udmúrtia após renúncia surpresa",
+          "resumo": "O presidente nomeou Olga Abramova, nativa de Udmúrtia e ex-funcionária agrícola, como governadora interina até as eleições regionais do próximo ano.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/29/putin-replaces-head-of-udmurtia-republic-following-surprise-resignation-a93368",
           "publicado_em": "2026-07-29T11:33:00.000Z"
         },
         {
-          "id": "mt-2026-07-29-2105",
-          "titulo": "Comissão Eleitoral Permite que Yabloko Apresente Candidatos Pró-Paz nas Eleições da Duma Estadual",
+          "id": "mt-2026-07-30-06",
+          "titulo": "Comissão Eleitoral permite que Yabloko inscreva candidatos pró-paz nas eleições da Duma Estatal",
           "resumo": "O presidente do Yabloko, Nikolai Ryabkov, disse que a decisão dá aos russos a primeira oportunidade em cinco anos de votar pela paz e liberdade.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/29/election-commission-clears-yabloko-to-run-pro-peace-candidates-in-state-duma-races-a93367",
           "publicado_em": "2026-07-29T10:30:00.000Z"
         },
         {
-          "id": "mt-2026-07-29-2108",
-          "titulo": "FSB Emite Mandado de Prisão para Pavel Durov por Cumplicidade em Terrorismo",
-          "resumo": "As autoridades russas acusam o Telegram de não remover conteúdo usado por serviços de inteligência ucranianos e grupos 'extremistas'.",
+          "id": "mt-2026-07-30-07",
+          "titulo": "FSB emite mandado de prisão para Pavel Durov por cumplicidade em terrorismo",
+          "resumo": "As autoridades russas acusam o Telegram de não remover conteúdo usado pelos serviços de inteligência ucranianos e grupos 'extremistas'.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/29/fsb-issues-arrest-warrant-for-pavel-durov-for-aiding-terrorism-a93364",
           "publicado_em": "2026-07-29T07:50:26.000Z"
         },
         {
-          "id": "mt-2026-07-29-2109",
-          "titulo": "Pelo Menos 3 Mortos na Rússia e na Crimeia Após Ataques da Ucrânia em Instalações Industriais",
+          "id": "mt-2026-07-30-08",
+          "titulo": "Pelo menos 3 mortos na Rússia e na Crimeia após ataques ucranianos a sites industriais",
           "resumo": "A Ucrânia alega que suas forças armadas atingiram várias refinarias de petróleo, um centro logístico e outros sites conectados ao exército russo.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/29/at-least-3-dead-in-russia-and-crimea-after-ukraine-strikes-industrial-sites-a93363",
           "publicado_em": "2026-07-29T07:30:00.000Z"
         },
         {
-          "id": "mt-2026-07-29-2110",
-          "titulo": "Mais de 4 Anos Após o Início da Guerra na Ucrânia, Metais e Energia Russos Continuam Fluindo para a Europa",
-          "resumo": "A Rússia fornece à Europa energia, metais e outros bens industriais por meio de isenções e setores que até agora evitaram restrições rigorosas.",
+          "id": "mt-2026-07-30-09",
+          "titulo": "Mais de 4 anos após o início da guerra na Ucrânia, metais e energia russos continuam fluindo para a Europa",
+          "resumo": "A Rússia fornece energia, metais e outros bens industriais para a Europa por meio de isenções e setores que até agora evitaram restrições rigorosas.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/28/over-4-years-into-the-ukraine-war-russian-metals-keep-flowing-to-europe-a93357",
           "publicado_em": "2026-07-28T15:34:00.000Z"
         },
         {
-          "id": "mt-2026-07-29-2111",
-          "titulo": "3 Mortos em Ataques de Drones na Região de Belgorod",
+          "id": "mt-2026-07-30-10",
+          "titulo": "3 mortos em ataques de drones na região de Belgorod",
           "resumo": "As autoridades da região fronteiriça acusam a Ucrânia de atacar sites civis em uma campanha aérea 'caótica' visando 'semear pânico'.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/28/3-killed-in-belgorod-region-drone-attacks-a93362",
           "publicado_em": "2026-07-28T15:07:05.000Z"
         },
         {
-          "id": "mt-2026-07-29-2117",
-          "titulo": "Armênia Pedirá Ajuda à Rússia para Resolver Restrições ao Comércio",
-          "resumo": "Pashinyan, que tem guiado a Armênia em uma direção mais pró-Ocidente, disse a Putin que as restrições comerciais violam acordos entre os dois países.",
+          "id": "mt-2026-07-30-11",
+          "titulo": "Postos de gasolina russos começam a suspender limites de compra à medida que os funcionários dizem que o mercado de combustível mostra sinais de 'estabilização'",
+          "resumo": "Estações de bombeamento de propriedade da Gazprom e da Lukoil removeram todos os limites de compra de gasolina em algumas partes do país, embora escassez persista em muitas regiões.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/28/russian-gas-stations-begin-easing-purchase-limits-as-officials-say-fuel-market-shows-signs-of-stabilization-a93361",
+          "publicado_em": "2026-07-28T14:32:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-30-12",
+          "titulo": "Empresa russa ganha processo de US$ 194 milhões contra Euroclear em Moscou",
+          "resumo": "A decisão do Tribunal de Arbitragem de Moscou a favor da empresa de finanças especializada Silicium-2 marca o último veredito que visa a Euroclear sobre ativos congelados por sanções ocidentais.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/28/russian-firm-wins-194m-lawsuit-against-euroclear-in-moscow-a93360",
+          "publicado_em": "2026-07-28T12:02:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-30-13",
+          "titulo": "Refinaria de petróleo de Tyumen para produção após ataque de drone ucraniano, dizem fontes",
+          "resumo": "Fontes da indústria disseram que é difícil estimar quanto tempo levarão os reparos.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/28/tyumen-oil-refinery-halts-production-after-ukrainian-drone-strike-sources-say-a93359",
+          "publicado_em": "2026-07-28T10:25:43.000Z"
+        },
+        {
+          "id": "mt-2026-07-30-14",
+          "titulo": "Centenas de drones ucranianos atacam Moscou em blitz noturna",
+          "resumo": "O prefeito Sergei Sobyanin disse que 390 drones foram rastreados nos céus acima da região mais ampla de Moscou entre a noite de segunda-feira e a manhã de terça-feira.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/28/hundreds-of-ukrainian-drones-target-moscow-in-overnight-blitz-a93356",
+          "publicado_em": "2026-07-28T08:35:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-30-15",
+          "titulo": "Região de Tyumen declara estado de emergência à medida que se prepara para inundações importantes",
+          "resumo": "Os níveis de água no rio Tura subiram para 8,77 metros e devem continuar subindo após fortes chuvas na região de Tyumen e na região vizinha de Sverdlovsk.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/28/tyumen-region-declares-state-of-emergency-as-it-braces-for-major-flooding-a93347",
+          "publicado_em": "2026-07-28T06:27:00.000Z"
+        },
+        {
+          "id": "mt-2026-07-30-16",
+          "titulo": "Pashinyan pede a Putin que ajude a resolver restrições russas às exportações armênias",
+          "resumo": "Pashinyan, que direcionou a Armênia para uma direção mais pró-Ocidente, disse a Putin que as restrições comerciais violam acordos entre os dois países.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/27/armenias-pashinyan-asks-putin-to-help-resolve-russian-restrictions-on-armenian-exports-a93355",
           "publicado_em": "2026-07-27T19:33:00.000Z"
-        },
-        {
-          "id": "mt-2026-07-29-2118",
-          "titulo": "Desenvolvimento do Míssil Sarmat Atrasado por Repetidos Atrasos",
-          "resumo": "As ambições nucleares da Rússia vêm anos antes de os fabricantes de defesa poderem atender aos prazos necessários para torná-las realidade.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/27/sarmat-missile-held-back-by-repeated-delays-despite-kremlin-boasts-leaked-documents-show-a93348",
-          "publicado_em": "2026-07-27T16:41:00.000Z"
-        },
-        {
-          "id": "mt-2026-07-29-2119",
-          "titulo": "Montenegro Acaba com Isenção de Visto para Russos em Busca de Adesão à UE em 2028",
-          "resumo": "Montenegro permaneceu como um dos poucos países europeus a oferecer isenção de visto para russos por até 30 dias e viu um grande influxo de cidadãos russos anti-guerra após a invasão da Ucrânia em 2022.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/27/montenegro-ends-visa-free-entry-for-russians-amid-2028-eu-membership-bid-a93351",
-          "publicado_em": "2026-07-27T14:55:39.000Z"
         }
       ]
     },
