@@ -5,12 +5,12 @@
   "itens_urgentes": {},
   "destaques": [],
   "capa": {
-    "categoria_nome": "O que marcou o dia?",
-    "titulo": "Tensões no Oriente Médio e conflitos globais",
-    "subtitulo": "Análise das principais notícias do dia, com foco nas tensões no Oriente Médio e nos conflitos globais",
-    "resumo": "As tensões no Oriente Médio continuam a aumentar, com ataques a navios-tanque e ameaças de retaliação. Enquanto isso, os conflitos globais, como a guerra na Ucrânia, continuam a ser uma preocupação. Nesta edição, analisamos as principais notícias do dia e como elas se relacionam com os conflitos globais.",
+    "categoria_nome": "Conflitos Globais e Desafios Regionais",
+    "titulo": "Tensões Mundiais: Conflitos, Sanções e Busca por Soluções",
+    "subtitulo": "Análise das principais tensões globais e desafios regionais, com foco em conflitos, sanções e esforços diplomáticos",
+    "resumo": "O cenário global está marcado por tensões crescentes em várias regiões, com conflitos armados, sanções econômicas e esforços diplomáticos para encontrar soluções pacíficas. A Ucrânia continua a ser um ponto crítico, com a Rússia realizando ataques a cidades ucranianas e a comunidade internacional buscando maneiras de intervir sem escalonar o conflito. No Oriente Médio, a situação entre Israel e Palestina permanece tensa, com ataques e contra-ataques. A África também enfrenta desafios, com a fome na Uganda e a necessidade de ajuda humanitária. Além disso, a China e os EUA estão envolvidos em uma disputa comercial e tecnológica, com implicações globais. Neste contexto, a busca por soluções diplomáticas e a cooperação internacional são fundamentais para mitigar essas tensões e promover a paz e a estabilidade.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-07-29T08:00:00-03:00",
+    "publicado_em": "2026-07-30T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -873,39 +873,61 @@
   },
   "temas_principais": [
     {
-      "tema": "Tensões no Oriente Médio",
-      "descricao": "Ataques a navios-tanque e ameaças de retaliação aumentam as tensões na região",
-      "fontes_que_cobriram": [
-        "euronews",
-        "st",
-        "nyt"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "rt",
-        "mt"
-      ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a ameaça iraniana, enquanto as fontes russas e chinesas destacam a necessidade de diálogo e cooperação"
-    },
-    {
-      "tema": "Conflitos globais",
-      "descricao": "A guerra na Ucrânia e outros conflitos globais continuam a ser uma preocupação",
+      "tema": "Conflito na Ucrânia",
+      "descricao": "A Rússia continua a realizar ataques a cidades ucranianas, enquanto a comunidade internacional busca maneiras de intervir sem escalonar o conflito.",
       "fontes_que_cobriram": [
         "the_guardian",
-        "nyt",
+        "new_york_times",
+        "rt",
         "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "aa",
-        "smh"
+        "scmp",
+        "aa"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a agressão russa, enquanto as fontes russas e chinesas destacam a necessidade de negociações e resolução pacífica"
+      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar a agressão russa, enquanto as fontes russas e chinesas destacam a necessidade de uma solução pacífica e a importância da diplomacia."
+    },
+    {
+      "tema": "Tensões no Oriente Médio",
+      "descricao": "A situação entre Israel e Palestina permanece tensa, com ataques e contra-ataques.",
+      "fontes_que_cobriram": [
+        "the_guardian",
+        "new_york_times",
+        "st"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "rt",
+        "scmp",
+        "aa"
+      ],
+      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar a necessidade de uma solução pacífica e a importância da diplomacia, enquanto as fontes árabes e islâmicas destacam a injustiça da ocupação israelense e a necessidade de uma solução mais robusta."
+    },
+    {
+      "tema": "Desafios na África",
+      "descricao": "A fome na Uganda e a necessidade de ajuda humanitária são desafios significativos para a região.",
+      "fontes_que_cobriram": [
+        "aa",
+        "the_guardian"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "new_york_times",
+        "rt",
+        "scmp",
+        "st"
+      ],
+      "divergencia_de_enquadramento": "As fontes africanas e ocidentais tendem a enfatizar a necessidade de ajuda humanitária e a importância da cooperação internacional, enquanto as fontes russas e chinesas destacam a necessidade de uma abordagem mais autossuficiente e menos dependente da ajuda externa."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Crise na África",
-      "por_que_importa": "A crise na África tem implicações globais, incluindo a segurança alimentar e a estabilidade política",
-      "cobertura": "A cobertura da crise na África é limitada, com apenas algumas fontes abordando o tema"
+      "tema": "Disputa comercial EUA-China",
+      "por_que_importa": "A disputa comercial entre os EUA e a China tem implicações globais e pode afetar a economia mundial.",
+      "cobertura": "A cobertura da disputa comercial EUA-China foi limitada, com apenas algumas fontes abordando o tema."
+    },
+    {
+      "tema": "Crise energética na Europa",
+      "por_que_importa": "A crise energética na Europa pode ter implicações significativas para a economia e a segurança da região.",
+      "cobertura": "A cobertura da crise energética na Europa foi limitada, com apenas algumas fontes abordando o tema."
     }
   ]
 }
