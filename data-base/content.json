@@ -18,115 +18,95 @@
     "the_guardian": {
       "slug": "the_guardian",
       "nome": "The Guardian",
-      "gerado_em": "2026-07-29T21:00:11.170Z",
+      "gerado_em": "2026-07-30T10:00:12.100Z",
       "artigos": [
         {
-          "id": "the_guardian-2026-07-29-2101",
+          "id": "the_guardian-2026-07-30-01",
+          "titulo": "Um quarto dos jovens africanos acredita que cortes na USAID podem ser positivos, diz pesquisa",
+          "resumo": "Perder fundos deve forçar líderes a confrontar seus próprios desafios, disseram, enquanto muitos expressaram preocupações sobre a influência estrangeira crescente",
+          "imagem": null,
+          "link": "https://www.theguardian.com/global-development/2026/jul/30/a-quarter-of-young-africans-believe-usaid-cuts-could-be-positive-survey-finds",
+          "publicado_em": "2026-07-30T05:00:53.000Z"
+        },
+        {
+          "id": "the_guardian-2026-07-30-02",
           "titulo": "Quênia investiga mortes inesperadas de 15 elefantes em parque nacional",
           "resumo": "Substância tóxica potencial detectada em vários dos 15 elefantes encontrados mortos no parque nacional Amboseli, no Quênia",
+          "imagem": null,
           "link": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
-          "imagem": null,
-          "publicado_em": "2026-07-29T00:48:07.000Z",
-          "fonte": "The Guardian"
+          "publicado_em": "2026-07-29T00:48:07.000Z"
         },
         {
-          "id": "the_guardian-2026-07-29-2102",
+          "id": "the_guardian-2026-07-30-03",
           "titulo": "Uganda começa distribuição de alimentos de emergência após 19 mortes por fome",
-          "resumo": "O governo moveu-se após meses de seca e falhas nas colheitas em Karamoja, com 1,5 milhão de pessoas enfrentando desnutrição",
+          "resumo": "Movimento do governo segue meses de seca e falhas nas colheitas em Karamoja, com 1,5 milhão de pessoas enfrentando desnutrição",
+          "imagem": null,
           "link": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
-          "imagem": null,
-          "publicado_em": "2026-07-27T07:00:34.000Z",
-          "fonte": "The Guardian"
+          "publicado_em": "2026-07-27T07:00:34.000Z"
         },
         {
-          "id": "the_guardian-2026-07-29-2103",
+          "id": "the_guardian-2026-07-30-04",
           "titulo": "Dois homens russos presos em Angola por terrorismo e espionagem",
-          "resumo": "Os homens foram condenados por um plano alegado de estabelecer um golpe e organizar demonstrações mortais sobre preços de combustível no ano passado",
-          "link": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
+          "resumo": "Os homens foram condenados por um plano alegado de estagiar um golpe e organizar demonstrações mortais sobre preços de combustível no ano passado",
           "imagem": null,
-          "publicado_em": "2026-07-23T14:24:01.000Z",
-          "fonte": "The Guardian"
+          "link": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
+          "publicado_em": "2026-07-23T14:24:01.000Z"
         },
         {
-          "id": "the_guardian-2026-07-29-2104",
+          "id": "the_guardian-2026-07-30-05",
           "titulo": "Ministério da Defesa cancela treinamento do exército no Quênia devido a poderes para processar soldados britânicos",
           "resumo": "Exercício de setembro cancelado após o Quênia levantar preocupações sobre financiamento e jurisdição para ofensas criminais",
+          "imagem": null,
           "link": "https://www.theguardian.com/uk-news/2026/jul/23/british-army-cancel-training-kenya-defence-agreement-dispute",
-          "imagem": null,
-          "publicado_em": "2026-07-23T14:06:01.000Z",
-          "fonte": "The Guardian"
+          "publicado_em": "2026-07-23T14:06:01.000Z"
         },
         {
-          "id": "the_guardian-2026-07-29-2105",
-          "titulo": "Trabalhador de saúde monitorado por ebola em hospital de Londres após trabalhar na RDC",
-          "resumo": "Residente do Reino Unido foi evacuado da República Democrática do Congo, onde há um surto da doença",
-          "link": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
+          "id": "the_guardian-2026-07-30-06",
+          "titulo": "Canadenses gastaram $3,3 bilhões a menos em viagens aos EUA em 2025 após o retorno de Trump ao cargo",
+          "resumo": "Dados mostram que canadenses substituíram viagens aos EUA por outras viagens internacionais em aparente repulsa a Trump",
           "imagem": null,
-          "publicado_em": "2026-07-21T22:39:00.000Z",
-          "fonte": "The Guardian"
-        },
-        {
-          "id": "the_guardian-2026-07-29-2106",
-          "titulo": "Canadenses gastaram $3,3 bilhões menos em viagens aos EUA em 2025 após o retorno de Trump ao cargo",
-          "resumo": "Dados mostram que canadenses substituíram férias nos EUA por outras viagens internacionais em aparente repulsa a Trump",
           "link": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
-          "imagem": null,
-          "publicado_em": "2026-07-28T16:46:05.000Z",
-          "fonte": "The Guardian"
+          "publicado_em": "2026-07-28T16:46:05.000Z"
         },
         {
-          "id": "the_guardian-2026-07-29-2107",
+          "id": "the_guardian-2026-07-30-07",
           "titulo": "Incêndios anteriores sugerem que os efeitos dos incêndios florestais na Europa e na América do Norte podem persistir por anos",
-          "resumo": "Três anos após os incêndios florestais em Maui, muitos ainda lutam com as 'consequências biológicas, emocionais e sociais', afirma estudo",
+          "resumo": "Três anos após os incêndios florestais em Maui, muitos ainda lutam com 'consequências biológicas, emocionais e sociais', diz estudo",
+          "imagem": null,
           "link": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
-          "imagem": null,
-          "publicado_em": "2026-07-28T13:00:04.000Z",
-          "fonte": "The Guardian"
+          "publicado_em": "2026-07-28T13:00:04.000Z"
         },
         {
-          "id": "the_guardian-2026-07-29-2108",
+          "id": "the_guardian-2026-07-30-08",
           "titulo": "Javier Milei acusa democratas dos EUA de financiar 'campanha anti-Argentina' na Copa do Mundo",
-          "resumo": "Presidente também culpa Brasil e México e afirma que críticos online 'não querem que as ideias de liberdade prosperem'",
-          "link": "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup",
+          "resumo": "Presidente também culpa Brasil e México e diz que críticos online 'não querem que as ideias de liberdade prosperem'",
           "imagem": null,
-          "publicado_em": "2026-07-28T10:21:46.000Z",
-          "fonte": "The Guardian"
+          "link": "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup",
+          "publicado_em": "2026-07-28T10:21:46.000Z"
         },
         {
-          "id": "the_guardian-2026-07-29-2109",
+          "id": "the_guardian-2026-07-30-09",
           "titulo": "Soldado da era Pinochet preso por matar cantor folk Víctor Jara há 53 anos",
           "resumo": "Nelson Haase Mazzei foi condenado por assassinar Jara em 2023, mas fugiu das autoridades no Chile",
+          "imagem": null,
           "link": "https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile",
-          "imagem": null,
-          "publicado_em": "2026-07-27T16:27:44.000Z",
-          "fonte": "The Guardian"
+          "publicado_em": "2026-07-27T16:27:44.000Z"
         },
         {
-          "id": "the_guardian-2026-07-29-2110",
+          "id": "the_guardian-2026-07-30-10",
           "titulo": "Tiros disparados perto do consulado dos EUA no Canadá pela segunda vez em quatro meses",
-          "resumo": "Ninguém foi ferido e nenhum suspeito foi identificado em conexão com o tiroteio perto do complexo de Toronto, afirma a polícia",
+          "resumo": "Ninguém foi ferido e nenhum suspeito foi identificado em conexão com o tiroteio perto do complexo de Toronto, diz a polícia",
+          "imagem": null,
           "link": "https://www.theguardian.com/world/2026/jul/27/shots-fired-us-consulate-toronto",
-          "imagem": null,
-          "publicado_em": "2026-07-27T16:20:56.000Z",
-          "fonte": "The Guardian"
+          "publicado_em": "2026-07-27T16:20:56.000Z"
         },
         {
-          "id": "the_guardian-2026-07-29-2111",
-          "titulo": "Equipes de resgate enfrentam 'corrida contra o tempo' na busca por sobreviventes presos à medida que a morte no Japão sobe para pelo menos 13",
-          "resumo": "Trabalhadores de emergência continuam a busca por sobreviventes no sul do Japão após o poderoso terremoto de ontem",
-          "link": "https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates",
+          "id": "the_guardian-2026-07-30-11",
+          "titulo": "Número de mortos em terremoto no Japão sobe para 30 à medida que aftershocks e calor dificultam esforços de resgate",
+          "resumo": "Soldados e equipes de emergência buscam sobreviventes em shopping center, fábrica de papel e casas danificadas",
           "imagem": null,
-          "publicado_em": "2026-07-29T14:27:33.000Z",
-          "fonte": "The Guardian"
-        },
-        {
-          "id": "the_guardian-2026-07-29-2112",
-          "titulo": "Histórias de sobrevivência e perda surgem após o terremoto no Japão",
-          "resumo": "Socorristas resgatando pessoas dos escombros no sul do Japão em uma repetição assustadora do desastre que atingiu a região há 10 anos",
-          "link": "https://www.theguardian.com/world/2026/jul/29/japan-earthquake-stories-people-survival-loss-hikawa-uki",
-          "imagem": null,
-          "publicado_em": "2026-07-29T09:08:57.000Z",
-          "fonte": "The Guardian"
+          "link": "https://www.theguardian.com/world/2026/jul/30/japan-earthquake-death-toll-rises",
+          "publicado_em": "2026-07-30T06:49:55.000Z"
         }
       ]
     },
