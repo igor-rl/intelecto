@@ -133,95 +133,79 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-07-29T21:00:00.700Z",
+      "gerado_em": "2026-07-30T10:00:00.908Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-07-29-2101",
-          "titulo": "Arábia Saudita Lança Ataques no Iraque, Marcando Entrada na Guerra EUA-Irã",
-          "resumo": "O ministério da defesa do reino disse que os ataques aéreos no Iraque, visando milícias apoiadas pelo Irã, foram em retaliação aos ataques às instalações petrolíferas sauditas esta semana.",
-          "link": "https://www.nytimes.com/2026/07/29/world/middleeast/saudi-arabia-us-iran-war.html",
+          "id": "new_york_times-2026-07-30-1001",
+          "titulo": "EUA Atacam o Irã Novamente, Enquanto Trump Enfrenta um Adversário Mais Determinado em uma Guerra Ampliada",
+          "resumo": "Os Estados Unidos estão novamente trocando ataques com o Irã, apenas dias após o presidente parecer rejeitar planos para escalonar.",
           "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/29/us/trump-iran-war-widens.html",
+          "publicado_em": "2026-07-30T02:28:39.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-30-1002",
+          "titulo": "Ataques da Arábia Saudita no Iraque Marcam Entrada na Guerra EUA-Irã",
+          "resumo": "O ministério da defesa do reino disse que ataques aéreos no Iraque, visando milícias apoiadas pelo Irã, foram em retaliação a ataques a instalações petrolíferas sauditas esta semana.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/29/world/middleeast/saudi-arabia-us-iran-war.html",
           "publicado_em": "2026-07-29T20:35:32.000Z"
         },
         {
-          "id": "new_york_times-2026-07-29-2102",
-          "titulo": "Famílias Enfrentam Ansiedade à Medida que Entes Queridos São Despachados para Lutar Contra o Irã",
-          "resumo": "À medida que a guerra com o Irã continua, alguns estão descobrindo que o estresse está trazendo de volta velhas ansiedades.",
-          "link": "https://www.nytimes.com/2026/07/29/us/iran-war-military-families-anxiety.html",
+          "id": "new_york_times-2026-07-30-1003",
+          "titulo": "Dois Petroleiros São Atacados em um Aparente Ataque de Drones no Egito",
+          "resumo": "Uma explosão em um porto na costa mediterrânea do Egito incendiou dois navios, incluindo um tanque de armazenamento de gás dos EUA, de acordo com empresas de rastreamento marítimo.",
           "imagem": null,
-          "publicado_em": "2026-07-29T20:18:27.000Z"
+          "link": "https://www.nytimes.com/2026/07/29/world/middleeast/ships-drone-strike-egypt.html",
+          "publicado_em": "2026-07-29T21:41:20.000Z"
         },
         {
-          "id": "new_york_times-2026-07-29-2103",
-          "titulo": "Senadores Cornyn e Tillis Ameaçam Bloquear a Nomeação de Blanche por Causa do Acordo do IRS com Trump",
-          "resumo": "Os senadores John Cornyn e Thom Tillis acusaram o indicado ao cargo de procurador-geral de se recusar a colocar no papel sua promessa de acabar com aspectos do acordo que ele fez para resolver a ação do presidente Trump contra a agência.",
+          "id": "new_york_times-2026-07-30-1004",
+          "titulo": "Senadores Cornyn e Tillis Forçam Atraso na Nomeação de Blanche por Causa do Acordo do IRS de Trump",
+          "resumo": "John Cornyn e Thom Tillis acusaram o indicado para procurador-geral de se recusar a colocar no papel sua promessa de acabar com aspectos do acordo que ele fez para resolver a ação do presidente Trump contra a agência.",
+          "imagem": null,
           "link": "https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-senate-vote-irs.html",
-          "imagem": null,
-          "publicado_em": "2026-07-29T20:26:52.000Z"
+          "publicado_em": "2026-07-30T01:37:30.000Z"
         },
         {
-          "id": "new_york_times-2026-07-29-2104",
-          "titulo": "Com a Nomeação de Blanche em Jogo, Pagamentos a Aliados de Trump Continuam",
-          "resumo": "Um acordo de sete dígitos foi anunciado dois dias antes de uma votação agendada do comitê do Senado sobre a nomeação de Todd Blanche para procurador-geral.",
-          "link": "https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-weaponization-payouts.html",
+          "id": "new_york_times-2026-07-30-1006",
+          "titulo": "China Ameaça Retaliação à Medida dos EUA para Bloquear Importações de Robôs",
+          "resumo": "A disputa destaca como a robótica se tornou o último campo de batalha na rivalidade tecnológica e industrial intensificada entre Washington e Pequim.",
           "imagem": null,
-          "publicado_em": "2026-07-29T18:54:42.000Z"
+          "link": "https://www.nytimes.com/2026/07/30/business/china-robots-ban-fcc.html",
+          "publicado_em": "2026-07-30T07:36:07.000Z"
         },
         {
-          "id": "new_york_times-2026-07-29-2105",
-          "titulo": "Trump Exigiu Detalhes da Entrevista de Agentes com Comey, Diz Nova Petição",
-          "resumo": "O pedido sugere o envolvimento pessoal intenso do presidente Trump na investigação de um de seus críticos de longa data, o ex-diretor do FBI James B. Comey.",
-          "link": "https://www.nytimes.com/2026/07/29/us/james-comey-seashells-trump-secret-service.html",
+          "id": "new_york_times-2026-07-30-1008",
+          "titulo": "Fauci Se Recusa a Responder Perguntas Sobre a Origem da Covid em Audiência no Senado",
+          "resumo": "O senador Rand Paul disse que o comitê que ele lidera votaria na semana seguinte se deveria considerar o Dr. Fauci em desacato ao Congresso.",
           "imagem": null,
-          "publicado_em": "2026-07-29T16:54:13.000Z"
+          "link": "https://www.nytimes.com/2026/07/29/us/politics/fauci-testifies-rand-paul.html",
+          "publicado_em": "2026-07-30T01:01:20.000Z"
         },
         {
-          "id": "new_york_times-2026-07-29-2109",
-          "titulo": "Projeto de Lei de Sanções Daria a Trump Novos Poderes para Impor Tarifas",
-          "resumo": "Um projeto de lei bipartidário no Senado permitiria que o presidente Trump impusesse tarifas sobre os maiores importadores de energia russa.",
-          "link": "https://www.nytimes.com/2026/07/29/us/politics/trump-tariffs-sanctions.html",
+          "id": "new_york_times-2026-07-30-1011",
+          "titulo": "Como a Mudança Climática e os Direitos Aduaneiros Ajudam a China a Criar Mais Gado",
+          "resumo": "À medida que a chuva aumenta, tornando possíveis pastagens e campos de milho em áreas que antes eram desertos, o maior importador de carne bovina do mundo está se tornando mais autossuficiente, expandindo seus rebanhos domésticos.",
           "imagem": null,
-          "publicado_em": "2026-07-29T19:40:21.000Z"
+          "link": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html",
+          "publicado_em": "2026-07-30T04:00:12.000Z"
         },
         {
-          "id": "new_york_times-2026-07-29-2110",
-          "titulo": "Resposta do Canadá às Tarifas de Trump: Mais Acordos de Energia com a Europa",
-          "resumo": "O acordo do governo Carney com uma empresa de gás natural alemã também reduzirá a dependência da Europa de um suprimento do Catar tornado mais incerto pela guerra.",
-          "link": "https://www.nytimes.com/2026/07/29/world/canada/canada-lng-germany-carney-trump-tariffs.html",
+          "id": "new_york_times-2026-07-30-1016",
+          "titulo": "Atacante de Salman Rushdie é Considerado Culpado de Ajudar um Grupo Terrorista Estrangeiro",
+          "resumo": "Hadi Matar esfaqueou repetidamente o Sr. Rushdie em uma conferência literária em 2022 e pode passar o resto da vida na prisão.",
           "imagem": null,
-          "publicado_em": "2026-07-29T20:21:07.000Z"
+          "link": "https://www.nytimes.com/2026/07/29/nyregion/hadi-matar-salman-rushdie-terror.html",
+          "publicado_em": "2026-07-30T04:18:28.000Z"
         },
         {
-          "id": "new_york_times-2026-07-29-2114",
-          "titulo": "Incêndios Florestais na Europa Ampliados por Campo Abandonado e Menos Fazendas",
-          "resumo": "Um planeta em aquecimento e uma mudança para longe da agricultura criaram o cenário para incêndios maiores no continente. 'Devemos aprender a coexistir com eles', disse um relatório.",
-          "link": "https://www.nytimes.com/2026/07/29/climate/france-spain-europe-megafires.html",
+          "id": "new_york_times-2026-07-30-1022",
+          "titulo": "Enquanto Incêndios Devoram a Europa, a Escócia Corre para Salvar um Parque Nacional Querido",
+          "resumo": "À medida que o clima da Europa esquenta, até mesmo charnecas e florestas nos Cairngorms, nos Highlands escoceses, se tornaram vítimas de chamas que se espalham rapidamente.",
           "imagem": null,
-          "publicado_em": "2026-07-29T16:18:59.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-29-2115",
-          "titulo": "Verão de Calor, Incêndios e Tempestades é um Acerto de Contas para a Europa sobre o Clima",
-          "resumo": "O continente está experimentando alguns de seus maiores incêndios e temperaturas mais altas já registradas. Moradores estão fugindo, líderes estão lutando para responder e 'isso vai piorar', disse um especialista em clima.",
-          "link": "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html",
-          "imagem": null,
-          "publicado_em": "2026-07-29T14:06:52.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-29-2116",
-          "titulo": "Em Meio à Guerra Civil de Mianmar, os Ricos Buscam Festas e 'Vibrações Positivas Apenas'",
-          "resumo": "Os estilos de vida dos ricos em Mianmar — boates, caviar e viagens ao exterior — permaneceram em grande parte intocados por anos de conflito mortal.",
-          "link": "https://www.nytimes.com/2026/07/29/world/asia/myanmar-war-nightlife-luxury.html",
-          "imagem": null,
-          "publicado_em": "2026-07-29T04:01:17.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-29-2118",
-          "titulo": "Por Que Toleramos os Comentários Racistas de Elon Musk?",
-          "resumo": "Por que o dono do X recebe um passe livre pelo que ele diz e faz lá?",
-          "link": "https://www.nytimes.com/2026/07/29/opinion/elon-musk-far-right-remigration.html",
-          "imagem": null,
-          "publicado_em": "2026-07-29T19:12:35.000Z"
+          "link": "https://www.nytimes.com/2026/07/30/world/europe/scotland-wildfire-cairngorms-highlands.html",
+          "publicado_em": "2026-07-30T04:01:06.000Z"
         }
       ]
     },
