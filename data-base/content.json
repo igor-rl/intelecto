@@ -5,10 +5,10 @@
   "itens_urgentes": {},
   "destaques": [],
   "capa": {
-    "categoria_nome": "Conflitos Globais e Desafios Regionais",
-    "titulo": "Tensões Mundiais: Conflitos, Sanções e Busca por Soluções",
-    "subtitulo": "Análise das principais tensões globais e desafios regionais, com foco em conflitos, sanções e esforços diplomáticos",
-    "resumo": "O cenário global está marcado por tensões crescentes em várias regiões, com conflitos armados, sanções econômicas e esforços diplomáticos para encontrar soluções pacíficas. A Ucrânia continua a ser um ponto crítico, com a Rússia realizando ataques a cidades ucranianas e a comunidade internacional buscando maneiras de intervir sem escalonar o conflito. No Oriente Médio, a situação entre Israel e Palestina permanece tensa, com ataques e contra-ataques. A África também enfrenta desafios, com a fome na Uganda e a necessidade de ajuda humanitária. Além disso, a China e os EUA estão envolvidos em uma disputa comercial e tecnológica, com implicações globais. Neste contexto, a busca por soluções diplomáticas e a cooperação internacional são fundamentais para mitigar essas tensões e promover a paz e a estabilidade.",
+    "categoria_nome": "O que marcou o dia?",
+    "titulo": "Migrações em massa e crises globais",
+    "subtitulo": "Enquanto a Europa lida com a entrada de milhares de migrantes, a África enfrenta desafios de segurança e saúde",
+    "resumo": "O dia foi marcado por notícias de migrações em massa, com milhares de pessoas cruzando a fronteira do Marrocos para a Espanha, enquanto a África lida com crises de segurança e saúde. A Rússia prorrogou a proibição de exportação de gasolina e diesel, e a UE concordou em criar um centro de resgate no leste da Líbia. Além disso, a África Oriental enfrenta a ameaça de desestabilização devido à estratégia de proxy da Eritreia, e a Libéria lida com a crise de segurança relacionada ao tráfico de cocaína. A Austrália registrou um aumento na aprovação de habitações, e a Copa do Mundo de futebol está sob ameaça de boicote devido ao plano da FIFA.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-07-30T08:00:00-03:00",
     "link": null,
@@ -1016,61 +1016,42 @@
   },
   "temas_principais": [
     {
-      "tema": "Conflito na Ucrânia",
-      "descricao": "A Rússia continua a realizar ataques a cidades ucranianas, enquanto a comunidade internacional busca maneiras de intervir sem escalonar o conflito.",
+      "tema": "Migrações em massa",
+      "descricao": "Milhares de pessoas cruzam a fronteira do Marrocos para a Espanha",
       "fontes_que_cobriram": [
-        "the_guardian",
-        "new_york_times",
-        "rt",
-        "st"
+        "euronews",
+        "st",
+        "smh"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "scmp",
-        "aa"
+        "rt"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar a agressão russa, enquanto as fontes russas e chinesas destacam a necessidade de uma solução pacífica e a importância da diplomacia."
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a crise humanitária, enquanto a Rússia destaca a segurança"
     },
     {
-      "tema": "Tensões no Oriente Médio",
-      "descricao": "A situação entre Israel e Palestina permanece tensa, com ataques e contra-ataques.",
-      "fontes_que_cobriram": [
-        "the_guardian",
-        "new_york_times",
-        "st"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "rt",
-        "scmp",
-        "aa"
-      ],
-      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar a necessidade de uma solução pacífica e a importância da diplomacia, enquanto as fontes árabes e islâmicas destacam a injustiça da ocupação israelense e a necessidade de uma solução mais robusta."
-    },
-    {
-      "tema": "Desafios na África",
-      "descricao": "A fome na Uganda e a necessidade de ajuda humanitária são desafios significativos para a região.",
+      "tema": "Crises globais",
+      "descricao": "A África enfrenta desafios de segurança e saúde, e a Rússia prorrogou a proibição de exportação de gasolina e diesel",
       "fontes_que_cobriram": [
         "aa",
-        "the_guardian"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "new_york_times",
-        "rt",
-        "scmp",
+        "mt",
         "st"
       ],
-      "divergencia_de_enquadramento": "As fontes africanas e ocidentais tendem a enfatizar a necessidade de ajuda humanitária e a importância da cooperação internacional, enquanto as fontes russas e chinesas destacam a necessidade de uma abordagem mais autossuficiente e menos dependente da ajuda externa."
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "nyt"
+      ],
+      "divergencia_de_enquadramento": "As fontes africanas e russas destacam a gravidade das crises, enquanto as fontes ocidentais tendem a minimizar"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Disputa comercial EUA-China",
-      "por_que_importa": "A disputa comercial entre os EUA e a China tem implicações globais e pode afetar a economia mundial.",
-      "cobertura": "A cobertura da disputa comercial EUA-China foi limitada, com apenas algumas fontes abordando o tema."
+      "tema": "Crise de segurança na Libéria",
+      "por_que_importa": "A crise de segurança relacionada ao tráfico de cocaína afeta a estabilidade do país",
+      "cobertura": "Apenas a AllAfrica cobriu o tema"
     },
     {
-      "tema": "Crise energética na Europa",
-      "por_que_importa": "A crise energética na Europa pode ter implicações significativas para a economia e a segurança da região.",
-      "cobertura": "A cobertura da crise energética na Europa foi limitada, com apenas algumas fontes abordando o tema."
+      "tema": "Desestabilização da África Oriental",
+      "por_que_importa": "A estratégia de proxy da Eritreia pode desestabilizar a região",
+      "cobertura": "Apenas a AllAfrica cobriu o tema"
     }
   ]
 }
