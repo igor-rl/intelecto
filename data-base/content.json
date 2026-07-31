@@ -6,9 +6,9 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Mortes em Ceuta e surto de ebola na RDC",
-    "subtitulo": "Enquanto a Espanha lida com a crise migratória, a RDC enfrenta o surto de ebola mais rápido da história",
-    "resumo": "Pelo menos 18 pessoas morreram ao tentar cruzar para o enclave espanhol de Ceuta, vindo do Marrocos. O incidente gerou críticas da França e da Itália à Espanha. Em outra parte do mundo, o surto de ebola na República Democrática do Congo (RDC) é o mais rápido da história do vírus, com quase 1.500 mortos. A vacina contra a cepa Bundibugyo pode estar ainda meses distante. Enquanto isso, a África também lida com a mudança climática, que é agora uma ameaça imediata ao controle da AIDS. A Fundação Mastercard comprometeu $500 milhões para transformar a educação superior no continente. No entanto, a região também enfrenta desafios como a redução do financiamento do desenvolvimento internacional e a pressão crescente para criar empregos para sua população em crescimento. A Rússia prorrogou a proibição de exportação de gasolina e diesel até janeiro de 2027, devido aos ataques ucranianos a refinarias de petróleo. O presidente chinês Xi Jinping se reuniu com líderes estrangeiros, incluindo os da Eslováquia e da Namíbia, em Pequim. A Índia pode dar voz ao Sul Global no Ártico, com a Rússia desempenhando um papel fundamental na governança do Ártico. O México capturou o suposto mentor do assassinato do prefeito de Uruapan. Israel deve aprovar o acordo de desarmamento antes que o Hamas o implemente, disse um oficial do Hamas. A Espanha e o Marrocos param a invasão letal ao enclave espanhol Ceuta após 49.000 cruzarem em um dia. A França vai reforçar os controles de fronteira, enquanto a Itália quer suspender o esquema de fronteira aberta da UE.",
+    "titulo": "Crise de Ceuta: Morte e controvérsia",
+    "subtitulo": "Enquanto a Europa lida com a crise migratória, a comunidade internacional questiona as respostas",
+    "resumo": "A crise migratória em Ceuta continua a gerar controvérsia, com a Espanha e a Itália suspendendo acordos de Schengen com outros países europeus. Enquanto isso, a comunidade internacional questiona as respostas à crise, com alguns países acusando a Europa de hipocrisia. A crise também levantou questões sobre a soberania e a gestão de fronteiras. Além disso, a situação no Oriente Médio continua a se deteriorar, com Israel e o Hamas trocando acusações e ataques. A Ucrânia também está em foco, com a Rússia acusando o país de desestabilizar o transporte marítimo internacional.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-07-31T08:00:00-03:00",
     "link": null,
@@ -987,56 +987,53 @@
   },
   "temas_principais": [
     {
-      "tema": "Mortes em Ceuta",
-      "descricao": "Pelo menos 18 pessoas morreram ao tentar cruzar para o enclave espanhol de Ceuta, vindo do Marrocos",
+      "tema": "Crise de Ceuta",
+      "descricao": "A crise migratória em Ceuta continua a gerar controvérsia",
       "fontes_que_cobriram": [
         "the_guardian",
         "euronews",
         "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "rt",
-        "scmp"
+        "rt"
       ],
-      "divergencia_de_enquadramento": "A Espanha é criticada por sua política migratória, enquanto o Marrocos é acusado de não fazer o suficiente para evitar a crise"
+      "divergencia_de_enquadramento": "A Espanha e a Itália têm enquadramentos diferentes sobre a crise, com a Espanha acusando a Marrocos de 'invasão' e a Itália suspendendo acordos de Schengen"
     },
     {
-      "tema": "Surto de ebola na RDC",
-      "descricao": "O surto de ebola na RDC é o mais rápido da história do vírus, com quase 1.500 mortos",
+      "tema": "Conflito Israel-Hamas",
+      "descricao": "O conflito entre Israel e o Hamas continua a se deteriorar",
       "fontes_que_cobriram": [
-        "the_guardian",
-        "aa"
+        "new_york_times",
+        "rt"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "rt",
-        "scmp"
-      ],
-      "divergencia_de_enquadramento": "A RDC lida com a crise de saúde pública, enquanto a comunidade internacional é criticada por não fazer o suficiente para ajudar"
-    },
-    {
-      "tema": "Mudança climática na África",
-      "descricao": "A mudança climática é agora uma ameaça imediata ao controle da AIDS na África",
-      "fontes_que_cobriram": [
-        "aa"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "rt",
-        "scmp",
         "the_guardian"
       ],
-      "divergencia_de_enquadramento": "A África lida com a mudança climática e seus efeitos na saúde pública, enquanto a comunidade internacional é criticada por não fazer o suficiente para ajudar"
+      "divergencia_de_enquadramento": "Israel e o Hamas têm enquadramentos diferentes sobre o conflito, com Israel acusando o Hamas de 'terrorismo' e o Hamas acusando Israel de 'agressão'"
+    },
+    {
+      "tema": "Ucrânia e Rússia",
+      "descricao": "A Ucrânia e a Rússia continuam a ter tensões",
+      "fontes_que_cobriram": [
+        "mt",
+        "st"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "new_york_times"
+      ],
+      "divergencia_de_enquadramento": "A Ucrânia e a Rússia têm enquadramentos diferentes sobre as tensões, com a Ucrânia acusando a Rússia de 'agressão' e a Rússia acusando a Ucrânia de 'desestabilizar' o transporte marítimo internacional"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Crise migratória na Espanha",
-      "por_que_importa": "A crise migratória na Espanha é um tema importante que afeta a política e a economia do país",
-      "cobertura": "Apenas alguns veículos de imprensa, como o The Guardian e o El País, cobriram a crise migratória na Espanha"
+      "tema": "Ebola na RDC",
+      "por_que_importa": "O surto de ebola na RDC é um dos mais rápidos da história do vírus",
+      "cobertura": "Apenas o The Guardian cobriu o tema"
     },
     {
-      "tema": "Surto de ebola na RDC",
-      "por_que_importa": "O surto de ebola na RDC é um tema importante que afeta a saúde pública e a economia do país",
-      "cobertura": "Apenas alguns veículos de imprensa, como o The Guardian e a BBC, cobriram o surto de ebola na RDC"
+      "tema": "Incêndios na Turquia",
+      "por_que_importa": "Os incêndios na Turquia estão causando danos e perdas",
+      "cobertura": "Apenas a Euronews cobriu o tema"
     }
   ]
 }
