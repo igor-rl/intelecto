@@ -6,11 +6,11 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Migrações em massa e crises globais",
-    "subtitulo": "Enquanto a Europa lida com a entrada de milhares de migrantes, a África enfrenta desafios de segurança e saúde",
-    "resumo": "O dia foi marcado por notícias de migrações em massa, com milhares de pessoas cruzando a fronteira do Marrocos para a Espanha, enquanto a África lida com crises de segurança e saúde. A Rússia prorrogou a proibição de exportação de gasolina e diesel, e a UE concordou em criar um centro de resgate no leste da Líbia. Além disso, a África Oriental enfrenta a ameaça de desestabilização devido à estratégia de proxy da Eritreia, e a Libéria lida com a crise de segurança relacionada ao tráfico de cocaína. A Austrália registrou um aumento na aprovação de habitações, e a Copa do Mundo de futebol está sob ameaça de boicote devido ao plano da FIFA.",
+    "titulo": "Mortes em Ceuta e surto de ebola na RDC",
+    "subtitulo": "Enquanto a Espanha lida com a crise migratória, a RDC enfrenta o surto de ebola mais rápido da história",
+    "resumo": "Pelo menos 18 pessoas morreram ao tentar cruzar para o enclave espanhol de Ceuta, vindo do Marrocos. O incidente gerou críticas da França e da Itália à Espanha. Em outra parte do mundo, o surto de ebola na República Democrática do Congo (RDC) é o mais rápido da história do vírus, com quase 1.500 mortos. A vacina contra a cepa Bundibugyo pode estar ainda meses distante. Enquanto isso, a África também lida com a mudança climática, que é agora uma ameaça imediata ao controle da AIDS. A Fundação Mastercard comprometeu $500 milhões para transformar a educação superior no continente. No entanto, a região também enfrenta desafios como a redução do financiamento do desenvolvimento internacional e a pressão crescente para criar empregos para sua população em crescimento. A Rússia prorrogou a proibição de exportação de gasolina e diesel até janeiro de 2027, devido aos ataques ucranianos a refinarias de petróleo. O presidente chinês Xi Jinping se reuniu com líderes estrangeiros, incluindo os da Eslováquia e da Namíbia, em Pequim. A Índia pode dar voz ao Sul Global no Ártico, com a Rússia desempenhando um papel fundamental na governança do Ártico. O México capturou o suposto mentor do assassinato do prefeito de Uruapan. Israel deve aprovar o acordo de desarmamento antes que o Hamas o implemente, disse um oficial do Hamas. A Espanha e o Marrocos param a invasão letal ao enclave espanhol Ceuta após 49.000 cruzarem em um dia. A França vai reforçar os controles de fronteira, enquanto a Itália quer suspender o esquema de fronteira aberta da UE.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-07-30T08:00:00-03:00",
+    "publicado_em": "2026-07-31T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -918,42 +918,56 @@
   },
   "temas_principais": [
     {
-      "tema": "Migrações em massa",
-      "descricao": "Milhares de pessoas cruzam a fronteira do Marrocos para a Espanha",
+      "tema": "Mortes em Ceuta",
+      "descricao": "Pelo menos 18 pessoas morreram ao tentar cruzar para o enclave espanhol de Ceuta, vindo do Marrocos",
       "fontes_que_cobriram": [
+        "the_guardian",
         "euronews",
-        "st",
-        "smh"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "rt"
-      ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a crise humanitária, enquanto a Rússia destaca a segurança"
-    },
-    {
-      "tema": "Crises globais",
-      "descricao": "A África enfrenta desafios de segurança e saúde, e a Rússia prorrogou a proibição de exportação de gasolina e diesel",
-      "fontes_que_cobriram": [
-        "aa",
-        "mt",
         "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "nyt"
+        "rt",
+        "scmp"
       ],
-      "divergencia_de_enquadramento": "As fontes africanas e russas destacam a gravidade das crises, enquanto as fontes ocidentais tendem a minimizar"
+      "divergencia_de_enquadramento": "A Espanha é criticada por sua política migratória, enquanto o Marrocos é acusado de não fazer o suficiente para evitar a crise"
+    },
+    {
+      "tema": "Surto de ebola na RDC",
+      "descricao": "O surto de ebola na RDC é o mais rápido da história do vírus, com quase 1.500 mortos",
+      "fontes_que_cobriram": [
+        "the_guardian",
+        "aa"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "rt",
+        "scmp"
+      ],
+      "divergencia_de_enquadramento": "A RDC lida com a crise de saúde pública, enquanto a comunidade internacional é criticada por não fazer o suficiente para ajudar"
+    },
+    {
+      "tema": "Mudança climática na África",
+      "descricao": "A mudança climática é agora uma ameaça imediata ao controle da AIDS na África",
+      "fontes_que_cobriram": [
+        "aa"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "rt",
+        "scmp",
+        "the_guardian"
+      ],
+      "divergencia_de_enquadramento": "A África lida com a mudança climática e seus efeitos na saúde pública, enquanto a comunidade internacional é criticada por não fazer o suficiente para ajudar"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Crise de segurança na Libéria",
-      "por_que_importa": "A crise de segurança relacionada ao tráfico de cocaína afeta a estabilidade do país",
-      "cobertura": "Apenas a AllAfrica cobriu o tema"
+      "tema": "Crise migratória na Espanha",
+      "por_que_importa": "A crise migratória na Espanha é um tema importante que afeta a política e a economia do país",
+      "cobertura": "Apenas alguns veículos de imprensa, como o The Guardian e o El País, cobriram a crise migratória na Espanha"
     },
     {
-      "tema": "Desestabilização da África Oriental",
-      "por_que_importa": "A estratégia de proxy da Eritreia pode desestabilizar a região",
-      "cobertura": "Apenas a AllAfrica cobriu o tema"
+      "tema": "Surto de ebola na RDC",
+      "por_que_importa": "O surto de ebola na RDC é um tema importante que afeta a saúde pública e a economia do país",
+      "cobertura": "Apenas alguns veículos de imprensa, como o The Guardian e a BBC, cobriram o surto de ebola na RDC"
     }
   ]
 }
