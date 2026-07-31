@@ -113,111 +113,87 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-07-30T21:00:01.553Z",
+      "gerado_em": "2026-07-31T10:00:01.081Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-07-30-2101",
-          "titulo": "Trump Ameaça Retirar Blanche como Procurador-Geral, Dando Golpe na Nomeação",
-          "resumo": "A ameaça do Presidente Trump seguiu um dia de negociações infrutíferas com dois republicanos, os Senadores John Cornyn e Thom Tillis.",
+          "id": "new_york_times-2026-07-31-1001",
+          "titulo": "O que é o Conselho de Paz? O grupo apoiado por Trump, explicado.",
+          "resumo": "O presidente Trump criou a organização internacional, com o objetivo de resolver a longa guerra em Gaza e outros conflitos.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/07/30/us/politics/what-is-the-board-of-peace.html",
+          "publicado_em": "2026-07-31T01:27:52.000Z"
+        },
+        {
+          "id": "new_york_times-2026-07-31-1002",
+          "titulo": "Trump ameaça retirar Blanche como procurador-geral, dando um golpe na nomeação",
+          "resumo": "A ameaça do presidente Trump seguiu um dia de negociações infrutíferas com dois republicanos, os senadores John Cornyn e Thom Tillis.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html",
-          "publicado_em": "2026-07-30T20:52:19.000Z"
+          "publicado_em": "2026-07-30T22:27:44.000Z"
         },
         {
-          "id": "new_york_times-2026-07-30-2102",
-          "titulo": "Por Que a Confirmação de Todd Blanche como Procurador-Geral Está Paralisada",
-          "resumo": "A decisão do procurador-geral interino, Todd Blanche, de conceder proteção ao Presidente Trump contra auditorias do IRS se tornou a questão central em seu processo de confirmação.",
+          "id": "new_york_times-2026-07-31-1003",
+          "titulo": "Desafiando Trump, Cornyn usa seu poder de pato manco",
+          "resumo": "Ao se opor a Todd Blanche, a escolha do presidente Trump para procurador-geral, o senador John Cornyn está usando seu poder de negociação.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-confirmation-irs.html",
-          "publicado_em": "2026-07-30T16:11:48.000Z"
+          "link": "https://www.nytimes.com/2026/07/30/us/politics/cornyn-trump-blanche.html",
+          "publicado_em": "2026-07-31T00:23:01.000Z"
         },
         {
-          "id": "new_york_times-2026-07-30-2103",
-          "titulo": "Isenções de Tarifas de Trump Incluem Diamantes, Petróleo e Gás, Cobre e Outros Itens",
-          "resumo": "Uma nova rodada de isenções de tarifas levantou questões familiares sobre quem deve receber as isenções lucrativas e por quê.",
+          "id": "new_york_times-2026-07-31-1005",
+          "titulo": "O que saber sobre Ceuta",
+          "resumo": "A península na costa norte do Marrocos, governada pela Espanha por séculos, tem sido um local frequente de travessias de migrantes em massa e tensões políticas.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/30/business/economy/trump-tariffs-exemptions.html",
-          "publicado_em": "2026-07-30T20:24:36.000Z"
+          "link": "https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html",
+          "publicado_em": "2026-07-31T08:36:54.000Z"
         },
         {
-          "id": "new_york_times-2026-07-30-2104",
-          "titulo": "Crescimento do PIB dos EUA Desacelerou no Segundo Trimestre de 2026",
-          "resumo": "O produto interno bruto cresceu a uma taxa mais lenta no segundo trimestre e as pressões persistentes sobre os preços estão perturbando os mercados financeiros.",
+          "id": "new_york_times-2026-07-31-1011",
+          "titulo": "Tumulto político não vai descarrilar programa de robôs assassinos, diz ministro demitido",
+          "resumo": "O ex-ministro da Defesa ucraniano Mykhailo Fedorov, defensor da guerra de drones e robôs, diz que a estratégia tecnológica do país persistirá.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/30/business/economy/us-economy-gdp-growth.html",
-          "publicado_em": "2026-07-30T16:29:06.000Z"
+          "link": "https://www.nytimes.com/2026/07/31/world/europe/federov-ukraine-killer-robots.html",
+          "publicado_em": "2026-07-31T09:25:39.000Z"
         },
         {
-          "id": "new_york_times-2026-07-30-2105",
-          "titulo": "Elon Musk Planeja Gastar Pelo Menos $100 Milhões em Eleições de Meio de Mandato para Ajudar os Republicanos",
-          "resumo": "Elon Musk, um ano após uma grande briga com o Presidente Trump e o Partido Republicano, está planejando gastar em pelo menos oito estados para ajudá-los em novembro.",
+          "id": "new_york_times-2026-07-31-1015",
+          "titulo": "Guerra do Irã está envolvendo uma lista crescente de nações do Oriente Médio",
+          "resumo": "À medida que os EUA e o Irã trocam ataques, mais países estão sendo afetados — e alguns estão se juntando.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/30/us/politics/elon-musk-midterms-republicans.html",
-          "publicado_em": "2026-07-30T17:51:30.000Z"
+          "link": "https://www.nytimes.com/2026/07/30/world/middleeast/us-iran-war-expansion.html",
+          "publicado_em": "2026-07-30T22:25:37.000Z"
         },
         {
-          "id": "new_york_times-2026-07-30-2106",
-          "titulo": "Ex-Vice-Governador Mandela Barnes Deixa a Corrida para Governador do Wisconsin",
-          "resumo": "Com uma socialista democrata, Francesca Hong, liderando nas pesquisas, o ex-vice-governador Mandela Barnes disse que estava encerrando sua campanha no estado dividido.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/30/us/wisconsin-democratic-primary-for-governor-narrows-as-candidate-exits.html",
-          "publicado_em": "2026-07-30T20:49:56.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-30-2107",
-          "titulo": "Como o Sotaque de Haley Stevens Se Tornou um Ponto de Discórdia na Corrida para o Senado de Michigan",
-          "resumo": "Como a política de a’s elevados e g’s desaparecidos brevemente dominou a corrida para o Senado de Michigan.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/30/us/politics/haley-stevens-accent-michigan-senate.html",
-          "publicado_em": "2026-07-30T16:21:06.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-30-2108",
-          "titulo": "Espanha Mobiliza Militares à Medida que Milhares de Migrantes Entram em Ceuta",
-          "resumo": "As chegadas em Ceuta, uma península de seis milhas de comprimento na costa norte do Marrocos que a Espanha governa há séculos, têm alimentado tensões políticas.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/30/world/europe/spain-morocco-ceuta-migrants.html",
-          "publicado_em": "2026-07-30T19:56:38.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-30-2110",
-          "titulo": "Por Que os Democratas Não Param de Forçar Votos Sobre os Poderes de Guerra do Irã de Trump",
-          "resumo": "Mesmo após a aprovação de uma medida que pede ao Presidente Trump que termine a guerra, eles continuam a chamar votos para forçar os republicanos a responder por isso.",
+          "id": "new_york_times-2026-07-31-1016",
+          "titulo": "Por que os democratas não param de forçar votos sobre os poderes de guerra do Irã de Trump",
+          "resumo": "Mesmo após aprovar uma medida que pede ao presidente Trump que termine a guerra, eles continuam a chamar votos para forçar os republicanos a responder por isso.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/07/30/us/politics/democrats-war-powers-votes.html",
           "publicado_em": "2026-07-30T17:17:35.000Z"
         },
         {
-          "id": "new_york_times-2026-07-30-2111",
-          "titulo": "Ataque ao Porto Egípcio Mostra a Vulnerabilidade do Canal de Suez",
-          "resumo": "O porto onde ocorreu o ataque de quarta-feira está perto do Canal de Suez, por onde passa uma quantidade significativa do transporte marítimo mundial.",
+          "id": "new_york_times-2026-07-31-1018",
+          "titulo": "O que sabemos sobre o Dr. Fauci se recusando a responder em audiência do Senado sobre as origens da Covid",
+          "resumo": "Em uma audiência de três horas no Senado esta semana, o Dr. Fauci invocou seu direito constitucional de permanecer em silêncio, deixando as pessoas confusas sobre muitas das questões levantadas.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/30/world/middleeast/egyptian-port-attack-suez-canal-vulnerability.html",
-          "publicado_em": "2026-07-30T15:21:47.000Z"
+          "link": "https://www.nytimes.com/2026/07/30/health/fauci-allegations-covid-origins.html",
+          "publicado_em": "2026-07-31T02:23:30.000Z"
         },
         {
-          "id": "new_york_times-2026-07-30-2112",
-          "titulo": "EUA Veem o Irã como Provável Autor do Ataque Cibernético aos Sistemas de Água de Minnesota",
-          "resumo": "Investigadores advertiram que a avaliação era preliminar. Não havia indícios de que nenhum abastecimento de água tivesse sido tornado inseguro para beber.",
+          "id": "new_york_times-2026-07-31-1019",
+          "titulo": "Presidente do México apresenta plano para combater a algas que estão sufocando as praias",
+          "resumo": "A algas — uma algas marinha castanha e fedorenta conhecida como sargassum — tem assolado o México e a região mais ampla por mais de uma década, mas a previsão deste ano está quebrando recordes.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/30/us/politics/minnesota-water-cyberattack-iran.html",
-          "publicado_em": "2026-07-30T14:44:12.000Z"
+          "link": "https://www.nytimes.com/2026/07/30/world/americas/mexico-sargassum-beach-cleanup.html",
+          "publicado_em": "2026-07-31T00:54:42.000Z"
         },
         {
-          "id": "new_york_times-2026-07-30-2114",
-          "titulo": "DOJ Procura Usar a Corte para Deportar a Mãe de um Apoiador Condenado do Estado Islâmico",
-          "resumo": "O caso é um teste da Corte de Remoção de Terroristas Alienígenas, onde grande parte das evidências é apresentada em segredo e os réus não podem desafiar como elas foram coletadas.",
+          "id": "new_york_times-2026-07-31-1023",
+          "titulo": "4 corpos encontrados, 6 alpinistas desaparecidos após avalanche no Broad Peak, no Paquistão",
+          "resumo": "O grupo, que incluía o influente alpinista britânico-nepalês Nirmal Purja e um alpinista americano, foi pego em uma das montanhas mais altas do mundo, disse uma organização alpina.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/30/us/doj-isis-alien-terrorist-removal-court.html",
-          "publicado_em": "2026-07-30T20:38:54.000Z"
-        },
-        {
-          "id": "new_york_times-2026-07-30-2115",
-          "titulo": "Surto de Ebola é o Segundo Mais Mortal da História e em Tempo Recorde",
-          "resumo": "A doença matou mais de 1.500 pessoas na República Democrática do Congo em apenas dois meses, causando mortes mais rápido do que os funcionários já registraram.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/07/30/world/africa/ebola-deaths-record.html",
-          "publicado_em": "2026-07-30T19:40:04.000Z"
+          "link": "https://www.nytimes.com/2026/07/31/world/asia/nirmal-purja-nims-avalanche-pakistan.html",
+          "publicado_em": "2026-07-31T09:51:39.000Z"
         }
       ]
     },
