@@ -572,135 +572,142 @@
     "mt": {
       "slug": "mt",
       "nome": "The Moscow Times",
-      "gerado_em": "2026-07-31T21:46:13.127Z",
+      "gerado_em": "2026-08-01T10:46:07.224Z",
       "artigos": [
         {
-          "id": "mt-2026-07-31-2101",
-          "titulo": "Tribunal de Moscou Ordena Prisão da Filha de Boris Nemtsov",
-          "resumo": "Zhanna Nemtsova enfrenta acusações de organizar atividades de uma organização 'indesejável'.",
+          "id": "mt-2026-08-01-01",
+          "titulo": "Rússia ataca Kiev com mísseis, matando pelo menos 9 pessoas",
+          "resumo": "Este é o segundo grande ataque a Kiev esta semana, com incêndios em toda a cidade e apagões de energia relatados em algumas áreas.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/01/russia-pounds-kyiv-with-missiles-killing-at-least-9-a93392",
+          "fonte": "The Moscow Times",
+          "publicado_em": "2026-08-01T06:22:00.000Z"
+        },
+        {
+          "id": "mt-2026-08-01-02",
+          "titulo": "Tribunal de Moscou ordena prisão da filha de Boris Nemtsov",
+          "resumo": "Zhanna Nemtsova enfrenta acusações de organizar as atividades de uma organização \"indesejada\".",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/31/moscow-court-orders-detention-of-boris-nemtsovs-daughter-in-absentia-a93389",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-31T14:54:06.000Z"
         },
         {
-          "id": "mt-2026-07-31-2102",
-          "titulo": "Comissão Eleitoral Central Barra Candidatos do Yabloko da Cédula de St. Petersburg",
-          "resumo": "O presidente do Yabloko, Nikolai Rybakov, acusou os funcionários eleitorais de visar sistematicamente o partido porque ele 'se opõe às autoridades e defende os residentes e a cidade de St. Petersburg'.",
+          "id": "mt-2026-08-01-03",
+          "titulo": "Comissão Eleitoral Central barra candidatos do Yabloko em São Petersburgo",
+          "resumo": "O presidente do Yabloko, Nikolai Rybakov, acusou os funcionários eleitorais de visar sistematicamente o partido porque ele \"se opõe às autoridades e defende os residentes e a cidade de São Petersburgo\".",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/31/central-election-commission-bars-yabloko-candidates-from-st-petersburg-ballot-a93387",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-31T14:16:07.000Z"
         },
         {
-          "id": "mt-2026-07-31-2103",
-          "titulo": "Operadoras de Telefonia Móvel Russas Isentam Taxas de Dados para o Aplicativo de Mensagens Max",
-          "resumo": "A partir de 1 de agosto, chamadas de voz, mensagens, transferências de arquivos e outros serviços digitais dentro do Max serão gratuitos para assinantes da MTS, MegaFon, Beeline e T2.",
+          "id": "mt-2026-08-01-04",
+          "titulo": "Operadoras de telefonia móvel russas isentam taxas de dados para o aplicativo Max Messenger",
+          "resumo": "A partir de 1 de agosto, as chamadas de voz, mensagens, transferências de arquivos e outros serviços digitais dentro do Max serão gratuitos para os assinantes da MTS, MegaFon, Beeline e T2.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/31/russian-mobile-carriers-waive-data-fees-for-state-backed-max-messenger-a93386",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-31T12:47:03.000Z"
         },
         {
-          "id": "mt-2026-07-31-2104",
-          "titulo": "Cazaquistão em Negociações para Refinar Petróleo Bruto Russo Amidst Escassez de Combustível",
-          "resumo": "De acordo com o acordo proposto, as instalações cazaques processariam o petróleo russo para atender às necessidades do mercado local, enquanto devolveriam uma parte da gasolina e do diesel refinados de volta à Rússia.",
+          "id": "mt-2026-08-01-05",
+          "titulo": "Cazaquistão negocia refino de petróleo bruto russo em meio a escassez de combustível",
+          "resumo": "De acordo com o acordo proposto, as instalações cazaques processariam o petróleo russo para atender às necessidades do mercado local, enquanto retornariam uma parte do combustível refinado e do diesel de volta à Rússia.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/31/kazakhstan-in-talks-to-refine-russian-crude-oil-amid-fuel-shortages-a93385",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-31T10:15:35.000Z"
         },
         {
-          "id": "mt-2026-07-31-2105",
-          "titulo": "Ucrânia Ataca Centro Logístico da Wildberries e Instalação de Energia em Volgograd, Matando Pelo Menos Uma Pessoa",
+          "id": "mt-2026-08-01-06",
+          "titulo": "Ucrânia ataca centro logístico e instalação de energia em Volgogrado, matando pelo menos uma pessoa",
           "resumo": "As autoridades locais não identificaram o local de energia, mas o monitoramento de incêndios da NASA mostrou vários incêndios ativos em uma grande refinaria de petróleo operada pela Lukoil.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/31/ukraine-hits-wildberries-logistics-center-and-energy-facility-in-volgograd-killing-at-least-one-a93383",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-31T07:53:00.000Z"
         },
         {
-          "id": "mt-2026-07-31-2107",
-          "titulo": "Rússia Prorroga Proibição de Exportação de Gasolina e Diesel Até Janeiro de 2027",
+          "id": "mt-2026-08-01-07",
+          "titulo": "Rússia prorroga proibição de exportação de gasolina e diesel até janeiro de 2027",
           "resumo": "O preço médio da gasolina na Rússia subiu 19% desde o início do ano, em grande parte devido aos ataques ucranianos a refinarias de petróleo.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/30/russia-extends-gasoline-and-diesel-export-ban-through-january-2027-a93382",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-30T15:07:33.000Z"
         },
         {
-          "id": "mt-2026-07-31-2108",
-          "titulo": "Bilionário Kustov Preso ao Lado de Executivos da Efko e Oficial de Comércio Sênior",
+          "id": "mt-2026-08-01-08",
+          "titulo": "Bilionário Kustov preso junto com executivos da Efko e oficial de comércio sênior",
           "resumo": "As prisões estão relacionadas a uma investigação criminal sobre a empresa Transportation of the Future, que desenvolve sistemas aéreos não tripulados, segundo a mídia russa.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/30/billionaire-kustov-arrested-alongside-efko-executives-and-senior-trade-official-a93380",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-30T12:54:00.000Z"
         },
         {
-          "id": "mt-2026-07-31-2109",
-          "titulo": "Rússia Adiciona Fundador do Telegram, Pavel Durov, à Lista de 'Terroristas e Extremistas'",
+          "id": "mt-2026-08-01-09",
+          "titulo": "Rússia adiciona fundador do Telegram, Pavel Durov, à lista de \"terroristas e extremistas\"",
           "resumo": "A designação ocorre um dia após o FSB emitir um mandado de prisão para o empresário do setor de tecnologia por facilitar atividades terroristas.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/30/russia-adds-telegram-founder-pavel-durov-to-terrorist-and-extremist-list-a93381",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-30T12:13:00.000Z"
         },
         {
-          "id": "mt-2026-07-31-2110",
-          "titulo": "Procurador-Geral Demite Oficial Responsável por Apreensão de Ativos Corporativos em Tempos de Guerra",
-          "resumo": "O oficial, Sergei Bochkarev, supervisionou a apreensão do Aeroporto de Moscou Domodedovo, do fabricante de alimentos Makfa e da mineradora de ouro YUGK, entre outros.",
+          "id": "mt-2026-08-01-10",
+          "titulo": "Procurador-geral demite oficial que supervisionava a apreensão de ativos corporativos durante a guerra",
+          "resumo": "O oficial, Sergei Bochkarev, supervisionou a apreensão do aeroporto de Domodedovo, da fabricante de alimentos Makfa e da mineradora de ouro YUGK, entre outros.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/30/prosecutor-general-ousts-official-overseeing-wartime-corporate-asset-seizures-a93378",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-30T10:46:42.000Z"
         },
         {
-          "id": "mt-2026-07-31-2111",
-          "titulo": "Míssil Russo Provavelmente Caiu na Polônia Oriental, Diz Primeiro-Ministro Tusk",
+          "id": "mt-2026-08-01-11",
+          "titulo": "Míssil russo provavelmente caiu na Polônia Oriental, diz primeiro-ministro Tusk",
           "resumo": "O primeiro-ministro polonês, Donald Tusk, disse que o míssil caiu em uma área desabitada e não representou uma ameaça direta para os civis.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/30/russian-missile-likely-crashed-in-eastern-poland-pm-tusk-says-a93379",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-30T09:58:24.000Z"
         },
         {
-          "id": "mt-2026-07-31-2112",
-          "titulo": "Ucrânia Intensifica Campanha Contra a Wildberries, Atacando Armazéns em Penza e Udmúrtia",
-          "resumo": "Os ataques ocorrem após os ataques russos na Ucrânia matarem pelo menos oito pessoas durante a noite e a Polônia ter mobilizado caças.",
+          "id": "mt-2026-08-01-12",
+          "titulo": "Ucrânia intensifica campanha contra a Wildberries, atacando armazéns em Penza e Udmúrtia",
+          "resumo": "Os ataques ocorrem após os ataques russos na Ucrânia matarem pelo menos oito pessoas durante a noite e a Polônia ter enviado caças.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/30/ukraine-ramps-up-campaign-against-wildberries-striking-warehouses-in-penza-and-udmurtia-a93375",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-30T08:49:00.000Z"
         },
         {
-          "id": "mt-2026-07-31-2114",
-          "titulo": "França Ordena Expulsão da Ex-Editora do RT, Ksenia Fedorova",
-          "resumo": "Fedorova foi acusada de espalhar propaganda do Kremlin pela televisão e rádio francesa.",
+          "id": "mt-2026-08-01-13",
+          "titulo": "França ordena expulsão da ex-editora do RT, Ksenia Fedorova",
+          "resumo": "Fedorova foi acusada de espalhar propaganda do Kremlin na televisão e rádio francesa.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/29/france-orders-expulsion-of-former-rt-editor-ksenia-fedorova-a93373",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-29T13:49:00.000Z"
         },
         {
-          "id": "mt-2026-07-31-2115",
-          "titulo": "Tribunal de Moscou Condena Jornalista Daria Shipacheva a 12 Anos de Prisão por Traição",
-          "resumo": "Shipacheva, que nasceu na Ucrânia, trabalhou como jornalista freelancer para várias publicações na Rússia, incluindo Forbes e RBC.",
+          "id": "mt-2026-08-01-14",
+          "titulo": "Tribunal de Moscou condena jornalista Daria Shipacheva a 12 anos de prisão por traição",
+          "resumo": "Shipacheva, que nasceu na Ucrânia, trabalhou como jornalista médica freelancer para várias publicações na Rússia, incluindo Forbes e RBC.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/29/moscow-court-jails-journalist-daria-shipacheva-12-years-for-treason-a93372",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-29T13:23:14.000Z"
         },
         {
-          "id": "mt-2026-07-31-2116",
-          "titulo": "Esgrimista Russo Vence Ouro no Campeonato Mundial em Primeira Competição Sob a Bandeira Nacional Desde 2022",
-          "resumo": "Pavel Graudyn derrotou o sul-coreano Do Gyeong-dong por 15-7 na final individual de sabre na terça-feira.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/29/russian-fencer-wins-world-championship-gold-in-first-competition-under-national-flag-since-2022-a93370",
-          "publicado_em": "2026-07-29T12:54:13.000Z"
-        },
-        {
-          "id": "mt-2026-07-31-2117",
-          "titulo": "Putin Substitui Chefe da República de Udmúrtia Após Renúncia Inesperada",
+          "id": "mt-2026-08-01-15",
+          "titulo": "Putin substitui chefe da República de Udmúrtia após renúncia surpresa",
           "resumo": "O presidente nomeou Olga Abramova, nativa de Udmúrtia e ex-funcionária agrícola, como governadora interina até as eleições regionais do próximo ano.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/29/putin-replaces-head-of-udmurtia-republic-following-surprise-resignation-a93368",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-07-29T11:33:00.000Z"
-        },
-        {
-          "id": "mt-2026-07-31-2118",
-          "titulo": "Comissão Eleitoral Permite que o Yabloko Inscreva Candidatos Pró-Paz nas Eleições da Duma Estadual",
-          "resumo": "O presidente do Yabloko, Nikolai Ryabkov, disse que a decisão dá aos russos a primeira oportunidade em cinco anos 'de votar pela paz e liberdade, oferecendo uma maneira legal e segura de defender um acordo de cessar-fogo'.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/29/election-commission-clears-yabloko-to-run-pro-peace-candidates-in-state-duma-races-a93367",
-          "publicado_em": "2026-07-29T10:30:00.000Z"
         }
       ]
     },
