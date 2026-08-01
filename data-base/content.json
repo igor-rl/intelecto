@@ -6,11 +6,11 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Crise de Ceuta: Morte e controvérsia",
-    "subtitulo": "Enquanto a Europa lida com a crise migratória, a comunidade internacional questiona as respostas",
-    "resumo": "A crise migratória em Ceuta continua a gerar controvérsia, com a Espanha e a Itália suspendendo acordos de Schengen com outros países europeus. Enquanto isso, a comunidade internacional questiona as respostas à crise, com alguns países acusando a Europa de hipocrisia. A crise também levantou questões sobre a soberania e a gestão de fronteiras. Além disso, a situação no Oriente Médio continua a se deteriorar, com Israel e o Hamas trocando acusações e ataques. A Ucrânia também está em foco, com a Rússia acusando o país de desestabilizar o transporte marítimo internacional.",
+    "titulo": "Mortes em Ceuta e tensões globais",
+    "subtitulo": "Conflitos em várias frentes, de Ceuta à Ucrânia, e desafios migratórios",
+    "resumo": "O dia foi marcado por uma série de eventos críticos em diferentes partes do mundo. Na fronteira entre a Espanha e o Marrocos, a crise migratória resultou em várias mortes, com dezenas de milhares de pessoas tentando cruzar a fronteira. Enquanto isso, a Ucrânia enfrenta ataques contínuos, com mísseis atingindo Kiev e matando pelo menos 9 pessoas. Além disso, a comunidade internacional está atenta às tensões no Estreito de Ormuz, com relatos de incidentes envolvendo tanques e navios. A crise do ebola na República Democrática do Congo também continua a ser uma preocupação, com o surto sendo considerado o mais rápido da história do vírus. Em meio a esses desafios, a União Europeia busca fortalecer suas fronteiras e lidar com a crise migratória, enquanto os Estados Unidos enfrentam questões internas, incluindo a possibilidade de desregular o Head Start, um programa de pré-escola para crianças pobres. A Rússia, por sua vez, está realizando exercícios navais e aéreos no Mar da China Meridional, após a Filipinas ter feito uma reivindicação territorial na região. Diante desses eventos, é fundamental considerar as diferentes perspectivas e enquadramentos oferecidos pelas fontes de notícias de diferentes regiões do mundo, destacando a importância de uma cobertura equilibrada e crítica.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-07-31T08:00:00-03:00",
+    "publicado_em": "2026-08-01T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -856,53 +856,54 @@
   },
   "temas_principais": [
     {
-      "tema": "Crise de Ceuta",
-      "descricao": "A crise migratória em Ceuta continua a gerar controvérsia",
+      "tema": "Crise migratória em Ceuta",
+      "descricao": "Dezenas de milhares de pessoas tentam cruzar a fronteira entre a Espanha e o Marrocos, resultando em várias mortes.",
       "fontes_que_cobriram": [
         "the_guardian",
-        "euronews",
-        "st"
+        "st",
+        "smh"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
         "rt"
       ],
-      "divergencia_de_enquadramento": "A Espanha e a Itália têm enquadramentos diferentes sobre a crise, com a Espanha acusando a Marrocos de 'invasão' e a Itália suspendendo acordos de Schengen"
+      "divergencia_de_enquadramento": "Enquanto some fontes destacam a crise humanitária, outras enfatizam a necessidade de segurança nas fronteiras."
     },
     {
-      "tema": "Conflito Israel-Hamas",
-      "descricao": "O conflito entre Israel e o Hamas continua a se deteriorar",
+      "tema": "Ataques na Ucrânia",
+      "descricao": "Kiev é atingida por mísseis, matando pelo menos 9 pessoas, em mais um episódio de violência na região.",
       "fontes_que_cobriram": [
         "new_york_times",
-        "rt"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian"
-      ],
-      "divergencia_de_enquadramento": "Israel e o Hamas têm enquadramentos diferentes sobre o conflito, com Israel acusando o Hamas de 'terrorismo' e o Hamas acusando Israel de 'agressão'"
-    },
-    {
-      "tema": "Ucrânia e Rússia",
-      "descricao": "A Ucrânia e a Rússia continuam a ter tensões",
-      "fontes_que_cobriram": [
         "mt",
         "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "new_york_times"
+        "scmp"
       ],
-      "divergencia_de_enquadramento": "A Ucrânia e a Rússia têm enquadramentos diferentes sobre as tensões, com a Ucrânia acusando a Rússia de 'agressão' e a Rússia acusando a Ucrânia de 'desestabilizar' o transporte marítimo internacional"
+      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar a agressão russa, enquanto fontes russas ou pró-Rússia podem apresentar uma narrativa diferente."
+    },
+    {
+      "tema": "Tensões no Estreito de Ormuz",
+      "descricao": "Relatos de incidentes envolvendo tanques e navios no Estreito de Ormuz aumentam as tensões na região.",
+      "fontes_que_cobriram": [
+        "euronews",
+        "scmp"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "aa"
+      ],
+      "divergencia_de_enquadramento": "As fontes variam na ênfase dada à estabilidade da região versus os riscos de conflito."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Ebola na RDC",
-      "por_que_importa": "O surto de ebola na RDC é um dos mais rápidos da história do vírus",
-      "cobertura": "Apenas o The Guardian cobriu o tema"
+      "tema": "Surto de ebola na República Democrática do Congo",
+      "por_que_importa": "O surto é considerado o mais rápido da história do vírus, com implicações significativas para a saúde global.",
+      "cobertura": "A cobertura é limitada em algumas fontes, especialmente aquelas com foco em notícias regionais ou de última hora."
     },
     {
-      "tema": "Incêndios na Turquia",
-      "por_que_importa": "Os incêndios na Turquia estão causando danos e perdas",
-      "cobertura": "Apenas a Euronews cobriu o tema"
+      "tema": "Exercícios navais e aéreos da Rússia no Mar da China Meridional",
+      "por_que_importa": "Esses exercícios podem ter implicações para a segurança regional e a dinâmica de poder na Ásia.",
+      "cobertura": "A cobertura varia, com algumas fontes destacando a dimensão militar e outras a política por trás dos exercícios."
     }
   ]
 }
