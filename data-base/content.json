@@ -6,9 +6,9 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Mortes em Ceuta e tensões globais",
-    "subtitulo": "Conflitos em várias frentes, de Ceuta à Ucrânia, e desafios migratórios",
-    "resumo": "O dia foi marcado por uma série de eventos críticos em diferentes partes do mundo. Na fronteira entre a Espanha e o Marrocos, a crise migratória resultou em várias mortes, com dezenas de milhares de pessoas tentando cruzar a fronteira. Enquanto isso, a Ucrânia enfrenta ataques contínuos, com mísseis atingindo Kiev e matando pelo menos 9 pessoas. Além disso, a comunidade internacional está atenta às tensões no Estreito de Ormuz, com relatos de incidentes envolvendo tanques e navios. A crise do ebola na República Democrática do Congo também continua a ser uma preocupação, com o surto sendo considerado o mais rápido da história do vírus. Em meio a esses desafios, a União Europeia busca fortalecer suas fronteiras e lidar com a crise migratória, enquanto os Estados Unidos enfrentam questões internas, incluindo a possibilidade de desregular o Head Start, um programa de pré-escola para crianças pobres. A Rússia, por sua vez, está realizando exercícios navais e aéreos no Mar da China Meridional, após a Filipinas ter feito uma reivindicação territorial na região. Diante desses eventos, é fundamental considerar as diferentes perspectivas e enquadramentos oferecidos pelas fontes de notícias de diferentes regiões do mundo, destacando a importância de uma cobertura equilibrada e crítica.",
+    "titulo": "Crise em Ceuta: UE realiza reunião de crise",
+    "subtitulo": "Dezenas de milhares de migrantes cruzam fronteira espanhola, desencadeando alarme na Europa",
+    "resumo": "A crise em Ceuta, uma cidade espanhola no norte da África, dominou os noticiários do dia. Dezenas de milhares de migrantes cruzaram a fronteira espanhola, desencadeando alarme na Europa. A UE realizará uma reunião de crise para discutir a situação. Enquanto isso, a imprensa marroquina enquadrava Ceuta como uma questão de soberania, a mídia argelina acusou Rabat de 'armar' a migração, e as mídias sociais tunisianas criticaram a falta de ação da UE. A crise em Ceuta é um exemplo de como a migração pode se tornar um tema político controverso, com diferentes narrativas e enquadramentos na imprensa. Além disso, a cobertura da crise em Ceuta também destacou a falta de atenção da imprensa ocidental para com as questões africanas, com a AllAfrica sendo uma das poucas fontes a abordar a questão de forma aprofundada.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-08-01T08:00:00-03:00",
     "link": null,
@@ -889,54 +889,41 @@
   },
   "temas_principais": [
     {
-      "tema": "Crise migratória em Ceuta",
-      "descricao": "Dezenas de milhares de pessoas tentam cruzar a fronteira entre a Espanha e o Marrocos, resultando em várias mortes.",
+      "tema": "Crise em Ceuta",
+      "descricao": "Dezenas de milhares de migrantes cruzam fronteira espanhola, desencadeando alarme na Europa",
       "fontes_que_cobriram": [
         "the_guardian",
-        "st",
-        "smh"
+        "euronews",
+        "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
         "rt"
       ],
-      "divergencia_de_enquadramento": "Enquanto some fontes destacam a crise humanitária, outras enfatizam a necessidade de segurança nas fronteiras."
+      "divergencia_de_enquadramento": "A imprensa marroquina enquadrava Ceuta como uma questão de soberania, a mídia argelina acusou Rabat de 'armar' a migração, e as mídias sociais tunisianas criticaram a falta de ação da UE"
     },
     {
-      "tema": "Ataques na Ucrânia",
-      "descricao": "Kiev é atingida por mísseis, matando pelo menos 9 pessoas, em mais um episódio de violência na região.",
+      "tema": "Surto de ebola na RDC",
+      "descricao": "O surto de ebola na República Democrática do Congo é o mais rápido da história do vírus",
       "fontes_que_cobriram": [
-        "new_york_times",
-        "mt",
-        "st"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "scmp"
-      ],
-      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar a agressão russa, enquanto fontes russas ou pró-Rússia podem apresentar uma narrativa diferente."
-    },
-    {
-      "tema": "Tensões no Estreito de Ormuz",
-      "descricao": "Relatos de incidentes envolvendo tanques e navios no Estreito de Ormuz aumentam as tensões na região.",
-      "fontes_que_cobriram": [
-        "euronews",
-        "scmp"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
+        "the_guardian",
         "aa"
       ],
-      "divergencia_de_enquadramento": "As fontes variam na ênfase dada à estabilidade da região versus os riscos de conflito."
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "new_york_times"
+      ],
+      "divergencia_de_enquadramento": "A AllAfrica abordou a questão de forma aprofundada, enquanto a imprensa ocidental deu menos atenção ao tema"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Surto de ebola na República Democrática do Congo",
-      "por_que_importa": "O surto é considerado o mais rápido da história do vírus, com implicações significativas para a saúde global.",
-      "cobertura": "A cobertura é limitada em algumas fontes, especialmente aquelas com foco em notícias regionais ou de última hora."
+      "tema": "Surto de ebola na RDC",
+      "por_que_importa": "O surto de ebola na RDC é um exemplo de como a falta de atenção da imprensa ocidental pode levar a uma falta de ação internacional",
+      "cobertura": "A AllAfrica foi uma das poucas fontes a abordar a questão de forma aprofundada"
     },
     {
-      "tema": "Exercícios navais e aéreos da Rússia no Mar da China Meridional",
-      "por_que_importa": "Esses exercícios podem ter implicações para a segurança regional e a dinâmica de poder na Ásia.",
-      "cobertura": "A cobertura varia, com algumas fontes destacando a dimensão militar e outras a política por trás dos exercícios."
+      "tema": "Crise no Sudão",
+      "por_que_importa": "A crise no Sudão é um exemplo de como a falta de atenção da imprensa ocidental pode levar a uma falta de ação internacional",
+      "cobertura": "A AllAfrica foi uma das poucas fontes a abordar a questão de forma aprofundada"
     }
   ]
 }
