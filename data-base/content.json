@@ -874,15 +874,23 @@
     "smh": {
       "slug": "smh",
       "nome": "The Sydney Morning Herald (SMH)",
-      "gerado_em": "2026-08-01T21:46:28.039Z",
+      "gerado_em": "2026-08-02T10:46:22.113Z",
       "artigos": [
         {
-          "id": "smh-2026-08-01-2103-01",
-          "titulo": "UE realiza reunião de crise após cruzamento de fronteira espanhol",
-          "resumo": "A UE realizará uma reunião de crise após dezenas de milhares de pessoas cruzarem um posto de fronteira em Ceuta, uma cidade espanhola no norte da África.",
-          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/dd5586fbcd57689413a8a8a2d70671664e8a574b",
-          "link": "https://www.smh.com.au/national/eu-holds-crisis-meeting-after-spanish-border-crossing-20260802-p60kmk.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "publicado_em": "2026-08-01T21:29:37.000Z"
+          "id": "smh-2026-08-02-1009",
+          "titulo": "Múltiplas pessoas morrem em tiroteio em restaurante In-N-Out Burger nos EUA",
+          "resumo": "Um tiroteio fatal atingiu um restaurante In-N-Out Burger no Idaho.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/8cf8932ce221cbd2b4ab30abc580a2b8973e3df5",
+          "link": "https://www.smh.com.au/national/multiple-people-killed-in-shooting-at-in-n-out-burger-in-us-20260802-p60krc.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-08-02T09:26:24.000Z"
+        },
+        {
+          "id": "smh-2026-08-02-1015",
+          "titulo": "Mortos em crise de migrantes aumentam",
+          "resumo": "A Espanha acusa alguns de seus aliados de terem uma \"atitude egoísta\", à medida que a UE se prepara para realizar uma reunião de emergência sobre a crise no território espanhol.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/1d7de59e30eb34505905fb0548cf9eaf359c1b30",
+          "link": "https://www.smh.com.au/national/death-toll-rises-in-migrant-crisis-20260802-p60kr6.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-08-02T08:33:24.000Z"
         }
       ]
     }
