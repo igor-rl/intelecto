@@ -192,26 +192,34 @@
     "euronews": {
       "slug": "euronews",
       "nome": "Euro News",
-      "gerado_em": "2026-08-01T21:00:18.519Z",
+      "gerado_em": "2026-08-02T10:00:18.130Z",
       "artigos": [
         {
-          "id": "euronews-2026-08-01-2103",
-          "titulo": "Dois ataques relatados a petroleiros perto do Estreito de Ormuz",
+          "id": "euronews-2026-08-02-1001",
+          "titulo": "Trump diz que está cancelando ataques ao Irã porque 'os limites de um acordo' foram acordados",
+          "resumo": "Na sexta-feira, Trump havia dito que estava 'perdendo a fé' na perspectiva de um acordo de paz e ameaçou atingir o Irã 'muito forte.'",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/02/trump-says-hes-cancelling-strikes-on-iran-as-perimeters-of-a-deal-agreed",
+          "publicado_em": "2026-08-02T06:10:02.000Z"
+        },
+        {
+          "id": "euronews-2026-08-02-1005",
+          "titulo": "Dois ataques a petroleiros relatados perto do Estreito de Ormuz",
           "resumo": "O Estreito de Ormuz, que liga o Golfo Pérsico ao Golfo de Omã e ao Mar Arábico, é um dos principais pontos de transição de petróleo e gás do mundo, transportando cerca de um quarto do...",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/01/two-reported-attacks-on-tankers-near-strait-of-hormuz",
           "publicado_em": "2026-08-01T08:48:48.000Z"
         },
         {
-          "id": "euronews-2026-08-01-2105",
+          "id": "euronews-2026-08-02-1007",
           "titulo": "Libéria demite funcionários após apreensão de cocaína no valor de 336 milhões de dólares",
-          "resumo": "As apreensões de drogas intensificaram a escrutínio do problema de narcóticos da Libéria, com usuários de mídias sociais, comentaristas políticos e mídia local pedindo mais responsabilidade dos funcionários públicos e...",
+          "resumo": "As apreensões de drogas intensificaram a fiscalização do problema de narcóticos da Libéria, com usuários de mídias sociais, comentaristas políticos e mídia local pedindo mais responsabilidade dos funcionários públicos e...",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/31/liberia-sacks-officials-after-record-cocaine-seizures-worth-336-million",
           "publicado_em": "2026-07-31T17:11:31.000Z"
         },
         {
-          "id": "euronews-2026-08-01-2106",
+          "id": "euronews-2026-08-02-1008",
           "titulo": "Cinco incêndios florestais ainda queimam na Turquia, com risco estendendo-se para a próxima semana",
           "resumo": "De 206 incêndios registrados desde quarta-feira, 202 foram controlados até sexta-feira, mas alguns permanecem ativos nas costas oeste e sul, com temperaturas altas e ventos fortes previstos para...",
           "imagem": null,
@@ -219,15 +227,15 @@
           "publicado_em": "2026-07-31T16:04:56.000Z"
         },
         {
-          "id": "euronews-2026-08-01-2108",
+          "id": "euronews-2026-08-02-1010",
           "titulo": "Soberania, sarcasmo, culpa: Como o norte da África reagiu à crise de Ceuta",
-          "resumo": "A imprensa marroquina enquadrava Ceuta como uma questão de soberania, a mídia argelina acusou Rabat de \"armar\" a migração, e as mídias sociais tunisianas responderam com humor escuro, à medida que a região...",
+          "resumo": "A imprensa marroquina enquadrava Ceuta como uma questão de soberania, a mídia argelina acusou Rabat de 'armar' a migração, e as redes sociais tunisianas responderam com humor escuro, à medida que a região enfrenta seus próprios...",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/31/sovereignty-sarcasm-blame-how-north-africa-reacted-to-ceuta-crisis",
           "publicado_em": "2026-07-31T14:38:57.000Z"
         },
         {
-          "id": "euronews-2026-08-01-2110",
+          "id": "euronews-2026-08-02-1012",
           "titulo": "Houthis prometem 'escalada total' à medida que a Arábia Saudita lança coalizão do Mar Vermelho",
           "resumo": "O líder houthi Abdul-Malik al-Houthi advertiu a Arábia Saudita de uma resposta total horas antes de Riad anunciar uma nova coalizão de defesa marítima multinacional, com 14 países, incluindo o Paquistão, a Turquia e...",
           "imagem": null,
@@ -235,68 +243,52 @@
           "publicado_em": "2026-07-31T12:01:17.000Z"
         },
         {
-          "id": "euronews-2026-08-01-2111",
+          "id": "euronews-2026-08-02-1013",
           "titulo": "'Este é o nosso chamado à ação': Chefe de crise da UE critica negadores do clima após incêndios na França",
-          "resumo": "Em uma entrevista exclusiva à Euronews, a chefe de crise da UE disse que os incêndios serviram como um \"chamado à ação para a Europa\" e insistiu que a prevenção é fundamental para reduzir o risco de futuros incêndios...",
+          "resumo": "Em uma entrevista exclusiva à Euronews, a chefe de crise da UE disse que os incêndios serviram como um 'chamado à ação para a Europa' e insistiu que a prevenção é fundamental para reduzir o risco de futuros incêndios florestais, à medida que...",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/31/this-is-our-wake-up-call-eu-crisis-chief-slams-climate-deniers-after-french-fires",
           "publicado_em": "2026-07-31T11:57:37.000Z"
         },
         {
-          "id": "euronews-2026-08-01-2112",
-          "titulo": "Exclusivo: Parlamentares europeus exigem que Infantino compareça perante o Parlamento Europeu sobre plano de investimento privado da FIFA",
-          "resumo": "À medida que as associações de futebol europeias ameaçam boicotar a Copa do Mundo, uma carta rascunhada obtida pela Euronews acusou o presidente da FIFA de usar a organização como uma \"escada de carreira política\".",
+          "id": "euronews-2026-08-02-1014",
+          "titulo": "Exclusivo: Deputados exigem que Infantino compareça perante o Parlamento Europeu sobre o plano de investimento privado da FIFA",
+          "resumo": "À medida que as associações de futebol europeias ameaçam boicotar a Copa do Mundo, uma carta rascunhada obtida pela Euronews acusou o presidente da FIFA de usar a organização como uma 'escada de carreira política'.",
           "imagem": null,
           "link": "http://www.euronews.com/my-europe/2026/07/31/exclusive-meps-demand-infantino-appear-before-european-parliament-over-fifas-private-inves",
           "publicado_em": "2026-07-31T11:32:43.000Z"
         },
         {
-          "id": "euronews-2026-08-01-2114",
-          "titulo": "Montanhistas renomados desaparecem após avalanche no Broad Peak",
-          "resumo": "Nirmal Purja, do Nepal, que liderou a expedição de 10 montanhistas, estabeleceu um recorde mundial em 2019, tornando-se a primeira pessoa a escalar todas as 14 montanhas mais altas do mundo, ultrapassando a marca de 8.000 metros, em...",
+          "id": "euronews-2026-08-02-1016",
+          "titulo": "Montanhistas renomados do Nepal, incluindo Nirmal Purja, estão desaparecidos após avalanche no Broad Peak",
+          "resumo": "Nirmal Purja, do Nepal, que liderou a expedição de 10 montanhistas, estabeleceu um recorde mundial em 2019, tornando-se a primeira pessoa a escalar todas as 14 montanhas mais altas do mundo, acima de 8.000 metros, em...",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/31/renowned-nepali-mountaineer-nirmal-purja-among-missing-climbers-after-avalanche-on-broad-p",
           "publicado_em": "2026-07-31T09:56:49.000Z"
         },
         {
-          "id": "euronews-2026-08-01-2116",
-          "titulo": "Projeto de arte terrestre gigante pede que o primeiro-ministro do Reino Unido restaure ajuda humanitária",
-          "resumo": "Uma campanha que pede ao Reino Unido que restaure a ajuda humanitária foi lançada com um retrato impressionante do primeiro-ministro do Reino Unido, Andy Burnham, no norte da Inglaterra.",
+          "id": "euronews-2026-08-02-1018",
+          "titulo": "Projeto de arte de terra gigante pede que o primeiro-ministro do Reino Unido, Andy Burnham, restaure a ajuda humanitária",
+          "resumo": "Uma campanha pedindo que o Reino Unido restaure a ajuda humanitária foi lançada com um retrato impressionante de arte de terra do primeiro-ministro do Reino Unido, Andy Burnham, no norte da Inglaterra.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/07/31/giant-land-art-project-urges-uk-pm-andy-burnham-to-restore-aid",
           "publicado_em": "2026-07-31T08:23:09.000Z"
         },
         {
-          "id": "euronews-2026-08-01-2117",
+          "id": "euronews-2026-08-02-1019",
           "titulo": "Reino Unido anuncia investimento de 8 bilhões de libras em submarinos nucleares",
-          "resumo": "O contratante de defesa do Reino Unido, BAE Systems, foi encarregado de entregar quatro submarinos nucleares da classe Dreadnought como parte do dissuasor nuclear da Grã-Bretanha.",
+          "resumo": "O contratante de defesa do Reino Unido, BAE Systems, foi encarregado de entregar quatro submarinos nucleares Dreadnought Class como parte do dissuasor nuclear da Grã-Bretanha.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/31/uk-announces-8-billion-investment-in-nuclear-submarines",
           "publicado_em": "2026-07-31T06:11:53.000Z"
         },
         {
-          "id": "euronews-2026-08-01-2120",
-          "titulo": "Hamas concorda com acordo de desarmamento 'histórico', ministro israelense considera 'inaceitável'",
-          "resumo": "Trump disse que o acordo para avançar com o plano de paz de 20 pontos será implementado em \"fases cuidadosamente estruturadas\", mas não anunciou um cronograma para quando o processo pode ser concluído. O ministro israelense de extrema-direita...",
+          "id": "euronews-2026-08-02-1022",
+          "titulo": "Hamas concorda com 'acordo histórico' de desarmamento, ministro de Israel considera 'inaceitável'",
+          "resumo": "Trump disse que o acordo para avançar com seu plano de paz de 20 pontos será lançado em 'fases cuidadosamente estruturadas', mas não anunciou um cronograma para quando o processo pode ser concluído. O ministro de extrema-direita de Israel...",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/31/trump-announces-historic-deal-for-the-complete-disarmament-of-hamas-and-israeli-withdrawal",
           "publicado_em": "2026-07-31T04:25:02.000Z"
-        },
-        {
-          "id": "euronews-2026-08-01-2123",
-          "titulo": "Milei autoriza expulsão de estrangeiros por discurso de ódio anti-Argentina",
-          "resumo": "O governo disse que as mudanças foram uma resposta ao que descreveu como \"exposições recentes de hostilidade contra a República Argentina e os argentinos\", embora não tenha citado exemplos específicos.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/30/milei-authorises-expulsion-of-foreigners-over-anti-argentina-hate-speech",
-          "publicado_em": "2026-07-30T15:26:25.000Z"
-        },
-        {
-          "id": "euronews-2026-08-01-2124",
-          "titulo": "Milhares de migrantes invadem a fronteira de Ceuta, vinda do Marrocos",
-          "resumo": "Milhares cruzaram para o enclave norte-africano da Espanha, Ceuta, vindo do Marrocos, o que levou as autoridades locais a solicitar uma emergência nacional e apoio militar.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/07/30/thousands-of-migrants-storm-ceuta-border-from-morocco",
-          "publicado_em": "2026-07-30T15:10:17.000Z"
         }
       ]
     },
