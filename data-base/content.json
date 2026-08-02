@@ -5,10 +5,10 @@
   "itens_urgentes": {},
   "destaques": [],
   "capa": {
-    "categoria_nome": "O que marcou o dia?",
-    "titulo": "Crise de Migrantes em Ceuta",
-    "subtitulo": "Tensões entre Espanha e Marrocos aumentam após incidente mortal",
-    "resumo": "A crise de migrantes em Ceuta continua a dominar os noticiários internacionais, com a Espanha e o Marrocos envolvidos em uma disputa diplomática. Enquanto a União Europeia se prepara para uma reunião de emergência sobre o assunto, a Rússia e a Ucrânia continuam seu conflito, com drones ucranianos matando civis na Rússia. A África também está enfrentando desafios, com o surto de ebola na República Democrática do Congo se tornando o mais rápido da história do vírus. A China, por sua vez, está lidando com inundações em sua província de Gansu, enquanto a Turquia enfrenta incêndios florestais. A crise de migrantes em Ceuta, no entanto, permanece como o tema mais premente, com a Espanha acusando alguns de seus aliados de terem uma 'atitude egoísta' em relação ao assunto.",
+    "categoria_nome": "Crise Migratória e Conflitos Globais",
+    "titulo": "Mortos em Ceuta: Crise Migratória Atinge Nível Crítico",
+    "subtitulo": "Enquanto a Europa lida com a crise migratória, conflitos globais e tensões políticas dominam o cenário internacional",
+    "resumo": "A crise migratória em Ceuta atingiu um nível crítico, com o número de mortos subindo para 72. Enquanto a Europa lida com essa crise, conflitos globais e tensões políticas dominam o cenário internacional. A Rússia e a Ucrânia continuam em conflito, com a Rússia lançando mísseis na Ucrânia e a Ucrânia afundando um navio cargueiro russo no Mar Negro. Além disso, a África está passando por um momento importante em sua história econômica moderna, com a África Oriental lidando com o impacto do surto de ebola nas mulheres. A Austrália também está acompanhando as notícias da queda no preço das casas e os ataques israelenses em Gaza. Nesse cenário complexo, é fundamental analisar as diferentes perspectivas e enquadramentos dos principais veículos de comunicação globais.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-08-02T08:00:00-03:00",
     "link": null,
@@ -889,67 +889,42 @@
   },
   "temas_principais": [
     {
-      "tema": "Crise de Migrantes em Ceuta",
-      "descricao": "A crise de migrantes em Ceuta continua a dominar os noticiários internacionais, com a Espanha e o Marrocos envolvidos em uma disputa diplomática.",
+      "tema": "Crise Migratória em Ceuta",
+      "descricao": "A crise migratória em Ceuta atingiu um nível crítico, com o número de mortos subindo para 72.",
       "fontes_que_cobriram": [
         "the_guardian",
         "new_york_times",
         "euronews",
-        "st",
-        "smh"
+        "scmp",
+        "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
         "rt",
-        "mt",
-        "aa"
+        "mt"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a responsabilidade do Marrocos em controlar a fronteira, enquanto as fontes russas e chinesas destacam a necessidade de cooperação internacional para resolver a crise."
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a crise humanitária e a necessidade de uma resposta europeia, enquanto as fontes russas e chinesas destacam a responsabilidade da Europa em relação à crise."
     },
     {
       "tema": "Conflito Rússia-Ucrânia",
-      "descricao": "A Rússia e a Ucrânia continuam seu conflito, com drones ucranianos matando civis na Rússia.",
+      "descricao": "A Rússia e a Ucrânia continuam em conflito, com a Rússia lançando mísseis na Ucrânia e a Ucrânia afundando um navio cargueiro russo no Mar Negro.",
       "fontes_que_cobriram": [
         "rt",
         "mt",
+        "st"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "the_guardian",
         "new_york_times",
         "euronews"
       ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian",
-        "st",
-        "aa",
-        "smh"
-      ],
-      "divergencia_de_enquadramento": "As fontes russas e ucranianas têm narrativas opostas sobre o conflito, com as fontes ocidentais tendendo a apoiar a Ucrânia."
-    },
-    {
-      "tema": "Surto de Ebola na RDC",
-      "descricao": "O surto de ebola na República Democrática do Congo se tornou o mais rápido da história do vírus.",
-      "fontes_que_cobriram": [
-        "the_guardian",
-        "new_york_times",
-        "aa"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "rt",
-        "mt",
-        "euronews",
-        "st",
-        "smh"
-      ],
-      "divergencia_de_enquadramento": "As fontes ocidentais destacam a gravidade do surto e a necessidade de ajuda internacional, enquanto as fontes africanas enfatizam a importância da cooperação regional para combater a doença."
+      "divergencia_de_enquadramento": "As fontes russas e ucranianas têm enquadramentos opostos sobre o conflito, com as fontes russas destacando a agressão ucraniana e as fontes ucranianas destacando a agressão russa."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Inundações na China",
-      "por_que_importa": "As inundações na província de Gansu, na China, estão causando danos significativos e colocando vidas em risco.",
-      "cobertura": "Apenas a fonte 'scmp' cobriu o tema, enquanto as outras fontes ignoraram ou minimizaram o assunto."
-    },
-    {
-      "tema": "Incêndios florestais na Turquia",
-      "por_que_importa": "Os incêndios florestais na Turquia estão causando danos ambientais e colocando vidas em risco.",
-      "cobertura": "Apenas a fonte 'euronews' cobriu o tema, enquanto as outras fontes ignoraram ou minimizaram o assunto."
+      "tema": "Surto de Ebola na África Oriental",
+      "por_que_importa": "O surto de ebola na África Oriental tem um impacto significativo nas mulheres e na saúde pública na região.",
+      "cobertura": "A cobertura desse tema é limitada, com apenas algumas fontes africanas e internacionais abordando o assunto."
     }
   ]
 }
