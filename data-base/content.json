@@ -6,11 +6,11 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Crise em Ceuta: UE realiza reunião de crise",
-    "subtitulo": "Dezenas de milhares de migrantes cruzam fronteira espanhola, desencadeando alarme na Europa",
-    "resumo": "A crise em Ceuta, uma cidade espanhola no norte da África, dominou os noticiários do dia. Dezenas de milhares de migrantes cruzaram a fronteira espanhola, desencadeando alarme na Europa. A UE realizará uma reunião de crise para discutir a situação. Enquanto isso, a imprensa marroquina enquadrava Ceuta como uma questão de soberania, a mídia argelina acusou Rabat de 'armar' a migração, e as mídias sociais tunisianas criticaram a falta de ação da UE. A crise em Ceuta é um exemplo de como a migração pode se tornar um tema político controverso, com diferentes narrativas e enquadramentos na imprensa. Além disso, a cobertura da crise em Ceuta também destacou a falta de atenção da imprensa ocidental para com as questões africanas, com a AllAfrica sendo uma das poucas fontes a abordar a questão de forma aprofundada.",
+    "titulo": "Crise de Migrantes em Ceuta",
+    "subtitulo": "Tensões entre Espanha e Marrocos aumentam após incidente mortal",
+    "resumo": "A crise de migrantes em Ceuta continua a dominar os noticiários internacionais, com a Espanha e o Marrocos envolvidos em uma disputa diplomática. Enquanto a União Europeia se prepara para uma reunião de emergência sobre o assunto, a Rússia e a Ucrânia continuam seu conflito, com drones ucranianos matando civis na Rússia. A África também está enfrentando desafios, com o surto de ebola na República Democrática do Congo se tornando o mais rápido da história do vírus. A China, por sua vez, está lidando com inundações em sua província de Gansu, enquanto a Turquia enfrenta incêndios florestais. A crise de migrantes em Ceuta, no entanto, permanece como o tema mais premente, com a Espanha acusando alguns de seus aliados de terem uma 'atitude egoísta' em relação ao assunto.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-08-01T08:00:00-03:00",
+    "publicado_em": "2026-08-02T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -897,41 +897,67 @@
   },
   "temas_principais": [
     {
-      "tema": "Crise em Ceuta",
-      "descricao": "Dezenas de milhares de migrantes cruzam fronteira espanhola, desencadeando alarme na Europa",
+      "tema": "Crise de Migrantes em Ceuta",
+      "descricao": "A crise de migrantes em Ceuta continua a dominar os noticiários internacionais, com a Espanha e o Marrocos envolvidos em uma disputa diplomática.",
       "fontes_que_cobriram": [
         "the_guardian",
+        "new_york_times",
         "euronews",
-        "st"
+        "st",
+        "smh"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "rt"
+        "rt",
+        "mt",
+        "aa"
       ],
-      "divergencia_de_enquadramento": "A imprensa marroquina enquadrava Ceuta como uma questão de soberania, a mídia argelina acusou Rabat de 'armar' a migração, e as mídias sociais tunisianas criticaram a falta de ação da UE"
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a responsabilidade do Marrocos em controlar a fronteira, enquanto as fontes russas e chinesas destacam a necessidade de cooperação internacional para resolver a crise."
     },
     {
-      "tema": "Surto de ebola na RDC",
-      "descricao": "O surto de ebola na República Democrática do Congo é o mais rápido da história do vírus",
+      "tema": "Conflito Rússia-Ucrânia",
+      "descricao": "A Rússia e a Ucrânia continuam seu conflito, com drones ucranianos matando civis na Rússia.",
+      "fontes_que_cobriram": [
+        "rt",
+        "mt",
+        "new_york_times",
+        "euronews"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "the_guardian",
+        "st",
+        "aa",
+        "smh"
+      ],
+      "divergencia_de_enquadramento": "As fontes russas e ucranianas têm narrativas opostas sobre o conflito, com as fontes ocidentais tendendo a apoiar a Ucrânia."
+    },
+    {
+      "tema": "Surto de Ebola na RDC",
+      "descricao": "O surto de ebola na República Democrática do Congo se tornou o mais rápido da história do vírus.",
       "fontes_que_cobriram": [
         "the_guardian",
+        "new_york_times",
         "aa"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "new_york_times"
+        "rt",
+        "mt",
+        "euronews",
+        "st",
+        "smh"
       ],
-      "divergencia_de_enquadramento": "A AllAfrica abordou a questão de forma aprofundada, enquanto a imprensa ocidental deu menos atenção ao tema"
+      "divergencia_de_enquadramento": "As fontes ocidentais destacam a gravidade do surto e a necessidade de ajuda internacional, enquanto as fontes africanas enfatizam a importância da cooperação regional para combater a doença."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Surto de ebola na RDC",
-      "por_que_importa": "O surto de ebola na RDC é um exemplo de como a falta de atenção da imprensa ocidental pode levar a uma falta de ação internacional",
-      "cobertura": "A AllAfrica foi uma das poucas fontes a abordar a questão de forma aprofundada"
+      "tema": "Inundações na China",
+      "por_que_importa": "As inundações na província de Gansu, na China, estão causando danos significativos e colocando vidas em risco.",
+      "cobertura": "Apenas a fonte 'scmp' cobriu o tema, enquanto as outras fontes ignoraram ou minimizaram o assunto."
     },
     {
-      "tema": "Crise no Sudão",
-      "por_que_importa": "A crise no Sudão é um exemplo de como a falta de atenção da imprensa ocidental pode levar a uma falta de ação internacional",
-      "cobertura": "A AllAfrica foi uma das poucas fontes a abordar a questão de forma aprofundada"
+      "tema": "Incêndios florestais na Turquia",
+      "por_que_importa": "Os incêndios florestais na Turquia estão causando danos ambientais e colocando vidas em risco.",
+      "cobertura": "Apenas a fonte 'euronews' cobriu o tema, enquanto as outras fontes ignoraram ou minimizaram o assunto."
     }
   ]
 }
