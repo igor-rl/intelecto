@@ -303,63 +303,87 @@
     "scmp": {
       "slug": "scmp",
       "nome": "South China Morning Post",
-      "gerado_em": "2026-08-02T10:15:29.817Z",
+      "gerado_em": "2026-08-02T21:15:28.552Z",
       "artigos": [
         {
-          "id": "scmp-2026-08-02-1001",
-          "titulo": "Beijing avisa Manila sobre 'caixa de ferramentas poderosa' do Mar do Sul da China pronta para 'golpe de frente'",
-          "resumo": "Beijing tem uma 'caixa de ferramentas rica e poderosa' para usar contra aqueles que 'fazem ondas' no Mar do Sul da China, o porta-voz militar da China advertiu no domingo, após esforços de Manila para mapear sua reivindicação...",
+          "id": "scmp-2026-08-02-2101-01",
+          "titulo": "Líder ex-presidiário Maduro acolhe 'qualquer caminho para o diálogo' na Venezuela antes de conversas com os EUA",
+          "resumo": "O ex-líder presidiário da Venezuela, Nicolas Maduro, acolheu 'qualquer caminho para o diálogo' no domingo, antes de uma reunião apoiada pelos EUA na semana que vem entre representantes do país latino-americano.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/03/7527f8ac-fe38-427f-b8b6-9b24b1e65954_439a3e60.jpg?itok=L041EVuv&v=1785703014",
+          "link": "https://www.scmp.com/news/world/americas/article/3362731/jailed-ex-leader-maduro-welcomes-any-path-dialogue-venezuela-ahead-us-talks?utm_source=rss_feed",
+          "publicado_em": "2026-08-02T20:40:52.000Z"
+        },
+        {
+          "id": "scmp-2026-08-02-2102-02",
+          "titulo": "Primeiro-ministro do Reino Unido, Burnham, sinaliza apoio a uma constituição escrita",
+          "resumo": "O novo primeiro-ministro do Reino Unido, Andy Burnham, sinalizou seu apoio a uma constituição escrita para o Reino Unido, que, ao contrário da maioria dos países, não tem um documento autoritativo.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/03/c120b7ef-6df0-4ca6-a1b8-536bc987a968_b5519bfa.jpg?itok=71-ZIqkS&v=1785700226",
+          "link": "https://www.scmp.com/news/world/europe/article/3362730/uk-pm-burnham-signals-support-written-constitution?utm_source=rss_feed",
+          "publicado_em": "2026-08-02T19:51:36.000Z"
+        },
+        {
+          "id": "scmp-2026-08-02-2103-03",
+          "titulo": "Presidente do Brasil, Lula, 80, diz estar 'em grande forma' ao lançar sua candidatura para um quarto mandato",
+          "resumo": "O presidente do Brasil, Luiz Inácio Lula da Silva, 80, disse no domingo que está 'em grande forma' ao lançar sua candidatura para as eleições de outubro, com pressão da administração do presidente dos EUA, Donald Trump.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/03/ebf1002f-002b-409c-afb4-a11571618f87_995f9af7.jpg?itok=qdgXDlLK&v=1785694946",
+          "link": "https://www.scmp.com/news/world/americas/article/3362729/brazils-president-lula-80-says-great-shape-he-launches-bid-fourth-term?utm_source=rss_feed",
+          "publicado_em": "2026-08-02T18:27:23.000Z"
+        },
+        {
+          "id": "scmp-2026-08-02-2105-04",
+          "titulo": "Mortos em rushes de migrantes para Ceuta, na Espanha, sobe para 72",
+          "resumo": "O número de mortos em rushes de migrantes para Ceuta, no norte da África, subiu para 72 no domingo, após a descoberta de mais cinco corpos na costa de Ceuta, de acordo com autoridades.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/03/3128ca4e-a781-47dd-8189-1a0e4c8a56a5_a8add082.jpg?itok=hoIUFha4&v=1785692620",
+          "link": "https://www.scmp.com/news/world/africa/article/3362727/death-toll-migrant-rush-spains-ceuta-rises-72?utm_source=rss_feed",
+          "publicado_em": "2026-08-02T17:44:55.000Z"
+        },
+        {
+          "id": "scmp-2026-08-02-2106-05",
+          "titulo": "Pelo menos 14 mortos em ataque suicida a manifestação antimilitar no Paquistão",
+          "resumo": "Um ataque suicida visou manifestantes em uma manifestação antimilitar no noroeste do Paquistão no domingo, matando pelo menos 14 pessoas, incluindo policiais, e ferindo mais de duas dúzias de outras, de acordo com autoridades.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/03/f57de60c-22e5-4042-8498-7dfffe4aacba_e5e0d136.jpg?itok=KsXgZwqw&v=1785688217",
+          "link": "https://www.scmp.com/news/asia/south-asia/article/3362726/least-14-dead-suicide-bomb-attack-anti-militant-rally-pakistan?utm_source=rss_feed",
+          "publicado_em": "2026-08-02T16:31:28.000Z"
+        },
+        {
+          "id": "scmp-2026-08-02-2110-06",
+          "titulo": "Israel diz que as forças militares não se retirarão da Faixa de Gaza, enquanto ataques aéreos matam 9",
+          "resumo": "Ataques aéreos israelenses continuaram na Faixa de Gaza pelo segundo dia consecutivo no domingo, matando pelo menos 9 palestinos, apesar do anúncio do presidente dos EUA, Donald Trump, de um avanço nos esforços para um acordo.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/02/2b0414a4-0e7a-4dc5-91e5-124a13071298_e8d0c3a4.jpg?itok=5a-bhwXy&v=1785679471",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3362722/israeli-strikes-kill-9-gaza-cabinet-minister-says-no-deal-stop?utm_source=rss_feed",
+          "publicado_em": "2026-08-02T14:04:37.000Z"
+        },
+        {
+          "id": "scmp-2026-08-02-2114-07",
+          "titulo": "5 mortos em incêndio de ferry na Indonésia, 41 desaparecidos",
+          "resumo": "Um incêndio em um ferry na Indonésia matou 5 pessoas e deixou 41 desaparecidas após algumas pessoas pularem ao mar, de acordo com autoridades de busca e resgate.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/02/332a8bc7-7a6f-43e7-b0b5-76132e915cba_aafa9167.jpg?itok=u5u7InOi&v=1785669826",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3362711/5-dead-indonesia-ferry-fire-41-missing?utm_source=rss_feed",
+          "publicado_em": "2026-08-02T11:23:48.000Z"
+        },
+        {
+          "id": "scmp-2026-08-02-2117-08",
+          "titulo": "7 enfrentam prisão após relatório sobre explosão fatal em Inner Mongolia expor uma série de falhas",
+          "resumo": "Uma série de falhas, incluindo manutenção, design e supervisão inadequados, foram culpadas por uma explosão fatal em uma planta industrial em Baotou, na região de Inner Mongolia, na China, no início do ano.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/02/36017ec6-9acd-40ab-bfe2-ba6eb2f0f527_bbcc4029.jpg?itok=Yhfp_jHJ&v=1785668145",
+          "link": "https://www.scmp.com/news/china/article/3362707/7-face-arrest-after-inner-mongolia-fatal-blast-report-exposes-string-failings?utm_source=rss_feed",
+          "publicado_em": "2026-08-02T10:57:59.000Z"
+        },
+        {
+          "id": "scmp-2026-08-02-2118-09",
+          "titulo": "Crise climática: Hungria fecha usina nuclear, incêndios florestais se espalham na Grécia",
+          "resumo": "A Hungria está fechando completamente sua única usina nuclear pela primeira vez devido aos níveis recordes de baixa do rio Danúbio, o que está estressando os suprimentos de energia e representando um grande desafio para a economia e o meio ambiente.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/02/ff34e21f-a0a6-4f1b-aca9-1179bf4d8d2d_79b858ff.jpg?itok=-v6V_9UL&v=1785667856",
+          "link": "https://www.scmp.com/news/world/europe/article/3362706/climate-crisis-hungary-closes-nuclear-power-plant-greece-wildfires-spread?utm_source=rss_feed",
+          "publicado_em": "2026-08-02T10:51:03.000Z"
+        },
+        {
+          "id": "scmp-2026-08-02-2119-10",
+          "titulo": "Pequim avisa Manila de 'ferramenta poderosa' pronta para um 'golpe direto' no Mar da China Meridional",
+          "resumo": "Pequim tem uma 'ferramenta rica e poderosa' para usar contra aqueles que 'fazem ondas' no Mar da China Meridional, alertou a boca de guerra militar da China no domingo, após esforços de Manila para mapear sua reivindicação.",
           "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/02/6f4421d9-172c-4d2c-91b5-5335765f95a5_3a516605.jpg?itok=83d2B5wt&v=1785658718",
           "link": "https://www.scmp.com/news/china/military/article/3362700/beijing-warns-manila-powerful-south-china-sea-toolbox-ready-head-blow?utm_source=rss_feed",
           "publicado_em": "2026-08-02T10:00:08.000Z"
-        },
-        {
-          "id": "scmp-2026-08-02-1002",
-          "titulo": "Trânsito terrestre oferece alternativa para viagens à Europa em meio à guerra no Oriente Médio",
-          "resumo": "O trânsito através da China continental para destinos de longa distância a partir de Hong Kong se tornou uma alternativa para parar no Oriente Médio em meio a preocupações de segurança causadas pela guerra EUA-Israel contra o Irã...",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/02/ad6cc944-8a43-4a5d-bcd7-cb99410cc6b8_be742cc4.jpg?itok=NEeTlftg&v=1785661245",
-          "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3362703/mainland-transit-offers-alternative-europe-trips-amid-middle-east-war?utm_source=rss_feed",
-          "publicado_em": "2026-08-02T09:00:52.000Z"
-        },
-        {
-          "id": "scmp-2026-08-02-1006",
-          "titulo": "A Turquia está pressionando a China no mercado de infraestrutura da África?",
-          "resumo": "Dois anos após o acordo do Quênia com o grupo Adani da Índia para modernizar o Aeroporto Internacional Jomo Kenyatta ter fracassado, a estatal China Road and Bridge Corporation (CRBC) ganhou um contrato de US$ 1,2 bilhão para...",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/02/2a04b54f-8f8b-4e9e-befe-a221b8e27e8c_697aec36.jpg?itok=OEj-HMHE&v=1785653214",
-          "link": "https://www.scmp.com/news/china/diplomacy/article/3362693/turkey-putting-pressure-china-africas-infrastructure-market?utm_source=rss_feed",
-          "publicado_em": "2026-08-02T08:00:18.000Z"
-        },
-        {
-          "id": "scmp-2026-08-02-1009",
-          "titulo": "Ataques de drones ucranianos matam 2 na Rússia e atingem outro armazém da Wildberries",
-          "resumo": "Ataques de drones ucranianos mataram pelo menos duas pessoas em regiões russas ao longo do rio Volga durante a noite, atingindo alvos, incluindo um armazém pertencente à Wildberries, a maior varejista online da Rússia...",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/02/ea3a9b79-20a3-4b0a-b331-62627b4a96a4_91239cce.jpg?itok=WSynjc3R&v=1785656518",
-          "link": "https://www.scmp.com/news/world/europe/article/3362698/ukrainian-drone-strikes-kill-2-russia-hit-another-wildberries-warehouse?utm_source=rss_feed",
-          "publicado_em": "2026-08-02T07:42:05.000Z"
-        },
-        {
-          "id": "scmp-2026-08-02-1011",
-          "titulo": "Inundações na China: grandes partes do país permanecem em alerta à medida que o número de mortos na província de Gansu aumenta",
-          "resumo": "A China aumentou o número de mortos causados por inundações repentinas na província noroeste de Gansu na semana passada, à medida que grandes partes do país continuam a lutar contra o impacto de fortes chuvas e rios transbordados...",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/02/683c8b2d-6fa9-4204-acab-a7f3c66a3873_eef95cec.jpg?itok=aUxy2ajF&v=1785653792",
-          "link": "https://www.scmp.com/news/china/article/3362695/china-floods-large-parts-country-remain-alert-gansu-province-death-toll-rises?utm_source=rss_feed",
-          "publicado_em": "2026-08-02T06:58:42.000Z"
-        },
-        {
-          "id": "scmp-2026-08-02-1012",
-          "titulo": "O Sri Lanka desdobrou tropas para conter um motim letal na superlotada prisão de Mahara",
-          "resumo": "O Sri Lanka desdobrou centenas de tropas e comandos de elite no domingo para conter um motim na prisão superlotada de Mahara, no qual um detento foi morto e outros seis ficaram feridos, de acordo com a polícia...",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/02/4eef2bdb-cd2b-45db-9d1a-d03a0ae0ad9d_2f838cae.jpg?itok=e-u1JNRr&v=1785652492",
-          "link": "https://www.scmp.com/news/asia/south-asia/article/3362692/sri-lanka-deploys-troops-contain-deadly-riot-overcrowded-mahara-prison?utm_source=rss_feed",
-          "publicado_em": "2026-08-02T06:51:04.000Z"
-        },
-        {
-          "id": "scmp-2026-08-02-1015",
-          "titulo": "O Mar das Filipinas será o principal campo de batalha para os porta-aviões da PLA em uma guerra contra Taiwan?",
-          "resumo": "Por décadas, o Mar das Filipinas tem sido visto como a porta de entrada pelas quais as forças dos EUA e seus aliados navegarão para defender Taiwan em uma guerra contra a China continental...",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/01/c044ce8e-209a-4ad2-a2d4-c68d73828dda_4cd5eb42.jpg?itok=2U8fSqHn&v=1785596883",
-          "link": "https://www.scmp.com/news/china/military/article/3362656/will-philippine-sea-be-main-battlefield-pla-carriers-taiwan-war?utm_source=rss_feed",
-          "publicado_em": "2026-08-02T06:00:21.000Z"
         }
       ]
     },
