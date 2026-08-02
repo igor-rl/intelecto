@@ -358,167 +358,95 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-08-01T21:15:46.343Z",
+      "gerado_em": "2026-08-02T10:15:43.223Z",
       "artigos": [
         {
-          "id": "rt-2026-08-01-2101-01",
-          "titulo": "Comandante neonazista ucraniano luta para explicar insígnia de estilo SS a influenciador da MAGA (VÍDEO)",
-          "resumo": "O fundador do Batalhão Azov, Andrey Biletsky, alegou que um símbolo SS é um monograma cossaco em uma tentativa de explicar a insígnia de sua unidade",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6e573485f540434451673a.png",
-          "link": "https://www.rt.com/russia/643753-ukrainian-nazi-commander-ss-insignia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-01T20:37:41-03:00"
+          "id": "rt-2026-08-02-01",
+          "titulo": "Incêndios devastadores atingem o estado de Washington",
+          "resumo": "Milhares de famílias foram evacuadas devido a incêndios que se espalham rapidamente pelo condado de Spokane, no estado de Washington",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6ef5312030276e9d72ad78.png",
+          "link": "https://www.rt.com/news/643767-wildfires-spokane-washington-us/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-02T08:44:29-03:00"
         },
         {
-          "id": "rt-2026-08-01-2102-02",
-          "titulo": "Por que a Europa Ocidental precisa de uma ameaça russa",
-          "resumo": "À medida que os EUA recuam da Europa, a ameaça russa oferece a Bruxelas uma causa unificadora – e à Ucrânia o exército necessário para sustentar o confronto",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6e105220302739ea08d354.jpg",
-          "link": "https://www.rt.com/news/643747-western-europe-needs-russian-threat/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-01T20:15:13-03:00"
+          "id": "rt-2026-08-02-02",
+          "titulo": "Dois civis mortos em ataque de drones ucranianos à Rússia",
+          "resumo": "Drones ucranianos atingiram prédios residenciais e um centro de distribuição da Wildberries na Rússia, matando dois civis, de acordo com as autoridades",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6efc1c203027686a227191.jpg",
+          "link": "https://www.rt.com/russia/643768-two-civilians-dead-ukraine-drone-raid/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-02T08:13:33-03:00"
         },
         {
-          "id": "rt-2026-08-01-2103-03",
-          "titulo": "Ataque com bomba mata três em restaurante de Moscou – comitê antiterrorismo",
-          "resumo": "Uma explosão de IED matou pelo menos três pessoas em um restaurante no centro de Moscou, disse o comitê antiterrorismo da Rússia",
+          "id": "rt-2026-08-02-03",
+          "titulo": "Sobreviventes relatam horror do ataque ucraniano a resort russo",
+          "resumo": "Sobreviventes de um ataque de drone ucraniano a um resort russo que matou 12 pessoas, incluindo cinco crianças, falaram à RT",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6e8d1e203027325534bc80.png",
+          "link": "https://www.rt.com/russia/643759-survivors-ukrainian-attack-resort/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-02T00:23:43-03:00"
+        },
+        {
+          "id": "rt-2026-08-02-04",
+          "titulo": "Bombardeio em restaurante de Moscou é 'o próprio definido de terrorismo' – ex-analista do Pentágono",
+          "resumo": "O ataque mortal em um restaurante de Moscou visava claramente causar danos em massa e espalhar medo entre civis, disse Michael Maloof à RT",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6e85892030273d6951d5c3.png",
+          "link": "https://www.rt.com/russia/643760-moscow-restaurant-terrorism-maloof/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-01T23:49:13-03:00"
+        },
+        {
+          "id": "rt-2026-08-02-05",
+          "titulo": "Ataque a bomba mata três em restaurante de Moscou – comitê antiterrorismo",
+          "resumo": "Uma explosão matou pelo menos três pessoas em um restaurante de Moscou, de acordo com o comitê antiterrorismo da Rússia",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6e3ae620302737f54f792f.png",
           "link": "https://www.rt.com/russia/643752-blast-restaurant-moscow-dead/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-01T18:09:13-03:00"
         },
         {
-          "id": "rt-2026-08-01-2104-04",
+          "id": "rt-2026-08-02-06",
           "titulo": "Alemanha atingiu um novo patamar em fraude eleitoral",
-          "resumo": "Oficiais locais em Baixa Saxônia estão bloqueando candidatos do AfD, usando relatórios de inteligência em vez de tribunais ou devido processo legal",
+          "resumo": "Oficiais locais na Baixa Saxônia estão bloqueando candidatos do AfD, usando relatórios de inteligência em vez de tribunais ou devido processo",
           "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6b56b885f5402e8747fc49.jpg",
           "link": "https://www.rt.com/news/643665-germany-afd-voter-suppression/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-01T15:00:02-03:00"
         },
         {
-          "id": "rt-2026-08-01-2105-05",
+          "id": "rt-2026-08-02-07",
           "titulo": "Ucrânia está cometendo 'pirataria' – CEO da Rosatom",
-          "resumo": "O CEO da Rosatom, Aleksey Likhachev, acusou a Ucrânia de 'pirataria' após um ataque de drone ucraniano afundar um navio civil no Mar Negro",
+          "resumo": "O CEO da Rosatom, Aleksey Likhachev, acusou a Ucrânia de 'pirataria' após um navio civil ter sido afundado no Mar Negro por um ataque de drone ucraniano",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6e010620302737f54f7924.jpg",
           "link": "https://www.rt.com/russia/643746-ukraine-piracy-ship-sunk-rosatom/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-01T14:40:02-03:00"
         },
         {
-          "id": "rt-2026-08-01-2106-06",
-          "titulo": "EUA devem recuar do grupo de ajuda à Ucrânia da OTAN – Politico",
+          "id": "rt-2026-08-02-08",
+          "titulo": "EUA devem recuar do papel de liderança no grupo de ajuda à Ucrânia da OTAN – Politico",
           "resumo": "O Pentágono deve passar o comando da missão de ajuda à Ucrânia para outro membro do bloco à medida que os EUA reduzem seu papel militar na Europa",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6df83f85f54057a766c8ec.jpg",
           "link": "https://www.rt.com/news/643743-us-drop-nato-ukraine-assistance/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-01T14:16:45-03:00"
         },
         {
-          "id": "rt-2026-08-01-2107-07",
-          "titulo": "Terremoto mais forte em 40 anos atinge região vulcânica da Itália, deixa dezenas de feridos (VÍDEOS)",
-          "resumo": "Pelo menos 26 pessoas ficaram feridas após o terremoto mais forte em quatro décadas atingir a área vulcânica de Campi Flegrei, perto de Nápoles",
+          "id": "rt-2026-08-02-09",
+          "titulo": "Terremoto mais forte em 40 anos atinge região vulcânica da Itália, deixa dezenas de feridos",
+          "resumo": "Pelo menos 26 pessoas ficaram feridas após o terremoto mais forte em quatro décadas atingir a área vulcânica de Campi Flegrei, perto de Nápoles, na Itália",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6df1e9203027325534bc62.png",
           "link": "https://www.rt.com/news/643745-quake-italy-volcanic-region/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-01T14:09:23-03:00"
         },
         {
-          "id": "rt-2026-08-01-2108-08",
-          "titulo": "OpenAI descobre mais incidentes de quebra de contenção de IA – Reuters",
-          "resumo": "A OpenAI encontrou mais violações de contenção de IA enquanto investigava o hack do Hugging Face do mês passado, relata a Reuters citando fontes",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6ddccd85f54048606bedb2.jpg",
-          "link": "https://www.rt.com/news/643742-openai-ai-breakouts-probe/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-01T13:51:24-03:00"
-        },
-        {
-          "id": "rt-2026-08-01-2109-09",
+          "id": "rt-2026-08-02-10",
           "titulo": "Ministério da Defesa da Rússia lista instalações militares atingidas nos últimos ataques a Kiev",
-          "resumo": "A Rússia atacou plantas de mísseis, drones e eletrônicos em Kiev e atingiu dois navios cargueiros perto de Odessa, disse o Ministério da Defesa",
+          "resumo": "A Rússia atacou plantas de mísseis, drones e eletrônicos em Kiev e atingiu dois navios cargueiros perto de Odessa, de acordo com o Ministério da Defesa",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6de6b185f5405d195f16e4.jpg",
           "link": "https://www.rt.com/russia/643744-russia-list-kiev-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-01T12:46:50-03:00"
         },
         {
-          "id": "rt-2026-08-01-2110-10",
-          "titulo": "Trump alerta que EUA enfrentam invasão de imigrantes como a da Espanha",
+          "id": "rt-2026-08-02-11",
+          "titulo": "Trump alerta que EUA enfrentam invasão de migrantes como a da Espanha",
           "resumo": "O presidente dos EUA, Donald Trump, usou a crise migratória da Espanha para afirmar que os EUA estão sendo invadidos por novos imigrantes ilegais sob seu antecessor",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6dbf3085f54045b852962a.jpg",
           "link": "https://www.rt.com/news/643740-trump-us-faces-spain-migrants/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-01T09:45:43-03:00"
-        },
-        {
-          "id": "rt-2026-08-01-2111-11",
-          "titulo": "Egito descobre antigas lápides (FOTOS)",
-          "resumo": "Arqueólogos egípcios descobriram lápides esculpidas, caixões e artefatos rituais em Tel El-Deir",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6ca0942030274e07634aa2.jpg",
-          "link": "https://www.rt.com/africa/643720-egypt-uncovers-ancient-tombstones/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-01T08:43:29-03:00"
-        },
-        {
-          "id": "rt-2026-08-01-2112-12",
-          "titulo": "EUA podem pegar 'o que queremos' da Ucrânia – Trump",
-          "resumo": "Os EUA podem pegar 'o que queremos' dos depósitos de terras raras da Ucrânia sob um pacto de 2025, afirmou Donald Trump",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6da57185f54067fb780f69.jpg",
-          "link": "https://www.rt.com/news/643741-us-take-whatever-we-want-ukraine-trump/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-01T07:52:11-03:00"
-        },
-        {
-          "id": "rt-2026-08-01-2113-13",
-          "titulo": "Toll de mortos de Zelensky retrocede",
-          "resumo": "O presidente ucraniano, Vladimir Zelensky, forneceu uma nova estimativa de mortos que é 5.000 menor do que sua própria estimativa de fevereiro",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6d15cb20302750df46e28e.jpg",
-          "link": "https://www.rt.com/russia/643735-ukrainian-death-toll-reverse-zelensky/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-01T04:23:23-03:00"
-        },
-        {
-          "id": "rt-2026-08-01-2114-14",
-          "titulo": "Nova investigação de abuso revela comportamento de Epstein em escola de arte de elite nos EUA",
-          "resumo": "Uma investigação em uma escola de arte em Michigan encontrou 70 relatos de abuso que abrangem décadas, incluindo alegações contra o falecido pedófilo Jeffrey Epstein",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6cb867203027597b652985.jpg",
-          "link": "https://www.rt.com/news/643723-abuse-probe-epstein-art-school/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-01T03:02:11-03:00"
-        },
-        {
-          "id": "rt-2026-08-01-2115-15",
-          "titulo": "Barragem de mísseis atinge Kiev (VÍDEOS)",
-          "resumo": "A capital ucraniana foi atingida por um ataque combinado de drones e mísseis na manhã de sábado, de acordo com funcionários locais e relatos da mídia",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6d447685f5405d195f16d4.png",
-          "link": "https://www.rt.com/russia/643738-kiev-missile-strikes-explosions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-01T01:02:16-03:00"
-        },
-        {
-          "id": "rt-2026-08-01-2116-16",
-          "titulo": "Anthropic diz que modelos de IA Claude lançaram três ataques cibernéticos não intencionais",
-          "resumo": "A Anthropic relatou três casos em que seus modelos de IA Claude visaram acidentalmente empresas reais durante avaliações de segurança cibernética",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6c952e203027266a7af00c.jpg",
-          "link": "https://www.rt.com/news/643717-anthropic-accidental-hacking-review/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-31T23:52:40-03:00"
-        },
-        {
-          "id": "rt-2026-08-01-2117-17",
-          "titulo": "Guerra suja de Kiev vai global",
-          "resumo": "Desde a África até o Mar Cáspio, cada ataque é uma tentativa de vender a Ucrânia como um ativo útil do Ocidente que ainda merece dinheiro e armas",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6b4cc8203027435c32f401.jpg",
-          "link": "https://www.rt.com/news/643658-kiev-drone-war-global/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-31T23:28:53-03:00"
-        },
-        {
-          "id": "rt-2026-08-01-2118-18",
-          "titulo": "EUA e Israel preparam-se para bombardear infraestrutura energética iraniana – mídia",
-          "resumo": "Os EUA e Israel estão supostamente preparando uma grande campanha de bombardeio contra sites de energia iranianos que pode começar já neste fim de semana",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6d4a7985f54045b852961d.jpg",
-          "link": "https://www.rt.com/news/643737-us-israel-strikes-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-31T22:34:51-03:00"
-        },
-        {
-          "id": "rt-2026-08-01-2119-19",
-          "titulo": "EUA perdem jato stealth F-35B em 'incidente' não explicado (VÍDEOS)",
-          "resumo": "Um caça F-35B do Corpo de Fuzileiros Navais dos EUA caiu e pegou fogo na Estação Aérea do Corpo de Fuzileiros Navais Miramar, em San Diego, Califórnia, na sexta-feira",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6d1a9785f5404fd6471e19.jpg",
-          "link": "https://www.rt.com/news/643736-f35-jet-crash-california/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-31T21:59:25-03:00"
-        },
-        {
-          "id": "rt-2026-08-01-2120-20",
-          "titulo": "Oficiais alemães trocam culpas após ataque mortal em Berlim",
-          "resumo": "Oficiais alemães estão lutando para explicar como um radical islâmico conhecido foi capaz de lançar um ataque com um carro contra um desfile do orgulho gay",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6d139f2030274e07634ae5.jpg",
-          "link": "https://www.rt.com/news/643734-german-trade-blame-berlin-attack/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-07-31T21:36:49-03:00"
         }
       ]
     },
