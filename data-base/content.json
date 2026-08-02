@@ -390,95 +390,103 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-08-02T10:15:43.223Z",
+      "gerado_em": "2026-08-02T21:15:42.487Z",
       "artigos": [
         {
-          "id": "rt-2026-08-02-01",
-          "titulo": "Incêndios devastadores atingem o estado de Washington",
-          "resumo": "Milhares de famílias foram evacuadas devido a incêndios que se espalham rapidamente pelo condado de Spokane, no estado de Washington",
+          "id": "rt-2026-08-02-2103-01",
+          "titulo": "Navios de guerra nazistas afundados ressurgem na Europa em meio a onda de calor recorde",
+          "resumo": "Os níveis de água no rio Danúbio atingiram recordes de baixa, revelando relíquias do passado que variam de naufrágios a ossos de mamutes",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6e5a1685f540353e379464.jpg",
+          "link": "https://www.rt.com/news/643756-nazi-warships-europe-heatwave/",
+          "publicado_em": "2026-08-02T14:45:27-03:00"
+        },
+        {
+          "id": "rt-2026-08-02-2104-02",
+          "titulo": "EUA puniram líder colombiano por chamar guerra em Gaza de 'genocídio' – chanceler à RT",
+          "resumo": "Israel é culpado pelas longas tensões entre os EUA e o presidente colombiano que deixa o cargo, Gustavo Petro, disse a chanceler Rosa Yolanda Villavicencio à RT",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6f3428203027681706a019.png",
+          "link": "https://www.rt.com/news/643770-colombia-trump-palestine-israel/",
+          "publicado_em": "2026-08-02T14:32:20-03:00"
+        },
+        {
+          "id": "rt-2026-08-02-2105-03",
+          "titulo": "EUA e Israel encenaram invasão de migrantes na Espanha – Irã",
+          "resumo": "O Irã acusou os EUA e Israel de engenharem a crise migratória mortal na Espanha, em Ceuta, para punir Madrid por sua posição sobre Gaza e a guerra com o Irã",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6f4942203027726045c406.jpg",
+          "link": "https://www.rt.com/news/643773-us-israel-staged-spain-migrant-crisis/",
+          "publicado_em": "2026-08-02T14:10:37-03:00"
+        },
+        {
+          "id": "rt-2026-08-02-2106-04",
+          "titulo": "ASEAN: O último lugar onde a diplomacia séria ainda acontece",
+          "resumo": "Com conflitos se espalhando e fóruns antigos falhando, Manila se tornou um dos raros lugares onde as potências ainda escolhem o diálogo",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6b667c20302762cc5441d5.jpg",
+          "link": "https://www.rt.com/news/643671-asean-diplomacy-still-happens/",
+          "publicado_em": "2026-08-02T11:47:38-03:00"
+        },
+        {
+          "id": "rt-2026-08-02-2107-05",
+          "titulo": "Fundadora da 'Amazon russa' incluída na 'lista de morte' da Ucrânia",
+          "resumo": "A CEO da Wildberries, Tatyana Kim, apareceu na lista de 'morte' do Mirotvorets, após Kiev afirmar que sua empresa está ajudando o exército russo",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6f16da85f5405ce402eb90.jpg",
+          "link": "https://www.rt.com/russia/643769-russian-amazon-founder-mirotvorets/",
+          "publicado_em": "2026-08-02T11:33:30-03:00"
+        },
+        {
+          "id": "rt-2026-08-02-2108-06",
+          "titulo": "Trump cancela ataque planejado ao Irã",
+          "resumo": "Trump cancelou um ataque planejado ao Irã após dizer que os contornos de um acordo haviam sido acordados para reabrir o Estreito de Ormuz",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6ecd8a85f54057a766c94c.jpg",
+          "link": "https://www.rt.com/news/643765-trump-cancels-planned-attack-iran/",
+          "publicado_em": "2026-08-02T10:37:03-03:00"
+        },
+        {
+          "id": "rt-2026-08-02-2109-07",
+          "titulo": "Assista incêndios devastadores varrerem o estado de Washington",
+          "resumo": "Milhares de famílias foram ordenadas a evacuar à medida que incêndios rápidos varrem o condado de Spokane, no estado de Washington",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6ef5312030276e9d72ad78.png",
-          "link": "https://www.rt.com/news/643767-wildfires-spokane-washington-us/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "link": "https://www.rt.com/news/643767-wildfires-spokane-washington-us/",
           "publicado_em": "2026-08-02T08:44:29-03:00"
         },
         {
-          "id": "rt-2026-08-02-02",
-          "titulo": "Dois civis mortos em ataque de drones ucranianos à Rússia",
-          "resumo": "Drones ucranianos atingiram prédios residenciais e um centro de distribuição da Wildberries na Rússia, matando dois civis, de acordo com as autoridades",
+          "id": "rt-2026-08-02-2110-08",
+          "titulo": "Dois civis mortos em ataque de drones ucranianos à Rússia – autoridades",
+          "resumo": "Drones ucranianos atingiram prédios de apartamentos e um hub da Wildberries na Rússia central, matando dois civis, de acordo com as autoridades",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6efc1c203027686a227191.jpg",
-          "link": "https://www.rt.com/russia/643768-two-civilians-dead-ukraine-drone-raid/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "link": "https://www.rt.com/russia/643768-two-civilians-dead-ukraine-drone-raid/",
           "publicado_em": "2026-08-02T08:13:33-03:00"
         },
         {
-          "id": "rt-2026-08-02-03",
-          "titulo": "Sobreviventes relatam horror do ataque ucraniano a resort russo",
-          "resumo": "Sobreviventes de um ataque de drone ucraniano a um resort russo que matou 12 pessoas, incluindo cinco crianças, falaram à RT",
+          "id": "rt-2026-08-02-2114-09",
+          "titulo": "Sobreviventes relembram horror do ataque ucraniano a resort à beira-mar russo",
+          "resumo": "A RT falou com sobreviventes de um ataque de drone ucraniano a um resort à beira-mar russo que matou 12 pessoas, incluindo cinco crianças",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6e8d1e203027325534bc80.png",
-          "link": "https://www.rt.com/russia/643759-survivors-ukrainian-attack-resort/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "link": "https://www.rt.com/russia/643759-survivors-ukrainian-attack-resort/",
           "publicado_em": "2026-08-02T00:23:43-03:00"
         },
         {
-          "id": "rt-2026-08-02-04",
-          "titulo": "Bombardeio em restaurante de Moscou é 'o próprio definido de terrorismo' – ex-analista do Pentágono",
-          "resumo": "O ataque mortal em um restaurante de Moscou visava claramente causar danos em massa e espalhar medo entre civis, disse Michael Maloof à RT",
+          "id": "rt-2026-08-02-2115-10",
+          "titulo": "Bombardeio em restaurante de Moscou é 'a definição exata de terrorismo' – ex-analista do Pentágono",
+          "resumo": "O ataque mortal em Moscou central claramente visava infligir danos massivos e espalhar medo entre civis, disse Michael Maloof à RT",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6e85892030273d6951d5c3.png",
-          "link": "https://www.rt.com/russia/643760-moscow-restaurant-terrorism-maloof/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "link": "https://www.rt.com/russia/643760-moscow-restaurant-terrorism-maloof/",
           "publicado_em": "2026-08-01T23:49:13-03:00"
         },
         {
-          "id": "rt-2026-08-02-05",
+          "id": "rt-2026-08-02-2116-11",
+          "titulo": "Sabemos exatamente quem está por trás do bombardeio em Moscou – ex-oficial dos EUA",
+          "resumo": "Espiões ocidentais e seus proxies ucranianos provavelmente estiveram envolvidos no ataque ao restaurante, afirma o ex-oficial do exército dos EUA Stanislav Krapivnik",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6e793020302737f54f7942.png",
+          "link": "https://www.rt.com/russia/643758-moscow-bombing-suspects-krapivnik/",
+          "publicado_em": "2026-08-01T23:00:52-03:00"
+        },
+        {
+          "id": "rt-2026-08-02-2120-12",
           "titulo": "Ataque a bomba mata três em restaurante de Moscou – comitê antiterrorismo",
-          "resumo": "Uma explosão matou pelo menos três pessoas em um restaurante de Moscou, de acordo com o comitê antiterrorismo da Rússia",
+          "resumo": "Uma explosão de IED matou pelo menos três pessoas em um restaurante no centro de Moscou, de acordo com o comitê antiterrorismo da Rússia",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6e3ae620302737f54f792f.png",
-          "link": "https://www.rt.com/russia/643752-blast-restaurant-moscow-dead/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "link": "https://www.rt.com/russia/643752-blast-restaurant-moscow-dead/",
           "publicado_em": "2026-08-01T18:09:13-03:00"
-        },
-        {
-          "id": "rt-2026-08-02-06",
-          "titulo": "Alemanha atingiu um novo patamar em fraude eleitoral",
-          "resumo": "Oficiais locais na Baixa Saxônia estão bloqueando candidatos do AfD, usando relatórios de inteligência em vez de tribunais ou devido processo",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.07/thumbnail/6a6b56b885f5402e8747fc49.jpg",
-          "link": "https://www.rt.com/news/643665-germany-afd-voter-suppression/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-01T15:00:02-03:00"
-        },
-        {
-          "id": "rt-2026-08-02-07",
-          "titulo": "Ucrânia está cometendo 'pirataria' – CEO da Rosatom",
-          "resumo": "O CEO da Rosatom, Aleksey Likhachev, acusou a Ucrânia de 'pirataria' após um navio civil ter sido afundado no Mar Negro por um ataque de drone ucraniano",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6e010620302737f54f7924.jpg",
-          "link": "https://www.rt.com/russia/643746-ukraine-piracy-ship-sunk-rosatom/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-01T14:40:02-03:00"
-        },
-        {
-          "id": "rt-2026-08-02-08",
-          "titulo": "EUA devem recuar do papel de liderança no grupo de ajuda à Ucrânia da OTAN – Politico",
-          "resumo": "O Pentágono deve passar o comando da missão de ajuda à Ucrânia para outro membro do bloco à medida que os EUA reduzem seu papel militar na Europa",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6df83f85f54057a766c8ec.jpg",
-          "link": "https://www.rt.com/news/643743-us-drop-nato-ukraine-assistance/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-01T14:16:45-03:00"
-        },
-        {
-          "id": "rt-2026-08-02-09",
-          "titulo": "Terremoto mais forte em 40 anos atinge região vulcânica da Itália, deixa dezenas de feridos",
-          "resumo": "Pelo menos 26 pessoas ficaram feridas após o terremoto mais forte em quatro décadas atingir a área vulcânica de Campi Flegrei, perto de Nápoles, na Itália",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6df1e9203027325534bc62.png",
-          "link": "https://www.rt.com/news/643745-quake-italy-volcanic-region/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-01T14:09:23-03:00"
-        },
-        {
-          "id": "rt-2026-08-02-10",
-          "titulo": "Ministério da Defesa da Rússia lista instalações militares atingidas nos últimos ataques a Kiev",
-          "resumo": "A Rússia atacou plantas de mísseis, drones e eletrônicos em Kiev e atingiu dois navios cargueiros perto de Odessa, de acordo com o Ministério da Defesa",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6de6b185f5405d195f16e4.jpg",
-          "link": "https://www.rt.com/russia/643744-russia-list-kiev-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-01T12:46:50-03:00"
-        },
-        {
-          "id": "rt-2026-08-02-11",
-          "titulo": "Trump alerta que EUA enfrentam invasão de migrantes como a da Espanha",
-          "resumo": "O presidente dos EUA, Donald Trump, usou a crise migratória da Espanha para afirmar que os EUA estão sendo invadidos por novos imigrantes ilegais sob seu antecessor",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a6dbf3085f54045b852962a.jpg",
-          "link": "https://www.rt.com/news/643740-trump-us-faces-spain-migrants/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-01T09:45:43-03:00"
         }
       ]
     },
