@@ -6,11 +6,11 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "Crise Migratória e Conflitos Globais",
-    "titulo": "Mortos em Ceuta: Crise Migratória Atinge Nível Crítico",
-    "subtitulo": "Enquanto a Europa lida com a crise migratória, conflitos globais e tensões políticas dominam o cenário internacional",
-    "resumo": "A crise migratória em Ceuta atingiu um nível crítico, com o número de mortos subindo para 72. Enquanto a Europa lida com essa crise, conflitos globais e tensões políticas dominam o cenário internacional. A Rússia e a Ucrânia continuam em conflito, com a Rússia lançando mísseis na Ucrânia e a Ucrânia afundando um navio cargueiro russo no Mar Negro. Além disso, a África está passando por um momento importante em sua história econômica moderna, com a África Oriental lidando com o impacto do surto de ebola nas mulheres. A Austrália também está acompanhando as notícias da queda no preço das casas e os ataques israelenses em Gaza. Nesse cenário complexo, é fundamental analisar as diferentes perspectivas e enquadramentos dos principais veículos de comunicação globais.",
+    "titulo": "Ceuta: O Foco da Crise Migratória",
+    "subtitulo": "Enquanto a Europa lida com a crise de Ceuta, outros conflitos globais exigem atenção",
+    "resumo": "A crise migratória em Ceuta continua a dominar as manchetes, com mais de 50.000 pessoas tentando cruzar a fronteira para a Espanha. Enquanto a União Europeia se reúne para discutir a crise, outros conflitos globais, como a situação no Irã e a guerra na Ucrânia, também merecem atenção. A Rússia aumentou a proteção de seus navios no Mar Negro devido a ataques que ameaçam as exportações de grãos. Além disso, a África Ocidental enfrenta um aumento nas leis anti-LGBTQ+, enquanto a Índia lida com escândalos de exames que desencadearam protestos. A crise de migração em Ceuta expõe desespero entre os jovens do Marrocos, que buscam uma vida melhor na Europa. É fundamental entender as diferentes perspectivas e enquadramentos desses eventos para ter uma visão completa do que está acontecendo no mundo.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-08-02T08:00:00-03:00",
+    "publicado_em": "2026-08-03T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -1008,41 +1008,36 @@
   "temas_principais": [
     {
       "tema": "Crise Migratória em Ceuta",
-      "descricao": "A crise migratória em Ceuta atingiu um nível crítico, com o número de mortos subindo para 72.",
+      "descricao": "Mais de 50.000 pessoas tentam cruzar a fronteira para a Espanha, gerando uma crise humanitária",
       "fontes_que_cobriram": [
-        "the_guardian",
-        "new_york_times",
-        "euronews",
-        "scmp",
-        "st"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "rt",
-        "mt"
-      ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a crise humanitária e a necessidade de uma resposta europeia, enquanto as fontes russas e chinesas destacam a responsabilidade da Europa em relação à crise."
-    },
-    {
-      "tema": "Conflito Rússia-Ucrânia",
-      "descricao": "A Rússia e a Ucrânia continuam em conflito, com a Rússia lançando mísseis na Ucrânia e a Ucrânia afundando um navio cargueiro russo no Mar Negro.",
-      "fontes_que_cobriram": [
-        "rt",
-        "mt",
-        "st"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
         "the_guardian",
         "new_york_times",
         "euronews"
       ],
-      "divergencia_de_enquadramento": "As fontes russas e ucranianas têm enquadramentos opostos sobre o conflito, com as fontes russas destacando a agressão ucraniana e as fontes ucranianas destacando a agressão russa."
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "rt"
+      ],
+      "divergencia_de_enquadramento": "Enquanto some fontes enfatizam a crise humanitária, outras destacam a necessidade de controle de fronteiras"
+    },
+    {
+      "tema": "Conflitos Globais",
+      "descricao": "Situação no Irã, guerra na Ucrânia e outros conflitos globais que exigem atenção",
+      "fontes_que_cobriram": [
+        "new_york_times",
+        "rt",
+        "st"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "the_guardian"
+      ],
+      "divergencia_de_enquadramento": "Diferentes fontes apresentam perspectivas variadas sobre os conflitos, refletindo interesses e alianças geopolíticas"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Surto de Ebola na África Oriental",
-      "por_que_importa": "O surto de ebola na África Oriental tem um impacto significativo nas mulheres e na saúde pública na região.",
-      "cobertura": "A cobertura desse tema é limitada, com apenas algumas fontes africanas e internacionais abordando o assunto."
+      "tema": "Leis Anti-LGBTQ+ na África Ocidental",
+      "por_que_importa": "Aumento nas leis anti-LGBTQ+ na África Ocidental pode levar a violações dos direitos humanos",
+      "cobertura": "Apenas o The Guardian cobriu o tema, destacando a necessidade de atenção internacional"
     }
   ]
 }
