@@ -216,95 +216,119 @@
     "euronews": {
       "slug": "euronews",
       "nome": "Euro News",
-      "gerado_em": "2026-08-02T21:00:17.035Z",
+      "gerado_em": "2026-08-03T10:00:21.474Z",
       "artigos": [
         {
-          "id": "euronews-2026-08-02-2101",
-          "titulo": "Helicópteros e bombeiros combatem incêndio florestal perto de Atenas",
-          "resumo": "Bombeiros e helicópteros combatem um incêndio florestal a oeste de Atenas, enquanto ventos fortes alimentam as chamas e forçam operações de emergência na área.",
+          "id": "euronews-2026-08-03-1001",
+          "titulo": "Vídeo mostra danos após terremoto em Nápoles ferir 26",
+          "resumo": "Novas imagens mostram as consequências em Pozzuoli após o terremoto de magnitude 4.7 perto de Nápoles, que feriu 26 pessoas e danificou prédios na área vulcânica de Campi Flegrei.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/08/03/video-shows-damage-after-naples-earthquake-injures-26",
+          "publicado_em": "2026-08-03T09:23:37.000Z"
+        },
+        {
+          "id": "euronews-2026-08-03-1002",
+          "titulo": "Incêndios florestais destróem centenas de casas perto de Spokane, Washington",
+          "resumo": "Incêndios florestais no leste de Washington forçaram a evacuação de 5.000 casas, destruíram cerca de 600 prédios e continuam a sobrecarregar os recursos de combate a incêndios.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/08/03/wildfires-destroy-hundreds-of-homes-near-spokane-washington",
+          "publicado_em": "2026-08-03T07:44:11.000Z"
+        },
+        {
+          "id": "euronews-2026-08-03-1003",
+          "titulo": "Empresa estatal de energia de Cuba relata novo apagão nacional à medida que o embargo dos EUA continua",
+          "resumo": "Os cortes de energia tornaram a vida normal quase impossível, com cada interrupção também significando que o suprimento de água diminui e os ventiladores de teto desaceleram.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/03/cuba-state-energy-firm-reports-new-nationwide-blackout-as-us-embargo-continues",
+          "publicado_em": "2026-08-03T07:38:53.000Z"
+        },
+        {
+          "id": "euronews-2026-08-03-1004",
+          "titulo": "Incêndios florestais forçam evacuações na ilha grega de Kefalonia",
+          "resumo": "Incêndios florestais em Kefalonia e na Ática Ocidental forçaram evacuações, pois ventos fortes dificultaram os esforços de combate a incêndios e ameaçaram casas e comunidades.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/08/03/wildfires-force-evacuations-on-greek-island-of-kefalonia",
+          "publicado_em": "2026-08-03T06:16:01.000Z"
+        },
+        {
+          "id": "euronews-2026-08-03-1005",
+          "titulo": "Ex-líder de Mianmar, Aung San Suu Kyi, se reúne com oficial da Cruz Vermelha, diz gabinete do presidente",
+          "resumo": "O exército depôs Suu Kyi em fevereiro de 2021, prendendo a laureada com o Prêmio Nobel da Paz e desencadeando uma guerra civil em andamento que matou mais de 100.000 pessoas em todos os lados.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/03/myanmars-former-leader-aung-san-suu-kyi-meets-red-cross-official-presidents-office-says",
+          "publicado_em": "2026-08-03T06:13:04.000Z"
+        },
+        {
+          "id": "euronews-2026-08-03-1006",
+          "titulo": "Ministério das Relações Exteriores do Irã contradiz Trump e diz que não há negociações em andamento com os EUA",
+          "resumo": "Washington e Teerã estão em guerra desde 28 de fevereiro, quando os EUA e Israel lançaram ataques surpresa contra o Irã, embora meses de diplomacia intermitente tenham levado a períodos de calma relativa.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/03/trump-says-new-iran-talks-set-to-start-on-monday-after-calling-off-massive-attack",
+          "publicado_em": "2026-08-03T05:26:30.000Z"
+        },
+        {
+          "id": "euronews-2026-08-03-1008",
+          "titulo": "Lula da Silva lança oficialmente sua candidatura à presidência do Brasil",
+          "resumo": "O Partido dos Trabalhadores do Brasil se reúne para confirmar a candidatura de Lula da Silva em outubro. Aos 80 anos, o veterano de esquerda enfrenta o liberal de direita Flávio Bolsonaro em outra corrida polarizada entre Lula e Bolsonaro.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/03/lula-da-silva-formally-launches-bid-for-brazils-presidency",
+          "publicado_em": "2026-08-03T02:48:20.000Z"
+        },
+        {
+          "id": "euronews-2026-08-03-1009",
+          "titulo": "Helicópteros e bombeiros combatem incêndio florestal rápido perto de Atenas",
+          "resumo": "Bombeiros e helicópteros combateram um incêndio florestal rápido a oeste de Atenas, pois ventos fortes alimentaram as chamas e forçaram operações de emergência na área.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/08/02/helicopters-and-firefighters-fight-fast-moving-wildfire-near-athens",
           "publicado_em": "2026-08-02T19:26:03.000Z"
         },
         {
-          "id": "euronews-2026-08-02-2103",
-          "titulo": "Rio Reno atinge nível recorde de baixa devido à seca na Alemanha",
-          "resumo": "Níveis de água recorde de baixa no rio Reno na Alemanha deixaram barcos encalhados em Colônia, à medida que o calor prolongado e a seca empurraram a via aquática mais movimentada do país para seu nível mais baixo já registrado.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/08/02/rhine-river-hits-record-low-as-drought-grips-germany",
-          "publicado_em": "2026-08-02T15:30:03.000Z"
-        },
-        {
-          "id": "euronews-2026-08-02-2104",
-          "titulo": "Pelo menos cinco mortos e 41 desaparecidos após balsa indonésia pegar fogo no mar",
-          "resumo": "Um total de 225 pessoas na balsa foram resgatadas, enquanto alguns passageiros saltaram ao mar para escapar do fogo, de acordo com a Agência Nacional de Busca e Resgate da Indonésia.",
+          "id": "euronews-2026-08-03-1012",
+          "titulo": "Pelo menos cinco mortos e 41 desaparecidos após um ferry indonésio pegar fogo no mar",
+          "resumo": "Um total de 225 pessoas no ferry foram resgatadas, enquanto alguns passageiros saltaram ao mar para escapar do fogo, de acordo com a Basarnas, a Agência Nacional de Busca e Resgate da Indonésia.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/02/at-least-five-dead-and-41-missing-after-an-indonesian-ferry-caught-fire-at-sea",
           "publicado_em": "2026-08-02T11:23:32.000Z"
         },
         {
-          "id": "euronews-2026-08-02-2106",
-          "titulo": "Trump diz que está cancelando ataques ao Irã à medida que 'perímetros de um acordo' são acordados",
-          "resumo": "Em uma declaração na sexta-feira, Trump disse que estava 'perdendo a fé' na perspectiva de um acordo de paz e ameaçou atingir o Irã 'muito forte'.",
+          "id": "euronews-2026-08-03-1014",
+          "titulo": "Trump diz que está cancelando ataques ao Irã, pois 'perímetros de um acordo' foram acordados",
+          "resumo": "Na sexta-feira, Trump havia dito que estava 'perdendo a fé' na perspectiva de um acordo de paz e ameaçou atingir o Irã 'muito forte'.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/02/trump-says-hes-cancelling-strikes-on-iran-as-perimeters-of-a-deal-agreed",
           "publicado_em": "2026-08-02T06:10:02.000Z"
         },
         {
-          "id": "euronews-2026-08-02-2110",
+          "id": "euronews-2026-08-03-1018",
           "titulo": "Dois ataques a petroleiros relatados perto do Estreito de Ormuz",
-          "resumo": "O Estreito de Ormuz, que liga o Golfo Pérsico ao Golfo de Omã e ao Mar Arábico, é um dos principais pontos de transição de petróleo e gás do mundo, transportando cerca de um quarto do petróleo e gás do mundo.",
+          "resumo": "O Estreito de Ormuz, que liga o Golfo Pérsico ao Golfo de Omã e ao Mar Arábico, é um dos principais pontos de estrangulamento para o trânsito de petróleo e gás do mundo, transportando cerca de um quarto do petróleo e gás do planeta.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/01/two-reported-attacks-on-tankers-near-strait-of-hormuz",
           "publicado_em": "2026-08-01T08:48:48.000Z"
         },
         {
-          "id": "euronews-2026-08-02-2112",
+          "id": "euronews-2026-08-03-1020",
           "titulo": "Libéria demite funcionários após apreensões recordes de cocaína no valor de 336 milhões de dólares",
-          "resumo": "As apreensões de drogas intensificaram a escrutínio do problema de narcóticos da Libéria, com usuários de mídias sociais, comentaristas políticos e mídia local pedindo mais responsabilidade dos funcionários públicos e uma abordagem mais eficaz para combater o tráfico de drogas.",
+          "resumo": "As apreensões de drogas intensificaram a escrutínio do problema de narcóticos da Libéria, com usuários de mídias sociais, comentaristas políticos e a mídia local pedindo mais responsabilidade dos funcionários públicos e uma ação mais enérgica contra o tráfico de drogas.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/31/liberia-sacks-officials-after-record-cocaine-seizures-worth-336-million",
           "publicado_em": "2026-07-31T17:11:31.000Z"
         },
         {
-          "id": "euronews-2026-08-02-2113",
-          "titulo": "Cinco incêndios florestais ainda queimam na Turquia, com risco se estendendo para a próxima semana",
-          "resumo": "De 206 incêndios registrados desde quarta-feira, 202 foram controlados até sexta-feira, mas alguns permanecem ativos nas costas oeste e sul, com temperaturas altas e ventos fortes previstos para persistir.",
+          "id": "euronews-2026-08-03-1021",
+          "titulo": "Cinco incêndios florestais ainda queimam na Turquia, com risco estendendo-se para a próxima semana",
+          "resumo": "De 206 incêndios registrados desde quarta-feira, 202 foram controlados até sexta-feira, mas alguns permanecem ativos ao longo das costas ocidentais e meridionais, com temperaturas altas e ventos fortes previstos para persistir.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/31/five-wildfires-still-burn-in-turkey-as-risk-extends-into-next-week",
           "publicado_em": "2026-07-31T16:04:56.000Z"
         },
         {
-          "id": "euronews-2026-08-02-2117",
-          "titulo": "Houthis prometem 'escalada total' à medida que a Arábia Saudita lança coalizão de defesa marítima no Mar Vermelho",
-          "resumo": "O líder Houthi, Abdul-Malik al-Houthi, advertiu a Arábia Saudita de uma resposta total horas antes de Riad anunciar uma nova coalizão de defesa marítima multinacional, com 14 países, incluindo o Paquistão, a Turquia e outros.",
+          "id": "euronews-2026-08-03-1025",
+          "titulo": "Houthis prometem 'escalada total' à medida que a Arábia Saudita lança coalizão do Mar Vermelho",
+          "resumo": "O líder houthi, Abdul-Malik al-Houthi, advertiu a Arábia Saudita de uma resposta total horas antes de Riad anunciar uma nova coalizão marítima de defesa multinacional, com 14 países, incluindo o Paquistão, a Turquia e outros.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/07/31/houthis-vow-full-escalation-as-saudi-arabia-launches-red-sea-coalition",
           "publicado_em": "2026-07-31T12:01:17.000Z"
-        },
-        {
-          "id": "euronews-2026-08-02-2118",
-          "titulo": "'Este é o nosso chamado à ação': chefe de crise da UE critica negadores do clima após incêndios na França",
-          "resumo": "Em uma entrevista exclusiva à Euronews, a chefe de crise da UE disse que os incêndios serviram como um 'chamado à ação para a Europa' e insistiu que a prevenção é fundamental para reduzir o risco de incêndios futuros.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/31/this-is-our-wake-up-call-eu-crisis-chief-slams-climate-deniers-after-french-fires",
-          "publicado_em": "2026-07-31T11:57:37.000Z"
-        },
-        {
-          "id": "euronews-2026-08-02-2119",
-          "titulo": "Exclusivo: deputados do Parlamento Europeu exigem que Infantino compareça perante o Parlamento Europeu sobre plano de investimento privado da FIFA",
-          "resumo": "À medida que as associações de futebol europeias ameaçam boicotar a Copa do Mundo, uma carta rascunhada obtida pela Euronews acusou o presidente da FIFA de usar a organização como uma 'escada de carreira política'.",
-          "imagem": null,
-          "link": "http://www.euronews.com/my-europe/2026/07/31/exclusive-meps-demand-infantino-appear-before-european-parliament-over-fifas-private-inves",
-          "publicado_em": "2026-07-31T11:32:43.000Z"
-        },
-        {
-          "id": "euronews-2026-08-02-2124",
-          "titulo": "Reino Unido anuncia investimento de 8 bilhões de libras em submarinos nucleares",
-          "resumo": "O contratante de defesa do Reino Unido, BAE Systems, foi encarregado de entregar quatro submarinos nucleares da classe Dreadnought como parte do dissuasor nuclear da Grã-Bretanha.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/07/31/uk-announces-8-billion-investment-in-nuclear-submarines",
-          "publicado_em": "2026-07-31T06:11:53.000Z"
         }
       ]
     },
