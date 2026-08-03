@@ -5,10 +5,10 @@
   "itens_urgentes": {},
   "destaques": [],
   "capa": {
-    "categoria_nome": "Crise Migratória e Conflitos Globais",
-    "titulo": "Ceuta: O Foco da Crise Migratória",
-    "subtitulo": "Enquanto a Europa lida com a crise de Ceuta, outros conflitos globais exigem atenção",
-    "resumo": "A crise migratória em Ceuta continua a dominar as manchetes, com mais de 50.000 pessoas tentando cruzar a fronteira para a Espanha. Enquanto a União Europeia se reúne para discutir a crise, outros conflitos globais, como a situação no Irã e a guerra na Ucrânia, também merecem atenção. A Rússia aumentou a proteção de seus navios no Mar Negro devido a ataques que ameaçam as exportações de grãos. Além disso, a África Ocidental enfrenta um aumento nas leis anti-LGBTQ+, enquanto a Índia lida com escândalos de exames que desencadearam protestos. A crise de migração em Ceuta expõe desespero entre os jovens do Marrocos, que buscam uma vida melhor na Europa. É fundamental entender as diferentes perspectivas e enquadramentos desses eventos para ter uma visão completa do que está acontecendo no mundo.",
+    "categoria_nome": "O que marcou o dia?",
+    "titulo": "Crise migratória em Ceuta",
+    "subtitulo": "Enquanto a Europa debate fronteiras mais fortes, a crise em Ceuta expõe divisões dentro da UE",
+    "resumo": "A crise migratória em Ceuta continua a dominar os noticiários, com a presidente da Comissão Europeia, Ursula von der Leyen, defendendo fronteiras mais fortes da UE. Enquanto isso, a Espanha nega ter ignorado avisos de seu serviço de inteligência sobre a chegada em massa de migrantes. A crise expõe as divisões dentro da Europa sobre como lidar com a migração. Em outros temas, a Rússia realizou o primeiro voo de um avião MC-21 de produção em massa, e a Índia exigiu desculpas de Mark Zuckerberg por remover um vídeo postado pelo primeiro-ministro Modi. A crise migratória em Ceuta é um exemplo de como a migração pode ser um tema complexo e multifacetado, com diferentes perspectivas e abordagens dentro da UE.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-08-03T08:00:00-03:00",
     "link": null,
@@ -1011,37 +1011,37 @@
   },
   "temas_principais": [
     {
-      "tema": "Crise Migratória em Ceuta",
-      "descricao": "Mais de 50.000 pessoas tentam cruzar a fronteira para a Espanha, gerando uma crise humanitária",
+      "tema": "Crise migratória em Ceuta",
+      "descricao": "A crise migratória em Ceuta continua a dominar os noticiários, com a presidente da Comissão Europeia defendendo fronteiras mais fortes da UE.",
       "fontes_que_cobriram": [
         "the_guardian",
-        "new_york_times",
-        "euronews"
+        "euronews",
+        "scmp"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
         "rt"
       ],
-      "divergencia_de_enquadramento": "Enquanto some fontes enfatizam a crise humanitária, outras destacam a necessidade de controle de fronteiras"
+      "divergencia_de_enquadramento": "A crise é apresentada de forma diferente pelas fontes, com alguns destacando a necessidade de fronteiras mais fortes e outros enfatizando a necessidade de uma abordagem mais humanitária."
     },
     {
-      "tema": "Conflitos Globais",
-      "descricao": "Situação no Irã, guerra na Ucrânia e outros conflitos globais que exigem atenção",
+      "tema": "Primeiro voo do avião MC-21 da Rússia",
+      "descricao": "A Rússia realizou o primeiro voo de um avião MC-21 de produção em massa.",
       "fontes_que_cobriram": [
-        "new_york_times",
         "rt",
-        "st"
+        "mt"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian"
+        "the_guardian",
+        "new_york_times"
       ],
-      "divergencia_de_enquadramento": "Diferentes fontes apresentam perspectivas variadas sobre os conflitos, refletindo interesses e alianças geopolíticas"
+      "divergencia_de_enquadramento": "A notícia é apresentada de forma positiva pelas fontes russas, enquanto as fontes ocidentais a ignoram ou minimizam."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Leis Anti-LGBTQ+ na África Ocidental",
-      "por_que_importa": "Aumento nas leis anti-LGBTQ+ na África Ocidental pode levar a violações dos direitos humanos",
-      "cobertura": "Apenas o The Guardian cobriu o tema, destacando a necessidade de atenção internacional"
+      "tema": "Leis anti-LGBTQ+ na África Ocidental",
+      "por_que_importa": "As leis anti-LGBTQ+ na África Ocidental são um tema importante que está sendo subcoberto pela mídia.",
+      "cobertura": "Apenas o The Guardian cobriu o tema, destacando a crescente onda de leis anti-LGBTQ+ na região."
     }
   ]
 }
