@@ -612,151 +612,167 @@
     "mt": {
       "slug": "mt",
       "nome": "The Moscow Times",
-      "gerado_em": "2026-08-02T21:45:58.022Z",
+      "gerado_em": "2026-08-03T10:46:09.368Z",
       "artigos": [
         {
-          "id": "mt-2026-08-02-01",
-          "titulo": "Drones ucranianos matam 8 na Rússia e atingem armazém da Wildberries",
+          "id": "mt-2026-08-03-1001",
+          "titulo": "Boris Nadezhdin Deixa a Rússia",
+          "resumo": "Em um vídeo gravado em frente à Torre Eiffel em Paris, o político anti-guerra disse que estava 'vivo e livre. Mas infelizmente, ainda não na Rússia.'",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/03/boris-nadezhdin-leaves-russia-a93401",
+          "publicado_em": "2026-08-03T10:39:12.000Z"
+        },
+        {
+          "id": "mt-2026-08-03-1002",
+          "titulo": "Primeiro Modelo de Produção do Jato MC-21 da Rússia Completa Voo de Estreia",
+          "resumo": "O voo de teste ocorre dias após o presidente Vladimir Putin fazer uma visita surpresa à fábrica siberiana onde o avião é montado.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/03/first-production-model-of-russias-mc-21-jet-completes-maiden-flight-a93399",
+          "publicado_em": "2026-08-03T10:16:09.000Z"
+        },
+        {
+          "id": "mt-2026-08-03-1003",
+          "titulo": "Rússia Aumenta Proteção de Navios no Mar Negro à Medida que Ataques Ameaçam Exportações de Grãos",
+          "resumo": "O Ministério dos Transportes e o militar criaram uma força-tarefa conjunta para redirecionar o frete e proteger os navios comerciais.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/03/russia-steps-up-ship-protection-in-black-sea-as-attacks-threaten-grain-exports-a93398",
+          "publicado_em": "2026-08-03T08:46:00.000Z"
+        },
+        {
+          "id": "mt-2026-08-03-1004",
+          "titulo": "Pelo Menos 7 Mortos em Ataques Noturnos da Ucrânia em Toda a Rússia e Crimeia",
+          "resumo": "Na região central de Vladimir, ataques de drones incendiaram um armazém da Wildberries, o último ataque na campanha da Ucrânia contra a empresa.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/03/at-least-6-killed-in-overnight-ukrainian-attacks-across-russia-and-crimea-a93397",
+          "publicado_em": "2026-08-03T07:44:00.000Z"
+        },
+        {
+          "id": "mt-2026-08-03-1005",
+          "titulo": "Drones Ucranianos Matam 8 na Rússia e Atacam Armazém da Wildberries",
           "resumo": "O Ministério da Defesa da Rússia disse que derrubou 635 drones ucranianos durante a noite.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/02/ukrainian-drones-kill-8-in-russia-and-strike-wildberries-warehouse-a93396",
           "publicado_em": "2026-08-02T17:03:00.000Z"
         },
         {
-          "id": "mt-2026-08-02-02",
-          "titulo": "Bombardeira feminina mata pelo menos 3 e fere 21 perto de restaurante em Moscou",
+          "id": "mt-2026-08-03-1006",
+          "titulo": "Bombista Feminina Mata Pelo Menos 3 e Fere 21 Perto de um Restaurante em Moscou",
           "resumo": "Fontes do jornal Kommersant disseram que a bomba foi destinada a mutilar e matar convidados na varanda de verão do restaurante.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/02/female-bomber-kills-at-least-3-injures-21-near-moscow-restaurant-a93395",
           "publicado_em": "2026-08-02T11:34:00.000Z"
         },
         {
-          "id": "mt-2026-08-02-03",
-          "titulo": "Rússia bombardeia Kiev com mísseis, matando pelo menos 10",
-          "resumo": "Este é o segundo grande ataque a Kiev esta semana, com incêndios em toda a cidade e apagões de energia relatados em algumas áreas.",
+          "id": "mt-2026-08-03-1007",
+          "titulo": "Rússia Bombardeia Kyiv com Mísseis, Matando Pelo Menos 10",
+          "resumo": "Este é o segundo grande ataque a Kyiv esta semana, com incêndios em toda a cidade e apagões de energia relatados em algumas áreas.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/01/russia-pounds-kyiv-with-missiles-killing-at-least-10-a93392",
           "publicado_em": "2026-08-01T12:52:00.000Z"
         },
         {
-          "id": "mt-2026-08-02-04",
-          "titulo": "Rússia dispara número recorde de mísseis na Ucrânia em julho – Análise da AFP",
-          "resumo": "A Rússia lançou 376 mísseis na Ucrânia durante o mês – mais do que o dobro do número disparado em junho.",
+          "id": "mt-2026-08-03-1008",
+          "titulo": "Rússia Dispara Número Recorde de Mísseis na Ucrânia em Julho – Análise da AFP",
+          "resumo": "A Rússia lançou 376 mísseis na Ucrânia durante o mês — mais do que o dobro do número disparado em junho.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/01/russia-fired-record-number-of-missiles-at-ukraine-in-july-afp-analysis-a93394",
           "publicado_em": "2026-08-01T12:05:00.000Z"
         },
         {
-          "id": "mt-2026-08-02-05",
-          "titulo": "Ucrânia afunda navio cargueiro russo no Mar Negro, diz Rosatom",
-          "resumo": "O operador nuclear estatal disse que dois drones ucranianos atingiram o navio cargueiro 'Yanina' perto do porto de Novorossiysk.",
+          "id": "mt-2026-08-03-1009",
+          "titulo": "Ucrânia Afunda Navio de Contêiner Russo no Mar Negro, Diz Rosatom",
+          "resumo": "O operador nuclear estatal disse que dois drones ucranianos atingiram o navio de carga 'Yanina' perto do porto de Novorossiysk.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/01/ukraine-sinks-russian-owned-container-ship-in-black-sea-rosatom-says-a93393",
           "publicado_em": "2026-08-01T11:49:57.000Z"
         },
         {
-          "id": "mt-2026-08-02-06",
-          "titulo": "Tribunal de Moscou ordena prisão da filha de Boris Nemtsov",
+          "id": "mt-2026-08-03-1010",
+          "titulo": "Tribunal de Moscou Ordena Prisão de Filha de Boris Nemtsov em Ausência",
           "resumo": "Zhanna Nemtsova enfrenta acusações de organizar as atividades de uma organização 'indesejável'.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/31/moscow-court-orders-detention-of-boris-nemtsovs-daughter-in-absentia-a93389",
           "publicado_em": "2026-07-31T14:54:06.000Z"
         },
         {
-          "id": "mt-2026-08-02-07",
-          "titulo": "Comissão Eleitoral Central barra candidatos do Yabloko da cédula de São Petersburgo",
+          "id": "mt-2026-08-03-1011",
+          "titulo": "Comissão Eleitoral Central Barra Candidatos do Yabloko da Cédula de São Petersburgo",
           "resumo": "O presidente do Yabloko, Nikolai Rybakov, acusou os funcionários eleitorais de visar sistematicamente o partido porque ele 'se opõe às autoridades e defende os residentes e a cidade de São Petersburgo'.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/31/central-election-commission-bars-yabloko-candidates-from-st-petersburg-ballot-a93387",
           "publicado_em": "2026-07-31T14:16:07.000Z"
         },
         {
-          "id": "mt-2026-08-02-08",
-          "titulo": "Cazaquistão está em negociações para refinar petróleo bruto russo em meio a escassez de combustível",
-          "resumo": "De acordo com o acordo proposto, as instalações cazaques processariam o petróleo russo para atender às necessidades do mercado local, enquanto devolveriam uma parte da gasolina e do diesel refinados de volta à Rússia.",
+          "id": "mt-2026-08-03-1012",
+          "titulo": "Operadoras de Celular Russas Isentam Taxas de Dados para o Aplicativo de Mensagens Max",
+          "resumo": "A partir de 1º de agosto, chamadas de voz, mensagens, transferências de arquivos e outros serviços digitais dentro do Max serão gratuitos para assinantes da MTS, MegaFon, Beeline e T2.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/31/russian-mobile-carriers-waive-data-fees-for-state-backed-max-messenger-a93386",
+          "publicado_em": "2026-07-31T12:47:03.000Z"
+        },
+        {
+          "id": "mt-2026-08-03-1013",
+          "titulo": "Cazaquistão Negocia Refinaria de Petróleo Russo Amidst Escassez de Combustível",
+          "resumo": "De acordo com o acordo proposto, as instalações cazaques processariam o petróleo russo para atender às necessidades do mercado local, enquanto uma parte do gasolina e diesel refinados seria devolvida à Rússia.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/31/kazakhstan-in-talks-to-refine-russian-crude-oil-amid-fuel-shortages-a93385",
           "publicado_em": "2026-07-31T10:15:35.000Z"
         },
         {
-          "id": "mt-2026-08-02-09",
-          "titulo": "Ucrânia atinge centro logístico da Wildberries e instalação de energia em Volgograd, matando pelo menos um",
+          "id": "mt-2026-08-03-1014",
+          "titulo": "Ucrânia Ataca Centro Logístico da Wildberries e Instalação de Energia em Volgogrado, Matando Pelo Menos Uma Pessoa",
           "resumo": "As autoridades locais não identificaram o local de energia, mas o monitoramento de incêndios da NASA mostrou vários incêndios ativos em uma grande refinaria de petróleo operada pela Lukoil.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/31/ukraine-hits-wildberries-logistics-center-and-energy-facility-in-volgograd-killing-at-least-one-a93383",
           "publicado_em": "2026-07-31T07:53:00.000Z"
         },
         {
-          "id": "mt-2026-08-02-10",
-          "titulo": "Rússia estende proibição de exportação de gasolina e diesel até janeiro de 2027",
-          "resumo": "O preço médio da gasolina na Rússia subiu 19% desde o início do ano, em grande parte devido aos ataques ucranianos a refinarias de petróleo.",
+          "id": "mt-2026-08-03-1015",
+          "titulo": "Para os Russos, uma Viagem de Férias no Exterior Agora é um Luxo que Poucos Podem se Permitir",
+          "resumo": "A incerteza econômica e os riscos impostos pelos ataques de drones ucranianos estão redesenhando como os russos estão gastando suas longamente aguardadas férias.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/07/30/for-russians-a-summer-vacation-abroad-is-now-a-luxury-few-can-afford-a93376",
+          "publicado_em": "2026-07-30T15:37:00.000Z"
+        },
+        {
+          "id": "mt-2026-08-03-1016",
+          "titulo": "Rússia Prorroga Proibição de Exportação de Gasolina e Diesel Até Janeiro de 2027",
+          "resumo": "O preço médio da gasolina na Rússia subiu 19% desde o início do ano, em grande parte devido aos ataques ucranianos às refinarias de petróleo.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/30/russia-extends-gasoline-and-diesel-export-ban-through-january-2027-a93382",
           "publicado_em": "2026-07-30T15:07:33.000Z"
         },
         {
-          "id": "mt-2026-08-02-11",
-          "titulo": "Bilionário Kustov preso junto com executivos da Efko e oficial comercial sênior",
+          "id": "mt-2026-08-03-1017",
+          "titulo": "Bilionário Kustov Preso ao Lado de Executivos da Efko e Oficial de Comércio Sênior",
           "resumo": "As prisões estão relacionadas a uma investigação criminal sobre a empresa Transportation of the Future, que desenvolve sistemas aéreos não tripulados, segundo a mídia russa.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/30/billionaire-kustov-arrested-alongside-efko-executives-and-senior-trade-official-a93380",
           "publicado_em": "2026-07-30T12:54:00.000Z"
         },
         {
-          "id": "mt-2026-08-02-12",
-          "titulo": "Rússia adiciona fundador do Telegram, Pavel Durov, à lista de 'terroristas e extremistas'",
+          "id": "mt-2026-08-03-1018",
+          "titulo": "Rússia Adiciona Fundador do Telegram, Pavel Durov, à Lista de 'Terroristas e Extremistas'",
           "resumo": "A designação ocorre um dia após o FSB emitir um mandado de prisão para o empresário do setor de tecnologia por facilitar atividades terroristas.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/30/russia-adds-telegram-founder-pavel-durov-to-terrorist-and-extremist-list-a93381",
           "publicado_em": "2026-07-30T12:13:00.000Z"
         },
         {
-          "id": "mt-2026-08-02-13",
-          "titulo": "Procurador-geral destitui oficial que supervisionava a apreensão de ativos corporativos durante a guerra",
-          "resumo": "O oficial, Sergei Bochkarev, supervisionou a apreensão do Aeroporto de Domodedovo de Moscou, do fabricante de alimentos Makfa e da mineradora de ouro YUGK, entre outros.",
+          "id": "mt-2026-08-03-1019",
+          "titulo": "Procurador-Geral Demite Oficial Responsável por Apreensões de Ativos Corporativos em Tempos de Guerra",
+          "resumo": "O oficial, Sergei Bochkarev, supervisionou a apreensão do Aeroporto de Domodedovo em Moscou, do fabricante de alimentos Makfa e da mineradora de ouro YUGK, entre outros.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/30/prosecutor-general-ousts-official-overseeing-wartime-corporate-asset-seizures-a93378",
           "publicado_em": "2026-07-30T10:46:42.000Z"
         },
         {
-          "id": "mt-2026-08-02-14",
-          "titulo": "Míssil russo provavelmente caiu na Polônia Oriental, diz PM Tusk",
+          "id": "mt-2026-08-03-1020",
+          "titulo": "Míssil Russo Provavelmente Caiu na Polônia Oriental, Diz Primeiro-Ministro Tusk",
           "resumo": "O primeiro-ministro polonês, Donald Tusk, disse que o míssil caiu em uma área desabitada e não representou uma ameaça direta para os civis.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/07/30/russian-missile-likely-crashed-in-eastern-poland-pm-tusk-says-a93379",
           "publicado_em": "2026-07-30T09:58:24.000Z"
-        },
-        {
-          "id": "mt-2026-08-02-15",
-          "titulo": "Ucrânia intensifica campanha contra a Wildberries, atingindo armazéns em Penza e Udmúrtia",
-          "resumo": "Os ataques ocorrem após os ataques russos na Ucrânia matarem pelo menos oito pessoas durante a noite e a Polônia ter mobilizado caças.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/30/ukraine-ramps-up-campaign-against-wildberries-striking-warehouses-in-penza-and-udmurtia-a93375",
-          "publicado_em": "2026-07-30T08:49:00.000Z"
-        },
-        {
-          "id": "mt-2026-08-02-16",
-          "titulo": "Onde os atletas russos podem competir após a suspensão provisória da IOC ser levantada?",
-          "resumo": "O The Moscow Times compilou uma lista detalhando onde e como os atletas russos podem competir atualmente no palco internacional.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/30/where-can-russian-athletes-compete-after-the-iocs-provisional-ban-lift-a93324",
-          "publicado_em": "2026-07-30T07:25:00.000Z"
-        },
-        {
-          "id": "mt-2026-08-02-17",
-          "titulo": "França ordena expulsão da ex-editora do RT, Ksenia Fedorova",
-          "resumo": "Fedorova foi acusada de espalhar propaganda do Kremlin pela televisão e rádio francesa.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/29/france-orders-expulsion-of-former-rt-editor-ksenia-fedorova-a93373",
-          "publicado_em": "2026-07-29T13:49:00.000Z"
-        },
-        {
-          "id": "mt-2026-08-02-18",
-          "titulo": "Tribunal de Moscou condena jornalista Daria Shipacheva a 12 anos por traição",
-          "resumo": "Shipacheva, que nasceu na Ucrânia, trabalhou como jornalista médica freelancer para várias publicações na Rússia, incluindo Forbes e RBC.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/07/29/moscow-court-jails-journalist-daria-shipacheva-12-years-for-treason-a93372",
-          "publicado_em": "2026-07-29T13:23:14.000Z"
         }
       ]
     },
