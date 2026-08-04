@@ -168,10 +168,50 @@
     "euronews": {
       "slug": "euronews",
       "nome": "Euro News",
-      "gerado_em": "2026-08-04T10:00:18.407Z",
+      "gerado_em": "2026-08-04T21:00:18.365Z",
       "artigos": [
         {
-          "id": "euronews-2026-08-04-1001",
+          "id": "euronews-2026-08-04-2101",
+          "titulo": "Netanyahu rejeita retirada de Gaza até que o Hamas desarme",
+          "resumo": "Benjamin Netanyahu se opôs a um acordo sobre Gaza apoiado pelos EUA, dizendo que Israel não se retirará do território até que o Hamas esteja completamente desarmado, apesar dos esforços de Washington para avançar um cessar-fogo...",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/04/netanyahu-rejects-gaza-withdrawal-until-hamas-disarms",
+          "publicado_em": "2026-08-04T20:31:52.000Z"
+        },
+        {
+          "id": "euronews-2026-08-04-2102",
+          "titulo": "OMS pede mais apoio para combater surto de ebola",
+          "resumo": "Apesar de ter sido declarado menos de três meses atrás, o surto já se tornou o maior já registrado na República Democrática do Congo.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/04/who-calls-for-more-support-to-tackle-ebola-outbreak",
+          "publicado_em": "2026-08-04T18:14:37.000Z"
+        },
+        {
+          "id": "euronews-2026-08-04-2104",
+          "titulo": "Civil atacado por drone russo em Kherson",
+          "resumo": "A polícia ucraniana divulgou imagens mostrando um civil sendo perseguido por um drone russo FPV em um mercado na cidade sulista de Kherson. De acordo com a polícia, o homem de 52 anos sobreviveu ao ataque...",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/08/04/civilian-hunted-and-attacked-by-russian-drone-in-kherson",
+          "publicado_em": "2026-08-04T13:30:33.000Z"
+        },
+        {
+          "id": "euronews-2026-08-04-2105",
+          "titulo": "Catar diz que toda a região está engajada em parar a escalada da guerra, mas ainda não há negociações diretas",
+          "resumo": "O Catar afirma que a mediação EUA-Irã está em estágio avançado, mas não há expectativa de negociações diretas no momento, enquanto Doha pede o retorno à navegação livre pelo estreito de Hormuz. O Catar pressiona Israel a...",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/04/qatar-says-whole-region-engaged-in-stopping-war-escalation-but-no-direct-talks-yet",
+          "publicado_em": "2026-08-04T13:18:24.000Z"
+        },
+        {
+          "id": "euronews-2026-08-04-2106",
+          "titulo": "Grécia: Bombeiros combatem grande incêndio florestal impulsionado por ventos fortes",
+          "resumo": "Centenas de bombeiros, apoiados por helicópteros e aeronaves de lançamento de água, combatem um grande incêndio florestal a oeste de Atenas.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/08/04/greece-firefighters-battle-major-wildfire-as-strong-winds-fuel-flames",
+          "publicado_em": "2026-08-04T11:20:46.000Z"
+        },
+        {
+          "id": "euronews-2026-08-04-2109",
           "titulo": "Ministério das Relações Exteriores da Turquia denuncia ataques a dois navios cargueiros civis no Mar Negro",
           "resumo": "No final de maio, a Turquia havia alertado sobre uma \"escalada descontrolada\" na região do Mar Negro após um ataque de drone a um navio cargueiro turco.",
           "imagem": null,
@@ -179,7 +219,7 @@
           "publicado_em": "2026-08-04T09:55:30.000Z"
         },
         {
-          "id": "euronews-2026-08-04-1003",
+          "id": "euronews-2026-08-04-2111",
           "titulo": "Sri Lanka fecha escolas devido a fortes chuvas que desencadeiam inundações e deslizamentos de terra, matando pelo menos cinco pessoas",
           "resumo": "Deslizamentos de terra e inundações são entre os desastres naturais mais destrutivos, causando danos graves à vida e à propriedade no Sri Lanka todos os anos.",
           "imagem": null,
@@ -187,68 +227,92 @@
           "publicado_em": "2026-08-04T08:35:52.000Z"
         },
         {
-          "id": "euronews-2026-08-04-1004",
+          "id": "euronews-2026-08-04-2112",
           "titulo": "Soldado mata quatro, incluindo civis, na Crimeia, diz governador instalado por Moscou",
-          "resumo": "A Crimeia, uma península anexada ilegalmente pela Rússia à Ucrânia em 2014, tem sido alvo de ataques retaliatórios ucranianos nos últimos semanas, visando interromper a logística das forças russas destacadas na região.",
+          "resumo": "A Crimeia, uma península anexada ilegalmente pela Rússia à Ucrânia em 2014, tem sido alvo de ataques retaliatórios ucranianos nos últimos semanas, visando interromper a logística das forças russas destacadas na região...",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/04/soldier-kills-four-including-civilians-in-crimea-moscow-installed-governor-says",
           "publicado_em": "2026-08-04T08:19:12.000Z"
         },
         {
-          "id": "euronews-2026-08-04-1005",
-          "titulo": "Incêndios florestais destróem centenas de casas em Porto Germeno, na Grécia",
-          "resumo": "Porto Germeno enfrenta danos graves devido a incêndios florestais, enquanto a Grécia entra na segunda semana de incêndios importantes. Bombeiros permanecem destacados e pelo menos cinco pessoas morreram.",
+          "id": "euronews-2026-08-04-2113",
+          "titulo": "Incêndios florestais gregos deixam trilha de destruição em Porto Germeno",
+          "resumo": "Porto Germeno enfrenta danos graves de incêndios florestais enquanto a Grécia entra na segunda semana de grandes incêndios. Bombeiros permanecem destacados e pelo menos cinco pessoas morreram.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/08/04/burned-homes-blackened-cars-greek-wildfires-leave-trail-of-destruction-in-porto-germeno",
           "publicado_em": "2026-08-04T07:57:00.000Z"
         },
         {
-          "id": "euronews-2026-08-04-1009",
-          "titulo": "Irã alerta navios de guerra dos EUA sobre alteração de rotas no Estreito de Ormuz",
-          "resumo": "Teerã alerta que irá alvejar navios dos EUA que tentem alterar as rotas de navegação aprovadas ou manter um bloqueio naval.",
+          "id": "euronews-2026-08-04-2114",
+          "titulo": "Homem de El Salvador morre em prisão de imigração em Nova Jersey, dizem autoridades do ICE",
+          "resumo": "Pessoas detidas no centro de Newark pediram melhores condições de vida e melhor atendimento médico, pois alguns estão sendo negados medicamentos.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/04/man-from-el-salvador-dies-in-immigration-jail-in-new-jersey-ice-officials-say",
+          "publicado_em": "2026-08-04T07:12:46.000Z"
+        },
+        {
+          "id": "euronews-2026-08-04-2115",
+          "titulo": "Autoridades da Guatemala emitem alerta de 'perigo' após erupção do vulcão Fuego",
+          "resumo": "A Guatemala está localizada no 'Anel de Fogo' do Pacífico e experimenta frequentes atividades sísmicas e vulcânicas.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/04/guatemalan-authorities-issue-danger-alert-after-fuego-volcano-erupts",
+          "publicado_em": "2026-08-04T05:10:01.000Z"
+        },
+        {
+          "id": "euronews-2026-08-04-2117",
+          "titulo": "Irã avisa navios de guerra dos EUA sobre alterar rotas no estreito de Hormuz",
+          "resumo": "Teerã avisa que irá alvejar navios dos EUA que tentem alterar corredores de navegação aprovados ou manter um bloqueio naval.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/04/iran-warns-us-warships-over-altering-routes-in-the-strait-of-hormuz",
           "publicado_em": "2026-08-04T02:39:32.000Z"
         },
         {
-          "id": "euronews-2026-08-04-1011",
-          "titulo": "Trump alerta que o Irã está diante de sua \"última chance\" antes de uma \"decapitação\", afirmando que negociações estão em andamento",
+          "id": "euronews-2026-08-04-2118",
+          "titulo": "Momento em que drone atinge resort de praia russo no Mar Negro",
+          "resumo": "Imagens de mídias sociais mostram o que parece ser um drone caindo em uma praia movimentada em Arkhipo-Osipovka, enquanto turistas olham da praia e da água.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/08/03/moment-drone-strikes-russian-black-sea-beach-resort",
+          "publicado_em": "2026-08-03T21:36:11.000Z"
+        },
+        {
+          "id": "euronews-2026-08-04-2119",
+          "titulo": "Trump avisa que o Irã está diante de sua 'última chance antes da decapitação', diz que negociações estão em andamento",
           "resumo": "Falando a repórteres na Casa Branca, Trump disse que concordou em continuar as conversas com o Irã a pedido da Arábia Saudita, dos Emirados Árabes Unidos, do Catar e de outros países.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/03/trump-warns-tehran-facing-last-chance-before-decapitation",
           "publicado_em": "2026-08-03T20:26:42.000Z"
         },
         {
-          "id": "euronews-2026-08-04-1016",
-          "titulo": "Homens armados sequestram pelo menos 52 pessoas em um ataque noturno no noroeste da Nigéria, dizem fontes locais",
-          "resumo": "Sequestros se tornaram uma grande fonte de renda para grupos armados na Nigéria, incluindo jihadistas no nordeste e gangues criminosas conhecidas localmente como \"bandidos\".",
+          "id": "euronews-2026-08-04-2121",
+          "titulo": "Incêndio florestal descobre granadas não explodidas da Segunda Guerra Mundial na França",
+          "resumo": "Um incêndio florestal no sudoeste da França expôs granadas não explodidas da Segunda Guerra Mundial, forçando equipes de desminagem a limpar a área antes que os moradores evacuados possam retornar para casa.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/08/03/wildfire-uncovers-unexploded-wwii-shells-in-france",
+          "publicado_em": "2026-08-03T13:34:16.000Z"
+        },
+        {
+          "id": "euronews-2026-08-04-2122",
+          "titulo": "Primeira-ministra Sanae Takaichi visita região atingida por terremoto no sul do Japão enquanto a limpeza começa em meio ao calor intenso",
+          "resumo": "Mais de 46.000 residências permanecem sem água e muitas também enfrentam escassez de combustível, enquanto a região sofre com o calor sufocante, aumentando o medo de doenças relacionadas ao calor.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/03/pm-sanae-takaichi-visits-quake-hit-southern-japan-as-cleanup-begins-in-intense-heat",
+          "publicado_em": "2026-08-03T12:38:32.000Z"
+        },
+        {
+          "id": "euronews-2026-08-04-2124",
+          "titulo": "Homens armados sequestram pelo menos 52 pessoas em ataque noturno no noroeste da Nigéria, dizem fontes locais",
+          "resumo": "Sequestros se tornaram uma grande fonte de renda para grupos armados na Nigéria, incluindo jihadistas no nordeste e gangues criminosas conhecidas localmente como 'bandidos'.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/03/gunmen-kidnap-at-least-52-in-overnight-raid-in-northwest-nigeria-local-sources-say",
           "publicado_em": "2026-08-03T10:51:12.000Z"
         },
         {
-          "id": "euronews-2026-08-04-1017",
-          "titulo": "Segundo navio-tanque com GNL do Catar é atingido no Hormuz dentro de um mês, enquanto a força maior se amplia",
-          "resumo": "O GasLog Shanghai foi atingido enquanto deixava o Estreito de Ormuz, semanas após o Al Rekayyat ter sido atingido na mesma área. A empresa de utilidades italiana Edison disse que a QatarEnergy havia estendido a força maior em um contrato adicional.",
+          "id": "euronews-2026-08-04-2125",
+          "titulo": "Segundo navio-tanque com GNL do Catar é atingido no estreito de Hormuz dentro de um mês, enquanto a força maior se alastra",
+          "resumo": "O GasLog Shanghai foi atingido enquanto deixava o estreito de Hormuz, semanas após o Al Rekayyat ter sido atingido na mesma área. A empresa de utilidades italiana Edison disse que a QatarEnergy havia estendido a força maior em um...",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/03/second-tanker-with-qatari-lng-struck-in-hormuz-within-a-month-as-force-majeure-widens",
           "publicado_em": "2026-08-03T10:31:24.000Z"
-        },
-        {
-          "id": "euronews-2026-08-04-1021",
-          "titulo": "Empresa estatal de energia de Cuba relata novo apagão nacional, enquanto o embargo dos EUA continua",
-          "resumo": "Os cortes de energia tornaram a vida normal quase impossível, com cada apagão significando também que os suprimentos de água se esgotam e os ventiladores de teto param de funcionar.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/03/cuba-state-energy-firm-reports-new-nationwide-blackout-as-us-embargo-continues",
-          "publicado_em": "2026-08-03T07:38:53.000Z"
-        },
-        {
-          "id": "euronews-2026-08-04-1023",
-          "titulo": "Ex-líder de Mianmar, Aung San Suu Kyi, se reúne com oficial da Cruz Vermelha, diz gabinete do presidente",
-          "resumo": "O exército depôs Suu Kyi em fevereiro de 2021, prendendo a laureada com o Prêmio Nobel da Paz e desencadeando uma guerra civil em andamento que matou mais de 100.000 pessoas em todos os lados.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/03/myanmars-former-leader-aung-san-suu-kyi-meets-red-cross-official-presidents-office-says",
-          "publicado_em": "2026-08-03T06:13:04.000Z"
         }
       ]
     },
