@@ -5,10 +5,10 @@
   "itens_urgentes": {},
   "destaques": [],
   "capa": {
-    "categoria_nome": "O que marcou o dia?",
-    "titulo": "Crise em Ceuta: Espanha e Marrocos trocam acusações",
-    "subtitulo": "Mortos e feridos em confrontos de fronteira, enquanto a UE debate reforço de fronteiras",
-    "resumo": "A crise migratória em Ceuta continua a gerar tensões entre a Espanha e o Marrocos, com ambos os países trocando acusações sobre a responsabilidade pelos incidentes violentos na fronteira. Enquanto a União Europeia discute o reforço das fronteiras, a situação humanitária se agrava. Em outros temas, a guerra no Oriente Médio e a situação na Ucrânia também dominam as manchetes. A China está preparada para atacar a qualquer momento com seu míssil hipersônico DF-17, e a Rússia enfrenta críticas sobre sua atuação na Crimeia. Além disso, a África Ocidental lida com inundações e a descoberta de poluição por petróleo no Congo-Kinshasa.",
+    "categoria_nome": "Crise Migratória e Conflitos Globais",
+    "titulo": "Migração em Massa em Ceuta: Tensões na Europa",
+    "subtitulo": "Enquanto a crise migratória em Ceuta expõe divisões dentro da Europa, outros conflitos globais como a guerra na Ucrânia e a rivalidade EUA-Irã continuam a evoluir",
+    "resumo": "A crise migratória em Ceuta, com mais de 50.000 pessoas tentando cruzar a fronteira da Espanha com o Marrocos, expôs as profundas divisões dentro da Europa sobre como lidar com a imigração. Enquanto isso, a guerra na Ucrânia continua com a Rússia sendo acusada de cometer crimes de guerra, e a rivalidade entre os EUA e o Irã permanece tensa, com esforços de mediação em andamento. A África também enfrenta desafios, com inundações devastadoras e a ameaça de cibercrimes habilitados por inteligência artificial. Esses eventos globais destacam a complexidade e a interconexão dos desafios enfrentados pelas nações hoje.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-08-04T08:00:00-03:00",
     "link": null,
@@ -934,52 +934,53 @@
   },
   "temas_principais": [
     {
-      "tema": "Crise migratória em Ceuta",
-      "descricao": "Conflitos de fronteira entre a Espanha e o Marrocos",
+      "tema": "Crise Migratória em Ceuta",
+      "descricao": "Mais de 50.000 pessoas tentam cruzar a fronteira da Espanha com o Marrocos, expondo divisões na Europa sobre imigração",
       "fontes_que_cobriram": [
         "the_guardian",
-        "rt"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
+        "euronews",
         "scmp"
       ],
-      "divergencia_de_enquadramento": "A Espanha e o Marrocos têm versões diferentes sobre a crise"
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "rt"
+      ],
+      "divergencia_de_enquadramento": "Enquanto some fontes enfatizam a necessidade de controle de fronteiras, outras destacam a crise humanitária e a necessidade de solidariedade"
     },
     {
-      "tema": "Guerra no Oriente Médio",
-      "descricao": "Desenvolvimentos na Faixa de Gaza e no Estreito de Ormuz",
+      "tema": "Guerra na Ucrânia",
+      "descricao": "A Rússia é acusada de cometer crimes de guerra, e a Ucrânia sofre com ataques de drones",
+      "fontes_que_cobriram": [
+        "euronews",
+        "smh",
+        "mt"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "rt"
+      ],
+      "divergencia_de_enquadramento": "Fontes ocidentais condenam a Rússia, enquanto a Rússia e seus aliados apresentam uma narrativa diferente"
+    },
+    {
+      "tema": "Rivalidade EUA-Irã",
+      "descricao": "Esforços de mediação estão em andamento para encerrar a guerra, com a possibilidade de um acordo",
       "fontes_que_cobriram": [
         "new_york_times",
-        "st"
+        "st",
+        "scmp"
       ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "aa"
-      ],
-      "divergencia_de_enquadramento": "Diferentes perspectivas sobre as negociações e os conflitos"
-    },
-    {
-      "tema": "Ucrânia e Rússia",
-      "descricao": "Desenvolvimentos na Crimeia e nas relações entre a Ucrânia e a Rússia",
-      "fontes_que_cobriram": [
-        "mt",
-        "st"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "smh"
-      ],
-      "divergencia_de_enquadramento": "Diferentes visões sobre a situação na Crimeia e as relações entre a Ucrânia e a Rússia"
+      "fontes_que_ignoraram_ou_minimizaram": [],
+      "divergencia_de_enquadramento": "Fontes ocidentais destacam os esforços de mediação, enquanto fontes do Oriente Médio podem ter perspectivas diferentes sobre o conflito"
     }
   ],
   "temas_subcobertos": [
     {
       "tema": "Inundações na África Ocidental",
-      "por_que_importa": "Afeta a vida de milhares de pessoas",
-      "cobertura": "Pouca cobertura na imprensa ocidental"
+      "por_que_importa": "As inundações afetam milhares de pessoas, com necessidade de ajuda humanitária",
+      "cobertura": "Apenas a AllAfrica deu cobertura significativa ao tema"
     },
     {
-      "tema": "Poluição por petróleo no Congo-Kinshasa",
-      "por_que_importa": "Impacto ambiental e humano",
-      "cobertura": "Quase nenhuma cobertura na imprensa internacional"
+      "tema": "Cibercrimes na África",
+      "por_que_importa": "Mais da metade dos cibercrimes na África são habilitados por inteligência artificial, representando um desafio significativo",
+      "cobertura": "Apenas a AllAfrica abordou o tema"
     }
   ]
 }
