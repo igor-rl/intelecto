@@ -168,135 +168,87 @@
     "euronews": {
       "slug": "euronews",
       "nome": "Euro News",
-      "gerado_em": "2026-08-03T21:00:22.284Z",
+      "gerado_em": "2026-08-04T10:00:18.407Z",
       "artigos": [
         {
-          "id": "euronews-2026-08-03-2101",
-          "titulo": "Trump alerta que Teerã enfrenta 'última chance antes da decapitação'",
-          "resumo": "Trump disse que está falando sobre o Estreito, a abertura do Estreito, tendo-o aberto literalmente amanhã, completamente aberto.",
+          "id": "euronews-2026-08-04-1001",
+          "titulo": "Ministério das Relações Exteriores da Turquia denuncia ataques a dois navios cargueiros civis no Mar Negro",
+          "resumo": "No final de maio, a Turquia havia alertado sobre uma \"escalada descontrolada\" na região do Mar Negro após um ataque de drone a um navio cargueiro turco.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/04/turkish-foreign-ministry-denounces-attacks-on-two-civilian-cargo-ships-in-black-sea",
+          "publicado_em": "2026-08-04T09:55:30.000Z"
+        },
+        {
+          "id": "euronews-2026-08-04-1003",
+          "titulo": "Sri Lanka fecha escolas devido a fortes chuvas que desencadeiam inundações e deslizamentos de terra, matando pelo menos cinco pessoas",
+          "resumo": "Deslizamentos de terra e inundações são entre os desastres naturais mais destrutivos, causando danos graves à vida e à propriedade no Sri Lanka todos os anos.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/04/sri-lanka-closes-schools-as-heavy-rains-trigger-floods-and-mudslides-killing-at-least-five",
+          "publicado_em": "2026-08-04T08:35:52.000Z"
+        },
+        {
+          "id": "euronews-2026-08-04-1004",
+          "titulo": "Soldado mata quatro, incluindo civis, na Crimeia, diz governador instalado por Moscou",
+          "resumo": "A Crimeia, uma península anexada ilegalmente pela Rússia à Ucrânia em 2014, tem sido alvo de ataques retaliatórios ucranianos nos últimos semanas, visando interromper a logística das forças russas destacadas na região.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/04/soldier-kills-four-including-civilians-in-crimea-moscow-installed-governor-says",
+          "publicado_em": "2026-08-04T08:19:12.000Z"
+        },
+        {
+          "id": "euronews-2026-08-04-1005",
+          "titulo": "Incêndios florestais destróem centenas de casas em Porto Germeno, na Grécia",
+          "resumo": "Porto Germeno enfrenta danos graves devido a incêndios florestais, enquanto a Grécia entra na segunda semana de incêndios importantes. Bombeiros permanecem destacados e pelo menos cinco pessoas morreram.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/08/04/burned-homes-blackened-cars-greek-wildfires-leave-trail-of-destruction-in-porto-germeno",
+          "publicado_em": "2026-08-04T07:57:00.000Z"
+        },
+        {
+          "id": "euronews-2026-08-04-1009",
+          "titulo": "Irã alerta navios de guerra dos EUA sobre alteração de rotas no Estreito de Ormuz",
+          "resumo": "Teerã alerta que irá alvejar navios dos EUA que tentem alterar as rotas de navegação aprovadas ou manter um bloqueio naval.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/04/iran-warns-us-warships-over-altering-routes-in-the-strait-of-hormuz",
+          "publicado_em": "2026-08-04T02:39:32.000Z"
+        },
+        {
+          "id": "euronews-2026-08-04-1011",
+          "titulo": "Trump alerta que o Irã está diante de sua \"última chance\" antes de uma \"decapitação\", afirmando que negociações estão em andamento",
+          "resumo": "Falando a repórteres na Casa Branca, Trump disse que concordou em continuar as conversas com o Irã a pedido da Arábia Saudita, dos Emirados Árabes Unidos, do Catar e de outros países.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/03/trump-warns-tehran-facing-last-chance-before-decapitation",
           "publicado_em": "2026-08-03T20:26:42.000Z"
         },
         {
-          "id": "euronews-2026-08-03-2103",
-          "titulo": "Incêndio florestal descobre projéteis não explodidos da Segunda Guerra Mundial na França",
-          "resumo": "Um incêndio florestal no sudoeste da França expôs projéteis não explodidos da Segunda Guerra Mundial, forçando equipes de desativação de bombas a limpar a área antes que os moradores evacuados possam retornar para casa.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/08/03/wildfire-uncovers-unexploded-wwii-shells-in-france",
-          "publicado_em": "2026-08-03T13:34:16.000Z"
-        },
-        {
-          "id": "euronews-2026-08-03-2104",
-          "titulo": "PM Sanae Takaichi visita região atingida por terremoto no sul do Japão enquanto começa a limpeza em meio ao calor intenso",
-          "resumo": "Mais de 46.000 residências permanecem sem água e muitas também enfrentam escassez de combustível, à medida que a região sofre com o calor sufocante, alimentando temores de doenças relacionadas ao calor.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/03/pm-sanae-takaichi-visits-quake-hit-southern-japan-as-cleanup-begins-in-intense-heat",
-          "publicado_em": "2026-08-03T12:38:32.000Z"
-        },
-        {
-          "id": "euronews-2026-08-03-2106",
+          "id": "euronews-2026-08-04-1016",
           "titulo": "Homens armados sequestram pelo menos 52 pessoas em um ataque noturno no noroeste da Nigéria, dizem fontes locais",
-          "resumo": "Sequestros se tornaram uma grande fonte de renda para grupos armados na Nigéria, incluindo jihadistas no nordeste e gangues criminosas conhecidas localmente como 'bandidos'.",
+          "resumo": "Sequestros se tornaram uma grande fonte de renda para grupos armados na Nigéria, incluindo jihadistas no nordeste e gangues criminosas conhecidas localmente como \"bandidos\".",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/03/gunmen-kidnap-at-least-52-in-overnight-raid-in-northwest-nigeria-local-sources-say",
           "publicado_em": "2026-08-03T10:51:12.000Z"
         },
         {
-          "id": "euronews-2026-08-03-2107",
-          "titulo": "Segundo navio-tanque com GNL do Catar é atingido no Hormuz dentro de um mês, à medida que a força maior se alarga",
-          "resumo": "O GasLog Shanghai foi atingido enquanto deixava o Estreito de Hormuz, semanas após o Al Rekayyat ter sido atingido na mesma área.",
+          "id": "euronews-2026-08-04-1017",
+          "titulo": "Segundo navio-tanque com GNL do Catar é atingido no Hormuz dentro de um mês, enquanto a força maior se amplia",
+          "resumo": "O GasLog Shanghai foi atingido enquanto deixava o Estreito de Ormuz, semanas após o Al Rekayyat ter sido atingido na mesma área. A empresa de utilidades italiana Edison disse que a QatarEnergy havia estendido a força maior em um contrato adicional.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/03/second-tanker-with-qatari-lng-struck-in-hormuz-within-a-month-as-force-majeure-widens",
           "publicado_em": "2026-08-03T10:31:24.000Z"
         },
         {
-          "id": "euronews-2026-08-03-2109",
-          "titulo": "Vídeo mostra danos após terremoto em Nápoles ferir 26 pessoas",
-          "resumo": "Novas imagens mostram as consequências em Pozzuoli após o terremoto de magnitude 4,7 de sexta-feira perto de Nápoles, que feriu 26 pessoas e danificou prédios na área vulcânica de Campi Flegrei.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/08/03/video-shows-damage-after-naples-earthquake-injures-26",
-          "publicado_em": "2026-08-03T09:23:37.000Z"
-        },
-        {
-          "id": "euronews-2026-08-03-2110",
-          "titulo": "Incêndios florestais destróem centenas de casas perto de Spokane, Washington",
-          "resumo": "Incêndios florestais no leste de Washington forçaram a evacuação de 5.000 casas, destruíram cerca de 600 prédios e continuam a sobrecarregar os recursos de combate a incêndios.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/08/03/wildfires-destroy-hundreds-of-homes-near-spokane-washington",
-          "publicado_em": "2026-08-03T07:44:11.000Z"
-        },
-        {
-          "id": "euronews-2026-08-03-2111",
-          "titulo": "Empresa estatal de energia de Cuba relata novo apagão nacional à medida que o embargo dos EUA continua",
-          "resumo": "Os cortes de energia tornaram a vida normal quase impossível, com cada interrupção significando também que o suprimento de água diminui e os ventiladores de teto param de funcionar.",
+          "id": "euronews-2026-08-04-1021",
+          "titulo": "Empresa estatal de energia de Cuba relata novo apagão nacional, enquanto o embargo dos EUA continua",
+          "resumo": "Os cortes de energia tornaram a vida normal quase impossível, com cada apagão significando também que os suprimentos de água se esgotam e os ventiladores de teto param de funcionar.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/03/cuba-state-energy-firm-reports-new-nationwide-blackout-as-us-embargo-continues",
           "publicado_em": "2026-08-03T07:38:53.000Z"
         },
         {
-          "id": "euronews-2026-08-03-2112",
-          "titulo": "Incêndios florestais forçam evacuações na ilha grega de Cefalônia",
-          "resumo": "Incêndios florestais em Cefalônia e no oeste da Ática forçaram evacuações, à medida que ventos fortes dificultaram os esforços de combate a incêndios e ameaçaram casas e comunidades.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/08/03/wildfires-force-evacuations-on-greek-island-of-kefalonia",
-          "publicado_em": "2026-08-03T06:16:01.000Z"
-        },
-        {
-          "id": "euronews-2026-08-03-2113",
-          "titulo": "Ex-líder de Mianmar, Aung San Suu Kyi, se encontra com oficial do Cruz Vermelha, diz gabinete do presidente",
+          "id": "euronews-2026-08-04-1023",
+          "titulo": "Ex-líder de Mianmar, Aung San Suu Kyi, se reúne com oficial da Cruz Vermelha, diz gabinete do presidente",
           "resumo": "O exército depôs Suu Kyi em fevereiro de 2021, prendendo a laureada com o Prêmio Nobel da Paz e desencadeando uma guerra civil em andamento que matou mais de 100.000 pessoas em todos os lados.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/03/myanmars-former-leader-aung-san-suu-kyi-meets-red-cross-official-presidents-office-says",
           "publicado_em": "2026-08-03T06:13:04.000Z"
-        },
-        {
-          "id": "euronews-2026-08-03-2114",
-          "titulo": "Ministério das Relações Exteriores do Irã contradiz Trump e diz que não há negociações em andamento com os EUA",
-          "resumo": "Washington e Teerã estão em guerra desde 28 de fevereiro, quando os EUA e Israel lançaram ataques surpresa contra o Irã, embora meses de diplomacia intermitente tenham levado a períodos de calma relativa.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/03/trump-says-new-iran-talks-set-to-start-on-monday-after-calling-off-massive-attack",
-          "publicado_em": "2026-08-03T05:26:30.000Z"
-        },
-        {
-          "id": "euronews-2026-08-03-2116",
-          "titulo": "Lula da Silva lança formalmente sua candidatura à presidência do Brasil",
-          "resumo": "O Partido dos Trabalhadores do Brasil se reúne para confirmar a candidatura de Lula da Silva em outubro. Aos 80 anos, o veterano de esquerda enfrenta o liberal de direita Flávio Bolsonaro em outra corrida polarizada entre Lula e Bolsonaro.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/03/lula-da-silva-formally-launches-bid-for-brazils-presidency",
-          "publicado_em": "2026-08-03T02:48:20.000Z"
-        },
-        {
-          "id": "euronews-2026-08-03-2117",
-          "titulo": "Helicópteros e bombeiros combatem incêndio florestal rápido perto de Atenas",
-          "resumo": "Bombeiros e helicópteros combateram um incêndio florestal rápido a oeste de Atenas, à medida que ventos fortes alimentaram as chamas e forçaram operações de emergência na área.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/08/02/helicopters-and-firefighters-fight-fast-moving-wildfire-near-athens",
-          "publicado_em": "2026-08-02T19:26:03.000Z"
-        },
-        {
-          "id": "euronews-2026-08-03-2120",
-          "titulo": "Pelo menos cinco mortos e 41 desaparecidos após um ferry indonésio pegar fogo no mar",
-          "resumo": "Um total de 225 pessoas no ferry foram resgatadas, enquanto alguns passageiros pularam no mar para escapar do fogo, de acordo com a Basarnas, a Agência Nacional de Busca e Resgate da Indonésia.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/02/at-least-five-dead-and-41-missing-after-an-indonesian-ferry-caught-fire-at-sea",
-          "publicado_em": "2026-08-02T11:23:32.000Z"
-        },
-        {
-          "id": "euronews-2026-08-03-2122",
-          "titulo": "Trump diz que está cancelando ataques ao Irã, pois 'os limites de um acordo' foram acordados",
-          "resumo": "Na sexta-feira, Trump havia dito que estava 'perdendo a fé' na perspectiva de um acordo de paz e ameaçou atingir o Irã 'muito forte'.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/02/trump-says-hes-cancelling-strikes-on-iran-as-perimeters-of-a-deal-agreed",
-          "publicado_em": "2026-08-02T06:10:02.000Z"
-        },
-        {
-          "id": "euronews-2026-08-03-2124",
-          "titulo": "Rio Reno atinge nível recorde de baixa à medida que a seca afeta a Alemanha",
-          "resumo": "Níveis de água recorde de baixa no rio Reno deixaram barcos presos em Colônia, à medida que o calor prolongado e a seca empurraram a via fluvial mais movimentada da Alemanha para seu nível mais baixo já registrado.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/08/02/rhine-river-hits-record-low-as-drought-grips-germany",
-          "publicado_em": "2026-08-02T15:30:03.000Z"
         }
       ]
     },
