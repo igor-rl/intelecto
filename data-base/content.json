@@ -6,11 +6,11 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Crise migratória em Ceuta",
-    "subtitulo": "Enquanto a Europa debate fronteiras mais fortes, a crise em Ceuta expõe divisões dentro da UE",
-    "resumo": "A crise migratória em Ceuta continua a dominar os noticiários, com a presidente da Comissão Europeia, Ursula von der Leyen, defendendo fronteiras mais fortes da UE. Enquanto isso, a Espanha nega ter ignorado avisos de seu serviço de inteligência sobre a chegada em massa de migrantes. A crise expõe as divisões dentro da Europa sobre como lidar com a migração. Em outros temas, a Rússia realizou o primeiro voo de um avião MC-21 de produção em massa, e a Índia exigiu desculpas de Mark Zuckerberg por remover um vídeo postado pelo primeiro-ministro Modi. A crise migratória em Ceuta é um exemplo de como a migração pode ser um tema complexo e multifacetado, com diferentes perspectivas e abordagens dentro da UE.",
+    "titulo": "Crise em Ceuta: Espanha e Marrocos trocam acusações",
+    "subtitulo": "Mortos e feridos em confrontos de fronteira, enquanto a UE debate reforço de fronteiras",
+    "resumo": "A crise migratória em Ceuta continua a gerar tensões entre a Espanha e o Marrocos, com ambos os países trocando acusações sobre a responsabilidade pelos incidentes violentos na fronteira. Enquanto a União Europeia discute o reforço das fronteiras, a situação humanitária se agrava. Em outros temas, a guerra no Oriente Médio e a situação na Ucrânia também dominam as manchetes. A China está preparada para atacar a qualquer momento com seu míssil hipersônico DF-17, e a Rússia enfrenta críticas sobre sua atuação na Crimeia. Além disso, a África Ocidental lida com inundações e a descoberta de poluição por petróleo no Congo-Kinshasa.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-08-03T08:00:00-03:00",
+    "publicado_em": "2026-08-04T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -866,36 +866,51 @@
   "temas_principais": [
     {
       "tema": "Crise migratória em Ceuta",
-      "descricao": "A crise migratória em Ceuta continua a dominar os noticiários, com a presidente da Comissão Europeia defendendo fronteiras mais fortes da UE.",
+      "descricao": "Conflitos de fronteira entre a Espanha e o Marrocos",
       "fontes_que_cobriram": [
         "the_guardian",
-        "euronews",
-        "scmp"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
         "rt"
       ],
-      "divergencia_de_enquadramento": "A crise é apresentada de forma diferente pelas fontes, com alguns destacando a necessidade de fronteiras mais fortes e outros enfatizando a necessidade de uma abordagem mais humanitária."
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "scmp"
+      ],
+      "divergencia_de_enquadramento": "A Espanha e o Marrocos têm versões diferentes sobre a crise"
     },
     {
-      "tema": "Primeiro voo do avião MC-21 da Rússia",
-      "descricao": "A Rússia realizou o primeiro voo de um avião MC-21 de produção em massa.",
+      "tema": "Guerra no Oriente Médio",
+      "descricao": "Desenvolvimentos na Faixa de Gaza e no Estreito de Ormuz",
       "fontes_que_cobriram": [
-        "rt",
-        "mt"
+        "new_york_times",
+        "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian",
-        "new_york_times"
+        "aa"
       ],
-      "divergencia_de_enquadramento": "A notícia é apresentada de forma positiva pelas fontes russas, enquanto as fontes ocidentais a ignoram ou minimizam."
+      "divergencia_de_enquadramento": "Diferentes perspectivas sobre as negociações e os conflitos"
+    },
+    {
+      "tema": "Ucrânia e Rússia",
+      "descricao": "Desenvolvimentos na Crimeia e nas relações entre a Ucrânia e a Rússia",
+      "fontes_que_cobriram": [
+        "mt",
+        "st"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "smh"
+      ],
+      "divergencia_de_enquadramento": "Diferentes visões sobre a situação na Crimeia e as relações entre a Ucrânia e a Rússia"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Leis anti-LGBTQ+ na África Ocidental",
-      "por_que_importa": "As leis anti-LGBTQ+ na África Ocidental são um tema importante que está sendo subcoberto pela mídia.",
-      "cobertura": "Apenas o The Guardian cobriu o tema, destacando a crescente onda de leis anti-LGBTQ+ na região."
+      "tema": "Inundações na África Ocidental",
+      "por_que_importa": "Afeta a vida de milhares de pessoas",
+      "cobertura": "Pouca cobertura na imprensa ocidental"
+    },
+    {
+      "tema": "Poluição por petróleo no Congo-Kinshasa",
+      "por_que_importa": "Impacto ambiental e humano",
+      "cobertura": "Quase nenhuma cobertura na imprensa internacional"
     }
   ]
 }
