@@ -5,12 +5,12 @@
   "itens_urgentes": {},
   "destaques": [],
   "capa": {
-    "categoria_nome": "Crise Migratória e Conflitos Globais",
-    "titulo": "Migração em Massa em Ceuta: Tensões na Europa",
-    "subtitulo": "Enquanto a crise migratória em Ceuta expõe divisões dentro da Europa, outros conflitos globais como a guerra na Ucrânia e a rivalidade EUA-Irã continuam a evoluir",
-    "resumo": "A crise migratória em Ceuta, com mais de 50.000 pessoas tentando cruzar a fronteira da Espanha com o Marrocos, expôs as profundas divisões dentro da Europa sobre como lidar com a imigração. Enquanto isso, a guerra na Ucrânia continua com a Rússia sendo acusada de cometer crimes de guerra, e a rivalidade entre os EUA e o Irã permanece tensa, com esforços de mediação em andamento. A África também enfrenta desafios, com inundações devastadoras e a ameaça de cibercrimes habilitados por inteligência artificial. Esses eventos globais destacam a complexidade e a interconexão dos desafios enfrentados pelas nações hoje.",
+    "categoria_nome": "O que marcou o dia?",
+    "titulo": "Tensões globais: Ceuta, Ucrânia e desafios ambientais",
+    "subtitulo": "Enquanto a crise em Ceuta e a guerra na Ucrânia dominam manchetes, desafios ambientais como El Niño e perda de biodiversidade são subcobertos",
+    "resumo": "O dia foi marcado por tensões globais, com a crise em Ceuta e a guerra na Ucrânia dominando as manchetes. No entanto, desafios ambientais como o El Niño, que pode empurrar 50 milhões de pessoas para a fome aguda, e a perda de biodiversidade na África, que afeta milhões de pessoas, são subcobertos. A Rússia atacou hubs logísticos em Kiev, enquanto a China anunciou 'contramedidas' após sanções comerciais dos EUA. A União Europeia usará €1,4 bilhão de juros de ativos russos congelados para ajudar a Ucrânia. Enquanto isso, a África enfrenta desafios como a perda de biodiversidade e a crise da biodiversidade, que não é um problema abstrato, mas sim uma realidade que afeta milhões de africanos.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-08-04T08:00:00-03:00",
+    "publicado_em": "2026-08-05T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -979,53 +979,53 @@
   },
   "temas_principais": [
     {
-      "tema": "Crise Migratória em Ceuta",
-      "descricao": "Mais de 50.000 pessoas tentam cruzar a fronteira da Espanha com o Marrocos, expondo divisões na Europa sobre imigração",
+      "tema": "Crise em Ceuta",
+      "descricao": "A crise em Ceuta, com centenas de pessoas se reunindo perto da fronteira em ansiosa espera por entes queridos desaparecidos, é um dos principais temas do dia.",
       "fontes_que_cobriram": [
         "the_guardian",
-        "euronews",
-        "scmp"
+        "euronews"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
         "rt"
       ],
-      "divergencia_de_enquadramento": "Enquanto some fontes enfatizam a necessidade de controle de fronteiras, outras destacam a crise humanitária e a necessidade de solidariedade"
+      "divergencia_de_enquadramento": "Enquanto o The Guardian destaca a ansiedade e a espera por entes queridos, a Euronews fala sobre a normalidade em Ceuta."
     },
     {
       "tema": "Guerra na Ucrânia",
-      "descricao": "A Rússia é acusada de cometer crimes de guerra, e a Ucrânia sofre com ataques de drones",
+      "descricao": "A guerra na Ucrânia, com a Rússia atacando hubs logísticos em Kiev, é outro tema principal do dia.",
       "fontes_que_cobriram": [
-        "euronews",
-        "smh",
-        "mt"
+        "rt",
+        "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "rt"
+        "the_guardian"
       ],
-      "divergencia_de_enquadramento": "Fontes ocidentais condenam a Rússia, enquanto a Rússia e seus aliados apresentam uma narrativa diferente"
+      "divergencia_de_enquadramento": "Enquanto a Rússia Today destaca os ataques como uma resposta legítima, o The Straits Times fala sobre a gravidade da situação."
     },
     {
-      "tema": "Rivalidade EUA-Irã",
-      "descricao": "Esforços de mediação estão em andamento para encerrar a guerra, com a possibilidade de um acordo",
+      "tema": "Desafios ambientais",
+      "descricao": "Desafios ambientais como o El Niño e a perda de biodiversidade na África são subcobertos, mas importantes.",
       "fontes_que_cobriram": [
-        "new_york_times",
-        "st",
-        "scmp"
+        "the_guardian",
+        "aa"
       ],
-      "fontes_que_ignoraram_ou_minimizaram": [],
-      "divergencia_de_enquadramento": "Fontes ocidentais destacam os esforços de mediação, enquanto fontes do Oriente Médio podem ter perspectivas diferentes sobre o conflito"
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "rt",
+        "st"
+      ],
+      "divergencia_de_enquadramento": "Enquanto o The Guardian destaca a gravidade do El Niño, a AllAfrica fala sobre a perda de biodiversidade na África."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Inundações na África Ocidental",
-      "por_que_importa": "As inundações afetam milhares de pessoas, com necessidade de ajuda humanitária",
-      "cobertura": "Apenas a AllAfrica deu cobertura significativa ao tema"
+      "tema": "Perda de biodiversidade na África",
+      "por_que_importa": "A perda de biodiversidade na África afeta milhões de pessoas e é um desafio importante para o continente.",
+      "cobertura": "Apenas a AllAfrica cobriu esse tema, enquanto outros veículos de imprensa o ignoraram ou minimizaram."
     },
     {
-      "tema": "Cibercrimes na África",
-      "por_que_importa": "Mais da metade dos cibercrimes na África são habilitados por inteligência artificial, representando um desafio significativo",
-      "cobertura": "Apenas a AllAfrica abordou o tema"
+      "tema": "El Niño",
+      "por_que_importa": "O El Niño pode empurrar 50 milhões de pessoas para a fome aguda e é um desafio importante para a comunidade global.",
+      "cobertura": "Apenas o The Guardian cobriu esse tema, enquanto outros veículos de imprensa o ignoraram ou minimizaram."
     }
   ]
 }
