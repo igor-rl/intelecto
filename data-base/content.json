@@ -223,74 +223,98 @@
     "euronews": {
       "slug": "euronews",
       "nome": "Euro News",
-      "gerado_em": "2026-08-05T10:00:21.926Z",
+      "gerado_em": "2026-08-05T21:00:19.698Z",
       "artigos": [
         {
-          "id": "euronews-2026-08-05-1001",
-          "titulo": "Irmã de Kim Jong-un avisa sobre opções militares devido à mudança do Japão para um 'estado de guerra'",
+          "id": "euronews-2026-08-05-2101",
+          "titulo": "IDF continuará a 'operar proativamente' na Faixa de Gaza, diz chefe militar israelense",
+          "resumo": "A declaração veio após o primeiro-ministro israelense Benjamin Netanyahu dizer que Israel não concordou com um plano apoiado pelos EUA para a Faixa de Gaza.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/05/idf-to-continue-to-operate-proactively-in-gaza-military-chief-says",
+          "publicado_em": "2026-08-05T19:42:25.000Z"
+        },
+        {
+          "id": "euronews-2026-08-05-2102",
+          "titulo": "Democrata de esquerda Abdul El-Sayed derrota candidato estabelecido em vitória primária surpreendente em Michigan",
+          "resumo": "A vitória de Abdul El-Sayed em Michigan ocorre enquanto o Partido Democrata luta para se definir na era Trump.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/05/leftist-democrat-abdul-el-sayed-defeats-establishment-candidate-in-shock-michigan-primary-",
+          "publicado_em": "2026-08-05T16:22:13.000Z"
+        },
+        {
+          "id": "euronews-2026-08-05-2103",
+          "titulo": "Irã e Omã concordam com rota para navios no Estreito de Ormuz, diz Teerã",
+          "resumo": "Teerã anunciou que Irã e Omã concordaram com a rota geográfica para o tráfego de navios no Estreito de Ormuz, alegando que os EUA não estiveram envolvidos no acordo.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/05/iran-and-oman-agree-route-for-ships-in-strait-of-hormuz-tehran-says",
+          "publicado_em": "2026-08-05T16:14:39.000Z"
+        },
+        {
+          "id": "euronews-2026-08-05-2108",
+          "titulo": "Kim Yo Jong, irmã de Kim Jong-un, alerta sobre opções militares sobre a mudança do Japão para um 'estado de guerra'",
           "resumo": "O Japão tem se afastado gradualmente de seu status pacifista pós-Segunda Guerra Mundial, aumentando os gastos militares, ampliando pactos de defesa e implantando lançadores de mísseis em suas ilhas externas.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/05/north-koreas-kim-yo-jong-warns-of-military-options-over-japans-move-into-war-state",
           "publicado_em": "2026-08-05T09:47:03.000Z"
         },
         {
-          "id": "euronews-2026-08-05-1002",
-          "titulo": "Incêndios devastam após ataque de mísseis e drones russos em Kiev",
-          "resumo": "Bombeiros lutam contra vários incêndios em armazéns e prédios após ataques de mísseis e drones russos que mataram pelo menos 15 pessoas e feriram 42 em Kiev e regiões circundantes.",
+          "id": "euronews-2026-08-05-2110",
+          "titulo": "Incêndios irrompem após ataque de mísseis e drones russos em Kiev",
+          "resumo": "Bombeiros lutaram contra vários incêndios em armazéns e prédios durante a noite após ataques de mísseis e drones russos que mataram pelo menos 15 pessoas e feriram 42 em Kiev e regiões circundantes.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/08/05/fires-rage-after-russian-missile-and-drone-attack-on-kyiv",
           "publicado_em": "2026-08-05T08:24:46.000Z"
         },
         {
-          "id": "euronews-2026-08-05-1003",
-          "titulo": "Raiva, medo, choque e compaixão: o caminho incerto de Ceuta de volta à normalidade",
-          "resumo": "Nosso repórter Julián López Gómez chegou à Cidade Autônoma dois dias após pelo menos 72.000 pessoas cruzarem ilegalmente sua fronteira com o Marrocos. Em meio à confusão generalizada, ansiedade e perplexidade, t...",
+          "id": "euronews-2026-08-05-2111",
+          "titulo": "Ceuta: raiva, medo, choque e compaixão - o caminho incerto de volta à normalidade",
+          "resumo": "Nosso repórter Julián López Gómez chegou à Cidade Autônoma apenas dois dias após pelo menos 72.000 pessoas cruzarem ilegalmente sua fronteira com o Marrocos.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/05/anger-fear-shock-and-compassion-ceutas-uncertain-path-back-to-normality",
           "publicado_em": "2026-08-05T07:36:28.000Z"
         },
         {
-          "id": "euronews-2026-08-05-1004",
+          "id": "euronews-2026-08-05-2112",
           "titulo": "Erupção do vulcão Fuego força evacuações em massa na Guatemala",
-          "resumo": "A Guatemala elevou o alerta para vermelho e evacuou 659 pessoas de oito aldeias após a erupção do vulcão Fuego na segunda-feira, que expeliu fontes de lava e fluxos piroclásticos pelas encostas.",
+          "resumo": "A Guatemala elevou o alerta para vermelho e evacuou 659 pessoas de oito aldeias após a erupção do vulcão Fuego na segunda-feira, que espalhou fontes de lava e fluxos piroclásticos pelas encostas.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/08/05/fuego-volcano-eruption-forces-mass-evacuations-in-guatemala",
           "publicado_em": "2026-08-05T06:40:16.000Z"
         },
         {
-          "id": "euronews-2026-08-05-1005",
+          "id": "euronews-2026-08-05-2113",
           "titulo": "Oito estudantes sul-coreanos detidos por tentativa de invasão de base militar dos EUA",
-          "resumo": "Estudantes se reuniram do lado de fora do principal hub da Força Aérea dos EUA na Coreia do Sul, argumentando que a presença militar dos EUA em Gwangju pode complicar o projeto de fabricação de chips da Coreia do Sul planejado para lá.",
+          "resumo": "Estudantes se reuniram do lado de fora do principal hub da Força Aérea dos EUA na Coreia do Sul, argumentando que a presença militar dos EUA em Gwangju poderia complicar o projeto de fabricação de chips de Seoul planejado para lá.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/05/eight-south-korean-students-held-over-us-military-base-break-in-attempt",
           "publicado_em": "2026-08-05T06:38:03.000Z"
         },
         {
-          "id": "euronews-2026-08-05-1008",
-          "titulo": "Brasil e Argentina reduzem relações diplomáticas para 'Encarregado de Negócios'",
-          "resumo": "Brasília solicitou o retorno do embaixador da Argentina e reduziu a representação diplomática para o nível de Encarregado de Negócios, após o presidente argentino Javier Milei chamar o presidente Luiz Inácio Lula da Silva de...",
+          "id": "euronews-2026-08-05-2116",
+          "titulo": "Relações diplomáticas entre Brasil e Argentina são rebaixadas para 'Encarregado de Negócios'",
+          "resumo": "Brasília solicitou o retorno do embaixador da Argentina e reduziu a representação diplomática para o nível de Encarregado de Negócios, após o presidente argentino Javier Milei chamar o presidente Luiz Inácio Lula da Silva de 'inimigo da Argentina'.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/05/brazil-argentina-diplomatic-relations-downgrade-to-charge-daffaires",
           "publicado_em": "2026-08-05T04:14:09.000Z"
         },
         {
-          "id": "euronews-2026-08-05-1009",
-          "titulo": "Trump diz que acordo para abrir o Estreito de Ormuz pode ser feito até quarta-feira, ou o Irã será atingido 'muito forte'",
-          "resumo": "O Irã tem apertado seu controle sobre Ormuz e deseja controlar o estreito e cobrar pedágios, poderes que não exercia antes da guerra começar em 28 de fevereiro.",
+          "id": "euronews-2026-08-05-2117",
+          "titulo": "Trump diz que acordo para abrir o Estreito de Ormuz pode ser fechado até quarta-feira, ou Irã será atingido 'muito forte'",
+          "resumo": "O Irã tem apertado seu controle sobre Ormuz e deseja controlar o estreito e cobrar pedágios, poderes que não exercia antes do início da guerra em 28 de fevereiro.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/05/iran-and-oman-draft-waterway-deal-while-trump-rejects-tehrans-control-and-transit-fees",
           "publicado_em": "2026-08-05T02:54:57.000Z"
         },
         {
-          "id": "euronews-2026-08-05-1010",
+          "id": "euronews-2026-08-05-2118",
           "titulo": "Netanyahu rejeita retirada de Gaza até que o Hamas desarme",
-          "resumo": "Benjamin Netanyahu rejeitou um acordo apoiado pelos EUA para Gaza, dizendo que Israel não se retirará do território até que o Hamas esteja completamente desarmado, apesar dos esforços de Washington para avançar um cessar-fogo...",
+          "resumo": "Benjamin Netanyahu se opôs a um plano apoiado pelos EUA para Gaza, dizendo que Israel não se retirará do território até que o Hamas esteja completamente desarmado, apesar dos esforços de Washington para avançar um cessar-fogo.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/04/netanyahu-rejects-gaza-withdrawal-until-hamas-disarms",
           "publicado_em": "2026-08-04T20:31:52.000Z"
         },
         {
-          "id": "euronews-2026-08-05-1011",
+          "id": "euronews-2026-08-05-2119",
           "titulo": "OMS pede mais apoio para combater surto de ebola",
           "resumo": "Apesar de ter sido declarado menos de três meses atrás, o surto já se tornou o maior já registrado na República Democrática do Congo.",
           "imagem": null,
@@ -298,60 +322,28 @@
           "publicado_em": "2026-08-04T18:14:37.000Z"
         },
         {
-          "id": "euronews-2026-08-05-1013",
-          "titulo": "Civil morto caçado e atacado por drone russo em Kherson",
-          "resumo": "A polícia ucraniana divulgou imagens mostrando um civil sendo perseguido por um drone russo FPV em um mercado na cidade meridional de Kherson. De acordo com a polícia, o homem de 52 anos sobreviveu ao ataque...",
+          "id": "euronews-2026-08-05-2121",
+          "titulo": "Civil detido e atacado por drone russo em Kherson",
+          "resumo": "A polícia ucraniana divulgou imagens mostrando um civil sendo perseguido por um drone russo de visão remota em um mercado na cidade sul de Kherson.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/08/04/civilian-hunted-and-attacked-by-russian-drone-in-kherson",
           "publicado_em": "2026-08-04T13:30:33.000Z"
         },
         {
-          "id": "euronews-2026-08-05-1014",
+          "id": "euronews-2026-08-05-2122",
           "titulo": "Catar diz que toda a região está envolvida em parar a escalada da guerra, mas ainda não há negociações diretas",
-          "resumo": "A mediação EUA-Irã está em estágio avançado, mas não há negociações diretas previstas no momento, enquanto Doha pede o retorno à navegação livre pelo Estreito de Ormuz. O Catar pede pressão sobre Israel para...",
+          "resumo": "O Catar afirma que a mediação EUA-Irã está em estágio avançado, mas não se espera negociações diretas no momento, enquanto Doha pede a volta à navegação livre pelo Hormuz.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/04/qatar-says-whole-region-engaged-in-stopping-war-escalation-but-no-direct-talks-yet",
           "publicado_em": "2026-08-04T13:18:24.000Z"
         },
         {
-          "id": "euronews-2026-08-05-1015",
-          "titulo": "Grécia: Bombeiros combatem grande incêndio florestal enquanto ventos fortes alimentam as chamas",
-          "resumo": "Centenas de bombeiros, apoiados por helicópteros e aeronaves que lançam água, combatem um grande incêndio florestal a oeste de Atenas.",
+          "id": "euronews-2026-08-05-2123",
+          "titulo": "Grécia: bombeiros lutam contra grande incêndio florestal enquanto ventos fortes alimentam as chamas",
+          "resumo": "Centenas de bombeiros, apoiados por helicópteros e aeronaves que lançam água, lutam contra um grande incêndio florestal a oeste de Atenas.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/08/04/greece-firefighters-battle-major-wildfire-as-strong-winds-fuel-flames",
           "publicado_em": "2026-08-04T11:20:46.000Z"
-        },
-        {
-          "id": "euronews-2026-08-05-1017",
-          "titulo": "Soldado mata quatro, incluindo civis, na Crimeia, diz governador instalado por Moscou",
-          "resumo": "A Crimeia, uma península anexada ilegalmente pela Rússia em 2014, tem sido alvo de ataques retaliatórios ucranianos visando interromper a logística das forças russas implantadas na região...",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/04/soldier-kills-four-including-civilians-in-crimea-moscow-installed-governor-says",
-          "publicado_em": "2026-08-04T08:19:12.000Z"
-        },
-        {
-          "id": "euronews-2026-08-05-1018",
-          "titulo": "Casas queimadas, carros enegrecidos: incêndios florestais na Grécia deixam um rastro de destruição em Porto Germeno",
-          "resumo": "Porto Germeno enfrenta danos graves de incêndios florestais enquanto a Grécia entra na segunda semana de grandes incêndios. Bombeiros permanecem implantados e pelo menos cinco pessoas morreram.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/08/04/burned-homes-blackened-cars-greek-wildfires-leave-trail-of-destruction-in-porto-germeno",
-          "publicado_em": "2026-08-04T07:57:00.000Z"
-        },
-        {
-          "id": "euronews-2026-08-05-1020",
-          "titulo": "Sri Lanka fecha escolas à medida que fortes chuvas desencadeiam inundações e deslizamentos de terra, matando pelo menos cinco",
-          "resumo": "Deslizamentos de terra e inundações são entre os desastres naturais mais destrutivos, causando danos graves à vida e propriedade em Sri Lanka todos os anos.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/04/sri-lanka-closes-schools-as-heavy-rains-trigger-floods-and-mudslides-killing-at-least-five",
-          "publicado_em": "2026-08-04T08:35:52.000Z"
-        },
-        {
-          "id": "euronews-2026-08-05-1022",
-          "titulo": "Autoridades da Guatemala emitem alerta de 'perigo' após erupção do vulcão Fuego",
-          "resumo": "A Guatemala está localizada no 'Anel de Fogo' do Pacífico e experimenta frequentes atividades sísmicas e vulcânicas.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/04/guatemalan-authorities-issue-danger-alert-after-fuego-volcano-erupts",
-          "publicado_em": "2026-08-04T05:10:01.000Z"
         }
       ]
     },
