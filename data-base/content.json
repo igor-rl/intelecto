@@ -105,63 +105,119 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-08-04T21:00:01.746Z",
+      "gerado_em": "2026-08-05T10:00:01.965Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-08-04-2103",
-          "titulo": "Um Trump Iraado Luta para Entender os Líderes Defiantes do Irã",
-          "resumo": "Os líderes do Irã têm perplexo vários presidentes americanos, talvez nenhum mais do que o Presidente Trump.",
+          "id": "new_york_times-2026-08-05-1001",
+          "titulo": "William Lawrence Vence Primária em Distrito da Câmara de Michigan",
+          "resumo": "William Lawrence derrotou dois candidatos moderados para desafiar um republicano vulnerável, mas alguns temem que suas visões possam prejudicar suas chances em novembro.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/04/us/politics/maasdam-lawrence-michigan-primary.html",
+          "publicado_em": "2026-08-05T06:52:43.000Z"
+        },
+        {
+          "id": "new_york_times-2026-08-05-1002",
+          "titulo": "Governadora Democrata do Arizona Pronta para Escolher um Companheiro de Chapa Republicano",
+          "resumo": "A governadora Katie Hobbs, travando uma batalha de reeleição competitiva, planeja escolher um ex-prefeito moderado de Mesa, Ariz., John Giles, para servir como seu vice-governador se ela vencer em novembro.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/04/us/elections/arizona-governor-running-mate.html",
+          "publicado_em": "2026-08-05T01:39:48.000Z"
+        },
+        {
+          "id": "new_york_times-2026-08-05-1003",
+          "titulo": "Confronto no Salão Oval Entre Trump e Jeanine Pirro",
+          "resumo": "Jeanine Pirro, procuradora dos EUA para o Distrito de Columbia, disse ao presidente Trump que seu secretário do interior, Doug Burgum, o havia enganado com uma história de capa auto-servicial para seus próprios erros.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html",
+          "publicado_em": "2026-08-05T05:03:29.000Z"
+        },
+        {
+          "id": "new_york_times-2026-08-05-1004",
+          "titulo": "Todd Blanche Aprova Voto do Comitê, Próximo à Confirmação como Procurador-Geral",
+          "resumo": "A nomeação de Todd Blanche agora avança para o plenário do Senado, onde não estava imediatamente claro se ele seria confirmado, considerando que ele pode perder apenas dois senadores em um voto de partido.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/04/us/politics/blanche-confirmation-attorney-general-justice-department.html",
+          "publicado_em": "2026-08-04T23:15:22.000Z"
+        },
+        {
+          "id": "new_york_times-2026-08-05-1005",
+          "titulo": "Trump Luta para Entender Líderes Iraquianos Desafiadores",
+          "resumo": "Os líderes iranianos perplexaram vários presidentes americanos, talvez nenhum mais do que o presidente Trump.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/08/04/us/politics/trump-iran.html",
           "publicado_em": "2026-08-04T19:20:37.000Z"
         },
         {
-          "id": "new_york_times-2026-08-04-2104",
-          "titulo": "Acordo no Estreito de Hormuz com o Irã é Possível Em Breve, Diz Bessent",
-          "resumo": "O Catar disse que uma linguagem de projeto de acordo estava sendo circulada, enquanto o Secretário de Estado Marco Rubio expressou otimismo sobre as conversas, mas acrescentou que nada estava finalizado ainda.",
+          "id": "new_york_times-2026-08-05-1006",
+          "titulo": "Como a Guerra na Ucrânia se Tornou uma Luta pelos Céus",
+          "resumo": "Rússia e Ucrânia estão produzindo números cada vez maiores de armas aéreas inovadoras, esperando por um avanço, já que o combate terrestre está基本amente congelado.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/04/world/middleeast/strait-of-hormuz-deal-progress.html",
-          "publicado_em": "2026-08-04T17:57:27.000Z"
+          "link": "https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html",
+          "publicado_em": "2026-08-05T08:52:43.000Z"
         },
         {
-          "id": "new_york_times-2026-08-04-2106",
-          "titulo": "Max Miller Ignora Aviso de Trump e Avança em Ohio",
-          "resumo": "Os republicanos esperavam que um empurrão do Presidente Trump persuadisse o congressista em apuros a desistir de sua candidatura à reeleição diante de alegações de abuso.",
+          "id": "new_york_times-2026-08-05-1007",
+          "titulo": "Ataque com Míssil Russo em Kiev Explora Defesas Aéreas Depletadas da Ucrânia",
+          "resumo": "Pelo menos 17 pessoas foram mortas, disseram os funcionários, à medida que o país corre desesperadamente baixo em mísseis interceptores que poderiam repelir os bombardeios russos.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/04/us/politics/max-miller-ohio-congress-trump.html",
-          "publicado_em": "2026-08-04T19:49:35.000Z"
+          "link": "https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html",
+          "publicado_em": "2026-08-05T07:58:16.000Z"
         },
         {
-          "id": "new_york_times-2026-08-04-2112",
-          "titulo": "Incêndio de Eaton Causado por Torre de Transmissão de Utilidade, Diz Relatório",
-          "resumo": "O incêndio de 2025, que matou 19 pessoas e destruiu a comunidade de Altadena no Condado de Los Angeles, começou em uma torre inativa pertencente à Southern California Edison, disseram os funcionários.",
+          "id": "new_york_times-2026-08-05-1008",
+          "titulo": "Nãofumantes na China Tentam Limpar o Ar, um Confronto de Cada Vez",
+          "resumo": "Disputas entre fumantes e não fumantes estão se tornando mais visíveis à medida que uma geração mais jovem cada vez mais se recusa a sofrer em silêncio com a fumaça passiva.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/05/world/asia/china-cigarette-smoking.html",
+          "publicado_em": "2026-08-05T04:00:05.000Z"
+        },
+        {
+          "id": "new_york_times-2026-08-05-1009",
+          "titulo": "Oficiais Dizem que Encontraram a Causa de um Incêndio que Devastou Los Angeles",
+          "resumo": "O incêndio de Eaton de 2025, que matou 19 pessoas e destruiu a comunidade de Altadena, começou em uma torre inativa pertencente à Southern California Edison, disseram os oficiais.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/08/04/us/eaton-fire-cause-transmission-tower-report.html",
-          "publicado_em": "2026-08-04T20:38:00.000Z"
+          "publicado_em": "2026-08-04T23:07:39.000Z"
         },
         {
-          "id": "new_york_times-2026-08-04-2118",
-          "titulo": "Um Mosquito Invasivo Está se Espalhando com Velocidade Aterradora, Ameaçando as Cidades da África",
-          "resumo": "O mosquito que transmite a malária é resistente a todos os inseticidas. Os cientistas estão correndo para encontrar maneiras de diminuir o risco.",
+          "id": "new_york_times-2026-08-05-1010",
+          "titulo": "S&P 500 Atinge Recorde Histórico à Medida que Preocupações com o Irã e a IA se Acalmam",
+          "resumo": "O S&P 500 subiu 1,8%, ultrapassando seu pico anterior no início de junho e encerrando uma grande reviravolta de uma recente venda de ações de tecnologia.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/04/us/politics/mosquito-africa-anopheles-stephensi.html",
-          "publicado_em": "2026-08-04T15:37:08.000Z"
+          "link": "https://www.nytimes.com/2026/08/04/business/stock-market-record.html",
+          "publicado_em": "2026-08-04T22:05:38.000Z"
         },
         {
-          "id": "new_york_times-2026-08-04-2120",
-          "titulo": "O que os Ditadores Mais Temem? Basta Perguntar à Nicarágua",
-          "resumo": "A Nicarágua mostra o que acontece quando até mesmo os ditadores temem uma eleição fraudada.",
+          "id": "new_york_times-2026-08-05-1011",
+          "titulo": "Casa Branca de Trump Prepara Estrutura de AI para Revisar Riscos de Segurança",
+          "resumo": "O processo de revisão voluntário cobrirá modelos de inteligência artificial de código fechado, mas excluirá aqueles que publicam o código subjacente.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/04/opinion/nicaragua-ortega-murillo-elections.html",
-          "publicado_em": "2026-08-04T19:50:55.000Z"
+          "link": "https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html",
+          "publicado_em": "2026-08-05T00:17:54.000Z"
         },
         {
-          "id": "new_york_times-2026-08-04-2122",
-          "titulo": "Homem Preso sob Suspeita de Incêndio Criminoso em Incêndio Florestal de Spokane",
-          "resumo": "Aaron Farinacci, 37, foi preso após um testemunha relatar ter visto ele ajoelhado perto do local de ignição, disseram os funcionários. Ventos foram previstos para aumentar na sexta e sábado, trazendo um retorno a condições extremas.",
+          "id": "new_york_times-2026-08-05-1014",
+          "titulo": "Coreia do Sul Quer Aumentar sua Taxa de Nascimento, mas Não Tem Muitos Médicos de UTI Neonatal",
+          "resumo": "A Coreia do Sul, que tem uma das taxas de fertilidade mais baixas do mundo, está sofrendo uma crise na assistência de emergência, particularmente aguda para recém-nascidos de risco.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/04/us/spokane-wildfires-arson-arrest.html",
-          "publicado_em": "2026-08-04T16:39:56.000Z"
+          "link": "https://www.nytimes.com/2026/08/04/world/asia/south-korea-birth-rate-nicu-crisis.html",
+          "publicado_em": "2026-08-04T21:00:06.000Z"
+        },
+        {
+          "id": "new_york_times-2026-08-05-1015",
+          "titulo": "Juiz Condena ao Dismissar Cargos Contra Oath Keepers",
+          "resumo": "O juiz, Amit P. Mehta, criticou o pedido de dispensa do governo no caso, dizendo que concedeu “graça não merecida” aos réus da Oath Keepers “apagando seus registros limpos”.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/04/us/politics/jan-6-charges-oath-keepers-dismissed.html",
+          "publicado_em": "2026-08-05T08:39:04.000Z"
+        },
+        {
+          "id": "new_york_times-2026-08-05-1006",
+          "titulo": "Como a Guerra na Ucrânia se Tornou uma Luta pelos Céus",
+          "resumo": "Rússia e Ucrânia estão produzindo números cada vez maiores de armas aéreas inovadoras, esperando por um avanço, já que o combate terrestre está基本amente congelado.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html",
+          "publicado_em": "2026-08-05T08:52:43.000Z"
         }
       ]
     },
