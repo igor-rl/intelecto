@@ -5,10 +5,10 @@
   "itens_urgentes": {},
   "destaques": [],
   "capa": {
-    "categoria_nome": "O que marcou o dia?",
-    "titulo": "Tensões globais: Ceuta, Ucrânia e desafios ambientais",
-    "subtitulo": "Enquanto a crise em Ceuta e a guerra na Ucrânia dominam manchetes, desafios ambientais como El Niño e perda de biodiversidade são subcobertos",
-    "resumo": "O dia foi marcado por tensões globais, com a crise em Ceuta e a guerra na Ucrânia dominando as manchetes. No entanto, desafios ambientais como o El Niño, que pode empurrar 50 milhões de pessoas para a fome aguda, e a perda de biodiversidade na África, que afeta milhões de pessoas, são subcobertos. A Rússia atacou hubs logísticos em Kiev, enquanto a China anunciou 'contramedidas' após sanções comerciais dos EUA. A União Europeia usará €1,4 bilhão de juros de ativos russos congelados para ajudar a Ucrânia. Enquanto isso, a África enfrenta desafios como a perda de biodiversidade e a crise da biodiversidade, que não é um problema abstrato, mas sim uma realidade que afeta milhões de africanos.",
+    "categoria_nome": "Geopolítica e Conflitos",
+    "titulo": "Tensões Globais: EUA, Rússia, China e Irã",
+    "subtitulo": "Análise das principais manchetes do dia, com foco nas tensões entre EUA, Rússia, China e Irã",
+    "resumo": "As tensões globais continuam a aumentar, com os EUA, Rússia, China e Irã sendo os principais atores. O fechamento de consulados dos EUA em vários países, a ameaça de ataques cibernéticos iranianos, a concordância entre Irã e Omã sobre a rota para navios no Estreito de Ormuz e as manobras militares russas perto das ilhas Kuril disputadas são alguns dos principais eventos do dia. Além disso, a crise na Ucrânia continua, com a Rússia intensificando seus ataques com mísseis balísticos. A África também está enfrentando desafios, com a desigualdade sendo apontada como uma grande ameaça à saúde pública e a economia digital em expansão do Quênia sendo visada por cibercriminosos. Enquanto isso, a Austrália está lidando com questões internas, como a reforma dos jogos de azar e a segurança das bicicletas elétricas.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-08-05T08:00:00-03:00",
     "link": null,
@@ -979,53 +979,64 @@
   },
   "temas_principais": [
     {
-      "tema": "Crise em Ceuta",
-      "descricao": "A crise em Ceuta, com centenas de pessoas se reunindo perto da fronteira em ansiosa espera por entes queridos desaparecidos, é um dos principais temas do dia.",
+      "tema": "Tensões entre EUA, Rússia, China e Irã",
+      "descricao": "As tensões entre os principais atores globais continuam a aumentar, com o fechamento de consulados dos EUA, ameaças de ataques cibernéticos iranianos e manobras militares russas.",
       "fontes_que_cobriram": [
-        "the_guardian",
-        "euronews"
+        "The Guardian",
+        "New York Times",
+        "Euronews",
+        "RT",
+        "The Moscow Times"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "rt"
+        "AllAfrica",
+        "The Sydney Morning Herald"
       ],
-      "divergencia_de_enquadramento": "Enquanto o The Guardian destaca a ansiedade e a espera por entes queridos, a Euronews fala sobre a normalidade em Ceuta."
+      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar as ameaças russas e iranianas, enquanto as fontes russas e iranianas destacam as ações agressivas dos EUA e de seus aliados."
     },
     {
-      "tema": "Guerra na Ucrânia",
-      "descricao": "A guerra na Ucrânia, com a Rússia atacando hubs logísticos em Kiev, é outro tema principal do dia.",
+      "tema": "Crise na Ucrânia",
+      "descricao": "A crise na Ucrânia continua, com a Rússia intensificando seus ataques com mísseis balísticos.",
       "fontes_que_cobriram": [
-        "rt",
-        "st"
+        "The Guardian",
+        "New York Times",
+        "Euronews",
+        "RT",
+        "The Moscow Times"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian"
+        "AllAfrica",
+        "The Sydney Morning Herald"
       ],
-      "divergencia_de_enquadramento": "Enquanto a Rússia Today destaca os ataques como uma resposta legítima, o The Straits Times fala sobre a gravidade da situação."
+      "divergencia_de_enquadramento": "As fontes ocidentais tendem a apoiar a Ucrânia, enquanto as fontes russas defendem as ações da Rússia."
     },
     {
-      "tema": "Desafios ambientais",
-      "descricao": "Desafios ambientais como o El Niño e a perda de biodiversidade na África são subcobertos, mas importantes.",
+      "tema": "Desafios na África",
+      "descricao": "A África está enfrentando desafios, como a desigualdade e a economia digital em expansão do Quênia sendo visada por cibercriminosos.",
       "fontes_que_cobriram": [
-        "the_guardian",
-        "aa"
+        "AllAfrica",
+        "The Sydney Morning Herald"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "rt",
-        "st"
+        "The Guardian",
+        "New York Times",
+        "Euronews",
+        "RT",
+        "The Moscow Times"
       ],
-      "divergencia_de_enquadramento": "Enquanto o The Guardian destaca a gravidade do El Niño, a AllAfrica fala sobre a perda de biodiversidade na África."
+      "divergencia_de_enquadramento": "As fontes africanas tendem a destacar os desafios locais, enquanto as fontes ocidentais tendem a se concentrar em questões globais."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Perda de biodiversidade na África",
-      "por_que_importa": "A perda de biodiversidade na África afeta milhões de pessoas e é um desafio importante para o continente.",
-      "cobertura": "Apenas a AllAfrica cobriu esse tema, enquanto outros veículos de imprensa o ignoraram ou minimizaram."
+      "tema": "Economia digital em expansão do Quênia",
+      "por_que_importa": "A economia digital em expansão do Quênia é uma oportunidade para o crescimento econômico, mas também é visada por cibercriminosos.",
+      "cobertura": "A cobertura foi limitada, com apenas algumas fontes africanas e australianas abordando o tema."
     },
     {
-      "tema": "El Niño",
-      "por_que_importa": "O El Niño pode empurrar 50 milhões de pessoas para a fome aguda e é um desafio importante para a comunidade global.",
-      "cobertura": "Apenas o The Guardian cobriu esse tema, enquanto outros veículos de imprensa o ignoraram ou minimizaram."
+      "tema": "Desigualdade na África",
+      "por_que_importa": "A desigualdade é um grande desafio para a saúde pública e o crescimento econômico na África.",
+      "cobertura": "A cobertura foi limitada, com apenas algumas fontes africanas e internacionais abordando o tema."
     }
   ]
 }
