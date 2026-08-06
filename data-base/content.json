@@ -18,70 +18,88 @@
     "the_guardian": {
       "slug": "the_guardian",
       "nome": "The Guardian",
-      "gerado_em": "2026-08-05T21:00:13.418Z",
+      "gerado_em": "2026-08-06T10:00:13.548Z",
       "artigos": [
         {
-          "id": "the_guardian-2026-08-05-210113",
-          "titulo": "EUA fecharão cinco consulados, o que pode criar um vácuo diplomático que a China pode preencher",
-          "resumo": "O departamento de estado informou o Congresso sobre o plano de fechar consulados no Canadá, Granada, Japão, Indonésia e Camarões",
+          "id": "the_guardian-2026-08-06-1001",
+          "titulo": "'Marrocos se sente fortalecido': influência de Trump sob holofote após desastre em Ceuta",
+          "resumo": "Laços entre Washington e Rabat sob escrutínio à medida que surgem questões sobre o que levou ao influxo mortal na pequena território espanhol",
+          "link": "https://www.theguardian.com/world/2026/aug/06/trump-influence-morocco-spotlight-ceuta-border-disaster",
           "imagem": null,
+          "fonte": "The Guardian",
+          "publicado_em": "2026-08-06T09:45:54.000Z"
+        },
+        {
+          "id": "the_guardian-2026-08-06-1002",
+          "titulo": "EUA fecharão cinco consulados; críticos temem que China possa preencher vazio diplomático",
+          "resumo": "Departamento de Estado informa ao Congresso sobre fechamentos planejados no Canadá, Granada, Japão, Indonésia e Camarões",
           "link": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
+          "imagem": null,
           "fonte": "The Guardian",
-          "publicado_em": "2026-08-05T19:20:28-03:00"
+          "publicado_em": "2026-08-05T19:20:28.000Z"
         },
         {
-          "id": "the_guardian-2026-08-05-210114",
-          "titulo": "El Niño pode empurrar 50 milhões de pessoas para a fome aguda até o final do próximo ano",
-          "resumo": "Previsores da ONU alertam sobre a piora das condições em 45 países que atualmente enfrentam grave insegurança alimentar",
-          "imagem": null,
+          "id": "the_guardian-2026-08-06-1003",
+          "titulo": "El Niño pode empurrar 50 milhões de pessoas para a fome aguda antes do fim do próximo ano",
+          "resumo": "Previsores da ONU alertam sobre condições piorando em 45 países que atualmente experimentam grave insegurança alimentar",
           "link": "https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year",
+          "imagem": null,
           "fonte": "The Guardian",
-          "publicado_em": "2026-08-05T08:00:13-03:00"
+          "publicado_em": "2026-08-05T08:00:13.000Z"
         },
         {
-          "id": "the_guardian-2026-08-05-210115",
-          "titulo": "Centenas de pessoas se reúnem perto da fronteira de Ceuta, na Marrocos, em busca de notícias sobre entes queridos desaparecidos",
-          "resumo": "Pessoas esperam ver amigos ou familiares entre os que ainda estão retornando, enquanto a contagem de mortos após a travessia em massa se aproxima de 100",
+          "id": "the_guardian-2026-08-06-1004",
+          "titulo": "Breve de quarta-feira: como desinformação e política de imigração endurecida transformaram Ceuta no último ponto de tensão da Europa",
+          "resumo": "Na newsletter de hoje: a semana passada mostra como rapidamente imagens, rumores e oportunismo político de direita podem eclipsar os fatos no terreno",
+          "link": "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint",
           "imagem": null,
+          "fonte": "The Guardian",
+          "publicado_em": "2026-08-05T05:54:54.000Z"
+        },
+        {
+          "id": "the_guardian-2026-08-06-1005",
+          "titulo": "Centenas de pessoas em Marrocos se reúnem perto da fronteira de Ceuta em ansiosa espera por entes queridos desaparecidos",
+          "resumo": "Pessoas esperam ver amigos ou parentes entre aqueles que ainda estão retornando, à medida que o número de mortos na travessia em massa se aproxima de 100",
           "link": "https://www.theguardian.com/world/2026/aug/05/hundreds-in-morocco-gather-near-ceuta-border-in-anxious-wait-for-missing-loved-ones",
+          "imagem": null,
           "fonte": "The Guardian",
-          "publicado_em": "2026-08-05T04:00:08-03:00"
+          "publicado_em": "2026-08-05T04:00:08.000Z"
         },
         {
-          "id": "the_guardian-2026-08-05-210116",
-          "titulo": "Fronteiras mais fortes da UE são necessárias após a crise de Ceuta, diz von der Leyen",
-          "resumo": "A presidente da Comissão Europeia afirma que o trabalho é necessário em cinco áreas de controle de migração, incluindo o retorno de mais pessoas",
-          "imagem": null,
-          "link": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
-          "fonte": "The Guardian",
-          "publicado_em": "2026-08-03T17:44:01-03:00"
-        },
-        {
-          "id": "the_guardian-2026-08-05-210117",
-          "titulo": "EUA revogam o visto do embaixador do Brasil em retaliação a desentendimentos diplomáticos",
-          "resumo": "A medida é uma retaliação ao governo de Lula por se recusar a aprovar o indicado de Trump para embaixador em Brasília",
-          "imagem": null,
-          "link": "https://www.theguardian.com/us-news/2026/aug/04/us-revokes-brazil-ambassador-visa",
-          "fonte": "The Guardian",
-          "publicado_em": "2026-08-05T01:41:07-03:00"
-        },
-        {
-          "id": "the_guardian-2026-08-05-210118",
-          "titulo": "Erupção do vulcão na Guatemala provoca a evacuação de centenas de pessoas",
-          "resumo": "A erupção do vulcão Fuego envia lava e cinzas quase quatro milhas para o céu, enquanto o país declara o segundo nível de alerta mais alto",
-          "imagem": null,
-          "link": "https://www.theguardian.com/world/2026/aug/04/guatemala-volcano-eruption-prompts-evacuation-of-hundreds-of-people",
-          "fonte": "The Guardian",
-          "publicado_em": "2026-08-04T17:31:37-03:00"
-        },
-        {
-          "id": "the_guardian-2026-08-05-210119",
-          "titulo": "Cardeal peruano elogia acordo de 150 milhões de dólares para 1.300 pessoas afetadas por envenenamento por chumbo",
-          "resumo": "O cardeal Pedro Barreto recebeu ameaças de morte e assédio durante sua campanha de quase 20 anos contra as operações de uma empresa de mineração dos EUA nos Andes",
-          "imagem": null,
+          "id": "the_guardian-2026-08-06-1008",
+          "titulo": "Cardeal peruano elogia acordo de $150 milhões por envenenamento por chumbo como 'marco histórico'",
+          "resumo": "Cardeal Pedro Barreto recebeu ameaças de morte e assédio durante sua campanha de quase 20 anos contra as operações de uma empresa de mineração dos EUA nos Andes",
           "link": "https://www.theguardian.com/global-development/2026/aug/05/peruvian-cardinal-historic-milestone-150m-lead-poisoning-settlement-1300-children",
+          "imagem": null,
           "fonte": "The Guardian",
-          "publicado_em": "2026-08-05T10:40:03-03:00"
+          "publicado_em": "2026-08-05T10:40:03.000Z"
+        },
+        {
+          "id": "the_guardian-2026-08-06-1009",
+          "titulo": "Universidade mais importante do México ordena que 58.000 estudantes refaçam exame de admissão após suspeita de fraude",
+          "resumo": "Universidade Nacional Autônoma do México afirma que os candidatos devem fazer o teste presencialmente após debacle online",
+          "link": "https://www.theguardian.com/world/2026/aug/05/mexico-top-university-unam-resit-entrance-exam-cheating-scandal",
+          "imagem": null,
+          "fonte": "The Guardian",
+          "publicado_em": "2026-08-05T09:00:15.000Z"
+        },
+        {
+          "id": "the_guardian-2026-08-06-1010",
+          "titulo": "EUA revogam visto do embaixador do Brasil em escalada de disputa diplomática",
+          "resumo": "Movimento é retaliação pela recusa do governo de Lula em aprovar o indicado de Trump para embaixador em Brasília",
+          "link": "https://www.theguardian.com/us-news/2026/aug/04/us-revokes-brazil-ambassador-visa",
+          "imagem": null,
+          "fonte": "The Guardian",
+          "publicado_em": "2026-08-05T01:41:07.000Z"
+        },
+        {
+          "id": "the_guardian-2026-08-06-1011",
+          "titulo": "Sede da Starbucks na Coreia do Sul é invadida pela polícia após campanha 'Dia do Tanque' provocar indignação pública",
+          "resumo": "Cadeia de cafeterias enfrentou reação adversa por promoção de marketing ligada ao aniversário do massacre de Gwangju",
+          "link": "https://www.theguardian.com/world/2026/aug/06/starbucks-korea-raided-police-tank-day-campaign-gwangju-massacre",
+          "imagem": null,
+          "fonte": "The Guardian",
+          "publicado_em": "2026-08-06T07:45:32.000Z"
         }
       ]
     },
