@@ -6,9 +6,9 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Desastre em Ceuta: Marrocos e Espanha sob pressão",
-    "subtitulo": "Enquanto a Europa lida com a crise migratória, a guerra na Ucrânia e o Oriente Médio continuam a influenciar a política global",
-    "resumo": "O desastre em Ceuta, que resultou em numerous mortes, trouxe à tona a questão da imigração e da pressão sobre a Europa. Enquanto isso, a guerra na Ucrânia e o conflito no Oriente Médio continuam a influenciar a política global. A Rússia aumentou o número de mortos civis para mais de 600 após a incursão em Kursk, e drones ucranianos atacaram refinarias de petróleo em Yaroslavl e Bashkortostan. Além disso, a desigualdade na África foi apontada como uma grande ameaça à saúde pública, e a xenofobia anti-imigrante está afetando a economia da África do Sul. A Austrália também está lidando com questões de segurança rodoviária e corrupção.",
+    "titulo": "Surto de Ebola na RDC pode estar mutando",
+    "subtitulo": "Enquanto a África lida com surtos de saúde, a geopolítica global é marcada por tensões entre EUA, China e Rússia",
+    "resumo": "O surto de Ebola na República Democrática do Congo (RDC) pode estar mutando, de acordo com autoridades de saúde. Enquanto isso, a comunidade internacional lida com tensões geopolíticas entre EUA, China e Rússia. Os EUA fecharão cinco consulados em diferentes partes do mundo, enquanto a China renova um acordo de permuta de moedas com a Argentina. A Rússia, por sua vez, reduz os padrões de qualidade de combustível para acabar com a escassez doméstica. Além disso, a Nigéria resgatou mais de 300 reféns mantidos em florestas densas. Esses eventos mostram a complexidade e a interconexão dos desafios globais atuais.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-08-06T08:00:00-03:00",
     "link": null,
@@ -949,51 +949,56 @@
   },
   "temas_principais": [
     {
-      "tema": "Desastre em Ceuta",
-      "descricao": "O desastre em Ceuta resultou em numerous mortes e trouxe à tona a questão da imigração e da pressão sobre a Europa.",
+      "tema": "Surto de Ebola na RDC",
+      "descricao": "O surto de Ebola na RDC pode estar mutando, com mais de 4.000 casos registrados.",
       "fontes_que_cobriram": [
-        "the_guardian",
-        "new_york_times"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "rt"
-      ],
-      "divergencia_de_enquadramento": "A cobertura do desastre em Ceuta variou entre as fontes, com alguns destacando a pressão sobre a Europa e outros enfatizando a responsabilidade de Marrocos."
-    },
-    {
-      "tema": "Guerra na Ucrânia",
-      "descricao": "A guerra na Ucrânia continua a influenciar a política global, com a Rússia aumentando o número de mortos civis para mais de 600 após a incursão em Kursk.",
-      "fontes_que_cobriram": [
-        "rt",
-        "the_moscow_times"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
         "the_guardian"
       ],
-      "divergencia_de_enquadramento": "A cobertura da guerra na Ucrânia variou entre as fontes, com alguns destacando a responsabilidade da Rússia e outros enfatizando a importância da OTAN."
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "new_york_times",
+        "euronews"
+      ],
+      "divergencia_de_enquadramento": "As fontes variam na ênfase dada à mutação do vírus e às implicações para a saúde global."
     },
     {
-      "tema": "Desigualdade na África",
-      "descricao": "A desigualdade na África foi apontada como uma grande ameaça à saúde pública, e a xenofobia anti-imigrante está afetando a economia da África do Sul.",
+      "tema": "Tensões geopolíticas",
+      "descricao": "Tensões entre EUA, China e Rússia dominam a cena internacional, com fechamento de consulados, acordos de permuta de moedas e redução de padrões de qualidade de combustível.",
       "fontes_que_cobriram": [
-        "allafrica"
+        "the_guardian",
+        "new_york_times",
+        "euronews",
+        "scmp"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "new_york_times"
+        "rt",
+        "st"
       ],
-      "divergencia_de_enquadramento": "A cobertura da desigualdade na África variou entre as fontes, com alguns destacando a importância da igualdade e outros enfatizando a necessidade de crescimento econômico."
+      "divergencia_de_enquadramento": "As fontes têm enquadramentos diferentes sobre as causas e implicações dessas tensões."
+    },
+    {
+      "tema": "Resgate de reféns na Nigéria",
+      "descricao": "Forças de segurança nigerianas resgataram mais de 300 reféns mantidos em florestas densas.",
+      "fontes_que_cobriram": [
+        "the_guardian"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "new_york_times",
+        "euronews",
+        "scmp"
+      ],
+      "divergencia_de_enquadramento": "A cobertura varia na ênfase dada ao sucesso da operação e às condições dos reféns."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Segurança rodoviária na Austrália",
-      "por_que_importa": "A segurança rodoviária é uma questão importante na Austrália, e a polícia está lançando uma operação de segurança rodoviária em todo o estado.",
-      "cobertura": "A cobertura da segurança rodoviária na Austrália foi limitada, com apenas alguns artigos abordando o tema."
+      "tema": "Crise na Ucrânia",
+      "por_que_importa": "A crise na Ucrânia tem implicações significativas para a estabilidade europeia e global.",
+      "cobertura": "A cobertura é limitada, com apenas algumas fontes abordando o tema."
     },
     {
-      "tema": "Corrupção na Austrália",
-      "por_que_importa": "A corrupção é uma questão importante na Austrália, e o principal advogado anticorrupção Geoffrey Watson está investigando a corrupção no sindicato dos bombeiros.",
-      "cobertura": "A cobertura da corrupção na Austrália foi limitada, com apenas alguns artigos abordando o tema."
+      "tema": "Desenvolvimento sustentável na África",
+      "por_que_importa": "O desenvolvimento sustentável é crucial para o futuro da África, com implicações para a pobreza, a saúde e a educação.",
+      "cobertura": "A cobertura é escassa, com poucas fontes discutindo iniciativas e desafios no continente."
     }
   ]
 }
