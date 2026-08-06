@@ -5,12 +5,12 @@
   "itens_urgentes": {},
   "destaques": [],
   "capa": {
-    "categoria_nome": "Geopolítica e Conflitos",
-    "titulo": "Tensões Globais: EUA, Rússia, China e Irã",
-    "subtitulo": "Análise das principais manchetes do dia, com foco nas tensões entre EUA, Rússia, China e Irã",
-    "resumo": "As tensões globais continuam a aumentar, com os EUA, Rússia, China e Irã sendo os principais atores. O fechamento de consulados dos EUA em vários países, a ameaça de ataques cibernéticos iranianos, a concordância entre Irã e Omã sobre a rota para navios no Estreito de Ormuz e as manobras militares russas perto das ilhas Kuril disputadas são alguns dos principais eventos do dia. Além disso, a crise na Ucrânia continua, com a Rússia intensificando seus ataques com mísseis balísticos. A África também está enfrentando desafios, com a desigualdade sendo apontada como uma grande ameaça à saúde pública e a economia digital em expansão do Quênia sendo visada por cibercriminosos. Enquanto isso, a Austrália está lidando com questões internas, como a reforma dos jogos de azar e a segurança das bicicletas elétricas.",
+    "categoria_nome": "O que marcou o dia?",
+    "titulo": "Desastre em Ceuta: Marrocos e Espanha sob pressão",
+    "subtitulo": "Enquanto a Europa lida com a crise migratória, a guerra na Ucrânia e o Oriente Médio continuam a influenciar a política global",
+    "resumo": "O desastre em Ceuta, que resultou em numerous mortes, trouxe à tona a questão da imigração e da pressão sobre a Europa. Enquanto isso, a guerra na Ucrânia e o conflito no Oriente Médio continuam a influenciar a política global. A Rússia aumentou o número de mortos civis para mais de 600 após a incursão em Kursk, e drones ucranianos atacaram refinarias de petróleo em Yaroslavl e Bashkortostan. Além disso, a desigualdade na África foi apontada como uma grande ameaça à saúde pública, e a xenofobia anti-imigrante está afetando a economia da África do Sul. A Austrália também está lidando com questões de segurança rodoviária e corrupção.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-08-05T08:00:00-03:00",
+    "publicado_em": "2026-08-06T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -1042,64 +1042,51 @@
   },
   "temas_principais": [
     {
-      "tema": "Tensões entre EUA, Rússia, China e Irã",
-      "descricao": "As tensões entre os principais atores globais continuam a aumentar, com o fechamento de consulados dos EUA, ameaças de ataques cibernéticos iranianos e manobras militares russas.",
+      "tema": "Desastre em Ceuta",
+      "descricao": "O desastre em Ceuta resultou em numerous mortes e trouxe à tona a questão da imigração e da pressão sobre a Europa.",
       "fontes_que_cobriram": [
-        "The Guardian",
-        "New York Times",
-        "Euronews",
-        "RT",
-        "The Moscow Times"
+        "the_guardian",
+        "new_york_times"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "AllAfrica",
-        "The Sydney Morning Herald"
+        "rt"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar as ameaças russas e iranianas, enquanto as fontes russas e iranianas destacam as ações agressivas dos EUA e de seus aliados."
+      "divergencia_de_enquadramento": "A cobertura do desastre em Ceuta variou entre as fontes, com alguns destacando a pressão sobre a Europa e outros enfatizando a responsabilidade de Marrocos."
     },
     {
-      "tema": "Crise na Ucrânia",
-      "descricao": "A crise na Ucrânia continua, com a Rússia intensificando seus ataques com mísseis balísticos.",
+      "tema": "Guerra na Ucrânia",
+      "descricao": "A guerra na Ucrânia continua a influenciar a política global, com a Rússia aumentando o número de mortos civis para mais de 600 após a incursão em Kursk.",
       "fontes_que_cobriram": [
-        "The Guardian",
-        "New York Times",
-        "Euronews",
-        "RT",
-        "The Moscow Times"
+        "rt",
+        "the_moscow_times"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "AllAfrica",
-        "The Sydney Morning Herald"
+        "the_guardian"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais tendem a apoiar a Ucrânia, enquanto as fontes russas defendem as ações da Rússia."
+      "divergencia_de_enquadramento": "A cobertura da guerra na Ucrânia variou entre as fontes, com alguns destacando a responsabilidade da Rússia e outros enfatizando a importância da OTAN."
     },
     {
-      "tema": "Desafios na África",
-      "descricao": "A África está enfrentando desafios, como a desigualdade e a economia digital em expansão do Quênia sendo visada por cibercriminosos.",
+      "tema": "Desigualdade na África",
+      "descricao": "A desigualdade na África foi apontada como uma grande ameaça à saúde pública, e a xenofobia anti-imigrante está afetando a economia da África do Sul.",
       "fontes_que_cobriram": [
-        "AllAfrica",
-        "The Sydney Morning Herald"
+        "allafrica"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "The Guardian",
-        "New York Times",
-        "Euronews",
-        "RT",
-        "The Moscow Times"
+        "new_york_times"
       ],
-      "divergencia_de_enquadramento": "As fontes africanas tendem a destacar os desafios locais, enquanto as fontes ocidentais tendem a se concentrar em questões globais."
+      "divergencia_de_enquadramento": "A cobertura da desigualdade na África variou entre as fontes, com alguns destacando a importância da igualdade e outros enfatizando a necessidade de crescimento econômico."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Economia digital em expansão do Quênia",
-      "por_que_importa": "A economia digital em expansão do Quênia é uma oportunidade para o crescimento econômico, mas também é visada por cibercriminosos.",
-      "cobertura": "A cobertura foi limitada, com apenas algumas fontes africanas e australianas abordando o tema."
+      "tema": "Segurança rodoviária na Austrália",
+      "por_que_importa": "A segurança rodoviária é uma questão importante na Austrália, e a polícia está lançando uma operação de segurança rodoviária em todo o estado.",
+      "cobertura": "A cobertura da segurança rodoviária na Austrália foi limitada, com apenas alguns artigos abordando o tema."
     },
     {
-      "tema": "Desigualdade na África",
-      "por_que_importa": "A desigualdade é um grande desafio para a saúde pública e o crescimento econômico na África.",
-      "cobertura": "A cobertura foi limitada, com apenas algumas fontes africanas e internacionais abordando o tema."
+      "tema": "Corrupção na Austrália",
+      "por_que_importa": "A corrupção é uma questão importante na Austrália, e o principal advogado anticorrupção Geoffrey Watson está investigando a corrupção no sindicato dos bombeiros.",
+      "cobertura": "A cobertura da corrupção na Austrália foi limitada, com apenas alguns artigos abordando o tema."
     }
   ]
 }
