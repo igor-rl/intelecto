@@ -618,34 +618,74 @@
     "mt": {
       "slug": "mt",
       "nome": "The Moscow Times",
-      "gerado_em": "2026-08-06T10:46:15.177Z",
+      "gerado_em": "2026-08-06T21:46:05.134Z",
       "artigos": [
         {
-          "id": "mt-2026-08-06-1001",
-          "titulo": "2 Anos Após a Incursão em Kursk, Rússia Aumenta o Número de Mortos Civis para Mais de 600",
-          "resumo": "Investigadores estimam danos à propriedade em $6,2 bilhões na região, com pelo menos 53 sítios do patrimônio cultural danificados durante os combates.",
+          "id": "mt-2026-08-06-2101",
+          "titulo": "Rússia Reduz Padrões de Qualidade de Combustível para Acabar com Escassez Doméstica",
+          "resumo": "Os combustíveis padrão Euro-2, Euro-3 e Euro-4 poderão ser vendidos no mercado até 1 de julho de 2027, de acordo com um decreto do governo.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/06/russia-rolls-back-fuel-quality-standards-to-quell-domestic-shortages-a93430",
+          "publicado_em": "2026-08-06T15:00:48.000Z"
+        },
+        {
+          "id": "mt-2026-08-06-2102",
+          "titulo": "Ministério de Relações Exteriores Russo Condena Ordem de Deportação de Ex-Jornalista da RT pela França",
+          "resumo": "As autoridades francesas emitiram uma ordem de deportação no mês passado para Ksenia Fedorova, ex-chefe da emissora estatal RT França.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/06/russian-foreign-ministry-condemns-frances-order-to-deport-former-rt-journalist-a93431",
+          "publicado_em": "2026-08-06T14:16:34.000Z"
+        },
+        {
+          "id": "mt-2026-08-06-2103",
+          "titulo": "Regiões Chamando: Os Russos se Importam com Alertas de Raides Aéreos?",
+          "resumo": "Pedimos a russos de sete regiões que compartilhassem como eles aprendem sobre drones e mísseis ucranianos que estão chegando — e como eles respondem a eles.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/06/regions-calling-do-russians-care-about-air-raid-alerts-a93427",
+          "publicado_em": "2026-08-06T13:59:00.000Z"
+        },
+        {
+          "id": "mt-2026-08-06-2104",
+          "titulo": "Geórgia Investiga Postagens em Redes Sociais que Alegam Maus-Tratos Contra Turistas Russos",
+          "resumo": "O Serviço de Segurança do Estado da Geórgia disse que contas de “robôs” controladas por estrangeiros espalharam falsas alegações no X sobre urinar e cuspir na comida servida a turistas russos.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/06/georgia-investigating-social-media-posts-claiming-mistreatment-against-russian-tourists-a93429",
+          "publicado_em": "2026-08-06T13:11:22.000Z"
+        },
+        {
+          "id": "mt-2026-08-06-2105",
+          "titulo": "Reino Unido Impõe Sanções ao Ozon Bank e Navios da 'Frota Fantasma' na Última Repressão",
+          "resumo": "O Ozon Bank disse que a medida não afetaria suas operações, pois não detém ativos estrangeiros ou usa a rede de mensagens SWIFT internacional e realiza negócios apenas dentro da Rússia.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/06/uk-sanctions-ozon-bank-and-shadow-fleet-vessels-in-latest-crackdown-a93428",
+          "publicado_em": "2026-08-06T11:01:15.000Z"
+        },
+        {
+          "id": "mt-2026-08-06-2106",
+          "titulo": "2 Anos Depois da Incursão em Kursk, Rússia Aumenta o Número de Mortos Civis para Mais de 600",
+          "resumo": "Investigadores estimam danos totais à propriedade em US$ 6,2 bilhões em toda a região, com pelo menos 53 sítios do patrimônio cultural danificados durante os combates.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/06/2-years-after-kursk-incursion-russia-raises-civilian-death-toll-to-more-than-600-a93426",
           "publicado_em": "2026-08-06T10:09:15.000Z"
         },
         {
-          "id": "mt-2026-08-06-1002",
+          "id": "mt-2026-08-06-2107",
           "titulo": "Drones Ucranianos Atacam Refinarias de Petróleo em Yaroslavl e Bashkortostan",
-          "resumo": "Autoridades na região de Tver relataram danos a um armazém operado pelo gigante varejista online Wildberries.",
+          "resumo": "As autoridades na região de Tver, entretanto, relataram danos a um armazém operado pelo gigante varejista online Wildberries.",
           "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/08/06/ukrainian-drones-strike-oil-refineries-in-yaroslavl-region-and-bashkortostan-a93425",
+          "link": "https://www.themoscowtimes.com/2026/08/06/ukrainian-drones-strike-oil-refineries-in-yaroslavl-and-bashkortostan-a93425",
           "publicado_em": "2026-08-06T08:29:00.000Z"
         },
         {
-          "id": "mt-2026-08-06-1003",
+          "id": "mt-2026-08-06-2108",
           "titulo": "O 'Amazon da Rússia' Pode Sobreviver à Campanha de Drones da Ucrânia?",
-          "resumo": "O setor de varejo online da Rússia prosperou desde a invasão da Ucrânia. Os ataques à Wildberries agora ameaçam interromper esse crescimento.",
+          "resumo": "O setor de varejo online da Rússia floresceu desde a invasão da Ucrânia. Os ataques à Wildberries agora ameaçam interromper esse crescimento.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/05/can-russias-amazon-survive-ukraines-drone-campaign-a93422",
           "publicado_em": "2026-08-05T15:33:00.000Z"
         },
         {
-          "id": "mt-2026-08-06-1004",
+          "id": "mt-2026-08-06-2109",
           "titulo": "Incêndio Erupta no Principal Centro de Pesquisa da Roscosmos Perto de Moscou",
           "resumo": "O complexo abriga o centro de controle para o segmento russo da Estação Espacial Internacional.",
           "imagem": null,
@@ -653,31 +693,31 @@
           "publicado_em": "2026-08-05T15:04:41.000Z"
         },
         {
-          "id": "mt-2026-08-06-1005",
-          "titulo": "Japão Protesta contra Exercícios Militares Russos Perto das Ilhas Kuril em Disputa",
+          "id": "mt-2026-08-06-2110",
+          "titulo": "Japão Protesta Contra Exercícios Militares Russos Perto das Ilhas Kuril em Disputa",
           "resumo": "O Ministério da Defesa da Rússia disse que os exercícios militares envolverão dezenas de navios de guerra e aeronaves, além de mais de 13.000 militares.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/05/japan-protests-russian-military-drills-near-disputed-kuril-islands-a93423",
           "publicado_em": "2026-08-05T14:29:12.000Z"
         },
         {
-          "id": "mt-2026-08-06-1006",
-          "titulo": "CEO de Fabricante de Drones em Yekaterinburg Ferido em Explosão de Carro",
-          "resumo": "A mídia estatal relatou que Vladimir Tkachuk, fundador e CEO da Uraldronzavod, está em estado crítico e que os médicos estão 'lutando por sua vida'.",
+          "id": "mt-2026-08-06-2111",
+          "titulo": "CEO de Fabricante de Drones de Yekaterinburg Ficou Ferido em Explosão de Carro",
+          "resumo": "A mídia estatal relatou que Vladimir Tkachuk, fundador e CEO da Uraldronzavod, está em estado crítico e que os médicos estão 'lutando para salvar sua vida'.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/05/yekaterinburg-drone-maker-ceo-wounded-in-car-explosion-a93421",
           "publicado_em": "2026-08-05T13:12:01.000Z"
         },
         {
-          "id": "mt-2026-08-06-1007",
-          "titulo": "Rússia Diz que as Taxas de HIV Estão Diminuindo. Especialistas Não Estão Tão Certos.",
+          "id": "mt-2026-08-06-2112",
+          "titulo": "Rússia Diz que as Taxas de HIV Estão Caindo. Especialistas Não Estão Tão Seguros.",
           "resumo": "Especialistas alertam que as estatísticas oficiais escondem uma crise de saúde pública que só piorou durante a guerra na Ucrânia.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/05/russia-says-its-hiv-rates-are-falling-experts-arent-so-sure-a93418",
           "publicado_em": "2026-08-05T12:26:00.000Z"
         },
         {
-          "id": "mt-2026-08-06-1008",
+          "id": "mt-2026-08-06-2113",
           "titulo": "Putin Anuncia Reorganização da Liderança Militar de Alto Nível",
           "resumo": "O presidente nomeou novos comandantes operacionais na Ucrânia, um chefe de logística unificado e um chefe para o novo ramo de guerra de drones.",
           "imagem": null,
@@ -685,15 +725,15 @@
           "publicado_em": "2026-08-05T11:54:04.000Z"
         },
         {
-          "id": "mt-2026-08-06-1009",
-          "titulo": "Ex-Funcionários Europeus e Russos Realizam Negociações Secretas na Áustria – Bloomberg",
+          "id": "mt-2026-08-06-2114",
+          "titulo": "Ex-Oficiais Europeus e Russos Realizam Negociações Secretas na Áustria – Bloomberg",
           "resumo": "As figuras ocidentais incluíam o ex-conselheiro de segurança nacional britânico Tim Barrow, o ex-secretário de Estado alemão Markus Ederer e o diplomata francês veterano Pierre Vimont, disseram fontes à Bloomberg.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/05/former-european-and-russian-officials-held-secret-talks-in-austria-bloomberg-a93417",
           "publicado_em": "2026-08-05T09:51:19.000Z"
         },
         {
-          "id": "mt-2026-08-06-1010",
+          "id": "mt-2026-08-06-2115",
           "titulo": "FSB Detém Homem de Kaluga Acusado de Planejar Ataque a Escritório de Recrutamento Militar",
           "resumo": "Oficiais de aplicação da lei russa alegaram que o homem estava agindo sob ordens da inteligência militar ucraniana.",
           "imagem": null,
@@ -701,15 +741,15 @@
           "publicado_em": "2026-08-05T08:41:06.000Z"
         },
         {
-          "id": "mt-2026-08-06-1011",
-          "titulo": "Barragem de Drones Ucranianos Incendeia Centro de Triagem da Wildberries na Região de Tula",
+          "id": "mt-2026-08-06-2116",
+          "titulo": "Barragem de Drones Ucraniana Incendeia Centro de Triagem da Wildberries na Região de Tula",
           "resumo": "O ataque mais recente ocorre quando os ataques russos perto de Kyiv mataram pelo menos 14 pessoas e feriram mais de duas dúzias de outras durante a noite.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/05/ukrainian-drone-barrage-sets-wildberries-sortation-center-in-tula-region-ablaze-a93415",
           "publicado_em": "2026-08-05T07:29:00.000Z"
         },
         {
-          "id": "mt-2026-08-06-1012",
+          "id": "mt-2026-08-06-2117",
           "titulo": "Putin Assina Lei que Visa Russos Exilados Condenados em Ausência",
           "resumo": "A lei impõe restrições abrangentes a russos que foram condenados em ausência, incluindo sob legislação usada para processar críticos do Kremlin.",
           "imagem": null,
@@ -717,7 +757,7 @@
           "publicado_em": "2026-08-04T15:14:00.000Z"
         },
         {
-          "id": "mt-2026-08-06-1013",
+          "id": "mt-2026-08-06-2118",
           "titulo": "Turquia Exige Navegação Segura no Mar Negro Após Drones Atacarem Navios Comerciais",
           "resumo": "O Ministério das Relações Exteriores da Turquia disse que os navios civis Yasar e Nadezhda foram atacados após partir de Novorossiysk na segunda-feira à noite, ferindo vários tripulantes, incluindo cidadãos turcos.",
           "imagem": null,
@@ -725,7 +765,7 @@
           "publicado_em": "2026-08-04T14:57:00.000Z"
         },
         {
-          "id": "mt-2026-08-06-1014",
+          "id": "mt-2026-08-06-2119",
           "titulo": "Síria e Iraque Retomam Voos Diretos para a Rússia",
           "resumo": "Os voos retomados da Syrian Airlines para Moscou marcam a primeira retomada de viagens aéreas diretas entre os dois países desde a queda do regime de Assad.",
           "imagem": null,
@@ -733,52 +773,12 @@
           "publicado_em": "2026-08-04T14:28:51.000Z"
         },
         {
-          "id": "mt-2026-08-06-1015",
-          "titulo": "Gazprom Neft Retira Limites de Compra de Combustível em 13 Regiões Russas",
+          "id": "mt-2026-08-06-2120",
+          "titulo": "Gazprom Neft Remove Limites de Compra de Combustível em 13 Regiões Russas",
           "resumo": "A Gazprom Neft também está permitindo que os clientes encha garrafas de gasolina na bomba novamente, algo que as grandes estações de gasolina baniram no auge da escassez de combustível deste verão para prevenir o acúmulo.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/04/gazprom-neft-lifts-fuel-purchasing-limits-across-13-russian-regions-a93410",
           "publicado_em": "2026-08-04T13:25:03.000Z"
-        },
-        {
-          "id": "mt-2026-08-06-1016",
-          "titulo": "Único Fabricante de TVs Doméstico da Rússia Declarado Falido",
-          "resumo": "O varejista de eletrônicos DNS apresentou um pedido de falência contra o fabricante, Kvant, no último junho devido a uma dívida não paga de mais de $8 milhões.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/08/04/russias-only-domestic-tv-maker-declared-bankrupt-a93409",
-          "publicado_em": "2026-08-04T10:42:21.000Z"
-        },
-        {
-          "id": "mt-2026-08-06-1017",
-          "titulo": "Soldado Russo na Crimeia Atira e Mata Companheiro de Serviço e 3 Civis",
-          "resumo": "Quatro outras pessoas ficaram feridas no ataque mortal, disseram as autoridades locais, e o atirador foi preso.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/08/04/russian-soldier-in-crimea-shoots-and-kills-fellow-serviceman-and-3-civilians-a93407",
-          "publicado_em": "2026-08-04T08:05:53.000Z"
-        },
-        {
-          "id": "mt-2026-08-06-1018",
-          "titulo": "Pelo Menos 5 Mortos nos Últimos Ataques de Drones da Ucrânia Contra a Wildberries",
-          "resumo": "As autoridades da região de Moscou disseram que outras 10 pessoas ficaram feridas em um ataque noturno a um armazém na cidade de Chekov.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/08/04/at-least-5-killed-in-ukraines-latest-drone-attacks-against-wildberries-a93406",
-          "publicado_em": "2026-08-04T07:38:00.000Z"
-        },
-        {
-          "id": "mt-2026-08-06-1019",
-          "titulo": "O que Sabemos sobre o Ataque Mortal ao Restaurante de Moscou",
-          "resumo": "Embora a embaixada da Rússia na Itália tenha culpado a Ucrânia e relatórios tenham dito que um general de alto escalão foi alvo do ataque, muito permanece não confirmado.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/08/03/what-we-know-about-the-deadly-moscow-restaurant-attack-a93400",
-          "publicado_em": "2026-08-03T11:24:00.000Z"
-        },
-        {
-          "id": "mt-2026-08-06-1020",
-          "titulo": "Boris Nadezhdin Deixa a Rússia",
-          "resumo": "Em um vídeo gravado em frente à Torre Eiffel em Paris, o político anti-guerra disse que estava 'vivo e livre. Mas infelizmente, não na Rússia ainda'.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/08/03/boris-nadezhdin-leaves-russia-a93401",
-          "publicado_em": "2026-08-03T10:39:00.000Z"
         }
       ]
     },
