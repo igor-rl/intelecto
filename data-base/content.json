@@ -447,95 +447,167 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-08-05T21:15:46.045Z",
+      "gerado_em": "2026-08-06T10:15:53.377Z",
       "artigos": [
         {
-          "id": "rt-2026-08-05-2101",
-          "titulo": "Pentagono elabora estratégia nuclear para guerra potencial com Rússia e China",
-          "resumo": "O Pentágono está desenvolvendo uma estratégia nuclear para conflitos regionais potenciais com a Rússia ou a China, de acordo com a NBC",
+          "id": "rt-2026-08-06-1001",
+          "titulo": "Kiev usou virtualmente todas as ferramentas da OTAN contra a Rússia – ex-general",
+          "resumo": "As ferramentas militares da OTAN se provaram ineficazes no conflito com a Rússia, afirma o ex-general ucraniano Valery Zaluzhny",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a74588a85f54035796b53ab.jpg",
+          "link": "https://www.rt.com/russia/643926-zaluzhny-nato-tools-ineffective/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-06T10:03:05.000Z"
+        },
+        {
+          "id": "rt-2026-08-06-1002",
+          "titulo": "Sistemas de água nos EUA são atingidos por suspeitos ciberataques – ABC News",
+          "resumo": "Hackers atacaram sistemas de água e esgoto em pelo menos uma dúzia de estados americanos, relata a ABC News",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7417f12030270fa477ab44.jpg",
+          "link": "https://www.rt.com/news/643920-us-water-cyberattack-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-06T07:19:31.000Z"
+        },
+        {
+          "id": "rt-2026-08-06-1003",
+          "titulo": "Estado americano declara emergência devido à guerra de drones Rússia-Ucrânia",
+          "resumo": "O estado de Indiana declarou emergência energética, citando a guerra de drones marítimos no conflito Rússia-Ucrânia",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a74120c85f5401eba369e8f.jpg",
+          "link": "https://www.rt.com/news/643919-indiana-emergency-drone-russia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-06T04:49:13.000Z"
+        },
+        {
+          "id": "rt-2026-08-06-1004",
+          "titulo": "Crítico de Israel vence primárias do Senado americano apesar do recorde de gastos do AIPAC",
+          "resumo": "Abdul El-Sayed, crítico da guerra de Israel em Gaza, venceu as primárias do Senado democrata em Michigan apesar da forte oposição do AIPAC",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a73fa4485f5401eba369e8c.jpg",
+          "link": "https://www.rt.com/news/643918-el-sayed-us-primary-israel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-06T03:09:33.000Z"
+        },
+        {
+          "id": "rt-2026-08-06-1005",
+          "titulo": "OpenAI é forçada a pagar $3,2 milhões por excluir trabalhadores americanos",
+          "resumo": "A OpenAI concordou em pagar $3,2 milhões para resolver alegações de que discriminou trabalhadores americanos enquanto favorecia candidatos estrangeiros",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7336a585f540093951f1e4.jpg",
+          "link": "https://www.rt.com/news/643886-openai-foreign-workers-fine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-06T01:39:46.000Z"
+        },
+        {
+          "id": "rt-2026-08-06-1006",
+          "titulo": "Israel realiza o maior bombardeio ao Líbano desde a trégua de junho",
+          "resumo": "Israel retomou ataques ao sul do Líbano após acusar o Hezbollah de violar a trégua de junho",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a73e0132030270b1f29da02.jpg",
+          "link": "https://www.rt.com/news/643917-israel-bombs-lebanon-tyre/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-06T01:17:21.000Z"
+        },
+        {
+          "id": "rt-2026-08-06-1007",
+          "titulo": "Aniversário de Hiroshima e Nagasaki: Qual é o status nuclear do mundo hoje?",
+          "resumo": "A RT lembra o ataque americano às cidades japonesas de Hiroshima e Nagasaki e examina o estado atual do arsenal nuclear global",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a739ab085f540219a494e41.jpg",
+          "link": "https://www.rt.com/news/643914-hiroshima-anniversary-nuclear-arsenal/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-05T23:46:22.000Z"
+        },
+        {
+          "id": "rt-2026-08-06-1008",
+          "titulo": "Proprietário de empresa de drones militares russa fica ferido em atentado a bomba",
+          "resumo": "O proprietário de uma empresa de drones militares foi ferido e seu motorista morreu em um atentado a bomba na Rússia",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a73c62c85f54027e4785cbd.jpg",
+          "link": "https://www.rt.com/russia/643915-russian-drone-make-bombing/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-05T23:33:24.000Z"
+        },
+        {
+          "id": "rt-2026-08-06-1009",
+          "titulo": "A crise de assassinatos nos EUA não é tão desesperadora quanto muitos acreditam",
+          "resumo": "Novos dados mostram que os assassinatos nos EUA estão diminuindo e altamente concentrados, sugerindo que a situação geral é menos sombria do que os headlines sugerem",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7316bb85f5401eba369e5a.jpg",
+          "link": "https://www.rt.com/news/643879-us-gun-murder-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-05T21:43:14.000Z"
+        },
+        {
+          "id": "rt-2026-08-06-1010",
+          "titulo": "Pentágono elabora estratégia nuclear para guerra potencial com Rússia e China – NBC",
+          "resumo": "O Pentágono está desenvolvendo uma estratégia nuclear para conflitos regionais potenciais com a Rússia ou a China, relata a NBC",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a739f21203027724a49657c.jpg",
           "link": "https://www.rt.com/news/643913-us-pentagon-nuclear-russia-china/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-05T21:09:30-03:00"
+          "publicado_em": "2026-08-05T21:09:30.000Z"
         },
         {
-          "id": "rt-2026-08-05-2103",
-          "titulo": "EUA rejeitam pedido de Zelensky por mais mísseis Patriot",
-          "resumo": "O presidente dos EUA, Donald Trump, rejeitou o pedido de Vladimir Zelensky por mais mísseis Patriot",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a735fa485f5406028598799.jpg",
-          "link": "https://www.rt.com/news/643905-trump-ukraine-no-patriots/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-05T16:08:26-03:00"
+          "id": "rt-2026-08-06-1011",
+          "titulo": "Por que Israel continua atacando Gaza apesar do cessar-fogo mediado pelos EUA",
+          "resumo": "Israel continuou operações militares em Gaza apesar de um plano de cessar-fogo apoiado pelos EUA e rejeitou a retirada do IDF",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a737b0a2030275b473548f3.jpg",
+          "link": "https://www.rt.com/news/643885-israel-strikes-gaza-war/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-05T19:37:49.000Z"
         },
         {
-          "id": "rt-2026-08-05-2105",
-          "titulo": "Tensões geopolíticas impulsionam invasão de migrantes em Ceuta (VÍDEO)",
-          "resumo": "Tensões geopolíticas impulsionam a onda de migrantes e testam a política de migração da Espanha e suas relações energéticas com Marrocos e Argélia",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7394bb2030275c30210898.jpg",
-          "link": "https://www.rt.com/news/643870-geopolitics-ceuta-migrant-invasion/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-05T17:49:50-03:00"
+          "id": "rt-2026-08-06-1012",
+          "titulo": "Estágio de foguete da SpaceX cai na Lua",
+          "resumo": "Um estágio de foguete da SpaceX aparentemente atingiu a Lua após flutuar pelo espaço por mais de um ano",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a73893c85f54016dd6f0276.jpg",
+          "link": "https://www.rt.com/news/643910-spacex-rocket-moon-crash/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-05T19:09:19.000Z"
         },
         {
-          "id": "rt-2026-08-05-2106",
+          "id": "rt-2026-08-06-1013",
+          "titulo": "O exército americano derrubou um avião civil?",
+          "resumo": "A interferência de GPS pelo exército americano foi implicada em um acidente fatal de avião civil no Novo México",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a737c5385f540219a494e38.jpg",
+          "link": "https://www.rt.com/news/643912-army-gps-jamming-plane-crash/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-05T18:53:38.000Z"
+        },
+        {
+          "id": "rt-2026-08-06-1014",
+          "titulo": "Bancos da Wall Street ajudaram Epstein a mover bilhões – relatório",
+          "resumo": "Deutsche Bank, JPMorgan Chase e Bank of America foram acusados de violar a lei ao ocultar transações ilícitas de Jeffrey Epstein",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7377f385f54004fd7314a0.jpg",
+          "link": "https://www.rt.com/news/643911-epstein-jp-morgan-deutsche-bank/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-05T18:40:11.000Z"
+        },
+        {
+          "id": "rt-2026-08-06-1015",
+          "titulo": "Quem se beneficia do caos migratório na Espanha?",
+          "resumo": "A corrida às fronteiras da UE é o novo espetáculo",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a730dce85f54029e64ecec3.jpg",
+          "link": "https://www.rt.com/news/643877-eu-spain-migrant-chaos/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-05T15:35:04.000Z"
+        },
+        {
+          "id": "rt-2026-08-06-1016",
           "titulo": "Ex-premiê de Bangladesh faz primeiro discurso público após ser destituído",
           "resumo": "A ex-premiê de Bangladesh, Sheikh Hasina, fez seu primeiro discurso público no exílio, falando sobre sua destituição e familiares",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a735f4485f540196d0851f4.jpg",
           "link": "https://www.rt.com/india/643893-bangladesh-sheikh-hasina/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-05T16:16:02-03:00"
+          "publicado_em": "2026-08-05T16:16:02.000Z"
         },
         {
-          "id": "rt-2026-08-05-2110",
+          "id": "rt-2026-08-06-1017",
+          "titulo": "Trump rejeita pedido de Zelensky por mais mísseis Patriot – FT",
+          "resumo": "O presidente americano Donald Trump supostamente rejeitou o pedido de Vladimir Zelensky por mísseis Patriot",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a735fa485f5406028598799.jpg",
+          "link": "https://www.rt.com/news/643905-trump-ukraine-no-patriots/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-05T16:08:26.000Z"
+        },
+        {
+          "id": "rt-2026-08-06-1018",
+          "titulo": "Ruanda ordena recall de álcool após envenenamento mortal",
+          "resumo": "Ruanda recallou bebidas alcoólicas em todo o país após o álcool contaminado matar pelo menos 50 pessoas",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7359822030274e7344b647.jpg",
+          "link": "https://www.rt.com/africa/643904-rwanda-orders-alcohol-recall/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-05T15:44:59.000Z"
+        },
+        {
+          "id": "rt-2026-08-06-1019",
+          "titulo": "Quem se beneficia do caos migratório na Espanha?",
+          "resumo": "A corrida às fronteiras da UE é o novo espetáculo",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a730dce85f54029e64ecec3.jpg",
+          "link": "https://www.rt.com/news/643877-eu-spain-migrant-chaos/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-05T15:35:04.000Z"
+        },
+        {
+          "id": "rt-2026-08-06-1020",
           "titulo": "El Niño apresenta ameaça aguda de fome para 49 milhões de pessoas – ONU",
-          "resumo": "Mais de 18 milhões de pessoas na África Oriental e Meridional enfrentam insegurança alimentar devido a El Niño, de acordo com o Programa Mundial de Alimentos",
+          "resumo": "Mais de 18 milhões de pessoas na África Oriental e Meridional enfrentam insegurança alimentar desencadeada pelo El Niño, afirma o Programa Mundial de Alimentos",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7344b4203027622a63a754.jpg",
           "link": "https://www.rt.com/africa/643890-el-nino-could-push-49-million-people-acute-hunger/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-05T14:51:01-03:00"
-        },
-        {
-          "id": "rt-2026-08-05-2111",
-          "titulo": "Cooperação militar entre Taiwan e EUA está mais próxima do que se imagina – Taipei",
-          "resumo": "Taiwan e EUA estão realizando trocas militares ativas em meio a um impasse com Pequim, de acordo com o ministro da Defesa Wellington Koo",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a73424685f54029e64eced9.jpg",
-          "link": "https://www.rt.com/news/643892-taiwan-us-military-cooperation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-05T14:04:13-03:00"
-        },
-        {
-          "id": "rt-2026-08-05-2114",
-          "titulo": "Rússia entrega ajuda alimentar ao Mali devastado pela guerra",
-          "resumo": "A Rússia entregou 770 toneladas de ajuda alimentar ao Mali, que ajudará mais de 57.000 pessoas vulneráveis, de acordo com o PMA",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a73282585f540196d0851c4.jpeg",
-          "link": "https://www.rt.com/africa/643882-russia-delivers-food-aid-mali/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-05T13:16:19-03:00"
-        },
-        {
-          "id": "rt-2026-08-05-2115",
-          "titulo": "Ex-embaixadora ucraniana nos EUA acusada de corrupção – mídia",
-          "resumo": "A ex-embaixadora ucraniana nos EUA, Olga Stefanishina, foi convocada por investigadores anticorrupção para receber acusações formais",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a732be020302722632139ca.jpg",
-          "link": "https://www.rt.com/russia/643884-ukraine-stefanishina-corruption-charges/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-05T13:13:04-03:00"
-        },
-        {
-          "id": "rt-2026-08-05-2116",
-          "titulo": "Portos em tempestade: Como a guerra de armazéns de Kiev custou à Ucrânia sua costa",
-          "resumo": "Os ataques de longo alcance de Vladimir Zelensky contra civis russos convidaram a uma retaliação dura contra os portos ucranianos do Mar Negro",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7239bc85f54003d84a4995.jpg",
-          "link": "https://www.rt.com/russia/643859-russia-strike-ukraine-ports/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-05T13:03:34-03:00"
-        },
-        {
-          "id": "rt-2026-08-05-2117",
-          "titulo": "Explosões relatadas no distrito industrial de Dubai",
-          "resumo": "Testemunhas nos Emirados Árabes relataram explosões na Zona Franca de Jebel Ali, um grande centro industrial e logístico no Golfo Pérsico",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a730ab92030272777633433.jpg",
-          "link": "https://www.rt.com/news/643873-iae-jebel-ali-explosions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-05T12:39:42-03:00"
-        },
-        {
-          "id": "rt-2026-08-05-2120",
-          "titulo": "Putin legaliza criptomoedas na Rússia: O que você precisa saber",
-          "resumo": "O presidente Vladimir Putin assinou a Lei sobre Moedas Digitais e Direitos Digitais, criando um mercado de criptomoedas regulamentado na Rússia",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7315c220302727200b0793.jpg",
-          "link": "https://www.rt.com/news/643878-russia-crypto-regulation-law/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-05T12:16:27-03:00"
+          "publicado_em": "2026-08-05T14:51:01.000Z"
         }
       ]
     },
