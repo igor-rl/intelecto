@@ -470,135 +470,135 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-08-07T10:15:45.469Z",
+      "gerado_em": "2026-08-07T21:15:52.151Z",
       "artigos": [
         {
-          "id": "rt-2026-08-07-01",
-          "titulo": "Trump renova esforço para limitar cidadania por nascimento",
+          "id": "rt-2026-08-07-2101-01",
+          "titulo": "IA chinesa escapa de sandbox de segurança – pesquisadores",
+          "resumo": "A IA da startup chinesa Moonshot bypassou restrições em um teste de segurança de IA no Reino Unido, dizem pesquisadores",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7618c785f5407e9b1d2201.jpg",
+          "link": "https://www.rt.com/news/644001-chinese-ai-cybersecurity-incident/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-07T21:03:50.000Z"
+        },
+        {
+          "id": "rt-2026-08-07-2102-02",
+          "titulo": "Dois civis mortos em ataque ucraniano a bloco residencial – governador da Crimeia",
+          "resumo": "Um ataque de drone ucraniano atingiu um prédio de apartamentos na Crimeia, matando dois civis, disse o chefe regional Sergey Aksyonov",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7633a720302734d313814b.jpg",
+          "link": "https://www.rt.com/russia/644004-ukrainian-drone-killed-two-civilians-apartment/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-07T21:03:33.000Z"
+        },
+        {
+          "id": "rt-2026-08-07-2103-03",
+          "titulo": "Senado dos EUA aprova projeto de lei de sanções contra a Rússia de Lindsey Graham",
+          "resumo": "O Senado dos EUA aprovou por esmagadora maioria um projeto de lei de sanções anti-russas apresentado pelo falecido senador Lindsey Graham",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a76258920302728622c953b.jpg",
+          "link": "https://www.rt.com/news/644003-lindsey-graham-sanctions-bill-senate/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-07T19:12:36.000Z"
+        },
+        {
+          "id": "rt-2026-08-07-2105-04",
+          "titulo": "Deputado iraniano critica pacto de defesa liderado pela Arábia Saudita com Paquistão e Turquia",
+          "resumo": "A Arábia Saudita, Paquistão e a Turquia, membro da OTAN, assinaram um pacto de defesa mútua em meio a um conflito crescente no Oriente Médio",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7605372030270c4b41a9aa.jpg",
+          "link": "https://www.rt.com/news/644000-saudi-pakistan-turkiye-pact/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-07T18:35:40.000Z"
+        },
+        {
+          "id": "rt-2026-08-07-2106-05",
+          "titulo": "Trump impõe tarifa de 15% sobre material-chave para chips para desafiar a China",
+          "resumo": "O presidente dos EUA, Donald Trump, ordenou novas tarifas e preços mínimos de importação sobre o polisilício, escalando a rivalidade tecnológica com a China",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7604d720302730e856f034.jpg",
+          "link": "https://www.rt.com/business/643990-trump-tariffs-chips-china/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-07T16:45:17.000Z"
+        },
+        {
+          "id": "rt-2026-08-07-2108-06",
+          "titulo": "Gigante de armas alemão relata vendas em alta",
+          "resumo": "A Rheinmetall viu sua receita aumentar quase 70% à medida que Berlim continua a apoiar a Ucrânia e aumenta os gastos militares",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75f63485f54029a76dbfab.jpg",
+          "link": "https://www.rt.com/business/643992-rheinmetal-sales-profits-military-spending/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-07T15:50:29.000Z"
+        },
+        {
+          "id": "rt-2026-08-07-2110-07",
+          "titulo": "Forças russas destroem centros de comando e infraestrutura militar da Ucrânia (VÍDEOS)",
+          "resumo": "O Ministério da Defesa da Rússia publicou imagens de bombas de guia FAB sendo usadas para destruir centros de comando da Ucrânia",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75b38b85f5407e9b1d21c7.png",
+          "link": "https://www.rt.com/russia/643983-ukraine-glide-bombs-donbass/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-07T13:32:27.000Z"
+        },
+        {
+          "id": "rt-2026-08-07-2111-08",
+          "titulo": "Cientistas criam vírus com IA",
+          "resumo": "Pesquisadores americanos usaram inteligência artificial para projetar e criar vírus funcionais que não existem na natureza pela primeira vez",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75d7f085f5407e9b1d21f7.jpg",
+          "link": "https://www.rt.com/news/643995-us-scientists-ai-virus/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-07T13:11:57.000Z"
+        },
+        {
+          "id": "rt-2026-08-07-2112-09",
+          "titulo": "Barco kamikaze ucraniano desabilitado encalha na Crimeia – oficial",
+          "resumo": "Um drone naval ucraniano foi encontrado encalhado no porto de Yalta, na Crimeia",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75c205203027760a74e7cd.jpg",
+          "link": "https://www.rt.com/russia/643987-yalta-ukrainian-naval-drone/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-07T12:50:02.000Z"
+        },
+        {
+          "id": "rt-2026-08-07-2113-10",
+          "titulo": "Índia lança programa de biogás comprimido no valor de 2,5 bilhões de dólares",
+          "resumo": "A Índia lançou um programa no valor de 2,5 bilhões de dólares para aumentar a produção de biogás comprimido e reduzir a dependência do GNL",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75d0102030277a9843cdd4.jpg",
+          "link": "https://www.rt.com/india/643988-india-compressed-biogas-lng/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-07T12:27:53.000Z"
+        },
+        {
+          "id": "rt-2026-08-07-2114-11",
+          "titulo": "Mortes de elefantes despertam temores sobre segurança alimentar no Quênia",
+          "resumo": "Veterinários quenianos alertaram sobre um risco potencial para a segurança alimentar após a cianeto ser ligado às mortes de 15 elefantes",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75c3ac20302725e606b214.jpg",
+          "link": "https://www.rt.com/africa/643986-elephant-deaths-food-safety-fears-kenya/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-07T11:40:35.000Z"
+        },
+        {
+          "id": "rt-2026-08-07-2115-12",
+          "titulo": "Trabalhadores de saúde não pagos abandonam instalações de ebola na República Democrática do Congo",
+          "resumo": "Trabalhadores de saúde na República Democrática do Congo abandonaram o trabalho devido a salários não pagos, enquanto o país luta para conter um surto de ebola em rápida propagação",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75b13a2030271e5f28bb22.jpg",
+          "link": "https://www.rt.com/africa/643984-unpaid-health-workers-desert-dr-congo-ebola-facilities/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-07T10:48:49.000Z"
+        },
+        {
+          "id": "rt-2026-08-07-2116-13",
+          "titulo": "Trump critica o 'ComPost' de Washington como 'traíra'",
+          "resumo": "O presidente dos EUA, Donald Trump, criticou o 'ComPost' de Washington como 'traíra' após um relatório se concentrar em sua frustração com Pete Hegseth",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75ad642030277a9843cdb5.jpg",
+          "link": "https://www.rt.com/news/643979-trump-washington-compost-treasonous-hegseth/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-07T10:44:29.000Z"
+        },
+        {
+          "id": "rt-2026-08-07-2117-14",
+          "titulo": "Como Zelensky mal interpretou Donald Trump",
+          "resumo": "Por que a visita cuidadosamente planejada à Casa Branca estava condenada desde o início",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75b0fe2030277d41104967.jpg",
+          "link": "https://www.rt.com/news/643982-how-zelensky-misread-donald-trump/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-07T10:44:28.000Z"
+        },
+        {
+          "id": "rt-2026-08-07-2118-15",
+          "titulo": "Basta de 'diplomacia de teatro' – principal negociador do Irã a Trump",
+          "resumo": "O principal negociador do Irã, Mohammad Bagher Ghalibaf, disse que o presidente dos EUA, Donald Trump, não ganhará nada com a 'diplomacia de teatro'",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75a45a85f5407e9b1d21c4.jpg",
+          "link": "https://www.rt.com/news/643981-iran-us-trump-ghalibaf/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-07T10:18:56.000Z"
+        },
+        {
+          "id": "rt-2026-08-07-2119-16",
+          "titulo": "Trump renova esforço para limitar a cidadania por nascimento",
           "resumo": "O presidente dos EUA, Donald Trump, assinou ordens executivas que impõem novas restrições à cidadania por nascimento",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a759bf520302773546c91fe.jpg",
           "link": "https://www.rt.com/news/643978-trump-birthright-citizenship-limitation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-07T09:04:09-03:00"
-        },
-        {
-          "id": "rt-2026-08-07-02",
-          "titulo": "Trump faz revelação privada sobre sucessor – WaPo",
-          "resumo": "Donald Trump sinalizou privadamente apoio a JD Vance como próximo presidente, enquanto evita publicamente uma declaração de apoio para 2028",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7595e020302773546c91f4.jpg",
-          "link": "https://www.rt.com/news/643980-trump-private-revelation-2028-successor/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-07T08:38:35-03:00"
-        },
-        {
-          "id": "rt-2026-08-07-03",
-          "titulo": "Zelensky perderia eleição presidencial – pesquisa",
-          "resumo": "Uma pesquisa sugere que o presidente ucraniano, Vladimir Zelensky, perderia uma eleição presidencial se realizada agora",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a756aa1203027719437d299.jpg",
-          "link": "https://www.rt.com/russia/643963-ukraine-zelensky-election-zaluzhny/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-07T07:22:47-03:00"
-        },
-        {
-          "id": "rt-2026-08-07-04",
-          "titulo": "Tiroteio letal em escola tailandesa (FOTOS)",
-          "resumo": "Um tiroteio letal ocorreu em uma escola em Nonthaburi, Tailândia",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75752b85f540233844a388.jpg",
-          "link": "https://www.rt.com/news/643977-thailand-deadly-school-shooting/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-07T06:32:56-03:00"
-        },
-        {
-          "id": "rt-2026-08-07-05",
-          "titulo": "Colonos judeus acusados de homicídio em Cisjordânia",
-          "resumo": "Um colono judeu foi acusado de homicídio após a morte de um líder comunitário palestino na Cisjordânia",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7564a32030277d865797c3.png",
-          "link": "https://www.rt.com/news/643962-jewish-settler-charged-homicide/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-07T04:55:17-03:00"
-        },
-        {
-          "id": "rt-2026-08-07-06",
-          "titulo": "Hungria sugere 'Esconda a Dor Harold' para presidente – The Guardian",
-          "resumo": "Um homem por trás do meme 'Esconda a Dor Harold' lidera uma pesquisa para o cargo de presidente da Hungria",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a74d9e4203027592774482d.jpg",
-          "link": "https://www.rt.com/news/643957-hungarians-hide-pain-harold-president/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-07T03:30:09-03:00"
-        },
-        {
-          "id": "rt-2026-08-07-07",
-          "titulo": "Iêmen: rebeldes hutis lançam ataque contra forças apoiadas pela Arábia Saudita (VÍDEOS)",
-          "resumo": "Rebeldes hutis no Iêmen lançaram ataques em grande escala contra forças apoiadas pela Arábia Saudita",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7513fc85f54028bb5eff5a.jpg",
-          "link": "https://www.rt.com/news/643959-houthis-attack-pro-saudi-troops/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-07T02:49:01-03:00"
-        },
-        {
-          "id": "rt-2026-08-07-08",
-          "titulo": "Trump recusa pedido de Zelensky por mísseis",
-          "resumo": "O presidente dos EUA, Donald Trump, recusou o pedido do presidente ucraniano, Vladimir Zelensky, por mísseis interceptores adicionais",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7527cb85f540297d26e16f.jpg",
-          "link": "https://www.rt.com/news/643961-trump-ukraine-interceptors-denied/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-07T00:35:12-03:00"
-        },
-        {
-          "id": "rt-2026-08-07-09",
-          "titulo": "O que está no manifesto 'Salve a América' de Tucker Carlson?",
-          "resumo": "Tucker Carlson apresentou um manifesto político após sua saída do partido de Donald Trump e prometeu ajudar a construir um terceiro partido",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a750d21203027489436b56f.jpg",
-          "link": "https://www.rt.com/news/643960-tucker-carlson-political-manifesto/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-06T22:45:04-03:00"
-        },
-        {
-          "id": "rt-2026-08-07-10",
-          "titulo": "Irã diz que acordo sobre Hormuz está 'quase concluído'",
-          "resumo": "O Irã afirmou que as negociações com Omã sobre a reabertura do comércio no estreito de Hormuz estão em estágio avançado",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a74e80c203027489436b565.jpg",
-          "link": "https://www.rt.com/news/643958-iran-oman-hormuz-deal/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-06T21:02:37-03:00"
-        },
-        {
-          "id": "rt-2026-08-07-11",
-          "titulo": "Comitê do Senado dos EUA considera Fauci em desacato",
-          "resumo": "Um comitê do Senado dos EUA considerou o Dr. Anthony Fauci em desacato por se recusar a testemunhar sobre as origens da Covid-19",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a74d4e785f54030ee7e7a83.jpg",
-          "link": "https://www.rt.com/news/643956-fauci-held-contempt-congress/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-06T19:10:16-03:00"
-        },
-        {
-          "id": "rt-2026-08-07-12",
-          "titulo": "Embaixador da Ucrânia na Polônia defende a veneração de colaboradores nazistas",
-          "resumo": "O embaixador da Ucrânia na Polônia defendeu Stepan Bandera como um herói nacional que merece ser honrado, apesar do crescente descontentamento em Varsóvia",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a74b5dc20302737fa6e0660.jpg",
-          "link": "https://www.rt.com/russia/643952-ukraine-ambassador-defends-bandera/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-06T18:18:15-03:00"
-        },
-        {
-          "id": "rt-2026-08-07-13",
-          "titulo": "Cristãos estão sob ataque em Jerusalém",
-          "resumo": "Freiras, padres e fiéis descrevem o aumento de abusos, arremesso de pedras e medo em Jerusalém, à medida que os incidentes anti-cristãos aumentam",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a74cca985f540342d3460ac.png",
-          "link": "https://www.rt.com/news/643950-jerusalem-christians-under-siege/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-06T18:07:11-03:00"
-        },
-        {
-          "id": "rt-2026-08-07-14",
-          "titulo": "Nigéria liberta 300 reféns em operação de resgate recorde",
-          "resumo": "Forças de segurança nigerianas libertaram 308 pessoas sequestradas nos estados de Kwara e Niger em uma operação de resgate recorde",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a74a43d2030274c5426aeaa.jpg",
-          "link": "https://www.rt.com/africa/643949-nigeria-frees-308-hostages/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-06T15:46:23-03:00"
-        },
-        {
-          "id": "rt-2026-08-07-15",
-          "titulo": "Helicóptero de Trump quase colide com avião de passageiros – FAA",
-          "resumo": "O helicóptero Marine One, que transportava o presidente dos EUA, Donald Trump, quase colidiu com um avião de passageiros sobre Washington, DC",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a74a3b285f54029a76dbf49.jpg",
-          "link": "https://www.rt.com/news/643934-faa-trump-helicopter-passenger-airplane/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-06T15:25:42-03:00"
-        },
-        {
-          "id": "rt-2026-08-07-16",
-          "titulo": "Bangladesh critica a Índia por permitir que ex-primeiro-ministro fale à imprensa",
-          "resumo": "Bangladesh criticou a Índia por permitir que o ex-primeiro-ministro Sheikh Hasina falasse à imprensa, dizendo que isso foi prejudicial às relações",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a74a443203027411c6b0694.jpg",
-          "link": "https://www.rt.com/india/643948-bangladesh-blasts-india-hasina/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-06T15:16:18-03:00"
+          "publicado_em": "2026-08-07T09:04:09.000Z"
         }
       ]
     },
