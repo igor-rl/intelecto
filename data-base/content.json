@@ -79,95 +79,127 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-08-06T21:00:00.808Z",
+      "gerado_em": "2026-08-07T10:00:00.806Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-08-06-2101",
-          "titulo": "Administração Trump Desregulamenta Head Start, Programa de Combate à Pobreza Criado Sob R.F.K. Jr.",
-          "resumo": "Enquanto funcionários da administração dizem que as mudanças economizarão dinheiro ao levantar requisitos onerosos, defensores temem que o programa de combate à pobreza será esvaziado.",
+          "id": "new_york_times-2026-08-07-1001",
+          "titulo": "Trump Assina Ordens Executivas Visando Cidadania por Nascimento e 'Turismo de Nascimento'",
+          "resumo": "As ordens vêm após a Suprema Corte decidir em 30 de junho que os esforços anteriores do presidente Trump para acabar com a cidadania por nascimento eram inconstitucionais.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html",
+          "publicado_em": "2026-08-07T09:00:40.000Z"
+        },
+        {
+          "id": "new_york_times-2026-08-07-1002",
+          "titulo": "Administração Trump Pretende Desregular o Head Start, Programa de Combate à Pobreza Criado Sob R.F.K. Jr.",
+          "resumo": "Enquanto funcionários da administração dizem que as mudanças economizarão dinheiro ao levantar requisitos onerosos, defensores temem que o programa antipobreza será esvaziado.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/08/06/us/politics/rfk-jr-head-start-antipoverty-program.html",
-          "publicado_em": "2026-08-06T19:46:51.000-03:00"
+          "publicado_em": "2026-08-06T19:46:52.000Z"
         },
         {
-          "id": "new_york_times-2026-08-06-2102",
-          "titulo": "Participação das Mulheres em Promoções Militares de Alto Nível Cai à medida que Hegseth Bloqueia Nomeações",
-          "resumo": "A porcentagem de nomeações de oficiais de alto escalão para mulheres está atualmente em seu nível mais baixo em mais de duas décadas.",
+          "id": "new_york_times-2026-08-07-1003",
+          "titulo": "Meta é Ordenada a Pagar Multa de $567 Milhões por Juiz do Novo México",
+          "resumo": "A penalidade, imposta por um juiz estadual, é além de uma multa de $375 milhões ordenada por um júri que encontrou a Meta enganando os usuários sobre a segurança de suas plataformas.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/06/upshot/military-promotions-women-hegseth.html",
-          "publicado_em": "2026-08-06T19:03:52.000-03:00"
+          "link": "https://www.nytimes.com/2026/08/06/technology/meta-new-mexico-child-safety.html",
+          "publicado_em": "2026-08-07T09:50:23.000Z"
         },
         {
-          "id": "new_york_times-2026-08-06-2104",
-          "titulo": "Sindicato Representando Trabalhadores do IRS Processa por Acordo de Trump que Concede Proteções Tributárias Abrangentes",
-          "resumo": "O pedido foi a primeira vez que alguém usou os tribunais em um esforço para diretamente matar as proteções tributárias abrangentes oferecidas ao presidente e sua família.",
+          "id": "new_york_times-2026-08-07-1004",
+          "titulo": "Andy Ogles Perde para um Desafiante Republicano no Tennessee",
+          "resumo": "O Sr. Ogles, um congressista de dois mandatos, havia resistido a ameaças primárias antes, apesar de controvérsias. Mas na quinta-feira, Charlie Hatcher, um ex-comissário de agricultura estadual, causou uma surpresa.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/06/us/irs-workers-lawsuit-trump-tax-protections.html",
-          "publicado_em": "2026-08-06T20:19:04.000-03:00"
+          "link": "https://www.nytimes.com/2026/08/06/us/politics/andy-ogles-loses-tennessee-primary-charlie-hatcher.html",
+          "publicado_em": "2026-08-07T03:57:56.000Z"
         },
         {
-          "id": "new_york_times-2026-08-06-2105",
-          "titulo": "Comitê do Senado Vota para Considerar Fauci em Desacato ao Congresso",
-          "resumo": "Dr. Anthony Fauci se recusou a responder a perguntas em uma audiência na semana passada, invocando a Quinta Emenda. Republicanos argumentaram que ele não tinha direito a essa proteção porque recebeu um perdão presidencial.",
+          "id": "new_york_times-2026-08-07-1005",
+          "titulo": "Blackburn Vence a Nomeação Republicana para Governadora do Tennessee",
+          "resumo": "A senadora Marsha Blackburn facilmente derrotou dois rivais republicanos e agora é favorita para se tornar a primeira governadora feminina do estado após as eleições de novembro.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/06/us/politics/fauci-contempt-of-congress.html",
-          "publicado_em": "2026-08-06T20:29:07.000-03:00"
+          "link": "https://www.nytimes.com/2026/08/06/us/elections/marsha-blackburn-tennessee-governor-primary.html",
+          "publicado_em": "2026-08-07T02:02:26.000Z"
         },
         {
-          "id": "new_york_times-2026-08-06-2107",
+          "id": "new_york_times-2026-08-07-1006",
           "titulo": "Mitch McConnell é Liberado de uma Instalação de Reabilitação",
-          "resumo": "O republicano de Kentucky esteve ausente do Congresso por quase dois meses após um episódio de saúde. Ele disse que continuaria se recuperando em casa.",
+          "resumo": "O republicano de Kentucky está ausente do Congresso há quase dois meses após um episódio de saúde. Ele disse que continuaria se recuperando em casa.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/08/06/us/politics/mitch-mcconnell-discharged-hospitalization-senate.html",
-          "publicado_em": "2026-08-06T20:55:59.000-03:00"
+          "publicado_em": "2026-08-06T20:55:59.000Z"
         },
         {
-          "id": "new_york_times-2026-08-06-2108",
-          "titulo": "Democratas Moderados Preparam-se para ‘Guerra’ Contra uma Esquerda Ascendente",
-          "resumo": "Um grupo moderado diz que as vitórias progressistas são “profundamente perturbadoras” e está planejando um esforço de $15 milhões contra o socialismo democrático.",
+          "id": "new_york_times-2026-08-07-1007",
+          "titulo": "Alguns Republicanos da Câmara Apoiam um Desafiante na Reeleição de Cory Mills",
+          "resumo": "Dois legisladores republicanos endossaram um oponente primário do representante Cory Mills, que foi acusado de agressão e está sob investigação do Comitê de Ética da Câmara.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/06/us/politics/democratic-party-socialists-moderates.html",
-          "publicado_em": "2026-08-06T14:55:02.000-03:00"
+          "link": "https://www.nytimes.com/2026/08/06/us/politics/republicans-endorse-cory-mills-opponent.html",
+          "publicado_em": "2026-08-06T23:58:42.000Z"
         },
         {
-          "id": "new_york_times-2026-08-06-2110",
-          "titulo": "Fugiu para a América aos 11. Roubou aos 18. Deportado para o Vietnã aos 44.",
+          "id": "new_york_times-2026-08-07-1008",
+          "titulo": "Após Trump Chamar Canadenses de 'Desagradáveis', Mark Carney Diz que a Palavra se Ajusta às Negociações Comerciais",
+          "resumo": "O primeiro-ministro canadense riu da descrição de Trump do Canadá, mas sugeriu que as negociações comerciais entre os dois países são acrimoniosas.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/06/world/canada/carney-trump-tariffs-trade.html",
+          "publicado_em": "2026-08-06T22:45:54.000Z"
+        },
+        {
+          "id": "new_york_times-2026-08-07-1009",
+          "titulo": "Trump Impõe Tarifas sobre Ingrediente-Chave para Eletrônicos e Painéis Solares",
+          "resumo": "A administração imporá um preço mínimo de importação para o polissilício, um componente-chave para semicondutores e painéis solares, bem como tarifas para produtos feitos com o material.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/06/us/politics/trump-tariffs-solar-panels.html",
+          "publicado_em": "2026-08-06T21:53:18.000Z"
+        },
+        {
+          "id": "new_york_times-2026-08-07-1010",
+          "titulo": "O Boom de Exportações da China Continua Apesar da Reação Comercial",
+          "resumo": "As fábricas da China estão encontrando compradores ansiosos no exterior, mesmo que o gasto do consumidor fraco e o declínio prolongado da propriedade imobiliária pesem no crescimento interno.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/07/business/china-trade-exports.html",
+          "publicado_em": "2026-08-07T07:20:24.000Z"
+        },
+        {
+          "id": "new_york_times-2026-08-07-1012",
+          "titulo": "Comitê do Senado Vota para Manter Fauci em Contempto do Congresso",
+          "resumo": "Dr. Anthony Fauci se recusou a responder a perguntas em uma audiência na semana passada, invocando a Quinta Emenda. Os republicanos argumentaram que ele não tinha direito a essa proteção porque recebeu um perdão presidencial.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/06/us/politics/fauci-contempt-of-congress.html",
+          "publicado_em": "2026-08-06T21:33:51.000Z"
+        },
+        {
+          "id": "new_york_times-2026-08-07-1016",
+          "titulo": "Fugiu para a América Aos 11. Roubou Aos 18. Deportado para o Vietnã Aos 44",
           "resumo": "A administração Trump está enviando de volta números recordes de vietnamitas, laotianos e hmong. Muitos vieram aos EUA como jovens refugiados de guerra e mais tarde cometeram crimes.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/08/06/us/politics/deportations-southeast-asians-trump.html",
-          "publicado_em": "2026-08-06T18:00:44.000-03:00"
+          "publicado_em": "2026-08-06T18:00:44.000Z"
         },
         {
-          "id": "new_york_times-2026-08-06-2112",
-          "titulo": "Seca Ameaça uma Artéria Econômica Vital no Coração da Europa",
-          "resumo": "O Reno transporta embarcações e cargas que impulsionam a indústria europeia. Níveis de água recordes estão interrompendo cadeias de suprimentos, adicionando custos e apresentando riscos frescos para o crescimento.",
+          "id": "new_york_times-2026-08-07-1017",
+          "titulo": "Erro de Registro de Eleitores Pode Custar a Imigrantes uma Chance de Obter um Cartão Verde",
+          "resumo": "Nova Jersey adicionou indevidamente até 6.600 não-cidadãos às suas listas de eleitores. Essas pessoas agora podem ser forçadas a deixar o país.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/06/business/rhine-drought-germany-economy.html",
-          "publicado_em": "2026-08-06T16:32:53.000-03:00"
+          "link": "https://www.nytimes.com/2026/08/06/nyregion/noncitizen-voter-registration-green-card.html",
+          "publicado_em": "2026-08-06T22:21:53.000Z"
         },
         {
-          "id": "new_york_times-2026-08-06-2115",
-          "titulo": "Ataques Houthi às Forças Militares do Iêmen Ameaçam Reacender a Guerra Civil",
-          "resumo": "A milícia apoiada pelo Irã disse que havia atacado as forças armadas em duas províncias ricas em recursos, à medida que a violência crescente no Iêmen põe em risco uma frágil trégua.",
+          "id": "new_york_times-2026-08-07-1018",
+          "titulo": "Como o Japão Minimiza as Mortes em um Grande Terremoto",
+          "resumo": "Depois de tremores mortais há uma década, Kumamoto construiu edifícios resistentes a terremotos e até treinou moradores em busca e resgate.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/06/world/middleeast/houthi-yemen-strikes.html",
-          "publicado_em": "2026-08-06T19:01:49.000-03:00"
+          "link": "https://www.nytimes.com/2026/08/07/world/asia/japan-earthquake-kumamoto-preparation.html",
+          "publicado_em": "2026-08-07T04:01:16.000Z"
         },
         {
-          "id": "new_york_times-2026-08-06-2116",
-          "titulo": "Irã Diz que Está Próximo de um Acordo Final com Omã sobre o Estreito de Ormuz",
-          "resumo": "O acordo sobre uma rota aceitável para navios passarem pelo estreito efetivamente ratificaria o controle de Teerã sobre a crucial via aquática.",
+          "id": "new_york_times-2026-08-07-1022",
+          "titulo": "Tiroteio em Escola na Tailândia Deixa Pelo Menos Oito Mortos",
+          "resumo": "Um estudante matou seus avós em casa antes de abrir fogo em uma escola secundária perto de Bangkok e se matar, disseram as autoridades.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/05/world/middleeast/iran-oman-strait-of-hormuz.html",
-          "publicado_em": "2026-08-05T17:08:46.000-03:00"
-        },
-        {
-          "id": "new_york_times-2026-08-06-2117",
-          "titulo": "Colonos Israelenses Acusados de Morte de Ativista Awdah Hathaleen",
-          "resumo": "A denúncia foi um caso raro em que as autoridades israelenses apresentaram acusações contra um israelense pelo assassinato de um palestino.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/06/world/middleeast/israel-settler-manslaughter-palestinian-activist.html",
-          "publicado_em": "2026-08-06T20:52:49.000-03:00"
+          "link": "https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html",
+          "publicado_em": "2026-08-07T09:49:53.000Z"
         }
       ]
     },
