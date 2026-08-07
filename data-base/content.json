@@ -216,111 +216,95 @@
     "euronews": {
       "slug": "euronews",
       "nome": "Euro News",
-      "gerado_em": "2026-08-06T21:00:17.501Z",
+      "gerado_em": "2026-08-07T10:00:20.970Z",
       "artigos": [
         {
-          "id": "euronews-2026-08-06-2101",
-          "titulo": "Administração Trump pagará 1,06 bilhão de euros para cancelar licenças de energia eólica offshore da RWE",
-          "resumo": "O presidente dos EUA, Donald Trump, crítico de longa data da energia eólica, já havia descartado turbinas eólicas como feias e as rotulou como \"desastre econômico e ambiental\".",
+          "id": "euronews-2026-08-07-1001",
+          "titulo": "Sri Lanka deploys troops to contain growing prison unrest, minister says",
+          "resumo": "Officials have attributed the growing unrest to acute overcrowding. Sri Lanka's prisons hold about four times their intended capacity.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/07/sri-lanka-deploys-troops-to-contain-growing-prison-unrest-minister-says",
+          "publicado_em": "2026-08-07T08:43:06.000Z"
+        },
+        {
+          "id": "euronews-2026-08-07-1005",
+          "titulo": "South Korea recovers landmines believed to have washed from North by monsoon floods",
+          "resumo": "The Demilitarised Zone (DMZ), splitting the Koreas since their 1950-53 war ended with an armistice, is one of the most heavily mined places on Earth.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/07/south-korea-recovers-landmines-believed-to-have-washed-from-north-by-monsoon-floods",
+          "publicado_em": "2026-08-07T06:29:49.000Z"
+        },
+        {
+          "id": "euronews-2026-08-07-1008",
+          "titulo": "Eight dead, including teen suspect's grandparents, in Thailand shooting, police say",
+          "resumo": "Thailand has one of the highest rates of gun ownership in the region, with around 10 million firearms estimated to be in circulation, one for every seven inhabitants.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/07/two-dead-and-several-wounded-in-thailand-school-shooting-local-official-says",
+          "publicado_em": "2026-08-07T04:54:43.000Z"
+        },
+        {
+          "id": "euronews-2026-08-07-1009",
+          "titulo": "Meta ordered to pay $567 Mn to US for 'public nuisance' and 'child harm'",
+          "resumo": "A New Mexico judge has penalised the tech giant for creating a public nuisance and endangering children online. Meta confirmed it plans to appeal, insisting it works hard to protect young users across...",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/07/meta-ordered-to-pay-567-mn-to-us-for-public-nuisance-and-child-harm",
+          "publicado_em": "2026-08-07T04:15:36.000Z"
+        },
+        {
+          "id": "euronews-2026-08-07-1010",
+          "titulo": "Saudi Arabia, Türkiye and Pakistan forge new defence pact amid US-Iran tensions",
+          "resumo": "Crown Prince Mohammed bin Salman, President Recep Tayyip Erdoğan, and Prime Minister Shehbaz Sharif will meet in Jeddah to formalise a joint agreement. The landmark pact aims to strengthen regional security...",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/07/saudi-arabia-turkiye-and-pakistan-to-sign-joint-defence-pact-amid-regional-escalation",
+          "publicado_em": "2026-08-07T03:36:16.000Z"
+        },
+        {
+          "id": "euronews-2026-08-07-1011",
+          "titulo": "Trump administration to pay €1.06 billion to cancel RWE offshore wind leases",
+          "resumo": "US President Donald Trump, long a critic of wind energy, has repeatedly dismissed wind turbines as unsightly and has labelled them an \"economic and environmental disaster.\"",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/06/trump-administration-to-pay-106-billion-to-cancel-rwe-offshore-wind-leases",
           "publicado_em": "2026-08-06T20:02:48.000Z"
         },
         {
-          "id": "euronews-2026-08-06-2102",
-          "titulo": "Belarus designa site da Euronews como 'mídia extremista'",
-          "resumo": "A Euronews condena a decisão obscura e unilateral da Bielorrússia de designar a cobertura de notícias digitais da Euronews como \"extremista\", medida que expõe o enorme público da Euronews na Bielorrússia a penalidades legais.",
+          "id": "euronews-2026-08-07-1012",
+          "titulo": "Belarus designates Euronews’ website as 'extremist' media",
+          "resumo": "Euronews condemns Belarus’ obscure and unilateral decision to designate Euronews’ digital news coverage as “extremist,” a measure which exposes Euronews’ huge audience in Belarus to legal penalties for...",
           "imagem": null,
           "link": "http://www.euronews.com/my-europe/2026/08/06/belarus-designates-euronews-website-as-extremist-media",
           "publicado_em": "2026-08-06T16:17:58.000Z"
         },
         {
-          "id": "euronews-2026-08-06-2106",
-          "titulo": "Coreia do Norte dispara pelo menos um míssil balístico no mar, diz militar da Coreia do Sul",
-          "resumo": "A Coreia do Norte declarou-se um \"estado nuclear irreversível\" desde que as negociações entre o líder Kim Jong-un e o presidente dos EUA, Donald Trump, fracassaram em 2019.",
+          "id": "euronews-2026-08-07-1016",
+          "titulo": "North Korea fires at least one ballistic missile into sea, South Korea's military says",
+          "resumo": "North Korea has repeatedly declared itself an \"irreversible\" nuclear state since leader Kim Jong- un's 2019 summit with US President Donald Trump collapsed over the scope of denuclearisation and sanctions...",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/06/north-korea-fires-at-least-one-ballistic-missile-into-sea-south-koreas-military-says",
           "publicado_em": "2026-08-06T10:55:23.000Z"
         },
         {
-          "id": "euronews-2026-08-06-2110",
-          "titulo": "Trump descarta relatos de escassez de munições, diz que EUA têm 'quantidades massivas'",
-          "resumo": "O Washington Post informou que Trump exigiu respostas sobre a escassez de munições do chefe do Pentágono, Pete Hegseth, na última sexta-feira, quando participaram de uma reunião de gabinete na sede presidencial de Camp David.",
+          "id": "euronews-2026-08-07-1020",
+          "titulo": "Trump dismisses reports of munitions shortages, says US has 'massive amounts'",
+          "resumo": "The Washington Post reported that Trump demanded answers about the munitions shortages from Pentagon chief Pete Hegseth last Friday, when they attended a cabinet meeting at the Camp David presidential retreat.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/06/trump-dismisses-reports-of-munitions-shortages-says-us-has-massive-amounts",
           "publicado_em": "2026-08-06T07:40:53.000Z"
         },
         {
-          "id": "euronews-2026-08-06-2112",
-          "titulo": "Hiroshima marca 81 anos desde o bombardeio atômico, enquanto prefeito deplora a busca por armas nucleares",
-          "resumo": "Sobreviventes expressaram frustração e preocupação com o aumento do apoio à posse de armas nucleares para dissuasão pela comunidade internacional, incluindo o Japão.",
+          "id": "euronews-2026-08-07-1022",
+          "titulo": "Hiroshima marks 81 years since atomic bombing as mayor deplores pursuit of nuclear weapons",
+          "resumo": "Survivors have expressed frustration and worry over growing support for the possession of nuclear weapons for deterrence by the international community, including Japan.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/06/hiroshima-marks-81-years-since-atomic-bombing-as-mayor-deplores-pursuit-of-nuclear-weapons",
           "publicado_em": "2026-08-06T06:09:37.000Z"
         },
         {
-          "id": "euronews-2026-08-06-2113",
-          "titulo": "Ex-chefe da junta de Mianmar busca legitimidade política em primeira viagem à Tailândia como líder civil",
-          "resumo": "Combates entre as forças militares de Mianmar e facções rebeldes variadas se espalharam pela longa fronteira com a Tailândia, que abriga milhões de refugiados de Mianmar.",
+          "id": "euronews-2026-08-07-1023",
+          "titulo": "Myanmar ex-junta chief seeks political legitimacy on first Thailand trip as civilian leader",
+          "resumo": "Fighting between Myanmar's military and myriad rebel factions has spilled over the long border with Thailand, which hosts millions of refugees from Myanmar.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/06/myanmar-ex-junta-chief-seeks-political-legitimacy-on-first-thailand-trip-as-civilian-leade",
           "publicado_em": "2026-08-06T05:33:54.000Z"
-        },
-        {
-          "id": "euronews-2026-08-06-2115",
-          "titulo": "IDF continuará a 'operar proativamente' na Faixa de Gaza, diz chefe militar israelense",
-          "resumo": "A declaração veio após o primeiro-ministro israelense, Benjamin Netanyahu, dizer que Israel não concordou com um plano apoiado pelos EUA para a Faixa de Gaza.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/05/idf-to-continue-to-operate-proactively-in-gaza-military-chief-says",
-          "publicado_em": "2026-08-05T19:42:25.000Z"
-        },
-        {
-          "id": "euronews-2026-08-06-2117",
-          "titulo": "Irã e Omã concordam com rota para navios no Estreito de Ormuz, diz Teerã",
-          "resumo": "Teerã anunciou que o Irã e Omã concordaram com a rota geográfica para o transporte de navios pelo Estreito de Ormuz, alegando que os EUA não estiveram envolvidos no acordo.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/05/iran-and-oman-agree-route-for-ships-in-strait-of-hormuz-tehran-says",
-          "publicado_em": "2026-08-05T16:14:39.000Z"
-        },
-        {
-          "id": "euronews-2026-08-06-2120",
-          "titulo": "Moderna inicia testes humanos para vacina contra o Ebola Bundibugyo à medida que surto na República Democrática do Congo continua",
-          "resumo": "A Moderna vacinou os primeiros participantes em um teste para uma vacina contra o Ebola Bundibugyo, à medida que a República Democrática do Congo continua a lutar contra seu surto de crescimento mais rápido já registrado.",
-          "imagem": null,
-          "link": "http://www.euronews.com/health/2026/08/05/moderna-starts-human-trials-for-bundibugyo-ebola-vaccine-as-congos-outbreak-continues",
-          "publicado_em": "2026-08-05T12:31:34.000Z"
-        },
-        {
-          "id": "euronews-2026-08-06-2122",
-          "titulo": "Irmã de Kim Jong-un, Kim Yo Jong, avisa sobre opções militares sobre a mudança do Japão para um 'estado de guerra'",
-          "resumo": "O Japão tem se afastado gradualmente de seu status pacifista pós-Segunda Guerra Mundial, aumentando os gastos militares, ampliando pactos de defesa e implantando lançadores de mísseis em suas ilhas externas.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/05/north-koreas-kim-yo-jong-warns-of-military-options-over-japans-move-into-war-state",
-          "publicado_em": "2026-08-05T09:47:03.000Z"
-        },
-        {
-          "id": "euronews-2026-08-06-2123",
-          "titulo": "Funeral em massa realizado na Faixa de Gaza para vítimas de ataque aéreo em 2023",
-          "resumo": "Funeral realizado na Faixa de Gaza após equipes recuperarem 112 corpos do local de um ataque aéreo mortal em 2023, com muitas vítimas ainda desaparecidas sob escombros.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/08/05/mass-funeral-held-in-gaza-for-victims-of-2023-air-strike",
-          "publicado_em": "2026-08-05T09:19:32.000Z"
-        },
-        {
-          "id": "euronews-2026-08-06-2124",
-          "titulo": "Incêndios ardem após ataque de mísseis e drones russos em Kiev",
-          "resumo": "Bombeiros lutaram contra vários incêndios em armazéns e prédios durante a noite após ataques de mísseis e drones russos matarem pelo menos 15 pessoas e ferirem 42 em Kiev e na região circundante.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/08/05/fires-rage-after-russian-missile-and-drone-attack-on-kyiv",
-          "publicado_em": "2026-08-05T08:24:46.000Z"
-        },
-        {
-          "id": "euronews-2026-08-06-2125",
-          "titulo": "Raiva, medo, choque e compaixão: o caminho incerto de Ceuta de volta à normalidade",
-          "resumo": "Nosso repórter Julián López Gómez chegou à Cidade Autônoma apenas dois dias após pelo menos 72.000 pessoas cruzarem ilegalmente sua fronteira com o Marrocos. Em meio a confusão generalizada, ansiedade e perplexidade, ...",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/05/anger-fear-shock-and-compassion-ceutas-uncertain-path-back-to-normality",
-          "publicado_em": "2026-08-05T07:36:28.000Z"
         }
       ]
     },
