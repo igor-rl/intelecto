@@ -232,95 +232,111 @@
     "euronews": {
       "slug": "euronews",
       "nome": "Euro News",
-      "gerado_em": "2026-08-07T10:00:20.970Z",
+      "gerado_em": "2026-08-07T21:00:18.736Z",
       "artigos": [
         {
-          "id": "euronews-2026-08-07-1001",
-          "titulo": "Sri Lanka deploys troops to contain growing prison unrest, minister says",
-          "resumo": "Officials have attributed the growing unrest to acute overcrowding. Sri Lanka's prisons hold about four times their intended capacity.",
+          "id": "euronews-2026-08-07-2101",
+          "titulo": "Tribunal de apelação dos EUA ordena paralisação da construção da sala de baile de Trump sem aprovação do Congresso",
+          "resumo": "O Tribunal de Apelação dos EUA para o Circuito de DC, que havia permitido a continuação da construção enquanto considerava o caso, concordou com um tribunal inferior que uma reforma tão massiva da Casa Branca exigia a aprovação do...",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/07/us-appeals-court-orders-halt-to-trump-ballroom-construction-without-congressional-approval",
+          "publicado_em": "2026-08-07T18:55:15.000Z"
+        },
+        {
+          "id": "euronews-2026-08-07-2102",
+          "titulo": "Senado dos EUA aprova projeto de lei de sanções contra a Rússia que visa a renda do setor energético",
+          "resumo": "O pacote imporia sanções a funcionários russos, oligarcas, instituições financeiras e a chamada frota sombra usada para evadir restrições às exportações de petróleo de Moscou. Também permitiria que o presidente dos EUA...",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/07/us-senate-approves-sweeping-russia-sanctions-bill-targeting-energy-income",
+          "publicado_em": "2026-08-07T18:20:21.000Z"
+        },
+        {
+          "id": "euronews-2026-08-07-2104",
+          "titulo": "Incêndio florestal queima 100 hectares perto de Narbonne, na França",
+          "resumo": "Canadairs e helicópteros combatem um incêndio florestal que queimou cerca de 100 hectares na região de Corbières, perto de Narbonne, na França, após um acidente de trânsito.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/08/07/wildfire-burns-100-hectares-near-narbonne-in-france",
+          "publicado_em": "2026-08-07T14:40:09.000Z"
+        },
+        {
+          "id": "euronews-2026-08-07-2105",
+          "titulo": "Taiwan testa resposta a emergências com exercício de ataque aéreo",
+          "resumo": "Taiwan realizou um exercício de ataque aéreo em Kaohsiung, paralisando o tráfego e orientando os moradores, enquanto as autoridades testam as respostas de emergência civis.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/08/07/taiwan-tests-emergency-response-with-air-raid-drill",
+          "publicado_em": "2026-08-07T13:36:27.000Z"
+        },
+        {
+          "id": "euronews-2026-08-07-2107",
+          "titulo": "Sri Lanka envia tropas para conter crescente agitação nos presídios, diz ministro",
+          "resumo": "Os funcionários atribuíram a crescente agitação ao superlotamento agudo. Os presídios de Sri Lanka abrigam cerca de quatro vezes sua capacidade projetada.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/07/sri-lanka-deploys-troops-to-contain-growing-prison-unrest-minister-says",
           "publicado_em": "2026-08-07T08:43:06.000Z"
         },
         {
-          "id": "euronews-2026-08-07-1005",
-          "titulo": "South Korea recovers landmines believed to have washed from North by monsoon floods",
-          "resumo": "The Demilitarised Zone (DMZ), splitting the Koreas since their 1950-53 war ended with an armistice, is one of the most heavily mined places on Earth.",
+          "id": "euronews-2026-08-07-2111",
+          "titulo": "Coreia do Sul recupera minas terrestres que acredita terem sido levadas pela Coreia do Norte por inundações de monção",
+          "resumo": "A Zona Desmilitarizada (DMZ), que divide as Coreias desde o fim da guerra em 1953, é um dos lugares mais minados do mundo.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/07/south-korea-recovers-landmines-believed-to-have-washed-from-north-by-monsoon-floods",
           "publicado_em": "2026-08-07T06:29:49.000Z"
         },
         {
-          "id": "euronews-2026-08-07-1008",
-          "titulo": "Eight dead, including teen suspect's grandparents, in Thailand shooting, police say",
-          "resumo": "Thailand has one of the highest rates of gun ownership in the region, with around 10 million firearms estimated to be in circulation, one for every seven inhabitants.",
+          "id": "euronews-2026-08-07-2112",
+          "titulo": "Austrália concede cidadania a duas jogadoras de futebol iranianas que buscaram asilo",
+          "resumo": "O Conselho de Refugiados da Austrália, uma organização sem fins lucrativos que representa os solicitantes de asilo, disse que os refugiados geralmente precisam viver na Austrália com um visto válido por quatro anos antes de poderem solicitar a cidadania.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/07/australia-grants-citizenship-to-two-iranian-women-footballers-who-sought-asylum",
+          "publicado_em": "2026-08-07T06:00:03.000Z"
+        },
+        {
+          "id": "euronews-2026-08-07-2114",
+          "titulo": "Oito mortos, incluindo avós do suspeito adolescente, em tiroteio na Tailândia, diz polícia",
+          "resumo": "A Tailândia tem uma das maiores taxas de propriedade de armas de fogo da região, com cerca de 10 milhões de armas de fogo estimadas em circulação, uma para cada sete habitantes.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/07/two-dead-and-several-wounded-in-thailand-school-shooting-local-official-says",
           "publicado_em": "2026-08-07T04:54:43.000Z"
         },
         {
-          "id": "euronews-2026-08-07-1009",
-          "titulo": "Meta ordered to pay $567 Mn to US for 'public nuisance' and 'child harm'",
-          "resumo": "A New Mexico judge has penalised the tech giant for creating a public nuisance and endangering children online. Meta confirmed it plans to appeal, insisting it works hard to protect young users across...",
+          "id": "euronews-2026-08-07-2115",
+          "titulo": "Meta é ordenada a pagar 567 milhões de dólares aos EUA por 'nódoa pública' e 'dano a crianças'",
+          "resumo": "Um juiz do Novo México multou o gigante da tecnologia por criar uma nódoa pública e colocar em risco as crianças online. A Meta confirmou que planeja apelar, insistindo que trabalha arduamente para proteger os jovens usuários em todo o mundo.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/07/meta-ordered-to-pay-567-mn-to-us-for-public-nuisance-and-child-harm",
           "publicado_em": "2026-08-07T04:15:36.000Z"
         },
         {
-          "id": "euronews-2026-08-07-1010",
-          "titulo": "Saudi Arabia, Türkiye and Pakistan forge new defence pact amid US-Iran tensions",
-          "resumo": "Crown Prince Mohammed bin Salman, President Recep Tayyip Erdoğan, and Prime Minister Shehbaz Sharif will meet in Jeddah to formalise a joint agreement. The landmark pact aims to strengthen regional security...",
+          "id": "euronews-2026-08-07-2116",
+          "titulo": "Arábia Saudita, Turquia e Paquistão assinam novo pacto de defesa em meio a tensões EUA-Irã",
+          "resumo": "O príncipe herdeiro Mohammed bin Salman, o presidente Recep Tayyip Erdoğan e o primeiro-ministro Shehbaz Sharif se reuniram em Meca na sexta-feira para formalizar um acordo conjunto. O pacto histórico visa fortalecer a segurança regional.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/07/saudi-arabia-turkiye-and-pakistan-to-sign-joint-defence-pact-amid-regional-escalation",
           "publicado_em": "2026-08-07T03:36:16.000Z"
         },
         {
-          "id": "euronews-2026-08-07-1011",
-          "titulo": "Trump administration to pay €1.06 billion to cancel RWE offshore wind leases",
-          "resumo": "US President Donald Trump, long a critic of wind energy, has repeatedly dismissed wind turbines as unsightly and has labelled them an \"economic and environmental disaster.\"",
+          "id": "euronews-2026-08-07-2117",
+          "titulo": "Administração Trump pagará 1,06 bilhão de euros para cancelar licenças de energia eólica offshore da RWE",
+          "resumo": "O presidente dos EUA, Donald Trump, crítico de longa data da energia eólica, repetidamente descartou os turbinas eólicas como feios e os rotulou de 'desastre econômico e ambiental'.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/06/trump-administration-to-pay-106-billion-to-cancel-rwe-offshore-wind-leases",
           "publicado_em": "2026-08-06T20:02:48.000Z"
         },
         {
-          "id": "euronews-2026-08-07-1012",
-          "titulo": "Belarus designates Euronews’ website as 'extremist' media",
-          "resumo": "Euronews condemns Belarus’ obscure and unilateral decision to designate Euronews’ digital news coverage as “extremist,” a measure which exposes Euronews’ huge audience in Belarus to legal penalties for...",
+          "id": "euronews-2026-08-07-2118",
+          "titulo": "Belarus designa site da Euronews como 'mídia extremista'",
+          "resumo": "A Euronews condena a decisão obscura e unilateral da Bielorrússia de designar a cobertura de notícias digitais da Euronews como 'extremista', uma medida que expõe o grande público da Euronews na Bielorrússia a penalidades legais por...",
           "imagem": null,
           "link": "http://www.euronews.com/my-europe/2026/08/06/belarus-designates-euronews-website-as-extremist-media",
           "publicado_em": "2026-08-06T16:17:58.000Z"
         },
         {
-          "id": "euronews-2026-08-07-1016",
-          "titulo": "North Korea fires at least one ballistic missile into sea, South Korea's military says",
-          "resumo": "North Korea has repeatedly declared itself an \"irreversible\" nuclear state since leader Kim Jong- un's 2019 summit with US President Donald Trump collapsed over the scope of denuclearisation and sanctions...",
+          "id": "euronews-2026-08-07-2122",
+          "titulo": "Coreia do Norte dispara pelo menos um míssil balístico no mar, diz militar da Coreia do Sul",
+          "resumo": "A Coreia do Norte declarou-se um 'estado nuclear irreversível' desde a cúpula do líder Kim Jong-un com o presidente dos EUA, Donald Trump, em 2019, que fracassou devido ao escopo da desnuclearização e sanções.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/06/north-korea-fires-at-least-one-ballistic-missile-into-sea-south-koreas-military-says",
           "publicado_em": "2026-08-06T10:55:23.000Z"
-        },
-        {
-          "id": "euronews-2026-08-07-1020",
-          "titulo": "Trump dismisses reports of munitions shortages, says US has 'massive amounts'",
-          "resumo": "The Washington Post reported that Trump demanded answers about the munitions shortages from Pentagon chief Pete Hegseth last Friday, when they attended a cabinet meeting at the Camp David presidential retreat.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/06/trump-dismisses-reports-of-munitions-shortages-says-us-has-massive-amounts",
-          "publicado_em": "2026-08-06T07:40:53.000Z"
-        },
-        {
-          "id": "euronews-2026-08-07-1022",
-          "titulo": "Hiroshima marks 81 years since atomic bombing as mayor deplores pursuit of nuclear weapons",
-          "resumo": "Survivors have expressed frustration and worry over growing support for the possession of nuclear weapons for deterrence by the international community, including Japan.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/06/hiroshima-marks-81-years-since-atomic-bombing-as-mayor-deplores-pursuit-of-nuclear-weapons",
-          "publicado_em": "2026-08-06T06:09:37.000Z"
-        },
-        {
-          "id": "euronews-2026-08-07-1023",
-          "titulo": "Myanmar ex-junta chief seeks political legitimacy on first Thailand trip as civilian leader",
-          "resumo": "Fighting between Myanmar's military and myriad rebel factions has spilled over the long border with Thailand, which hosts millions of refugees from Myanmar.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/06/myanmar-ex-junta-chief-seeks-political-legitimacy-on-first-thailand-trip-as-civilian-leade",
-          "publicado_em": "2026-08-06T05:33:54.000Z"
         }
       ]
     },
