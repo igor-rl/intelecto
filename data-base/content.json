@@ -668,167 +668,187 @@
     "mt": {
       "slug": "mt",
       "nome": "The Moscow Times",
-      "gerado_em": "2026-08-07T10:46:05.050Z",
+      "gerado_em": "2026-08-07T21:46:11.039Z",
       "artigos": [
         {
-          "id": "mt-2026-08-07-1001",
-          "titulo": "FSB Raids Moscow City Crypto Exchanges Acusados de Lavagem de Dinheiro Roubado",
+          "id": "mt-2026-08-07-2101",
+          "titulo": "Tempestade Mortal Atinge Região de Smolensk, Deixando Milhares Sem Energia",
+          "resumo": "Uma criança e uma mulher idosa foram mortas por árvores caídas na capital regional, enquanto os ventos atingiram rajadas de até 20 metros por segundo.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/07/deadly-storm-batters-smolensk-region-leaving-thousands-without-power-a93440",
+          "fonte": "The Moscow Times",
+          "publicado_em": "2026-08-07T14:28:55.000Z"
+        },
+        {
+          "id": "mt-2026-08-07-2102",
+          "titulo": "Ex-Editor da Popcorn Books Recebe Sentença Suspensa em Julgamento de 'Extremismo' LGBTQ+",
+          "resumo": "Dmitry Protopopov foi um dos três gerentes seniores presos em maio de 2025 e acusados de 'extremismo' após uma decisão de 2023 do Supremo Tribunal da Rússia para proibir o movimento 'LGBT internacional'.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/07/former-popcorn-books-publisher-receives-suspended-sentence-in-lgbtq-extremism-trial-a93439",
+          "fonte": "The Moscow Times",
+          "publicado_em": "2026-08-07T13:34:52.000Z"
+        },
+        {
+          "id": "mt-2026-08-07-2103",
+          "titulo": "Partido Nacionalista Rodina Processa para Desqualificar Yabloko das Eleições da Duma Estadual",
+          "resumo": "O líder do Rodina, Alexei Zhuravlyov, acusou membros do Yabloko de serem traidores 'que trabalham para o Ocidente' e alegou que seu partido havia descoberto violações financeiras do Yabloko.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/07/nationalist-rodina-party-sues-to-disqualify-yabloko-from-state-duma-elections-a93438",
+          "fonte": "The Moscow Times",
+          "publicado_em": "2026-08-07T12:11:00.000Z"
+        },
+        {
+          "id": "mt-2026-08-07-2104",
+          "titulo": "FSB Realiza Raides em Casas de Câmbio de Criptomoedas em Moscou Acusadas de Lavagem de Dinheiro Roubado",
           "resumo": "A FSB alegou que centros de golpes baseados na Ucrânia usaram escritórios de câmbio de mercado cinza em Moscou para converter dinheiro roubado em criptomoeda e desviá-lo da Rússia.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/07/fsb-raids-moscow-city-crypto-exchanges-accused-of-laundering-stolen-cash-a93436",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-08-07T10:10:14.000Z"
         },
         {
-          "id": "mt-2026-08-07-1002",
+          "id": "mt-2026-08-07-2105",
           "titulo": "Ataque Ucraniano Causa Incêndio em Instalação da Wildberries em Yekaterinburg",
-          "resumo": "O varejista online disse que evacuou seus funcionários do centro logístico, enquanto a maior parte do estoque permaneceu intacta.",
+          "resumo": "A varejista online disse que evacuou seus funcionários do centro logístico, enquanto a maior parte do estoque permaneceu intacta.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/07/ukrainian-attack-sparks-fire-at-wildberries-facility-in-yekaterinburg-a93434",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-08-07T08:34:00.000Z"
         },
         {
-          "id": "mt-2026-08-07-1003",
-          "titulo": "Rússia Reduz Padrões de Qualidade de Combustível para Acalmar Escassez Doméstica",
+          "id": "mt-2026-08-07-2106",
+          "titulo": "Rússia Reduz Padrões de Qualidade de Combustível para Aliviar Escassez Doméstica",
           "resumo": "Combustíveis com padrões Euro-2, Euro-3 e Euro-4 serão permitidos no mercado até 1 de julho de 2027, de acordo com um decreto do governo.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/06/russia-rolls-back-fuel-quality-standards-to-quell-domestic-shortages-a93430",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-08-06T15:00:48.000Z"
         },
         {
-          "id": "mt-2026-08-07-1004",
-          "titulo": "Ministério das Relações Exteriores Russo Condena Ordem de Deportação de Ex-Jornalista da RT",
+          "id": "mt-2026-08-07-2107",
+          "titulo": "Ministério das Relações Exteriores da Rússia Condena Ordem de Deportação da França para Ex-Jornalista da RT",
           "resumo": "As autoridades francesas emitiram uma ordem de deportação no mês passado para Ksenia Fedorova, ex-chefe da emissora estatal RT França.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/06/russian-foreign-ministry-condemns-frances-order-to-deport-former-rt-journalist-a93431",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-08-06T14:16:34.000Z"
         },
         {
-          "id": "mt-2026-08-07-1005",
+          "id": "mt-2026-08-07-2108",
           "titulo": "Regiões Chamando: Os Russos se Importam com Alertas de Raid Aéreo?",
-          "resumo": "Pedimos a russos de sete regiões que compartilhassem como eles aprendem sobre drones e mísseis ucranianos que se aproximam — e como eles respondem a eles.",
+          "resumo": "Perguntamos a russos de sete regiões para compartilhar como eles aprendem sobre drones e mísseis ucranianos que se aproximam — e como respondem a eles.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/06/regions-calling-do-russians-care-about-air-raid-alerts-a93427",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-08-06T13:59:00.000Z"
         },
         {
-          "id": "mt-2026-08-07-1006",
-          "titulo": "Geórgia Investiga Postagens em Mídia Social que Alegam Maus-Tratos Contra Turistas Russos",
-          "resumo": "O Serviço de Segurança Estatal da Geórgia disse que contas de “bots” controladas por estrangeiros espalharam alegações falsas no X, gabando-se de urinar e cuspir na comida servida a turistas russos.",
+          "id": "mt-2026-08-07-2109",
+          "titulo": "Geórgia Investiga Postagens em Redes Sociais que Alegam Maus-Tratos Contra Turistas Russos",
+          "resumo": "O Serviço de Segurança do Estado da Geórgia disse que contas 'bot' controladas por estrangeiros espalharam falsas alegações no X sobre urinar e cuspir na comida servida a turistas russos.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/06/georgia-investigating-social-media-posts-claiming-mistreatment-against-russian-tourists-a93429",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-08-06T13:11:22.000Z"
         },
         {
-          "id": "mt-2026-08-07-1007",
-          "titulo": "Reino Unido Impõe Sanções ao Ozon Bank e Navios da 'Frota Fantasma' na Última Repressão",
+          "id": "mt-2026-08-07-2110",
+          "titulo": "Reino Unido Impõe Sanções ao Ozon Bank e 'Frota Fantasma' de Navios no Último Aperto",
           "resumo": "O Ozon Bank disse que a medida não afetaria suas operações, pois não detém ativos estrangeiros ou usa a rede de mensagens SWIFT internacional e realiza negócios apenas dentro da Rússia.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/06/uk-sanctions-ozon-bank-and-shadow-fleet-vessels-in-latest-crackdown-a93428",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-08-06T11:01:15.000Z"
         },
         {
-          "id": "mt-2026-08-07-1008",
-          "titulo": "2 Anos Depois da Incursão em Kursk, Rússia Aumenta o Número de Mortos Civis para Mais de 600",
+          "id": "mt-2026-08-07-2111",
+          "titulo": "2 Anos Depois da Incursão em Kursk, a Rússia Aumenta o Número de Mortos Civis para Mais de 600",
           "resumo": "Investigadores estimam danos à propriedade em US$ 6,2 bilhões em toda a região, com pelo menos 53 sítios do patrimônio cultural danificados durante os combates.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/06/2-years-after-kursk-incursion-russia-raises-civilian-death-toll-to-more-than-600-a93426",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-08-06T10:09:15.000Z"
         },
         {
-          "id": "mt-2026-08-07-1009",
+          "id": "mt-2026-08-07-2112",
           "titulo": "Drones Ucranianos Atacam Refinarias de Petróleo em Yaroslavl e Bashkortostan",
           "resumo": "As autoridades na região de Tver, entretanto, relataram danos a um armazém operado pelo gigante varejista online Wildberries.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/06/ukrainian-drones-strike-oil-refineries-in-yaroslavl-and-bashkortostan-a93425",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-08-06T08:29:00.000Z"
         },
         {
-          "id": "mt-2026-08-07-1010",
+          "id": "mt-2026-08-07-2113",
           "titulo": "O 'Amazon da Rússia' Pode Sobreviver à Campanha de Drones da Ucrânia?",
           "resumo": "O setor de varejo online da Rússia floresceu desde a invasão da Ucrânia. Os ataques à Wildberries agora ameaçam interromper esse crescimento.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/05/can-russias-amazon-survive-ukraines-drone-campaign-a93422",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-08-05T15:33:00.000Z"
         },
         {
-          "id": "mt-2026-08-07-1011",
+          "id": "mt-2026-08-07-2114",
           "titulo": "Incêndio Erupta no Principal Centro de Pesquisa da Roscosmos perto de Moscou",
-          "resumo": "O complexo abriga o centro de controle para o segmento russo da Estação Espacial Internacional.",
+          "resumo": "O complexo abriga o centro de controle de missão para o segmento russo da Estação Espacial Internacional.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/05/fire-breaks-out-at-main-roscosmos-research-center-near-moscow-a93424",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-08-05T15:04:41.000Z"
         },
         {
-          "id": "mt-2026-08-07-1012",
-          "titulo": "Japão Protesta contra Exercícios Militares Russos perto das Ilhas Kuril em Disputa",
-          "resumo": "O Ministério da Defesa da Rússia disse que os exercícios militares envolverão dezenas de navios de guerra e aeronaves, além de mais de 13.000 militares.",
+          "id": "mt-2026-08-07-2115",
+          "titulo": "Japão Protesta contra Exercícios Militares Russos perto das Ilhas Kuril Disputadas",
+          "resumo": "O Ministério da Defesa da Rússia disse que os exercícios militares envolverão dezenas de navios de guerra e aeronaves, bem como mais de 13.000 militares.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/05/japan-protests-russian-military-drills-near-disputed-kuril-islands-a93423",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-08-05T14:29:12.000Z"
         },
         {
-          "id": "mt-2026-08-07-1013",
-          "titulo": "CEO de Fabricante de Drones em Yekaterinburg Ficou Ferido em Explosão de Carro",
+          "id": "mt-2026-08-07-2116",
+          "titulo": "CEO de Fabricante de Drones em Yekaterinburg Ferido em Explosão de Carro",
           "resumo": "A mídia estatal relatou que Vladimir Tkachuk, fundador e CEO da Uraldronzavod, está em estado crítico e que os médicos estão 'lutando por sua vida'.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/05/yekaterinburg-drone-maker-ceo-wounded-in-car-explosion-a93421",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-08-05T13:12:01.000Z"
         },
         {
-          "id": "mt-2026-08-07-1014",
-          "titulo": "Rússia Diz que as Taxas de HIV Estão Caindo. Especialistas Não Estão Tão Seguros.",
+          "id": "mt-2026-08-07-2117",
+          "titulo": "Rússia Diz que suas Taxas de HIV Estão Diminuindo. Especialistas Não Estão Tão Certos.",
           "resumo": "Especialistas alertam que as estatísticas oficiais escondem uma crise de saúde pública que só piorou durante a guerra na Ucrânia.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/05/russia-says-its-hiv-rates-are-falling-experts-arent-so-sure-a93418",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-08-05T12:26:00.000Z"
         },
         {
-          "id": "mt-2026-08-07-1015",
+          "id": "mt-2026-08-07-2118",
           "titulo": "Putin Anuncia Reorganização da Liderança Militar de Alto Nível",
-          "resumo": "O presidente nomeou novos comandantes operacionais na Ucrânia, um chefe logístico unificado e um chefe para o novo ramo de guerra de drones.",
+          "resumo": "O presidente nomeou novos comandantes operacionais na Ucrânia, um chefe de logística unificado e um chefe para o novo ramo de guerra de drones.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/05/putin-announces-reshuffling-of-top-military-leadership-a93419",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-08-05T11:54:04.000Z"
         },
         {
-          "id": "mt-2026-08-07-1016",
+          "id": "mt-2026-08-07-2119",
           "titulo": "Ex-Oficiais Europeus e Russos Realizam Negociações Secretas na Áustria – Bloomberg",
           "resumo": "As figuras ocidentais incluíam o ex-conselheiro de segurança nacional britânico Tim Barrow, o ex-secretário de Estado alemão Markus Ederer e o diplomata francês veterano Pierre Vimont, disseram fontes ao Bloomberg.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/05/former-european-and-russian-officials-held-secret-talks-in-austria-bloomberg-a93417",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-08-05T09:51:19.000Z"
         },
         {
-          "id": "mt-2026-08-07-1017",
-          "titulo": "FSB Prende Homem de Kaluga Acusado de Planejar Ataque a Escritório de Recrutamento Militar",
+          "id": "mt-2026-08-07-2120",
+          "titulo": "FSB Prende Homem de Kaluga Acusado de Planejar Ataque ao Escritório de Recrutamento Militar",
           "resumo": "Oficiais de aplicação da lei da Rússia alegaram que o homem estava agindo sob ordens da inteligência militar ucraniana.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/05/fsb-arrests-kaluga-man-accused-of-plotting-attack-on-military-enlistment-office-a93416",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-08-05T08:41:06.000Z"
-        },
-        {
-          "id": "mt-2026-08-07-1018",
-          "titulo": "Barragem de Drones Ucranianos Incendeia Centro de Triagem da Wildberries na Região de Tula",
-          "resumo": "O ataque mais recente ocorre quando os ataques russos perto de Kyiv mataram pelo menos 14 pessoas e feriram mais de duas dúzias de outras durante a noite.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/08/05/ukrainian-drone-barrage-sets-wildberries-sortation-center-in-tula-region-ablaze-a93415",
-          "publicado_em": "2026-08-05T07:29:00.000Z"
-        },
-        {
-          "id": "mt-2026-08-07-1019",
-          "titulo": "Putin Assina Lei que Visa Russos Exilados Condenados em Ausência",
-          "resumo": "A lei impõe restrições abrangentes a russos que foram condenados em ausência, incluindo sob legislação usada para processar críticos do Kremlin.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/08/04/putin-signs-law-targeting-exiled-russians-convicted-in-absentia-a93414",
-          "publicado_em": "2026-08-04T15:14:00.000Z"
-        },
-        {
-          "id": "mt-2026-08-07-1020",
-          "titulo": "Turquia Exige Navegação Segura no Mar Negro após Drones Atacarem Navios Comerciais",
-          "resumo": "O Ministério das Relações Exteriores da Turquia disse que os navios civis Yasar e Nadezhda foram atacados após partir de Novorossiysk na segunda-feira à noite, ferindo vários tripulantes, incluindo cidadãos turcos.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/08/04/turkey-calls-for-safe-navigation-in-black-sea-after-drones-strike-commercial-ships-a93411",
-          "publicado_em": "2026-08-04T14:57:00.000Z"
         }
       ]
     },
