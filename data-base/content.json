@@ -6,11 +6,11 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Surto de Ebola na RDC pode estar mutando",
-    "subtitulo": "Enquanto a África lida com surtos de saúde, a geopolítica global é marcada por tensões entre EUA, China e Rússia",
-    "resumo": "O surto de Ebola na República Democrática do Congo (RDC) pode estar mutando, de acordo com autoridades de saúde. Enquanto isso, a comunidade internacional lida com tensões geopolíticas entre EUA, China e Rússia. Os EUA fecharão cinco consulados em diferentes partes do mundo, enquanto a China renova um acordo de permuta de moedas com a Argentina. A Rússia, por sua vez, reduz os padrões de qualidade de combustível para acabar com a escassez doméstica. Além disso, a Nigéria resgatou mais de 300 reféns mantidos em florestas densas. Esses eventos mostram a complexidade e a interconexão dos desafios globais atuais.",
+    "titulo": "Surto de Ebola na RDC e tensões globais",
+    "subtitulo": "Enquanto a RDC lida com o surto de Ebola, o mundo acompanha tensões em várias frentes, desde a invasão em Ceuta até disputas políticas nos EUA",
+    "resumo": "O surto de Ebola na República Democrática do Congo (RDC) continua a ser uma preocupação global, com mais de 4.000 casos registrados. Enquanto as autoridades de saúde trabalham para conter a propagação do vírus, o mundo também está atento a outras tensões. A invasão em massa de migrantes em Ceuta, na Espanha, resultou em numerous mortos e feridos, com a liderança de Ceuta alertando sobre a situação crítica. Nos Estados Unidos, a administração Trump está sob escrutínio devido a ordens executivas que visam limitar a cidadania por nascimento, enquanto a Rússia está envolvida em disputas com a Ucrânia e enfrenta críticas por suas ações na região. A China, por sua vez, está mudando seu papel na África, de financiador de megaprojetos para cobrador de dívidas. Essas são apenas algumas das histórias que marcaram o dia, num mundo onde as tensões políticas, os desafios de saúde pública e as disputas econômicas estão constantemente em evolução.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-08-06T08:00:00-03:00",
+    "publicado_em": "2026-08-07T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -874,55 +874,51 @@
   "temas_principais": [
     {
       "tema": "Surto de Ebola na RDC",
-      "descricao": "O surto de Ebola na RDC pode estar mutando, com mais de 4.000 casos registrados.",
-      "fontes_que_cobriram": [
-        "the_guardian"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "new_york_times",
-        "euronews"
-      ],
-      "divergencia_de_enquadramento": "As fontes variam na ênfase dada à mutação do vírus e às implicações para a saúde global."
-    },
-    {
-      "tema": "Tensões geopolíticas",
-      "descricao": "Tensões entre EUA, China e Rússia dominam a cena internacional, com fechamento de consulados, acordos de permuta de moedas e redução de padrões de qualidade de combustível.",
+      "descricao": "O surto de Ebola na RDC continua a ser uma preocupação global, com esforços para conter a propagação do vírus.",
       "fontes_que_cobriram": [
         "the_guardian",
-        "new_york_times",
-        "euronews",
-        "scmp"
+        "aa"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "rt",
-        "st"
+        "rt"
       ],
-      "divergencia_de_enquadramento": "As fontes têm enquadramentos diferentes sobre as causas e implicações dessas tensões."
+      "divergencia_de_enquadramento": "Enquanto o The Guardian destaca a gravidade do surto e os esforços para contê-lo, a RT não cobriu o tema."
     },
     {
-      "tema": "Resgate de reféns na Nigéria",
-      "descricao": "Forças de segurança nigerianas resgataram mais de 300 reféns mantidos em florestas densas.",
+      "tema": "Invasão em Ceuta",
+      "descricao": "A invasão em massa de migrantes em Ceuta resultou em numerous mortos e feridos, com a liderança de Ceuta alertando sobre a situação crítica.",
       "fontes_que_cobriram": [
-        "the_guardian"
+        "st",
+        "aa"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "new_york_times",
-        "euronews",
         "scmp"
       ],
-      "divergencia_de_enquadramento": "A cobertura varia na ênfase dada ao sucesso da operação e às condições dos reféns."
+      "divergencia_de_enquadramento": "Enquanto o The Straits Times e o AllAfrica destacam a gravidade da situação, o South China Morning Post não cobriu o tema."
+    },
+    {
+      "tema": "Tensões políticas nos EUA",
+      "descricao": "A administração Trump está sob escrutínio devido a ordens executivas que visam limitar a cidadania por nascimento.",
+      "fontes_que_cobriram": [
+        "new_york_times",
+        "rt"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "euronews"
+      ],
+      "divergencia_de_enquadramento": "Enquanto o New York Times critica as ordens executivas, a RT as apresenta como uma medida necessária."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Crise na Ucrânia",
-      "por_que_importa": "A crise na Ucrânia tem implicações significativas para a estabilidade europeia e global.",
-      "cobertura": "A cobertura é limitada, com apenas algumas fontes abordando o tema."
+      "tema": "Crise alimentar no Sudão",
+      "por_que_importa": "A crise alimentar no Sudão é uma questão urgente que afeta a população local.",
+      "cobertura": "Apenas o AllAfrica cobriu o tema, destacando a gravidade da situação."
     },
     {
-      "tema": "Desenvolvimento sustentável na África",
-      "por_que_importa": "O desenvolvimento sustentável é crucial para o futuro da África, com implicações para a pobreza, a saúde e a educação.",
-      "cobertura": "A cobertura é escassa, com poucas fontes discutindo iniciativas e desafios no continente."
+      "tema": "Disputas políticas na Tailândia",
+      "por_que_importa": "As disputas políticas na Tailândia são uma questão importante que pode afetar a estabilidade do país.",
+      "cobertura": "Apenas o SMH cobriu o tema, destacando a violência e a instabilidade na região."
     }
   ]
 }
