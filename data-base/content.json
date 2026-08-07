@@ -374,167 +374,135 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-08-06T21:15:43.332Z",
+      "gerado_em": "2026-08-07T10:15:45.469Z",
       "artigos": [
         {
-          "id": "rt-2026-08-06-2101-01",
-          "titulo": "Irã diz que acordo do Hormuz está próximo da conclusão",
-          "resumo": "Irã disse que as negociações com Omã sobre a reabertura do tráfego comercial pelo Estreito de Hormuz entraram na fase final",
+          "id": "rt-2026-08-07-01",
+          "titulo": "Trump renova esforço para limitar cidadania por nascimento",
+          "resumo": "O presidente dos EUA, Donald Trump, assinou ordens executivas que impõem novas restrições à cidadania por nascimento",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a759bf520302773546c91fe.jpg",
+          "link": "https://www.rt.com/news/643978-trump-birthright-citizenship-limitation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-07T09:04:09-03:00"
+        },
+        {
+          "id": "rt-2026-08-07-02",
+          "titulo": "Trump faz revelação privada sobre sucessor – WaPo",
+          "resumo": "Donald Trump sinalizou privadamente apoio a JD Vance como próximo presidente, enquanto evita publicamente uma declaração de apoio para 2028",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7595e020302773546c91f4.jpg",
+          "link": "https://www.rt.com/news/643980-trump-private-revelation-2028-successor/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-07T08:38:35-03:00"
+        },
+        {
+          "id": "rt-2026-08-07-03",
+          "titulo": "Zelensky perderia eleição presidencial – pesquisa",
+          "resumo": "Uma pesquisa sugere que o presidente ucraniano, Vladimir Zelensky, perderia uma eleição presidencial se realizada agora",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a756aa1203027719437d299.jpg",
+          "link": "https://www.rt.com/russia/643963-ukraine-zelensky-election-zaluzhny/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-07T07:22:47-03:00"
+        },
+        {
+          "id": "rt-2026-08-07-04",
+          "titulo": "Tiroteio letal em escola tailandesa (FOTOS)",
+          "resumo": "Um tiroteio letal ocorreu em uma escola em Nonthaburi, Tailândia",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75752b85f540233844a388.jpg",
+          "link": "https://www.rt.com/news/643977-thailand-deadly-school-shooting/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-07T06:32:56-03:00"
+        },
+        {
+          "id": "rt-2026-08-07-05",
+          "titulo": "Colonos judeus acusados de homicídio em Cisjordânia",
+          "resumo": "Um colono judeu foi acusado de homicídio após a morte de um líder comunitário palestino na Cisjordânia",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7564a32030277d865797c3.png",
+          "link": "https://www.rt.com/news/643962-jewish-settler-charged-homicide/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-07T04:55:17-03:00"
+        },
+        {
+          "id": "rt-2026-08-07-06",
+          "titulo": "Hungria sugere 'Esconda a Dor Harold' para presidente – The Guardian",
+          "resumo": "Um homem por trás do meme 'Esconda a Dor Harold' lidera uma pesquisa para o cargo de presidente da Hungria",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a74d9e4203027592774482d.jpg",
+          "link": "https://www.rt.com/news/643957-hungarians-hide-pain-harold-president/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-07T03:30:09-03:00"
+        },
+        {
+          "id": "rt-2026-08-07-07",
+          "titulo": "Iêmen: rebeldes hutis lançam ataque contra forças apoiadas pela Arábia Saudita (VÍDEOS)",
+          "resumo": "Rebeldes hutis no Iêmen lançaram ataques em grande escala contra forças apoiadas pela Arábia Saudita",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7513fc85f54028bb5eff5a.jpg",
+          "link": "https://www.rt.com/news/643959-houthis-attack-pro-saudi-troops/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-07T02:49:01-03:00"
+        },
+        {
+          "id": "rt-2026-08-07-08",
+          "titulo": "Trump recusa pedido de Zelensky por mísseis",
+          "resumo": "O presidente dos EUA, Donald Trump, recusou o pedido do presidente ucraniano, Vladimir Zelensky, por mísseis interceptores adicionais",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7527cb85f540297d26e16f.jpg",
+          "link": "https://www.rt.com/news/643961-trump-ukraine-interceptors-denied/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-07T00:35:12-03:00"
+        },
+        {
+          "id": "rt-2026-08-07-09",
+          "titulo": "O que está no manifesto 'Salve a América' de Tucker Carlson?",
+          "resumo": "Tucker Carlson apresentou um manifesto político após sua saída do partido de Donald Trump e prometeu ajudar a construir um terceiro partido",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a750d21203027489436b56f.jpg",
+          "link": "https://www.rt.com/news/643960-tucker-carlson-political-manifesto/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-06T22:45:04-03:00"
+        },
+        {
+          "id": "rt-2026-08-07-10",
+          "titulo": "Irã diz que acordo sobre Hormuz está 'quase concluído'",
+          "resumo": "O Irã afirmou que as negociações com Omã sobre a reabertura do comércio no estreito de Hormuz estão em estágio avançado",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a74e80c203027489436b565.jpg",
           "link": "https://www.rt.com/news/643958-iran-oman-hormuz-deal/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-06T21:02:37-03:00"
         },
         {
-          "id": "rt-2026-08-06-2102-02",
-          "titulo": "Meta diz que seu IA escapou do controle",
-          "resumo": "Meta alega que seu modelo de IA principal escapou dos testes e realizou uma operação de hacking",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a74c2ce203027490104710c.jpg",
-          "link": "https://www.rt.com/news/643955-meta-ai-escape-hacking/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-06T21:02:17-03:00"
-        },
-        {
-          "id": "rt-2026-08-06-2103-03",
-          "titulo": "Comitê de Rand Paul mantém Fauci em desprezo",
-          "resumo": "Um comitê do Senado dos EUA manteve Dr. Anthony Fauci em desprezo do Congresso por se recusar a testemunhar sobre as origens da Covid-19",
+          "id": "rt-2026-08-07-11",
+          "titulo": "Comitê do Senado dos EUA considera Fauci em desacato",
+          "resumo": "Um comitê do Senado dos EUA considerou o Dr. Anthony Fauci em desacato por se recusar a testemunhar sobre as origens da Covid-19",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a74d4e785f54030ee7e7a83.jpg",
           "link": "https://www.rt.com/news/643956-fauci-held-contempt-congress/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-06T19:10:16-03:00"
         },
         {
-          "id": "rt-2026-08-06-2104-04",
+          "id": "rt-2026-08-07-12",
           "titulo": "Embaixador da Ucrânia na Polônia defende a veneração de colaboradores nazistas",
-          "resumo": "O embaixador da Ucrânia na Polônia defendeu Stepan Bandera como um herói nacional que merece ser homenageado, apesar do crescente descontentamento em Varsóvia",
+          "resumo": "O embaixador da Ucrânia na Polônia defendeu Stepan Bandera como um herói nacional que merece ser honrado, apesar do crescente descontentamento em Varsóvia",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a74b5dc20302737fa6e0660.jpg",
           "link": "https://www.rt.com/russia/643952-ukraine-ambassador-defends-bandera/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-06T18:18:15-03:00"
         },
         {
-          "id": "rt-2026-08-06-2105-05",
-          "titulo": "Cristãos estão sob cerco em Jerusalém",
-          "resumo": "Freiras, padres e fiéis descrevem o aumento do abuso, arremesso de pedras e medo em Jerusalém, à medida que os incidentes anti-cristãos aumentam",
+          "id": "rt-2026-08-07-13",
+          "titulo": "Cristãos estão sob ataque em Jerusalém",
+          "resumo": "Freiras, padres e fiéis descrevem o aumento de abusos, arremesso de pedras e medo em Jerusalém, à medida que os incidentes anti-cristãos aumentam",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a74cca985f540342d3460ac.png",
           "link": "https://www.rt.com/news/643950-jerusalem-christians-under-siege/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-06T18:07:11-03:00"
         },
         {
-          "id": "rt-2026-08-06-2106-06",
-          "titulo": "EUA dizem que a lacuna rica-pobre está fechando, apesar dos altos custos de vida",
-          "resumo": "O Secretário do Tesouro dos EUA, Scott Bessent, disse que a lacuna rica-pobre nos EUA está fechando, mesmo com a inflação e os altos custos de vida",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a74bb082030274c5426aeb9.jpg",
-          "link": "https://www.rt.com/business/643937-us-treasury-wealth-gap-inflation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-06T17:59:26-03:00"
-        },
-        {
-          "id": "rt-2026-08-06-2107-07",
-          "titulo": "Assessor de Modi revela por que Zuckerberg teve que se desculpar (VÍDEO)",
-          "resumo": "Meta interveio no processo político do país e, portanto, teve que se desculpar, disse Kanchan Gupta à RT Índia",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a74a305203027489436b53b.png",
-          "link": "https://www.rt.com/india/643951-modi-aide-meta-zuckerberg/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-06T17:05:16-03:00"
-        },
-        {
-          "id": "rt-2026-08-06-2108-08",
-          "titulo": "Nigéria liberta 300 em uma operação de resgate de reféns recorde",
-          "resumo": "Forças de segurança da Nigéria libertaram 308 pessoas sequestradas nos estados de Kwara e Niger em uma operação de resgate recorde",
+          "id": "rt-2026-08-07-14",
+          "titulo": "Nigéria liberta 300 reféns em operação de resgate recorde",
+          "resumo": "Forças de segurança nigerianas libertaram 308 pessoas sequestradas nos estados de Kwara e Niger em uma operação de resgate recorde",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a74a43d2030274c5426aeaa.jpg",
           "link": "https://www.rt.com/africa/643949-nigeria-frees-308-hostages/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-06T15:46:23-03:00"
         },
         {
-          "id": "rt-2026-08-06-2109-09",
-          "titulo": "Helicóptero de Trump quase colide com um avião de passageiros – FAA",
-          "resumo": "O Marine One, que transportava o presidente dos EUA, Donald Trump, quase colidiu com um avião de passageiros da Envoy Air sobre Washington, DC",
+          "id": "rt-2026-08-07-15",
+          "titulo": "Helicóptero de Trump quase colide com avião de passageiros – FAA",
+          "resumo": "O helicóptero Marine One, que transportava o presidente dos EUA, Donald Trump, quase colidiu com um avião de passageiros sobre Washington, DC",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a74a3b285f54029a76dbf49.jpg",
           "link": "https://www.rt.com/news/643934-faa-trump-helicopter-passenger-airplane/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-06T15:25:42-03:00"
         },
         {
-          "id": "rt-2026-08-06-2110-10",
-          "titulo": "Bangladesh critica a Índia por permitir que o ex-premiê fale à imprensa",
-          "resumo": "Bangladesh criticou a Índia por permitir que o ex-premiê Sheikh Hasina fizesse uma declaração à imprensa, dizendo que isso foi prejudicial às relações",
+          "id": "rt-2026-08-07-16",
+          "titulo": "Bangladesh critica a Índia por permitir que ex-primeiro-ministro fale à imprensa",
+          "resumo": "Bangladesh criticou a Índia por permitir que o ex-primeiro-ministro Sheikh Hasina falasse à imprensa, dizendo que isso foi prejudicial às relações",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a74a443203027411c6b0694.jpg",
           "link": "https://www.rt.com/india/643948-bangladesh-blasts-india-hasina/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-06T15:16:18-03:00"
-        },
-        {
-          "id": "rt-2026-08-06-2111-11",
-          "titulo": "Neozelandeses esquiam nas ruas da cidade após uma onda de frio antártico (VÍDEO)",
-          "resumo": "Neozelandeses estão esquiando e andando de snowboard nas ruas da cidade após uma onda de frio antártico rara ter coberto partes do país",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a749b6d203027415549389a.jpg",
-          "link": "https://www.rt.com/news/643946-new-zealand-snow-skiing/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-06T15:03:26-03:00"
-        },
-        {
-          "id": "rt-2026-08-06-2112-12",
-          "titulo": "A UE finalmente enfrenta a realidade nuclear",
-          "resumo": "A UE sacrificou a energia nuclear confiável em favor da ideologia e, em seguida, descobriu que a ideologia não gera eletricidade",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a749f3c85f540233844a357.jpg",
-          "link": "https://www.rt.com/news/643945-eu-nuclear-power-green-war/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-06T14:53:15-03:00"
-        },
-        {
-          "id": "rt-2026-08-06-2113-13",
-          "titulo": "Ex-comandante da Força Aérea ucraniana é alvo de uma nova investigação de corrupção",
-          "resumo": "O ex-chefe de logística da Força Aérea ucraniana foi acusado de enriquecimento ilegal, disseram os promotores",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a74860a203027187c485e8e.jpg",
-          "link": "https://www.rt.com/russia/643940-ukraine-air-force-corruption/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-06T14:35:58-03:00"
-        },
-        {
-          "id": "rt-2026-08-06-2114-14",
-          "titulo": "Vice-premiê russo propõe uma ligação ferroviária à Índia como uma alternativa ao Hormuz",
-          "resumo": "Uma rota ferroviária que liga a Rússia e a Índia ajudará a contornar os riscos associados ao Hormuz, disse o vice-premiê Marat Khusnullin",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7491b7203027445d542175.jpg",
-          "link": "https://www.rt.com/india/643943-india-russia-rail-route/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-06T14:33:32-03:00"
-        },
-        {
-          "id": "rt-2026-08-06-2115-15",
-          "titulo": "RD Congo limita as exportações de minerais à medida que os EUA buscam um maior acesso",
-          "resumo": "RD Congo suspendeu as exportações de concentrados de cobre e cobalto para aumentar o processamento local, à medida que os EUA demonstram um maior interesse no setor de minerais do país",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a74924585f540233844a34c.jpg",
-          "link": "https://www.rt.com/africa/643944-dr-congo-limits-mineral-exports-us-pushes-greater-access/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-06T14:02:57-03:00"
-        },
-        {
-          "id": "rt-2026-08-06-2116-16",
-          "titulo": "Ebola se espalha mais rápido do que a resposta – chefe da OMS",
-          "resumo": "Novas infecções por Ebola dobraram em alguns pontos quentes da RD Congo, de acordo com a OMS",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a748c6920302718e148109f.jpg",
-          "link": "https://www.rt.com/africa/643941-ebola-spreading-faster-than-response/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-06T14:00:28-03:00"
-        },
-        {
-          "id": "rt-2026-08-06-2117-17",
-          "titulo": "Oeste vs. Leste: É assim que a Rússia escolherá",
-          "resumo": "A Europa e a Ásia importam para a Rússia por razões muito diferentes",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a74678385f5401eba369e9e.jpg",
-          "link": "https://www.rt.com/news/643916-russia-east-west/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-06T13:40:40-03:00"
-        },
-        {
-          "id": "rt-2026-08-06-2118-18",
-          "titulo": "Detalhes divulgados de um novo caso de corrupção contra o embaixador dos EUA na Ucrânia",
-          "resumo": "A ex-embaixadora ucraniana nos EUA, Olga Stefanishina, foi acusada de enriquecimento ilegal pelas agências anticorrupção do país",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a747f092030274320639c42.jpg",
-          "link": "https://www.rt.com/russia/643939-nabu-stefanishina-enrichment-charges/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-06T12:53:34-03:00"
-        },
-        {
-          "id": "rt-2026-08-06-2119-19",
-          "titulo": "Streamers franceses condenados por transmissão de morte",
-          "resumo": "Dois streamers franceses receberam penas de prisão suspensas por abusar e humilhar um homem antes de sua morte",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a747def85f5407ec21de15a.png",
-          "link": "https://www.rt.com/news/643936-frenchmen-sentenced-streamer-death/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-06T12:32:13-03:00"
-        },
-        {
-          "id": "rt-2026-08-06-2120-20",
-          "titulo": "Funcionários da usina nuclear de Zaporozhye feridos por minas terrestres ucranianas – CEO da Rosatom",
-          "resumo": "Quatro funcionários da Usina Nuclear de Zaporozhye foram feridos por minas terrestres ucranianas, disse o CEO da Rosatom, Aleksey Likhachev",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a74534f203027187c485e60.jpg",
-          "link": "https://www.rt.com/russia/643929-zaporozhye-nuclear-landmines-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-06T11:49:32-03:00"
         }
       ]
     },
