@@ -366,50 +366,138 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-08-07T21:15:52.151Z",
+      "gerado_em": "2026-08-08T10:15:41.913Z",
       "artigos": [
         {
-          "id": "rt-2026-08-07-2101-01",
-          "titulo": "IA chinesa escapa de sandbox de segurança – pesquisadores",
-          "resumo": "A IA da startup chinesa Moonshot bypassou restrições em um teste de segurança de IA no Reino Unido, dizem pesquisadores",
+          "id": "rt-2026-08-08-01",
+          "titulo": "Nível baixo do Danúbio revela restos de soldados nazistas",
+          "resumo": "Níveis baixos de água no rio Danúbio expuseram os restos de dois soldados nazistas e equipamentos militares da Segunda Guerra Mundial em Budapeste",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a76e23685f5404c9d22acb7.jpg",
+          "link": "https://www.rt.com/news/644009-low-danube-reveals-nazi-artifacts/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-08T08:55:11.000Z"
+        },
+        {
+          "id": "rt-2026-08-08-02",
+          "titulo": "Rússia atinge instalação de armas e depósito de combustível em Kiev",
+          "resumo": "A Rússia atingiu uma instalação de mísseis Flamingo e um depósito de combustível militar em Kiev, de acordo com o Ministério da Defesa de Moscou",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a76d46b2030276ebe1a2007.jpg",
+          "link": "https://www.rt.com/russia/644010-russia-hits-weapons-facility-kiev/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-08T07:08:08.000Z"
+        },
+        {
+          "id": "rt-2026-08-08-03",
+          "titulo": "Ucrânia prometeu acabar com ataques a terminal de petróleo ligado aos EUA",
+          "resumo": "A Ucrânia prometeu se abster de ataques a um terminal de petróleo vital no Mar Negro, localizado em Novorossiysk, co-possuído por empresas dos EUA",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a76ae6a85f5402ece48d787.jpg",
+          "link": "https://www.rt.com/russia/644008-ukraine-strikes-oil-terminal-chevron/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-08T04:21:28.000Z"
+        },
+        {
+          "id": "rt-2026-08-08-04",
+          "titulo": "‘Cluster de suicídios’ atinge hackers militares dos EUA",
+          "resumo": "O Comando Cibernético dos EUA investiga um ‘cluster de suicídios’ após cinco mortes em um mês, à medida que os hackers militares enfrentam pressão da guerra com o Irã e da IA",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75d01e85f54029a76dbf9f.jpg",
+          "link": "https://www.rt.com/news/643991-suicide-cluster-us-cyber-command/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-08T03:21:31.000Z"
+        },
+        {
+          "id": "rt-2026-08-08-05",
+          "titulo": "Pentágono acusa ex-chefe da Força Aérea de vazar segredos de Estado",
+          "resumo": "O Pentágono acusou o ex-chefe da Força Aérea, Frank Kendall, de vazar informações classificadas sobre o avião presidencial de Donald Trump",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a769bef85f540333f04bbb3.jpg",
+          "link": "https://www.rt.com/news/644007-pentagon-revokes-air-force-chief/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-08T03:03:47.000Z"
+        },
+        {
+          "id": "rt-2026-08-08-06",
+          "titulo": "Juiz dos EUA declara Meta como ‘nocivo público’",
+          "resumo": "Um juiz do Novo México declarou a Meta como um ‘nocivo público’ devido ao dano causado às crianças, ordenou uma multa de $567 milhões e mudanças abrangentes na plataforma",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75ca3e85f5407ec21de1e1.jpg",
+          "link": "https://www.rt.com/news/643989-us-meta-public-nuisance-fine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-08T00:49:53.000Z"
+        },
+        {
+          "id": "rt-2026-08-08-07",
+          "titulo": "Musk bloqueia Ucrânia de usar Starlink para ataques profundos na Rússia",
+          "resumo": "Elon Musk se recusou a permitir que a Ucrânia use o serviço de internet Starlink para ataques dentro da Rússia",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a76792920302730e856f050.jpg",
+          "link": "https://www.rt.com/news/644006-musk-ukraine-starlink-drones/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-08T00:33:52.000Z"
+        },
+        {
+          "id": "rt-2026-08-08-08",
+          "titulo": "Escola Ivy Plus acusada de discriminação racial",
+          "resumo": "O Departamento de Justiça dos EUA acusou a Faculdade de Direito de Duke de manter práticas de admissão que discriminam candidatos brancos e asiáticos",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75bd1d85f54028bb5eff7d.jpg",
+          "link": "https://www.rt.com/news/643985-duke-law-discrimination-doj/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-07T23:08:04.000Z"
+        },
+        {
+          "id": "rt-2026-08-08-09",
+          "titulo": "Espanha retaliou contra a Itália por controles de entrada",
+          "resumo": "Madri impôs medidas recíprocas em resposta a Roma, que endureceu os controles após 72.000 pessoas entrarem ilegalmente na Espanha a partir do Marrocos",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a764cf285f540333f04bbb0.jpg",
+          "link": "https://www.rt.com/news/644005-spain-threatens-italy-migrants/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-07T22:53:02.000Z"
+        },
+        {
+          "id": "rt-2026-08-08-10",
+          "titulo": "Paquistão, Turquia e Arábia Saudita lançaram um ‘OTAN Islâmico’?",
+          "resumo": "A Arábia Saudita, o Paquistão e a Turquia, membro da OTAN, formaram um bloco de defesa em meio a conflitos no Oriente Médio",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75f6b885f54030ee7e7b1e.jpg",
+          "link": "https://www.rt.com/news/643998-pakistan-turkiye-saudi-nato/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-07T21:16:05.000Z"
+        },
+        {
+          "id": "rt-2026-08-08-11",
+          "titulo": "AI chinesa escapa de sandbox de segurança",
+          "resumo": "O modelo de IA Kimi K3 da startup chinesa Moonshot ultrapassou restrições em um teste de segurança de IA no Reino Unido, de acordo com pesquisadores",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7618c785f5407e9b1d2201.jpg",
           "link": "https://www.rt.com/news/644001-chinese-ai-cybersecurity-incident/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-07T21:03:50.000Z"
         },
         {
-          "id": "rt-2026-08-07-2102-02",
-          "titulo": "Dois civis mortos em ataque ucraniano a bloco residencial – governador da Crimeia",
-          "resumo": "Um ataque de drone ucraniano atingiu um prédio de apartamentos na Crimeia, matando dois civis, disse o chefe regional Sergey Aksyonov",
+          "id": "rt-2026-08-08-12",
+          "titulo": "Dois civis mortos em ataque ucraniano a prédio residencial na Crimeia",
+          "resumo": "Um ataque de drone ucraniano atingiu um prédio de apartamentos na Crimeia, matando dois civis, de acordo com o governador Sergey Aksyonov",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7633a720302734d313814b.jpg",
           "link": "https://www.rt.com/russia/644004-ukrainian-drone-killed-two-civilians-apartment/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-07T21:03:33.000Z"
         },
         {
-          "id": "rt-2026-08-07-2103-03",
-          "titulo": "Senado dos EUA aprova projeto de lei de sanções contra a Rússia de Lindsey Graham",
+          "id": "rt-2026-08-08-13",
+          "titulo": "Senado dos EUA aprova projeto de lei de sanções contra a Rússia",
           "resumo": "O Senado dos EUA aprovou por esmagadora maioria um projeto de lei de sanções anti-russas apresentado pelo falecido senador Lindsey Graham",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a76258920302728622c953b.jpg",
           "link": "https://www.rt.com/news/644003-lindsey-graham-sanctions-bill-senate/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-07T19:12:36.000Z"
         },
         {
-          "id": "rt-2026-08-07-2105-04",
-          "titulo": "Deputado iraniano critica pacto de defesa liderado pela Arábia Saudita com Paquistão e Turquia",
-          "resumo": "A Arábia Saudita, Paquistão e a Turquia, membro da OTAN, assinaram um pacto de defesa mútua em meio a um conflito crescente no Oriente Médio",
+          "id": "rt-2026-08-08-14",
+          "titulo": "Alegações de economia de Musk com DOGE são infundadas",
+          "resumo": "O crédito de Musk com DOGE alegou bilhões de dólares em economia orçamentária federal que não pôde ser comprovado, de acordo com uma agência de fiscalização do governo dos EUA",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7600b420302728622c9521.jpg",
+          "link": "https://www.rt.com/news/643999-musks-doge-savings-claims-unverifiable/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-07T18:38:55.000Z"
+        },
+        {
+          "id": "rt-2026-08-08-15",
+          "titulo": "Parlamentar iraniano critica pacto de defesa entre Arábia Saudita, Paquistão e Turquia",
+          "resumo": "A Arábia Saudita, o Paquistão e a Turquia, membro da OTAN, assinaram um pacto de defesa mútua em meio a conflitos crescentes no Oriente Médio",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7605372030270c4b41a9aa.jpg",
           "link": "https://www.rt.com/news/644000-saudi-pakistan-turkiye-pact/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-07T18:35:40.000Z"
         },
         {
-          "id": "rt-2026-08-07-2106-05",
+          "id": "rt-2026-08-08-16",
           "titulo": "Trump impõe tarifa de 15% sobre material-chave para chips para desafiar a China",
-          "resumo": "O presidente dos EUA, Donald Trump, ordenou novas tarifas e preços mínimos de importação sobre o polisilício, escalando a rivalidade tecnológica com a China",
+          "resumo": "O presidente dos EUA, Donald Trump, ordenou novas tarifas e preços mínimos de importação sobre o polissilício, intensificando a rivalidade tecnológica com a China",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7604d720302730e856f034.jpg",
           "link": "https://www.rt.com/business/643990-trump-tariffs-chips-china/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-07T16:45:17.000Z"
         },
         {
-          "id": "rt-2026-08-07-2108-06",
+          "id": "rt-2026-08-08-17",
           "titulo": "Gigante de armas alemão relata vendas em alta",
           "resumo": "A Rheinmetall viu sua receita aumentar quase 70% à medida que Berlim continua a apoiar a Ucrânia e aumenta os gastos militares",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75f63485f54029a76dbfab.jpg",
@@ -417,84 +505,12 @@
           "publicado_em": "2026-08-07T15:50:29.000Z"
         },
         {
-          "id": "rt-2026-08-07-2110-07",
-          "titulo": "Forças russas destroem centros de comando e infraestrutura militar da Ucrânia (VÍDEOS)",
-          "resumo": "O Ministério da Defesa da Rússia publicou imagens de bombas de guia FAB sendo usadas para destruir centros de comando da Ucrânia",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75b38b85f5407e9b1d21c7.png",
-          "link": "https://www.rt.com/russia/643983-ukraine-glide-bombs-donbass/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-07T13:32:27.000Z"
-        },
-        {
-          "id": "rt-2026-08-07-2111-08",
-          "titulo": "Cientistas criam vírus com IA",
-          "resumo": "Pesquisadores americanos usaram inteligência artificial para projetar e criar vírus funcionais que não existem na natureza pela primeira vez",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75d7f085f5407e9b1d21f7.jpg",
-          "link": "https://www.rt.com/news/643995-us-scientists-ai-virus/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-07T13:11:57.000Z"
-        },
-        {
-          "id": "rt-2026-08-07-2112-09",
-          "titulo": "Barco kamikaze ucraniano desabilitado encalha na Crimeia – oficial",
-          "resumo": "Um drone naval ucraniano foi encontrado encalhado no porto de Yalta, na Crimeia",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75c205203027760a74e7cd.jpg",
-          "link": "https://www.rt.com/russia/643987-yalta-ukrainian-naval-drone/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-07T12:50:02.000Z"
-        },
-        {
-          "id": "rt-2026-08-07-2113-10",
-          "titulo": "Índia lança programa de biogás comprimido no valor de 2,5 bilhões de dólares",
-          "resumo": "A Índia lançou um programa no valor de 2,5 bilhões de dólares para aumentar a produção de biogás comprimido e reduzir a dependência do GNL",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75d0102030277a9843cdd4.jpg",
-          "link": "https://www.rt.com/india/643988-india-compressed-biogas-lng/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-07T12:27:53.000Z"
-        },
-        {
-          "id": "rt-2026-08-07-2114-11",
-          "titulo": "Mortes de elefantes despertam temores sobre segurança alimentar no Quênia",
-          "resumo": "Veterinários quenianos alertaram sobre um risco potencial para a segurança alimentar após a cianeto ser ligado às mortes de 15 elefantes",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75c3ac20302725e606b214.jpg",
-          "link": "https://www.rt.com/africa/643986-elephant-deaths-food-safety-fears-kenya/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-07T11:40:35.000Z"
-        },
-        {
-          "id": "rt-2026-08-07-2115-12",
-          "titulo": "Trabalhadores de saúde não pagos abandonam instalações de ebola na República Democrática do Congo",
-          "resumo": "Trabalhadores de saúde na República Democrática do Congo abandonaram o trabalho devido a salários não pagos, enquanto o país luta para conter um surto de ebola em rápida propagação",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75b13a2030271e5f28bb22.jpg",
-          "link": "https://www.rt.com/africa/643984-unpaid-health-workers-desert-dr-congo-ebola-facilities/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-07T10:48:49.000Z"
-        },
-        {
-          "id": "rt-2026-08-07-2116-13",
-          "titulo": "Trump critica o 'ComPost' de Washington como 'traíra'",
-          "resumo": "O presidente dos EUA, Donald Trump, criticou o 'ComPost' de Washington como 'traíra' após um relatório se concentrar em sua frustração com Pete Hegseth",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75ad642030277a9843cdb5.jpg",
-          "link": "https://www.rt.com/news/643979-trump-washington-compost-treasonous-hegseth/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-07T10:44:29.000Z"
-        },
-        {
-          "id": "rt-2026-08-07-2117-14",
-          "titulo": "Como Zelensky mal interpretou Donald Trump",
-          "resumo": "Por que a visita cuidadosamente planejada à Casa Branca estava condenada desde o início",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75b0fe2030277d41104967.jpg",
-          "link": "https://www.rt.com/news/643982-how-zelensky-misread-donald-trump/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-07T10:44:28.000Z"
-        },
-        {
-          "id": "rt-2026-08-07-2118-15",
-          "titulo": "Basta de 'diplomacia de teatro' – principal negociador do Irã a Trump",
-          "resumo": "O principal negociador do Irã, Mohammad Bagher Ghalibaf, disse que o presidente dos EUA, Donald Trump, não ganhará nada com a 'diplomacia de teatro'",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75a45a85f5407e9b1d21c4.jpg",
-          "link": "https://www.rt.com/news/643981-iran-us-trump-ghalibaf/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-07T10:18:56.000Z"
-        },
-        {
-          "id": "rt-2026-08-07-2119-16",
-          "titulo": "Trump renova esforço para limitar a cidadania por nascimento",
-          "resumo": "O presidente dos EUA, Donald Trump, assinou ordens executivas que impõem novas restrições à cidadania por nascimento",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a759bf520302773546c91fe.jpg",
-          "link": "https://www.rt.com/news/643978-trump-birthright-citizenship-limitation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-07T09:04:09.000Z"
+          "id": "rt-2026-08-08-18",
+          "titulo": "África apoia o chefe da FIFA em apuros",
+          "resumo": "Oficiais de futebol africanos apoiaram Gianni Infantino enquanto a UEFA busca um desafiante e a Noruega pede sua renúncia",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75e15785f540297d26e1ac.jpg",
+          "link": "https://www.rt.com/africa/643996-africa-footbal-body-backs-embattled-fifa-chief/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-07T15:24:59.000Z"
         }
       ]
     },
