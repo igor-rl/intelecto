@@ -5,12 +5,12 @@
   "itens_urgentes": {},
   "destaques": [],
   "capa": {
-    "categoria_nome": "O que marcou o dia?",
-    "titulo": "Tensões globais: EUA e Rússia em conflito",
-    "subtitulo": "Enquanto a guerra na Ucrânia continua, EUA e Rússia divergem sobre sanções e influência global",
-    "resumo": "O dia foi marcado por tensões globais, com os EUA e a Rússia em conflito sobre sanções e influência global. A Rússia descartou um incidente com drone na Alemanha como 'provocação fabricada', enquanto os EUA impuseram tarifas sobre materiais-chave para desafiar a China. Além disso, a guerra na Ucrânia continua, com ataques ucranianos causando incêndios em instalações russas. Enquanto isso, a África enfrenta desafios de comércio devido a atrasos nos céus abertos, e a Austrália recebe um novo embaixador dos EUA. O tema-âncora do dia é a tensão entre EUA e Rússia, com implicações globais.",
+    "categoria_nome": "Conflitos Globais e Desenvolvimentos",
+    "titulo": "Tensões Mundiais: Conflitos, Sanções e Desafios",
+    "subtitulo": "Análise das principais tensões globais, incluindo conflitos, sanções econômicas e desafios políticos",
+    "resumo": "O cenário global está marcado por tensões crescentes, com conflitos em várias regiões, sanções econômicas e desafios políticos. A Ucrânia e a Rússia continuam em conflito, com ataques e contra-ataques. A Europa e os EUA impuseram sanções à Rússia, enquanto a China enfrenta desafios econômicos e políticos. A África também está enfrentando desafios, com conflitos e questões de governança. Neste contexto, é fundamental entender as perspectivas de diferentes fontes e analisar as implicações desses eventos para a comunidade global.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-08-07T08:00:00-03:00",
+    "publicado_em": "2026-08-08T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -889,70 +889,50 @@
   },
   "temas_principais": [
     {
-      "tema": "Tensões entre EUA e Rússia",
-      "descricao": "Conflito sobre sanções e influência global",
+      "tema": "Conflito Ucrânia-Rússia",
+      "descricao": "Análise do conflito entre a Ucrânia e a Rússia, incluindo ataques e contra-ataques",
       "fontes_que_cobriram": [
         "the_guardian",
         "new_york_times",
-        "euronews",
-        "rt",
-        "st"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "scmp",
-        "mt",
-        "aa",
-        "smh"
-      ],
-      "divergencia_de_enquadramento": "Enquanto a Rússia descarta incidentes como 'provocações fabricadas', os EUA impõem tarifas para desafiar a China"
-    },
-    {
-      "tema": "Guerra na Ucrânia",
-      "descricao": "Ataques ucranianos causam incêndios em instalações russas",
-      "fontes_que_cobriram": [
         "rt",
         "st",
         "mt"
       ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian",
-        "new_york_times",
-        "euronews",
-        "scmp",
-        "aa",
-        "smh"
-      ],
-      "divergencia_de_enquadramento": "Enquanto a Rússia relata ataques ucranianos, os EUA e a Europa ocidental focam em sanções e apoio à Ucrânia"
+      "fontes_que_ignoraram_ou_minimizaram": [],
+      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar a agressão russa, enquanto as fontes russas destacam a legítima defesa de interesses nacionais"
     },
     {
-      "tema": "Desafios de comércio na África",
-      "descricao": "Atrasos nos céus abertos mantêm custos de comércio altos",
+      "tema": "Sanções Econômicas",
+      "descricao": "Análise das sanções econômicas impostas à Rússia pela Europa e os EUA",
       "fontes_que_cobriram": [
-        "aa"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian",
-        "new_york_times",
         "euronews",
-        "rt",
-        "st",
-        "scmp",
-        "mt",
-        "smh"
+        "new_york_times",
+        "st"
       ],
-      "divergencia_de_enquadramento": "A África enfrenta desafios de comércio devido a atrasos nos céus abertos, enquanto outros continentes têm mais influência global"
+      "fontes_que_ignoraram_ou_minimizaram": [],
+      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar a eficácia das sanções, enquanto as fontes russas destacam os efeitos negativos sobre a economia global"
+    },
+    {
+      "tema": "Desafios Africanos",
+      "descricao": "Análise dos desafios enfrentados pela África, incluindo conflitos e questões de governança",
+      "fontes_que_cobriram": [
+        "aa",
+        "st"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [],
+      "divergencia_de_enquadramento": "As fontes africanas tendem a enfatizar a importância da cooperação regional, enquanto as fontes ocidentais destacam a necessidade de reformas políticas"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Nova embaixadora dos EUA na Austrália",
-      "por_que_importa": "Relações diplomáticas entre EUA e Austrália",
-      "cobertura": "Apenas o SMH cobriu a nomeação do novo embaixador dos EUA na Austrália"
+      "tema": "Crise no Sudão",
+      "por_que_importa": "A crise no Sudão tem implicações regionais e globais, incluindo a estabilidade do Oriente Médio e a segurança alimentar",
+      "cobertura": "A cobertura da crise no Sudão é limitada, com poucas fontes dedicando atenção ao tema"
     },
     {
-      "tema": "Incêndio florestal na França",
-      "por_que_importa": "Desastres naturais e resposta de emergência",
-      "cobertura": "Apenas o euronews cobriu o incêndio florestal na França"
+      "tema": "Desenvolvimentos na Ásia-Pacífico",
+      "por_que_importa": "A região da Ásia-Pacífico é fundamental para a economia global e a segurança internacional",
+      "cobertura": "A cobertura dos desenvolvimentos na Ásia-Pacífico é desigual, com algumas fontes enfatizando a rivalidade entre a China e os EUA"
     }
   ]
 }
