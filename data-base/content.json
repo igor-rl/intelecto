@@ -5,10 +5,10 @@
   "itens_urgentes": {},
   "destaques": [],
   "capa": {
-    "categoria_nome": "Conflitos Globais e Desenvolvimentos",
-    "titulo": "Tensões Mundiais: Conflitos, Sanções e Desafios",
-    "subtitulo": "Análise das principais tensões globais, incluindo conflitos, sanções econômicas e desafios políticos",
-    "resumo": "O cenário global está marcado por tensões crescentes, com conflitos em várias regiões, sanções econômicas e desafios políticos. A Ucrânia e a Rússia continuam em conflito, com ataques e contra-ataques. A Europa e os EUA impuseram sanções à Rússia, enquanto a China enfrenta desafios econômicos e políticos. A África também está enfrentando desafios, com conflitos e questões de governança. Neste contexto, é fundamental entender as perspectivas de diferentes fontes e analisar as implicações desses eventos para a comunidade global.",
+    "categoria_nome": "O que marcou o dia?",
+    "titulo": "Tensões Globais: Conflitos e Sanções",
+    "subtitulo": "Análise das principais notícias do dia, com foco em conflitos internacionais e sanções econômicas",
+    "resumo": "O dia foi marcado por uma série de conflitos e tensões globais. A Ucrânia e a Rússia continuam em conflito, com a Ucrânia atacando uma refinaria de petróleo na região de Krasnodar da Rússia. Além disso, o Irã está em negociações com os EUA sobre o estreito de Ormuz, enquanto a Turquia pede uma moratória sobre os ataques no Mar Negro. As sanções econômicas também estão em pauta, com os EUA impondo sanções à Rússia e a Arábia Saudita, Turquia e Paquistão assinando um pacto de defesa. A África também está em foco, com a AllAfrica discutindo a industrialização do continente e a necessidade de financiamento. Em meio a essas tensões, a Wikipedia é acusada de ser uma ferramenta de propaganda, e a China está desenvolvendo mísseis hipersônicos para distrair as forças dos EUA em um possível conflito sobre Taiwan.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-08-08T08:00:00-03:00",
     "link": null,
@@ -965,49 +965,52 @@
   "temas_principais": [
     {
       "tema": "Conflito Ucrânia-Rússia",
-      "descricao": "Análise do conflito entre a Ucrânia e a Rússia, incluindo ataques e contra-ataques",
+      "descricao": "A Ucrânia atacou uma refinaria de petróleo na região de Krasnodar da Rússia, enquanto a Rússia continua a realizar ataques com drones",
       "fontes_que_cobriram": [
         "the_guardian",
         "new_york_times",
-        "rt",
-        "st",
         "mt"
       ],
-      "fontes_que_ignoraram_ou_minimizaram": [],
-      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar a agressão russa, enquanto as fontes russas destacam a legítima defesa de interesses nacionais"
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "rt"
+      ],
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a agressividade da Rússia, enquanto as fontes russas destacam a legítima defesa do país"
     },
     {
       "tema": "Sanções Econômicas",
-      "descricao": "Análise das sanções econômicas impostas à Rússia pela Europa e os EUA",
+      "descricao": "Os EUA impuseram sanções à Rússia, enquanto a Arábia Saudita, Turquia e Paquistão assinaram um pacto de defesa",
       "fontes_que_cobriram": [
         "euronews",
-        "new_york_times",
         "st"
       ],
-      "fontes_que_ignoraram_ou_minimizaram": [],
-      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar a eficácia das sanções, enquanto as fontes russas destacam os efeitos negativos sobre a economia global"
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "scmp"
+      ],
+      "divergencia_de_enquadramento": "As fontes ocidentais veem as sanções como uma medida necessária, enquanto as fontes russas e chinesas as consideram uma forma de pressão política"
     },
     {
-      "tema": "Desafios Africanos",
-      "descricao": "Análise dos desafios enfrentados pela África, incluindo conflitos e questões de governança",
+      "tema": "Desenvolvimento Africano",
+      "descricao": "A AllAfrica discute a industrialização do continente e a necessidade de financiamento",
       "fontes_que_cobriram": [
-        "aa",
-        "st"
+        "aa"
       ],
-      "fontes_que_ignoraram_ou_minimizaram": [],
-      "divergencia_de_enquadramento": "As fontes africanas tendem a enfatizar a importância da cooperação regional, enquanto as fontes ocidentais destacam a necessidade de reformas políticas"
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "the_guardian",
+        "new_york_times"
+      ],
+      "divergencia_de_enquadramento": "As fontes africanas destacam a importância do desenvolvimento econômico, enquanto as fontes ocidentais tendem a se concentrar em questões de segurança e política"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Crise no Sudão",
-      "por_que_importa": "A crise no Sudão tem implicações regionais e globais, incluindo a estabilidade do Oriente Médio e a segurança alimentar",
-      "cobertura": "A cobertura da crise no Sudão é limitada, com poucas fontes dedicando atenção ao tema"
+      "tema": "Crise Política no Kosovo",
+      "por_que_importa": "A crise política no Kosovo pode ter implicações regionais e internacionais",
+      "cobertura": "Apenas a SCMP cobriu o tema, enquanto as outras fontes ignoraram ou minimizaram"
     },
     {
-      "tema": "Desenvolvimentos na Ásia-Pacífico",
-      "por_que_importa": "A região da Ásia-Pacífico é fundamental para a economia global e a segurança internacional",
-      "cobertura": "A cobertura dos desenvolvimentos na Ásia-Pacífico é desigual, com algumas fontes enfatizando a rivalidade entre a China e os EUA"
+      "tema": "Desenvolvimento de Mísseis Hipersônicos pela China",
+      "por_que_importa": "O desenvolvimento de mísseis hipersônicos pela China pode ter implicações significativas para a segurança regional e internacional",
+      "cobertura": "Apenas a SCMP cobriu o tema, enquanto as outras fontes ignoraram ou minimizaram"
     }
   ]
 }
