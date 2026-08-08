@@ -89,143 +89,79 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-08-07T21:00:01.008Z",
+      "gerado_em": "2026-08-08T10:00:00.808Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-08-07-2101",
-          "titulo": "À medida que a pressão aumenta, EUA procuram por próximo líder de Cuba",
-          "resumo": "Alguns funcionários alertam que um líder mais linha-dura pode emergir se a administração Trump avançar com seus planos.",
-          "link": "https://www.nytimes.com/2026/08/07/us/politics/us-search-cuba-leader.html",
+          "id": "new_york_times-2026-08-08-1001",
+          "titulo": "Blanche é Confirmado como Procurador-Geral Após Superar Preocupações do G.O.P.",
+          "resumo": "Todd Blanche, que atuou como procurador-geral interino desde abril, obteve aprovação do Senado, apesar de crescentes preocupações sobre sua disposição em controlar o presidente Trump.",
           "imagem": null,
-          "publicado_em": "2026-08-07T17:28:01.000Z"
-        },
-        {
-          "id": "new_york_times-2026-08-07-2102",
-          "titulo": "Bill Cassidy vai apoiar Todd Blanche como Procurador-Geral, salvando sua confirmação",
-          "resumo": "O senador da Louisiana disse que, apesar de reservas, ele apoiaria a escolha do presidente Trump para procurador-geral, dando aos republicanos votos suficientes para uma maioria.",
           "link": "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html",
-          "imagem": null,
-          "publicado_em": "2026-08-07T16:46:31.000Z"
+          "fonte": "The New York Times",
+          "publicado_em": "2026-08-08T09:38:06.000Z"
         },
         {
-          "id": "new_york_times-2026-08-07-2103",
-          "titulo": "Trump reabre batalha para demitir a governadora do Fed Lisa Cook",
-          "resumo": "A administração Trump, rejeitada pelo Supremo Tribunal em sua primeira tentativa de demitir Lisa D. Cook, enviou uma carta ao governador do Fed dizendo que estava \"considerando\" removê-la do cargo.",
-          "link": "https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html",
+          "id": "new_york_times-2026-08-08-1002",
+          "titulo": "Senado Aprova Projeto de Lei para Evitar Fechamento, Evitando Conflito Antes das Eleições de Meio de Mandato",
+          "resumo": "A medida foi tomada mais de um mês antes do prazo de gastos, refletindo uma disposição em ambos os partidos para evitar uma luta confusa antes das eleições de meio de mandato.",
           "imagem": null,
-          "publicado_em": "2026-08-07T18:54:45.000Z"
+          "link": "https://www.nytimes.com/2026/08/08/us/politics/senate-passes-stopgap-bill.html",
+          "fonte": "The New York Times",
+          "publicado_em": "2026-08-08T08:04:22.000Z"
         },
         {
-          "id": "new_york_times-2026-08-07-2104",
-          "titulo": "Promotor processa Departamento de Justiça sobre demissão após reivindicação de influenciador de direita",
-          "resumo": "Will Rosenzweig se junta a uma lista crescente de ex-promotores e agentes federais que foram à corte para contestar a purga de autoridades de aplicação da lei consideradas desleais.",
-          "link": "https://www.nytimes.com/2026/08/07/us/politics/prosecutor-fired-lawsuit-justice-department.html",
+          "id": "new_york_times-2026-08-08-1003",
+          "titulo": "Iranianos Dizem que as Promessas de Trump Caíram por Terra à Medida que a Guerra no Irã Continua",
+          "resumo": "À medida que o presidente Trump luta para retirar os EUA da guerra no Irã, suas promessas aos manifestantes no país caíram por terra.",
           "imagem": null,
-          "publicado_em": "2026-08-07T17:42:05.000Z"
-        },
-        {
-          "id": "new_york_times-2026-08-07-2105",
-          "titulo": "Iranianos dizem que as promessas de Trump caíram ao lado à medida que a guerra no Irã continua",
-          "resumo": "À medida que o presidente Trump luta para retirar os EUA da guerra no Irã, suas promessas aos manifestantes no país caíram ao lado.",
           "link": "https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html",
-          "imagem": null,
-          "publicado_em": "2026-08-07T18:56:01.000Z"
+          "fonte": "The New York Times",
+          "publicado_em": "2026-08-07T18:56:02.000Z"
         },
         {
-          "id": "new_york_times-2026-08-07-2106",
-          "titulo": "Houthis reivindicam ataque a campo militar iemenita",
-          "resumo": "As tensões crescentes entre o grupo apoiado pelo Irã e o governo iemenita têm levado a temores de que um armistício em vigor desde 2022 esteja perto de colapsar.",
-          "link": "https://www.nytimes.com/2026/08/07/world/middleeast/yemen-houthis-attack-military-camp.html",
+          "id": "new_york_times-2026-08-08-1004",
+          "titulo": "Suas Ilhas Africanas Estavam Prestes a Ser Descolonizadas. Então os EUA Bombardaram o Irã.",
+          "resumo": "Os habitantes das Ilhas Chagos foram expulsos pelos britânicos há 60 anos. Refugiados estavam ansiosos para retornar este ano, mas suas esperanças foram capturadas em um labirinto de geopolítica.",
           "imagem": null,
-          "publicado_em": "2026-08-07T20:44:46.000Z"
+          "link": "https://www.nytimes.com/2026/08/08/world/africa/diego-garcia-chagos-displaced-iran-war.html",
+          "fonte": "The New York Times",
+          "publicado_em": "2026-08-08T04:01:31.000Z"
         },
         {
-          "id": "new_york_times-2026-08-07-2107",
-          "titulo": "Arábia Saudita, Turquia e Paquistão assinam pacto de defesa conjunta",
-          "resumo": "O acordo considera um ataque a qualquer um dos países como um ataque a todos, mas em uma região de rivalidades voláteis, não está claro como funcionará na prática.",
-          "link": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html",
+          "id": "new_york_times-2026-08-08-1008",
+          "titulo": "Ela é a Mulher Mais Rica da Rússia. Seu Império Empresarial Está Indo por Água Abaixo.",
+          "resumo": "À medida que a Ucrânia ataca repetidamente armazéns do site de comércio eletrônico Wildberries, Tatyana Kim, co-fundadora bilionária, enfrenta seu maior desafio até agora.",
           "imagem": null,
-          "publicado_em": "2026-08-07T16:29:24.000Z"
+          "link": "https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html",
+          "fonte": "The New York Times",
+          "publicado_em": "2026-08-08T04:01:50.000Z"
         },
         {
-          "id": "new_york_times-2026-08-07-2108",
-          "titulo": "Senado aprova projeto de lei de sanções que visa Rússia e Irã",
-          "resumo": "A legislação foi defendida pelo senador Lindsey Graham, o republicano da Carolina do Sul cuja morte súbita no mês passado ajudou a acelerar a ação sobre ela.",
-          "link": "https://www.nytimes.com/2026/08/07/us/politics/senate-russia-sanctions.html",
+          "id": "new_york_times-2026-08-08-1009",
+          "titulo": "O que Saber Sobre Wildberries, a Empresa nos Olhos da Ucrânia",
+          "resumo": "Drones ucranianos têm cada vez mais visado armazéns pertencentes à Wildberries, na qual muitos russos dependem como o maior negócio de comércio eletrônico do país.",
           "imagem": null,
-          "publicado_em": "2026-08-07T19:42:33.000Z"
+          "link": "https://www.nytimes.com/2026/08/08/world/europe/wildberries-russia-ukraine.html",
+          "fonte": "The New York Times",
+          "publicado_em": "2026-08-08T04:01:17.000Z"
         },
         {
-          "id": "new_york_times-2026-08-07-2109",
-          "titulo": "Papa Leão XIV foi eleito. O Chicago White Sox foi ressuscitado.",
-          "resumo": "A elevação do Papa Leão XIV, um nativo de Chicago e torcedor do Sox, foi um divisor de águas para uma equipe que estava fracassando em campo e com os fãs.",
-          "link": "https://www.nytimes.com/2026/08/07/business/pope-leo-chicago-white-sox.html",
+          "id": "new_york_times-2026-08-08-1010",
+          "titulo": "Armas de Chumbo, Paus e Gás Lacrimogêneo: Como a Polícia da Índia Parou uma Marcha de Jovens",
+          "resumo": "Uma análise do The New York Times detalha a repressão de 20 de julho contra manifestantes desarmados em Nova Deli, que provocou indignação pública e acusações de força excessiva.",
           "imagem": null,
-          "publicado_em": "2026-08-07T10:58:03.000Z"
+          "link": "https://www.nytimes.com/2026/08/08/world/asia/pellet-guns-sticks-and-tear-gas-how-indias-police-halted-a-youth-march.html",
+          "fonte": "The New York Times",
+          "publicado_em": "2026-08-08T05:21:06.000Z"
         },
         {
-          "id": "new_york_times-2026-08-07-2110",
-          "titulo": "Schumer continua em frente na luta pelo Senado, apesar de contratempos",
-          "resumo": "Em uma ligação telefônica, o líder democrata disse ao novo contendente de Michigan que o opôs para simplesmente vencer.",
-          "link": "https://www.nytimes.com/2026/08/07/us/politics/schumer-senate-midterms.html",
+          "id": "new_york_times-2026-08-08-1014",
+          "titulo": "Nova Jersey Abre Investigação de Direitos Civis Contra Delaney Hall",
+          "resumo": "A procuradora-geral do estado disse que seu escritório havia emitido intimações e investigaria se funcionários no centro de detenção de migrantes violaram direitos civis.",
           "imagem": null,
-          "publicado_em": "2026-08-07T19:58:46.000Z"
-        },
-        {
-          "id": "new_york_times-2026-08-07-2111",
-          "titulo": "Abdul El-Sayed fala sobre sua vitória, Chuck Schumer e sua mãe",
-          "resumo": "Em uma entrevista com o The New York Times, o Dr. El-Sayed lembrou algumas de suas conversas com figuras do establishment que antes se opunham à sua candidatura.",
-          "link": "https://www.nytimes.com/2026/08/07/us/politics/abdul-el-sayed-michigan-primary-interview.html",
-          "imagem": null,
-          "publicado_em": "2026-08-07T12:02:45.000Z"
-        },
-        {
-          "id": "new_york_times-2026-08-07-2112",
-          "titulo": "Um centro de detenção da ICE agita uma cidade do Colorado e sacode uma corrida para a Câmara",
-          "resumo": "A pequena Hudson, Colorado, era conhecida principalmente como uma armadilha de velocidade entre planícies e subúrbios. Então, a ICE anunciou que estava vindo, desencadeando meses de protestos.",
-          "link": "https://www.nytimes.com/2026/08/07/us/ice-detention-center-hudson-colorado-house.html",
-          "imagem": null,
-          "publicado_em": "2026-08-07T15:19:22.000Z"
-        },
-        {
-          "id": "new_york_times-2026-08-07-2113",
-          "titulo": "Funcionários de Trump deportam grupo de mexicanos apesar do risco de tortura",
-          "resumo": "As autoridades de imigração usaram uma autoridade rara para deportá-los, mesmo que sua remoção tenha sido bloqueada devido a preocupações de que seriam torturados se retornassem.",
-          "link": "https://www.nytimes.com/2026/08/07/us/trump-mexico-deportations-torture.html",
-          "imagem": null,
-          "publicado_em": "2026-08-07T20:32:38.000Z"
-        },
-        {
-          "id": "new_york_times-2026-08-07-2115",
-          "titulo": "Um rio Danúbio que seca revela navios da era nazista e perigos do calor",
-          "resumo": "Os níveis de água do rio caíram à medida que o calor extremo afetou a Europa, exposto navios alemães submersos da Segunda Guerra Mundial que impedem a navegação.",
-          "link": "https://www.nytimes.com/2026/08/07/world/europe/danube-germany-ships-serbia.html",
-          "imagem": null,
-          "publicado_em": "2026-08-07T20:02:01.000Z"
-        },
-        {
-          "id": "new_york_times-2026-08-07-2116",
-          "titulo": "Fotos mostram a Inglaterra ficando marrom devido à seca",
-          "resumo": "Atingida por tempo seco historicamente, grande parte da nação está perdendo sua cor característica.",
-          "link": "https://www.nytimes.com/2026/08/07/world/europe/england-drought-dry-weather-photos.html",
-          "imagem": null,
-          "publicado_em": "2026-08-07T15:41:33.000Z"
-        },
-        {
-          "id": "new_york_times-2026-08-07-2117",
-          "titulo": "Partes da Europa Oriental e Central quebram recordes de calor esta semana",
-          "resumo": "O tempo quente exacerbou as condições secas, criando condições para incêndios florestais e rios que recuam.",
-          "link": "https://www.nytimes.com/2026/08/07/world/europe/europe-heat-records.html",
-          "imagem": null,
-          "publicado_em": "2026-08-07T15:53:09.000Z"
-        },
-        {
-          "id": "new_york_times-2026-08-07-2124",
-          "titulo": "Menino mata avós e então cinco professores, dizem autoridades tailandesas",
-          "resumo": "Um estudante matou seus avós antes de abrir fogo em sua escola e atirar em si mesmo, disseram as autoridades. O episódio reviveu um debate sobre leis de armas.",
-          "link": "https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html",
-          "imagem": null,
-          "publicado_em": "2026-08-07T13:47:17.000Z"
+          "link": "https://www.nytimes.com/2026/08/07/nyregion/delaney-hall-investigation-civil-rights.html",
+          "fonte": "The New York Times",
+          "publicado_em": "2026-08-07T23:31:58.000Z"
         }
       ]
     },
