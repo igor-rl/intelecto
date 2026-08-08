@@ -315,63 +315,87 @@
     "scmp": {
       "slug": "scmp",
       "nome": "South China Morning Post",
-      "gerado_em": "2026-08-08T10:15:28.900Z",
+      "gerado_em": "2026-08-08T21:15:30.238Z",
       "artigos": [
         {
-          "id": "scmp-2026-08-08-1001",
-          "titulo": "Ataques russos matam 4 na Ucrânia, incluindo uma criança de 3 anos, à medida que as defesas falham",
-          "resumo": "Quatro pessoas, incluindo uma criança, foram mortas em ataques russos na capital ucraniana, Kyiv, e na região circundante, disseram autoridades locais no sábado, à medida que a Ucrânia atingiu outra refinaria de petróleo na Rússia...",
-          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3363397/russian-attacks-kill-4-ukraine-including-3-year-old-defences-fall-short?utm_source=rss_feed",
+          "id": "scmp-2026-08-08-2101",
+          "titulo": "Irã acredita que tem Trump acuado – mas quais são os riscos?",
+          "resumo": "O estreito de Hormuz é, segundo alguns relatos, nomeado em homenagem a uma divindade zoroastrista destinada a emergir vitoriosa após um stand-off de 9.000 anos com um adversário. Os líderes do Irã sentem que sua própria vitória está ao alcance...",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/09/ad43709b-9c79-49eb-89db-c855c8db8111_452ad0b1.jpg?itok=SypB30hd&v=1786222979",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3363415/iran-thinks-it-has-trump-cornered-what-are-risks?utm_source=rss_feed",
+          "publicado_em": "2026-08-08T21:03:08.000Z"
+        },
+        {
+          "id": "scmp-2026-08-08-2102",
+          "titulo": "Ucrânia nega ter alvoado a Bulgária, enquanto drone explode perto de gasoduto",
+          "resumo": "A Ucrânia negou, no sábado, ter alvoado a Bulgária, após um drone explodir perto do gasoduto estratégico Trans-Bálcã, que liga a Turquia à Ucrânia, próximo à fronteira com a Romênia.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/09/41640341-0b04-4198-b7b6-951f74949817_3af6c789.jpg?itok=FqWIKzYT&v=1786210888",
+          "link": "https://www.scmp.com/news/world/europe/article/3363414/ukraine-denies-targeting-bulgaria-drone-explodes-near-pipeline?utm_source=rss_feed",
+          "publicado_em": "2026-08-08T17:41:36.000Z"
+        },
+        {
+          "id": "scmp-2026-08-08-2103",
+          "titulo": "Primeiro-ministro do Kosovo é atingido por ovos no parlamento, enquanto crise política se intensifica",
+          "resumo": "O parlamento do Kosovo teve que ser suspenso no sábado, após um deputado da oposição ter atingido o primeiro-ministro interino, Albin Kurti, com ovos, à medida que uma longa crise política ameaça desencadear outra...",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/09/9ecba01f-a694-4a27-97a4-19a3420c9e39_6ee97607.jpg?itok=qW0F1ZeQ&v=1786208960",
+          "link": "https://www.scmp.com/news/world/europe/article/3363413/kosovo-pm-egged-parliament-political-crisis-spirals?utm_source=rss_feed",
+          "publicado_em": "2026-08-08T17:09:30.000Z"
+        },
+        {
+          "id": "scmp-2026-08-08-2104",
+          "titulo": "Irã visou petroleiro, afirma Emirados Árabes Unidos, enquanto Teerã diz que acordo sobre Hormuz com Omã está próximo",
+          "resumo": "Os Emirados Árabes Unidos disseram, no sábado, que o Irã visou um petroleiro pertencente à empresa estatal Abu Dhabi National Oil Company (ADNOC), enquanto ele transitava pelo estreito de Hormuz.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/08/d1e846e4-8cea-4bdf-933d-089e5bf16f52_f8583043.jpg?itok=hyKA91W0&v=1786200981",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3363411/iran-targeted-tanker-says-uae-tehran-says-hormuz-deal-oman-close?utm_source=rss_feed",
+          "publicado_em": "2026-08-08T14:56:28.000Z"
+        },
+        {
+          "id": "scmp-2026-08-08-2105",
+          "titulo": "Como os 'matadores de porta-aviões' hipersônicos de Pequim poderiam distrair as forças dos EUA em um conflito sobre Taiwan",
+          "resumo": "O avanço e a diversificação das plataformas de mísseis anti-navio de Pequim fortaleceram suas capacidades de negação na primeira cadeia de ilhas e poderiam desviar as atenções das marinhas dos EUA e de seus aliados em um conflito sobre Taiwan.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/08/da8a3770-78ab-4d2c-94b6-6861f98f9872_6d5381c2.jpg?itok=8jbrof7N&v=1786173040",
+          "link": "https://www.scmp.com/news/china/military/article/3363386/how-chinas-hypersonic-carrier-killers-could-distract-us-forces-taiwan-conflict?utm_source=rss_feed",
+          "publicado_em": "2026-08-08T14:00:05.000Z"
+        },
+        {
+          "id": "scmp-2026-08-08-2106",
+          "titulo": "Menina de 12 anos morre na Tailândia após tiroteio em escola, elevando o número de mortos para 9",
+          "resumo": "Uma menina morreu devido a ferimentos críticos, no sábado, após um aluno ter aberto fogo em uma escola secundária e em sua casa, fora de Bangkok, no dia anterior, elevando o número de mortos no ataque para nove pessoas.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/08/f0ade32e-8a87-46e1-979d-8979f36ef2b8_3a44d97f.jpg?itok=cLpzQqE3&v=1786196321",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3363409/girl-12-dies-thailand-after-school-shooting-bringing-death-toll-9?utm_source=rss_feed",
+          "publicado_em": "2026-08-08T13:38:43.000Z"
+        },
+        {
+          "id": "scmp-2026-08-08-2111",
+          "titulo": "Espanha anunciará controles de fronteira com a Itália para viagens aéreas e marítimas devido à crise migratória de Ceuta",
+          "resumo": "Após a Itália rejeitar seu ultimato para levantar os controles de fronteira impostos em resposta à crise migratória de Ceuta, a Espanha anunciou que realizará controles de viajantes provenientes da Itália.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/08/c169b011-c626-4446-b777-8f0d14d066f5_cb7fb510.jpg?itok=dGBG2eDS&v=1786188029",
+          "link": "https://www.scmp.com/news/world/europe/article/3363403/spain-start-italy-border-controls-air-and-sea-travel-amid-ceuta-migrant-row?utm_source=rss_feed",
+          "publicado_em": "2026-08-08T11:20:39.000Z"
+        },
+        {
+          "id": "scmp-2026-08-08-2112",
+          "titulo": "Líder de Taiwan, William Lai, treina evacuação de emergência noturna durante exercícios militares",
+          "resumo": "O líder de Taiwan realizou um treinamento de evacuação de emergência noturna durante o maior exercício militar anual da ilha, em resposta a crescentes preocupações sobre possíveis 'ataques de decapitação' por parte do Exército de Libertação Popular.",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/08/dd33483e-57a9-43f9-bbf6-e875987bf944_0711f848.jpg?itok=8_Al4_qL&v=1786186893",
+          "link": "https://www.scmp.com/news/china/military/article/3363402/taiwans-william-lai-rehearses-late-night-emergency-escape-during-military-drill?utm_source=rss_feed",
+          "publicado_em": "2026-08-08T11:01:34.000Z"
+        },
+        {
+          "id": "scmp-2026-08-08-2116",
+          "titulo": "Ataques russos matam 4 pessoas na Ucrânia, incluindo uma criança de 3 anos, à medida que as defesas ucranianas falham",
+          "resumo": "Quatro pessoas, incluindo uma criança, foram mortas em ataques russos na capital ucraniana, Kiev, e na região circundante, de acordo com autoridades locais, no sábado, à medida que a Ucrânia atingiu outra refinaria de petróleo na Rússia.",
           "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/08/75e76762-a754-4a35-9048-475d8ff36c4b_38681635.jpg?itok=efH5dKh9&v=1786183216",
+          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3363397/russian-attacks-kill-4-ukraine-including-3-year-old-defences-fall-short?utm_source=rss_feed",
           "publicado_em": "2026-08-08T10:00:17.000Z"
         },
         {
-          "id": "scmp-2026-08-08-1002",
-          "titulo": "Por que Pequim luta para conquistar os corações e mentes da Índia, apesar do degelo diplomático",
-          "resumo": "Embora a relação entre os governos chinês e indiano tenha sido descongelada, Pequim ainda não conquistou o público indiano, pois carece de uma estratégia de longo prazo e canais de comunicação, de acordo com...",
-          "link": "https://www.scmp.com/news/china/diplomacy/article/3363382/why-beijing-struggles-win-indian-hearts-and-minds-despite-diplomatic-thaw?utm_source=rss_feed",
+          "id": "scmp-2026-08-08-2117",
+          "titulo": "Por que Pequim luta para conquistar os corações e mentes dos indianos, apesar do degelo diplomático",
+          "resumo": "Embora a relação entre os governos chinês e indiano esteja se aquecendo, Pequim ainda não conquistou o público indiano, pois carece de uma estratégia de longo prazo e canais de comunicação, de acordo com especialistas.",
           "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/08/2799120e-e191-4fda-8de4-c5aab4ee6d43_d376eac6.jpg?itok=8vrScM-S&v=1786170741",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3363382/why-beijing-struggles-win-indian-hearts-and-minds-despite-diplomatic-thaw?utm_source=rss_feed",
           "publicado_em": "2026-08-08T10:00:11.000Z"
-        },
-        {
-          "id": "scmp-2026-08-08-1003",
-          "titulo": "Amazon financiará uma grande usina de gás nos EUA para centros de dados",
-          "resumo": "A Amazon confirmou que está financiando uma grande usina de gás privada no Texas que pode se tornar a maior fonte de emissões de gases de efeito estufa nos Estados Unidos.",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3363393/amazon-finance-huge-us-gas-plant-data-centres?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/08/516cb393-995f-435c-b4c5-ac47b4462efa_395e165a.jpg?itok=2_FXrUp9&v=1786181141",
-          "publicado_em": "2026-08-08T09:25:41.000Z"
-        },
-        {
-          "id": "scmp-2026-08-08-1010",
-          "titulo": "ONU alerta que o Iêmen está no maior risco de conflito renovado desde a trégua de 2022",
-          "resumo": "Os Houthis apoiados pelo Irã no Iêmen lançaram mísseis balísticos e drones em campos de deslocados e bairros residenciais na cidade de Marib na sexta-feira, matando duas pessoas e ferindo 14, de acordo com a imprensa estatal...",
-          "link": "https://www.scmp.com/news/world/middle-east/article/3363385/un-warns-yemen-greatest-risk-renewed-major-conflict-2022-truce?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/08/fae51900-8631-474b-a748-7429f44ed33f_4c712c81.jpg?itok=vEdzudHb&v=1786172961",
-          "publicado_em": "2026-08-08T07:09:24.000Z"
-        },
-        {
-          "id": "scmp-2026-08-08-1014",
-          "titulo": "Teste de míssil da Índia sinaliza um passo em direção à autossuficiência para defesa aérea",
-          "resumo": "O primeiro teste do sistema de míssil de longo alcance superfície-ar Kusha da Índia é visto como um marco que pode pavimentar o caminho para Nova Délhi fortalecer sua rede de defesa aérea caseira e atender aos desafios...",
-          "link": "https://www.scmp.com/week-asia/politics/article/3363349/indias-kusha-missile-test-signals-step-closer-self-reliance-air-defence?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/07/5701c870-a80c-48f7-b108-0ee680b5b5d4_25bb48cb.jpg?itok=JSF78jjB&v=1786106315",
-          "publicado_em": "2026-08-08T05:00:09.000Z"
-        },
-        {
-          "id": "scmp-2026-08-08-1019",
-          "titulo": "Cristãos palestinos deixam a Cisjordânia à medida que as dificuldades aumentam",
-          "resumo": "Os cristãos palestinos se autodenominam 'pedras vivas' e dizem que viveram continuamente na Terra Santa nos últimos 2.000 anos. Talvez não por muito mais tempo, acredita o reverendo Mitri Raheb.",
-          "link": "https://www.scmp.com/news/world/middle-east/article/3363378/hopeless-palestinian-christians-leave-west-bank-hardships-mount?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/08/ba17ac19-01bc-4bb8-820d-dc21012c5f15_84a668ea.jpg?itok=t3bAECvc&v=1786160925",
-          "publicado_em": "2026-08-08T03:48:52.000Z"
-        },
-        {
-          "id": "scmp-2026-08-08-1020",
-          "titulo": "Partido anti-guerra russo visa eleições futuras, favorece cessar-fogo",
-          "resumo": "Sentindo a frustração entre muitos russos em relação à guerra na Ucrânia, o partido liberal Yabloko da Rússia espera usar as eleições parlamentares de setembro para aumentar seu perfil, apresentando-se como o único...",
-          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3363376/russias-sole-anti-war-party-targets-coming-elections-favours-ceasefire?utm_source=rss_feed",
-          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/08/f25fe810-e07e-4bb5-998b-eb2445261dfd_385e3c98.jpg?itok=Unum85c5&v=1786158564",
-          "publicado_em": "2026-08-08T03:09:30.000Z"
         }
       ]
     },
