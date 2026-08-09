@@ -334,151 +334,135 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-08-08T21:15:49.067Z",
+      "gerado_em": "2026-08-09T10:15:39.827Z",
       "artigos": [
         {
-          "id": "rt-2026-08-08-2102",
-          "titulo": "Discurso do presidente polonês sobre matar russos foi motivado por 'raiva impotente' – Moscou",
-          "resumo": "O discurso do presidente polonês Karol Nawrocki sobre matar russos foi motivado por 'raiva impotente', de acordo com o Ministério das Relações Exteriores da Rússia",
+          "id": "rt-2026-08-09-1001",
+          "titulo": "Milhares protestam contra o governo alemão",
+          "resumo": "Cerca de 10.000 pessoas protestaram em Plauen, na Alemanha, pedindo a renúncia do chanceler Friedrich Merz",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a783cc685f5402ece48d7b0.png",
+          "link": "https://www.rt.com/news/644025-germany-protest-merz-government/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-09T10:01:10-03:00"
+        },
+        {
+          "id": "rt-2026-08-09-1002",
+          "titulo": "Rússia atinge logística militar ucraniana em Odessa",
+          "resumo": "Forças russas atingiram depósitos de combustível e infraestrutura portuária em Odessa, de acordo com o Ministério da Defesa",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7837a085f54033244e7670.jpg",
+          "link": "https://www.rt.com/russia/644029-russia-hits-ukrainian-military-logistics/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-09T08:18:26-03:00"
+        },
+        {
+          "id": "rt-2026-08-09-1003",
+          "titulo": "Guerra no Irã deixa aliados dos EUA na Ásia menos defendidos",
+          "resumo": "Estoques de mísseis dos EUA esgotados podem minar a confiança entre os aliados asiáticos e europeus de Washington, de acordo com o New York Times",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a780a6f85f540333f04bbde.jpg",
+          "link": "https://www.rt.com/news/644024-iran-war-leaves-us-allies/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-09T06:17:06-03:00"
+        },
+        {
+          "id": "rt-2026-08-09-1004",
+          "titulo": "Irã apresenta condições para reabertura do Estreito de Ormuz",
+          "resumo": "O Irã apresentou seis condições aos EUA para a reabertura do Estreito de Ormuz",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a77faa485f5403d620463f3.jpg",
+          "link": "https://www.rt.com/news/644023-iran-makeshormuz-demands/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-09T03:58:27-03:00"
+        },
+        {
+          "id": "rt-2026-08-09-1006",
+          "titulo": "Drone ucraniano explode perto de gasoduto crítico na Bulgária",
+          "resumo": "Um drone ucraniano explodiu perto de um gasoduto crítico na Bulgária, de acordo com o Ministério da Defesa do país",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a77d39a203027119f5f0f4d.jpg",
+          "link": "https://www.rt.com/news/644021-ukrainian-drone-explodes-in-bulgaria/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-09T01:12:30-03:00"
+        },
+        {
+          "id": "rt-2026-08-09-1007",
+          "titulo": "Três mortos em ataque ucraniano a prédios residenciais na Rússia",
+          "resumo": "Um ataque ucraniano a prédios residenciais na Rússia matou três pessoas e feriu 25, de acordo com um oficial regional",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a77c06385f5401d656c9c40.jpg",
+          "link": "https://www.rt.com/russia/644020-ukraine-strikes-buildings-belgorod/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-08T23:02:44-03:00"
+        },
+        {
+          "id": "rt-2026-08-09-1008",
+          "titulo": "China lançará rotas de navegação regular para a Europa via Rota do Mar do Norte da Rússia",
+          "resumo": "A China lançará rotas de navegação regular para a Europa via Rota do Mar do Norte da Rússia, de acordo com o CEO da Rosatom",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7796dc85f5401f5a118b27.jpg",
+          "link": "https://www.rt.com/russia/644019-china-europe-shipping-russia-arctic-route/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-08T21:49:03-03:00"
+        },
+        {
+          "id": "rt-2026-08-09-1010",
+          "titulo": "Presidente da Polônia faz discurso anti-russo motivado por 'raiva impotente' – Moscou",
+          "resumo": "O discurso anti-russo do presidente da Polônia foi motivado por 'raiva impotente', de acordo com o Ministério das Relações Exteriores da Rússia",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a77709c2030270c176c6950.jpg",
           "link": "https://www.rt.com/russia/644018-poland-nawrocki-killing-russians-moskal/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-08T18:17:28-03:00"
         },
         {
-          "id": "rt-2026-08-08-2103",
-          "titulo": "Tucker para presidente? Rebeldes MAGA declaram independência de Israel",
-          "resumo": "Uma divisão cada vez maior na direita americana está transformando a antiga base de Trump em oposição aberta, com Israel no centro da ruptura",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a77486985f5403d620463bd.jpg",
-          "link": "https://www.rt.com/news/644017-maga-rebels-tucker-israel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-08T15:25:43-03:00"
-        },
-        {
-          "id": "rt-2026-08-08-2104",
-          "titulo": "EUA buscam próximo líder de Cuba – NYT",
-          "resumo": "Os EUA estão tentando repetir o cenário da Venezuela em Cuba, mas enfrentam um desafio mais difícil, de acordo com o NYT, citando funcionários americanos",
+          "id": "rt-2026-08-09-1012",
+          "titulo": "EUA buscam novo líder em Cuba",
+          "resumo": "Os EUA estão buscando um novo líder em Cuba, de acordo com o New York Times",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a773dc785f54033244e764a.jpg",
           "link": "https://www.rt.com/news/644011-us-hunts-cuba-leader-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-08T15:08:05-03:00"
         },
         {
-          "id": "rt-2026-08-08-2105",
-          "titulo": "ASSISTA: Tufão poderoso atinge o Japão",
-          "resumo": "Seis pessoas ficaram feridas e mais de 50.000 edifícios no Japão perderam energia quando o tufão Dolphin se aproximou da China",
+          "id": "rt-2026-08-09-1013",
+          "titulo": "Tufão atinge o Japão",
+          "resumo": "Seis pessoas ficaram feridas e mais de 50.000 prédios perderam energia no Japão devido ao tufão Dolphin",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a771e9d20302763b44c1b63.jpg",
           "link": "https://www.rt.com/news/644015-japan-powerful-typhoon-dolphin-china/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-08T13:35:08-03:00"
         },
         {
-          "id": "rt-2026-08-08-2106",
-          "titulo": "Wikipedia editada pela CIA se tornou uma ferramenta de propaganda – co-fundador",
-          "resumo": "A Wikipedia se tornou uma ferramenta de propaganda comprometida que agora informa a IA, de acordo com o co-fundador Larry Sanger",
+          "id": "rt-2026-08-09-1014",
+          "titulo": "Co-fundador da Wikipedia afirma que a plataforma se tornou uma ferramenta de propaganda",
+          "resumo": "O co-fundador da Wikipedia, Larry Sanger, afirma que a plataforma se tornou uma ferramenta de propaganda",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7717dd85f5401f5a118b1e.jpg",
           "link": "https://www.rt.com/news/644016-wikipedia-propaganda-tool-larry-sanger/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-08T13:03:29-03:00"
         },
         {
-          "id": "rt-2026-08-08-2107",
-          "titulo": "Líder da Igreja armênia enfrenta julgamento histórico em meio a uma disputa com o primeiro-ministro pró-Ocidente (VÍDEO)",
-          "resumo": "O Catholicos Karekin II e seis clérigos enfrentam julgamento por desobedecer a uma ordem judicial em meio a uma crescente divisão com o governo armênio",
+          "id": "rt-2026-08-09-1015",
+          "titulo": "Líder da Igreja Armênia enfrenta julgamento histórico",
+          "resumo": "O líder da Igreja Armênia, Catholicos Karekin II, enfrenta um julgamento histórico devido a uma disputa com o governo armênio",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a76ee1b85f5402ece48d78f.png",
           "link": "https://www.rt.com/russia/644012-armenian-church-leader-historic-trial/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-08T12:36:20-03:00"
         },
         {
-          "id": "rt-2026-08-08-2108",
-          "titulo": "A armadilha do comprador e vendedor: Por que a América não entregou o que a Índia esperava",
-          "resumo": "Após US$ 22 bilhões em vendas de armas americanas, as grandes promessas de co-produção e transferência de tecnologia ainda soam vazias",
+          "id": "rt-2026-08-09-1016",
+          "titulo": "A armadilha do comprador e vendedor: por que os EUA não entregaram o que a Índia esperava",
+          "resumo": "Os EUA não entregaram o que a Índia esperava em termos de cooperação de defesa e transferência de tecnologia",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a76e94c85f5403bbd541b1e.jpg",
           "link": "https://www.rt.com/india/643993-india-us-defense-ties-tech-transfer/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-08T10:40:05-03:00"
         },
         {
-          "id": "rt-2026-08-08-2109",
-          "titulo": "ASSISTA: Grupo de recrutamento ucraniano ataca brutalmente um jovem casal em um táxi (VÍDEO CHOCANTE)",
-          "resumo": "Um vídeo de mobilização ucraniana aparentemente mostra recrutadores mascarados jogando gás lacrimogêneo e batendo em um jovem de 19 anos em um táxi em Odessa",
+          "id": "rt-2026-08-09-1017",
+          "titulo": "Vídeo mostra recrutadores ucranianos agredindo casal em táxi",
+          "resumo": "Um vídeo mostra recrutadores ucranianos agredindo um casal em um táxi em Odessa",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a77015d85f54033244e763c.png",
           "link": "https://www.rt.com/russia/644014-ukrainian-press-gang-odessa-taxi-assault/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-08T10:16:17-03:00"
         },
         {
-          "id": "rt-2026-08-08-2110",
-          "titulo": "Nível baixo do Danúbio revela restos de soldados nazistas (FOTOS)",
-          "resumo": "Os níveis baixos do rio Danúbio expuseram os restos de dois soldados nazistas e equipamentos militares da Segunda Guerra Mundial em Budapeste",
+          "id": "rt-2026-08-09-1018",
+          "titulo": "Nível baixo do rio Danúbio revela restos de soldados nazistas",
+          "resumo": "O nível baixo do rio Danúbio revelou restos de soldados nazistas e equipamentos militares da Segunda Guerra Mundial em Budapeste",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a76e23685f5404c9d22acb7.jpg",
           "link": "https://www.rt.com/news/644009-low-danube-reveals-nazi-artifacts/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-08T08:55:11-03:00"
         },
         {
-          "id": "rt-2026-08-08-2111",
-          "titulo": "Rússia atinge instalação de armas e depósito de combustível em Kiev – Ministério da Defesa",
-          "resumo": "A Rússia atingiu uma instalação de mísseis Flamingo e um depósito de combustível militar em Kiev, de acordo com o Ministério da Defesa de Moscou",
+          "id": "rt-2026-08-09-1019",
+          "titulo": "Rússia atinge instalação de armas e depósito de combustível em Kiev",
+          "resumo": "A Rússia atingiu uma instalação de armas e um depósito de combustível em Kiev, de acordo com o Ministério da Defesa",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a76d46b2030276ebe1a2007.jpg",
           "link": "https://www.rt.com/russia/644010-russia-hits-weapons-facility-kiev/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-08T07:08:08-03:00"
-        },
-        {
-          "id": "rt-2026-08-08-2113",
-          "titulo": "Ucrânia prometeu parar de atacar terminal de petróleo ligado aos EUA – Bloomberg",
-          "resumo": "A Ucrânia prometeu não atacar um terminal de petróleo vital no Mar Negro em Novorossiysk, co-propriedade de empresas americanas",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a76ae6a85f5402ece48d787.jpg",
-          "link": "https://www.rt.com/russia/644008-ukraine-strikes-oil-terminal-chevron/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-08T04:21:28-03:00"
-        },
-        {
-          "id": "rt-2026-08-08-2114",
-          "titulo": "‘Cluster de suicídios’ atinge hackers militares dos EUA – Bloomberg",
-          "resumo": "O Comando Cibernético dos EUA investiga um ‘cluster de suicídios’ após cinco mortes em um mês, à medida que os hackers militares enfrentam pressão da guerra com o Irã e da IA",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75d01e85f54029a76dbf9f.jpg",
-          "link": "https://www.rt.com/news/643991-suicide-cluster-us-cyber-command/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-08T03:21:31-03:00"
-        },
-        {
-          "id": "rt-2026-08-08-2115",
-          "titulo": "Pentágono acusa ex-chefe da Força Aérea de vazar segredos de Estado",
-          "resumo": "O Pentágono acusou o ex-chefe da Força Aérea Frank Kendall de vazar informações classificadas sobre o avião presidencial de Donald Trump",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a769bef85f540333f04bbb3.jpg",
-          "link": "https://www.rt.com/news/644007-pentagon-revokes-air-force-chief/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-08T03:03:47-03:00"
-        },
-        {
-          "id": "rt-2026-08-08-2116",
-          "titulo": "Juiz americano declara Meta como ‘nocivo público’ semelhante à poluição do ar",
-          "resumo": "Um juiz do Novo México declarou a Meta como um ‘nocivo público’ devido ao dano causado às crianças, ordenou uma multa de US$ 567 milhões e mudanças abrangentes na plataforma",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75ca3e85f5407ec21de1e1.jpg",
-          "link": "https://www.rt.com/news/643989-us-meta-public-nuisance-fine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-08T00:49:53-03:00"
-        },
-        {
-          "id": "rt-2026-08-08-2117",
-          "titulo": "Musk bloqueia Ucrânia de usar Starlink para ataques profundos na Rússia – The Atlantic",
-          "resumo": "Elon Musk se recusou a permitir que a Ucrânia use o serviço de internet Starlink para ataques profundos na Rússia",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a76792920302730e856f050.jpg",
-          "link": "https://www.rt.com/news/644006-musk-ukraine-starlink-drones/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-08T00:33:52-03:00"
-        },
-        {
-          "id": "rt-2026-08-08-2118",
-          "titulo": "Escola Ivy Plus acusada de discriminação racial – DOJ",
-          "resumo": "O Departamento de Justiça dos EUA acusou a Faculdade de Direito de Duke de manter práticas de admissão que discriminam candidatos brancos e asiáticos",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75bd1d85f54028bb5eff7d.jpg",
-          "link": "https://www.rt.com/news/643985-duke-law-discrimination-doj/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-07T23:08:04-03:00"
-        },
-        {
-          "id": "rt-2026-08-08-2119",
-          "titulo": "Espanha devolve com medidas retaliatórias à Itália sobre controles de entrada",
-          "resumo": "Madri impôs medidas retaliatórias em resposta a Roma, que endureceu os controles após 72.000 pessoas entrarem ilegalmente na Espanha a partir do Marrocos",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a764cf285f540333f04bbb0.jpg",
-          "link": "https://www.rt.com/news/644005-spain-threatens-italy-migrants/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-07T22:53:02-03:00"
-        },
-        {
-          "id": "rt-2026-08-08-2120",
-          "titulo": "Paquistão, Turquia e Arábia Saudita acabam de lançar um ‘OTAN islâmico’?",
-          "resumo": "A Arábia Saudita, o Paquistão e a Turquia, membro da OTAN, formaram um bloco de defesa em meio a conflitos no Oriente Médio",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75f6b885f54030ee7e7b1e.jpg",
-          "link": "https://www.rt.com/news/643998-pakistan-turkiye-saudi-nato/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-07T21:16:05-03:00"
         }
       ]
     },
