@@ -1,0 +1,868 @@
+{
+  "nome": "Intelecto News",
+  "atualizado_em": "2026-07-06T13:00:00.000Z",
+  "edicao": "2026-07-06",
+  "itens_urgentes": {},
+  "destaques": [],
+  "capa": {
+    "categoria_nome": "O que marcou o dia?",
+    "titulo": "Tensões Globais: Conflitos e Alianças",
+    "subtitulo": "Análise das principais notícias do dia, destacando conflitos, alianças e tensões globais",
+    "resumo": "O dia foi marcado por uma série de eventos que refletem as tensões globais atuais. A Espanha introduziu controles de fronteira temporários para visitantes da Itália, enquanto a Rússia atingiu a logística militar ucraniana em Odessa. Além disso, a Turquia se juntou à Arábia Saudita e ao Paquistão no 'Pacto de Meca' como proteção contra a confiabilidade da defesa dos EUA. Esses eventos demonstram a complexidade das relações internacionais e a necessidade de uma análise cuidadosa das notícias. A corrida do ouro no Afeganistão também está mudando vidas e paisagens, enquanto a África busca construir o motor financeiro para sua industrialização. É fundamental considerar as diferentes perspectivas e enquadramentos das fontes de notícias para entender melhor esses eventos.",
+    "fonte": "Intelecto News · Redação",
+    "publicado_em": "2026-08-09T08:00:00-03:00",
+    "link": null,
+    "imagem": null
+  },
+  "jornais": {
+    "the_guardian": {
+      "slug": "the_guardian",
+      "nome": "The Guardian",
+      "gerado_em": "2026-08-09T10:00:09.765Z",
+      "artigos": [
+        {
+          "id": "the_guardian-2026-08-07T21:44:38.000Z-01",
+          "titulo": "Espanha introduzirá controles de fronteira temporários para visitantes da Itália",
+          "resumo": "Medida vem em resposta a Roma impor medidas semelhantes após corrida de migração em massa para Ceuta. A Espanha anunciou que introduzirá controles de fronteira temporários para visitantes da Itália em resposta a Roma impor medidas semelhantes após uma corrida de migração em massa para Ceuta.",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
+          "publicado_em": "2026-08-07T21:44:38.000Z"
+        },
+        {
+          "id": "the_guardian-2026-08-07T18:34:34.000Z-02",
+          "titulo": "Juiz aprova esforço de Trump para encerrar proteções TPS para o Sudão do Sul",
+          "resumo": "Decisão segue decisão do Supremo Tribunal que permitiu ao governo dos EUA retirar proteções para haitianos e sírios. O status de proteção temporária (TPS) para centenas de nacionais do Sudão do Sul nos EUA pode ser encerrado.",
+          "imagem": null,
+          "link": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
+          "publicado_em": "2026-08-07T18:34:34.000Z"
+        },
+        {
+          "id": "the_guardian-2026-08-06T16:18:46.000Z-03",
+          "titulo": "Vírus Ebola pode estar mutando, dizem oficiais",
+          "resumo": "Casos ultrapassaram 4.000 e o órgão de vigilância da saúde planeja ir de porta em porta para encontrar pacientes em uma grande escalada de resposta. O vírus que causa um surto maciço de Ebola na República Democrática do Congo pode estar mutando.",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
+          "publicado_em": "2026-08-06T16:18:46.000Z"
+        },
+        {
+          "id": "the_guardian-2026-08-06T15:41:29.000Z-04",
+          "titulo": "EUA fecharão cinco consulados, temendo que a China possa preencher o vácuo diplomático",
+          "resumo": "Departamento de Estado informa ao Congresso sobre os fechamentos planejados no Canadá, Granada, Japão, Indonésia e Camarões. O Departamento de Estado dos EUA fechará cinco consulados e missões no exterior.",
+          "imagem": null,
+          "link": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
+          "publicado_em": "2026-08-06T15:41:29.000Z"
+        },
+        {
+          "id": "the_guardian-2026-08-09T07:00:08.000Z-05",
+          "titulo": "Diplomata da Costa Rica emerge como forte candidata a primeira chefe feminina da ONU",
+          "resumo": "Rebeca Grynspan é vista como uma candidata de continuidade com o apoio tácito do atual secretário-geral, António Guterres. Uma diplomata da Costa Rica e ex-vice-presidente cujos pais eram refugiados da Europa pode se tornar a primeira chefe feminina da ONU.",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/aug/09/costa-rican-diplomat-rebeca-grynspan-contender-first-female-head-of-un",
+          "publicado_em": "2026-08-09T07:00:08.000Z"
+        },
+        {
+          "id": "the_guardian-2026-08-08T05:00:37.000Z-06",
+          "titulo": "A carga de saúde letal da fumaça dos incêndios florestais",
+          "resumo": "Cientistas correm para desvendar os complexos vínculos entre a exposição e a mortalidade à medida que o clima de incêndios se torna mais comum. A fumaça dos incêndios florestais pode ter um impacto letal na saúde.",
+          "imagem": null,
+          "link": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts",
+          "publicado_em": "2026-08-08T05:00:37.000Z"
+        },
+        {
+          "id": "the_guardian-2026-08-08T04:08:18.000Z-07",
+          "titulo": "EUA prometem US$ 1 bilhão em ajuda de segurança à Colômbia enquanto novo presidente de direita promete combater o tráfico de drogas",
+          "resumo": "Aliado de Trump, Abelardo De La Espriella, promete iniciar uma 'transformação profunda' do destino do país enquanto é empossado. O governo dos EUA prometeu US$ 1 bilhão em assistência de segurança à Colômbia.",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
+          "publicado_em": "2026-08-08T04:08:18.000Z"
+        },
+        {
+          "id": "the_guardian-2026-08-07T20:49:24.000Z-08",
+          "titulo": "Policial dos EUA acusado de matar três pessoas no México é preso na fronteira",
+          "resumo": "Chad Eberle, do Texas, é acusado de um tiroteio mortal em Saltillo que as autoridades dizem ter sido motivado por uma disputa de custódia. Um policial dos EUA foi preso no México após ser acusado de matar três pessoas.",
+          "imagem": null,
+          "link": "https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings",
+          "publicado_em": "2026-08-07T20:49:24.000Z"
+        },
+        {
+          "id": "the_guardian-2026-08-07T14:00:32.000Z-09",
+          "titulo": "Colômbia à beira do abismo: grupo guerrilheiro ELN se prepara para retornar à guerra",
+          "resumo": "À medida que Abelardo de la Espriella assume a presidência, prometendo uma nova ofensiva militar, os últimos rebeldes de esquerda do país se preparam para lutar de volta. A Colômbia está à beira do abismo à medida que o grupo guerrilheiro ELN se prepara para retornar à guerra.",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war",
+          "publicado_em": "2026-08-07T14:00:32.000Z"
+        },
+        {
+          "id": "the_guardian-2026-08-09T02:11:34.000Z-10",
+          "titulo": "Toll de tiroteio em escola na Tailândia sobe para nove após morte de menina de 12 anos, diz polícia",
+          "resumo": "Uma adolescente foi tratada em um hospital após o tiroteio na escola na sexta-feira e morreu, diz a polícia. O número de mortos em um tiroteio em uma escola na Tailândia subiu para nove após a morte de uma menina de 12 anos.",
+          "imagem": null,
+          "link": "https://www.theguardian.com/world/2026/aug/09/thailand-school-shooting-toll-rises-to-nine-after-12-year-old-dies-police-say",
+          "publicado_em": "2026-08-09T02:11:34.000Z"
+        }
+      ]
+    },
+    "new_york_times": {
+      "slug": "new_york_times",
+      "nome": "The New York Times",
+      "gerado_em": "2026-08-09T10:00:01.896Z",
+      "artigos": [
+        {
+          "id": "new_york_times-2026-08-09-1001",
+          "titulo": "Crypto do Trump Recebeu $100 Milhões de um Homem de Negócios com Sinais de Alerta",
+          "resumo": "O caso curioso de Guren 'Bobby' Zhou mostra a facilidade com que investidores com antecedentes duvidosos e motivações desconhecidas podem canalizar dinheiro para o presidente.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/09/us/politics/bobby-zhou-trump-crypto.html",
+          "publicado_em": "2026-08-09T09:00:28-03:00"
+        },
+        {
+          "id": "new_york_times-2026-08-09-1003",
+          "titulo": "Senado Aceita a Realidade e Deixa a Lei de Voto de Trump sem Efeito",
+          "resumo": "A saída de verão confirmou o que já era aparente há semanas: que os republicanos não tinham votos suficientes para aprovar as restrições de voto que o presidente tornou uma prioridade.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/08/us/politics/senate-bows-to-reality-leaving-trumps-voting-bill-undone.html",
+          "publicado_em": "2026-08-08T20:12:51-03:00"
+        },
+        {
+          "id": "new_york_times-2026-08-09-1004",
+          "titulo": "Por Dentro da Guerra Contra as Finanças do Hezbollah",
+          "resumo": "Israel e os EUA não estão apenas mirando nas armas do grupo militante libanês, mas também em seu dinheiro.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html",
+          "publicado_em": "2026-08-09T09:00:15-03:00"
+        },
+        {
+          "id": "new_york_times-2026-08-09-1005",
+          "titulo": "Os EUA Estão Queimando Armas no Irã. Rússia e China Estão Observando.",
+          "resumo": "A guerra no Irã esgotou os estoques de armas dos EUA, resultando em uma erosão significativa do poder de fogo. Um conflito mais prolongado no Irã beneficia Moscou e Pequim, dizem alguns analistas.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html",
+          "publicado_em": "2026-08-08T19:56:38-03:00"
+        },
+        {
+          "id": "new_york_times-2026-08-09-1006",
+          "titulo": "Em Michigan, um Ex-Crítico de Trump se Volta para o Ceticismo Eleitoral",
+          "resumo": "Mike Rogers, o indicado republicano ao Senado, sugeriu que um escrutínio adicional das eleições de 2020 era necessário e que irregularidades eleitorais afundaram sua primeira candidatura ao Senado há dois anos.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/09/us/politics/mike-rogers-michigan-senate-elections.html",
+          "publicado_em": "2026-08-09T09:01:47-03:00"
+        },
+        {
+          "id": "new_york_times-2026-08-09-1007",
+          "titulo": "Pesquisa: Eleitores Veem Partidos Políticos como Mais Extremos do que seus Próprios Candidatos",
+          "resumo": "Em uma pesquisa do New York Times/Siena em estados-chave, os partidos nacionais foram vistos como muito à direita ou à esquerda, enquanto os indicados foram vistos como mais moderados.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/09/us/elections/poll-voters-political-parties-extreme.html",
+          "publicado_em": "2026-08-09T09:00:50-03:00"
+        },
+        {
+          "id": "new_york_times-2026-08-09-1008",
+          "titulo": "Um Socialista Democrata Espalha a Palavra, Mesmo em Território Hostil",
+          "resumo": "Gustavo Gordillo, um líder do D.S.A. de Nova York, quer alcançar novos eleitores. Mas em entrevistas com a mídia conservadora, a reação pode ser afiada.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/09/us/politics/gustavo-gordillo-democratic-socialists.html",
+          "publicado_em": "2026-08-09T09:00:49-03:00"
+        },
+        {
+          "id": "new_york_times-2026-08-09-1009",
+          "titulo": "Como um 'Inferno de Drones' Pode Parar uma Invasão Chinesa de Taiwan",
+          "resumo": "Inspirado pelas vitórias de campo da Ucrânia, Taiwan está apostando em drones para dissuadir uma possível invasão chinesa.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html",
+          "publicado_em": "2026-08-09T04:01:15-03:00"
+        },
+        {
+          "id": "new_york_times-2026-08-09-1014",
+          "titulo": "Hunter Biden Diz que o Câncer de seu Pai Piorou",
+          "resumo": "Em uma entrevista com a BBC, o sr. Biden disse que o câncer de próstata do ex-presidente Joseph R. Biden Jr. havia se espalhado para os ossos e estava causando dor.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/08/us/politics/hunter-biden-says-his-fathers-cancer-is-worsening.html",
+          "publicado_em": "2026-08-09T02:44:42-03:00"
+        }
+      ]
+    },
+    "euronews": {
+      "slug": "euronews",
+      "nome": "Euro News",
+      "gerado_em": "2026-08-09T10:00:17.506Z",
+      "artigos": [
+        {
+          "id": "euronews-2026-08-09-1001",
+          "titulo": "Todd Blanche's confirmação como procurador-geral gera preocupações sobre a independência do Departamento de Justiça dos EUA",
+          "resumo": "Após arriscar sua carreira defendendo Donald Trump em um julgamento criminal, Todd Blanche foi confirmado como procurador-geral dos EUA, gerando temores sobre a independência do Departamento de Justiça dos EUA.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/09/todd-blanches-confirmation-as-attorney-general-strikes-worries-over-us-justice-independenc",
+          "publicado_em": "2026-08-09T07:22:12.000Z"
+        },
+        {
+          "id": "euronews-2026-08-09-1005",
+          "titulo": "EUA pretendem enviar US$ 1 bilhão em ajuda à Colômbia após a posse de de la Espriella",
+          "resumo": "O presidente dos EUA, Donald Trump, elogiou de la Espriella, chamando-o de \"líder inteligente, forte e duro.\"",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/08/us-intends-to-send-1-billion-in-aid-to-colombia-following-de-la-espriellas-inauguration",
+          "publicado_em": "2026-08-08T07:33:08.000Z"
+        },
+        {
+          "id": "euronews-2026-08-09-1007",
+          "titulo": "Tribunal de apelação dos EUA ordena paralisação da construção da sala de baile de Trump sem aprovação do Congresso",
+          "resumo": "O Tribunal de Apelação dos EUA para o Circuito de DC, que havia permitido a continuação da construção enquanto considerava o caso, concordou com um tribunal inferior que uma reforma tão massiva da Casa Branca exigia a aprovação do Congresso.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/07/us-appeals-court-orders-halt-to-trump-ballroom-construction-without-congressional-approval",
+          "publicado_em": "2026-08-07T18:55:15.000Z"
+        },
+        {
+          "id": "euronews-2026-08-09-1008",
+          "titulo": "Senado dos EUA aprova projeto de lei de sanções à Rússia que visa a renda do setor energético",
+          "resumo": "O pacote imporia sanções a funcionários russos, oligarcas, instituições financeiras e à chamada frota sombra usada para evadir restrições às exportações de petróleo de Moscou.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/07/us-senate-approves-sweeping-russia-sanctions-bill-targeting-energy-income",
+          "publicado_em": "2026-08-07T18:20:21.000Z"
+        },
+        {
+          "id": "euronews-2026-08-09-1010",
+          "titulo": "Incêndio florestal queima 100 hectares perto de Narbonne, na França",
+          "resumo": "Canadairs e helicópteros combatem um incêndio florestal que queimou cerca de 100 hectares na região de Corbières, perto de Narbonne, após um acidente de trânsito.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/08/07/wildfire-burns-100-hectares-near-narbonne-in-france",
+          "publicado_em": "2026-08-07T14:40:09.000Z"
+        },
+        {
+          "id": "euronews-2026-08-09-1011",
+          "titulo": "Taiwan testa resposta a emergências com simulação de ataque aéreo",
+          "resumo": "Taiwan realiza uma simulação de ataque aéreo em Kaohsiung, interrompendo o tráfego e orientando os moradores enquanto as autoridades testam as respostas de emergência civis.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/08/07/taiwan-tests-emergency-response-with-air-raid-drill",
+          "publicado_em": "2026-08-07T13:36:27.000Z"
+        },
+        {
+          "id": "euronews-2026-08-09-1013",
+          "titulo": "Sri Lanka envia tropas para conter crescente agitação nas prisões, afirma ministro",
+          "resumo": "Autoridades atribuíram a crescente agitação ao superlotamento agudo. As prisões do Sri Lanka abrigam cerca de quatro vezes sua capacidade projetada.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/07/sri-lanka-deploys-troops-to-contain-growing-prison-unrest-minister-says",
+          "publicado_em": "2026-08-07T08:43:06.000Z"
+        },
+        {
+          "id": "euronews-2026-08-09-1017",
+          "titulo": "Coreia do Sul recupera minas terrestres que acredita terem sido levadas pela Coreia do Norte devido a inundações causadas por monções",
+          "resumo": "A Zona Desmilitarizada (DMZ), que divide as Coreias desde o fim da guerra em 1953, é um dos lugares mais minados do mundo.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/07/south-korea-recovers-landmines-believed-to-have-washed-from-north-by-monsoon-floods",
+          "publicado_em": "2026-08-07T06:29:49.000Z"
+        },
+        {
+          "id": "euronews-2026-08-09-1018",
+          "titulo": "Austrália concede cidadania a duas jogadoras de futebol iranianas que buscaram asilo",
+          "resumo": "O Conselho de Refugiados da Austrália, uma organização sem fins lucrativos que representa os solicitantes de asilo, disse que os refugiados geralmente devem viver na Austrália com um visto válido por quatro anos antes de poderem solicitar a cidadania.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/07/australia-grants-citizenship-to-two-iranian-women-footballers-who-sought-asylum",
+          "publicado_em": "2026-08-07T06:00:03.000Z"
+        },
+        {
+          "id": "euronews-2026-08-09-1020",
+          "titulo": "Oito mortos, incluindo avós do suspeito, em tiroteio na Tailândia, diz a polícia",
+          "resumo": "A Tailândia tem uma das maiores taxas de propriedade de armas de fogo da região, com cerca de 10 milhões de armas de fogo estimadas em circulação, uma para cada sete habitantes.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/07/two-dead-and-several-wounded-in-thailand-school-shooting-local-official-says",
+          "publicado_em": "2026-08-07T04:54:43.000Z"
+        },
+        {
+          "id": "euronews-2026-08-09-1021",
+          "titulo": "Meta é ordenada a pagar US$ 567 milhões por 'nódoa pública' e 'dano a crianças'",
+          "resumo": "Um juiz do Novo México penalizou o gigante da tecnologia por criar uma nódoa pública e colocar em risco as crianças online.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/07/meta-ordered-to-pay-567-mn-to-us-for-public-nuisance-and-child-harm",
+          "publicado_em": "2026-08-07T04:15:36.000Z"
+        },
+        {
+          "id": "euronews-2026-08-09-1022",
+          "titulo": "Arábia Saudita, Turquia e Paquistão assinam novo pacto de defesa em meio a tensões EUA-Irã",
+          "resumo": "O príncipe herdeiro Mohammed bin Salman, o presidente Recep Tayyip Erdoğan e o primeiro-ministro Shehbaz Sharif se reuniram em Meca na sexta-feira para formalizar um acordo conjunto.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/07/saudi-arabia-turkiye-and-pakistan-to-sign-joint-defence-pact-amid-regional-escalation",
+          "publicado_em": "2026-08-07T03:36:16.000Z"
+        }
+      ]
+    },
+    "scmp": {
+      "slug": "scmp",
+      "nome": "South China Morning Post",
+      "gerado_em": "2026-08-09T10:15:28.275Z",
+      "artigos": [
+        {
+          "id": "scmp-2026-08-09-1008-01",
+          "titulo": "Pacto de defesa entre Arábia Saudita, Turquia e Paquistão atua como 'seguro' diante do desengajamento dos EUA",
+          "resumo": "Um pacto de defesa entre Arábia Saudita, Turquia e Paquistão parece visar dissuadir o Irã e Israel de intensificar o conflito no Oriente Médio, diante da incapacidade de Washington de garantir segurança na região.",
+          "link": "https://www.scmp.com/week-asia/politics/article/3363383/how-saudi-arabia-turkey-pakistan-defence-pact-acts-insurance-over-us-disengagement",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/08/698d6070-7ed2-4ba9-a420-ded434400cea_72880ee3.jpg",
+          "publicado_em": "2026-08-09T08:00:06.000Z"
+        },
+        {
+          "id": "scmp-2026-08-09-1012-02",
+          "titulo": "Apelo do Maldivas para reativar bloco sul-asiático atinge muro de tijolos entre Índia e Paquistão",
+          "resumo": "O Maldivas recentemente chamou à reativação de um grupo sul-asiático, que está suspenso há mais de uma década. No entanto, devido às tensões entre dois dos países mais influentes da região, Índia e Paquistão, o apelo pode não ser bem-sucedido.",
+          "link": "https://www.scmp.com/week-asia/politics/article/3363295/maldives-plea-restart-south-asian-bloc-hits-india-pakistan-brick-wall",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/07/fb2aab0e-a226-4cc4-a3e9-05d4b3333bb3_605cd24f.jpg",
+          "publicado_em": "2026-08-09T06:00:06.000Z"
+        },
+        {
+          "id": "scmp-2026-08-09-1014-03",
+          "titulo": "Chefe de gigante de armas alemão diz que não vai recuar diante de ameaças alegadas da Rússia",
+          "resumo": "O chefe da gigante de armas alemã Rheinmetall se recusa a ser intimidado, apesar de segurança 24 horas por dia devido a uma série de ameaças à sua segurança.",
+          "link": "https://www.scmp.com/news/world/europe/article/3363426/german-arms-giant-boss-says-no-chickening-out-amid-alleged-russian-threats",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/09/06a96296-4b55-4254-8989-a6ae67ece434_de2413c5.jpg",
+          "publicado_em": "2026-08-09T05:15:08.000Z"
+        },
+        {
+          "id": "scmp-2026-08-09-1018-04",
+          "titulo": "Medos de privacidade impulsionam 'americanos patriotas' a destruir câmeras de leitura de placas de licença",
+          "resumo": "Em apenas alguns anos, a startup de vigilância Flock instalou mais de 100.000 câmeras de leitura de placas de licença nos EUA. No entanto, um movimento de base indignado com preocupações de privacidade está lutando contra isso.",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3363424/privacy-fears-drive-patriotic-americans-destroy-licence-plate-cameras",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/09/eed62255-58b7-4911-aeba-15c5097d9716_85e8b7a7.jpg",
+          "publicado_em": "2026-08-09T03:50:21.000Z"
+        },
+        {
+          "id": "scmp-2026-08-09-1019-05",
+          "titulo": "Tiroteio em escola tailandesa: 'Parecia que não íamos sobreviver'",
+          "resumo": "Quando um tiro foi disparado na Escola Debsirin Nonthaburi, nas proximidades de Bangkok, na manhã de sexta-feira, a aluna Khim e seus colegas de classe espiaram por uma varanda para ver se o barulho vinha de um concurso.",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3363423/i-felt-we-werent-going-survive-how-thai-school-shooting-unfolded",
+          "imagem": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/09/c8199cda-07c3-48b0-8985-7c4490809bc6_fe0f18a8.jpg",
+          "publicado_em": "2026-08-09T03:15:50.000Z"
+        }
+      ]
+    },
+    "rt": {
+      "slug": "rt",
+      "nome": "Russia Today",
+      "gerado_em": "2026-08-09T10:15:39.827Z",
+      "artigos": [
+        {
+          "id": "rt-2026-08-09-1001",
+          "titulo": "Milhares protestam contra o governo alemão",
+          "resumo": "Cerca de 10.000 pessoas protestaram em Plauen, na Alemanha, pedindo a renúncia do chanceler Friedrich Merz",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a783cc685f5402ece48d7b0.png",
+          "link": "https://www.rt.com/news/644025-germany-protest-merz-government/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-09T10:01:10-03:00"
+        },
+        {
+          "id": "rt-2026-08-09-1002",
+          "titulo": "Rússia atinge logística militar ucraniana em Odessa",
+          "resumo": "Forças russas atingiram depósitos de combustível e infraestrutura portuária em Odessa, de acordo com o Ministério da Defesa",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7837a085f54033244e7670.jpg",
+          "link": "https://www.rt.com/russia/644029-russia-hits-ukrainian-military-logistics/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-09T08:18:26-03:00"
+        },
+        {
+          "id": "rt-2026-08-09-1003",
+          "titulo": "Guerra no Irã deixa aliados dos EUA na Ásia menos defendidos",
+          "resumo": "Estoques de mísseis dos EUA esgotados podem minar a confiança entre os aliados asiáticos e europeus de Washington, de acordo com o New York Times",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a780a6f85f540333f04bbde.jpg",
+          "link": "https://www.rt.com/news/644024-iran-war-leaves-us-allies/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-09T06:17:06-03:00"
+        },
+        {
+          "id": "rt-2026-08-09-1004",
+          "titulo": "Irã apresenta condições para reabertura do Estreito de Ormuz",
+          "resumo": "O Irã apresentou seis condições aos EUA para a reabertura do Estreito de Ormuz",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a77faa485f5403d620463f3.jpg",
+          "link": "https://www.rt.com/news/644023-iran-makeshormuz-demands/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-09T03:58:27-03:00"
+        },
+        {
+          "id": "rt-2026-08-09-1006",
+          "titulo": "Drone ucraniano explode perto de gasoduto crítico na Bulgária",
+          "resumo": "Um drone ucraniano explodiu perto de um gasoduto crítico na Bulgária, de acordo com o Ministério da Defesa do país",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a77d39a203027119f5f0f4d.jpg",
+          "link": "https://www.rt.com/news/644021-ukrainian-drone-explodes-in-bulgaria/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-09T01:12:30-03:00"
+        },
+        {
+          "id": "rt-2026-08-09-1007",
+          "titulo": "Três mortos em ataque ucraniano a prédios residenciais na Rússia",
+          "resumo": "Um ataque ucraniano a prédios residenciais na Rússia matou três pessoas e feriu 25, de acordo com um oficial regional",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a77c06385f5401d656c9c40.jpg",
+          "link": "https://www.rt.com/russia/644020-ukraine-strikes-buildings-belgorod/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-08T23:02:44-03:00"
+        },
+        {
+          "id": "rt-2026-08-09-1008",
+          "titulo": "China lançará rotas de navegação regular para a Europa via Rota do Mar do Norte da Rússia",
+          "resumo": "A China lançará rotas de navegação regular para a Europa via Rota do Mar do Norte da Rússia, de acordo com o CEO da Rosatom",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7796dc85f5401f5a118b27.jpg",
+          "link": "https://www.rt.com/russia/644019-china-europe-shipping-russia-arctic-route/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-08T21:49:03-03:00"
+        },
+        {
+          "id": "rt-2026-08-09-1010",
+          "titulo": "Presidente da Polônia faz discurso anti-russo motivado por 'raiva impotente' – Moscou",
+          "resumo": "O discurso anti-russo do presidente da Polônia foi motivado por 'raiva impotente', de acordo com o Ministério das Relações Exteriores da Rússia",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a77709c2030270c176c6950.jpg",
+          "link": "https://www.rt.com/russia/644018-poland-nawrocki-killing-russians-moskal/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-08T18:17:28-03:00"
+        },
+        {
+          "id": "rt-2026-08-09-1012",
+          "titulo": "EUA buscam novo líder em Cuba",
+          "resumo": "Os EUA estão buscando um novo líder em Cuba, de acordo com o New York Times",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a773dc785f54033244e764a.jpg",
+          "link": "https://www.rt.com/news/644011-us-hunts-cuba-leader-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-08T15:08:05-03:00"
+        },
+        {
+          "id": "rt-2026-08-09-1013",
+          "titulo": "Tufão atinge o Japão",
+          "resumo": "Seis pessoas ficaram feridas e mais de 50.000 prédios perderam energia no Japão devido ao tufão Dolphin",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a771e9d20302763b44c1b63.jpg",
+          "link": "https://www.rt.com/news/644015-japan-powerful-typhoon-dolphin-china/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-08T13:35:08-03:00"
+        },
+        {
+          "id": "rt-2026-08-09-1014",
+          "titulo": "Co-fundador da Wikipedia afirma que a plataforma se tornou uma ferramenta de propaganda",
+          "resumo": "O co-fundador da Wikipedia, Larry Sanger, afirma que a plataforma se tornou uma ferramenta de propaganda",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7717dd85f5401f5a118b1e.jpg",
+          "link": "https://www.rt.com/news/644016-wikipedia-propaganda-tool-larry-sanger/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-08T13:03:29-03:00"
+        },
+        {
+          "id": "rt-2026-08-09-1015",
+          "titulo": "Líder da Igreja Armênia enfrenta julgamento histórico",
+          "resumo": "O líder da Igreja Armênia, Catholicos Karekin II, enfrenta um julgamento histórico devido a uma disputa com o governo armênio",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a76ee1b85f5402ece48d78f.png",
+          "link": "https://www.rt.com/russia/644012-armenian-church-leader-historic-trial/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-08T12:36:20-03:00"
+        },
+        {
+          "id": "rt-2026-08-09-1016",
+          "titulo": "A armadilha do comprador e vendedor: por que os EUA não entregaram o que a Índia esperava",
+          "resumo": "Os EUA não entregaram o que a Índia esperava em termos de cooperação de defesa e transferência de tecnologia",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a76e94c85f5403bbd541b1e.jpg",
+          "link": "https://www.rt.com/india/643993-india-us-defense-ties-tech-transfer/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-08T10:40:05-03:00"
+        },
+        {
+          "id": "rt-2026-08-09-1017",
+          "titulo": "Vídeo mostra recrutadores ucranianos agredindo casal em táxi",
+          "resumo": "Um vídeo mostra recrutadores ucranianos agredindo um casal em um táxi em Odessa",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a77015d85f54033244e763c.png",
+          "link": "https://www.rt.com/russia/644014-ukrainian-press-gang-odessa-taxi-assault/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-08T10:16:17-03:00"
+        },
+        {
+          "id": "rt-2026-08-09-1018",
+          "titulo": "Nível baixo do rio Danúbio revela restos de soldados nazistas",
+          "resumo": "O nível baixo do rio Danúbio revelou restos de soldados nazistas e equipamentos militares da Segunda Guerra Mundial em Budapeste",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a76e23685f5404c9d22acb7.jpg",
+          "link": "https://www.rt.com/news/644009-low-danube-reveals-nazi-artifacts/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-08T08:55:11-03:00"
+        },
+        {
+          "id": "rt-2026-08-09-1019",
+          "titulo": "Rússia atinge instalação de armas e depósito de combustível em Kiev",
+          "resumo": "A Rússia atingiu uma instalação de armas e um depósito de combustível em Kiev, de acordo com o Ministério da Defesa",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a76d46b2030276ebe1a2007.jpg",
+          "link": "https://www.rt.com/russia/644010-russia-hits-weapons-facility-kiev/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-08T07:08:08-03:00"
+        }
+      ]
+    },
+    "st": {
+      "slug": "st",
+      "nome": "The Straits Times",
+      "gerado_em": "2026-08-09T10:15:48.963Z",
+      "artigos": [
+        {
+          "id": "st-2026-08-09-01",
+          "titulo": "Turquia se junta à Arábia Saudita e ao Paquistão no 'Pacto de Meca' como proteção contra a confiabilidade da defesa dos EUA",
+          "resumo": "O pacto cria um quadro para a Arábia Saudita, o Paquistão e a Turquia potencialmente formarem uma indústria de defesa.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/middle-east/turkey-joins-saudi-and-pakistan-in-mecca-pact-hedge-against-us-defence-reliability",
+          "publicado_em": "2026-08-09T10:00:00.000-03:00"
+        },
+        {
+          "id": "st-2026-08-09-02",
+          "titulo": "Porto de Odesa, na Ucrânia, sofre danos em ataque russo, diz Zelenskiy",
+          "resumo": "KYIV, 9 de agosto - O porto marítimo de Odesa, na Ucrânia, sofreu danos em um ataque noturno russo, disse o presidente Volodymyr Zelenskiy no domingo, acrescentando que oito pessoas ficaram feridas na cidade.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/europe/ukraines-odesa-port-sustains-damage-from-russian-attack-zelenskiy-says",
+          "publicado_em": "2026-08-09T09:54:14.000-03:00"
+        },
+        {
+          "id": "st-2026-08-09-03",
+          "titulo": "Espanha verifica 200 chegadas da Itália em controles de fronteira após disputa sobre migração",
+          "resumo": "MADRI/MILÃO, 9 de agosto - A Espanha verificou cerca de 200 viajantes chegando da Itália nos seis maiores aeroportos do país no primeiro dia de controles de fronteira reintroduzidos após uma disputa com a Itália sobre...",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/europe/spain-checks-200-italy-arrivals-in-border-controls-after-migration-row",
+          "publicado_em": "2026-08-09T08:53:55.000-03:00"
+        },
+        {
+          "id": "st-2026-08-09-04",
+          "titulo": "Três mortos em ataque de drone ucraniano à cidade russa de Belgorod, dizem autoridades",
+          "resumo": "9 de agosto - Três pessoas morreram e 25 ficaram feridas em um ataque noturno de drone ucraniano à cidade russa de Belgorod, disseram as autoridades locais no domingo.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/europe/three-killed-in-ukrainian-drone-attack-on-belgorod-russian-authorities-say",
+          "publicado_em": "2026-08-09T08:23:43.000-03:00"
+        },
+        {
+          "id": "st-2026-08-09-05",
+          "titulo": "Corrida do ouro no Afeganistão muda vidas e paisagens",
+          "resumo": "Alguns residentes na área de Shiwa se beneficiaram da corrida do ouro, apenas para se arrependerem mais tarde.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/afghanistans-gold-rush-upends-lives-and-landscapes",
+          "publicado_em": "2026-08-09T07:31:00.000-03:00"
+        },
+        {
+          "id": "st-2026-08-09-06",
+          "titulo": "Houthis do Iêmen dizem que atacaram refinaria da Aramco em Jazan, incêndio extinto",
+          "resumo": "A Aramco fechou anteriormente a refinaria em 27 de julho após outro ataque dos Houthis.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/middle-east/fire-extinguished-at-aramco-refinery-in-jazan-saudi-arabia-says",
+          "publicado_em": "2026-08-09T03:30:00.000-03:00"
+        },
+        {
+          "id": "st-2026-08-09-07",
+          "titulo": "Ataques com bombas marcam o primeiro dia do novo governo de direita na Colômbia",
+          "resumo": "Partes da Colômbia ainda são controladas por grupos armados dissidentes que dominam a produção global de cocaína.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/bombing-attacks-mark-first-day-of-colombias-new-right-wing-government",
+          "publicado_em": "2026-08-09T02:35:00.000-03:00"
+        },
+        {
+          "id": "st-2026-08-09-08",
+          "titulo": "Promotores equatorianos acusam sete suspeitos de serem os mentores do assassinato do candidato presidencial em 2023",
+          "resumo": "Fernando Villavicencio, conhecido por suas investigações anticorrupção, estava em segundo lugar nas pesquisas quando foi morto.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/ecuadoran-prosecutors-charge-seven-suspected-masterminds-in-2023-murder-of-presidential-candidate",
+          "publicado_em": "2026-08-09T02:30:00.000-03:00"
+        },
+        {
+          "id": "st-2026-08-09-09",
+          "titulo": "Ira cresce nos EUA sobre vasta rede de câmeras de placas de carro",
+          "resumo": "Críticos dizem que elas são uma ferramenta perigosa que pode ser usada para violar a privacidade e as liberdades civis americanas.",
+          "imagem": null,
+          "link": "https://www.straitstimes.com/world/united-states/angers-mounts-in-us-over-vast-network-of-car-licence-plate-cams",
+          "publicado_em": "2026-08-09T02:15:00.000-03:00"
+        }
+      ]
+    },
+    "mt": {
+      "slug": "mt",
+      "nome": "The Moscow Times",
+      "gerado_em": "2026-08-09T10:45:57.563Z",
+      "artigos": [
+        {
+          "id": "mt-2026-08-09-01",
+          "titulo": "3 Killed in Ukrainian Drone Attack on Belgorod, Russia Says",
+          "resumo": "Russia's Defense Ministry said it had destroyed more than 150 Ukrainian drones over the European part of the country.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/09/3-killed-in-ukrainian-drone-attack-on-belgorodrussia-says-a93443",
+          "publicado_em": "2026-08-09T09:43:00.000Z"
+        },
+        {
+          "id": "mt-2026-08-09-02",
+          "titulo": "Ukraine Strikes Oil Refinery in Russia's Krasnodar Region in Drone Attack",
+          "resumo": "The attack is another in Ukraine's campaign against Russia's oil and gas facilities.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/08/ukraine-strikes-oil-refinery-in-russias-krasnodar-region-in-drone-attack-a93441",
+          "publicado_em": "2026-08-08T11:10:00.000Z"
+        },
+        {
+          "id": "mt-2026-08-09-03",
+          "titulo": "Russian Drones Kill 3-Year-Old Boy and Grandparents Near Kyiv, Zelensky Says",
+          "resumo": "Ukraine is chronically short of air defense munitions, making it very difficult for air defense forces to intercept Russian ballistic missiles.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/08/russian-strikes-kill-3-in-kyiv-region-official-says-a93442",
+          "publicado_em": "2026-08-08T11:00:00.000Z"
+        },
+        {
+          "id": "mt-2026-08-09-04",
+          "titulo": "Deadly Storm Batters Smolensk Region, Leaving Thousands Without Power",
+          "resumo": "A child and an elderly woman were killed by falling trees in the regional capital as winds reached gusts of up to 20 meters per second.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/07/deadly-storm-batters-smolensk-region-leaving-thousands-without-power-a93440",
+          "publicado_em": "2026-08-07T14:28:55.000Z"
+        },
+        {
+          "id": "mt-2026-08-09-05",
+          "titulo": "Former Popcorn Books Publisher Receives Suspended Sentence in LGBTQ+ ‘Extremism’ Trial",
+          "resumo": "Dmitry Protopopov was among three senior managers arrested in May 2025 and charged with “extremism” following a 2023 ruling by Russia’s Supreme Court to outlaw the so-called “international LGBT movement”.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/07/former-popcorn-books-publisher-receives-suspended-sentence-in-lgbtq-extremism-trial-a93439",
+          "publicado_em": "2026-08-07T13:34:52.000Z"
+        },
+        {
+          "id": "mt-2026-08-09-06",
+          "titulo": "Nationalist Rodina Party Sues to Disqualify Yabloko From State Duma Elections",
+          "resumo": "Rodina leader Alexei Zhuravlyov accused Yabloko members of being traitors “who work for the West” and claimed his party had uncovered financial violations by Yabloko.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/07/nationalist-rodina-party-sues-to-disqualify-yabloko-from-state-duma-elections-a93438",
+          "publicado_em": "2026-08-07T12:11:00.000Z"
+        },
+        {
+          "id": "mt-2026-08-09-07",
+          "titulo": "FSB Raids Moscow City Crypto Exchanges Accused of Laundering Stolen Cash",
+          "resumo": "The FSB claimed Ukraine-based scam call centers used gray-market exchange offices in Moscow City to convert stolen cash into cryptocurrency and funnel it out of Russia.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/07/fsb-raids-moscow-city-crypto-exchanges-accused-of-laundering-stolen-cash-a93436",
+          "publicado_em": "2026-08-07T10:10:14.000Z"
+        },
+        {
+          "id": "mt-2026-08-09-08",
+          "titulo": "Ukrainian Attack Sparks Fire at Wildberries Facility in Yekaterinburg",
+          "resumo": "The online retailer said it evacuated its employees from the logistics center, while most of the inventory remained undamaged.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/07/ukrainian-attack-sparks-fire-at-wildberries-facility-in-yekaterinburg-a93434",
+          "publicado_em": "2026-08-07T08:34:00.000Z"
+        },
+        {
+          "id": "mt-2026-08-09-09",
+          "titulo": "Russia Rolls Back Fuel Quality Standards to Quell Domestic Shortages",
+          "resumo": "Euro-2, Euro-3 and Euro-4 standard fuels will be allowed to be sold on the market through July 1, 2027, according to a government decree.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/06/russia-rolls-back-fuel-quality-standards-to-quell-domestic-shortages-a93430",
+          "publicado_em": "2026-08-06T15:00:48.000Z"
+        },
+        {
+          "id": "mt-2026-08-09-10",
+          "titulo": "Russian Foreign Ministry Condemns France’s Order to Deport Former RT Journalist",
+          "resumo": "French authorities issued a deportation order last month for Ksenia Fedorova, the former head of state broadcaster RT France.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/06/russian-foreign-ministry-condemns-frances-order-to-deport-former-rt-journalist-a93431",
+          "publicado_em": "2026-08-06T14:16:34.000Z"
+        },
+        {
+          "id": "mt-2026-08-09-11",
+          "titulo": "2 Years After Kursk Incursion, Russia Raises Civilian Death Toll to More Than 600",
+          "resumo": "Investigators put total property damage at $6.2 billion across the region, with at least 53 cultural heritage sites damaged during the fighting.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/06/2-years-after-kursk-incursion-russia-raises-civilian-death-toll-to-more-than-600-a93426",
+          "publicado_em": "2026-08-06T10:09:15.000Z"
+        },
+        {
+          "id": "mt-2026-08-09-12",
+          "titulo": "Ukrainian Drones Strike Oil Refineries in Yaroslavl and Bashkortostan",
+          "resumo": "Authorities in the Tver region, meanwhile, reported damage to a warehouse operated by online retail giant Wildberries.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/06/ukrainian-drones-strike-oil-refineries-in-yaroslavl-and-bashkortostan-a93425",
+          "publicado_em": "2026-08-06T08:29:00.000Z"
+        },
+        {
+          "id": "mt-2026-08-09-13",
+          "titulo": "Fire Breaks Out at Main Roscosmos Research Center Near Moscow",
+          "resumo": "The complex houses mission control for the Russian segment of the International Space Station.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/05/fire-breaks-out-at-main-roscosmos-research-center-near-moscow-a93424",
+          "publicado_em": "2026-08-05T15:04:41.000Z"
+        },
+        {
+          "id": "mt-2026-08-09-14",
+          "titulo": "Japan Protests Russian Military Drills Near Disputed Kuril Islands",
+          "resumo": "Russia’s Defense Ministry said the military drills will involve dozens of warships and aircraft, as well as more than 13,000 servicemen.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/05/japan-protests-russian-military-drills-near-disputed-kuril-islands-a93423",
+          "publicado_em": "2026-08-05T14:29:12.000Z"
+        },
+        {
+          "id": "mt-2026-08-09-15",
+          "titulo": "Yekaterinburg Drone Maker CEO Wounded in Car Explosion",
+          "resumo": "State media reported that Vladimir Tkachuk, founder and CEO of Uraldronzavod, is in critical condition and that doctors are “fighting for his life.”",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/05/yekaterinburg-drone-maker-ceo-wounded-in-car-explosion-a93421",
+          "publicado_em": "2026-08-05T13:12:01.000Z"
+        }
+      ]
+    },
+    "aa": {
+      "slug": "aa",
+      "nome": "AllAfrica",
+      "gerado_em": "2026-08-09T10:46:04.682Z",
+      "artigos": [
+        {
+          "id": "aa-2026-08-08-01",
+          "titulo": "África: Da Capital para a Prosperidade - A África Pode Construir o Motor Financeiro para sua Industrialização?",
+          "resumo": "Resumo executivo sobre como a África pode construir o motor financeiro para sua industrialização.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608080079.html",
+          "publicado_em": "2026-08-08T18:14:17.000Z"
+        },
+        {
+          "id": "aa-2026-08-08-02",
+          "titulo": "África: A África Tem Ideias - O que Ela Falta é um Ouvinte Justo do Capital Global",
+          "resumo": "Por que bons negócios e projetos africanos podem lutar para cruzar a linha vermelha do financiamento.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608080045.html",
+          "publicado_em": "2026-08-08T12:16:19.000Z"
+        },
+        {
+          "id": "aa-2026-08-07-01",
+          "titulo": "África: Um Marco para a Finança Africana - O Primeiro ETF de Títulos Soberanos Africanos da Europa Abre um Novo Capítulo",
+          "resumo": "Por anos, ministros das finanças africanos fizeram o mesmo caso em conferências de investidores e cúpulas multilaterais: o continente não está curto de projetos bancáveis, está curto de capital acessível.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608070650.html",
+          "publicado_em": "2026-08-07T16:55:23.000Z"
+        },
+        {
+          "id": "aa-2026-08-07-02",
+          "titulo": "Benim: Ex-Presidente do Benim Talon Faz Retorno Político Via Senado Recém-Criado",
+          "resumo": "O Senado recém-criado do Benim elegeu o ex-presidente Patrice Talon como seu líder na quinta-feira em Porto-Novo, menos de três meses após ele deixar o cargo.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608070408.html",
+          "publicado_em": "2026-08-07T12:43:19.000Z"
+        },
+        {
+          "id": "aa-2026-08-07-03",
+          "titulo": "Etiópia: Autoridades Etíopes Perseguem 'Campanha para Desmantelar' Sala de Notícias Independente - CPJ",
+          "resumo": "O Comitê para Proteger Jornalistas (CPJ) condenou o que descreveu como uma campanha em escala crescente das autoridades etíopes contra o Addis Standard.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608070279.html",
+          "publicado_em": "2026-08-07T11:28:04.000Z"
+        },
+        {
+          "id": "aa-2026-08-07-04",
+          "titulo": "África: Atrasos nos Céus Abertos Mantêm os Custos Comerciais da África Altos",
+          "resumo": "Governos africanos e líderes da indústria da aviação estão pressionando por uma implementação mais rápida das políticas de céus abertos, advertindo que os mercados de transporte aéreo fragmentados estão aumentando os custos dos negócios.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608070271.html",
+          "publicado_em": "2026-08-07T11:22:10.000Z"
+        },
+        {
+          "id": "aa-2026-08-07-05",
+          "titulo": "Liberia: Chefe de Polícia Negou Supostas Ligações com Cartel de Drogas",
+          "resumo": "O chefe de polícia da Libéria, Coleman, negou supostas ligações com um cartel de drogas.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608070243.html",
+          "publicado_em": "2026-08-07T10:50:12.000Z"
+        },
+        {
+          "id": "aa-2026-08-07-06",
+          "titulo": "Nigéria: Mulheres Lideram Campanha Contra a Defecação Aberta em Abuja",
+          "resumo": "Líderes comunitários de 16 comunidades no distrito de Kundu, em Abuja, lançaram uma campanha comunitária para acabar com a defecação aberta.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608070559.html",
+          "publicado_em": "2026-08-07T15:05:54.000Z"
+        },
+        {
+          "id": "aa-2026-08-07-07",
+          "titulo": "Quênia: Murkomen Adverte Contra o Uso Ilegal de Uniformes Militares e de Estilo Policial",
+          "resumo": "O secretário do Interior do Quênia, Kipchumba Murkomen, ordenou que o inspetor-geral da polícia movesse rapidamente contra indivíduos que usam uniformes de camuflagem e outros uniformes de segurança.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608070502.html",
+          "publicado_em": "2026-08-07T13:15:59.000Z"
+        },
+        {
+          "id": "aa-2026-08-07-08",
+          "titulo": "Nigéria: Atiku Soa Alarme Sobre Crédito Misterioso, Suspeita de Violação de Dados",
+          "resumo": "O candidato presidencial do Congresso Democrático Africano, Atiku Abubakar, soou o alarme sobre um crédito suspeito em uma de suas contas bancárias privadas.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608070267.html",
+          "publicado_em": "2026-08-07T11:19:05.000Z"
+        },
+        {
+          "id": "aa-2026-08-07-09",
+          "titulo": "Gana: Polícia Apreende Suspeita de Cocaína no Valor de $6,9 Milhões em Sacos de Gari",
+          "resumo": "A polícia de Gana apreendeu 866 pacotes de substâncias suspeitas de ser cocaína escondidas em sacos de gari.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608070245.html",
+          "publicado_em": "2026-08-07T10:52:47.000Z"
+        },
+        {
+          "id": "aa-2026-08-07-10",
+          "titulo": "Liberia: Boakai Sobre Escândalo de Drogas - 'Vamos Encontrá-los' - Mas os Tribunais Entregarão?",
+          "resumo": "O presidente da Libéria, George Weah, advertiu que o governo encontrará e processará os traficantes de drogas.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608070242.html",
+          "publicado_em": "2026-08-07T10:45:52.000Z"
+        },
+        {
+          "id": "aa-2026-08-07-11",
+          "titulo": "África Ocidental: Diplomatas da África Ocidental Reafirmam Compromisso com a Paz Regional, Segurança, Governança Democrática e Cooperação Econômica",
+          "resumo": "A embaixada da República da Libéria em Washington, D.C., orgulhosamente sediou a Quarta Reunião de Embaixadores do ECOWAS.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608070241.html",
+          "publicado_em": "2026-08-07T10:45:24.000Z"
+        },
+        {
+          "id": "aa-2026-08-07-12",
+          "titulo": "Tanzânia: Uganda e Tanzânia Selam um Acordo para Desenvolver Tanga em um Hub Energético Regional",
+          "resumo": "Os presidentes de Uganda e Tanzânia endossaram um memorando de entendimento para desenvolver Tanga em um hub energético regional.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608070230.html",
+          "publicado_em": "2026-08-07T10:34:13.000Z"
+        },
+        {
+          "id": "aa-2026-08-07-13",
+          "titulo": "Quênia: Tribunal Declara Data das Eleições de 2027 Inconstitucional, Diz que a Eleição Deve Ser Realizada em 2026",
+          "resumo": "O Tribunal Superior do Quênia declarou que as próximas eleições presidenciais devem ser realizadas em 11 de agosto de 2026.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608070164.html",
+          "publicado_em": "2026-08-07T09:11:38.000Z"
+        }
+      ]
+    },
+    "smh": {
+      "slug": "smh",
+      "nome": "The Sydney Morning Herald (SMH)",
+      "gerado_em": "2026-08-09T10:46:13.420Z",
+      "artigos": [
+        {
+          "id": "smh-2026-08-09-10-46-13-01",
+          "titulo": "Plano para reduzir vistos de estudantes e familiares",
+          "resumo": "O sistema de vistos universitários da Austrália está sob crítica, com demandas para reduzir o número de estudantes estrangeiros e cortar vistos de família.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/cc9245c55b9b3877885230cf39132df1fe747254",
+          "link": "https://www.smh.com.au/national/plan-to-slash-student-and-family-visas-20260809-p60mrv.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-08-09T08:46:56.000Z"
+        },
+        {
+          "id": "smh-2026-08-09-10-46-13-02",
+          "titulo": "Sobrinho de dono de loja morto em ataque critica governo",
+          "resumo": "O sobrinho do dono de uma loja de Melbourne que morreu após ser atacado por um grupo de jovens criticou as leis de crime juvenil da Victoria.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/8c9b227a566760035990db682de22282cd208aa3",
+          "link": "https://www.smh.com.au/national/nephew-of-shopkeeper-killed-in-attack-slams-government-20260809-p60ms1.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-08-09T08:48:08.000Z"
+        },
+        {
+          "id": "smh-2026-08-09-10-46-13-03",
+          "titulo": "Aviões quase colidem no Aeroporto de Sydney",
+          "resumo": "Um avião da Jetstar foi forçado a fazer uma parada abrupta na pista do Aeroporto de Sydney após quase colidir com outro avião.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/77ecf37b24c06c5ab87bf24b6b53d9d35c720749",
+          "link": "https://www.smh.com.au/national/planes-nearly-collide-at-sydney-airport-20260809-p60mod.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-08-09T08:47:09.000Z"
+        }
+      ]
+    }
+  },
+  "temas_principais": [
+    {
+      "tema": "Conflitos e Tensões Globais",
+      "descricao": "Análise dos principais conflitos e tensões globais do dia, incluindo a introdução de controles de fronteira pela Espanha e o ataque russo à Ucrânia",
+      "fontes_que_cobriram": [
+        "the_guardian",
+        "rt",
+        "st"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "smh"
+      ],
+      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar a agressão russa, enquanto as fontes russas destacam a legítima defesa de seus interesses"
+    },
+    {
+      "tema": "Alianças e Acordos Internacionais",
+      "descricao": "Análise das alianças e acordos internacionais, incluindo o 'Pacto de Meca' e a relação entre a Arábia Saudita, Turquia e Paquistão",
+      "fontes_que_cobriram": [
+        "scmp",
+        "st"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "aa"
+      ],
+      "divergencia_de_enquadramento": "As fontes asiáticas tendem a enfatizar a importância da cooperação regional, enquanto as fontes ocidentais destacam as implicações geopolíticas"
+    }
+  ],
+  "temas_subcobertos": [
+    {
+      "tema": "Desenvolvimento Econômico Africano",
+      "por_que_importa": "A África busca construir o motor financeiro para sua industrialização, o que pode ter implicações significativas para o desenvolvimento econômico do continente",
+      "cobertura": "Apenas a fonte 'aa' cobriu esse tema, destacando a importância da construção de um motor financeiro para a industrialização africana"
+    }
+  ]
+}
