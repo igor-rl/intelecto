@@ -976,31 +976,39 @@
     "smh": {
       "slug": "smh",
       "nome": "The Sydney Morning Herald (SMH)",
-      "gerado_em": "2026-08-09T10:46:13.420Z",
+      "gerado_em": "2026-08-09T21:46:37.259Z",
       "artigos": [
         {
-          "id": "smh-2026-08-09-10-46-13-01",
-          "titulo": "Plano para reduzir vistos de estudantes e familiares",
-          "resumo": "O sistema de vistos universitários da Austrália está sob crítica, com demandas para reduzir o número de estudantes estrangeiros e cortar vistos de família.",
-          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/cc9245c55b9b3877885230cf39132df1fe747254",
-          "link": "https://www.smh.com.au/national/plan-to-slash-student-and-family-visas-20260809-p60mrv.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "publicado_em": "2026-08-09T08:46:56.000Z"
+          "id": "smh-2026-08-09-2103-01",
+          "titulo": "Australia notícias AO VIVO: Frydenberg revela que não comparecerá à comissão real; Coalizão acusa Labor de financiar 'guetização' de comunidades de migrantes",
+          "resumo": "Acompanhe as últimas atualizações ao vivo das notícias da Austrália e do mundo.",
+          "link": "https://www.smh.com.au/national/australia-news-live-frydenberg-reveals-he-will-not-appear-before-royal-commission-coalition-accuses-labor-of-funding-ghettoisation-of-migrant-communities-20260810-p60mt0.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "imagem": "https://static.ffx.io/images/$zoom_0.1441%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_14%2C$y_0/t_crop_custom/q_86%2Cf_auto/a60442492e673332b83908f3c48e2a88c17c9843",
+          "publicado_em": "2026-08-09T20:45:54.000Z"
         },
         {
-          "id": "smh-2026-08-09-10-46-13-02",
-          "titulo": "Sobrinho de dono de loja morto em ataque critica governo",
-          "resumo": "O sobrinho do dono de uma loja de Melbourne que morreu após ser atacado por um grupo de jovens criticou as leis de crime juvenil da Victoria.",
-          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/8c9b227a566760035990db682de22282cd208aa3",
-          "link": "https://www.smh.com.au/national/nephew-of-shopkeeper-killed-in-attack-slams-government-20260809-p60ms1.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "publicado_em": "2026-08-09T08:48:08.000Z"
+          "id": "smh-2026-08-09-2105-02",
+          "titulo": "Israel rejeita plano de paz dos EUA para Gaza",
+          "resumo": "O primeiro-ministro israelense, Benjamin Netanyahu, disse que o governo nacional não aderirá ao plano de paz para Gaza proposto pelos EUA.",
+          "link": "https://www.smh.com.au/world/israel-rejects-us-peace-plan-for-gaza-20260810-p60mt4.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/30a2b2cce93821e01aa4a2d66098df3b4561f75d",
+          "publicado_em": "2026-08-09T20:42:52.000Z"
         },
         {
-          "id": "smh-2026-08-09-10-46-13-03",
-          "titulo": "Aviões quase colidem no Aeroporto de Sydney",
-          "resumo": "Um avião da Jetstar foi forçado a fazer uma parada abrupta na pista do Aeroporto de Sydney após quase colidir com outro avião.",
-          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/77ecf37b24c06c5ab87bf24b6b53d9d35c720749",
-          "link": "https://www.smh.com.au/national/planes-nearly-collide-at-sydney-airport-20260809-p60mod.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "publicado_em": "2026-08-09T08:47:09.000Z"
+          "id": "smh-2026-08-09-2109-03",
+          "titulo": "Netanyahu rejeita explicitamente o plano de Trump para desarmar o Hamas",
+          "resumo": "O primeiro-ministro israelense rejeitou abertamente a 'estrada' - louvada pelo presidente dos EUA como um marco importante - e disse que as forças israelenses não se retirarão de Gaza até que o Hamas seja 'genuinamente desarmado...'",
+          "link": "https://www.smh.com.au/world/middle-east/netanyahu-bluntly-rejects-trump-s-gaza-plan-to-disarm-hamas-20260810-p60msu.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "imagem": "https://static.ffx.io/images/$zoom_0.2541%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_8/t_crop_custom/q_86%2Cf_auto/83480b7cab692d5e29217e105936ed8d17920403",
+          "publicado_em": "2026-08-09T19:56:05.000Z"
+        },
+        {
+          "id": "smh-2026-08-09-2113-04",
+          "titulo": "Briga por subvenções multiculturais: Coalizão acusa Labor de financiar 'guetização' de comunidades de migrantes",
+          "resumo": "Um confronto sobre controles de fronteira e diversidade está se intensificando à medida que Anthony Albanese tenta equilibrar o apoio a comunidades de migrantes com demandas para restringir a entrada de imigrantes.",
+          "link": "https://www.smh.com.au/politics/federal/multicultural-grants-brawl-coalition-accuses-labor-of-funding-ghettoisation-20260807-p60mfd.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "imagem": "https://static.ffx.io/images/$zoom_0.19651141213583226%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_84/t_crop_custom/q_86%2Cf_auto/8f64d579945b90c91df0ded157690a1b3974cb73",
+          "publicado_em": "2026-08-09T19:30:00.000Z"
         }
       ]
     }
