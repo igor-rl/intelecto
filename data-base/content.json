@@ -184,26 +184,34 @@
     "euronews": {
       "slug": "euronews",
       "nome": "Euro News",
-      "gerado_em": "2026-08-08T21:00:20.317Z",
+      "gerado_em": "2026-08-09T10:00:17.506Z",
       "artigos": [
         {
-          "id": "euronews-2026-08-08-01",
-          "titulo": "EUA pretendem enviar 1 bilhão de dólares em ajuda à Colômbia após a posse de de la Espriella",
+          "id": "euronews-2026-08-09-1001",
+          "titulo": "Todd Blanche's confirmação como procurador-geral gera preocupações sobre a independência do Departamento de Justiça dos EUA",
+          "resumo": "Após arriscar sua carreira defendendo Donald Trump em um julgamento criminal, Todd Blanche foi confirmado como procurador-geral dos EUA, gerando temores sobre a independência do Departamento de Justiça dos EUA.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/09/todd-blanches-confirmation-as-attorney-general-strikes-worries-over-us-justice-independenc",
+          "publicado_em": "2026-08-09T07:22:12.000Z"
+        },
+        {
+          "id": "euronews-2026-08-09-1005",
+          "titulo": "EUA pretendem enviar US$ 1 bilhão em ajuda à Colômbia após a posse de de la Espriella",
           "resumo": "O presidente dos EUA, Donald Trump, elogiou de la Espriella, chamando-o de \"líder inteligente, forte e duro.\"",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/08/us-intends-to-send-1-billion-in-aid-to-colombia-following-de-la-espriellas-inauguration",
           "publicado_em": "2026-08-08T07:33:08.000Z"
         },
         {
-          "id": "euronews-2026-08-08-02",
-          "titulo": "Corte de apelações dos EUA ordena paralisação da construção da sala de baile de Trump sem aprovação do Congresso",
-          "resumo": "A Corte de Apelações para o Circuito de DC, que havia permitido a continuação da construção enquanto considerava o caso, concordou com um tribunal inferior que uma reforma tão massiva da Casa Branca exigia a aprovação do Congresso.",
+          "id": "euronews-2026-08-09-1007",
+          "titulo": "Tribunal de apelação dos EUA ordena paralisação da construção da sala de baile de Trump sem aprovação do Congresso",
+          "resumo": "O Tribunal de Apelação dos EUA para o Circuito de DC, que havia permitido a continuação da construção enquanto considerava o caso, concordou com um tribunal inferior que uma reforma tão massiva da Casa Branca exigia a aprovação do Congresso.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/07/us-appeals-court-orders-halt-to-trump-ballroom-construction-without-congressional-approval",
           "publicado_em": "2026-08-07T18:55:15.000Z"
         },
         {
-          "id": "euronews-2026-08-08-03",
+          "id": "euronews-2026-08-09-1008",
           "titulo": "Senado dos EUA aprova projeto de lei de sanções à Rússia que visa a renda do setor energético",
           "resumo": "O pacote imporia sanções a funcionários russos, oligarcas, instituições financeiras e à chamada frota sombra usada para evadir restrições às exportações de petróleo de Moscou.",
           "imagem": null,
@@ -211,39 +219,39 @@
           "publicado_em": "2026-08-07T18:20:21.000Z"
         },
         {
-          "id": "euronews-2026-08-08-04",
+          "id": "euronews-2026-08-09-1010",
           "titulo": "Incêndio florestal queima 100 hectares perto de Narbonne, na França",
-          "resumo": "Canadairs e helicópteros combatem um incêndio florestal que queimou cerca de 100 hectares no maciço de Corbières, perto de Narbonne, após um acidente de trânsito.",
+          "resumo": "Canadairs e helicópteros combatem um incêndio florestal que queimou cerca de 100 hectares na região de Corbières, perto de Narbonne, após um acidente de trânsito.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/08/07/wildfire-burns-100-hectares-near-narbonne-in-france",
           "publicado_em": "2026-08-07T14:40:09.000Z"
         },
         {
-          "id": "euronews-2026-08-08-05",
+          "id": "euronews-2026-08-09-1011",
           "titulo": "Taiwan testa resposta a emergências com simulação de ataque aéreo",
-          "resumo": "Taiwan realizou uma simulação de ataque aéreo em Kaohsiung, interrompendo o tráfego e orientando os moradores enquanto as autoridades testavam as respostas de emergência civis.",
+          "resumo": "Taiwan realiza uma simulação de ataque aéreo em Kaohsiung, interrompendo o tráfego e orientando os moradores enquanto as autoridades testam as respostas de emergência civis.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/08/07/taiwan-tests-emergency-response-with-air-raid-drill",
           "publicado_em": "2026-08-07T13:36:27.000Z"
         },
         {
-          "id": "euronews-2026-08-08-06",
-          "titulo": "Sri Lanka envia tropas para conter crescente agitação nos presídios, diz ministro",
-          "resumo": "Autoridades atribuíram a crescente agitação ao superlotamento agudo. Os presídios do Sri Lanka abrigam cerca de quatro vezes sua capacidade projetada.",
+          "id": "euronews-2026-08-09-1013",
+          "titulo": "Sri Lanka envia tropas para conter crescente agitação nas prisões, afirma ministro",
+          "resumo": "Autoridades atribuíram a crescente agitação ao superlotamento agudo. As prisões do Sri Lanka abrigam cerca de quatro vezes sua capacidade projetada.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/07/sri-lanka-deploys-troops-to-contain-growing-prison-unrest-minister-says",
           "publicado_em": "2026-08-07T08:43:06.000Z"
         },
         {
-          "id": "euronews-2026-08-08-07",
-          "titulo": "Coreia do Sul recupera minas terrestres que acredita terem sido levadas pela Coreia do Norte por inundações causadas por monções",
+          "id": "euronews-2026-08-09-1017",
+          "titulo": "Coreia do Sul recupera minas terrestres que acredita terem sido levadas pela Coreia do Norte devido a inundações causadas por monções",
           "resumo": "A Zona Desmilitarizada (DMZ), que divide as Coreias desde o fim da guerra em 1953, é um dos lugares mais minados do mundo.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/07/south-korea-recovers-landmines-believed-to-have-washed-from-north-by-monsoon-floods",
           "publicado_em": "2026-08-07T06:29:49.000Z"
         },
         {
-          "id": "euronews-2026-08-08-08",
+          "id": "euronews-2026-08-09-1018",
           "titulo": "Austrália concede cidadania a duas jogadoras de futebol iranianas que buscaram asilo",
           "resumo": "O Conselho de Refugiados da Austrália, uma organização sem fins lucrativos que representa os solicitantes de asilo, disse que os refugiados geralmente devem viver na Austrália com um visto válido por quatro anos antes de poderem solicitar a cidadania.",
           "imagem": null,
@@ -251,15 +259,23 @@
           "publicado_em": "2026-08-07T06:00:03.000Z"
         },
         {
-          "id": "euronews-2026-08-08-09",
-          "titulo": "Oito mortos, incluindo avós do suspeito, em tiroteio na Tailândia, diz polícia",
-          "resumo": "A Tailândia tem uma das taxas mais altas de propriedade de armas de fogo na região, com cerca de 10 milhões de armas de fogo estimadas em circulação, uma para cada sete habitantes.",
+          "id": "euronews-2026-08-09-1020",
+          "titulo": "Oito mortos, incluindo avós do suspeito, em tiroteio na Tailândia, diz a polícia",
+          "resumo": "A Tailândia tem uma das maiores taxas de propriedade de armas de fogo da região, com cerca de 10 milhões de armas de fogo estimadas em circulação, uma para cada sete habitantes.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/07/two-dead-and-several-wounded-in-thailand-school-shooting-local-official-says",
           "publicado_em": "2026-08-07T04:54:43.000Z"
         },
         {
-          "id": "euronews-2026-08-08-10",
+          "id": "euronews-2026-08-09-1021",
+          "titulo": "Meta é ordenada a pagar US$ 567 milhões por 'nódoa pública' e 'dano a crianças'",
+          "resumo": "Um juiz do Novo México penalizou o gigante da tecnologia por criar uma nódoa pública e colocar em risco as crianças online.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/07/meta-ordered-to-pay-567-mn-to-us-for-public-nuisance-and-child-harm",
+          "publicado_em": "2026-08-07T04:15:36.000Z"
+        },
+        {
+          "id": "euronews-2026-08-09-1022",
           "titulo": "Arábia Saudita, Turquia e Paquistão assinam novo pacto de defesa em meio a tensões EUA-Irã",
           "resumo": "O príncipe herdeiro Mohammed bin Salman, o presidente Recep Tayyip Erdoğan e o primeiro-ministro Shehbaz Sharif se reuniram em Meca na sexta-feira para formalizar um acordo conjunto.",
           "imagem": null,
