@@ -18,10 +18,10 @@
     "the_guardian": {
       "slug": "the_guardian",
       "nome": "The Guardian",
-      "gerado_em": "2026-08-08T21:00:12.248Z",
+      "gerado_em": "2026-08-09T10:00:09.765Z",
       "artigos": [
         {
-          "id": "the_guardian-2026-08-07T21:44:38-01",
+          "id": "the_guardian-2026-08-07T21:44:38.000Z-01",
           "titulo": "Espanha introduzirá controles de fronteira temporários para visitantes da Itália",
           "resumo": "Medida vem em resposta a Roma impor medidas semelhantes após corrida de migração em massa para Ceuta. A Espanha anunciou que introduzirá controles de fronteira temporários para visitantes da Itália em resposta a Roma impor medidas semelhantes após uma corrida de migração em massa para Ceuta.",
           "imagem": null,
@@ -29,15 +29,15 @@
           "publicado_em": "2026-08-07T21:44:38.000Z"
         },
         {
-          "id": "the_guardian-2026-08-07T18:34:34-02",
+          "id": "the_guardian-2026-08-07T18:34:34.000Z-02",
           "titulo": "Juiz aprova esforço de Trump para encerrar proteções TPS para o Sudão do Sul",
-          "resumo": "Decisão segue decisão do Supremo Tribunal que permitiu ao governo dos EUA retirar proteções para haitianos e sírios. O status de proteção temporária (TPS) para centenas de nacionais do Sudão do Sul nos EUA foi encerrado.",
+          "resumo": "Decisão segue decisão do Supremo Tribunal que permitiu ao governo dos EUA retirar proteções para haitianos e sírios. O status de proteção temporária (TPS) para centenas de nacionais do Sudão do Sul nos EUA pode ser encerrado.",
           "imagem": null,
           "link": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
           "publicado_em": "2026-08-07T18:34:34.000Z"
         },
         {
-          "id": "the_guardian-2026-08-06T16:18:46-03",
+          "id": "the_guardian-2026-08-06T16:18:46.000Z-03",
           "titulo": "Vírus Ebola pode estar mutando, dizem oficiais",
           "resumo": "Casos ultrapassaram 4.000 e o órgão de vigilância da saúde planeja ir de porta em porta para encontrar pacientes em uma grande escalada de resposta. O vírus que causa um surto maciço de Ebola na República Democrática do Congo pode estar mutando.",
           "imagem": null,
@@ -45,7 +45,7 @@
           "publicado_em": "2026-08-06T16:18:46.000Z"
         },
         {
-          "id": "the_guardian-2026-08-06T15:41:29-04",
+          "id": "the_guardian-2026-08-06T15:41:29.000Z-04",
           "titulo": "EUA fecharão cinco consulados, temendo que a China possa preencher o vácuo diplomático",
           "resumo": "Departamento de Estado informa ao Congresso sobre os fechamentos planejados no Canadá, Granada, Japão, Indonésia e Camarões. O Departamento de Estado dos EUA fechará cinco consulados e missões no exterior.",
           "imagem": null,
@@ -53,60 +53,52 @@
           "publicado_em": "2026-08-06T15:41:29.000Z"
         },
         {
-          "id": "the_guardian-2026-08-06T14:30:32-05",
-          "titulo": "Jogador de futebol ugandense é morto por ladrões armados com pedras",
-          "resumo": "David Owori, que jogou pela seleção nacional, morreu no hospital após tentar impedir que ladrões levassem seu telefone. A comunidade de futebol ugandense está de luto após a morte de um jogador que foi morto por ladrões.",
+          "id": "the_guardian-2026-08-09T07:00:08.000Z-05",
+          "titulo": "Diplomata da Costa Rica emerge como forte candidata a primeira chefe feminina da ONU",
+          "resumo": "Rebeca Grynspan é vista como uma candidata de continuidade com o apoio tácito do atual secretário-geral, António Guterres. Uma diplomata da Costa Rica e ex-vice-presidente cujos pais eram refugiados da Europa pode se tornar a primeira chefe feminina da ONU.",
           "imagem": null,
-          "link": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala",
-          "publicado_em": "2026-08-06T14:30:32.000Z"
+          "link": "https://www.theguardian.com/world/2026/aug/09/costa-rican-diplomat-rebeca-grynspan-contender-first-female-head-of-un",
+          "publicado_em": "2026-08-09T07:00:08.000Z"
         },
         {
-          "id": "the_guardian-2026-08-08T05:00:37-06",
+          "id": "the_guardian-2026-08-08T05:00:37.000Z-06",
           "titulo": "A carga de saúde letal da fumaça dos incêndios florestais",
-          "resumo": "Cientistas correm para desvendar os complexos vínculos entre a exposição e a mortalidade à medida que o clima de incêndios se torna mais comum. Uma carga de saúde letal está associada à fumaça dos incêndios florestais.",
+          "resumo": "Cientistas correm para desvendar os complexos vínculos entre a exposição e a mortalidade à medida que o clima de incêndios se torna mais comum. A fumaça dos incêndios florestais pode ter um impacto letal na saúde.",
           "imagem": null,
           "link": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts",
           "publicado_em": "2026-08-08T05:00:37.000Z"
         },
         {
-          "id": "the_guardian-2026-08-08T04:08:18-07",
-          "titulo": "EUA prometem US$ 1 bilhão em ajuda de segurança à Colômbia, enquanto novo presidente de direita promete combater o tráfico de drogas",
-          "resumo": "Aliado de Trump, Abelardo De La Espriella, jura iniciar uma 'transformação profunda' do destino do país, enquanto é empossado. O governo dos EUA planeja fornecer US$ 1 bilhão em assistência de segurança à Colômbia.",
+          "id": "the_guardian-2026-08-08T04:08:18.000Z-07",
+          "titulo": "EUA prometem US$ 1 bilhão em ajuda de segurança à Colômbia enquanto novo presidente de direita promete combater o tráfico de drogas",
+          "resumo": "Aliado de Trump, Abelardo De La Espriella, promete iniciar uma 'transformação profunda' do destino do país enquanto é empossado. O governo dos EUA prometeu US$ 1 bilhão em assistência de segurança à Colômbia.",
           "imagem": null,
           "link": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
           "publicado_em": "2026-08-08T04:08:18.000Z"
         },
         {
-          "id": "the_guardian-2026-08-07T20:49:24-08",
+          "id": "the_guardian-2026-08-07T20:49:24.000Z-08",
           "titulo": "Policial dos EUA acusado de matar três pessoas no México é preso na fronteira",
-          "resumo": "Chad Eberle, do Texas, é acusado de um tiroteio mortal em Saltillo que as autoridades dizem ter sido motivado por uma disputa de custódia. Um policial do Texas foi preso no México após as autoridades o acusarem de matar três pessoas.",
+          "resumo": "Chad Eberle, do Texas, é acusado de um tiroteio mortal em Saltillo que as autoridades dizem ter sido motivado por uma disputa de custódia. Um policial dos EUA foi preso no México após ser acusado de matar três pessoas.",
           "imagem": null,
           "link": "https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings",
           "publicado_em": "2026-08-07T20:49:24.000Z"
         },
         {
-          "id": "the_guardian-2026-08-07T14:00:32-09",
+          "id": "the_guardian-2026-08-07T14:00:32.000Z-09",
           "titulo": "Colômbia à beira do abismo: grupo guerrilheiro ELN se prepara para retornar à guerra",
-          "resumo": "À medida que Abelardo de la Espriella assume a presidência, prometendo uma nova ofensiva militar, os últimos rebeldes de esquerda do país se preparam para lutar de volta. A Colômbia está à beira do abismo, com o grupo guerrilheiro ELN se preparando para retornar à guerra.",
+          "resumo": "À medida que Abelardo de la Espriella assume a presidência, prometendo uma nova ofensiva militar, os últimos rebeldes de esquerda do país se preparam para lutar de volta. A Colômbia está à beira do abismo à medida que o grupo guerrilheiro ELN se prepara para retornar à guerra.",
           "imagem": null,
           "link": "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war",
           "publicado_em": "2026-08-07T14:00:32.000Z"
         },
         {
-          "id": "the_guardian-2026-08-07T11:00:16-10",
-          "titulo": "Haitianos enfrentam prisão e deportação após os EUA removerem proteções TPS",
-          "resumo": "O secretário do DHS, Markwayne Mullin, diz 'Estamos atrás deles agora' apesar da ameaça de violência no país de origem. Centenas de milhares de haitianos enfrentam o risco iminente de prisão e deportação.",
+          "id": "the_guardian-2026-08-09T02:11:34.000Z-10",
+          "titulo": "Toll de tiroteio em escola na Tailândia sobe para nove após morte de menina de 12 anos, diz polícia",
+          "resumo": "Uma adolescente foi tratada em um hospital após o tiroteio na escola na sexta-feira e morreu, diz a polícia. O número de mortos em um tiroteio em uma escola na Tailândia subiu para nove após a morte de uma menina de 12 anos.",
           "imagem": null,
-          "link": "https://www.theguardian.com/us-news/2026/aug/07/haitians-us-deportation-tps-immigration",
-          "publicado_em": "2026-08-07T11:00:16.000Z"
-        },
-        {
-          "id": "the_guardian-2026-08-07T14:16:01-11",
-          "titulo": "Tiroteio em escola na Tailândia: oito mortos, incluindo o suspeito, diz a polícia",
-          "resumo": "Um adolescente matou seus avós antes de abrir fogo em uma escola perto de Bangkok, onde mais de 30 pessoas ficaram feridas. Um tiroteio em uma escola na Tailândia resultou na morte de oito pessoas, incluindo o suspeito.",
-          "imagem": null,
-          "link": "https://www.theguardian.com/world/2026/aug/07/thailand-school-shooting-debsirin-nonthaburi-bangkok",
-          "publicado_em": "2026-08-07T14:16:01.000Z"
+          "link": "https://www.theguardian.com/world/2026/aug/09/thailand-school-shooting-toll-rises-to-nine-after-12-year-old-dies-police-say",
+          "publicado_em": "2026-08-09T02:11:34.000Z"
         }
       ]
     },
