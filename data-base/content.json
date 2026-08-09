@@ -5,10 +5,10 @@
   "itens_urgentes": {},
   "destaques": [],
   "capa": {
-    "categoria_nome": "O que marcou o dia?",
-    "titulo": "Tensões Globais: Conflitos e Alianças",
-    "subtitulo": "Análise das principais notícias do dia, destacando conflitos, alianças e tensões globais",
-    "resumo": "O dia foi marcado por uma série de eventos que refletem as tensões globais atuais. A Espanha introduziu controles de fronteira temporários para visitantes da Itália, enquanto a Rússia atingiu a logística militar ucraniana em Odessa. Além disso, a Turquia se juntou à Arábia Saudita e ao Paquistão no 'Pacto de Meca' como proteção contra a confiabilidade da defesa dos EUA. Esses eventos demonstram a complexidade das relações internacionais e a necessidade de uma análise cuidadosa das notícias. A corrida do ouro no Afeganistão também está mudando vidas e paisagens, enquanto a África busca construir o motor financeiro para sua industrialização. É fundamental considerar as diferentes perspectivas e enquadramentos das fontes de notícias para entender melhor esses eventos.",
+    "categoria_nome": "Conflitos Globais e Desastres Naturais",
+    "titulo": "Incêndios e Conflitos: O Mundo em Chamas",
+    "subtitulo": "De incêndios florestais na Colúmbia Britânica a conflitos no Oriente Médio, o planeta enfrenta desafios sem precedentes",
+    "resumo": "O mundo está enfrentando uma série de desafios sem precedentes, desde incêndios florestais devastadores na Colúmbia Britânica, Canadá, até conflitos intensos no Oriente Médio. Enquanto a comunidade internacional luta para conter as chamas e promover a paz, é crucial entender as nuances por trás desses eventos. A Espanha, por exemplo, introduzirá controles de fronteira temporários para visitantes da Itália, respondendo às medidas semelhantes de Roma após uma corrida de migração em massa para Ceuta. No Oriente Médio, o plano de paz dos EUA para Gaza foi rejeitado por Israel, enquanto o Irã nomeia um novo chefe para seu principal órgão de segurança nacional. Ao mesmo tempo, a Ucrânia e a Rússia continuam a trocar ataques, com drones russos atacando tropas ucranianas e a Ucrânia retaliando com ataques a refinarias de petróleo na Rússia. Enquanto isso, a África busca construir seu motor financeiro para a industrialização, com o lançamento do primeiro ETF de títulos soberanos africanos na Europa. Diante de tantos desafios, é essencial que os líderes mundiais trabalhem juntos para encontrar soluções pacíficas e sustentáveis para esses conflitos e desastres naturais.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-08-09T08:00:00-03:00",
     "link": null,
@@ -1015,36 +1015,54 @@
   },
   "temas_principais": [
     {
-      "tema": "Conflitos e Tensões Globais",
-      "descricao": "Análise dos principais conflitos e tensões globais do dia, incluindo a introdução de controles de fronteira pela Espanha e o ataque russo à Ucrânia",
+      "tema": "Incêndios Florestais",
+      "descricao": "Incêndios florestais devastam a Colúmbia Britânica, Canadá, e outras regiões do mundo.",
       "fontes_que_cobriram": [
         "the_guardian",
-        "rt",
-        "st"
+        "euronews",
+        "scmp"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "smh"
+        "rt"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar a agressão russa, enquanto as fontes russas destacam a legítima defesa de seus interesses"
+      "divergencia_de_enquadramento": "Enquanto some fontes enfatizam a gravidade dos incêndios, outras minimizam o impacto."
     },
     {
-      "tema": "Alianças e Acordos Internacionais",
-      "descricao": "Análise das alianças e acordos internacionais, incluindo o 'Pacto de Meca' e a relação entre a Arábia Saudita, Turquia e Paquistão",
+      "tema": "Conflitos no Oriente Médio",
+      "descricao": "Conflitos intensos no Oriente Médio, incluindo a rejeição do plano de paz dos EUA para Gaza por Israel.",
       "fontes_que_cobriram": [
-        "scmp",
-        "st"
+        "new_york_times",
+        "st",
+        "smh"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
         "aa"
       ],
-      "divergencia_de_enquadramento": "As fontes asiáticas tendem a enfatizar a importância da cooperação regional, enquanto as fontes ocidentais destacam as implicações geopolíticas"
+      "divergencia_de_enquadramento": "As fontes ocidentais tendem a criticar a posição de Israel, enquanto as fontes do Oriente Médio oferecem perspectivas mais variadas."
+    },
+    {
+      "tema": "Desenvolvimento Econômico Africano",
+      "descricao": "A África busca construir seu motor financeiro para a industrialização, com o lançamento do primeiro ETF de títulos soberanos africanos na Europa.",
+      "fontes_que_cobriram": [
+        "aa"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "the_guardian",
+        "new_york_times"
+      ],
+      "divergencia_de_enquadramento": "As fontes africanas destacam o potencial de crescimento econômico, enquanto as fontes ocidentais são mais céticas."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Desenvolvimento Econômico Africano",
-      "por_que_importa": "A África busca construir o motor financeiro para sua industrialização, o que pode ter implicações significativas para o desenvolvimento econômico do continente",
-      "cobertura": "Apenas a fonte 'aa' cobriu esse tema, destacando a importância da construção de um motor financeiro para a industrialização africana"
+      "tema": "Corrupção na Ucrânia",
+      "por_que_importa": "A corrupção na Ucrânia é um obstáculo significativo para a adesão do país à UE.",
+      "cobertura": "A cobertura é limitada, com apenas algumas fontes abordando o tema."
+    },
+    {
+      "tema": "Desastres Naturais na Ásia",
+      "por_que_importa": "Desastres naturais como tufões e inundações afetam milhões de pessoas na Ásia.",
+      "cobertura": "A cobertura é desigual, com algumas fontes dando mais atenção a desastres em certas regiões."
     }
   ]
 }
