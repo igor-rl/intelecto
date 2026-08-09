@@ -105,79 +105,87 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-08-09T10:00:01.896Z",
+      "gerado_em": "2026-08-09T21:00:01.077Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-08-09-1001",
-          "titulo": "Crypto do Trump Recebeu $100 Milhões de um Homem de Negócios com Sinais de Alerta",
-          "resumo": "O caso curioso de Guren 'Bobby' Zhou mostra a facilidade com que investidores com antecedentes duvidosos e motivações desconhecidas podem canalizar dinheiro para o presidente.",
+          "id": "new_york_times-2026-08-09-2101",
+          "titulo": "Irã, Mantendo Firme no Hormuz, Pressiona por Retorno ao MOU de Junho",
+          "resumo": "O Estreito de Hormuz é o melhor trunfo do Irã para obter que Washington libere os ativos congelados do Irã, levante as sanções econômicas e termine o bloqueio naval.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/09/us/politics/bobby-zhou-trump-crypto.html",
-          "publicado_em": "2026-08-09T09:00:28-03:00"
+          "link": "https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html",
+          "publicado_em": "2026-08-09T17:58:22-03:00"
         },
         {
-          "id": "new_york_times-2026-08-09-1003",
-          "titulo": "Senado Aceita a Realidade e Deixa a Lei de Voto de Trump sem Efeito",
-          "resumo": "A saída de verão confirmou o que já era aparente há semanas: que os republicanos não tinham votos suficientes para aprovar as restrições de voto que o presidente tornou uma prioridade.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/08/us/politics/senate-bows-to-reality-leaving-trumps-voting-bill-undone.html",
-          "publicado_em": "2026-08-08T20:12:51-03:00"
-        },
-        {
-          "id": "new_york_times-2026-08-09-1004",
-          "titulo": "Por Dentro da Guerra Contra as Finanças do Hezbollah",
-          "resumo": "Israel e os EUA não estão apenas mirando nas armas do grupo militante libanês, mas também em seu dinheiro.",
+          "id": "new_york_times-2026-08-09-2102",
+          "titulo": "Por Dentro da Guerra contra as Finanças do Hezbollah",
+          "resumo": "Israel e os Estados Unidos não estão apenas mirando nas armas do grupo militante libanês. Eles estão indo atrás do seu dinheiro.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html",
           "publicado_em": "2026-08-09T09:00:15-03:00"
         },
         {
-          "id": "new_york_times-2026-08-09-1005",
-          "titulo": "Os EUA Estão Queimando Armas no Irã. Rússia e China Estão Observando.",
-          "resumo": "A guerra no Irã esgotou os estoques de armas dos EUA, resultando em uma erosão significativa do poder de fogo. Um conflito mais prolongado no Irã beneficia Moscou e Pequim, dizem alguns analistas.",
+          "id": "new_york_times-2026-08-09-2103",
+          "titulo": "Irã Nomeia Comandante Veterano Mohsen Rezaei para Alto Cargo de Segurança",
+          "resumo": "A nomeação de Mohsen Rezaei como secretário do Conselho de Segurança Nacional sugere que a velha guarda do Irã está consolidando o poder.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html",
-          "publicado_em": "2026-08-08T19:56:38-03:00"
+          "link": "https://www.nytimes.com/2026/08/09/world/middleeast/iran-security-council-guards-commander.html",
+          "publicado_em": "2026-08-09T18:18:22-03:00"
         },
         {
-          "id": "new_york_times-2026-08-09-1006",
-          "titulo": "Em Michigan, um Ex-Crítico de Trump se Volta para o Ceticismo Eleitoral",
-          "resumo": "Mike Rogers, o indicado republicano ao Senado, sugeriu que um escrutínio adicional das eleições de 2020 era necessário e que irregularidades eleitorais afundaram sua primeira candidatura ao Senado há dois anos.",
+          "id": "new_york_times-2026-08-09-2104",
+          "titulo": "Israel Rejeita o Plano de 15 Pontos de Trump para Desarmar o Hamas",
+          "resumo": "O presidente Trump anunciou um acordo no mês passado que visava o desarmamento do Hamas, ao lado de uma retirada israelense da Faixa de Gaza.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html",
+          "publicado_em": "2026-08-09T19:48:53-03:00"
+        },
+        {
+          "id": "new_york_times-2026-08-09-2105",
+          "titulo": "Crypto de Trump Recebeu US$ 100 Milhões de um Empresário com Sinais de Alerta",
+          "resumo": "O caso curioso de Guren 'Bobby' Zhou mostra a facilidade com que investidores com antecedentes duvidosos e motivações desconhecidas podem canalizar dinheiro para o presidente.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/09/us/politics/bobby-zhou-trump-crypto.html",
+          "publicado_em": "2026-08-09T12:58:12-03:00"
+        },
+        {
+          "id": "new_york_times-2026-08-09-2107",
+          "titulo": "Obama e Abdul El-Sayed Discutem Unidade após Primária do Senado de Michigan",
+          "resumo": "A ligação do Dr. Abdul El-Sayed com o ex-presidente ocorre enquanto ele tenta conquistar democratas relutantes na corrida ao Senado de Michigan.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/09/us/politics/obama-abdul-el-sayed-michigan-senate.html",
+          "publicado_em": "2026-08-09T18:38:03-03:00"
+        },
+        {
+          "id": "new_york_times-2026-08-09-2108",
+          "titulo": "Candidato ao Senado de Michigan, Ex-Crítico de Trump, Muda para Ceticismo sobre Eleições",
+          "resumo": "Mike Rogers, o candidato republicano, sugeriu que um escrutínio adicional das eleições de 2020 era justificável e que irregularidades eleitorais afundaram sua primeira candidatura ao Senado há dois anos.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/08/09/us/politics/mike-rogers-michigan-senate-elections.html",
-          "publicado_em": "2026-08-09T09:01:47-03:00"
+          "publicado_em": "2026-08-09T13:23:18-03:00"
         },
         {
-          "id": "new_york_times-2026-08-09-1007",
-          "titulo": "Pesquisa: Eleitores Veem Partidos Políticos como Mais Extremos do que seus Próprios Candidatos",
-          "resumo": "Em uma pesquisa do New York Times/Siena em estados-chave, os partidos nacionais foram vistos como muito à direita ou à esquerda, enquanto os indicados foram vistos como mais moderados.",
+          "id": "new_york_times-2026-08-09-2109",
+          "titulo": "Ocasio-Cortez Diz que Está Congelando Seus Óvulos e Ainda Está Considerando uma Candidatura Presidencial",
+          "resumo": "Em uma entrevista de TV, a representante Alexandria Ocasio-Cortez se distanciou de posições como 'desfinanciar a polícia' e indicou que não descartou uma corrida presidencial ou ao Senado.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/09/us/elections/poll-voters-political-parties-extreme.html",
-          "publicado_em": "2026-08-09T09:00:50-03:00"
+          "link": "https://www.nytimes.com/2026/08/09/nyregion/nyc-alexandria-ocasio-cortez-freezing-eggs.html",
+          "publicado_em": "2026-08-09T20:23:19-03:00"
         },
         {
-          "id": "new_york_times-2026-08-09-1008",
-          "titulo": "Um Socialista Democrata Espalha a Palavra, Mesmo em Território Hostil",
-          "resumo": "Gustavo Gordillo, um líder do D.S.A. de Nova York, quer alcançar novos eleitores. Mas em entrevistas com a mídia conservadora, a reação pode ser afiada.",
+          "id": "new_york_times-2026-08-09-2110",
+          "titulo": "Um Democrata Soa o Alarme sobre o Nacionalismo Cristão no Congresso",
+          "resumo": "O representante Jared Huffman, da Califórnia, o único 'humanista' declarado no Congresso, escreve em um novo livro que a separação entre igreja e estado está em perigo.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/09/us/politics/gustavo-gordillo-democratic-socialists.html",
-          "publicado_em": "2026-08-09T09:00:49-03:00"
+          "link": "https://www.nytimes.com/2026/08/09/us/politics/democrat-huffman-humanist-religion-christianity.html",
+          "publicado_em": "2026-08-09T09:01:46-03:00"
         },
         {
-          "id": "new_york_times-2026-08-09-1009",
-          "titulo": "Como um 'Inferno de Drones' Pode Parar uma Invasão Chinesa de Taiwan",
-          "resumo": "Inspirado pelas vitórias de campo da Ucrânia, Taiwan está apostando em drones para dissuadir uma possível invasão chinesa.",
+          "id": "new_york_times-2026-08-09-2111",
+          "titulo": "Como um 'Inferno' de Drones Pode Parar uma Invasão Chinesa de Taiwan",
+          "resumo": "Inspirados pelas conquistas de campo de batalha da Ucrânia, Taiwan está apostando em drones para dissuadir uma possível invasão chinesa.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html",
-          "publicado_em": "2026-08-09T04:01:15-03:00"
-        },
-        {
-          "id": "new_york_times-2026-08-09-1014",
-          "titulo": "Hunter Biden Diz que o Câncer de seu Pai Piorou",
-          "resumo": "Em uma entrevista com a BBC, o sr. Biden disse que o câncer de próstata do ex-presidente Joseph R. Biden Jr. havia se espalhado para os ossos e estava causando dor.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/08/us/politics/hunter-biden-says-his-fathers-cancer-is-worsening.html",
-          "publicado_em": "2026-08-09T02:44:42-03:00"
+          "publicado_em": "2026-08-09T15:55:30-03:00"
         }
       ]
     },
