@@ -176,103 +176,135 @@
     "euronews": {
       "slug": "euronews",
       "nome": "Euro News",
-      "gerado_em": "2026-08-09T10:00:17.506Z",
+      "gerado_em": "2026-08-09T21:00:18.005Z",
       "artigos": [
         {
-          "id": "euronews-2026-08-09-1001",
-          "titulo": "Todd Blanche's confirmação como procurador-geral gera preocupações sobre a independência do Departamento de Justiça dos EUA",
-          "resumo": "Após arriscar sua carreira defendendo Donald Trump em um julgamento criminal, Todd Blanche foi confirmado como procurador-geral dos EUA, gerando temores sobre a independência do Departamento de Justiça dos EUA.",
+          "id": "euronews-2026-08-09-2103",
+          "titulo": "Mais de 20.000 fogem de incêndios florestais enquanto a Colúmbia Britânica declara estado de emergência",
+          "resumo": "Os incêndios que eclodiram na sexta-feira se espalharam rapidamente, quase dobrando de tamanho durante a noite de sexta para sábado. A polícia nacional está investigando uma possível morte perto de Summerland, embora a vítima ainda não tenha sido identificada.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/09/over-20000-flee-wildfires-as-british-columbia-declares-state-of-emergency",
+          "publicado_em": "2026-08-09T14:03:34.000Z"
+        },
+        {
+          "id": "euronews-2026-08-09-2104",
+          "titulo": "Mais de 1 milhão evacuados à medida que o tufão Dolphin atinge a China",
+          "resumo": "O tufão Dolphin fez landfall no leste densamente povoado da China no domingo, disseram as autoridades meteorológicas, após a tempestade desencadear mais de 1.000 cancelamentos de voos, 1 milhão de evacuações e danos generalizados.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/09/over-1-million-evacuated-as-typhoon-dolphin-hits-china",
+          "publicado_em": "2026-08-09T13:56:29.000Z"
+        },
+        {
+          "id": "euronews-2026-08-09-2105",
+          "titulo": "13 mortos na Ucrânia e 90 feridos à medida que a Rússia intensifica a campanha de bombardeio noturno de cidades ucranianas",
+          "resumo": "13 pessoas foram mortas e cerca de 90 outras ficaram feridas nas últimas 24 horas à medida que os ataques russos intensificam o bombardeio de cidades ucranianas. Enquanto isso, Moscou afirma que cinco pessoas foram mortas em ataques ucranianos.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/09/13-killed-in-ukraine-and-90-injured-as-russia-intensifies-overnight-bombardment-campaign-o",
+          "publicado_em": "2026-08-09T13:29:24.000Z"
+        },
+        {
+          "id": "euronews-2026-08-09-2106",
+          "titulo": "Israel rejeita o plano de cessar-fogo dos EUA para a Faixa de Gaza aceito pelo Hamas",
+          "resumo": "Em uma reunião de gabinete, o primeiro-ministro israelense Benjamin Netanyahu disse que o exército não se retiraria até que o Hamas estivesse verdadeiramente desarmado, descartando o plano de cessar-fogo.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/09/israel-rejects-the-us-ceasefire-plan-for-gaza-accepted-by-hamas",
+          "publicado_em": "2026-08-09T13:25:10.000Z"
+        },
+        {
+          "id": "euronews-2026-08-09-2107",
+          "titulo": "Festa no leito seco do rio Danúbio: muitos a chamam de desastre natural",
+          "resumo": "Assim como os músicos continuaram tocando no Titanic enquanto o navio afundava, em Budapeste, o leito exposto do rio Danúbio em encolhimento se tornou um local de festa.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/09/party-in-the-dry-danube-riverbed-many-call-it-a-natural-disaster",
+          "publicado_em": "2026-08-09T12:57:01.000Z"
+        },
+        {
+          "id": "euronews-2026-08-09-2108",
+          "titulo": "81º aniversário do bombardeio atômico de Nagasaki intranquiliza defensores do pacifismo",
+          "resumo": "Nagasaki marcou no domingo o 81º aniversário do bombardeio atômico da cidade pelo EUA, enquanto o prefeito chamou as armas nucleares de 'mal absoluto' e denunciou o crescente apoio à dissuasão nuclear.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/09/nagasaki-81st-atomic-bomb-anniversary-unnerves-proponents-of-pacifism",
+          "publicado_em": "2026-08-09T10:41:25.000Z"
+        },
+        {
+          "id": "euronews-2026-08-09-2110",
+          "titulo": "Ataque dos Houthis no Iêmen mata 11 e atinge refinaria saudita",
+          "resumo": "Ataques dos rebeldes apoiados pelo Irã, os Houthis, no domingo mataram pelo menos 11 pessoas na cidade portuária iemenita de Mokha, segundo uma fonte médica, após um ataque anterior com drone ter visado uma refinaria de petróleo saudita.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/09/yemens-houthis-claim-attack-on-saudi-arabia-refinery",
+          "publicado_em": "2026-08-09T09:28:30.000Z"
+        },
+        {
+          "id": "euronews-2026-08-09-2111",
+          "titulo": "Confirmação de Todd Blanche como procurador-geral dos EUA gera preocupações sobre a independência do Departamento de Justiça",
+          "resumo": "Após arriscar sua carreira defendendo Donald Trump em um julgamento criminal, Todd Blanche foi confirmado como procurador-geral dos EUA, levantando temores sobre a independência do Departamento de Justiça dos EUA.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/09/todd-blanches-confirmation-as-attorney-general-strikes-worries-over-us-justice-independenc",
           "publicado_em": "2026-08-09T07:22:12.000Z"
         },
         {
-          "id": "euronews-2026-08-09-1005",
+          "id": "euronews-2026-08-09-2115",
           "titulo": "EUA pretendem enviar US$ 1 bilhão em ajuda à Colômbia após a posse de de la Espriella",
-          "resumo": "O presidente dos EUA, Donald Trump, elogiou de la Espriella, chamando-o de \"líder inteligente, forte e duro.\"",
+          "resumo": "O presidente dos EUA, Donald Trump, tem sido muito elogioso a de la Espriella, chamando-o de 'líder inteligente, forte e duro'.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/08/us-intends-to-send-1-billion-in-aid-to-colombia-following-de-la-espriellas-inauguration",
           "publicado_em": "2026-08-08T07:33:08.000Z"
         },
         {
-          "id": "euronews-2026-08-09-1007",
+          "id": "euronews-2026-08-09-2117",
           "titulo": "Tribunal de apelação dos EUA ordena paralisação da construção da sala de baile de Trump sem aprovação do Congresso",
-          "resumo": "O Tribunal de Apelação dos EUA para o Circuito de DC, que havia permitido a continuação da construção enquanto considerava o caso, concordou com um tribunal inferior que uma reforma tão massiva da Casa Branca exigia a aprovação do Congresso.",
+          "resumo": "O Tribunal de Apelações dos EUA para o Circuito de DC, que havia permitido que a construção continuasse enquanto considerava o caso, concordou com um tribunal inferior que uma reforma tão maciça da Casa Branca exigia a aprovação do Congresso.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/07/us-appeals-court-orders-halt-to-trump-ballroom-construction-without-congressional-approval",
           "publicado_em": "2026-08-07T18:55:15.000Z"
         },
         {
-          "id": "euronews-2026-08-09-1008",
-          "titulo": "Senado dos EUA aprova projeto de lei de sanções à Rússia que visa a renda do setor energético",
-          "resumo": "O pacote imporia sanções a funcionários russos, oligarcas, instituições financeiras e à chamada frota sombra usada para evadir restrições às exportações de petróleo de Moscou.",
+          "id": "euronews-2026-08-09-2118",
+          "titulo": "Senado dos EUA aprova projeto de lei de sanções abrangentes contra a Rússia que visa a renda do setor energético",
+          "resumo": "O pacote imporia sanções a funcionários russos, oligarcas, instituições financeiras e à chamada frota sombra usada para evadir restrições às exportações de petróleo de Moscou. Ele também permitiria que o presidente dos EUA impusesse sanções a empresas que ajudassem a Rússia a contornar as sanções.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/07/us-senate-approves-sweeping-russia-sanctions-bill-targeting-energy-income",
           "publicado_em": "2026-08-07T18:20:21.000Z"
         },
         {
-          "id": "euronews-2026-08-09-1010",
+          "id": "euronews-2026-08-09-2120",
           "titulo": "Incêndio florestal queima 100 hectares perto de Narbonne, na França",
-          "resumo": "Canadairs e helicópteros combatem um incêndio florestal que queimou cerca de 100 hectares na região de Corbières, perto de Narbonne, após um acidente de trânsito.",
+          "resumo": "Canadairs e helicópteros combatem um incêndio florestal que queimou cerca de 100 hectares na região de Corbières, perto de Narbonne, na França, após um acidente de trânsito.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/08/07/wildfire-burns-100-hectares-near-narbonne-in-france",
           "publicado_em": "2026-08-07T14:40:09.000Z"
         },
         {
-          "id": "euronews-2026-08-09-1011",
-          "titulo": "Taiwan testa resposta a emergências com simulação de ataque aéreo",
-          "resumo": "Taiwan realiza uma simulação de ataque aéreo em Kaohsiung, interrompendo o tráfego e orientando os moradores enquanto as autoridades testam as respostas de emergência civis.",
+          "id": "euronews-2026-08-09-2121",
+          "titulo": "Taiwan testa resposta de emergência com exercício de ataque aéreo",
+          "resumo": "Taiwan realizou um exercício de ataque aéreo em Kaohsiung, interrompendo o tráfego e orientando os moradores enquanto as autoridades testavam as respostas de emergência civis.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/08/07/taiwan-tests-emergency-response-with-air-raid-drill",
           "publicado_em": "2026-08-07T13:36:27.000Z"
         },
         {
-          "id": "euronews-2026-08-09-1013",
-          "titulo": "Sri Lanka envia tropas para conter crescente agitação nas prisões, afirma ministro",
-          "resumo": "Autoridades atribuíram a crescente agitação ao superlotamento agudo. As prisões do Sri Lanka abrigam cerca de quatro vezes sua capacidade projetada.",
+          "id": "euronews-2026-08-09-2123",
+          "titulo": "Sri Lanka envia tropas para conter a crescente agitação nos presídios, afirma ministro",
+          "resumo": "Os funcionários atribuíram a crescente agitação ao superlotamento agudo. Os presídios do Sri Lanka abrigam cerca de quatro vezes sua capacidade projetada.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/07/sri-lanka-deploys-troops-to-contain-growing-prison-unrest-minister-says",
           "publicado_em": "2026-08-07T08:43:06.000Z"
         },
         {
-          "id": "euronews-2026-08-09-1017",
-          "titulo": "Coreia do Sul recupera minas terrestres que acredita terem sido levadas pela Coreia do Norte devido a inundações causadas por monções",
-          "resumo": "A Zona Desmilitarizada (DMZ), que divide as Coreias desde o fim da guerra em 1953, é um dos lugares mais minados do mundo.",
+          "id": "euronews-2026-08-09-2124",
+          "titulo": "Berlim inaugura um banco de cores do arco-íris para as vítimas do ataque ao orgulho",
+          "resumo": "Oficiais de Berlim e membros da comunidade LGBTQ+ inauguraram um banco de cores do arco-íris e plantaram uma árvore de bordo no Tiergarten para homenagear as vítimas do ataque ao CSD.",
           "imagem": null,
-          "link": "http://www.euronews.com/2026/08/07/south-korea-recovers-landmines-believed-to-have-washed-from-north-by-monsoon-floods",
-          "publicado_em": "2026-08-07T06:29:49.000Z"
+          "link": "http://www.euronews.com/video/2026/08/07/berlin-unveils-rainbow-bench-for-pride-attack-victims",
+          "publicado_em": "2026-08-07T07:45:38.000Z"
         },
         {
-          "id": "euronews-2026-08-09-1018",
-          "titulo": "Austrália concede cidadania a duas jogadoras de futebol iranianas que buscaram asilo",
-          "resumo": "O Conselho de Refugiados da Austrália, uma organização sem fins lucrativos que representa os solicitantes de asilo, disse que os refugiados geralmente devem viver na Austrália com um visto válido por quatro anos antes de poderem solicitar a cidadania.",
+          "id": "euronews-2026-08-09-2125",
+          "titulo": "Americano é levado para um hospital na Nova Zelândia em uma rara missão de resgate no meio do inverno na Antártica",
+          "resumo": "O sol não nasceu no Polo Sul desde 23 de março e não nascerá até 21 de setembro.",
           "imagem": null,
-          "link": "http://www.euronews.com/2026/08/07/australia-grants-citizenship-to-two-iranian-women-footballers-who-sought-asylum",
-          "publicado_em": "2026-08-07T06:00:03.000Z"
-        },
-        {
-          "id": "euronews-2026-08-09-1020",
-          "titulo": "Oito mortos, incluindo avós do suspeito, em tiroteio na Tailândia, diz a polícia",
-          "resumo": "A Tailândia tem uma das maiores taxas de propriedade de armas de fogo da região, com cerca de 10 milhões de armas de fogo estimadas em circulação, uma para cada sete habitantes.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/07/two-dead-and-several-wounded-in-thailand-school-shooting-local-official-says",
-          "publicado_em": "2026-08-07T04:54:43.000Z"
-        },
-        {
-          "id": "euronews-2026-08-09-1021",
-          "titulo": "Meta é ordenada a pagar US$ 567 milhões por 'nódoa pública' e 'dano a crianças'",
-          "resumo": "Um juiz do Novo México penalizou o gigante da tecnologia por criar uma nódoa pública e colocar em risco as crianças online.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/07/meta-ordered-to-pay-567-mn-to-us-for-public-nuisance-and-child-harm",
-          "publicado_em": "2026-08-07T04:15:36.000Z"
-        },
-        {
-          "id": "euronews-2026-08-09-1022",
-          "titulo": "Arábia Saudita, Turquia e Paquistão assinam novo pacto de defesa em meio a tensões EUA-Irã",
-          "resumo": "O príncipe herdeiro Mohammed bin Salman, o presidente Recep Tayyip Erdoğan e o primeiro-ministro Shehbaz Sharif se reuniram em Meca na sexta-feira para formalizar um acordo conjunto.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/07/saudi-arabia-turkiye-and-pakistan-to-sign-joint-defence-pact-amid-regional-escalation",
-          "publicado_em": "2026-08-07T03:36:16.000Z"
+          "link": "http://www.euronews.com/2026/08/07/american-flown-to-new-zealand-hospital-in-rare-midwinter-antarctic-rescue-mission",
+          "publicado_em": "2026-08-07T07:41:54.000Z"
         }
       ]
     },
