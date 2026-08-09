@@ -6,11 +6,11 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Tensões Globais: Conflitos e Sanções",
-    "subtitulo": "Análise das principais notícias do dia, com foco em conflitos internacionais e sanções econômicas",
-    "resumo": "O dia foi marcado por uma série de conflitos e tensões globais. A Ucrânia e a Rússia continuam em conflito, com a Ucrânia atacando uma refinaria de petróleo na região de Krasnodar da Rússia. Além disso, o Irã está em negociações com os EUA sobre o estreito de Ormuz, enquanto a Turquia pede uma moratória sobre os ataques no Mar Negro. As sanções econômicas também estão em pauta, com os EUA impondo sanções à Rússia e a Arábia Saudita, Turquia e Paquistão assinando um pacto de defesa. A África também está em foco, com a AllAfrica discutindo a industrialização do continente e a necessidade de financiamento. Em meio a essas tensões, a Wikipedia é acusada de ser uma ferramenta de propaganda, e a China está desenvolvendo mísseis hipersônicos para distrair as forças dos EUA em um possível conflito sobre Taiwan.",
+    "titulo": "Tensões Globais: Conflitos e Alianças",
+    "subtitulo": "Análise das principais notícias do dia, destacando conflitos, alianças e tensões globais",
+    "resumo": "O dia foi marcado por uma série de eventos que refletem as tensões globais atuais. A Espanha introduziu controles de fronteira temporários para visitantes da Itália, enquanto a Rússia atingiu a logística militar ucraniana em Odessa. Além disso, a Turquia se juntou à Arábia Saudita e ao Paquistão no 'Pacto de Meca' como proteção contra a confiabilidade da defesa dos EUA. Esses eventos demonstram a complexidade das relações internacionais e a necessidade de uma análise cuidadosa das notícias. A corrida do ouro no Afeganistão também está mudando vidas e paisagens, enquanto a África busca construir o motor financeiro para sua industrialização. É fundamental considerar as diferentes perspectivas e enquadramentos das fontes de notícias para entender melhor esses eventos.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-08-08T08:00:00-03:00",
+    "publicado_em": "2026-08-09T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -833,53 +833,36 @@
   },
   "temas_principais": [
     {
-      "tema": "Conflito Ucrânia-Rússia",
-      "descricao": "A Ucrânia atacou uma refinaria de petróleo na região de Krasnodar da Rússia, enquanto a Rússia continua a realizar ataques com drones",
+      "tema": "Conflitos e Tensões Globais",
+      "descricao": "Análise dos principais conflitos e tensões globais do dia, incluindo a introdução de controles de fronteira pela Espanha e o ataque russo à Ucrânia",
       "fontes_que_cobriram": [
         "the_guardian",
-        "new_york_times",
-        "mt"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "rt"
-      ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a agressividade da Rússia, enquanto as fontes russas destacam a legítima defesa do país"
-    },
-    {
-      "tema": "Sanções Econômicas",
-      "descricao": "Os EUA impuseram sanções à Rússia, enquanto a Arábia Saudita, Turquia e Paquistão assinaram um pacto de defesa",
-      "fontes_que_cobriram": [
-        "euronews",
+        "rt",
         "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "scmp"
+        "smh"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais veem as sanções como uma medida necessária, enquanto as fontes russas e chinesas as consideram uma forma de pressão política"
+      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar a agressão russa, enquanto as fontes russas destacam a legítima defesa de seus interesses"
     },
     {
-      "tema": "Desenvolvimento Africano",
-      "descricao": "A AllAfrica discute a industrialização do continente e a necessidade de financiamento",
+      "tema": "Alianças e Acordos Internacionais",
+      "descricao": "Análise das alianças e acordos internacionais, incluindo o 'Pacto de Meca' e a relação entre a Arábia Saudita, Turquia e Paquistão",
       "fontes_que_cobriram": [
-        "aa"
+        "scmp",
+        "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian",
-        "new_york_times"
+        "aa"
       ],
-      "divergencia_de_enquadramento": "As fontes africanas destacam a importância do desenvolvimento econômico, enquanto as fontes ocidentais tendem a se concentrar em questões de segurança e política"
+      "divergencia_de_enquadramento": "As fontes asiáticas tendem a enfatizar a importância da cooperação regional, enquanto as fontes ocidentais destacam as implicações geopolíticas"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Crise Política no Kosovo",
-      "por_que_importa": "A crise política no Kosovo pode ter implicações regionais e internacionais",
-      "cobertura": "Apenas a SCMP cobriu o tema, enquanto as outras fontes ignoraram ou minimizaram"
-    },
-    {
-      "tema": "Desenvolvimento de Mísseis Hipersônicos pela China",
-      "por_que_importa": "O desenvolvimento de mísseis hipersônicos pela China pode ter implicações significativas para a segurança regional e internacional",
-      "cobertura": "Apenas a SCMP cobriu o tema, enquanto as outras fontes ignoraram ou minimizaram"
+      "tema": "Desenvolvimento Econômico Africano",
+      "por_que_importa": "A África busca construir o motor financeiro para sua industrialização, o que pode ter implicações significativas para o desenvolvimento econômico do continente",
+      "cobertura": "Apenas a fonte 'aa' cobriu esse tema, destacando a importância da construção de um motor financeiro para a industrialização africana"
     }
   ]
 }
