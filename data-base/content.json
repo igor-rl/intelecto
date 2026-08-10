@@ -398,34 +398,122 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-08-09T21:15:51.414Z",
+      "gerado_em": "2026-08-10T10:15:51.458Z",
       "artigos": [
         {
-          "id": "rt-2026-08-09-21-01",
-          "titulo": "Pode o 'NATO Islâmico' controlar tanto Israel quanto Irã?",
+          "id": "rt-2026-08-10-01",
+          "titulo": "Militantes ligados ao Estado Islâmico realizam ataque mortal na República Democrática do Congo",
+          "resumo": "Suspeitos de serem militantes ligados ao Estado Islâmico mataram pelo menos 13 civis e sequestraram 14 outros na província de Ituri, na República Democrática do Congo",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a799aa485f5405860734776.jpg",
+          "link": "https://www.rt.com/africa/644058-islamic-state-linked-militants-stage-deadly-attack-dr-congo/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-10T09:44:49-03:00"
+        },
+        {
+          "id": "rt-2026-08-10-02",
+          "titulo": "Nova Délhi desmente acusação dos EUA sobre 'ataque a cristãos'",
+          "resumo": "A Índia rejeitou as acusações dos EUA de que uma lei de financiamento estrangeiro visa os cristãos",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a798ee985f54044f774ae8c.jpg",
+          "link": "https://www.rt.com/india/644057-india-foreign-funding-bill/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-10T09:01:53-03:00"
+        },
+        {
+          "id": "rt-2026-08-10-03",
+          "titulo": "País da OTAN rejeita pedido da Ucrânia por mísseis",
+          "resumo": "A Finlândia decidiu não expandir o apoio de defesa aérea à Ucrânia devido a preocupações de segurança",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a79881c85f540586073476d.jpg",
+          "link": "https://www.rt.com/news/644054-finland-rebuffs-ukraine-missile-plea/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-10T08:16:14-03:00"
+        },
+        {
+          "id": "rt-2026-08-10-04",
+          "titulo": "13 mortos em ataque de drone ucraniano à Rússia",
+          "resumo": "Pelo menos 13 pessoas morreram e 48 ficaram feridas em um ataque de drone ucraniano à cidade de Nizhnekamsk, na Rússia",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a798fcf20302726382f3d6e.png",
+          "link": "https://www.rt.com/russia/644053-tatarstan-ukrainian-drone-raid/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-10T07:11:12-03:00"
+        },
+        {
+          "id": "rt-2026-08-10-05",
+          "titulo": "França detém centenas de pessoas por suspeita de incêndios criminosos",
+          "resumo": "As autoridades francesas detiveram 420 pessoas, incluindo 166 menores, por suspeita de incêndios criminosos e negligência grave",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a794f8520302722c94fdc02.jpg",
+          "link": "https://www.rt.com/news/644049-420-arrested-devastating-fires-france/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-10T07:02:41-03:00"
+        },
+        {
+          "id": "rt-2026-08-10-06",
+          "titulo": "Novo vídeo do líder supremo do Irã será divulgado para desmentir rumores sobre sua saúde",
+          "resumo": "Um comandante paramilitar iraniano prometeu divulgar novo vídeo do líder supremo Mojtaba Khamenei para desmentir rumores sobre sua saúde e paradeiro",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a79590185f5404c1740c7da.jpg",
+          "link": "https://www.rt.com/news/644050-iran-vows-new-khamenei-video/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-10T04:49:54-03:00"
+        },
+        {
+          "id": "rt-2026-08-10-07",
+          "titulo": "Câncer de Joe Biden se espalhou para os ossos, diz seu filho",
+          "resumo": "O câncer do ex-presidente dos EUA Joe Biden se espalhou para os ossos, segundo seu filho Hunter",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a794cd785f5403dad1b3bc7.jpg",
+          "link": "https://www.rt.com/news/644048-biden-cancer-update-condition/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-10T04:03:10-03:00"
+        },
+        {
+          "id": "rt-2026-08-10-08",
+          "titulo": "Rússia descarta 'congelamento' do conflito na Ucrânia",
+          "resumo": "A Rússia descartou a possibilidade de transformar a crise na Ucrânia em um conflito congelado, afirmando que a paz só pode ser alcançada abordando as causas raiz do conflito",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a792ee720302721947054d2.jpg",
+          "link": "https://www.rt.com/russia/644047-russia-rules-out-ukraine-conflict/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-10T01:55:16-03:00"
+        },
+        {
+          "id": "rt-2026-08-10-09",
+          "titulo": "Rebeldes hutis lançam barragem de mísseis e drones contra tropas apoiadas pela Arábia Saudita no Iêmen",
+          "resumo": "Rebeldes hutis lançaram mísseis balísticos e drones contra tropas apoiadas pela Arábia Saudita na cidade portuária de Mokha, no Iêmen",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a79127485f54064e54b436d.jpg",
+          "link": "https://www.rt.com/news/644046-yemen-strikes-saudi-mokha/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-09T23:52:15-03:00"
+        },
+        {
+          "id": "rt-2026-08-10-10",
+          "titulo": "Streamer americano é banido após comentário sobre 'matar crianças'",
+          "resumo": "O streamer Asmongold foi banido após sugerir que crianças migrantes que cruzam a fronteira para Ceuta, na Espanha, deveriam ser mortas",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a788d422030276cd8306554.jpeg",
+          "link": "https://www.rt.com/news/644037-asmongold-banned-ceuta-migrants-shoot/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-09T22:09:13-03:00"
+        },
+        {
+          "id": "rt-2026-08-10-11",
+          "titulo": "Netanyahu rejeita plano de paz de Trump para a Faixa de Gaza",
+          "resumo": "O primeiro-ministro israelense Benjamin Netanyahu rejeitou o plano de paz para a Faixa de Gaza proposto pelo ex-presidente dos EUA Donald Trump",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a78f3032030276f9a44f45e.jpg",
+          "link": "https://www.rt.com/news/644045-netanyahu-nixes-trumps-gaza-plan/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-09T21:38:13-03:00"
+        },
+        {
+          "id": "rt-2026-08-10-12",
+          "titulo": "Pode o 'NATO Islâmico' controlar Israel e Irã?",
           "resumo": "O pacto de Meca liga Riad, Ancara e Islamabad em um novo quadro de segurança que pode redefinir a dissuasão regional",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a78d47b2030277489659667.jpg",
           "link": "https://www.rt.com/news/644035-muslim-nato-iran-israel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-09T19:28:21-03:00"
         },
         {
-          "id": "rt-2026-08-09-21-02",
-          "titulo": "Drones russos atacam tropas ucranianas em importante fortaleza de Donbass (VÍDEO)",
-          "resumo": "O Ministério da Defesa da Rússia publicou imagens de suas forças interrompendo uma rotação de tropas ucranianas em um setor-chave da linha de frente",
+          "id": "rt-2026-08-10-13",
+          "titulo": "Drones russos atacam tropas ucranianas em Donbass",
+          "resumo": "O Ministério da Defesa da Rússia divulgou imagens de drones russos interrompendo a rotação de tropas ucranianas em uma seção-chave da linha de frente",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a78b8bf2030275e8271636d.png",
           "link": "https://www.rt.com/russia/644040-russian-drones-krasny-liman/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-09T19:25:17-03:00"
         },
         {
-          "id": "rt-2026-08-09-21-03",
+          "id": "rt-2026-08-10-14",
           "titulo": "A mulher que se autodenominava Deus: Por dentro do surgimento da Irmandade Branca",
-          "resumo": "Centenas vieram a Kiev esperando o apocalipse. Explore o surgimento, colapso e vida após a morte do culto Irmandade Branca de Maria Devi",
+          "resumo": "Centenas de pessoas foram a Kiev esperando o apocalipse. Explore o surgimento, colapso e vida após a morte do culto da Irmandade Branca de Maria Devi",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a75e2202030272a6557720d.jpg",
           "link": "https://www.rt.com/russia/643782-from-communist-to-messiah-maria/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-09T17:10:54-03:00"
         },
         {
-          "id": "rt-2026-08-09-21-04",
+          "id": "rt-2026-08-10-15",
           "titulo": "O jardim da UE está aberto, mas a que preço?",
           "resumo": "A crise migratória em Ceuta expôs uma nova realidade nas relações da UE com seus vizinhos do sul",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a78b2602030276ea93c8d88.jpg",
@@ -433,132 +521,44 @@
           "publicado_em": "2026-08-09T17:06:27-03:00"
         },
         {
-          "id": "rt-2026-08-09-21-05",
-          "titulo": "Ucrânia é muito corrupta para ingressar na UE – diplomata ao FT",
-          "resumo": "A UE não está preparada para acelerar a candidatura de adesão da Ucrânia, pois o país é muito corrupto, segundo um diplomata sênior",
+          "id": "rt-2026-08-10-16",
+          "titulo": "Ucrânia é muito corrupta para ingressar na UE, diz diplomata",
+          "resumo": "A UE não está preparada para acelerar a adesão da Ucrânia devido à corrupção no país, segundo um diplomata sênior",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a789d4f2030275e8271635f.jpg",
           "link": "https://www.rt.com/news/644038-ukraine-too-corrupt-eu-membership/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-09T16:07:47-03:00"
         },
         {
-          "id": "rt-2026-08-09-21-06",
-          "titulo": "Pentágono pressiona fabricantes de armas a aumentar produção à medida que a guerra no Irã esgota estoques – WaPo",
-          "resumo": "O Pentágono está pressionando os fabricantes de armas dos EUA a acelerar a produção de armas, à medida que a guerra no Irã esgota os já diminutos estoques de munições",
+          "id": "rt-2026-08-10-17",
+          "titulo": "Pentágono pressiona fabricantes de armas a aumentar produção devido à guerra no Irã",
+          "resumo": "O Pentágono está pressionando os fabricantes de armas dos EUA a acelerar a produção de armas devido à guerra no Irã, que está esgotando os estoques de munição",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a788c5420302772227f94d4.jpg",
           "link": "https://www.rt.com/news/644036-pentagon-arms-makers-boost-output/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-09T16:07:12-03:00"
         },
         {
-          "id": "rt-2026-08-09-21-07",
-          "titulo": "'Como podemos ajudá-lo a matar mais russos?' repórter alemão pergunta a Zelensky (VÍDEO)",
-          "resumo": "O jornalista alemão Michael Martens provocou uma reação após perguntar a Vladimir Zelensky como a Europa pode ajudar Kiev a 'matar mais russos'",
+          "id": "rt-2026-08-10-18",
+          "titulo": "Repórter alemão pergunta a Zelensky como a Europa pode ajudar a 'matar mais russos'",
+          "resumo": "O jornalista alemão Michael Martens provocou uma reação após perguntar a Vladimir Zelensky como a Europa pode ajudar a Ucrânia a 'matar mais russos'",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a788a8820302770075e4084.jpg",
           "link": "https://www.rt.com/news/644030-kill-russians-zelensky-reporter/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-09T14:27:04-03:00"
         },
         {
-          "id": "rt-2026-08-09-21-08",
-          "titulo": "'A IA saberá tudo sobre todos' – Kim Dotcom",
-          "resumo": "Kim Dotcom alertou que a IA pode supercarregar a vigilância e dar a Washington acesso a vastos bancos de dados de informações pessoais",
+          "id": "rt-2026-08-10-19",
+          "titulo": "Kim Dotcom alerta que a IA pode supercarregar a vigilância e dar à Washington acesso a vastos bancos de dados pessoais",
+          "resumo": "Kim Dotcom advertiu que a IA pode aumentar a vigilância e dar ao governo dos EUA acesso a grandes quantidades de dados pessoais",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a787fbf20302740de153603.jpg",
           "link": "https://www.rt.com/news/644033-kim-dotcom-ai-us-surveillance/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-09T14:19:04-03:00"
         },
         {
-          "id": "rt-2026-08-09-21-09",
-          "titulo": "A gamificação do assassinato na Ucrânia é 'macabra' – chefe de defesa do Reino Unido",
-          "resumo": "O chefe militar do Reino Unido, Richard Knighton, disse que se sente desconfortável com o sistema de pontos para matar drones da Ucrânia, chamando-o de 'macabro'",
+          "id": "rt-2026-08-10-20",
+          "titulo": "Ucrânia 'gamifica' a matança, o que é 'desconfortável, até macabro', diz chefe de defesa do Reino Unido",
+          "resumo": "O chefe militar do Reino Unido, Richard Knighton, disse que a Ucrânia 'gamifica' a matança, o que é 'desconfortável, até macabro'",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7873e685f54040672950ab.jpg",
           "link": "https://www.rt.com/news/644034-ukraines-gamification-killing-macabre/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
           "publicado_em": "2026-08-09T12:36:56-03:00"
-        },
-        {
-          "id": "rt-2026-08-09-21-10",
-          "titulo": "Incêndio florestal feroz força 20.000 a fugir no Canadá (VÍDEO)",
-          "resumo": "A Colúmbia Britânica, no Canadá, declarou estado de emergência à medida que o incêndio florestal de Bald Range, que quase dobrou de tamanho, forçou 20.000 pessoas a fugir",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7850b320302740de1535f3.png",
-          "link": "https://www.rt.com/news/644026-canada-bc-wildfires-thousands-evacuated/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-09T10:32:23-03:00"
-        },
-        {
-          "id": "rt-2026-08-09-21-11",
-          "titulo": "'Merz deve sair': Milhares protestam contra o governo alemão (VÍDEO)",
-          "resumo": "Cerca de 10.000 pessoas protestaram na cidade alemã de Plauen contra o governo federal, pedindo a renúncia do Chanceler Friedrich Merz",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a783cc685f5402ece48d7b0.png",
-          "link": "https://www.rt.com/news/644025-germany-protest-merz-government/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-09T10:01:10-03:00"
-        },
-        {
-          "id": "rt-2026-08-09-21-12",
-          "titulo": "Rússia atinge logística militar ucraniana em Odessa – Ministério da Defesa",
-          "resumo": "Forças russas atingiram depósitos de combustível e infraestrutura portuária em Odessa, segundo o Ministério da Defesa",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7837a085f54033244e7670.jpg",
-          "link": "https://www.rt.com/russia/644029-russia-hits-ukrainian-military-logistics/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-09T08:18:26-03:00"
-        },
-        {
-          "id": "rt-2026-08-09-21-13",
-          "titulo": "Guerra no Irã deixa aliados dos EUA na Ásia menos defendidos – NYT",
-          "resumo": "Os estoques de mísseis esgotados dos EUA podem minar a confiança entre os aliados asiáticos e europeus de Washington, segundo o The New York Times",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a780a6f85f540333f04bbde.jpg",
-          "link": "https://www.rt.com/news/644024-iran-war-leaves-us-allies/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-09T06:17:06-03:00"
-        },
-        {
-          "id": "rt-2026-08-09-21-14",
-          "titulo": "Irã faz novas exigências para Hormuz à medida que míssil atinge navio emiradense",
-          "resumo": "O Irã apresentou seis condições aos EUA para a reabertura do Estreito de Hormuz",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a77faa485f5403d620463f3.jpg",
-          "link": "https://www.rt.com/news/644023-iran-makeshormuz-demands/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-09T03:58:27-03:00"
-        },
-        {
-          "id": "rt-2026-08-09-21-15",
-          "titulo": "Dois trens se chocam na Croácia, dezenas de feridos (VÍDEOS)",
-          "resumo": "Dois trens colidiram perto de Skrinjari, no norte da Croácia, deixando pelo menos 20 pessoas feridas",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a77e3a685f5401f5a118b61.jpeg",
-          "link": "https://www.rt.com/news/644022-two-trains-smash-croatia-videos/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-09T02:29:44-03:00"
-        },
-        {
-          "id": "rt-2026-08-09-21-16",
-          "titulo": "Drone ucraniano explode perto de gasoduto crítico na Bulgária – Sófia",
-          "resumo": "Um drone ucraniano explodiu perto de um gasoduto crítico na Bulgária, segundo o Ministério da Defesa do país",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a77d39a203027119f5f0f4d.jpg",
-          "link": "https://www.rt.com/news/644021-ukrainian-drone-explodes-in-bulgaria/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-09T01:12:30-03:00"
-        },
-        {
-          "id": "rt-2026-08-09-21-17",
-          "titulo": "Três mortos à medida que barragem ucraniana atinge prédios residenciais na Rússia – governador (VÍDEOS)",
-          "resumo": "Drones ucranianos atingiram prédios residenciais em Belgorod, na Rússia, matando três pessoas e ferindo 25, segundo um oficial regional",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a77c06385f5401d656c9c40.jpg",
-          "link": "https://www.rt.com/russia/644020-ukraine-strikes-buildings-belgorod/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-08T23:02:44-03:00"
-        },
-        {
-          "id": "rt-2026-08-09-21-18",
-          "titulo": "China lançará navegação regular para a Europa via Rota do Mar do Norte da Rússia – Rosatom",
-          "resumo": "A China lançará navegação regular para a Europa via Rota do Mar do Norte da Rússia, segundo o CEO da Rosatom, Aleksey Likhachev",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7796dc85f5401f5a118b27.jpg",
-          "link": "https://www.rt.com/russia/644019-china-europe-shipping-russia-arctic-route/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-08T21:49:03-03:00"
-        },
-        {
-          "id": "rt-2026-08-09-21-19",
-          "titulo": "Chefe da FIFA enfrenta controvérsia sobre suposto pagamento de seis dígitos a 'amante'",
-          "resumo": "O chefe da FIFA, Gianni Infantino, enfrenta nova controvérsia após relatos de que a UEFA pagou a sua suposta amante enquanto ele era secretário-geral",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7732522030270dc1383b14.jpg",
-          "link": "https://www.rt.com/pop-culture/644013-infantino-fifa-lover-pay-off/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-08T20:26:05-03:00"
-        },
-        {
-          "id": "rt-2026-08-09-21-20",
-          "titulo": "Raiva do presidente polonês contra os russos é 'raiva impotente' – Moscou",
-          "resumo": "A diatribe anti-russa do presidente polonês Karol Nawrocki foi motivada por 'raiva impotente', segundo o Ministério das Relações Exteriores da Rússia",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a77709c2030270c176c6950.jpg",
-          "link": "https://www.rt.com/russia/644018-poland-nawrocki-killing-russians-moskal/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-08T18:17:28-03:00"
         }
       ]
     },
