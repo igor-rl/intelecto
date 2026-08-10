@@ -5,12 +5,12 @@
   "itens_urgentes": {},
   "destaques": [],
   "capa": {
-    "categoria_nome": "Conflitos Globais",
-    "titulo": "Tensões Crescentes",
-    "subtitulo": "Ucrânia, Rússia e Oriente Médio em Foco",
-    "resumo": "O cenário geopolítico global continua marcado por tensões elevadas, com conflitos em várias regiões. A Ucrânia e a Rússia permanecem em confronto, com ataques de drones e bombardeios noturnos. No Oriente Médio, a situação entre Israel e o Hamas permanece delicada, com o plano de cessar-fogo dos EUA sendo rejeitado por Israel. Além disso, a África também enfrenta desafios, com a República Democrática do Congo lidando com a exportação de urânio e a Nigéria enfrentando questões políticas internas. A Europa, por sua vez, está atenta às eleições na Alemanha Oriental e às negociações de paz entre a Rússia e a Ucrânia. Enquanto isso, a Ásia testemunha a preparação da Índia para as eleições e a China se posiciona estrategicamente no cenário global. Diante desses eventos, é crucial entender as perspectivas de cada região e como elas se interconectam no tabuleiro geopolítico mundial.",
+    "categoria_nome": "O que marcou o dia?",
+    "titulo": "Terremoto de 7,4 magnitude atinge a Colômbia",
+    "subtitulo": "Desastre natural deixa dezenas de mortos e muitos presos sob escombros, enquanto o mundo acompanha as notícias",
+    "resumo": "Um terremoto de 7,4 magnitude atingiu a Colômbia, causando destruição generalizada e deixando pelo menos 111 pessoas mortas. O terremoto, que ocorreu na região de Choco, a cerca de 400 km a oeste de Bogotá, também provocou evacuações e deixou muitas pessoas presas sob escombros. Enquanto o mundo acompanha as notícias, a comunidade internacional oferece apoio e ajuda humanitária ao país. Em outras notícias, a Ucrânia e a Rússia continuam a se envolver em conflitos, com a Ucrânia supostamente atacando uma planta petroquímica na Rússia. Além disso, a África do Sul está lidando com a violência de gênero, e o Quênia está passando por reformas políticas. A Austrália também está enfrentando desafios, com um terremoto na Colômbia e uma onda de calor que pode 'dividir' o rio Reno na Alemanha.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-08-10T08:00:00-03:00",
+    "publicado_em": "2026-08-11T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -1001,53 +1001,53 @@
   },
   "temas_principais": [
     {
-      "tema": "Conflito Ucrânia-Rússia",
-      "descricao": "Ataques de drones e bombardeios noturnos intensificam as tensões entre Ucrânia e Rússia.",
+      "tema": "Terremoto na Colômbia",
+      "descricao": "Terremoto de 7,4 magnitude deixa dezenas de mortos e muitos presos sob escombros",
       "fontes_que_cobriram": [
-        "rt",
-        "st",
+        "the_guardian",
+        "euronews",
+        "smh"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "rt"
+      ],
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a destruição e o número de mortos, enquanto a RT não cobriu o evento"
+    },
+    {
+      "tema": "Conflito Ucrânia-Rússia",
+      "descricao": "Ucrânia supostamente ataca planta petroquímica na Rússia",
+      "fontes_que_cobriram": [
+        "the_guardian",
         "mt"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "euronews"
+        "rt"
       ],
-      "divergencia_de_enquadramento": "Enquanto a Rússia destaca a agressão ucraniana, a Ucrânia enfatiza a legítima defesa contra a invasão russa."
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a ação da Ucrânia, enquanto a RT não cobriu o evento"
     },
     {
-      "tema": "Oriente Médio",
-      "descricao": "Plano de cessar-fogo dos EUA rejeitado por Israel, enquanto a situação na Faixa de Gaza permanece tensa.",
-      "fontes_que_cobriram": [
-        "new_york_times",
-        "euronews"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "scmp"
-      ],
-      "divergencia_de_enquadramento": "Enquanto Israel enfatiza a necessidade de segurança, o Hamas e outros grupos palestinos destacam a ocupação e os direitos palestinos."
-    },
-    {
-      "tema": "África",
-      "descricao": "República Democrática do Congo lida com a exportação de urânio, e a Nigéria enfrenta questões políticas internas.",
+      "tema": "Violência de gênero na África do Sul",
+      "descricao": "Presidente da África do Sul convoca homens para combater a violência de gênero",
       "fontes_que_cobriram": [
         "aa"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
         "the_guardian",
-        "new_york_times"
+        "euronews"
       ],
-      "divergencia_de_enquadramento": "A cobertura se concentra nas implicações locais e regionais, com pouca atenção da mídia ocidental."
+      "divergencia_de_enquadramento": "A AllAfrica destaca a iniciativa do presidente, enquanto as fontes ocidentais não cobrem o evento"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Inundações na Ásia",
-      "por_que_importa": "Inundações e deslizamentos de terra afetam milhares de pessoas, com impactos significativos na infraestrutura e na economia local.",
-      "cobertura": "Apenas a SCMP e a Euronews dedicaram espaço significativo a esses eventos, enquanto outras fontes os ignoraram ou minimizaram."
+      "tema": "Reformas políticas no Quênia",
+      "por_que_importa": "O Quênia está passando por reformas políticas importantes",
+      "cobertura": "Apenas a AllAfrica cobriu o evento"
     },
     {
-      "tema": "Eleições na Alemanha Oriental",
-      "por_que_importa": "As eleições podem influenciar a política europeia e as relações com a Rússia.",
-      "cobertura": "A cobertura foi limitada, com apenas algumas fontes como o Straits Times e a Moscow Times abordando o tema."
+      "tema": "Onda de calor na Europa",
+      "por_que_importa": "A onda de calor pode ter consequências graves para a saúde e o meio ambiente",
+      "cobertura": "Apenas o SMH cobriu o evento"
     }
   ]
 }
