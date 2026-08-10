@@ -240,135 +240,103 @@
     "euronews": {
       "slug": "euronews",
       "nome": "Euro News",
-      "gerado_em": "2026-08-09T21:00:18.005Z",
+      "gerado_em": "2026-08-10T10:00:25.863Z",
       "artigos": [
         {
-          "id": "euronews-2026-08-09-2103",
+          "id": "euronews-2026-08-10-1004",
+          "titulo": "Europa Ocidental bate recorde de temperatura, afetando 900 milhões de pessoas",
+          "resumo": "O mês passado teve a temperatura média mais alta já registrada e números alarmantes de umidade do solo em toda a Europa Ocidental, de acordo com o Copernicus.",
+          "imagem": null,
+          "link": "http://www.euronews.com/my-europe/2026/08/10/western-europe-sets-new-temperature-record-as-heat-waves-continue-to-pummel-region",
+          "publicado_em": "2026-08-10T04:10:42.000Z"
+        },
+        {
+          "id": "euronews-2026-08-10-1007",
           "titulo": "Mais de 20.000 fogem de incêndios florestais enquanto a Colúmbia Britânica declara estado de emergência",
-          "resumo": "Os incêndios que eclodiram na sexta-feira se espalharam rapidamente, quase dobrando de tamanho durante a noite de sexta para sábado. A polícia nacional está investigando uma possível morte perto de Summerland, embora a vítima ainda não tenha sido identificada.",
+          "resumo": "Os incêndios que começaram na sexta-feira se espalharam rapidamente, quase dobrando de tamanho durante a noite de sexta para sábado.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/09/over-20000-flee-wildfires-as-british-columbia-declares-state-of-emergency",
           "publicado_em": "2026-08-09T14:03:34.000Z"
         },
         {
-          "id": "euronews-2026-08-09-2104",
-          "titulo": "Mais de 1 milhão evacuados à medida que o tufão Dolphin atinge a China",
-          "resumo": "O tufão Dolphin fez landfall no leste densamente povoado da China no domingo, disseram as autoridades meteorológicas, após a tempestade desencadear mais de 1.000 cancelamentos de voos, 1 milhão de evacuações e danos generalizados.",
+          "id": "euronews-2026-08-10-1008",
+          "titulo": "Mais de 1 milhão evacuados enquanto o tufão Dolphin atinge a China",
+          "resumo": "O tufão Dolphin fez landfall no leste densamente povoado da China no domingo, de acordo com as autoridades meteorológicas.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/09/over-1-million-evacuated-as-typhoon-dolphin-hits-china",
           "publicado_em": "2026-08-09T13:56:29.000Z"
         },
         {
-          "id": "euronews-2026-08-09-2105",
-          "titulo": "13 mortos na Ucrânia e 90 feridos à medida que a Rússia intensifica a campanha de bombardeio noturno de cidades ucranianas",
-          "resumo": "13 pessoas foram mortas e cerca de 90 outras ficaram feridas nas últimas 24 horas à medida que os ataques russos intensificam o bombardeio de cidades ucranianas. Enquanto isso, Moscou afirma que cinco pessoas foram mortas em ataques ucranianos.",
+          "id": "euronews-2026-08-10-1009",
+          "titulo": "13 mortos na Ucrânia e 90 feridos à medida que a Rússia intensifica os bombardeios noturnos de cidades ucranianas",
+          "resumo": "13 pessoas foram mortas e cerca de 90 outras ficaram feridas nas últimas 24 horas à medida que os ataques russos intensificam os bombardeios de cidades ucranianas.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/09/13-killed-in-ukraine-and-90-injured-as-russia-intensifies-overnight-bombardment-campaign-o",
           "publicado_em": "2026-08-09T13:29:24.000Z"
         },
         {
-          "id": "euronews-2026-08-09-2106",
-          "titulo": "Israel rejeita o plano de cessar-fogo dos EUA para a Faixa de Gaza aceito pelo Hamas",
-          "resumo": "Em uma reunião de gabinete, o primeiro-ministro israelense Benjamin Netanyahu disse que o exército não se retiraria até que o Hamas estivesse verdadeiramente desarmado, descartando o plano de cessar-fogo.",
+          "id": "euronews-2026-08-10-1010",
+          "titulo": "Israel rejeita o plano dos EUA para a Faixa de Gaza aceito pelo Hamas",
+          "resumo": "Em uma reunião de gabinete, o primeiro-ministro israelense Benjamin Netanyahu disse que o exército não se retiraria até que o Hamas estivesse verdadeiramente desarmado.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/09/israel-rejects-the-us-ceasefire-plan-for-gaza-accepted-by-hamas",
           "publicado_em": "2026-08-09T13:25:10.000Z"
         },
         {
-          "id": "euronews-2026-08-09-2107",
-          "titulo": "Festa no leito seco do rio Danúbio: muitos a chamam de desastre natural",
-          "resumo": "Assim como os músicos continuaram tocando no Titanic enquanto o navio afundava, em Budapeste, o leito exposto do rio Danúbio em encolhimento se tornou um local de festa.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/09/party-in-the-dry-danube-riverbed-many-call-it-a-natural-disaster",
-          "publicado_em": "2026-08-09T12:57:01.000Z"
-        },
-        {
-          "id": "euronews-2026-08-09-2108",
-          "titulo": "81º aniversário do bombardeio atômico de Nagasaki intranquiliza defensores do pacifismo",
-          "resumo": "Nagasaki marcou no domingo o 81º aniversário do bombardeio atômico da cidade pelo EUA, enquanto o prefeito chamou as armas nucleares de 'mal absoluto' e denunciou o crescente apoio à dissuasão nuclear.",
+          "id": "euronews-2026-08-10-1012",
+          "titulo": "O 81º aniversário do bombardeio atômico de Nagasaki intranquiliza os defensores do pacifismo",
+          "resumo": "Nagasaki marcou no domingo o 81º aniversário do bombardeio atômico da cidade pelo EUA, enquanto o prefeito chamou as armas nucleares de \"mal absoluto\".",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/09/nagasaki-81st-atomic-bomb-anniversary-unnerves-proponents-of-pacifism",
           "publicado_em": "2026-08-09T10:41:25.000Z"
         },
         {
-          "id": "euronews-2026-08-09-2110",
+          "id": "euronews-2026-08-10-1014",
           "titulo": "Ataque dos Houthis no Iêmen mata 11 e atinge refinaria saudita",
-          "resumo": "Ataques dos rebeldes apoiados pelo Irã, os Houthis, no domingo mataram pelo menos 11 pessoas na cidade portuária iemenita de Mokha, segundo uma fonte médica, após um ataque anterior com drone ter visado uma refinaria de petróleo saudita.",
+          "resumo": "Ataques dos rebeldes apoiados pelo Irã mataram pelo menos 11 pessoas na cidade portuária iemenita de Mokha.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/09/yemens-houthis-claim-attack-on-saudi-arabia-refinery",
           "publicado_em": "2026-08-09T09:28:30.000Z"
         },
         {
-          "id": "euronews-2026-08-09-2111",
-          "titulo": "Confirmação de Todd Blanche como procurador-geral dos EUA gera preocupações sobre a independência do Departamento de Justiça",
-          "resumo": "Após arriscar sua carreira defendendo Donald Trump em um julgamento criminal, Todd Blanche foi confirmado como procurador-geral dos EUA, levantando temores sobre a independência do Departamento de Justiça dos EUA.",
+          "id": "euronews-2026-08-10-1015",
+          "titulo": "A confirmação de Todd Blanche como procurador-geral dos EUA gera preocupações sobre a independência do Departamento de Justiça",
+          "resumo": "Todd Blanche foi confirmado como procurador-geral dos EUA, o que levanta temores sobre a independência do Departamento de Justiça.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/09/todd-blanches-confirmation-as-attorney-general-strikes-worries-over-us-justice-independenc",
           "publicado_em": "2026-08-09T07:22:12.000Z"
         },
         {
-          "id": "euronews-2026-08-09-2115",
-          "titulo": "EUA pretendem enviar US$ 1 bilhão em ajuda à Colômbia após a posse de de la Espriella",
-          "resumo": "O presidente dos EUA, Donald Trump, tem sido muito elogioso a de la Espriella, chamando-o de 'líder inteligente, forte e duro'.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/08/us-intends-to-send-1-billion-in-aid-to-colombia-following-de-la-espriellas-inauguration",
-          "publicado_em": "2026-08-08T07:33:08.000Z"
-        },
-        {
-          "id": "euronews-2026-08-09-2117",
-          "titulo": "Tribunal de apelação dos EUA ordena paralisação da construção da sala de baile de Trump sem aprovação do Congresso",
-          "resumo": "O Tribunal de Apelações dos EUA para o Circuito de DC, que havia permitido que a construção continuasse enquanto considerava o caso, concordou com um tribunal inferior que uma reforma tão maciça da Casa Branca exigia a aprovação do Congresso.",
+          "id": "euronews-2026-08-10-1021",
+          "titulo": "Tribunal de apelações dos EUA ordena paralisação da construção da sala de baile de Trump sem aprovação do Congresso",
+          "resumo": "O Tribunal de Apelações dos EUA para o Circuito de DC ordenou a paralisação da construção da sala de baile de Trump.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/07/us-appeals-court-orders-halt-to-trump-ballroom-construction-without-congressional-approval",
           "publicado_em": "2026-08-07T18:55:15.000Z"
         },
         {
-          "id": "euronews-2026-08-09-2118",
-          "titulo": "Senado dos EUA aprova projeto de lei de sanções abrangentes contra a Rússia que visa a renda do setor energético",
-          "resumo": "O pacote imporia sanções a funcionários russos, oligarcas, instituições financeiras e à chamada frota sombra usada para evadir restrições às exportações de petróleo de Moscou. Ele também permitiria que o presidente dos EUA impusesse sanções a empresas que ajudassem a Rússia a contornar as sanções.",
+          "id": "euronews-2026-08-10-1022",
+          "titulo": "Senado dos EUA aprova projeto de lei de sanções contra a Rússia que visa a renda do setor energético",
+          "resumo": "O pacote imporia sanções a funcionários russos, oligarcas, instituições financeiras e à chamada frota sombra usada para evadir restrições às exportações de petróleo de Moscou.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/07/us-senate-approves-sweeping-russia-sanctions-bill-targeting-energy-income",
           "publicado_em": "2026-08-07T18:20:21.000Z"
         },
         {
-          "id": "euronews-2026-08-09-2120",
+          "id": "euronews-2026-08-10-1024",
           "titulo": "Incêndio florestal queima 100 hectares perto de Narbonne, na França",
-          "resumo": "Canadairs e helicópteros combatem um incêndio florestal que queimou cerca de 100 hectares na região de Corbières, perto de Narbonne, na França, após um acidente de trânsito.",
+          "resumo": "Canadairs e helicópteros combatem um incêndio florestal que queimou cerca de 100 hectares na França.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/08/07/wildfire-burns-100-hectares-near-narbonne-in-france",
           "publicado_em": "2026-08-07T14:40:09.000Z"
         },
         {
-          "id": "euronews-2026-08-09-2121",
+          "id": "euronews-2026-08-10-1025",
           "titulo": "Taiwan testa resposta de emergência com exercício de ataque aéreo",
-          "resumo": "Taiwan realizou um exercício de ataque aéreo em Kaohsiung, interrompendo o tráfego e orientando os moradores enquanto as autoridades testavam as respostas de emergência civis.",
+          "resumo": "Taiwan realizou um exercício de ataque aéreo em Kaohsiung, paralisando o tráfego e orientando os moradores.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/08/07/taiwan-tests-emergency-response-with-air-raid-drill",
           "publicado_em": "2026-08-07T13:36:27.000Z"
-        },
-        {
-          "id": "euronews-2026-08-09-2123",
-          "titulo": "Sri Lanka envia tropas para conter a crescente agitação nos presídios, afirma ministro",
-          "resumo": "Os funcionários atribuíram a crescente agitação ao superlotamento agudo. Os presídios do Sri Lanka abrigam cerca de quatro vezes sua capacidade projetada.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/07/sri-lanka-deploys-troops-to-contain-growing-prison-unrest-minister-says",
-          "publicado_em": "2026-08-07T08:43:06.000Z"
-        },
-        {
-          "id": "euronews-2026-08-09-2124",
-          "titulo": "Berlim inaugura um banco de cores do arco-íris para as vítimas do ataque ao orgulho",
-          "resumo": "Oficiais de Berlim e membros da comunidade LGBTQ+ inauguraram um banco de cores do arco-íris e plantaram uma árvore de bordo no Tiergarten para homenagear as vítimas do ataque ao CSD.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/08/07/berlin-unveils-rainbow-bench-for-pride-attack-victims",
-          "publicado_em": "2026-08-07T07:45:38.000Z"
-        },
-        {
-          "id": "euronews-2026-08-09-2125",
-          "titulo": "Americano é levado para um hospital na Nova Zelândia em uma rara missão de resgate no meio do inverno na Antártica",
-          "resumo": "O sol não nasceu no Polo Sul desde 23 de março e não nascerá até 21 de setembro.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/07/american-flown-to-new-zealand-hospital-in-rare-midwinter-antarctic-rescue-mission",
-          "publicado_em": "2026-08-07T07:41:54.000Z"
         }
       ]
     },
