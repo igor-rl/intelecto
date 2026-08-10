@@ -5,12 +5,12 @@
   "itens_urgentes": {},
   "destaques": [],
   "capa": {
-    "categoria_nome": "Conflitos Globais e Desastres Naturais",
-    "titulo": "Incêndios e Conflitos: O Mundo em Chamas",
-    "subtitulo": "De incêndios florestais na Colúmbia Britânica a conflitos no Oriente Médio, o planeta enfrenta desafios sem precedentes",
-    "resumo": "O mundo está enfrentando uma série de desafios sem precedentes, desde incêndios florestais devastadores na Colúmbia Britânica, Canadá, até conflitos intensos no Oriente Médio. Enquanto a comunidade internacional luta para conter as chamas e promover a paz, é crucial entender as nuances por trás desses eventos. A Espanha, por exemplo, introduzirá controles de fronteira temporários para visitantes da Itália, respondendo às medidas semelhantes de Roma após uma corrida de migração em massa para Ceuta. No Oriente Médio, o plano de paz dos EUA para Gaza foi rejeitado por Israel, enquanto o Irã nomeia um novo chefe para seu principal órgão de segurança nacional. Ao mesmo tempo, a Ucrânia e a Rússia continuam a trocar ataques, com drones russos atacando tropas ucranianas e a Ucrânia retaliando com ataques a refinarias de petróleo na Rússia. Enquanto isso, a África busca construir seu motor financeiro para a industrialização, com o lançamento do primeiro ETF de títulos soberanos africanos na Europa. Diante de tantos desafios, é essencial que os líderes mundiais trabalhem juntos para encontrar soluções pacíficas e sustentáveis para esses conflitos e desastres naturais.",
+    "categoria_nome": "Conflitos Globais",
+    "titulo": "Tensões Crescentes",
+    "subtitulo": "Ucrânia, Rússia e Oriente Médio em Foco",
+    "resumo": "O cenário geopolítico global continua marcado por tensões elevadas, com conflitos em várias regiões. A Ucrânia e a Rússia permanecem em confronto, com ataques de drones e bombardeios noturnos. No Oriente Médio, a situação entre Israel e o Hamas permanece delicada, com o plano de cessar-fogo dos EUA sendo rejeitado por Israel. Além disso, a África também enfrenta desafios, com a República Democrática do Congo lidando com a exportação de urânio e a Nigéria enfrentando questões políticas internas. A Europa, por sua vez, está atenta às eleições na Alemanha Oriental e às negociações de paz entre a Rússia e a Ucrânia. Enquanto isso, a Ásia testemunha a preparação da Índia para as eleições e a China se posiciona estrategicamente no cenário global. Diante desses eventos, é crucial entender as perspectivas de cada região e como elas se interconectam no tabuleiro geopolítico mundial.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-08-09T08:00:00-03:00",
+    "publicado_em": "2026-08-10T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -1021,34 +1021,33 @@
   },
   "temas_principais": [
     {
-      "tema": "Incêndios Florestais",
-      "descricao": "Incêndios florestais devastam a Colúmbia Britânica, Canadá, e outras regiões do mundo.",
+      "tema": "Conflito Ucrânia-Rússia",
+      "descricao": "Ataques de drones e bombardeios noturnos intensificam as tensões entre Ucrânia e Rússia.",
       "fontes_que_cobriram": [
-        "the_guardian",
-        "euronews",
-        "scmp"
+        "rt",
+        "st",
+        "mt"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "rt"
+        "euronews"
       ],
-      "divergencia_de_enquadramento": "Enquanto some fontes enfatizam a gravidade dos incêndios, outras minimizam o impacto."
+      "divergencia_de_enquadramento": "Enquanto a Rússia destaca a agressão ucraniana, a Ucrânia enfatiza a legítima defesa contra a invasão russa."
     },
     {
-      "tema": "Conflitos no Oriente Médio",
-      "descricao": "Conflitos intensos no Oriente Médio, incluindo a rejeição do plano de paz dos EUA para Gaza por Israel.",
+      "tema": "Oriente Médio",
+      "descricao": "Plano de cessar-fogo dos EUA rejeitado por Israel, enquanto a situação na Faixa de Gaza permanece tensa.",
       "fontes_que_cobriram": [
         "new_york_times",
-        "st",
-        "smh"
+        "euronews"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "aa"
+        "scmp"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais tendem a criticar a posição de Israel, enquanto as fontes do Oriente Médio oferecem perspectivas mais variadas."
+      "divergencia_de_enquadramento": "Enquanto Israel enfatiza a necessidade de segurança, o Hamas e outros grupos palestinos destacam a ocupação e os direitos palestinos."
     },
     {
-      "tema": "Desenvolvimento Econômico Africano",
-      "descricao": "A África busca construir seu motor financeiro para a industrialização, com o lançamento do primeiro ETF de títulos soberanos africanos na Europa.",
+      "tema": "África",
+      "descricao": "República Democrática do Congo lida com a exportação de urânio, e a Nigéria enfrenta questões políticas internas.",
       "fontes_que_cobriram": [
         "aa"
       ],
@@ -1056,19 +1055,19 @@
         "the_guardian",
         "new_york_times"
       ],
-      "divergencia_de_enquadramento": "As fontes africanas destacam o potencial de crescimento econômico, enquanto as fontes ocidentais são mais céticas."
+      "divergencia_de_enquadramento": "A cobertura se concentra nas implicações locais e regionais, com pouca atenção da mídia ocidental."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Corrupção na Ucrânia",
-      "por_que_importa": "A corrupção na Ucrânia é um obstáculo significativo para a adesão do país à UE.",
-      "cobertura": "A cobertura é limitada, com apenas algumas fontes abordando o tema."
+      "tema": "Inundações na Ásia",
+      "por_que_importa": "Inundações e deslizamentos de terra afetam milhares de pessoas, com impactos significativos na infraestrutura e na economia local.",
+      "cobertura": "Apenas a SCMP e a Euronews dedicaram espaço significativo a esses eventos, enquanto outras fontes os ignoraram ou minimizaram."
     },
     {
-      "tema": "Desastres Naturais na Ásia",
-      "por_que_importa": "Desastres naturais como tufões e inundações afetam milhões de pessoas na Ásia.",
-      "cobertura": "A cobertura é desigual, com algumas fontes dando mais atenção a desastres em certas regiões."
+      "tema": "Eleições na Alemanha Oriental",
+      "por_que_importa": "As eleições podem influenciar a política europeia e as relações com a Rússia.",
+      "cobertura": "A cobertura foi limitada, com apenas algumas fontes como o Straits Times e a Moscow Times abordando o tema."
     }
   ]
 }
