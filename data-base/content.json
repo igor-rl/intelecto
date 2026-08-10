@@ -121,119 +121,87 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-08-10T10:00:00.886Z",
+      "gerado_em": "2026-08-10T21:00:00.943Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-08-09T17:58:22-01",
-          "titulo": "Irã, mantendo firme posição no Hormuz, pressiona por retorno ao MOU de junho",
-          "resumo": "O estreito de Hormuz é o melhor trunfo do Irã para obter a liberação de seus ativos congelados pelos EUA, o levantamento das sanções econômicas e o fim do bloqueio naval.",
+          "id": "new_york_times-2026-08-10-2101",
+          "titulo": "Trump Despreza Preocupações com Inteligência Artificial e Centros de Dados à Medida que os Eleitores Ficam Ansiosos",
+          "resumo": "O presidente e seus principais assessores têm sido especialmente otimistas em relação aos centros de dados, apesar da reação nacional contra essas instalações.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html",
-          "publicado_em": "2026-08-09T17:58:22-03:00"
+          "link": "https://www.nytimes.com/2026/08/10/business/trump-artificial-intelligence-data-centers-ai.html",
+          "publicado_em": "2026-08-10T15:48:18.000Z"
         },
         {
-          "id": "new_york_times-2026-08-09T09:00:15-02",
-          "titulo": "Por dentro da guerra contra as finanças do Hezbollah",
-          "resumo": "Israel e os EUA não estão apenas mirando nas armas do grupo militante libanês, mas também em seu dinheiro.",
+          "id": "new_york_times-2026-08-10-2102",
+          "titulo": "Sanders Pedirá às Empresas de Inteligência Artificial que Pausessem o Desenvolvimento para 'Evitar o Desastre'",
+          "resumo": "O senador Bernie Sanders advertiu que as corporações já perderam o controle da tecnologia que poderia causar 'resultados potencialmente cataclísmicos' para milhões de pessoas.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html",
-          "publicado_em": "2026-08-09T09:00:15-03:00"
+          "link": "https://www.nytimes.com/2026/08/10/us/politics/bernie-sanders-ai-moratorum.html",
+          "publicado_em": "2026-08-10T19:58:12.000Z"
         },
         {
-          "id": "new_york_times-2026-08-09T09:01:46-03",
-          "titulo": "Um democrata soa o alarme sobre o nacionalismo cristão no Congresso",
-          "resumo": "O representante Jared Huffman, da Califórnia, o único autodeclarado 'humanista' no Congresso, escreve em um novo livro que a separação entre igreja e estado está em grave perigo.",
+          "id": "new_york_times-2026-08-10-2103",
+          "titulo": "Como uma Investigação de Contra-Inteligência sobre os Vínculos de Trump com a Rússia Foi Desviada",
+          "resumo": "Documentos divulgados pela Casa Branca lançam nova luz sobre o declínio de uma investigação frequentemente negligenciada do FBI em 2017.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/09/us/politics/democrat-huffman-humanist-religion-christianity.html",
-          "publicado_em": "2026-08-09T09:01:46-03:00"
+          "link": "https://www.nytimes.com/2026/08/10/us/politics/trump-memos-russia-investigation.html",
+          "publicado_em": "2026-08-10T20:42:38.000Z"
         },
         {
-          "id": "new_york_times-2026-08-10T01:44:31-04",
-          "titulo": "Trump nomeia Will Scharf como conselheiro da Casa Branca",
-          "resumo": "O presidente disse que o Sr. Scharf, um advogado profundamente conservador e o atual secretário de gabinete, substituirá David Warrington no início de setembro.",
+          "id": "new_york_times-2026-08-10-2104",
+          "titulo": "Uma Fonte da Riqueza de Paxton: uma Torre de Celular em um Hospital que Ele Conhecia Bem",
+          "resumo": "Ken Paxton, o procurador-geral do Texas, ganha uma renda de seis dígitos com uma torre de celular no terreno de um hospital onde ele foi membro do conselho.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/09/us/politics/trump-will-scharf-white-house-counsel.html",
-          "publicado_em": "2026-08-10T01:44:31-03:00"
+          "link": "https://www.nytimes.com/2026/08/10/us/paxton-cell-tower-company-texas-senate.html",
+          "publicado_em": "2026-08-10T19:01:44.000Z"
         },
         {
-          "id": "new_york_times-2026-08-10T00:44:20-05",
-          "titulo": "O lago Mead, o maior reservatório dos EUA, está menor do que nunca",
-          "resumo": "Os níveis de água no reservatório, que fica atrás da barragem Hoover, estão em níveis recordes. Uma queda contínua ameaçaria o suprimento de água para milhões de pessoas e cortaria a eletricidade da barragem.",
+          "id": "new_york_times-2026-08-10-2106",
+          "titulo": "Os Eleitores do Wisconsin Acham que Francesca Hong é Radical Demais? Aqui Está Onde Ela Se Posiciona",
+          "resumo": "A socialista democrata é a favorita para vencer a primária democrata para governador do Wisconsin na terça-feira.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/09/us/lake-mead-water-level-record-low.html",
-          "publicado_em": "2026-08-10T00:44:20-03:00"
+          "link": "https://www.nytimes.com/2026/08/10/us/francesca-hong-positions-wisconsin-governor.html",
+          "publicado_em": "2026-08-10T17:00:47.000Z"
         },
         {
-          "id": "new_york_times-2026-08-10T04:01:20-06",
-          "titulo": "O calor extremo atinge a capital do pimentão vermelho no Paquistão",
-          "resumo": "Os métodos tradicionais de cultivo do pimentão podem não sobreviver aos desafios das mudanças climáticas e dos custos crescentes, então os agricultores paquistaneses estão tentando se adaptar.",
+          "id": "new_york_times-2026-08-10-2107",
+          "titulo": "A Primária do Senado Democrata do Minnesota Opõe Angie Craig a Peggy Flanagan",
+          "resumo": "A corrida para a primária do Senado em Minnesota será o último teste da energia da esquerda no partido, em um estado que foi abalado pela letal repressão imigratória da administração Trump no inverno.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/10/world/asia/pakistan-red-chiles-climate-change.html",
-          "publicado_em": "2026-08-10T04:01:20-03:00"
+          "link": "https://www.nytimes.com/2026/08/10/us/politics/minnesota-senate-primary-flanagan-craig.html",
+          "publicado_em": "2026-08-10T14:04:07.000Z"
         },
         {
-          "id": "new_york_times-2026-08-09T12:23:03-07",
-          "titulo": "A Europa se prepara para outra onda de calor. Aqui está o que você precisa saber.",
-          "resumo": "Alertas de temperatura alta estavam em vigor em toda a Europa Ocidental, Central e Meridional no domingo, à medida que uma onda de calor se intensifica no continente.",
+          "id": "new_york_times-2026-08-10-2110",
+          "titulo": "O Terremoto na Colômbia Coloca Abelardo De La Espriella, o Novo Presidente, à Prova",
+          "resumo": "Abelardo De La Espriella nunca ocupou um cargo público até sua posse na sexta-feira. Agora, ele está no comando de uma grande resposta a desastres.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/09/weather/extreme-heat-wave-uk-france-spain-forecast.html",
-          "publicado_em": "2026-08-09T12:23:03-03:00"
+          "link": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-de-la-espriella.html",
+          "publicado_em": "2026-08-10T20:24:30.000Z"
         },
         {
-          "id": "new_york_times-2026-08-10T08:27:16-08",
-          "titulo": "A Malásia confiava em sua proibição de mídia social, mas as crianças ainda estão conectadas",
-          "resumo": "Os funcionários disseram às plataformas para verificar a idade das crianças usando documentos emitidos pelo governo, como carteiras de identidade. Mas as empresas hesitaram, aparentemente devido a preocupações com a privacidade.",
+          "id": "new_york_times-2026-08-10-2111",
+          "titulo": "Imagens Emergem do Terremoto que Devastou a Colômbia",
+          "resumo": "O terremoto mais poderoso em uma década atingiu uma região da costa do Pacífico, matando mais de 100 pessoas.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/10/world/asia/malaysia-social-media-ban-delayed.html",
-          "publicado_em": "2026-08-10T08:27:16-03:00"
+          "link": "https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-photos.html",
+          "publicado_em": "2026-08-10T19:56:34.000Z"
         },
         {
-          "id": "new_york_times-2026-08-10T04:01:10-09",
-          "titulo": "Ele transformou sua cidade natal espanhola. Ele também a estragou?",
-          "resumo": "Francisco de la Torre, o prefeito de Málaga, é creditado por transformar o porto outrora monótono em um centro de cultura e tecnologia. Críticos dizem que ele também destruiu a alma da cidade.",
+          "id": "new_york_times-2026-08-10-2112",
+          "titulo": "Netanyahu Anda na Corda Bamba sobre o Acordo de Desarmamento da Faixa de Gaza de Trump",
+          "resumo": "O primeiro-ministro israelense, que enfrenta uma eleição difícil, está tentando satisfazer as demandas às vezes contraditórias de sua base de direita e do presidente Trump.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/10/world/europe/malaga-spain-mayor-torre-urban-regeneration.html",
-          "publicado_em": "2026-08-10T04:01:10-03:00"
+          "link": "https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html",
+          "publicado_em": "2026-08-10T19:14:20.000Z"
         },
         {
-          "id": "new_york_times-2026-08-09T21:29:45-10",
-          "titulo": "Dra. Maura L. Gillison, que ligou cânceres de garganta ao HPV, morre aos 61 anos",
-          "resumo": "Ela desafiou a visão convencional de que a maioria dos cânceres de cabeça e pescoço resultava do tabagismo e do consumo excessivo de álcool.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/09/obituaries/maura-l-gillison-dead.html",
-          "publicado_em": "2026-08-09T21:29:45-03:00"
-        },
-        {
-          "id": "new_york_times-2026-08-10T09:26:22-11",
-          "titulo": "Ataque de drone ucraniano mata 13 profundamente na Rússia",
-          "resumo": "Um ataque a um centro industrial em Tatarstão marcou um dos ataques mais letais ao território russo desde o início da guerra.",
+          "id": "new_york_times-2026-08-10-2118",
+          "titulo": "Ataque de Dron da Ucrânia a Cidade Industrial na Rússia Mata Pelo Menos 13 Pessoas",
+          "resumo": "O ataque, a um centro industrial em Tatarstan, matou pelo menos 13 pessoas.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html",
-          "publicado_em": "2026-08-10T09:26:22-03:00"
-        },
-        {
-          "id": "new_york_times-2026-08-10T09:02:05-12",
-          "titulo": "Esta é a fórmula vencedora para os democratas nos estados vermelhos",
-          "resumo": "Com pouco menos de 44 anos e uma aparência juvenil, Rob Sand é muito um moderado, mas ele tem uma crítica devastadora do estabelecimento político neste país.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/10/opinion/rob-sand-democrats-iowa.html",
-          "publicado_em": "2026-08-10T09:02:05-03:00"
-        },
-        {
-          "id": "new_york_times-2026-08-10T09:02:11-13",
-          "titulo": "Eu vi como a IA muda a vida social dos jovens",
-          "resumo": "A IA se tornou uma espécie de selante social, preenchendo as lacunas nas relações dos jovens.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/10/opinion/ai-artificial-intelligence-relationships.html",
-          "publicado_em": "2026-08-10T09:02:11-03:00"
-        },
-        {
-          "id": "new_york_times-2026-08-10T06:28:36-14",
-          "titulo": "Ben Jones, ator de 'Os Duques de Hazzard' e congressista, morre aos 84 anos",
-          "resumo": "Ele interpretou o mecânico Cooter Davenport na série de TV de sucesso antes de servir dois mandatos como congressista democrata da Geórgia.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/10/obituaries/ben-jones-dead.html",
-          "publicado_em": "2026-08-10T06:28:36-03:00"
+          "publicado_em": "2026-08-10T15:17:41.000Z"
         }
       ]
     },
