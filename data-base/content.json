@@ -18,95 +18,88 @@
     "the_guardian": {
       "slug": "the_guardian",
       "nome": "The Guardian",
-      "gerado_em": "2026-08-11T10:00:12.313Z",
+      "gerado_em": "2026-08-11T21:00:11.037Z",
       "artigos": [
         {
-          "id": "the_guardian-2026-08-07T21:44:38.000Z-01",
+          "id": "the_guardian-2026-08-07T21:44:38-01",
           "titulo": "Espanha introduzirá controles de fronteira temporários para visitantes da Itália",
           "resumo": "Medida vem em resposta a Roma impor medidas semelhantes após corrida de migração em massa para Ceuta. A Espanha anunciou que introduzirá controles de fronteira temporários para visitantes da Itália em resposta a Roma impor medidas semelhantes após uma corrida de migração em massa para Ceuta.",
           "imagem": null,
           "link": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
-          "publicado_em": "2026-08-07T21:44:38.000Z"
+          "fonte": "The Guardian",
+          "publicado_em": "2026-08-07T21:44:38-03:00"
         },
         {
-          "id": "the_guardian-2026-08-07T18:34:34.000Z-02",
+          "id": "the_guardian-2026-08-07T18:34:34-02",
           "titulo": "Juiz aprova esforço de Trump para encerrar proteções TPS para o Sudão do Sul",
           "resumo": "Decisão segue decisão do Supremo Tribunal que permitiu ao governo dos EUA retirar proteções para haitianos e sírios. O status de proteção temporária (TPS) para centenas de nacionais do Sudão do Sul nos EUA pode ser encerrado.",
           "imagem": null,
           "link": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
-          "publicado_em": "2026-08-07T18:34:34.000Z"
+          "fonte": "The Guardian",
+          "publicado_em": "2026-08-07T18:34:34-03:00"
         },
         {
-          "id": "the_guardian-2026-08-06T16:18:46.000Z-03",
-          "titulo": "Vírus Ebola pode estar mutando, dizem oficiais",
-          "resumo": "Casos ultrapassaram 4.000 e o órgão de vigilância da saúde planeja ir de porta em porta para encontrar pacientes em uma grande escalada de resposta. O vírus que causa um surto maciço de Ebola na República Democrática do Congo pode estar mutando.",
+          "id": "the_guardian-2026-08-06T16:18:46-03",
+          "titulo": "Vírus Ebola pode estar mutando, dizem autoridades",
+          "resumo": "Casos ultrapassam 4.000 e órgão de vigilância em saúde planeja ir de porta em porta para encontrar pacientes em uma grande escalada de resposta. O vírus que causa um surto maciço de Ebola na República Democrática do Congo pode estar mutando.",
           "imagem": null,
           "link": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
-          "publicado_em": "2026-08-06T16:18:46.000Z"
+          "fonte": "The Guardian",
+          "publicado_em": "2026-08-06T16:18:46-03:00"
         },
         {
-          "id": "the_guardian-2026-08-06T15:41:29.000Z-04",
-          "titulo": "EUA fecharão cinco consulados, temendo que a China possa preencher o vácuo diplomático",
-          "resumo": "Departamento de Estado informa ao Congresso sobre os fechamentos planejados no Canadá, Granada, Japão, Indonésia e Camarões. O Departamento de Estado dos EUA fechará cinco consulados e missões no exterior.",
+          "id": "the_guardian-2026-08-06T15:41:29-04",
+          "titulo": "EUA fecharão cinco consulados; críticos temem que China possa preencher vazio diplomático",
+          "resumo": "Departamento de Estado informa ao Congresso sobre fechamentos planejados no Canadá, Granada, Japão, Indonésia e Camarões. O Departamento de Estado dos EUA fechará cinco consulados e missões no exterior.",
           "imagem": null,
           "link": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
-          "publicado_em": "2026-08-06T15:41:29.000Z"
+          "fonte": "The Guardian",
+          "publicado_em": "2026-08-06T15:41:29-03:00"
         },
         {
-          "id": "the_guardian-2026-08-11T05:32:08.000Z-05",
-          "titulo": "Terremoto na Colômbia deixa mais de 110 mortos",
-          "resumo": "Pessoas permanecem presas em Cali, uma das maiores cidades da Colômbia, após mais de duas dúzias de estruturas terem desabado, disse o prefeito Alejandro Eder.",
+          "id": "the_guardian-2026-08-06T14:30:32-05",
+          "titulo": "Jogador de futebol ugandense é morto por ladrões armados com pedras",
+          "resumo": "David Owori, que jogou pela seleção nacional, morreu no hospital após tentar impedir que ladrões levassem seu telefone. A comunidade de futebol ugandense está de luto após a morte de um jogador que foi fatalmente atacado por ladrões.",
           "imagem": null,
-          "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-          "publicado_em": "2026-08-11T05:32:08.000Z"
+          "link": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala",
+          "fonte": "The Guardian",
+          "publicado_em": "2026-08-06T14:30:32-03:00"
         },
         {
-          "id": "the_guardian-2026-08-11T02:14:32.000Z-06",
+          "id": "the_guardian-2026-08-10T10:14:01-06",
           "titulo": "Terremoto na Colômbia deixa dezenas de mortos",
-          "resumo": "Terremoto de 7,4 graus de magnitude derruba e danifica gravemente prédios em várias cidades importantes, incluindo Cali e Pereira.",
+          "resumo": "Terremoto de 7,4 graus de magnitude derruba e danifica gravemente prédios em várias cidades, incluindo Cali e Pereira. Mais de 100 pessoas morreram após um terremoto poderoso atingir a Colômbia.",
           "imagem": null,
           "link": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
-          "publicado_em": "2026-08-11T02:14:32.000Z"
+          "fonte": "The Guardian",
+          "publicado_em": "2026-08-10T10:14:01-03:00"
         },
         {
-          "id": "the_guardian-2026-08-10T10:00:43.000Z-07",
-          "titulo": "Cineasta curdo relata força-bruta da ICE",
-          "resumo": "Gabar Choli conta como, por meses, foi algemado, imobilizado e forçado a se alimentar – e as cicatrizes físicas e emocionais que a experiência deixou.",
-          "imagem": null,
-          "link": "https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli",
-          "publicado_em": "2026-08-10T10:00:43.000Z"
-        },
-        {
-          "id": "the_guardian-2026-08-10T10:00:40.000Z-08",
-          "titulo": "Greve de fome curda diz que a força-bruta da ICE o 'quebrou mentalmente'",
-          "resumo": "Exclusivo: O cineasta Gabar Choli descreve como ele suportou um tratamento coercitivo durante oito meses em detenção no Texas.",
-          "imagem": null,
-          "link": "https://www.theguardian.com/us-news/2026/aug/10/kurdish-hunger-striker-ice-force-feeding",
-          "publicado_em": "2026-08-10T10:00:40.000Z"
-        },
-        {
-          "id": "the_guardian-2026-08-09T18:20:25.000Z-09",
-          "titulo": "Governo canadense intervém à medida que incêndios florestais 'fora de controle' forçam milhares a fugir",
-          "resumo": "Colúmbia Britânica luta contra 102 incêndios dia e noite em toda a província, à medida que a velocidade vertiginosa dificulta os esforços dos bombeiros.",
-          "imagem": null,
-          "link": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
-          "publicado_em": "2026-08-09T18:20:25.000Z"
-        },
-        {
-          "id": "the_guardian-2026-08-10T09:32:54.000Z-10",
-          "titulo": "Rastreador de clima: Europa quebra mais recordes de calor à medida que as temperaturas disparam",
-          "resumo": "Seca e incêndios florestais se intensificam em todo o continente, enquanto tempestades tropicais trazem chuva forte e interrupções para o leste da Ásia.",
+          "id": "the_guardian-2026-08-10T09:32:54-07",
+          "titulo": "Europa quebra mais recordes de calor à medida que as temperaturas disparam",
+          "resumo": "Seca e incêndios florestais se intensificam em todo o continente, enquanto tempestades tropicais trazem chuvas fortes e interrupções para a Ásia Oriental. A alta pressão dominou a Europa central e oriental no início de agosto, quebrando recordes de calor.",
           "imagem": null,
           "link": "https://www.theguardian.com/environment/2026/aug/10/weather-tracker-europe-break-heat-records-temperatures-drought-wildfires",
-          "publicado_em": "2026-08-10T09:32:54.000Z"
+          "fonte": "The Guardian",
+          "publicado_em": "2026-08-10T09:32:54-03:00"
         },
         {
-          "id": "the_guardian-2026-08-10T04:55:18.000Z-11",
-          "titulo": "Tufão Dolphin: mais de um milhão de pessoas evacuadas na China à medida que chuvas torrenciais atingem Xangai",
-          "resumo": "Autoridades alertam que dias de chuva intensa podem desencadear inundações generalizadas e deslizamentos de terra à medida que a tempestade se move para o norte e mais para o interior.",
+          "id": "the_guardian-2026-08-10T04:55:18-08",
+          "titulo": "Tufão Dolphin: mais de um milhão de pessoas evacuadas na China à medida que chuvas recordes caem sobre Xangai",
+          "resumo": "Autoridades alertam que dias de chuvas intensas podem desencadear inundações generalizadas e deslizamentos de terra à medida que a tempestade se move para o norte e mais para o interior. Mais de um milhão de pessoas foram evacuadas em toda a China Oriental.",
           "imagem": null,
           "link": "https://www.theguardian.com/world/2026/aug/10/typhoon-dolphin-china-shanghai-flooding-evacuations",
-          "publicado_em": "2026-08-10T04:55:18.000Z"
+          "fonte": "The Guardian",
+          "publicado_em": "2026-08-10T04:55:18-03:00"
+        },
+        {
+          "id": "the_guardian-2026-08-10T10:00:43-09",
+          "titulo": "Cineasta curdo relata ‘tratamento desumano’ de força-feeding pela ICE",
+          "resumo": "Gabar Choli conta como, por meses, foi algemado, imobilizado e forçado a se alimentar – e as cicatrizes físicas e emocionais que a provação deixou. Em junho de 2025, um Gabar Choli lento e magro, com olheiras, foi submetido a um tratamento desumano.",
+          "imagem": null,
+          "link": "https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli",
+          "fonte": "The Guardian",
+          "publicado_em": "2026-08-10T10:00:43-03:00"
         }
       ]
     },
