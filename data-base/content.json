@@ -169,18 +169,98 @@
     "euronews": {
       "slug": "euronews",
       "nome": "Euro News",
-      "gerado_em": "2026-08-11T10:00:20.748Z",
+      "gerado_em": "2026-08-11T21:00:19.258Z",
       "artigos": [
         {
-          "id": "euronews-2026-08-11-1001",
+          "id": "euronews-2026-08-11-2101",
+          "titulo": "Político e cientista bielorrusso Aliaksandr Milinkevich morre aos 79 anos",
+          "resumo": "O ex-laureado do Prêmio Sakharov concorreu contra Aliaksandr Lukashenka para a presidência da Bielorrússia em 2006.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/11/belarusian-opposition-politician-and-scientist-aliaksandr-milinkevich-dies-at-79",
+          "publicado_em": "2026-08-11T20:47:22.000Z"
+        },
+        {
+          "id": "euronews-2026-08-11-2102",
+          "titulo": "Balsa com 95 pessoas a bordo vira em lago no Zimbábue",
+          "resumo": "Os moradores usam a balsa para ir das partes rurais da região para a cidade de Kariba, que fica no lado norte do Lago Kariba, perto da fronteira com a Zâmbia.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/11/ferry-capsizes-on-lake-kariba-in-zimbabwe-with-95-people-on-board",
+          "publicado_em": "2026-08-11T19:37:20.000Z"
+        },
+        {
+          "id": "euronews-2026-08-11-2103",
+          "titulo": "Rússia liberta ex-fuzileiro naval dos EUA Robert Gilman após mais de quatro anos na prisão",
+          "resumo": "Gilman foi preso e detido na Rússia em 2022, acusado de agredir um policial após um incidente em um trem em Voronezh, ao sul de Moscou.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/11/russia-frees-former-us-marine-robert-gilman-after-more-than-four-years-in-prison",
+          "publicado_em": "2026-08-11T17:33:53.000Z"
+        },
+        {
+          "id": "euronews-2026-08-11-2108",
+          "titulo": "Equipes mexicanas devem chegar para lutar contra incêndio florestal no oeste do Canadá após 20.000 pessoas evacuarem",
+          "resumo": "A Polícia Montada Real do Canadá abriu uma investigação criminal sobre a causa do incêndio, que começou na sexta-feira.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/11/mexican-crews-expected-to-arrive-for-wildfire-fight-in-western-canada-after-20000-flee",
+          "publicado_em": "2026-08-11T14:06:49.000Z"
+        },
+        {
+          "id": "euronews-2026-08-11-2109",
+          "titulo": "Catar vê 'sinais positivos' nas negociações entre Irã e Omã sobre a reabertura do Estreito de Ormuz",
+          "resumo": "Doha disse que o Irã e Omã haviam alcançado a fase técnica das negociações e estavam finalizando as coordenadas da rota de navegação, mas advertiu contra atrasos, pois apenas seis navios passaram pelo Estreito de Ormuz na segunda-feira.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/11/qatar-sees-positive-signs-in-iran-oman-talks-on-reopening-hormuz",
+          "publicado_em": "2026-08-11T12:17:44.000Z"
+        },
+        {
+          "id": "euronews-2026-08-11-2110",
+          "titulo": "Rússia lança barragem noturna maciça na Ucrânia, matando nove pessoas",
+          "resumo": "A Rússia matou pelo menos nove pessoas na Ucrânia durante a noite de terça-feira, à medida que ataques de mísseis e drones atingiram Kiev, Zaporizhzhia e Dnipropetrovsk, de acordo com as autoridades regionais.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/08/11/russia-launches-massive-overnight-barrage-on-ukraine-leaving-nine-dead",
+          "publicado_em": "2026-08-11T11:52:46.000Z"
+        },
+        {
+          "id": "euronews-2026-08-11-2111",
+          "titulo": "Preços do petróleo e rendimentos dos títulos dos EUA sobem à medida que Trump e Irã trocam exigências de reparações",
+          "resumo": "Os preços do petróleo e os rendimentos dos títulos do governo dos EUA subiram na terça-feira após o presidente dos EUA, Donald Trump, responder à exigência do Irã de reparações de guerra com uma contrareivindicação abrangente, empurrando um acordo para resolver o impasse.",
+          "imagem": null,
+          "link": "http://www.euronews.com/business/2026/08/11/oil-prices-and-us-bond-yields-rise-as-trump-and-iran-trade-reparations-demands",
+          "publicado_em": "2026-08-11T11:25:37.000Z"
+        },
+        {
+          "id": "euronews-2026-08-11-2112",
+          "titulo": "Terremoto mortal no Colômbia atinge Manizales, danificando catedral e casas",
+          "resumo": "Manizales, no departamento de Caldas, no oeste da Colômbia, foi uma das áreas mais atingidas pelo terremoto de magnitude 7,4 na segunda-feira, com ruas cheias de escombros enquanto equipes de resgate procuravam por sobreviventes em prédios danificados.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/08/11/deadly-earthquake-in-colombia-hits-manizales-damaging-cathedral-and-homes",
+          "publicado_em": "2026-08-11T10:09:33.000Z"
+        },
+        {
+          "id": "euronews-2026-08-11-2114",
           "titulo": "Irã executa mulher que alegou legítima defesa contra agressão sexual",
-          "resumo": "Marzieh Nieri, 23, foi executada na Prisão Central de Qazvin após um tribunal rejeitar sua versão de ter ferido um homem que tentou agredi-la, aumentando o número de mulheres executadas no Irã desde...",
+          "resumo": "Marzieh Nieri, de 23 anos, foi executada na prisão central de Qazvin após um tribunal rejeitar sua versão de que feriu um homem que tentou agredi-la, aumentando o número de mulheres executadas no Irã desde o início do ano.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/11/iran-executes-woman-who-claimed-self-defence-against-sexual-assault",
           "publicado_em": "2026-08-11T09:13:23.000Z"
         },
         {
-          "id": "euronews-2026-08-11-1003",
+          "id": "euronews-2026-08-11-2115",
+          "titulo": "Síria condena Bashar al-Assad à morte por crimes de guerra e crimes contra a humanidade",
+          "resumo": "Um tribunal sírio condenou Bashar al-Assad e seu irmão Maher à morte, ambos ausentes, junto com seu primo Atef Najib, que compareceu ao julgamento em uma gaiola e foi considerado culpado de liderar uma milícia.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/11/syria-sentences-bashar-al-assad-to-death-in-absentia-for-war-crimes-and-crimes-against-hum",
+          "publicado_em": "2026-08-11T09:09:17.000Z"
+        },
+        {
+          "id": "euronews-2026-08-11-2116",
+          "titulo": "Primeiro-ministro da Austrália, Anthony Albanese, é criticado por piada sobre líder japonês",
+          "resumo": "Questionado se ele pediria desculpas por seu 'comportamento desrespeitoso' no parlamento na terça-feira, o líder australiano disse: 'Rejeito a afirmação na pergunta'.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/11/australias-pm-anthony-albanese-under-fire-for-melons-gag-about-japanese-leader",
+          "publicado_em": "2026-08-11T08:32:01.000Z"
+        },
+        {
+          "id": "euronews-2026-08-11-2117",
           "titulo": "Rússia disparou mísseis norte-coreanos em ataque que matou seis em Zaporizhzhia, diz Zelenskyy",
           "resumo": "O presidente da Ucrânia tem alertado repetidamente sobre os laços militares cada vez mais estreitos entre Moscou e Pyongyang, muitas vezes enquanto apela por mais suprimentos de defesa aérea ocidentais.",
           "imagem": null,
@@ -188,92 +268,60 @@
           "publicado_em": "2026-08-11T08:14:10.000Z"
         },
         {
-          "id": "euronews-2026-08-11-1004",
-          "titulo": "Resgatistas procuram sob os escombros em Cali após terremoto mais forte da Colômbia em décadas",
-          "resumo": "Resgatistas em Cali procuram sob os escombros após o terremoto mais forte da Colômbia neste século, que matou mais de 130 pessoas, deixou centenas feridas e muitas desaparecidas.",
+          "id": "euronews-2026-08-11-2118",
+          "titulo": "Equipes de resgate procuram sobreviventes em Cali após terremoto mais forte da Colômbia em décadas",
+          "resumo": "Equipes de resgate em Cali procuram sobreviventes após o terremoto mais forte da Colômbia neste século, que matou mais de 130 pessoas, deixou centenas feridas e muitas desaparecidas.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/08/11/rescuers-search-rubble-in-cali-as-colombias-strongest-quake-in-decades-hits",
           "publicado_em": "2026-08-11T06:53:49.000Z"
         },
         {
-          "id": "euronews-2026-08-11-1005",
-          "titulo": "Pelo menos 132 mortos e 570 feridos no terremoto mais forte da Colômbia em anos",
-          "resumo": "O presidente colombiano Abelardo de la Espriella, apenas três dias após ser empossado, declarou estado de emergência e prometeu um esforço de resgate concertado.",
+          "id": "euronews-2026-08-11-2119",
+          "titulo": "Pelo menos 169 mortos e mais de 600 feridos no terremoto mais forte da Colômbia em anos",
+          "resumo": "O presidente da Colômbia, Abelardo de la Espriella, apenas três dias após ser empossado, declarou estado de emergência e prometeu um esforço de resgate concertado.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/11/at-least-132-dead-570-injured-after-colombia-quake-cali-and-pereira-impose-curfew",
           "publicado_em": "2026-08-11T06:45:36.000Z"
         },
         {
-          "id": "euronews-2026-08-11-1006",
-          "titulo": "Incêndio em Huelva, na Espanha, ameaça casas, 800 pessoas evacuadas em meio a seca severa",
+          "id": "euronews-2026-08-11-2120",
+          "titulo": "Incêndio florestal na província de Huelva, na Espanha, ameaça casas, 800 pessoas evacuadas em meio a seca severa",
           "resumo": "Um grande incêndio florestal na província de Huelva, na Espanha, forçou a evacuação de 800 pessoas, queimou cerca de 20.000 hectares e ocorre durante a crise de seca que piora na Europa.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/08/11/spains-huelva-blaze-threatens-homes-800-evacuated-amid-severe-drought",
           "publicado_em": "2026-08-11T06:38:24.000Z"
         },
         {
-          "id": "euronews-2026-08-11-1007",
+          "id": "euronews-2026-08-11-2121",
           "titulo": "Rússia proíbe único partido anti-guerra de participar das eleições de setembro",
-          "resumo": "A decisão do Tribunal Supremo veio apenas dias após a Comissão Eleitoral Central ter aprovado por unanimidade o registro do partido, levantando especulações de que a aprovação inicial foi em si uma manobra do Kremlin.",
+          "resumo": "A decisão do Tribunal Supremo veio apenas dias após a Comissão Eleitoral Central ter aprovado por unanimidade o registro do partido, levantando especulações de que a aprovação inicial foi em si mesma uma manobra do Kremlin.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/11/russias-supreme-court-bars-anti-war-party-yabloko-from-parliamentary-elections",
           "publicado_em": "2026-08-11T05:05:21.000Z"
         },
         {
-          "id": "euronews-2026-08-11-1008",
-          "titulo": "Cazaquistão oferece anistia para criptomoedas na tentativa de trazer bilhões em ativos digitais para casa",
-          "resumo": "Astana introduziu incentivos fiscais e reformas regulatórias para encorajar investidores em criptomoedas a mover seus ativos digitais para plataformas licenciadas no país, na esperança de reviver uma indústria que largamente deixou...",
+          "id": "euronews-2026-08-11-2122",
+          "titulo": "Cazaquistão oferece anistia fiscal para trazer bilhões em ativos digitais para casa",
+          "resumo": "Astana introduziu incentivos fiscais e reformas regulatórias para encorajar investidores de criptomoedas a mover seus ativos digitais para plataformas licenciadas no país, na esperança de reviver uma indústria que em grande parte deixou o país.",
           "imagem": null,
           "link": "http://www.euronews.com/next/2026/08/11/kazakhstan-offers-crypto-amnesty-as-it-seeks-to-bring-billions-in-digital-assets-home",
           "publicado_em": "2026-08-11T05:00:48.000Z"
         },
         {
-          "id": "euronews-2026-08-11-1011",
-          "titulo": "Centenas de voos adicionais cancelados devido à Tempestade Tropical Dolphin, que causa inundações no leste da China",
-          "resumo": "Mais de 900 voos, ou cerca de 40% dos esperados, foram cancelados nos aeroportos de Hongqiao e Pudong, em Xangai, após cerca de 1.300 terem sido cancelados no dia anterior, de acordo com o Grupo Aeroportuário de Xangai.",
+          "id": "euronews-2026-08-11-2124",
+          "titulo": "Trump assina ordem que pede menos vacinas para crianças, contrariando conselhos de grupos médicos",
+          "resumo": "A ordem recomenda que todas as vacinasções de crianças sejam administradas em visitas separadas sempre que possível, o que havia sido bloqueado anteriormente por um juiz federal, e divide a vacina contra sarampo, caxumba e rubéola em doses separadas.",
+          "imagem": null,
+          "link": "http://www.euronews.com/health/2026/08/11/trump-signs-order-calling-for-fewer-childhood-vaccines-going-against-medical-groups-advice",
+          "publicado_em": "2026-08-11T04:31:18.000Z"
+        },
+        {
+          "id": "euronews-2026-08-11-2125",
+          "titulo": "Centenas de voos adicionais são cancelados devido à tempestade tropical Dolphin, que causa inundações no leste da China",
+          "resumo": "Mais de 900 voos, ou cerca de 40% dos previstos, foram cancelados nos aeroportos de Hongqiao e Pudong, em Xangai, após cerca de 1.300 terem sido cancelados no dia anterior, de acordo com o Grupo Aeroportuário de Xangai.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/11/hundreds-more-flights-cancelled-as-tropical-storm-dolphin-causes-flooding-in-eastern-china",
           "publicado_em": "2026-08-11T04:14:13.000Z"
-        },
-        {
-          "id": "euronews-2026-08-11-1016",
-          "titulo": "Estado de emergência declarado após terremoto na Colômbia que deixou 111 mortos",
-          "resumo": "O epicentro foi em San Jose Del Palmar, uma comunidade de cerca de 4.800 pessoas na região de Choco, a cerca de 400 km a oeste de Bogotá, de acordo com o Serviço Geológico dos EUA e o equivalente colombiano.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/10/powerful-66-magnitude-quake-rocks-colombia-geological-agency-says",
-          "publicado_em": "2026-08-10T13:42:57.000Z"
-        },
-        {
-          "id": "euronews-2026-08-11-1017",
-          "titulo": "Irã diz que Hormuz permanecerá fechado até que EUA paguem",
-          "resumo": "O porta-voz do Ministério das Relações Exteriores do Irã retrucou que os iranianos haviam \"mostrado que são jogadores de xadrez profissionais\" após Trump dizer que estava \"baixando o tom\" e comparar as negociações com Teerã a um jogo de xadrez.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/10/chess-player-iran-says-hormuz-stays-shut-until-us-pays-up",
-          "publicado_em": "2026-08-10T13:26:49.000Z"
-        },
-        {
-          "id": "euronews-2026-08-11-1018",
-          "titulo": "Incêndio em fábrica na Arábia Saudita mata 16 bangladeses, anuncia Dhaka",
-          "resumo": "O Ministério das Relações Exteriores de Bangladesh relatou \"as mortes trágicas de 16 nacionais bangladeses em um incêndio em uma fábrica de sofás em Riad\" em um comunicado de segunda-feira.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/10/saudi-factory-fire-kills-16-bangladeshis-dhaka-announces",
-          "publicado_em": "2026-08-10T12:56:56.000Z"
-        },
-        {
-          "id": "euronews-2026-08-11-1019",
-          "titulo": "Dias de chuva forte deixam pelo menos 13 mortos nas Filipinas, dizem resgatistas",
-          "resumo": "As Filipinas são a primeira grande massa de terra enfrentando o cinturão de ciclones do Pacífico e o arquipélago é atingido por uma média de 20 tempestades e tufões por ano.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/10/days-of-heavy-rain-leave-at-least-13-dead-in-philippines-rescuers-say",
-          "publicado_em": "2026-08-10T12:37:15.000Z"
-        },
-        {
-          "id": "euronews-2026-08-11-1022",
-          "titulo": "Seis rebeldes colombianos mortos em 'mensagem' do novo governo do presidente Abelardo de la Espriella",
-          "resumo": "Os seis mortos pelas forças colombianas no domingo incluem quatro membros de uma facção dissidente do antigo grupo guerrilheiro FARC, bem como dois membros do Cartel do Golfo, o principal cartel de drogas da Colômbia, em...",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/10/six-colombian-rebels-killed-in-message-by-president-abelardo-de-la-espriellas-new-governme",
-          "publicado_em": "2026-08-10T11:15:05.000Z"
         }
       ]
     },
