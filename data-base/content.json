@@ -6,9 +6,9 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Terremoto de 7,4 magnitude atinge a Colômbia",
-    "subtitulo": "Desastre natural deixa dezenas de mortos e muitos presos sob escombros, enquanto o mundo acompanha as notícias",
-    "resumo": "Um terremoto de 7,4 magnitude atingiu a Colômbia, causando destruição generalizada e deixando pelo menos 111 pessoas mortas. O terremoto, que ocorreu na região de Choco, a cerca de 400 km a oeste de Bogotá, também provocou evacuações e deixou muitas pessoas presas sob escombros. Enquanto o mundo acompanha as notícias, a comunidade internacional oferece apoio e ajuda humanitária ao país. Em outras notícias, a Ucrânia e a Rússia continuam a se envolver em conflitos, com a Ucrânia supostamente atacando uma planta petroquímica na Rússia. Além disso, a África do Sul está lidando com a violência de gênero, e o Quênia está passando por reformas políticas. A Austrália também está enfrentando desafios, com um terremoto na Colômbia e uma onda de calor que pode 'dividir' o rio Reno na Alemanha.",
+    "titulo": "Terremoto na Colômbia deixa mais de 110 mortos",
+    "subtitulo": "Enquanto o mundo acompanha a crise síria e as tensões entre Rússia e Ucrânia, um terremoto devastador atinge a Colômbia",
+    "resumo": "Um terremoto de magnitude 7,4 atingiu a Colômbia, deixando mais de 110 mortos e centenas de feridos. O terremoto, que ocorreu na região de Cali, também causou danos significativos em edifícios e infraestrutura. Enquanto isso, o mundo continua a acompanhar as tensões entre Rússia e Ucrânia, com a Rússia realizando ataques aéreos contra a Ucrânia. Além disso, a crise síria continua a se agravar, com a condenação à morte do ex-líder Bashar al-Assad por crimes contra a humanidade. A Espanha também introduziu controles de fronteira temporários para visitantes da Itália, em resposta às medidas semelhantes impostas por Roma.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-08-11T08:00:00-03:00",
     "link": null,
@@ -914,52 +914,51 @@
   "temas_principais": [
     {
       "tema": "Terremoto na Colômbia",
-      "descricao": "Terremoto de 7,4 magnitude deixa dezenas de mortos e muitos presos sob escombros",
+      "descricao": "Um terremoto de magnitude 7,4 atingiu a Colômbia, deixando mais de 110 mortos e centenas de feridos.",
       "fontes_que_cobriram": [
-        "the_guardian",
         "euronews",
-        "smh"
+        "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
         "rt"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a destruição e o número de mortos, enquanto a RT não cobriu o evento"
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a tragédia e os esforços de resgate, enquanto a Rússia Today destaca a resposta do governo colombiano."
     },
     {
-      "tema": "Conflito Ucrânia-Rússia",
-      "descricao": "Ucrânia supostamente ataca planta petroquímica na Rússia",
+      "tema": "Tensões entre Rússia e Ucrânia",
+      "descricao": "A Rússia realizou ataques aéreos contra a Ucrânia, exacerbando as tensões entre os dois países.",
       "fontes_que_cobriram": [
-        "the_guardian",
+        "rt",
         "mt"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "rt"
+        "smh"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a ação da Ucrânia, enquanto a RT não cobriu o evento"
+      "divergencia_de_enquadramento": "As fontes russas justificam os ataques como uma resposta às ações da Ucrânia, enquanto as fontes ucranianas e ocidentais condenam os ataques como uma agressão injustificada."
     },
     {
-      "tema": "Violência de gênero na África do Sul",
-      "descricao": "Presidente da África do Sul convoca homens para combater a violência de gênero",
+      "tema": "Crise síria",
+      "descricao": "A crise síria continua a se agravar, com a condenação à morte do ex-líder Bashar al-Assad por crimes contra a humanidade.",
       "fontes_que_cobriram": [
-        "aa"
+        "st",
+        "scmp"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian",
-        "euronews"
+        "aa"
       ],
-      "divergencia_de_enquadramento": "A AllAfrica destaca a iniciativa do presidente, enquanto as fontes ocidentais não cobrem o evento"
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a responsabilidade de Assad pelos crimes, enquanto as fontes sírias e russas questionam a legitimidade do tribunal que o condenou."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Reformas políticas no Quênia",
-      "por_que_importa": "O Quênia está passando por reformas políticas importantes",
-      "cobertura": "Apenas a AllAfrica cobriu o evento"
+      "tema": "Desnutrição na Somália",
+      "por_que_importa": "A desnutrição é um problema grave na Somália, com milhares de crianças em risco de morte.",
+      "cobertura": "Apenas a AllAfrica cobriu o tema, destacando a falta de financiamento para combater a desnutrição."
     },
     {
-      "tema": "Onda de calor na Europa",
-      "por_que_importa": "A onda de calor pode ter consequências graves para a saúde e o meio ambiente",
-      "cobertura": "Apenas o SMH cobriu o evento"
+      "tema": "Escassez de combustível na Mongólia",
+      "por_que_importa": "A Mongólia enfrenta uma grave escassez de combustível, com a Rússia sendo a principal fornecedora.",
+      "cobertura": "Apenas a Moscow Times cobriu o tema, destacando a dependência da Mongólia em relação à Rússia para o suprimento de combustível."
     }
   ]
 }
