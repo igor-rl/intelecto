@@ -6,9 +6,9 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Terremoto na Colômbia deixa mais de 110 mortos",
-    "subtitulo": "Enquanto o mundo acompanha a crise síria e as tensões entre Rússia e Ucrânia, um terremoto devastador atinge a Colômbia",
-    "resumo": "Um terremoto de magnitude 7,4 atingiu a Colômbia, deixando mais de 110 mortos e centenas de feridos. O terremoto, que ocorreu na região de Cali, também causou danos significativos em edifícios e infraestrutura. Enquanto isso, o mundo continua a acompanhar as tensões entre Rússia e Ucrânia, com a Rússia realizando ataques aéreos contra a Ucrânia. Além disso, a crise síria continua a se agravar, com a condenação à morte do ex-líder Bashar al-Assad por crimes contra a humanidade. A Espanha também introduziu controles de fronteira temporários para visitantes da Itália, em resposta às medidas semelhantes impostas por Roma.",
+    "titulo": "Terremoto na Colômbia deixa centenas de mortos",
+    "subtitulo": "Enquanto o mundo acompanha a tragédia, tensões geopolíticas se acirram em várias frentes",
+    "resumo": "Um terremoto de 7,4 magnitude atingiu a Colômbia, causando destruição em larga escala e deixando mais de 240 pessoas mortas. Enquanto equipes de resgate trabalham para encontrar sobreviventes, o mundo acompanha a tragédia. Em outro cenário, as tensões entre EUA e Irã se intensificam após um navio tentar quebrar o bloqueio dos portos iranianos, resultando em disparos de um helicóptero dos EUA. A Rússia, por sua vez, enfrenta críticas por suas exportações de trigo, que estão preparadas para atingir o nível mais baixo em uma década devido a ataques no Mar Negro. Além disso, a Ucrânia deu propostas aos negociadores dos EUA para encerrar a guerra com a Rússia, enquanto a Rússia diz que um acordo de base na Síria fortalecerá laços. Em meio a essas notícias, a África enfrenta desafios próprios, com a Libéria nomeando um general aposentado para chefiar a agência antidrogas e a Nigéria registrando a morte de 10 policiais e dois civis em um confronto com bandidos. A Austrália, por fim, acompanha as notícias ao vivo, com o RBA mantendo as taxas de juros e o terremoto na Colômbia deixando centenas de mortos.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-08-11T08:00:00-03:00",
     "link": null,
@@ -1007,51 +1007,38 @@
   "temas_principais": [
     {
       "tema": "Terremoto na Colômbia",
-      "descricao": "Um terremoto de magnitude 7,4 atingiu a Colômbia, deixando mais de 110 mortos e centenas de feridos.",
+      "descricao": "Um terremoto de 7,4 magnitude atingiu a Colômbia, causando destruição em larga escala e deixando mais de 240 pessoas mortas.",
       "fontes_que_cobriram": [
-        "euronews",
-        "st"
+        "the_guardian",
+        "new_york_times",
+        "st",
+        "smh"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
         "rt"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a tragédia e os esforços de resgate, enquanto a Rússia Today destaca a resposta do governo colombiano."
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a tragédia e os esforços de resgate, enquanto a Rússia destaca as consequências geopolíticas."
     },
     {
-      "tema": "Tensões entre Rússia e Ucrânia",
-      "descricao": "A Rússia realizou ataques aéreos contra a Ucrânia, exacerbando as tensões entre os dois países.",
+      "tema": "Tensões EUA-Irã",
+      "descricao": "Um navio tentou quebrar o bloqueio dos portos iranianos, resultando em disparos de um helicóptero dos EUA.",
       "fontes_que_cobriram": [
-        "rt",
-        "mt"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "smh"
-      ],
-      "divergencia_de_enquadramento": "As fontes russas justificam os ataques como uma resposta às ações da Ucrânia, enquanto as fontes ucranianas e ocidentais condenam os ataques como uma agressão injustificada."
-    },
-    {
-      "tema": "Crise síria",
-      "descricao": "A crise síria continua a se agravar, com a condenação à morte do ex-líder Bashar al-Assad por crimes contra a humanidade.",
-      "fontes_que_cobriram": [
+        "new_york_times",
         "st",
         "scmp"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "aa"
+        "rt",
+        "mt"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a responsabilidade de Assad pelos crimes, enquanto as fontes sírias e russas questionam a legitimidade do tribunal que o condenou."
+      "divergencia_de_enquadramento": "As fontes ocidentais destacam a ação dos EUA como legítima defesa, enquanto a Rússia e a China veem a medida como uma escalada desnecessária."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Desnutrição na Somália",
-      "por_que_importa": "A desnutrição é um problema grave na Somália, com milhares de crianças em risco de morte.",
-      "cobertura": "Apenas a AllAfrica cobriu o tema, destacando a falta de financiamento para combater a desnutrição."
-    },
-    {
-      "tema": "Escassez de combustível na Mongólia",
-      "por_que_importa": "A Mongólia enfrenta uma grave escassez de combustível, com a Rússia sendo a principal fornecedora.",
-      "cobertura": "Apenas a Moscow Times cobriu o tema, destacando a dependência da Mongólia em relação à Rússia para o suprimento de combustível."
+      "tema": "Crise na África",
+      "por_que_importa": "A África enfrenta desafios como a nomeação de um general aposentado para chefiar a agência antidrogas na Libéria e a morte de 10 policiais e dois civis em um confronto com bandidos na Nigéria.",
+      "cobertura": "A cobertura desses temas é limitada, com apenas algumas fontes africanas e ocidentais abordando essas questões."
     }
   ]
 }
