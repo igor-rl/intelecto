@@ -951,47 +951,55 @@
     "smh": {
       "slug": "smh",
       "nome": "The Sydney Morning Herald (SMH)",
-      "gerado_em": "2026-08-11T10:46:25.790Z",
+      "gerado_em": "2026-08-11T21:46:31.948Z",
       "artigos": [
         {
-          "id": "smh-2026-08-11-1001",
-          "titulo": "Educadores na linha em propostas de cortes de empregos na Zoos Victoria",
-          "resumo": "Os cortes de empregos na Zoos Victoria serão determinados dentro de semanas, enquanto os sindicatos pedem que a organização não corte funcionários que ensinam estudantes sobre vida selvagem e conservação.",
-          "link": "https://www.smh.com.au/politics/victoria/educators-on-the-line-in-proposed-zoos-victoria-job-cuts-20260810-p60mxx.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "imagem": "https://static.ffx.io/images/$zoom_0.1302%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/00417003b45e7400897feeb05009e18bb1749305",
-          "publicado_em": "2026-08-11T09:51:00-03:00"
+          "id": "smh-2026-08-11-2102",
+          "titulo": "Conselho de Sydney no centro de investigação de corrupção rejeita plano de transparência",
+          "resumo": "Os conselheiros do Conselho de Hills Shire votaram contra a divulgação pública de detalhes de reuniões com lobistas e desenvolvedores.",
+          "imagem": "https://static.ffx.io/images/$zoom_0.5171%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_25/t_crop_custom/q_86%2Cf_auto/5d7fa6e66cec22ac187a2ce51aba74fc79d055aa6b0a9baa5a69dee0dd2ca56f",
+          "link": "https://www.smh.com.au/national/nsw/sydney-council-at-centre-of-corruption-probe-rejects-transparency-plan-20260810-p60n27.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-08-11T21:27:11.000Z"
         },
         {
-          "id": "smh-2026-08-11-1002",
-          "titulo": "Mais de 100 postos de gasolina Metro Petroleums foram invadidos em todo o país",
-          "resumo": "A Metro Petroleum foi envolvida em uma invasão nacional que visava a venda de tabaco ilegal.",
-          "link": "https://www.smh.com.au/national/more-than-100-metro-petroleums-raided-nationwide-20260811-p60ng8.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/063a01b5011a4387916546d9b624d81f782f3c3a",
-          "publicado_em": "2026-08-11T09:47:08-03:00"
+          "id": "smh-2026-08-11-2103",
+          "titulo": "Plano de coalizão para reduzir a imigração",
+          "resumo": "A Coalizão vai anunciar um plano para reduzir a imigração para o seu nível mais baixo desde 2008.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/cac4f3e10a5e7f7deb5de44348de1790e1e640d1",
+          "link": "https://www.smh.com.au/national/coalition-plan-to-bring-down-migration-20260812-p60ni4.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-08-11T20:52:44.000Z"
         },
         {
-          "id": "smh-2026-08-11-1006",
-          "titulo": "Labor é criticado por restringir direitos de prisioneiros após vitória de chefe de gangue na corte",
-          "resumo": "O governo admitiu que a legislação para restringir o acesso ao ar fresco viola a carta de direitos humanos de Victoria, mas planeja aprovar a lei na câmara alta esta semana.",
-          "link": "https://www.smh.com.au/politics/victoria/labor-blasted-for-restricting-prisoner-rights-after-gangland-boss-s-court-victory-20260810-p60mxm.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "imagem": "https://static.ffx.io/images/$zoom_1.0341796875%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_8/t_crop_custom/q_86%2Cf_jpg/0c6f552edc56fb99fb15b4d49be04eb02cf07ba6",
-          "publicado_em": "2026-08-11T09:45:00-03:00"
+          "id": "smh-2026-08-11-2106",
+          "titulo": "Notícias da Austrália AO VIVO: RBA mantém as taxas de juros; mortos no terremoto na Colômbia ultrapassam 250",
+          "resumo": "Acompanhe as últimas notícias ao vivo da Austrália e do mundo.",
+          "imagem": "https://static.ffx.io/images/$zoom_0.2068%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/1ddcb0dd824f2597ffee72b48a0ebb4324923447",
+          "link": "https://www.smh.com.au/national/australia-news-live-rba-keeps-interest-rates-on-hold-colombia-quake-death-toll-tops-250-as-thousands-remain-missing-20260812-p60nhp.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-08-11T20:45:16.000Z"
         },
         {
-          "id": "smh-2026-08-11-1009",
-          "titulo": "Milhões de lares concluem o censo de 2026",
-          "resumo": "Os australianos preencherão o censo de 2026 esta noite, capturando um instantâneo de como as vidas e demografia mudaram nos últimos cinco anos.",
-          "link": "https://www.smh.com.au/national/millions-of-households-complete-2026-census-20260811-p60n4u.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/c95de96973a23e0610c8e037addfaa424454ce82",
-          "publicado_em": "2026-08-11T09:44:13-03:00"
+          "id": "smh-2026-08-11-2107",
+          "titulo": "Trump hesitante sobre declarar emergência nas eleições de meio de mandato",
+          "resumo": "A resposta críptica do presidente à ideia de declarar uma emergência de segurança nacional antes das eleições de novembro dá oxigênio a um apelo vindo de seus apoiadores na mídia de direita.",
+          "imagem": "https://static.ffx.io/images/$zoom_0.7313%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_350%2C$y_0/t_crop_custom/q_86%2Cf_auto/1ba471ae1f2aaffaea1724509a46ca687f676e99",
+          "link": "https://www.smh.com.au/world/north-america/stranger-things-have-happened-trump-coy-on-calling-midterm-elections-emergency-20260812-p60nh7.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-08-11T20:10:03.000Z"
         },
         {
-          "id": "smh-2026-08-11-1016",
-          "titulo": "Ordem de vacinação de Trump adiciona mais combustível ao fogo antivacina",
-          "resumo": "A ordem executiva do presidente dos EUA para reduzir o número de vacinas que as crianças americanas recebem pode não ter poder legal, mas normaliza a desinformação sobre vacinas.",
-          "link": "https://www.smh.com.au/world/north-america/trump-s-vaccine-order-adds-more-fuel-to-the-anti-vaccine-fire-20260811-p60nb9.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
-          "imagem": "https://static.ffx.io/images/$zoom_0.1309%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/ed60d7d9c8f6ca3fdddf9829ca89715d167372cc",
-          "publicado_em": "2026-08-11T09:30:00-03:00"
+          "id": "smh-2026-08-11-2108",
+          "titulo": "Vítimas do terremoto na Colômbia resgatadas",
+          "resumo": "Mais de 24 horas após um terremoto devastador atingir a Colômbia, sobreviventes estão sendo resgatados dos escombros.",
+          "imagem": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/d05e13eb649bd65f4e2f7e87e6665f2216a45b83",
+          "link": "https://www.smh.com.au/world/colombia-earthquake-victims-rescued-20260812-p60nho.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-08-11T19:57:09.000Z"
+        },
+        {
+          "id": "smh-2026-08-11-2113",
+          "titulo": "ASX deve cair, Wall Street recua à medida que o petróleo sobe devido à incerteza no Hormuz; resultados da CBA à frente",
+          "resumo": "As ações americanas caíram ligeiramente de seus recordes, enquanto os preços do petróleo continuam oscilando devido à incerteza sobre quando a guerra com o Irã permitirá que o petróleo flua livremente novamente.",
+          "imagem": "https://static.ffx.io/images/$zoom_0.2491178546224418%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_42/t_crop_custom/q_86%2Cf_auto/ec2c2c6cdde39dc4afa8cd2507e77d5ad1a93578",
+          "link": "https://www.smh.com.au/business/markets/asx-set-to-slide-wall-street-retreats-as-oil-rises-on-hormuz-uncertainty-cba-results-ahead-20260812-p60nha.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "publicado_em": "2026-08-11T19:19:45.000Z"
         }
       ]
     }
