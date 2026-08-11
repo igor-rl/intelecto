@@ -113,103 +113,63 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-08-11T10:00:00.860Z",
+      "gerado_em": "2026-08-11T21:00:01.482Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-08-11-1001",
-          "titulo": "Trump Disse Ter Usado Secretamente um Avião Militar para Deixar a Turquia em Meio a Ameaças",
-          "resumo": "O presidente Trump se escondeu em um contêiner de catering de aeroporto e foi levado a um avião militar para um voo secreto fora do país após a cúpula da OTAN no mês passado.",
+          "id": "new_york_times-2026-08-11-2101",
+          "titulo": "Como o Irã Adaptou Seus Ataques à Redução de Munições de Guerra dos EUA",
+          "resumo": "Os ataques iranianos que mataram três soldados americanos na Jordânia mostram como as habilidades de guerra do Irã evoluíram rapidamente, à medida que o Pentágono enfrenta uma escassez de interceptores.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/11/us/politics/iran-military-base-attacks-us-munitions.html",
+          "publicado_em": "2026-08-11T16:57:52.000Z"
+        },
+        {
+          "id": "new_york_times-2026-08-11-2102",
+          "titulo": "O Estoque de Mísseis dos EUA Está Perigosamente Baixo",
+          "resumo": "A guerra dos EUA com o Irã causou uma escassez crítica de armamentos. Isso deixa o exército americano vulnerável e complica os esforços de Washington para encerrar a guerra.",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/11/podcasts/the-daily/iran-us-missile-stockpile-trump.html",
+          "publicado_em": "2026-08-11T10:00:14.000Z"
+        },
+        {
+          "id": "new_york_times-2026-08-11-2103",
+          "titulo": "Trump Teria Usado Secretamente um Avião Militar para Deixar a Turquia Amidst Ameaças do Irã",
+          "resumo": "O presidente Trump se escondeu em um contêiner de catering de aeroporto e foi levado a um avião militar para uma viagem secreta fora do país após a cúpula da OTAN no mês passado.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html",
-          "publicado_em": "2026-08-11T04:01:30.000Z"
+          "publicado_em": "2026-08-11T16:46:36.000Z"
         },
         {
-          "id": "new_york_times-2026-08-11-1002",
-          "titulo": "Como uma Investigação de Contra-Inteligência sobre os Vínculos de Trump com a Rússia Foi Desviada",
-          "resumo": "Documentos divulgados pela Casa Branca lançam nova luz sobre o declínio de uma investigação frequentemente negligenciada do FBI em 2017.",
+          "id": "new_york_times-2026-08-11-2108",
+          "titulo": "O Número de Mortos no Terremoto na Colômbia Sobiu para Pelo Menos 181, enquanto Resgatistas Procuram Sobreviventes",
+          "resumo": "“Nós os ouvimos gritando”, disse um resgatista em Cali, onde trabalhadores de emergência e voluntários estão correndo contra o tempo para encontrar os vivos presos nos escombros.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/10/us/politics/trump-memos-russia-investigation.html",
-          "publicado_em": "2026-08-10T20:42:38.000Z"
+          "link": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html",
+          "publicado_em": "2026-08-11T20:11:24.000Z"
         },
         {
-          "id": "new_york_times-2026-08-11-1003",
-          "titulo": "Como o Neto de Raúl Castro, Raúl G. Rodríguez Castro, se Tornou um Intermediário de Poder",
-          "resumo": "O enviado da família Castro, Raúl G. Rodríguez Castro, que esteve em negociações com a administração Trump, foi mencionado em um caso que visava um anel de contrabando cubano.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/11/world/americas/raul-castro-trump-cuba.html",
-          "publicado_em": "2026-08-11T09:00:37.000Z"
-        },
-        {
-          "id": "new_york_times-2026-08-11-1009",
-          "titulo": "Uma Província Síria, Sweida, Teme uma Tomada de Controle do Governo",
-          "resumo": "Na província de Sweida, dominada pela minoria drusa do país, muitos dizem que é apenas uma questão de tempo antes de o governo central mover para afirmar o controle sobre a região.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-sweida-province-druse-government.html",
-          "publicado_em": "2026-08-11T09:00:20.000Z"
-        },
-        {
-          "id": "new_york_times-2026-08-11-1010",
-          "titulo": "Trump Quer Mover em Frente do Oriente Médio. Ele Não Está Deixando.",
-          "resumo": "O presidente Trump está ansioso para declarar sucesso no Irã e na Faixa de Gaza, mas ele está lutando para impor sua vontade em qualquer um dos conflitos.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/10/us/politics/trump-new-strategy-middle-east.html",
-          "publicado_em": "2026-08-11T02:34:23.000Z"
-        },
-        {
-          "id": "new_york_times-2026-08-11-1012",
-          "titulo": "Novas Evidências Mostram Agentes Usando Insultos, Fortalecendo Alegações de Perfilamento Racial",
-          "resumo": "Vídeos de câmeras corporais e outras evidências judiciais capturam agentes federais usando insultos e visando latinos enquanto ignoram transeuntes brancos durante varreduras de imigração em Chicago e Los Angeles.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/11/us/videos-ice-agents-racial-profiling.html",
-          "publicado_em": "2026-08-11T09:01:49.000Z"
-        },
-        {
-          "id": "new_york_times-2026-08-11-1013",
-          "titulo": "Segurança Nacional Intensifica Perseguição a Não-Cidadãos em Listas de Votantes",
-          "resumo": "Imigrantes que disseram ter se registrado para votar involuntariamente enquanto obtinham ou renovavam licenças de motorista estão cada vez mais enfrentando deportação sob a administração Trump.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/10/us/politics/noncitizens-vote-crackdown.html",
-          "publicado_em": "2026-08-11T01:04:33.000Z"
-        },
-        {
-          "id": "new_york_times-2026-08-11-1015",
-          "titulo": "Em um Verão de Miséria Climática, Empresas Confrontam a Necessidade de se Adaptar",
-          "resumo": "Ondas de calor repetidas, incêndios florestais, secas e tempestades estão solidificando a compreensão de que novos investimentos são inevitáveis.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/11/business/economy/climate-change-costs-economy-businesses.html",
-          "publicado_em": "2026-08-11T09:04:05.000Z"
-        },
-        {
-          "id": "new_york_times-2026-08-11-1018",
-          "titulo": "Terremoto Atinge a Colômbia, Matando Pelo Menos 111 Pessoas",
-          "resumo": "Equipes de resgate e pessoas comuns procuram por sobreviventes, e o número de mortos provavelmente aumentará. Mais de 1.500 casas foram danificadas, disse o presidente.",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/10/world/americas/earthquake-colombia-cali.html",
-          "publicado_em": "2026-08-11T00:14:45.000Z"
-        },
-        {
-          "id": "new_york_times-2026-08-11-1020",
-          "titulo": "O Que Sabemos Sobre o Terremoto na Colômbia",
-          "resumo": "O terremoto de 7,4 graus, que matou mais de 100 pessoas e danificou centenas de prédios, foi o mais forte registrado na Colômbia em uma década.",
+          "id": "new_york_times-2026-08-11-2109",
+          "titulo": "O que Sabemos sobre o Terremoto na Colômbia",
+          "resumo": "O terremoto de 7,4 magnitude, que matou mais de 100 pessoas e danificou centenas de prédios, foi o mais forte registrado na Colômbia em uma década.",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html",
-          "publicado_em": "2026-08-11T07:48:34.000Z"
+          "publicado_em": "2026-08-11T19:05:14.000Z"
         },
         {
-          "id": "new_york_times-2026-08-11-1023",
-          "titulo": "Como as Mídias Sociais Acenderam uma Crise de Refugiados entre a Espanha e o Marrocos",
-          "resumo": "Uma onda de desinformação online contribuiu para um aumento de migrantes no enclave espanhol de Ceuta que tentavam chegar à Europa, resultando em cerca de 90 mortes.",
+          "id": "new_york_times-2026-08-11-2112",
+          "titulo": "Administração Trump Acaba com o Relatório Anual do Ártico",
+          "resumo": "A parte superior do mundo está esquentando mais rápido do que qualquer outra região. Durante 20 anos, o Relatório do Ártico documentou a transformação extraordinária.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html",
-          "publicado_em": "2026-08-11T09:03:41.000Z"
+          "link": "https://www.nytimes.com/2026/08/11/climate/noaa-arctic-report-card.html",
+          "publicado_em": "2026-08-11T20:02:24.000Z"
         },
         {
-          "id": "new_york_times-2026-08-11-1024",
-          "titulo": "Laços Complexos da Espanha com o Marrocos Alimentam Especulações Sobre o Surto de Migrantes em Ceuta",
-          "resumo": "Rumores circularam de que o Marrocos, talvez estimulado por Israel e os EUA, organizou recentemente um desastre na fronteira. Essa especulação não comprovada, disseram especialistas, foi exacerbada pelas complicações da região.",
+          "id": "new_york_times-2026-08-11-2113",
+          "titulo": "Trump Processa Nova York e Outros Estados sobre Taxas de Matrícula para Imigrantes",
+          "resumo": "As ações judiciais da administração, que incluíram Connecticut e Vermont, desafiaram a legalidade de dar aos estudantes indocumentados taxas de matrícula mais baixas.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/11/world/europe/spain-ceuta-morocco-migrants.html",
-          "publicado_em": "2026-08-11T09:03:49.000Z"
+          "link": "https://www.nytimes.com/2026/08/11/nyregion/trump-lawsuit-new-york-tuition-immigrants.html",
+          "publicado_em": "2026-08-11T18:04:46.000Z"
         }
       ]
     },
