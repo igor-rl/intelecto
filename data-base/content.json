@@ -7,10 +7,10 @@
   "capa": {
     "categoria_nome": "O que marcou o dia?",
     "titulo": "Terremoto na Colômbia deixa centenas de mortos",
-    "subtitulo": "Enquanto o mundo acompanha a tragédia, tensões geopolíticas se acirram em várias frentes",
-    "resumo": "Um terremoto de 7,4 magnitude atingiu a Colômbia, causando destruição em larga escala e deixando mais de 240 pessoas mortas. Enquanto equipes de resgate trabalham para encontrar sobreviventes, o mundo acompanha a tragédia. Em outro cenário, as tensões entre EUA e Irã se intensificam após um navio tentar quebrar o bloqueio dos portos iranianos, resultando em disparos de um helicóptero dos EUA. A Rússia, por sua vez, enfrenta críticas por suas exportações de trigo, que estão preparadas para atingir o nível mais baixo em uma década devido a ataques no Mar Negro. Além disso, a Ucrânia deu propostas aos negociadores dos EUA para encerrar a guerra com a Rússia, enquanto a Rússia diz que um acordo de base na Síria fortalecerá laços. Em meio a essas notícias, a África enfrenta desafios próprios, com a Libéria nomeando um general aposentado para chefiar a agência antidrogas e a Nigéria registrando a morte de 10 policiais e dois civis em um confronto com bandidos. A Austrália, por fim, acompanha as notícias ao vivo, com o RBA mantendo as taxas de juros e o terremoto na Colômbia deixando centenas de mortos.",
+    "subtitulo": "Enquanto o mundo acompanha a crise, outros temas globais são eclipsados",
+    "resumo": "Um terremoto de 7,6 graus atingiu a Colômbia, causando a morte de mais de 200 pessoas e deixando centenas de feridos. Enquanto o país luta para resgatar sobreviventes, outros temas globais como a crise na Ucrânia, as tensões entre EUA e Irã, e a pandemia de ebola na África são eclipsados. A imprensa internacional dá destaque ao terremoto, mas também é possível notar uma cobertura seletiva, com alguns veículos priorizando certos temas em detrimento de outros. A Rússia, por exemplo, está mais focada em sua própria crise de grãos, enquanto a África é mais coberta pela imprensa local do que pela internacional. É importante considerar essas perspectivas para ter uma visão mais completa do que está acontecendo no mundo.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-08-11T08:00:00-03:00",
+    "publicado_em": "2026-08-12T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -859,38 +859,34 @@
   "temas_principais": [
     {
       "tema": "Terremoto na Colômbia",
-      "descricao": "Um terremoto de 7,4 magnitude atingiu a Colômbia, causando destruição em larga escala e deixando mais de 240 pessoas mortas.",
+      "descricao": "Um terremoto de 7,6 graus atingiu a Colômbia, causando mortes e destruição",
       "fontes_que_cobriram": [
-        "the_guardian",
-        "new_york_times",
-        "st",
-        "smh"
+        "euronews",
+        "the_guardian"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
         "rt"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a tragédia e os esforços de resgate, enquanto a Rússia destaca as consequências geopolíticas."
+      "divergencia_de_enquadramento": "A cobertura do terremoto variou entre os veículos, com alguns destacando a resposta de resgate e outros a crise humanitária"
     },
     {
-      "tema": "Tensões EUA-Irã",
-      "descricao": "Um navio tentou quebrar o bloqueio dos portos iranianos, resultando em disparos de um helicóptero dos EUA.",
+      "tema": "Crise na Ucrânia",
+      "descricao": "A crise na Ucrânia continua, com tensões entre Rússia e Ucrânia",
       "fontes_que_cobriram": [
-        "new_york_times",
-        "st",
-        "scmp"
+        "the_guardian",
+        "new_york_times"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "rt",
-        "mt"
+        "scmp"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais destacam a ação dos EUA como legítima defesa, enquanto a Rússia e a China veem a medida como uma escalada desnecessária."
+      "divergencia_de_enquadramento": "A cobertura da crise na Ucrânia variou entre os veículos, com alguns destacando a perspectiva russa e outros a ucraniana"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Crise na África",
-      "por_que_importa": "A África enfrenta desafios como a nomeação de um general aposentado para chefiar a agência antidrogas na Libéria e a morte de 10 policiais e dois civis em um confronto com bandidos na Nigéria.",
-      "cobertura": "A cobertura desses temas é limitada, com apenas algumas fontes africanas e ocidentais abordando essas questões."
+      "tema": "Pandemia de ebola na África",
+      "por_que_importa": "A pandemia de ebola na África é um tema importante que está sendo subcoberto pela imprensa internacional",
+      "cobertura": "A cobertura da pandemia de ebola na África é mais frequente na imprensa local do que na internacional"
     }
   ]
 }
