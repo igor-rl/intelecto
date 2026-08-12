@@ -382,159 +382,111 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-08-11T21:15:52.616Z",
+      "gerado_em": "2026-08-12T10:15:47.431Z",
       "artigos": [
         {
-          "id": "rt-2026-08-11-2101-01",
-          "titulo": "Soldados ucranianos presos relatam falta de suprimentos",
+          "id": "rt-2026-08-12-01",
+          "titulo": "Afeganistão garantirá rota ferroviária segura da Rússia para a Índia – porta-voz do Talibã",
+          "resumo": "O governo talibã do Afeganistão garantirá a segurança de uma linha férrea da Rússia para a Índia, disse um porta-voz do ministério da economia ao RT Índia",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7c3ebf85f5406baa7146bd.jpg",
+          "link": "https://www.rt.com/india/644155-afghanistan-safety-rail-route/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-12T10:12:39-03:00"
+        },
+        {
+          "id": "rt-2026-08-12-02",
+          "titulo": "Pagamentos internacionais são uma 'ferramenta da nova guerra' – principal banqueiro russo",
+          "resumo": "Os pagamentos transfronteiriços estão cada vez mais dependendo da infraestrutura financeira soberana para evitar a pressão estrangeira, diz Pyotr Fradkov, do PSB",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7c44ab2030277eaf14f369.jpg",
+          "link": "https://www.rt.com/russia/644157-international-payments-tool-warfare-russia-banker-psb/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-12T10:05:47-03:00"
+        },
+        {
+          "id": "rt-2026-08-12-03",
+          "titulo": "Putin adverte o Ocidente sobre a apreensão de navios",
+          "resumo": "Moscou está considerando uma retaliação equivalente às apreensões ocidentais de navios mercantes com cargas russas, alertou o presidente Vladimir Putin",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7c3aa185f5402e1a375d95.jpg",
+          "link": "https://www.rt.com/russia/644154-putin-western-cargo-ships/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-12T09:20:18-03:00"
+        },
+        {
+          "id": "rt-2026-08-12-04",
+          "titulo": "Mineros ilegais mortos em colapso de local de descarga na África do Sul",
+          "resumo": "A polícia sul-africana informou que pelo menos 14 supostos mineros ilegais foram mortos quando um local de descarga desabou perto de Rustenburg",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7c362585f5406baa7146af.jpg",
+          "link": "https://www.rt.com/africa/644148-illegal-miners-killed-south-africa-dump-site/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-12T09:05:49-03:00"
+        },
+        {
+          "id": "rt-2026-08-12-05",
+          "titulo": "Forças Aeroespaciais da Rússia: O que está no arsenal",
+          "resumo": "As Forças Aeroespaciais da Rússia celebram seu 11º aniversário como uma força multidomínio formidável",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7b351c85f5405361615531.jpg",
+          "link": "https://www.rt.com/russia/644089-aerospace-forces-day-showcase/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-12T09:03:32-03:00"
+        },
+        {
+          "id": "rt-2026-08-12-06",
+          "titulo": "Assessor de Trump comenta sobre a reação da Índia",
+          "resumo": "O assessor de Trump, Peter Navarro, que havia insultado a Índia para pressionar o governo, diz que foi 'bombardeado' online após os comentários",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7c307185f5406baa7146aa.jpg",
+          "link": "https://www.rt.com/india/644150-peter-navarro-backlash-firebombed/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-12T08:38:45-03:00"
+        },
+        {
+          "id": "rt-2026-08-12-07",
+          "titulo": "Reino Unido: maior fornecedor de energia emite aviso sobre eclipse solar",
+          "resumo": "O maior fornecedor de energia do Reino Unido pediu aos lares que reduzam o consumo de eletricidade, pois um eclipse solar está pressionando a rede de energia",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7b204a20302740b9554ff7.jpg",
+          "link": "https://www.rt.com/news/644111-uk-energy-solar-eclipse/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-12T07:54:34-03:00"
+        },
+        {
+          "id": "rt-2026-08-12-08",
+          "titulo": "Criança entre dois mortos em ataque de drone ucraniano no sul da Rússia",
+          "resumo": "Duas pessoas foram mortas e uma dúzia de outras ficaram feridas em um ataque de drone ucraniano na região de Krasnodar, disse o governador local",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7bfdec85f5405950525a4f.jpg",
+          "link": "https://www.rt.com/russia/644133-novorossiysk-krasondar-drone-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-12T05:12:18-03:00"
+        },
+        {
+          "id": "rt-2026-08-12-09",
+          "titulo": "Marinheiros de porta-aviões queimados dos EUA perto do Irã tentaram pular ao mar – mídia",
+          "resumo": "Marinheiros a bordo do USS Abraham Lincoln tentaram pular ao mar, enquanto as famílias expressavam preocupações com as condições no navio",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7be1382030277cfc314082.jpg",
+          "link": "https://www.rt.com/news/644132-sailors-burnt-out-ship-us/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-12T03:00:36-03:00"
+        },
+        {
+          "id": "rt-2026-08-12-10",
+          "titulo": "Empresa dos EUA sob fogo após funcionários serem advertidos contra fugir do terremoto na Colômbia (VÍDEO)",
+          "resumo": "A empresa de serviços médicos Blackstone, com sede nos EUA, enfrenta críticas após funcionários na Colômbia terem sido advertidos contra deixar o trabalho durante um terremoto mortal",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7b8211203027474d1ed085.jpg",
+          "link": "https://www.rt.com/news/644129-colombia-earthquake-us-firm-backlash/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-11T22:12:16-03:00"
+        },
+        {
+          "id": "rt-2026-08-12-11",
+          "titulo": "Soldados ucranianos presos sem suprimentos reclamam sobre beber sua própria urina (VÍDEO)",
           "resumo": "Um pelotão ucraniano afirma ter ficado preso por semanas sem suprimentos",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7b8f882030274d6e7d57f9.png",
           "link": "https://www.rt.com/russia/644130-ukraine-urine-drinking-platoon/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-11T21:11:13.000Z"
+          "publicado_em": "2026-08-11T21:11:13-03:00"
         },
         {
-          "id": "rt-2026-08-11-2102-02",
-          "titulo": "EUA enfrentam nova ameaça vermelha – por dentro",
-          "resumo": "Alguns militantes socialistas estão envenenando o Partido Democrata",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7b68ad85f54058da37f018.jpg",
-          "link": "https://www.rt.com/news/644119-us-democrats-red-menace/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-11T20:24:07.000Z"
+          "id": "rt-2026-08-12-12",
+          "titulo": "A UE não tem ideia de quem pagará o empréstimo de €90 bilhões à Ucrânia – deputado",
+          "resumo": "A UE ainda não sabe como a carga do empréstimo de €90 bilhões à Ucrânia será distribuída entre os estados-membros, disse o deputado Fabio De Masi",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7b6db785f5402e1a375d4f.jpg",
+          "link": "https://www.rt.com/news/644128-eu-cant-say-who-will-pay-for-ukraine-loan-mep/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-11T22:42:32-03:00"
         },
         {
-          "id": "rt-2026-08-11-2104-03",
-          "titulo": "Plano da UE de centros de migrantes na África está morto no início?",
-          "resumo": "O líder do Partido Popular Europeu, Manfred Weber, quer enviar migrantes ilegais para a África, mas os tribunais da UE podem bloquear as deportações",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7b52ff85f54058da37f00d.jpg",
-          "link": "https://www.rt.com/news/644118-eu-migrant-hubs-africa/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-11T17:33:10.000Z"
-        },
-        {
-          "id": "rt-2026-08-11-2105-04",
-          "titulo": "Por que o FBI está trabalhando com a China e a Rússia, apesar de tudo",
-          "resumo": "Uma reviravolta inesperada está redesenhando a segurança global além das antigas rivalidades, à medida que o FBI trabalha com a Rússia e a China",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7b546c85f54059904cf5c3.jpg",
-          "link": "https://www.rt.com/news/644113-fbi-china-russia-cooperation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-11T16:58:35.000Z"
-        },
-        {
-          "id": "rt-2026-08-11-2106-05",
-          "titulo": "Fyodor Lukyanov: Rússia deve encerrar a guerra na Ucrânia em seus próprios termos",
-          "resumo": "A antiga ordem transatlântica está se enfraquecendo, mas Moscou não pode se dar ao luxo de esperar que as divisões ocidentais resolvam o conflito ucraniano",
+          "id": "rt-2026-08-12-13",
+          "titulo": "Fyodor Lukyanov: A Rússia deve encerrar a guerra na Ucrânia em seus próprios termos",
+          "resumo": "A antiga ordem transatlântica está se enfraquecendo, mas Moscou não pode esperar que as divisões ocidentais resolvam o conflito ucraniano",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7b1d4120302744211fee44.jpg",
           "link": "https://www.rt.com/news/644108-fyodor-lukyanov-russia-must-end/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-11T16:38:49.000Z"
-        },
-        {
-          "id": "rt-2026-08-11-2107-06",
-          "titulo": "Ucrânia vai reenterrar outro colaborador nazista",
-          "resumo": "A Ucrânia exumou o fundador da OUN, Evgeny Konovalets, que colaborou com a Alemanha nazista, nos Países Baixos para reenterro em Kiev",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7b339185f54065531649ba.jpg",
-          "link": "https://www.rt.com/russia/644116-ukraine-rebury-nazi-collaborator/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-11T15:35:28.000Z"
-        },
-        {
-          "id": "rt-2026-08-11-2108-07",
-          "titulo": "Dezenas de militantes mortos em batalha de base militar no Mali",
-          "resumo": "O exército do Mali disse que suas tropas e pessoal aliado mataram mais de 50 terroristas que atacaram uma base militar em San",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7b1bf320302719381c65ba.png",
-          "link": "https://www.rt.com/africa/644106-dozens-militants-killed-mali-army-base-battle/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-11T15:19:40.000Z"
-        },
-        {
-          "id": "rt-2026-08-11-2109-08",
-          "titulo": "Rússia libertou ex-fuzileiro naval dos EUA Robert Gilman por 'motivos humanitários' – Trump",
-          "resumo": "Moscou libertou o ex-fuzileiro naval dos EUA Robert Gilman devido à sua saúde mental em deterioração",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7b514385f54048a32b5db3.png",
-          "link": "https://www.rt.com/russia/644117-russia-frees-ex-us-marine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-11T15:12:41.000Z"
-        },
-        {
-          "id": "rt-2026-08-11-2110-09",
-          "titulo": "Surto de ebola: EUA estão em pânico com novas restrições de viagem?",
-          "resumo": "Os EUA estão restringindo as viagens à medida que os casos de ebola aumentam na República Democrática do Congo, apesar do CDC avaliar o risco para os americanos como baixo",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7b173985f54058da37effc.jpg",
-          "link": "https://www.rt.com/africa/644104-drc-ebola-us-travel-bans/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-11T14:27:54.000Z"
-        },
-        {
-          "id": "rt-2026-08-11-2111-10",
-          "titulo": "Especialista em política externa analisa as opções da Índia sobre o pacto de Meca (VÍDEO)",
-          "resumo": "A Índia deve aprofundar as parcerias existentes e aumentar a prontidão de defesa para enfrentar a nova 'realidade preocupante', diz Robinder Nath Sachdev",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7b265a2030271e1a73ae0d.jpg",
-          "link": "https://www.rt.com/india/644112-india-response-mecca-pact/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-11T14:08:53.000Z"
-        },
-        {
-          "id": "rt-2026-08-11-2112-11",
-          "titulo": "Suécia critica a Espanha por anistia a migrantes",
-          "resumo": "O primeiro-ministro sueco Ulf Kristersson disse que a anistia de migrantes da Espanha pode desencadear uma nova crise em meio a uma divisão da UE sobre Ceuta",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7b17dc85f540338565beff.jpg",
-          "link": "https://www.rt.com/news/644107-sweden-slams-spain-migrant-amnesty/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-11T13:14:50.000Z"
-        },
-        {
-          "id": "rt-2026-08-11-2113-12",
-          "titulo": "Nenhuma licença para matar: este país insiste em seu direito de processar tropas britânicas",
-          "resumo": "À medida que as negociações sobre um novo acordo de defesa estagnam, o Quênia insiste que deve ter todos os direitos para investigar crimes cometidos em seu solo",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a79fec085f540459b2b8f80.jpg",
-          "link": "https://www.rt.com/africa/644062-kenya-seeks-jurisdiction-over-british-troops-crimes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-11T12:39:03.000Z"
-        },
-        {
-          "id": "rt-2026-08-11-2114-13",
-          "titulo": "BRICS discute interconexão de sistemas de pagamento e moedas digitais",
-          "resumo": "As nações do BRICS estão em negociações para interligar seus sistemas de pagamento, o que oferece 'muito espaço para reduzir custos', diz o governador do banco central da Índia",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7b1397203027132b123fb7.jpg",
-          "link": "https://www.rt.com/india/644105-brics-payment-systems-cbdc/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-11T12:22:34.000Z"
-        },
-        {
-          "id": "rt-2026-08-11-2115-14",
-          "titulo": "Oposição búlgara pede expulsão do embaixador ucraniano",
-          "resumo": "O líder da oposição búlgara, Kostadin Kostadinov, pediu a expulsão do embaixador ucraniano devido a incidentes de segurança recentes",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7afbd785f5405950525a18.jpg",
-          "link": "https://www.rt.com/russia/644094-bulgaria-ukraine-envoy-expulsion/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-11T10:42:08.000Z"
-        },
-        {
-          "id": "rt-2026-08-11-2116-15",
-          "titulo": "Kiev falta de vontade política para combater a corrupção – chefe anticorrupção",
-          "resumo": "Os chefes das agências anticorrupção da Ucrânia alertaram que os riscos de corrupção estão aumentando, particularmente no setor de defesa",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7af90b85f54073a7047c65.jpg",
-          "link": "https://www.rt.com/russia/644099-ukraine-corruption-getting-worse/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-11T10:34:34.000Z"
-        },
-        {
-          "id": "rt-2026-08-11-2117-16",
-          "titulo": "Ataques de drones colocam a maior refinaria da Líbia em risco de fechamento",
-          "resumo": "A Corporação Nacional de Petróleo da Líbia disse que ataques de drones repetidos podem forçar o fechamento da maior refinaria em operação do país",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7ae90220302715737e39b4.jpg",
-          "link": "https://www.rt.com/africa/644100-drone-attacks-libya-noc-warns-zawiya-oil-refining-company-closure/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-11T09:31:24.000Z"
-        },
-        {
-          "id": "rt-2026-08-11-2118-17",
-          "titulo": "Israel silencia enquanto Moscou busca respostas sobre historiador desaparecido",
-          "resumo": "O historiador russo-israelense Artyom Kirpichenok está desaparecido desde que chegou a Israel, com colegas dizendo que ele foi detido pelo Shin Bet",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7ae287203027164d2c2b88.jpg",
-          "link": "https://www.rt.com/russia/644101-israel-silent-missing-historian/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-11T09:15:22.000Z"
-        },
-        {
-          "id": "rt-2026-08-11-2119-18",
-          "titulo": "Índia revive produção de caças Su-30MKI russos",
-          "resumo": "A Índia está revivendo a produção de caças Su-30MKI russos, com 12 novas aeronaves a serem fabricadas na fábrica HAL em Nashik",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7ae44285f540558075b573.jpg",
-          "link": "https://www.rt.com/india/644102-india-revives-sukhoi30mki-production/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-11T09:07:45.000Z"
-        },
-        {
-          "id": "rt-2026-08-11-2120-19",
-          "titulo": "Tribunal dos EUA arquiva caso criminal contra bilionário indiano",
-          "resumo": "Um juiz dos EUA arquivou o caso de suborno contra o bilionário Gautam Adani, após o DOJ dizer que era um caso principalmente estrangeiro e difícil de provar",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7acea32030271b025942b6.jpg",
-          "link": "https://www.rt.com/india/644098-us-criminal-case-adani/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-11T07:40:49.000Z"
+          "publicado_em": "2026-08-11T16:38:49-03:00"
         }
       ]
     },
