@@ -5,10 +5,10 @@
   "itens_urgentes": {},
   "destaques": [],
   "capa": {
-    "categoria_nome": "O que marcou o dia?",
-    "titulo": "Terremoto na Colômbia deixa centenas de mortos",
-    "subtitulo": "Enquanto o mundo acompanha a crise, outros temas globais são eclipsados",
-    "resumo": "Um terremoto de 7,6 graus atingiu a Colômbia, causando a morte de mais de 200 pessoas e deixando centenas de feridos. Enquanto o país luta para resgatar sobreviventes, outros temas globais como a crise na Ucrânia, as tensões entre EUA e Irã, e a pandemia de ebola na África são eclipsados. A imprensa internacional dá destaque ao terremoto, mas também é possível notar uma cobertura seletiva, com alguns veículos priorizando certos temas em detrimento de outros. A Rússia, por exemplo, está mais focada em sua própria crise de grãos, enquanto a África é mais coberta pela imprensa local do que pela internacional. É importante considerar essas perspectivas para ter uma visão mais completa do que está acontecendo no mundo.",
+    "categoria_nome": "Desastres e Conflitos",
+    "titulo": "Naufrágio no Lago Kariba",
+    "subtitulo": "Pelo menos 44 mortos e dezenas de desaparecidos após ferry superlotado capotar no Zimbábue",
+    "resumo": "Um ferry superlotado capotou no Lago Kariba, no Zimbábue, resultando em pelo menos 44 mortos e dezenas de desaparecidos. A operação de resgate está em andamento. Enquanto isso, em outras partes do mundo, a tensão política e os conflitos continuam. A Espanha introduzirá controles de fronteira temporários para visitantes da Itália, enquanto a Rússia e a Ucrânia continuam em conflito. Além disso, a Colômbia declara luto de três dias para as vítimas de um terremoto recente. Os temas mais discutidos nos jornais incluem o naufrágio no Lago Kariba, a introdução de controles de fronteira na Espanha, o conflito entre a Rússia e a Ucrânia e o terremoto na Colômbia.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-08-12T08:00:00-03:00",
     "link": null,
@@ -982,35 +982,38 @@
   },
   "temas_principais": [
     {
-      "tema": "Terremoto na Colômbia",
-      "descricao": "Um terremoto de 7,6 graus atingiu a Colômbia, causando mortes e destruição",
-      "fontes_que_cobriram": [
-        "euronews",
-        "the_guardian"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "rt"
-      ],
-      "divergencia_de_enquadramento": "A cobertura do terremoto variou entre os veículos, com alguns destacando a resposta de resgate e outros a crise humanitária"
-    },
-    {
-      "tema": "Crise na Ucrânia",
-      "descricao": "A crise na Ucrânia continua, com tensões entre Rússia e Ucrânia",
+      "tema": "Naufrágio no Lago Kariba",
+      "descricao": "Pelo menos 44 mortos e dezenas de desaparecidos após ferry superlotado capotar no Zimbábue",
       "fontes_que_cobriram": [
         "the_guardian",
-        "new_york_times"
+        "aa"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "scmp"
+        "rt",
+        "st"
       ],
-      "divergencia_de_enquadramento": "A cobertura da crise na Ucrânia variou entre os veículos, com alguns destacando a perspectiva russa e outros a ucraniana"
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a tragédia e a necessidade de ajuda humanitária, enquanto as fontes russas e chinesas destacam a importância da cooperação internacional para prevenir desastres semelhantes."
+    },
+    {
+      "tema": "Conflito entre a Rússia e a Ucrânia",
+      "descricao": "Continuação dos conflitos e tensões entre a Rússia e a Ucrânia",
+      "fontes_que_cobriram": [
+        "rt",
+        "mt",
+        "st"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "the_guardian",
+        "aa"
+      ],
+      "divergencia_de_enquadramento": "As fontes russas e ucranianas têm narrativas opostas sobre a origem e a responsabilidade pelo conflito, enquanto as fontes ocidentais tendem a apoiar a Ucrânia."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Pandemia de ebola na África",
-      "por_que_importa": "A pandemia de ebola na África é um tema importante que está sendo subcoberto pela imprensa internacional",
-      "cobertura": "A cobertura da pandemia de ebola na África é mais frequente na imprensa local do que na internacional"
+      "tema": "Terremoto na Colômbia",
+      "por_que_importa": "O terremoto resultou em muitas vítimas e danos materiais, e a Colômbia precisa de ajuda humanitária",
+      "cobertura": "Apenas alguns jornais, como o SMH, deram destaque ao terremoto"
     }
   ]
 }
