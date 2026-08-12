@@ -652,167 +652,124 @@
     "mt": {
       "slug": "mt",
       "nome": "The Moscow Times",
-      "gerado_em": "2026-08-12T10:46:04.876Z",
+      "gerado_em": "2026-08-12T21:46:08.119Z",
       "artigos": [
         {
-          "id": "mt-2026-08-12-01",
-          "titulo": "Putin Ameaça Retaliação se Europa Apoderar-se de Navios Russos",
-          "resumo": "O aviso segue a adoção pela UE de um mecanismo que permite aos estados-membros apoderar-se e vender petróleo russo transportado a bordo de navios da frota sombra.",
+          "id": "mt-2026-08-12-2104",
+          "titulo": "Fórum de Drones de Combate Russo Adiado devido a Medo de Ataque Ucraniano",
+          "resumo": "Os organizadores disseram que o evento Dronnitsa exigiria desviar defesas aéreas e pessoal de segurança de outros locais.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/12/russian-combat-drone-forum-postponed-over-fears-of-ukrainian-attack-a93476",
+          "fonte": "The Moscow Times",
+          "publicado_em": "2026-08-12T14:05:00.000Z"
+        },
+        {
+          "id": "mt-2026-08-12-2106",
+          "titulo": "3 Mortos, 2 Terminais de Grãos Param de Funcionar em Novorossiysk Após Ataque Ucraniano, Dizem Fontes",
+          "resumo": "Dois dos maiores terminais de grãos de Novorossiysk pararam de funcionar na quarta-feira, disseram fontes da indústria à Reuters.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/12/drones-kill-one-reportedly-halt-work-at-novorossiysk-grain-terminal-a93465",
+          "fonte": "The Moscow Times",
+          "publicado_em": "2026-08-12T12:50:00.000Z"
+        },
+        {
+          "id": "mt-2026-08-12-2107",
+          "titulo": "Região de Orenburg Impõe Racionamento de Combustível Após Ataque Ucraniano a Refinaria",
+          "resumo": "Orenburg é a 16ª região relatada a enfrentar novas interrupções no fornecimento de combustível após um breve período de estabilização no final de julho.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/12/orenburg-region-imposes-fuel-rationing-after-ukrainian-refinery-attack-a93468",
+          "fonte": "The Moscow Times",
+          "publicado_em": "2026-08-12T11:11:21.000Z"
+        },
+        {
+          "id": "mt-2026-08-12-2108",
+          "titulo": "Putin Ameaça com Retaliação se a Europa Apoderar-se de Navios Russos",
+          "resumo": "O aviso segue a adoção pela UE de um mecanismo que permite que os estados-membros apoderem-se e vendam petróleo russo transportado a bordo de navios da frota sombra.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/12/putin-threatens-retaliation-if-europe-seizes-russian-ships-a93470",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-08-12T10:10:46.000Z"
         },
         {
-          "id": "mt-2026-08-12-02",
-          "titulo": "Rússia Forçada a Importar Gasolina da Índia Amidar Escassez Doméstica",
-          "resumo": "Moscou anteriormente dependia principalmente de importações de combustível da Bielorrússia e do Cazaquistão em resposta à campanha de drones da Ucrânia.",
+          "id": "mt-2026-08-12-2109",
+          "titulo": "Rússia Forçada a Importar Gasolina da Índia Amidst Escassez Doméstica",
+          "resumo": "Moscou anteriormente dependia principalmente de importações de combustível de Belarus e Cazaquistão em resposta à campanha de drones da Ucrânia.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/12/russia-forced-to-import-gasoline-from-india-amid-domestic-shortages-a93466",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-08-12T09:55:49.000Z"
         },
         {
-          "id": "mt-2026-08-12-03",
-          "titulo": "Apple Remove o Aplicativo de Serviço de Pagamento da Yandex",
-          "resumo": "A Apple não comentou publicamente sobre a remoção, embora tenha delistado aplicativos vinculados a entidades russas sancionadas nos últimos meses.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/08/12/apple-removes-yandexs-payment-service-app-a93464",
-          "publicado_em": "2026-08-12T08:31:17.000Z"
-        },
-        {
-          "id": "mt-2026-08-12-04",
-          "titulo": "Um Morto, 2 Terminais de Grãos Param de Funcionar em Novorossiysk Após Ataque Ucraniano, Dizem Fontes",
-          "resumo": "Um dos maiores terminais de grãos de Novorossiysk parou de funcionar na quarta-feira, disseram fontes da indústria à Reuters.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/08/12/drones-kill-one-reportedly-halt-work-at-novorossiysk-grain-terminal-a93465",
-          "publicado_em": "2026-08-12T08:13:00.000Z"
-        },
-        {
-          "id": "mt-2026-08-12-05",
-          "titulo": "Exportações de Trigo Russo Preparam-se para o Mínimo em uma Década em Agosto Amidar Ataques no Mar Negro",
+          "id": "mt-2026-08-12-2111",
+          "titulo": "Exportações de Trigo Russo Preparam-se para um Mínimo de uma Década em Agosto Amidst Ataques no Mar Negro",
           "resumo": "Rússia e Ucrânia vêm atacando mutuamente instalações de exportação agrícola e navios comerciais no Mar Negro nas últimas semanas, impulsionando os preços do trigo nos mercados globais.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/11/russian-wheat-exports-brace-for-decade-low-in-august-amid-black-sea-attacks-a93462",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-08-11T14:59:38.000Z"
         },
         {
-          "id": "mt-2026-08-12-06",
-          "titulo": "Rússia Diz que Acordo de Base na Síria Fortalecerá Laços, Fonte Diz que Algumas Forças Russas Permanecerão",
-          "resumo": "A base naval e a base aérea sempre foram os principais pontos de apoio militar de Moscou no Mediterrâneo e no Oriente Médio.",
+          "id": "mt-2026-08-12-2112",
+          "titulo": "Rússia Diz que Acordo de Base na Síria Fortalecerá Laços, Diz Fonte que Algumas Forças Russas Permanecerão",
+          "resumo": "A base naval e a base aérea têm sido os principais pontos de apoio militar de Moscou no Mediterrâneo e no Oriente Médio.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/11/russia-says-syria-base-deal-will-boost-ties-source-says-some-russian-forces-will-stay-a93444",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-08-11T14:11:00.000Z"
         },
         {
-          "id": "mt-2026-08-12-07",
-          "titulo": "À Medida que a Rússia Retira Direitos de Opositores do Regime no Exílio, Muitos Não Sabem se Devem se Preocupar",
-          "resumo": "Restrições abrangentes podem causar dores de cabeça sérias para alguns russos que vivem no exterior.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/08/11/as-russia-strips-rights-from-exiled-regime-opponents-many-dont-know-if-they-should-worry-a93459",
-          "publicado_em": "2026-08-11T14:02:47.000Z"
-        },
-        {
-          "id": "mt-2026-08-12-08",
-          "titulo": "Banco Central da Rússia Propõe Quadro para Negociação Pública de Principais Criptomoedas",
-          "resumo": "A proposta permitiria que os investidores negociem Bitcoin, Ether e Tether em bolsas russas oficiais, estabelecendo uma infraestrutura regulamentada para negociação de criptomoedas que deve entrar em vigor no próximo mês.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/08/11/russias-central-bank-proposes-framework-for-publicly-trading-major-cryptocurrencies-a93460",
-          "publicado_em": "2026-08-11T13:10:09.000Z"
-        },
-        {
-          "id": "mt-2026-08-12-09",
-          "titulo": "Putin Indulta Ex-fuzileiro Naval dos EUA Preso na Rússia – Reuters",
-          "resumo": "Funcionários dos EUA disseram que Robert Gilman seria transportado em um avião do Departamento de Estado da Rússia para o Aeroporto Washington Dulles.",
+          "id": "mt-2026-08-12-2115",
+          "titulo": "Putin Concede Anistia a Ex-fuzileiro Naval dos EUA Preso na Rússia – Reuters",
+          "resumo": "Oficiais dos EUA disseram que Robert Gilman seria transportado em um avião do Departamento de Estado da Rússia para o Aeroporto Washington Dulles.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/11/putin-pardons-former-us-marine-imprisoned-in-russia-reuters-a93457",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-08-11T11:17:00.000Z"
         },
         {
-          "id": "mt-2026-08-12-10",
-          "titulo": "Mongólia Diz que a Rússia Concordou em Enviar Suprimentos de Combustível de Emergência Amidar Escassez",
-          "resumo": "A Rússia é responsável por até 97% das importações de gasolina e diesel da Mongólia.",
+          "id": "mt-2026-08-12-2116",
+          "titulo": "Mongólia Diz que a Rússia Concordou em Enviar Suprimentos de Combustível de Emergência Amidst Escassez",
+          "resumo": "A Rússia responde por até 97% das importações de gasolina e diesel da Mongólia.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/11/mongolia-says-russia-agreed-to-send-emergency-fuel-supplies-amid-shortages-a93455",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-08-11T09:48:27.000Z"
         },
         {
-          "id": "mt-2026-08-12-11",
-          "titulo": "Um Morto em Ataque Ucraniano ao Centro Logístico da Wildberries em Voronezh",
+          "id": "mt-2026-08-12-2117",
+          "titulo": "Um Morto em Ataque Ucraniano a Centro Logístico da Wildberries em Voronezh",
           "resumo": "O varejista online disse que evacuou funcionários da instalação após um incêndio ter começado durante os ataques com drones durante a noite.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/11/one-killed-in-ukrainian-strike-on-wildberries-logistics-center-in-voronezh-a93454",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-08-11T07:39:00.000Z"
         },
         {
-          "id": "mt-2026-08-12-12",
+          "id": "mt-2026-08-12-2118",
           "titulo": "Supremo Tribunal Russo Proíbe o Partido Yabloko de Participar das Eleições da Duma Estadual",
           "resumo": "A decisão remove o único partido registrado que faz campanha em uma plataforma pró-paz da cédula de partido nacional.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/10/russian-supreme-court-bars-yabloko-party-from-election-a93452",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-08-10T16:58:00.000Z"
         },
         {
-          "id": "mt-2026-08-12-13",
-          "titulo": "Rússia Lança Rede no Estilo Starlink Mais Rápido do que o Esperado, Diz Kiev",
-          "resumo": "As forças russas vinham usando terminais Starlink de mercado cinza na Ucrânia até que Kiev conseguiu lobby junto à SpaceX para desativá-los no início deste ano.",
+          "id": "mt-2026-08-12-2119",
+          "titulo": "Rússia Lançando Rede no Estilo Starlink Mais Rápido do que o Esperado, Diz Kiev",
+          "resumo": "As forças russas vinham usando terminais Starlink de mercado cinza na Ucrânia até Kiev ter conseguido desativá-los com sucesso no início deste ano.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/10/russia-rolling-out-starlink-style-network-faster-than-expected-kyiv-says-a93453",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-08-10T15:43:23.000Z"
         },
         {
-          "id": "mt-2026-08-12-14",
-          "titulo": "Ucrânia Relata Ataque à Maior Planta Petroquímica da Rússia na Sibéria Ocidental",
-          "resumo": "As autoridades locais confirmaram que um incêndio começou após vários drones colidirem com uma instalação industrial, embora não tenham identificado o local pelo nome.",
+          "id": "mt-2026-08-12-2120",
+          "titulo": "Ucrânia Relatadamente Ataca Maior Planta Petroquímica da Rússia na Sibéria Ocidental",
+          "resumo": "Autoridades locais confirmaram que um incêndio começou após vários drones colidirem com uma instalação industrial, embora não tenham identificado o local pelo nome.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/10/ukraine-reportedly-strikes-russias-largest-petrochemical-plantin-western-siberia-a93451",
+          "fonte": "The Moscow Times",
           "publicado_em": "2026-08-10T14:30:00.000Z"
-        },
-        {
-          "id": "mt-2026-08-12-15",
-          "titulo": "Banco Central Russo Insta Lenders a Apoiar Empresas Afetadas por Ataques a Armazéns da Wildberries",
-          "resumo": "Um executivo sênior do Sberbank disse que o banco estatal já recebeu cerca de 2.000 solicitações de reestruturação de empréstimos de proprietários de empresas afetados pelos ataques.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/08/10/russian-central-bank-urges-lenders-to-support-businesses-impacted-by-wildberries-warehouse-attacks-a93450",
-          "publicado_em": "2026-08-10T13:35:43.000Z"
-        },
-        {
-          "id": "mt-2026-08-12-16",
-          "titulo": "Moldávia Recua Embaixador em Moscou Após Drone Cair Perto da Fronteira com a Ucrânia",
-          "resumo": "Chisinau disse que convocou seu embaixador na Rússia de volta para casa para consultas, chamando o incidente de drone de \"grave violação da soberania e integridade territorial da Moldávia\" que arrisca a segurança...",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/08/10/moldova-recalls-ambassador-in-moscow-after-drone-crashes-near-border-with-ukraine-a93449",
-          "publicado_em": "2026-08-10T13:15:00.000Z"
-        },
-        {
-          "id": "mt-2026-08-12-17",
-          "titulo": "Kamchatka Se Prepara para uma Quase Interrupção Total da Internet Amidar Reparos em Cabo Submarino",
-          "resumo": "A manutenção do cabo de fibra óptica foi originalmente agendada para setembro de 2025, mas foi posteriormente adiada.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/08/10/kamchatka-braces-for-near-total-internet-shutdown-amid-undersea-cable-repairs-a93447",
-          "publicado_em": "2026-08-10T10:35:05.000Z"
-        },
-        {
-          "id": "mt-2026-08-12-18",
-          "titulo": "Rússia Nega que Tenha Realizado Negociações de Paz Oficiais com a Alemanha no Azerbaijão",
-          "resumo": "Mas o vice-ministro das Relações Exteriores, Mikhail Galuzin, disse que discussões de canal secreto ocorreram entre indivíduos da Alemanha e da Rússia que não estão afiliados ao governo de nenhum dos dois países.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/08/10/russia-denies-it-held-official-peace-talks-with-germany-in-azerbaijan-a93446",
-          "publicado_em": "2026-08-10T08:56:46.000Z"
-        },
-        {
-          "id": "mt-2026-08-12-19",
-          "titulo": "13 Mortos em Ataque Ucraniano à República de Tatarstão",
-          "resumo": "A mídia russa relatou que uma usina petroquímica local pode ter sido atingida durante a barragem de drones noturna.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/08/10/13-killed-in-ukrainian-attack-on-republic-of-tatarstan-a93445",
-          "publicado_em": "2026-08-10T07:52:00.000Z"
-        },
-        {
-          "id": "mt-2026-08-12-20",
-          "titulo": "5 Mortos em Ataque de Drone Ucraniano a Belgorod, Rússia Diz",
-          "resumo": "O Ministério da Defesa da Rússia disse que destruiu mais de 150 drones ucranianos sobre a parte europeia do país.",
-          "imagem": null,
-          "link": "https://www.themoscowtimes.com/2026/08/09/3-killed-in-ukrainian-drone-attack-on-belgorodrussia-says-a93443",
-          "publicado_em": "2026-08-09T13:50:00.000Z"
         }
       ]
     },
