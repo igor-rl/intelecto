@@ -5,12 +5,12 @@
   "itens_urgentes": {},
   "destaques": [],
   "capa": {
-    "categoria_nome": "Desastres e Conflitos",
-    "titulo": "Naufrágio no Lago Kariba",
-    "subtitulo": "Pelo menos 44 mortos e dezenas de desaparecidos após ferry superlotado capotar no Zimbábue",
-    "resumo": "Um ferry superlotado capotou no Lago Kariba, no Zimbábue, resultando em pelo menos 44 mortos e dezenas de desaparecidos. A operação de resgate está em andamento. Enquanto isso, em outras partes do mundo, a tensão política e os conflitos continuam. A Espanha introduzirá controles de fronteira temporários para visitantes da Itália, enquanto a Rússia e a Ucrânia continuam em conflito. Além disso, a Colômbia declara luto de três dias para as vítimas de um terremoto recente. Os temas mais discutidos nos jornais incluem o naufrágio no Lago Kariba, a introdução de controles de fronteira na Espanha, o conflito entre a Rússia e a Ucrânia e o terremoto na Colômbia.",
+    "categoria_nome": "O que marcou o dia?",
+    "titulo": "Eleições na Zâmbia e crise global",
+    "subtitulo": "Enquanto a Zâmbia vota com o recorde econômico do presidente em jogo, a crise global se aprofunda com notícias de desastres e conflitos",
+    "resumo": "O dia de hoje foi marcado por notícias de eleições na Zâmbia, onde o presidente Hakainde Hichilema busca um segundo mandato, enquanto a crise econômica no país se aprofunda. Além disso, houve notícias de desastres naturais, como o terremoto na Colômbia e o vazamento de óleo em Omã, e conflitos, como a crise na Ucrânia e a tensão entre a Rússia e o Japão pelas ilhas Kuril. A imprensa internacional também destacou a visita do presidente russo, Vladimir Putin, às ilhas Kuril, o que gerou protestos do Japão. Já a África foi palco de notícias sobre a saúde dos líderes, com a questão do sigilo médico sendo discutida. A rivalidade entre os EUA e a China também esteve em evidência, com a disputa por minerais críticos para a transição energética. Em meio a essas notícias, a ONU divulgou um relatório sobre o aumento das mortes de civis na Ucrânia, e a Venezuela se prepara para cortes de energia e água devido ao El Niño.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-08-12T08:00:00-03:00",
+    "publicado_em": "2026-08-13T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -947,38 +947,52 @@
   },
   "temas_principais": [
     {
-      "tema": "Naufrágio no Lago Kariba",
-      "descricao": "Pelo menos 44 mortos e dezenas de desaparecidos após ferry superlotado capotar no Zimbábue",
+      "tema": "Eleições na Zâmbia",
+      "descricao": "O presidente Hakainde Hichilema busca um segundo mandato em meio à crise econômica",
       "fontes_que_cobriram": [
         "the_guardian",
         "aa"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "rt",
-        "st"
+        "rt"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a tragédia e a necessidade de ajuda humanitária, enquanto as fontes russas e chinesas destacam a importância da cooperação internacional para prevenir desastres semelhantes."
+      "divergencia_de_enquadramento": "A cobertura da eleição na Zâmbia variou entre as fontes, com alguns destacando a crise econômica e outros a importância da votação"
     },
     {
-      "tema": "Conflito entre a Rússia e a Ucrânia",
-      "descricao": "Continuação dos conflitos e tensões entre a Rússia e a Ucrânia",
+      "tema": "Crise na Ucrânia",
+      "descricao": "Aumento das mortes de civis e tensão com a Rússia",
       "fontes_que_cobriram": [
-        "rt",
-        "mt",
+        "new_york_times",
         "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian",
-        "aa"
+        "rt"
       ],
-      "divergencia_de_enquadramento": "As fontes russas e ucranianas têm narrativas opostas sobre a origem e a responsabilidade pelo conflito, enquanto as fontes ocidentais tendem a apoiar a Ucrânia."
+      "divergencia_de_enquadramento": "A cobertura da crise na Ucrânia variou entre as fontes, com alguns destacando a responsabilidade da Rússia e outros a complexidade do conflito"
+    },
+    {
+      "tema": "Desastres naturais",
+      "descricao": "Terremoto na Colômbia e vazamento de óleo em Omã",
+      "fontes_que_cobriram": [
+        "euronews",
+        "st"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "smh"
+      ],
+      "divergencia_de_enquadramento": "A cobertura dos desastres naturais variou entre as fontes, com alguns destacando a resposta de emergência e outros a causa do desastre"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Terremoto na Colômbia",
-      "por_que_importa": "O terremoto resultou em muitas vítimas e danos materiais, e a Colômbia precisa de ajuda humanitária",
-      "cobertura": "Apenas alguns jornais, como o SMH, deram destaque ao terremoto"
+      "tema": "Saúde dos líderes africanos",
+      "por_que_importa": "A questão do sigilo médico é importante para a transparência e a confiança pública",
+      "cobertura": "Apenas a AllAfrica cobriu o tema, enquanto outras fontes ignoraram ou minimizaram"
+    },
+    {
+      "tema": "Rivalidade EUA-China",
+      "por_que_importa": "A disputa por minerais críticos é importante para a transição energética e a economia global",
+      "cobertura": "Apenas a AllAfrica e a SCMP cobriram o tema, enquanto outras fontes ignoraram ou minimizaram"
     }
   ]
 }
