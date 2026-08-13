@@ -184,103 +184,111 @@
     "euronews": {
       "slug": "euronews",
       "nome": "Euro News",
-      "gerado_em": "2026-08-12T21:00:21.798Z",
+      "gerado_em": "2026-08-13T10:00:19.883Z",
       "artigos": [
         {
-          "id": "euronews-2026-08-12-2101",
+          "id": "euronews-2026-08-13-1003",
+          "titulo": "Tokyo emite resposta irada enquanto Putin faz sua primeira visita às disputadas ilhas Kuril",
+          "resumo": "As quatro ilhas contestadas, tomadas pela Rússia durante a Segunda Guerra Mundial, ganharam importância desde o fim do conflito, fornecendo bases militares estratégicas ao Kremlin, juntamente com suas ricas minas...",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/13/tokyo-issues-angry-response-as-putin-makes-his-first-visit-to-the-disputed-kuril-islands",
+          "publicado_em": "2026-08-13T07:32:53.000Z"
+        },
+        {
+          "id": "euronews-2026-08-13-1004",
+          "titulo": "Colômbia: \"cena de horror\" enquanto resgatistas de Pereira procuram sob os escombros",
+          "resumo": "O número de mortos no terremoto na Colômbia subiu para 265 em Pereira em 12 de agosto de 2026, com quase 500 ainda desaparecidos. Resgatistas descreveram cenas de horror à medida que a janela crítica de 72 horas de sobrevivência se fechava.",
+          "imagem": null,
+          "link": "http://www.euronews.com/video/2026/08/13/colombia-scene-of-horror-as-pereira-rescuers-search-rubble",
+          "publicado_em": "2026-08-13T07:31:33.000Z"
+        },
+        {
+          "id": "euronews-2026-08-13-1008",
+          "titulo": "Mais de 150 civis mortos em ataques dos EUA a hutis no Iêmen, diz Pentágono",
+          "resumo": "Uma revisão do Pentágono enviada ao Congresso encontrou que três ataques aéreos de abril de 2025 contra posições hutis — incluindo um no porto de Ras Isa que matou 80 pessoas — resultaram em 153 mortes civis e 243 feridos.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/13/us-strikes-targeting-houthis-killed-153-civilians-in-yemen-last-year-pentagon-review-says",
+          "publicado_em": "2026-08-13T04:49:41.000Z"
+        },
+        {
+          "id": "euronews-2026-08-13-1009",
+          "titulo": "Surto de ebola na República do Congo está no caminho de superar o mais letal da história, diz chefe da OMS",
+          "resumo": "“No seu ritmo atual, está no caminho de eclipsar o surto de ebola na África Ocidental de 2014 a 2016”, disse o chefe da OMS, Tedros Adhanom Ghebreyesus, a repórteres na quarta-feira.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/13/congos-ebola-outbreak-on-track-to-surpass-deadliest-in-history-who-chief-says",
+          "publicado_em": "2026-08-13T04:30:40.000Z"
+        },
+        {
+          "id": "euronews-2026-08-13-1010",
+          "titulo": "Vazamento de óleo de petroleiro supostamente russo atinge a costa de Omã, dizem autoridades de Mascate",
+          "resumo": "As praias de Ras Madrakah na costa continental de Omã, a cerca de 200 quilômetros ao norte da ilha de Qabiliyah, também foram contaminadas, de acordo com a Autoridade Ambiental de Omã, que vinha monitorando a situação.",
+          "imagem": null,
+          "link": "http://www.euronews.com/2026/08/13/oil-spill-from-tanker-believed-to-be-russian-reaches-omans-coastline-muscat-authorities-sa",
+          "publicado_em": "2026-08-13T04:17:17.000Z"
+        },
+        {
+          "id": "euronews-2026-08-13-1011",
           "titulo": "Secretária de imprensa da Casa Branca, Karoline Leavitt, deixará o cargo no final do mês, diz Trump",
-          "resumo": "A saída de Leavitt ocorre quando Trump enfrenta números de pesquisa cada vez mais baixos e o Partido Republicano corre o risco de derrota nas eleições de meio de mandato de novembro.",
+          "resumo": "A saída de Leavitt ocorre quando Trump enfrenta números de pesquisa em constante declínio e o Partido Republicano arrisca a derrota nas eleições de meio de mandato de novembro.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/12/white-house-press-secretary-karoline-leavitt-to-leave-role-at-end-of-month-trump-says",
           "publicado_em": "2026-08-12T19:58:11.000Z"
         },
         {
-          "id": "euronews-2026-08-12-2102",
-          "titulo": "Trump elogia 'barreira de aço' e diz que EUA manterão controle do Estreito de Hormuz",
-          "resumo": "O Irã afirma que controla efetivamente grande parte da água e pretende impor um sistema de pedágio em resposta à guerra lançada pelos EUA por Trump em 28 de fevereiro.",
+          "id": "euronews-2026-08-13-1012",
+          "titulo": "Trump elogia \"barreira de aço\" e diz que os EUA manterão o controle do Estreito de Ormuz",
+          "resumo": "O Irã afirma que controla efetivamente grande parte da via aquática e pretende impor um sistema de pedágio em resposta à guerra lançada pelos EUA por Trump em 28 de fevereiro.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/12/trump-hails-wall-of-steel-blocakade-says-us-will-keep-control-of-strait-of-hormuz",
           "publicado_em": "2026-08-12T16:20:39.000Z"
         },
         {
-          "id": "euronews-2026-08-12-2104",
+          "id": "euronews-2026-08-13-1014",
           "titulo": "Chefe de inteligência do marechal líbio Haftar é morto em atentado a bomba em Benghazi",
-          "resumo": "Fawzi al-Mansouri foi assassinado fora de uma mesquita em uma fortaleza da LNA, no que analistas disseram ser um grande golpe para as credenciais de segurança da família Haftar e poderia atrasar um plano dos EUA para reunificar...",
+          "resumo": "Fawzi al-Mansouri foi assassinado do lado de fora de uma mesquita em uma fortaleza da LNA, no que analistas disseram ser um grande golpe para as credenciais de segurança da família Haftar e pode atrasar um plano dos EUA para reunificar...",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/12/libyan-marshal-haftars-intelligence-chief-killed-in-benghazi-car-bombing",
           "publicado_em": "2026-08-12T15:47:50.000Z"
         },
         {
-          "id": "euronews-2026-08-12-2105",
-          "titulo": "Colômbia declara luto de três dias para vítimas de terremoto, enquanto UE promete assistência",
-          "resumo": "O terremoto sobrecarregou partes do sistema de saúde, transformando o esforço de resgate em uma das maiores respostas a desastres da Colômbia em anos.",
+          "id": "euronews-2026-08-13-1015",
+          "titulo": "Colômbia declara luto de três dias pelas vítimas do terremoto enquanto a UE promete assistência",
+          "resumo": "O terremoto sobrecarregou partes do sistema de saúde, transformando o esforço de resgate em uma das maiores respostas a desastres da Colômbia nos últimos anos.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/12/colombia-declares-three-days-mourning-for-quake-victims-as-eu-pledges-assistance",
           "publicado_em": "2026-08-12T13:46:52.000Z"
         },
         {
-          "id": "euronews-2026-08-12-2108",
-          "titulo": "Resgatadores salvam mulher após 36 horas presa em escombros na Colômbia",
-          "resumo": "Uma mulher de 32 anos foi resgatada viva em Pereira após passar 36 horas presa sob um prédio desabado. Os resgatadores a localizaram 10 horas antes de alcançá-la.",
+          "id": "euronews-2026-08-13-1018",
+          "titulo": "Resgatistas do terremoto na Colômbia salvam mulher após 36 horas presa sob escombros",
+          "resumo": "Uma mulher de 32 anos foi resgatada viva em Pereira após passar 36 horas presa sob um prédio desabado. Resgatistas a localizaram 10 horas antes de alcançá-la.",
           "imagem": null,
           "link": "http://www.euronews.com/video/2026/08/12/colombia-quake-rescuers-save-woman-after-36-hours-trapped-in-rubble",
           "publicado_em": "2026-08-12T09:34:22.000Z"
         },
         {
-          "id": "euronews-2026-08-12-2109",
-          "titulo": "Pyongyang testa outro míssil dentro de uma semana e antes de exercícios militares EUA-Coreia do Sul",
-          "resumo": "Um míssil balístico lançado da área costeira leste de Wonsan voou mais de 700 quilômetros, disseram os chefes do Estado-Maior Conjunto da Coreia do Sul. Seul condenou o teste e alertou que permanece...",
+          "id": "euronews-2026-08-13-1019",
+          "titulo": "Pyongyang testa outro míssil dentro de uma semana e antes dos exercícios militares EUA-Coreia do Sul",
+          "resumo": "Um míssil balístico lançado da área costeira leste de Wonsan por volta das 6h voou mais de 700 quilômetros, disseram o Estado-Maior Conjunto da Coreia do Sul. Seul condenou o teste e alertou que permanece...",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/12/pyongyang-tests-another-missile-within-one-week-and-ahead-of-us-south-korean-military-dril",
           "publicado_em": "2026-08-12T08:14:42.000Z"
         },
         {
-          "id": "euronews-2026-08-12-2113",
-          "titulo": "Colômbia: Resgatadores procuram sobreviventes após terremoto de magnitude 7,6 que matou 216 pessoas",
-          "resumo": "Enquanto os resgatadores vasculham os escombros em busca de sobreviventes, voluntários se juntam para ajudar a limpar os destroços. Pessoas trouxeram água e comida para as vítimas e fizeram fila em frente aos centros de doação de sangue.",
+          "id": "euronews-2026-08-13-1020",
+          "titulo": "Momento em que o hospital de Cali desaba após terremoto poderoso na Colômbia",
+          "resumo": "Um terremoto de 7,4 graus na Colômbia parcialmente desabou o Hospital Universitário del Valle em Cali na segunda-feira, forçando pacientes a sair enquanto resgatistas procuram por centenas de pessoas temidas presas.",
           "imagem": null,
-          "link": "http://www.euronews.com/2026/08/12/colombia-rescuers-search-for-survivors-after-76-magnitude-earthquake-kills-216-people",
-          "publicado_em": "2026-08-12T05:58:55.000Z"
+          "link": "http://www.euronews.com/video/2026/08/12/moment-cali-hospital-collapses-after-powerful-colombia-earthquake",
+          "publicado_em": "2026-08-12T07:18:13.000Z"
         },
         {
-          "id": "euronews-2026-08-12-2115",
+          "id": "euronews-2026-08-13-1025",
           "titulo": "Mais de 16.000 civis ucranianos permanecem detidos e torturados pela Rússia, diz ONU",
           "resumo": "A ONU também relatou que mais de 95% dos prisioneiros de guerra ucranianos e 85% dos detidos civis estão sendo torturados ou maltratados, muitas vezes repetidamente.",
           "imagem": null,
           "link": "http://www.euronews.com/2026/08/12/more-than-16000-civilians-detained-by-russia-in-its-invasion-of-ukraine-are-still-held-un-",
           "publicado_em": "2026-08-12T04:31:23.000Z"
-        },
-        {
-          "id": "euronews-2026-08-12-2116",
-          "titulo": "Serviço Secreto e militares queriam me tirar do Air Force One na Turquia devido a ameaça, diz Trump",
-          "resumo": "“Eles queriam que eu pegasse um voo diferente, um avião diferente”, disse Trump a repórteres após retornar de um evento em Ohio. “Acho que havia uma ameaça lá. Eu não perguntei muito sobre isso...”",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/12/secret-service-and-military-wanted-me-off-air-force-one-in-turkey-due-to-threat-trump-says",
-          "publicado_em": "2026-08-12T04:12:00.000Z"
-        },
-        {
-          "id": "euronews-2026-08-12-2117",
-          "titulo": "Político e cientista da oposição bielorrussa, Aliaksandr Milinkevich, morre aos 79 anos",
-          "resumo": "O ex-laureado do Prêmio Sakharov concorreu à presidência da Bielorrússia contra Aliaksandr Lukashenka em 2006.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/11/belarusian-opposition-politician-and-scientist-aliaksandr-milinkevich-dies-at-79",
-          "publicado_em": "2026-08-11T20:47:22.000Z"
-        },
-        {
-          "id": "euronews-2026-08-12-2119",
-          "titulo": "Rússia liberta ex-fuzileiro naval dos EUA, Robert Gilman, após mais de quatro anos na prisão",
-          "resumo": "Gilman foi preso e detido na Rússia em 2022, acusado de agredir um policial após um incidente em um trem em Voronezh, ao sul de Moscou.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/11/russia-frees-former-us-marine-robert-gilman-after-more-than-four-years-in-prison",
-          "publicado_em": "2026-08-11T17:33:53.000Z"
-        },
-        {
-          "id": "euronews-2026-08-12-2125",
-          "titulo": "Catar vê 'sinais positivos' nas conversas entre Irã e Omã sobre a reabertura do Estreito de Hormuz",
-          "resumo": "Doha disse que o Irã e Omã haviam alcançado a fase técnica das negociações e estavam finalizando as coordenadas da rota de navegação, mas advertiu contra atrasos, pois apenas seis navios transitaram pelo Hormuz na segunda-feira, em comparação...",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/11/qatar-sees-positive-signs-in-iran-oman-talks-on-reopening-hormuz",
-          "publicado_em": "2026-08-11T12:17:44.000Z"
         }
       ]
     },
