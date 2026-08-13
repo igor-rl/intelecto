@@ -212,111 +212,135 @@
     "euronews": {
       "slug": "euronews",
       "nome": "Euro News",
-      "gerado_em": "2026-08-13T10:00:19.883Z",
+      "gerado_em": "2026-08-13T21:00:20.155Z",
       "artigos": [
         {
-          "id": "euronews-2026-08-13-1003",
-          "titulo": "Tokyo emite resposta irada enquanto Putin faz sua primeira visita às disputadas ilhas Kuril",
-          "resumo": "As quatro ilhas contestadas, tomadas pela Rússia durante a Segunda Guerra Mundial, ganharam importância desde o fim do conflito, fornecendo bases militares estratégicas ao Kremlin, juntamente com suas ricas minas...",
+          "id": "euronews-2026-08-13-2101",
+          "titulo": "Vietnã descobre mais de uma tonelada de marfim escondido ilegalmente enviado da África",
+          "resumo": "A maioria do comércio de marfim de elefantes e outros animais em perigo de extinção é proibida por acordo internacional sob a CITES, um tratado ao qual quase todos os países membros da ONU são partes.",
+          "link": "http://www.euronews.com/2026/08/13/vietnam-discovers-more-than-a-tonne-of-concealed-ivory-illegally-shipped-from-africa",
           "imagem": null,
+          "publicado_em": "2026-08-13T19:59:30.000Z"
+        },
+        {
+          "id": "euronews-2026-08-13-2102",
+          "titulo": "Sobreviventes contam o horror do naufrágio de um ferry no Zimbábue, enquanto a polícia afirma que o número de mortos chega a 46",
+          "resumo": "O ferry governamental superlotado, uma ligação vital para os aldeões e comerciantes de peixe em torno do vasto Lago Kariba, virou em águas turbulentas na terça-feira em um dos piores desastres de barco de passageiros do país.",
+          "link": "http://www.euronews.com/2026/08/13/survivors-tell-of-horror-of-zimbabwe-ferry-sinking-as-police-say-death-toll-hits-46",
+          "imagem": null,
+          "publicado_em": "2026-08-13T16:57:26.000Z"
+        },
+        {
+          "id": "euronews-2026-08-13-2104",
+          "titulo": "Uma pessoa morre e várias ficam feridas em uma explosão no porto de Rotterdã na refinaria Gunvor",
+          "resumo": "Os Países Baixos estão investigando uma explosão no porto de Rotterdã que matou uma pessoa e feriu várias outras na quinta-feira, 13 de agosto. A explosão ocorreu por volta das 11h30 no terminal de óleo da refinaria Gunvor.",
+          "link": "http://www.euronews.com/video/2026/08/13/one-dead-several-injured-in-rotterdam-port-blast-at-gunvor-refinery",
+          "imagem": null,
+          "publicado_em": "2026-08-13T15:31:09.000Z"
+        },
+        {
+          "id": "euronews-2026-08-13-2106",
+          "titulo": "Hungria apresenta novo plano de 'limpeza' à medida que o governo dá os primeiros passos para desbloquear fundos congelados da UE",
+          "resumo": "Budapeste manterá uma lista de operadores econômicos que são proibidos de licitações públicas devido a ofensas econômicas anteriores, cumprindo uma obrigação da UE para restaurar o acesso a fundos críticos.",
+          "link": "http://www.euronews.com/2026/08/13/hungary-unveils-new-clean-up-plan-as-governemnt-takes-first-steps-to-unlocking-frozen-eu-f",
+          "imagem": null,
+          "publicado_em": "2026-08-13T14:03:26.000Z"
+        },
+        {
+          "id": "euronews-2026-08-13-2107",
+          "titulo": "Militar do Irã rejeita as alegações de Trump de que os EUA controlam o Estreito de Ormuz como 'mentiras'",
+          "resumo": "O Irã manteve o controle do Estreito de Ormuz, um conduto energético vital, desde o início da guerra em 28 de fevereiro, exigindo que os navios obtenham permissão e paguem taxas de trânsito antes de usar a via aquática.",
+          "link": "http://www.euronews.com/2026/08/13/irans-military-rejects-trumps-claims-of-us-control-over-strait-of-hormuz-as-lies",
+          "imagem": null,
+          "publicado_em": "2026-08-13T13:50:19.000Z"
+        },
+        {
+          "id": "euronews-2026-08-13-2109",
+          "titulo": "França acusa o Irã de 'derramamento de sangue' por usar a pena de morte",
+          "resumo": "Após uma declaração condenando o uso da pena de morte pelo Irã, as tensões aumentaram entre os diplomatas seniores. Paris acusou Teerã de 'derramamento de sangue' e o Irã chamou a posição da França de 'hipocrisia flagrante'.",
+          "link": "http://www.euronews.com/2026/08/13/france-accues-iran-of-bloodshed-over-use-of-death-penalty",
+          "imagem": null,
+          "publicado_em": "2026-08-13T12:03:14.000Z"
+        },
+        {
+          "id": "euronews-2026-08-13-2110",
+          "titulo": "Quem é Mohsen Rezaei, o novo chefe de segurança do Irã com um aviso vermelho da Interpol?",
+          "resumo": "Mohsen Rezaei é uma das figuras militares fundadoras da República Islâmica, um candidato presidencial fracassado quatro vezes e objeto de um aviso vermelho da Interpol pelo bombardeio de Buenos Aires em 1994 que matou 85 pessoas.",
+          "link": "http://www.euronews.com/2026/08/13/who-is-mohsen-rezaei-irans-new-security-chief-with-an-interpol-red-notice",
+          "imagem": null,
+          "publicado_em": "2026-08-13T11:27:40.000Z"
+        },
+        {
+          "id": "euronews-2026-08-13-2111",
+          "titulo": "Putin observa exercícios navais da Rússia perto da ilha de Sakhalin",
+          "resumo": "O presidente russo, Vladimir Putin, observou exercícios navais perto da ilha de Sakhalin na quinta-feira antes de viajar para as ilhas disputadas de Kuril, provocando uma forte protesto do Japão.",
+          "link": "http://www.euronews.com/video/2026/08/13/putin-watches-russian-navy-drills-off-russias-sakhalin-island",
+          "imagem": null,
+          "publicado_em": "2026-08-13T11:00:56.000Z"
+        },
+        {
+          "id": "euronews-2026-08-13-2112",
+          "titulo": "Drone russo atinge trem de passageiros na região de Odesa, matando o motorista",
+          "resumo": "Um drone russo Shahed atingiu um trem de passageiros na região de Odesa, na Ucrânia, na quinta-feira, 13 de agosto de 2026, matando o motorista e seu assistente e forçando a evacuação de 340 passageiros, incluindo 67 crianças.",
+          "link": "http://www.euronews.com/video/2026/08/13/russian-drone-strikes-passenger-train-in-odesa-region-killing-driver",
+          "imagem": null,
+          "publicado_em": "2026-08-13T10:43:26.000Z"
+        },
+        {
+          "id": "euronews-2026-08-13-2116",
+          "titulo": "Tóquio emite resposta furiosa à medida que Putin faz sua primeira visita às ilhas disputadas de Kuril",
+          "resumo": "As quatro ilhas contestadas, tomadas pela Rússia durante a Segunda Guerra Mundial, ganharam importância desde o fim do conflito, fornecendo bases militares estratégicas ao Kremlin.",
           "link": "http://www.euronews.com/2026/08/13/tokyo-issues-angry-response-as-putin-makes-his-first-visit-to-the-disputed-kuril-islands",
+          "imagem": null,
           "publicado_em": "2026-08-13T07:32:53.000Z"
         },
         {
-          "id": "euronews-2026-08-13-1004",
-          "titulo": "Colômbia: \"cena de horror\" enquanto resgatistas de Pereira procuram sob os escombros",
-          "resumo": "O número de mortos no terremoto na Colômbia subiu para 265 em Pereira em 12 de agosto de 2026, com quase 500 ainda desaparecidos. Resgatistas descreveram cenas de horror à medida que a janela crítica de 72 horas de sobrevivência se fechava.",
-          "imagem": null,
+          "id": "euronews-2026-08-13-2117",
+          "titulo": "Colômbia: 'cena de horror' à medida que os resgatistas de Pereira procuram sob os escombros",
+          "resumo": "O número de mortos no terremoto na Colômbia subiu para 265 em Pereira em 12 de agosto de 2026, com quase 500 ainda desaparecidos. Os resgatistas descreveram cenas de horror à medida que a janela crítica de 72 horas para a sobrevivência se fechava.",
           "link": "http://www.euronews.com/video/2026/08/13/colombia-scene-of-horror-as-pereira-rescuers-search-rubble",
+          "imagem": null,
           "publicado_em": "2026-08-13T07:31:33.000Z"
         },
         {
-          "id": "euronews-2026-08-13-1008",
-          "titulo": "Mais de 150 civis mortos em ataques dos EUA a hutis no Iêmen, diz Pentágono",
-          "resumo": "Uma revisão do Pentágono enviada ao Congresso encontrou que três ataques aéreos de abril de 2025 contra posições hutis — incluindo um no porto de Ras Isa que matou 80 pessoas — resultaram em 153 mortes civis e 243 feridos.",
-          "imagem": null,
+          "id": "euronews-2026-08-13-2121",
+          "titulo": "Mais de 150 civis morrem em ataques dos EUA contra os houthis no Iêmen, diz o Pentágono",
+          "resumo": "Uma revisão do Pentágono enviada ao Congresso encontrou que três ataques aéreos contra posições dos houthis em abril de 2025 resultaram em 153 mortes de civis e 243 feridos.",
           "link": "http://www.euronews.com/2026/08/13/us-strikes-targeting-houthis-killed-153-civilians-in-yemen-last-year-pentagon-review-says",
+          "imagem": null,
           "publicado_em": "2026-08-13T04:49:41.000Z"
         },
         {
-          "id": "euronews-2026-08-13-1009",
-          "titulo": "Surto de ebola na República do Congo está no caminho de superar o mais letal da história, diz chefe da OMS",
-          "resumo": "“No seu ritmo atual, está no caminho de eclipsar o surto de ebola na África Ocidental de 2014 a 2016”, disse o chefe da OMS, Tedros Adhanom Ghebreyesus, a repórteres na quarta-feira.",
-          "imagem": null,
+          "id": "euronews-2026-08-13-2122",
+          "titulo": "Surto de ebola na República Democrática do Congo está no caminho para superar o mais letal da história, afirma chefe da OMS",
+          "resumo": "“No seu ritmo atual, está no caminho para ultrapassar o surto de ebola na África Ocidental de 2014 a 2016”, disse o chefe da OMS, Tedros Adhanom Ghebreyesus, aos repórteres na quarta-feira.",
           "link": "http://www.euronews.com/2026/08/13/congos-ebola-outbreak-on-track-to-surpass-deadliest-in-history-who-chief-says",
+          "imagem": null,
           "publicado_em": "2026-08-13T04:30:40.000Z"
         },
         {
-          "id": "euronews-2026-08-13-1010",
-          "titulo": "Vazamento de óleo de petroleiro supostamente russo atinge a costa de Omã, dizem autoridades de Mascate",
-          "resumo": "As praias de Ras Madrakah na costa continental de Omã, a cerca de 200 quilômetros ao norte da ilha de Qabiliyah, também foram contaminadas, de acordo com a Autoridade Ambiental de Omã, que vinha monitorando a situação.",
-          "imagem": null,
+          "id": "euronews-2026-08-13-2123",
+          "titulo": "Vazamento de óleo de um petroleiro acredita-se ser russo atinge a costa de Omã, dizem as autoridades de Mascate",
+          "resumo": "As praias de Ras Madrakah no continente de Omã, a cerca de 200 quilômetros ao norte da ilha de Qabiliyah, também foram contaminadas, de acordo com a Autoridade Ambiental de Omã, que está monitorando a situação.",
           "link": "http://www.euronews.com/2026/08/13/oil-spill-from-tanker-believed-to-be-russian-reaches-omans-coastline-muscat-authorities-sa",
+          "imagem": null,
           "publicado_em": "2026-08-13T04:17:17.000Z"
         },
         {
-          "id": "euronews-2026-08-13-1011",
+          "id": "euronews-2026-08-13-2124",
           "titulo": "Secretária de imprensa da Casa Branca, Karoline Leavitt, deixará o cargo no final do mês, diz Trump",
-          "resumo": "A saída de Leavitt ocorre quando Trump enfrenta números de pesquisa em constante declínio e o Partido Republicano arrisca a derrota nas eleições de meio de mandato de novembro.",
-          "imagem": null,
+          "resumo": "A saída de Leavitt ocorre quando Trump enfrenta números de pesquisa cada vez mais baixos e o Partido Republicano corre o risco de derrota nas eleições de meio de mandato de novembro.",
           "link": "http://www.euronews.com/2026/08/12/white-house-press-secretary-karoline-leavitt-to-leave-role-at-end-of-month-trump-says",
+          "imagem": null,
           "publicado_em": "2026-08-12T19:58:11.000Z"
         },
         {
-          "id": "euronews-2026-08-13-1012",
-          "titulo": "Trump elogia \"barreira de aço\" e diz que os EUA manterão o controle do Estreito de Ormuz",
-          "resumo": "O Irã afirma que controla efetivamente grande parte da via aquática e pretende impor um sistema de pedágio em resposta à guerra lançada pelos EUA por Trump em 28 de fevereiro.",
-          "imagem": null,
+          "id": "euronews-2026-08-13-2125",
+          "titulo": "Trump elogia 'barreira de aço' e diz que os EUA manterão o controle do Estreito de Ormuz",
+          "resumo": "O Irã mantém que controla efetivamente grande parte da via aquática e pretende impor um sistema de pedágio em resposta à guerra lançada pelos EUA por Trump em 28 de fevereiro.",
           "link": "http://www.euronews.com/2026/08/12/trump-hails-wall-of-steel-blocakade-says-us-will-keep-control-of-strait-of-hormuz",
+          "imagem": null,
           "publicado_em": "2026-08-12T16:20:39.000Z"
-        },
-        {
-          "id": "euronews-2026-08-13-1014",
-          "titulo": "Chefe de inteligência do marechal líbio Haftar é morto em atentado a bomba em Benghazi",
-          "resumo": "Fawzi al-Mansouri foi assassinado do lado de fora de uma mesquita em uma fortaleza da LNA, no que analistas disseram ser um grande golpe para as credenciais de segurança da família Haftar e pode atrasar um plano dos EUA para reunificar...",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/12/libyan-marshal-haftars-intelligence-chief-killed-in-benghazi-car-bombing",
-          "publicado_em": "2026-08-12T15:47:50.000Z"
-        },
-        {
-          "id": "euronews-2026-08-13-1015",
-          "titulo": "Colômbia declara luto de três dias pelas vítimas do terremoto enquanto a UE promete assistência",
-          "resumo": "O terremoto sobrecarregou partes do sistema de saúde, transformando o esforço de resgate em uma das maiores respostas a desastres da Colômbia nos últimos anos.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/12/colombia-declares-three-days-mourning-for-quake-victims-as-eu-pledges-assistance",
-          "publicado_em": "2026-08-12T13:46:52.000Z"
-        },
-        {
-          "id": "euronews-2026-08-13-1018",
-          "titulo": "Resgatistas do terremoto na Colômbia salvam mulher após 36 horas presa sob escombros",
-          "resumo": "Uma mulher de 32 anos foi resgatada viva em Pereira após passar 36 horas presa sob um prédio desabado. Resgatistas a localizaram 10 horas antes de alcançá-la.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/08/12/colombia-quake-rescuers-save-woman-after-36-hours-trapped-in-rubble",
-          "publicado_em": "2026-08-12T09:34:22.000Z"
-        },
-        {
-          "id": "euronews-2026-08-13-1019",
-          "titulo": "Pyongyang testa outro míssil dentro de uma semana e antes dos exercícios militares EUA-Coreia do Sul",
-          "resumo": "Um míssil balístico lançado da área costeira leste de Wonsan por volta das 6h voou mais de 700 quilômetros, disseram o Estado-Maior Conjunto da Coreia do Sul. Seul condenou o teste e alertou que permanece...",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/12/pyongyang-tests-another-missile-within-one-week-and-ahead-of-us-south-korean-military-dril",
-          "publicado_em": "2026-08-12T08:14:42.000Z"
-        },
-        {
-          "id": "euronews-2026-08-13-1020",
-          "titulo": "Momento em que o hospital de Cali desaba após terremoto poderoso na Colômbia",
-          "resumo": "Um terremoto de 7,4 graus na Colômbia parcialmente desabou o Hospital Universitário del Valle em Cali na segunda-feira, forçando pacientes a sair enquanto resgatistas procuram por centenas de pessoas temidas presas.",
-          "imagem": null,
-          "link": "http://www.euronews.com/video/2026/08/12/moment-cali-hospital-collapses-after-powerful-colombia-earthquake",
-          "publicado_em": "2026-08-12T07:18:13.000Z"
-        },
-        {
-          "id": "euronews-2026-08-13-1025",
-          "titulo": "Mais de 16.000 civis ucranianos permanecem detidos e torturados pela Rússia, diz ONU",
-          "resumo": "A ONU também relatou que mais de 95% dos prisioneiros de guerra ucranianos e 85% dos detidos civis estão sendo torturados ou maltratados, muitas vezes repetidamente.",
-          "imagem": null,
-          "link": "http://www.euronews.com/2026/08/12/more-than-16000-civilians-detained-by-russia-in-its-invasion-of-ukraine-are-still-held-un-",
-          "publicado_em": "2026-08-12T04:31:23.000Z"
         }
       ]
     },
