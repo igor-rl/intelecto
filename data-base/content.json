@@ -797,151 +797,95 @@
     "aa": {
       "slug": "aa",
       "nome": "AllAfrica",
-      "gerado_em": "2026-08-12T21:46:16.729Z",
+      "gerado_em": "2026-08-13T10:46:21.137Z",
       "artigos": [
         {
-          "id": "aa-2026-08-12-2101",
-          "titulo": "Costa do Marfim: As Linhas Estão Mudando?",
-          "resumo": "Após a etapa das legislativas que ocorreram nas condições que se sabe, notadamente as numerous contestações sobre o processo e mesmo sobre o escrutínio, a hora parece ser agora...",
+          "id": "aa-2026-08-13-1001",
+          "titulo": "África: Líderes religiosos defendem conversas abertas sobre sexualidade e SRHR",
+          "resumo": "Mombasa, Quênia -- O imã Bukuru Elie Khalfan é muito pessoal sobre a necessidade de conversas abertas sobre sexualidade.",
           "imagem": null,
-          "link": "https://allafrica.com/stories/202608120503.html",
-          "fonte": "AllAfrica",
-          "publicado_em": "2026-08-12T16:25:50.000Z"
+          "link": "https://allafrica.com/stories/202608130001.html",
+          "publicado_em": "2026-08-13T06:52:21.000Z"
         },
         {
-          "id": "aa-2026-08-12-2102",
-          "titulo": "Zâmbia: Democratas Líderes no Senado dos EUA Pedem Eleições Pacíficas na Zâmbia",
-          "resumo": "Hoje, os senadores dos EUA Jeanne Shaheen (D-NH), membro de destaque do Comitê de Relações Exteriores do Senado, e Cory Booker (D-NJ), membro de destaque da Subcomissão da África e...",
+          "id": "aa-2026-08-13-1003",
+          "titulo": "Moçambique: Diplomata sul-africano pede desculpas por atos recentes de xenofobia",
+          "resumo": "Maputo -- O recém-designado embaixador da África do Sul em Moçambique, JT Pitswane, emitiu uma desculpa formal aos moçambicanos pelos atos recentes de xenofobia em seu território.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608130147.html",
+          "publicado_em": "2026-08-13T10:13:14.000Z"
+        },
+        {
+          "id": "aa-2026-08-13-1006",
+          "titulo": "Zâmbia: Zâmbia vota com o recorde econômico do presidente em jogo",
+          "resumo": "Zâmbia foi às urnas na quinta-feira com a dificuldade econômica testando o recorde do presidente Hakainde Hichilema, que busca um segundo mandato para governar a nação rica em cobre.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608130021.html",
+          "publicado_em": "2026-08-13T07:39:43.000Z"
+        },
+        {
+          "id": "aa-2026-08-13-1008",
+          "titulo": "África: O sigilo médico dos líderes prejudica a confiança pública",
+          "resumo": "Longas e misteriosas ausências promovem a ideia de que forças não responsáveis estão nos controles do poder.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608130033.html",
+          "publicado_em": "2026-08-13T07:49:50.000Z"
+        },
+        {
+          "id": "aa-2026-08-13-1009",
+          "titulo": "África: A rivalidade EUA-China está gradualmente moldando a dinâmica da mineração pan-africana",
+          "resumo": "A transição energética global e a busca por minerais críticos necessários para desenvolver as novas tecnologias e indústrias associadas a essa dinâmica contribuíram para que a África se tornasse uma região importante.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608130139.html",
+          "publicado_em": "2026-08-13T10:08:52.000Z"
+        },
+        {
+          "id": "aa-2026-08-13-1010",
+          "titulo": "Congo-Kinshasa: Corrida para encontrar vacina contra Ebola à medida que surto na República Democrática do Congo mata mais de 2.000 pessoas",
+          "resumo": "O surto mais recente de Ebola matou mais de 2.000 pessoas na República Democrática do Congo, de acordo com as autoridades de saúde.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608130029.html",
+          "publicado_em": "2026-08-13T07:46:11.000Z"
+        },
+        {
+          "id": "aa-2026-08-13-1011",
+          "titulo": "República Centro-Africana: Embaixador francês na RCA disciplinado por alegações de má conduta",
+          "resumo": "O Ministério das Relações Exteriores da França iniciou procedimentos disciplinares contra seu embaixador na República Centro-Africana, após alegações de que ele levou repetidamente jovens mulheres para a embaixada.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608130028.html",
+          "publicado_em": "2026-08-13T07:45:48.000Z"
+        },
+        {
+          "id": "aa-2026-08-13-1015",
+          "titulo": "África: Será que o Quênia investigará e processará a RSF do Sudão?",
+          "resumo": "Processar membros das Forças de Apoio Rápido no Quênia não será fácil, mas dependerá mais da política do que da lei ou capacidade.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608130020.html",
+          "publicado_em": "2026-08-13T07:38:34.000Z"
+        },
+        {
+          "id": "aa-2026-08-13-1016",
+          "titulo": "Malawi: Malawi aposta em armazenamento de bateria para proteger sua frágil rede de energia contra o clima",
+          "resumo": "Lilongwe -- Por anos, o fornecimento de eletricidade do Malawi esteve à mercê de secas, inundações e ciclones que repetidamente expuseram a vulnerabilidade de um sistema de energia fortemente dependente de hidrelétricas.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608130019.html",
+          "publicado_em": "2026-08-13T07:37:39.000Z"
+        },
+        {
+          "id": "aa-2026-08-13-1017",
+          "titulo": "Zâmbia: Democratas de destaque no Senado dos EUA pedem eleições pacíficas na Zâmbia",
+          "resumo": "Hoje, os senadores dos EUA Jeanne Shaheen (D-NH), membro de destaque do Comitê de Relações Exteriores do Senado, e Cory Booker (D-NJ), membro de destaque da Subcomissão de África e Global Health.",
           "imagem": null,
           "link": "https://allafrica.com/stories/202608120566.html",
-          "fonte": "AllAfrica",
           "publicado_em": "2026-08-12T17:22:06.000Z"
         },
         {
-          "id": "aa-2026-08-12-2103",
-          "titulo": "África: Mortes Relacionadas à Violência Islâmica Militante na África Ultrapassam 20.000 Pela Quarta Ano Consecutivo",
-          "resumo": "As mortes relacionadas à violência islâmica militante na África ultrapassaram 20.000 mortes pelo quarto ano consecutivo, destacando a resiliência dos grupos militantes em todo o Sahel, Somália, ...",
+          "id": "aa-2026-08-13-1019",
+          "titulo": "África: Fatalidades ligadas à violência islâmica militante na África superam 20.000 mortes pelo quarto ano consecutivo",
+          "resumo": "As fatalidades ligadas à violência islâmica militante na África superaram 20.000 mortes pelo quarto ano consecutivo, destacando a resiliência dos grupos militantes em todo o Sahel, Somália, o Horn da África e outras regiões.",
           "imagem": null,
           "link": "https://allafrica.com/stories/202608120420.html",
-          "fonte": "AllAfrica",
           "publicado_em": "2026-08-12T14:57:58.000Z"
-        },
-        {
-          "id": "aa-2026-08-12-2104",
-          "titulo": "Zimbábue: 'As Pessoas Estavam Gritando' - Sobrevivente Relata Momentos de Horror Antes do Naufrágio do Barco em Lake Kariba",
-          "resumo": "Um oficial de segurança da Agência de Desenvolvimento de Infraestrutura Rural (RIDA) que sobreviveu ao desastre do barco Mbuya Nehanda contou um relato aterrador dos momentos antes do navio...",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202608120413.html",
-          "fonte": "AllAfrica",
-          "publicado_em": "2026-08-12T14:27:13.000Z"
-        },
-        {
-          "id": "aa-2026-08-12-2105",
-          "titulo": "África do Sul: Governo Torna-se Mais Rígido em Relação à Mineração Ilegal",
-          "resumo": "O projeto de lei de emenda às leis gerais de mineração proposto alteraria várias leis e introduziria uma ofensa específica visando combater a mineração ilegal.",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202608120285.html",
-          "fonte": "AllAfrica",
-          "publicado_em": "2026-08-12T12:25:56.000Z"
-        },
-        {
-          "id": "aa-2026-08-12-2106",
-          "titulo": "Quênia: Tribunal Ordena que o Governo Reserve Milhões para Vítimas de Tortura e Sequestro",
-          "resumo": "Nairóbi -- O governo foi ordenado a reservar 105 milhões de xelins de um fundo de compensação para vítimas de tortura, desaparecimentos forçados e sequestros enquanto o tribunal considera um...",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202608120182.html",
-          "fonte": "AllAfrica",
-          "publicado_em": "2026-08-12T10:51:16.000Z"
-        },
-        {
-          "id": "aa-2026-08-12-2107",
-          "titulo": "Malaui: Tensão Diplomática Aumenta à Medida que a África do Sul Exige Reembolso de Custos de Deportação",
-          "resumo": "A África do Sul desencadeou uma tempestade diplomática após exigir formalmente que o Malaui, a Nigéria e a Etiópia reembolsassem parte dos R292 milhões (aproximadamente K29 bilhões) gastos este ano...",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202608120147.html",
-          "fonte": "AllAfrica",
-          "publicado_em": "2026-08-12T10:04:26.000Z"
-        },
-        {
-          "id": "aa-2026-08-12-2108",
-          "titulo": "Ruanda: Ruanda Lança Estratégia de Cinco Anos para Combater Doenças Tropicais Negligenciadas",
-          "resumo": "A Ruanda tem como alvo interromper a transmissão da hanseníase e da oncocercose (cegueira dos rios) até 2030, sob um novo plano de cinco anos para lidar com doenças tropicais negligenciadas (DTN).",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202608120039.html",
-          "fonte": "AllAfrica",
-          "publicado_em": "2026-08-12T07:16:36.000Z"
-        },
-        {
-          "id": "aa-2026-08-12-2112",
-          "titulo": "República Centro-Africana: A UAE's Global South Utilities Inaugura Usina Solar de 50MW na República Centro-Africana",
-          "resumo": "Bangui (Horndiplomat) -- A Global South Utilities (GSU), com sede em Abu Dhabi, inaugurou uma usina de energia solar de 50 megawatts na República Centro-Africana, um projeto que a empresa afirma ser...",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202608120537.html",
-          "fonte": "AllAfrica",
-          "publicado_em": "2026-08-12T16:48:43.000Z"
-        },
-        {
-          "id": "aa-2026-08-12-2113",
-          "titulo": "África Ocidental: 616 Dias em Prisão Preventiva, o Caso do Ativista Moussa Tchangari",
-          "resumo": "Já se passaram 616 dias desde que Moussa Tchangari, um ativista e secretário-geral do grupo de sociedade civil Alternative Espaces Citoyens, foi detido na prisão de Filingue, na região de Tilaberi...",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202608120421.html",
-          "fonte": "AllAfrica",
-          "publicado_em": "2026-08-12T14:58:25.000Z"
-        },
-        {
-          "id": "aa-2026-08-12-2115",
-          "titulo": "Sudão: Forças Paramilitares do Sudão Atacam Cidade Fronteiriça, Exército Alega que o Ataque Foi Lançado a Partir da Etiópia",
-          "resumo": "Addis Abeba -- As forças paramilitares do Sudão, as Forças de Apoio Rápido (RSF), atacaram a cidade fronteiriça de Geissan, no estado de Blue Nile, na terça-feira, de acordo com as RSF e autoridades locais...",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202608120407.html",
-          "fonte": "AllAfrica",
-          "publicado_em": "2026-08-12T14:15:19.000Z"
-        },
-        {
-          "id": "aa-2026-08-12-2116",
-          "titulo": "Etiópia: Etiópios Compõem a Maioria Esmagadora dos Migrantes que Chegam ao Iêmen em Meio a Condições Regionais em Piora",
-          "resumo": "Addis Abeba -- Os nacionais etíopes representaram 91% dos 13.687 migrantes que chegaram ao Iêmen em julho de 2026, tornando-se, de longe, o maior grupo de migrantes registrados entrando no país...",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202608120405.html",
-          "fonte": "AllAfrica",
-          "publicado_em": "2026-08-12T14:11:14.000Z"
-        },
-        {
-          "id": "aa-2026-08-12-2117",
-          "titulo": "Etiópia: A Seca Retorna para Devastar a Região de Abergelle Yechila em Tigray",
-          "resumo": "Addis Abeba -- Uma seca severa \"matou milhares de animais e deixou mais de 4.000 hectares de terra agrícola\" sem colheitas satisfatórias no distrito de Abergelle Yechila, na região central de Tigray...",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202608120404.html",
-          "fonte": "AllAfrica",
-          "publicado_em": "2026-08-12T14:10:35.000Z"
-        },
-        {
-          "id": "aa-2026-08-12-2118",
-          "titulo": "Libéria: ONU - Libéria Deve Ir Além da Ajuda",
-          "resumo": "MONROVIA -- A Coordenadora Residente da ONU, Christine N. Umutoni, pediu à Libéria que reduza sua dependência da ajuda tradicional ao desenvolvimento, expandindo a receita doméstica, o investimento privado...",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202608120381.html",
-          "fonte": "AllAfrica",
-          "publicado_em": "2026-08-12T13:37:20.000Z"
-        },
-        {
-          "id": "aa-2026-08-12-2119",
-          "titulo": "Nigéria: Companhias Aéreas Retomam Voos Após Sindicatos de Aviação Suspenderem Ação Industrial",
-          "resumo": "As companhias aéreas começaram a restaurar os serviços após os sindicatos de aviação suspenderem temporariamente sua ação industrial, com a Air Peace e a United Nigeria Airlines retomando as operações após a interrupção...",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202608120294.html",
-          "fonte": "AllAfrica",
-          "publicado_em": "2026-08-12T12:29:39.000Z"
-        },
-        {
-          "id": "aa-2026-08-12-2120",
-          "titulo": "Quênia: Agricultores Instados a Reduzir Uso de Pesticidas Perigosos",
-          "resumo": "Nairóbi -- A Sociedade de Redução de Danos do Quênia pediu ao governo que reduza o custo dos pesticidas usados pelos agricultores e fortaleça as regulamentações para desencorajar o uso de pesticidas altamente perigosos...",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202608120287.html",
-          "fonte": "AllAfrica",
-          "publicado_em": "2026-08-12T12:27:02.000Z"
         }
       ]
     },
