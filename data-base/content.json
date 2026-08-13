@@ -6,9 +6,9 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Eleições na Zâmbia e crise global",
-    "subtitulo": "Enquanto a Zâmbia vota com o recorde econômico do presidente em jogo, a crise global se aprofunda com notícias de desastres e conflitos",
-    "resumo": "O dia de hoje foi marcado por notícias de eleições na Zâmbia, onde o presidente Hakainde Hichilema busca um segundo mandato, enquanto a crise econômica no país se aprofunda. Além disso, houve notícias de desastres naturais, como o terremoto na Colômbia e o vazamento de óleo em Omã, e conflitos, como a crise na Ucrânia e a tensão entre a Rússia e o Japão pelas ilhas Kuril. A imprensa internacional também destacou a visita do presidente russo, Vladimir Putin, às ilhas Kuril, o que gerou protestos do Japão. Já a África foi palco de notícias sobre a saúde dos líderes, com a questão do sigilo médico sendo discutida. A rivalidade entre os EUA e a China também esteve em evidência, com a disputa por minerais críticos para a transição energética. Em meio a essas notícias, a ONU divulgou um relatório sobre o aumento das mortes de civis na Ucrânia, e a Venezuela se prepara para cortes de energia e água devido ao El Niño.",
+    "titulo": "Surto de Ebola se espalha e outros temas globais",
+    "subtitulo": "Enquanto a República Democrática do Congo lida com o surto de Ebola, outros eventos globais chamam a atenção",
+    "resumo": "O surto de Ebola na República Democrática do Congo se espalhou para a sexta província, com um homem morrendo em Bas-Uele após viajar de Haut-Uele. Essa notícia, veiculada pelo The Guardian, destaca a gravidade da situação de saúde na região. Além disso, o The New York Times noticiou que um juiz rejeitou o caso de antisemitismo contra a Harvard, enquanto a Euronews informou sobre o naufrágio de um ferry no Zimbábue, com pelo menos 44 mortos. A RT destacou a investigação sobre o embaixador francês na República Centro-Africana por supostamente ter recebido dezenas de mulheres. Já o South China Morning Post noticiou que os EUA enviaram um novo porta-aviões para o Oriente Médio. Esses eventos mostram a diversidade de temas que marcaram o dia, desde questões de saúde até conflitos internacionais. É importante notar que cada veículo de imprensa tem seu próprio enfoque e abordagem, refletindo as diferentes perspectivas globais. Por exemplo, enquanto o The Guardian se concentra em questões de saúde e direitos humanos, o RT tende a destacar temas relacionados à política e conflitos internacionais. Essa variedade de abordagens permite uma visão mais completa dos eventos globais, ressaltando a importância de considerar múltiplas fontes de informação.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-08-13T08:00:00-03:00",
     "link": null,
@@ -981,52 +981,36 @@
   },
   "temas_principais": [
     {
-      "tema": "Eleições na Zâmbia",
-      "descricao": "O presidente Hakainde Hichilema busca um segundo mandato em meio à crise econômica",
+      "tema": "Surto de Ebola",
+      "descricao": "O surto de Ebola se espalhou para a sexta província na República Democrática do Congo",
       "fontes_que_cobriram": [
-        "the_guardian",
-        "aa"
+        "the_guardian"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "rt"
-      ],
-      "divergencia_de_enquadramento": "A cobertura da eleição na Zâmbia variou entre as fontes, com alguns destacando a crise econômica e outros a importância da votação"
-    },
-    {
-      "tema": "Crise na Ucrânia",
-      "descricao": "Aumento das mortes de civis e tensão com a Rússia",
-      "fontes_que_cobriram": [
         "new_york_times",
-        "st"
+        "euronews"
       ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "rt"
-      ],
-      "divergencia_de_enquadramento": "A cobertura da crise na Ucrânia variou entre as fontes, com alguns destacando a responsabilidade da Rússia e outros a complexidade do conflito"
+      "divergencia_de_enquadramento": "Enquanto o The Guardian destaca a gravidade do surto, outros veículos não deram muita atenção ao tema"
     },
     {
-      "tema": "Desastres naturais",
-      "descricao": "Terremoto na Colômbia e vazamento de óleo em Omã",
+      "tema": "Naufrágio de ferry no Zimbábue",
+      "descricao": "Pelo menos 44 mortos após balsa superlotada capotar no Lago Kariba, no Zimbábue",
       "fontes_que_cobriram": [
         "euronews",
-        "st"
+        "the_guardian"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "smh"
+        "rt",
+        "scmp"
       ],
-      "divergencia_de_enquadramento": "A cobertura dos desastres naturais variou entre as fontes, com alguns destacando a resposta de emergência e outros a causa do desastre"
+      "divergencia_de_enquadramento": "A Euronews e o The Guardian destacam a tragédia, enquanto outros veículos não a mencionam"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Saúde dos líderes africanos",
-      "por_que_importa": "A questão do sigilo médico é importante para a transparência e a confiança pública",
-      "cobertura": "Apenas a AllAfrica cobriu o tema, enquanto outras fontes ignoraram ou minimizaram"
-    },
-    {
-      "tema": "Rivalidade EUA-China",
-      "por_que_importa": "A disputa por minerais críticos é importante para a transição energética e a economia global",
-      "cobertura": "Apenas a AllAfrica e a SCMP cobriram o tema, enquanto outras fontes ignoraram ou minimizaram"
+      "tema": "Investigação sobre o embaixador francês",
+      "por_que_importa": "A investigação sobre o embaixador francês na República Centro-Africana pode ter implicações diplomáticas",
+      "cobertura": "Apenas a RT noticiou sobre a investigação"
     }
   ]
 }
