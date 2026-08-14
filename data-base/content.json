@@ -6,11 +6,11 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Surto de Ebola se espalha e outros temas globais",
-    "subtitulo": "Enquanto a República Democrática do Congo lida com o surto de Ebola, outros eventos globais chamam a atenção",
-    "resumo": "O surto de Ebola na República Democrática do Congo se espalhou para a sexta província, com um homem morrendo em Bas-Uele após viajar de Haut-Uele. Essa notícia, veiculada pelo The Guardian, destaca a gravidade da situação de saúde na região. Além disso, o The New York Times noticiou que um juiz rejeitou o caso de antisemitismo contra a Harvard, enquanto a Euronews informou sobre o naufrágio de um ferry no Zimbábue, com pelo menos 44 mortos. A RT destacou a investigação sobre o embaixador francês na República Centro-Africana por supostamente ter recebido dezenas de mulheres. Já o South China Morning Post noticiou que os EUA enviaram um novo porta-aviões para o Oriente Médio. Esses eventos mostram a diversidade de temas que marcaram o dia, desde questões de saúde até conflitos internacionais. É importante notar que cada veículo de imprensa tem seu próprio enfoque e abordagem, refletindo as diferentes perspectivas globais. Por exemplo, enquanto o The Guardian se concentra em questões de saúde e direitos humanos, o RT tende a destacar temas relacionados à política e conflitos internacionais. Essa variedade de abordagens permite uma visão mais completa dos eventos globais, ressaltando a importância de considerar múltiplas fontes de informação.",
+    "titulo": "Missionário americano libertado no Níger após 9 meses de cativeiro",
+    "subtitulo": "Enquanto a libertação de Kevin Rideout é comemorada, a Rússia enfrenta críticas por sua atuação no Mar Negro e a Ucrânia sofre com aumento de mortes civis",
+    "resumo": "O dia foi marcado pela libertação do missionário americano Kevin Rideout, sequestrado no Níger há 9 meses. Enquanto a notícia trouxe alívio, a Rússia enfrenta críticas por sua atuação no Mar Negro, onde descartou a ideia de um cessar-fogo com a Ucrânia. A Ucrânia, por sua vez, sofre com o aumento de mortes civis, com o número de vítimas quase triplicando em julho. Além disso, a África enfrenta desafios como o surto de Ebola na República Democrática do Congo e a crise política na Zâmbia. A China também está sob escrutínio, com acusações de operar uma 'rede de transbordo' para ajudar a evitar tarifas americanas. Enquanto isso, a Austrália debate a regulamentação da inteligência artificial e a segurança dos cidadãos australianos detidos no exterior.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-08-13T08:00:00-03:00",
+    "publicado_em": "2026-08-14T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -881,8 +881,30 @@
   },
   "temas_principais": [
     {
-      "tema": "Surto de Ebola",
-      "descricao": "O surto de Ebola se espalhou para a sexta província na República Democrática do Congo",
+      "tema": "Libertação de Kevin Rideout",
+      "descricao": "O missionário americano foi libertado após 9 meses de cativeiro no Níger",
+      "fontes_que_cobriram": [
+        "the_guardian",
+        "new_york_times"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [],
+      "divergencia_de_enquadramento": "As fontes destacam a libertação como um sucesso, mas não discutem detalhes sobre as negociações ou as condições do cativeiro"
+    },
+    {
+      "tema": "Aumento de mortes civis na Ucrânia",
+      "descricao": "O número de vítimas civis na Ucrânia quase triplicou em julho, de acordo com a ONU",
+      "fontes_que_cobriram": [
+        "st",
+        "mt"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "rt"
+      ],
+      "divergencia_de_enquadramento": "As fontes ocidentais destacam a responsabilidade da Rússia, enquanto a Rússia culpa a Ucrânia por não aceitar um cessar-fogo"
+    },
+    {
+      "tema": "Surto de Ebola na República Democrática do Congo",
+      "descricao": "O surto de Ebola se espalhou para a sexta província, com um homem morrendo em Bas-Uele",
       "fontes_que_cobriram": [
         "the_guardian"
       ],
@@ -890,27 +912,19 @@
         "new_york_times",
         "euronews"
       ],
-      "divergencia_de_enquadramento": "Enquanto o The Guardian destaca a gravidade do surto, outros veículos não deram muita atenção ao tema"
-    },
-    {
-      "tema": "Naufrágio de ferry no Zimbábue",
-      "descricao": "Pelo menos 44 mortos após balsa superlotada capotar no Lago Kariba, no Zimbábue",
-      "fontes_que_cobriram": [
-        "euronews",
-        "the_guardian"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "rt",
-        "scmp"
-      ],
-      "divergencia_de_enquadramento": "A Euronews e o The Guardian destacam a tragédia, enquanto outros veículos não a mencionam"
+      "divergencia_de_enquadramento": "A cobertura é limitada, com poucas fontes discutindo o tema"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Investigação sobre o embaixador francês",
-      "por_que_importa": "A investigação sobre o embaixador francês na República Centro-Africana pode ter implicações diplomáticas",
-      "cobertura": "Apenas a RT noticiou sobre a investigação"
+      "tema": "Crise política na Zâmbia",
+      "por_que_importa": "A crise política na Zâmbia pode afetar a estabilidade da região",
+      "cobertura": "Apenas o The Guardian cobriu o tema, com uma análise sobre as eleições e a rivalidade entre o presidente e o ex-presidente"
+    },
+    {
+      "tema": "Regulamentação da inteligência artificial na Austrália",
+      "por_que_importa": "A regulamentação da inteligência artificial é um tema importante para a segurança e a privacidade dos cidadãos australianos",
+      "cobertura": "Apenas o The Sydney Morning Herald cobriu o tema, com uma análise sobre as implicações da regulamentação"
     }
   ]
 }
