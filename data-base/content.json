@@ -6,9 +6,9 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Missionário americano libertado no Níger após 9 meses de cativeiro",
-    "subtitulo": "Enquanto a libertação de Kevin Rideout é comemorada, a Rússia enfrenta críticas por sua atuação no Mar Negro e a Ucrânia sofre com aumento de mortes civis",
-    "resumo": "O dia foi marcado pela libertação do missionário americano Kevin Rideout, sequestrado no Níger há 9 meses. Enquanto a notícia trouxe alívio, a Rússia enfrenta críticas por sua atuação no Mar Negro, onde descartou a ideia de um cessar-fogo com a Ucrânia. A Ucrânia, por sua vez, sofre com o aumento de mortes civis, com o número de vítimas quase triplicando em julho. Além disso, a África enfrenta desafios como o surto de Ebola na República Democrática do Congo e a crise política na Zâmbia. A China também está sob escrutínio, com acusações de operar uma 'rede de transbordo' para ajudar a evitar tarifas americanas. Enquanto isso, a Austrália debate a regulamentação da inteligência artificial e a segurança dos cidadãos australianos detidos no exterior.",
+    "titulo": "Tensões Globais: Conflitos e Desafios",
+    "subtitulo": "Análise das principais notícias do dia, desde a libertação de um missionário americano no Níger até as tensões no Mar Negro",
+    "resumo": "O dia foi marcado por uma série de eventos significativos em diferentes partes do mundo. A libertação de um missionário americano no Níger, após nove meses de cativeiro, trouxe alívio, enquanto o surto de Ebola na República Democrática do Congo se espalha para uma sexta província, aumentando as preocupações de saúde global. As tensões no Mar Negro continuam, com a Rússia rejeitando chamados para um cessar-fogo. Além disso, a política nos EUA está aquecida, com debates sobre a negociação de ações no Congresso e a administração Trump enfrentando críticas. A Europa também está sob vigilância, com notícias sobre a OTAN e as relações com a Rússia. No Oriente Médio, as tensões entre Israel e Palestina permanecem, enquanto a situação no Iêmen piora. A África não está imune a essas tensões, com notícias sobre a Zâmbia, Nigéria e Zimbábue. A Austrália também está nas manchetes, com discussões sobre a política local e internacional. É um mundo complexo, com muitos desafios a serem enfrentados.",
     "fonte": "Intelecto News · Redação",
     "publicado_em": "2026-08-14T08:00:00-03:00",
     "link": null,
@@ -941,50 +941,44 @@
   },
   "temas_principais": [
     {
-      "tema": "Libertação de Kevin Rideout",
-      "descricao": "O missionário americano foi libertado após 9 meses de cativeiro no Níger",
-      "fontes_que_cobriram": [
-        "the_guardian",
-        "new_york_times"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [],
-      "divergencia_de_enquadramento": "As fontes destacam a libertação como um sucesso, mas não discutem detalhes sobre as negociações ou as condições do cativeiro"
-    },
-    {
-      "tema": "Aumento de mortes civis na Ucrânia",
-      "descricao": "O número de vítimas civis na Ucrânia quase triplicou em julho, de acordo com a ONU",
-      "fontes_que_cobriram": [
-        "st",
-        "mt"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "rt"
-      ],
-      "divergencia_de_enquadramento": "As fontes ocidentais destacam a responsabilidade da Rússia, enquanto a Rússia culpa a Ucrânia por não aceitar um cessar-fogo"
-    },
-    {
-      "tema": "Surto de Ebola na República Democrática do Congo",
-      "descricao": "O surto de Ebola se espalhou para a sexta província, com um homem morrendo em Bas-Uele",
+      "tema": "Libertação do Missionário Americano",
+      "descricao": "Um missionário americano foi libertado no Níger após nove meses de cativeiro.",
       "fontes_que_cobriram": [
         "the_guardian"
       ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "new_york_times",
-        "euronews"
+      "fontes_que_ignoraram_ou_minimizaram": [],
+      "divergencia_de_enquadramento": "A notícia foi coberta de forma neutra, sem muitos detalhes sobre as negociações para a libertação."
+    },
+    {
+      "tema": "Surto de Ebola na República Democrática do Congo",
+      "descricao": "O surto de Ebola se espalha para uma sexta província na República Democrática do Congo.",
+      "fontes_que_cobriram": [
+        "the_guardian"
       ],
-      "divergencia_de_enquadramento": "A cobertura é limitada, com poucas fontes discutindo o tema"
+      "fontes_que_ignoraram_ou_minimizaram": [],
+      "divergencia_de_enquadramento": "A notícia foi coberta de forma alarmista, destacando a gravidade da situação."
+    },
+    {
+      "tema": "Tensões no Mar Negro",
+      "descricao": "A Rússia rejeitou chamados para um cessar-fogo no Mar Negro.",
+      "fontes_que_cobriram": [
+        "euronews",
+        "rt"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [],
+      "divergencia_de_enquadramento": "As fontes russas enfatizam a posição da Rússia, enquanto as fontes ocidentais destacam a necessidade de um cessar-fogo."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Crise política na Zâmbia",
-      "por_que_importa": "A crise política na Zâmbia pode afetar a estabilidade da região",
-      "cobertura": "Apenas o The Guardian cobriu o tema, com uma análise sobre as eleições e a rivalidade entre o presidente e o ex-presidente"
+      "tema": "Crise na Zâmbia",
+      "por_que_importa": "A crise na Zâmbia pode ter implicações regionais e globais.",
+      "cobertura": "A crise foi coberta por algumas fontes, mas não recebeu muita atenção."
     },
     {
-      "tema": "Regulamentação da inteligência artificial na Austrália",
-      "por_que_importa": "A regulamentação da inteligência artificial é um tema importante para a segurança e a privacidade dos cidadãos australianos",
-      "cobertura": "Apenas o The Sydney Morning Herald cobriu o tema, com uma análise sobre as implicações da regulamentação"
+      "tema": "Situação no Iêmen",
+      "por_que_importa": "A situação no Iêmen é um dos principais conflitos no Oriente Médio.",
+      "cobertura": "A situação no Iêmen foi coberta por algumas fontes, mas não recebeu muita atenção."
     }
   ]
 }
