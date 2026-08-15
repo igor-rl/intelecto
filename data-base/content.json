@@ -105,95 +105,178 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-08-14T21:00:00.769Z",
+      "gerado_em": "2026-08-15T10:00:00.813Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-08-14-2101",
-          "titulo": "Negociação de Ações no Congresso se Torna Linha de Ataque nas Campanhas de Meio de Mandato",
-          "resumo": "Desafiantes republicanos e democratas estão usando a questão para atacar membros do Congresso como antiéticos, aproveitando uma prática comum que enfurece os eleitores.",
+          "id": "new_york_times-2026-08-14T22:35:07-01",
+          "titulo": "Problemas da Marinha e do USS Lincoln Estão Relacionados a Ataques em Base dos EUA no Início da Guerra",
+          "resumo": "Diego Garcia, uma ilha minúscula a 2.200 milhas do Golfo de Omã, assumiu o papel de centro logístico da Marinha após o Irã danificar uma base em Bahrein.",
+          "link": "https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/14/us/politics/stock-trading-congress.html",
-          "publicado_em": "2026-08-14T20:23:38.000Z"
+          "publicado_em": "2026-08-14T22:35:07.000Z",
+          "fonte": "The New York Times"
         },
         {
-          "id": "new_york_times-2026-08-14-2102",
-          "titulo": "Os 5 Membros do Congresso Cuja Família Negocia Mais Ações",
-          "resumo": "Alguns legisladores e suas famílias negociaram milhões de dólares em ações desde o início deste mandato.",
+          "id": "new_york_times-2026-08-15T01:04:40-02",
+          "titulo": "Trump Descarta Relatórios Sobre Condições Precárias a Bordo do USS Abraham Lincoln",
+          "resumo": "Questionado se o desdobramento do Abraham Lincoln havia durado muito tempo, o presidente disse que sua implantação havia durado 'nem perto do suficiente'.",
+          "link": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/14/us/politics/biggest-stock-traders-congress.html",
-          "publicado_em": "2026-08-14T20:51:31.000Z"
+          "publicado_em": "2026-08-15T01:04:40.000Z",
+          "fonte": "The New York Times"
         },
         {
-          "id": "new_york_times-2026-08-14-2103",
+          "id": "new_york_times-2026-08-14T19:20:46-03",
           "titulo": "Como o The New York Times Relatou a Manobra do Air Force One de Trump na Turquia",
           "resumo": "A manobra do Air Force One do presidente Trump enganou potenciais adversários — e a imprensa. Aqui está o que aconteceu.",
-          "imagem": null,
           "link": "https://www.nytimes.com/2026/08/14/insider/trump-air-force-one-decoy-reporters.html",
-          "publicado_em": "2026-08-14T19:20:46.000Z"
+          "imagem": null,
+          "publicado_em": "2026-08-14T19:20:46.000Z",
+          "fonte": "The New York Times"
         },
         {
-          "id": "new_york_times-2026-08-14-2104",
-          "titulo": "Administração Trump Pede à Suprema Corte que Aprove a Sala de Baile da Casa Branca",
-          "resumo": "A sala de baile planejada de 90.000 pés quadrados está estimada em 400 milhões de dólares e faz parte do esforço mais amplo do presidente para remodelar Washington ao seu estilo.",
+          "id": "new_york_times-2026-08-15T01:37:14-04",
+          "titulo": "Negociação de Ações no Congresso se Torna Linha de Ataque em Campanhas de Meio de Mandato",
+          "resumo": "Desafiantes republicanos e democratas estão usando a questão para atacar membros do Congresso como antiéticos, aproveitando uma prática comum que enfurece os eleitores.",
+          "link": "https://www.nytimes.com/2026/08/14/us/politics/stock-trading-congress.html",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/14/us/politics/trump-ballroom-white-house-supreme-court.html",
-          "publicado_em": "2026-08-14T17:11:23.000Z"
+          "publicado_em": "2026-08-15T01:37:14.000Z",
+          "fonte": "The New York Times"
         },
         {
-          "id": "new_york_times-2026-08-14-2105",
-          "titulo": "DOJ Acusa Mulher de Kentucky por Vandalismo no Memorial da Segunda Guerra Mundial",
-          "resumo": "Dois crimes graves foram arquivados contra uma mulher de Kentucky após spray de tinta ser visto no memorial na capital.",
+          "id": "new_york_times-2026-08-14T20:51:31-05",
+          "titulo": "Os 5 Membros do Congresso Cuja Família Negocia Mais Ações",
+          "resumo": "Alguns legisladores e suas famílias negociaram milhões de dólares em ações desde o início deste mandato.",
+          "link": "https://www.nytimes.com/2026/08/14/us/politics/biggest-stock-traders-congress.html",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/14/us/politics/world-war-2-memorial-vandalism.html",
-          "publicado_em": "2026-08-14T19:04:23.000Z"
+          "publicado_em": "2026-08-14T20:51:31.000Z",
+          "fonte": "The New York Times"
         },
         {
-          "id": "new_york_times-2026-08-14-2106",
-          "titulo": "Jason Arday, Professor de Cambridge Acusado de Plágio, é Encontrado Morto",
-          "resumo": "A polícia britânica disse que um homem foi encontrado morto em uma casa ligada a Arday, que renunciou após a universidade anunciar uma investigação sobre alegações de plágio e fabricação.",
+          "id": "new_york_times-2026-08-14T21:49:50-06",
+          "titulo": "Democrata do Alasca, Mary Peltola, Reage Contra Endosso de Kamala Harris",
+          "resumo": "A campanha de Mary Peltola disse que estava focada em questões importantes para o Alasca e não aprovou uma mensagem de apoio de Harris.",
+          "link": "https://www.nytimes.com/2026/08/14/us/politics/kamala-harris-mary-peltola-endorsement.html",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html",
-          "publicado_em": "2026-08-14T19:53:04.000Z"
+          "publicado_em": "2026-08-14T21:49:50.000Z",
+          "fonte": "The New York Times"
         },
         {
-          "id": "new_york_times-2026-08-14-2111",
-          "titulo": "À Medida que o Exército Falha em Proteger os Palestinos, Líderes Israelenses Simpatizam com os Colonos",
-          "resumo": "O ministro da Defesa Katz pediu que o exército transferisse para a polícia a responsabilidade de proteger os palestinos após duas famílias da Cisjordânia serem cercadas por colonos violentos.",
+          "id": "new_york_times-2026-08-15T04:01:09-07",
+          "titulo": "Preocupados com Trump, a Europa Procura Papel em Negociações Futuras entre Rússia e Ucrânia",
+          "resumo": "Diplomatas franceses, alemães e britânicos estão trabalhando em um formato para futuras negociações — mesmo que a Rússia tenha mostrado pouco interesse.",
+          "link": "https://www.nytimes.com/2026/08/15/world/europe/wary-of-trump-europe-seeks-role-in-any-russia-ukraine-talks.html",
           "imagem": null,
+          "publicado_em": "2026-08-15T04:01:09.000Z",
+          "fonte": "The New York Times"
+        },
+        {
+          "id": "new_york_times-2026-08-15T09:35:25-08",
+          "titulo": "Morte de Professor Deixa Dúvidas Difíceis para Cambridge sobre Raça e Contratação",
+          "resumo": "Jason Arday, o professor mais jovem negro da escola, foi encontrado morto na sexta-feira. A escola ignorou uma série de advertências sobre sua história de vida e seu trabalho.",
+          "link": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
+          "imagem": null,
+          "publicado_em": "2026-08-15T09:35:25.000Z",
+          "fonte": "The New York Times"
+        },
+        {
+          "id": "new_york_times-2026-08-14T20:11:47-09",
+          "titulo": "É Seguro Comer Alface e Outros Produtos Frescos à Medida que a Surto de Cyclospora Diminui?",
+          "resumo": "À medida que o maior surto de cyclospora da história dos EUA diminui, especialistas avaliam se alface e outros produtos frescos ainda representam um risco.",
+          "link": "https://www.nytimes.com/2026/08/14/well/eat/cyclospora-lettuce-jalapenos-produce-safe.html",
+          "imagem": null,
+          "publicado_em": "2026-08-14T20:11:47.000Z",
+          "fonte": "The New York Times"
+        },
+        {
+          "id": "new_york_times-2026-08-14T23:06:26-10",
+          "titulo": "FDA Classifica Recurso de Ovos como Classe I para o Maior Risco à Saúde",
+          "resumo": "Quase 20 milhões de ovos foram retirados do mercado em julho devido a preocupações com salmonela. A nova classificação sinaliza uma 'probabilidade razoável' de 'consequências adversas graves à saúde ou morte'.",
+          "link": "https://www.nytimes.com/2026/08/14/health/fda-egg-recall-salmonella.html",
+          "imagem": null,
+          "publicado_em": "2026-08-14T23:06:26.000Z",
+          "fonte": "The New York Times"
+        },
+        {
+          "id": "new_york_times-2026-08-15T04:01:10-11",
+          "titulo": "Mortes por Calor em um País 'Frio' São um Aviso para o Resto da Europa",
+          "resumo": "Uma onda de calor em junho na Bélgica e países vizinhos expôs uma falta letal de preparo. Isso é um risco à medida que outra onda atinge a Europa.",
+          "link": "https://www.nytimes.com/2026/08/15/world/europe/heat-deaths-in-a-cold-country-are-a-warning-to-the-rest-of-europe.html",
+          "imagem": null,
+          "publicado_em": "2026-08-15T04:01:10.000Z",
+          "fonte": "The New York Times"
+        },
+        {
+          "id": "new_york_times-2026-08-14T22:27:24-12",
+          "titulo": "O Caso de Luigi Mangione Tocou um Nervo Cultural",
+          "resumo": "À medida que o assassinato de Brian Thompson chocou a maioria dos americanos, algumas pessoas, muitas nas redes sociais, começaram a mostrar simpatia por Mangione e a canalizar sua própria frustração com a indústria de saúde.",
+          "link": "https://www.nytimes.com/2026/08/14/nyregion/luigi-mangione-culture-shooting.html",
+          "imagem": null,
+          "publicado_em": "2026-08-14T22:27:24.000Z",
+          "fonte": "The New York Times"
+        },
+        {
+          "id": "new_york_times-2026-08-14T21:01:21-13",
+          "titulo": "À Medida que o Exército Falha em Proteger Palestinos, Líderes Israelenses Simpatizam com Colonos",
+          "resumo": "O ministro da Defesa, Katz, pediu que o exército transferisse para a polícia a responsabilidade de proteger os palestinos após duas famílias da Cisjordânia serem cercadas por colonos violentos.",
           "link": "https://www.nytimes.com/2026/08/14/world/middleeast/israel-west-bank-settler-violence-military-police.html",
-          "publicado_em": "2026-08-14T20:37:39.000Z"
-        },
-        {
-          "id": "new_york_times-2026-08-14-2112",
-          "titulo": "O Talibã Expulsou os EUA do Afeganistão. Agora Eles Querem que Voltem",
-          "resumo": "Em uma entrevista, o ministro das Relações Exteriores do Afeganistão pediu que os EUA reabrissem sua embaixada e investissem no país — uma venda quase impossível por enquanto, dizem analistas e ex-diplomatas.",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/14/world/asia/afghanistan-us-taliban.html",
-          "publicado_em": "2026-08-14T16:01:43.000Z"
+          "publicado_em": "2026-08-14T21:01:21.000Z",
+          "fonte": "The New York Times"
         },
         {
-          "id": "new_york_times-2026-08-14-2114",
+          "id": "new_york_times-2026-08-15T04:01:19-14",
+          "titulo": "Entrenched, Embattled e Defiantes, os Talibãs Celebram 5 Anos no Poder",
+          "resumo": "Os talibãs têm o Afeganistão em um estrangulamento que não poupa ninguém. Mas ameaças começam a rachar sua aparência de estabilidade e controle.",
+          "link": "https://www.nytimes.com/2026/08/15/world/asia/entrenched-embattled-and-defiant-the-taliban-celebrate-5-years-in-power.html",
+          "imagem": null,
+          "publicado_em": "2026-08-15T04:01:19.000Z",
+          "fonte": "The New York Times"
+        },
+        {
+          "id": "new_york_times-2026-08-15T04:15:03-15",
+          "titulo": "Homem Acusado de Crime de Ódio após Interromper Culto em Sinagoga de Nova York",
+          "resumo": "Larry Montes, 46, enfrenta acusações de agressão e crime de ódio após atingir um membro da congregação e um segurança na Sinagoga Central em Manhattan, disseram a polícia.",
+          "link": "https://www.nytimes.com/2026/08/14/nyregion/central-synagogue-shabbat-assault-arrest.html",
+          "imagem": null,
+          "publicado_em": "2026-08-15T04:15:03.000Z",
+          "fonte": "The New York Times"
+        },
+        {
+          "id": "new_york_times-2026-08-15T05:49:49-16",
+          "titulo": "Mary Heilmann, Pintora de Abstrações Vibrantes e Instáveis, Morre Aos 86",
+          "resumo": "Um emblema dos obstáculos enfrentados por mulheres artistas de sua geração, ela tinha 67 anos quando sua primeira retrospectiva em um museu foi aberta com críticas positivas em 2007.",
+          "link": "https://www.nytimes.com/2026/08/15/arts/design/mary-heilmann-dead.html",
+          "imagem": null,
+          "publicado_em": "2026-08-15T05:49:49.000Z",
+          "fonte": "The New York Times"
+        },
+        {
+          "id": "new_york_times-2026-08-14T17:35:37-17",
           "titulo": "Calor Extremo é o Novo Normal",
           "resumo": "Bombeiros em Phoenix correm para salvar vidas em uma cidade que só está ficando mais quente.",
-          "imagem": null,
           "link": "https://www.nytimes.com/2026/08/14/opinion/extreme-heat-arizona-climate-change.html",
-          "publicado_em": "2026-08-14T17:35:37.000Z"
+          "imagem": null,
+          "publicado_em": "2026-08-14T17:35:37.000Z",
+          "fonte": "The New York Times"
         },
         {
-          "id": "new_york_times-2026-08-14-2115",
-          "titulo": "Os Republicanos Estão Prestes a Repetir o Maior Erro dos Democratas",
-          "resumo": "A relutância da direita em controlar pode ser sua ruína.",
+          "id": "new_york_times-2026-08-14T15:20:41-18",
+          "titulo": "Política Americana Desatualizada Está Prejudicando o Povo Afegão",
+          "resumo": "Uma nova geração de afegãos quer seguir em frente das animosidades do passado, mas as políticas ocidentais tornam isso difícil.",
+          "link": "https://www.nytimes.com/2026/08/14/opinion/afghanistan-us-anniversary-kabul-five-years.html",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/14/opinion/republicans-woke-radical.html",
-          "publicado_em": "2026-08-14T10:43:57.000Z"
+          "publicado_em": "2026-08-14T15:20:41.000Z",
+          "fonte": "The New York Times"
         },
         {
-          "id": "new_york_times-2026-08-14-2117",
-          "titulo": "Por Que a Europa Continua a Ser Atingida por Ondas de Calor",
-          "resumo": "O planeta inteiro está esquentando, mas mudanças nos padrões climáticos podem ajudar a explicar por que o continente está sofrendo tantos surtos de calor severo.",
+          "id": "new_york_times-2026-08-15T09:17:11-19",
+          "titulo": "Pelo Menos 38 Mortos ao Terremoto de 7,7 Graus atinge a Indonésia",
+          "resumo": "O terremoto foi um dos mais fortes que a área havia experimentado em décadas, disse um oficial.",
+          "link": "https://www.nytimes.com/2026/08/15/world/asia/earthquake-indonesia-flores-tsunami.html",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/14/climate/europe-heat-waves-jet-stream.html",
-          "publicado_em": "2026-08-14T15:02:34.000Z"
+          "publicado_em": "2026-08-15T09:17:11.000Z",
+          "fonte": "The New York Times"
         }
       ]
     },
