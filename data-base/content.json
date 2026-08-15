@@ -6,11 +6,11 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Terremoto na Indonésia",
-    "subtitulo": "Pelo menos 38 mortos após terremoto de magnitude 7,7 atingir a costa da Indonésia",
-    "resumo": "Um terremoto de magnitude 7,7 atingiu a costa da Indonésia no início do sábado, matando pelo menos 38 pessoas e causando pânico em uma região propensa a terremotos. O terremoto foi seguido por vários tremores secundários, e um alerta de tsunami foi levantado. A região de Flores foi a mais afetada, com relatos de danos a prédios e infraestrutura. O terremoto também foi sentido em outras partes da Indonésia, incluindo a capital, Jacarta. A comunidade internacional já ofereceu ajuda ao país para ajudar nos esforços de resgate e reconstrução. Enquanto isso, a situação política na Zâmbia continua tensa, com o líder da oposição reivindicando vitória nas eleições presidenciais. Além disso, a Rússia e a Ucrânia continuam a se envolver em conflitos, com a Rússia relatando a captura de 19 assentamentos no sudeste da Ucrânia. A crise migratória na Europa também continua a ser um tema importante, com a caridade de migrantes SOS Méditerranée relatando a descoberta de 11 corpos no mar ao largo da costa da Líbia.",
+    "titulo": "Desastres e tensões globais",
+    "subtitulo": "Acidentes, conflitos e desafios ambientais dominam manchetes",
+    "resumo": "Um acidente de barco no Zimbábue resultou na morte de 68 pessoas, com 18 crianças entre as vítimas. Enquanto isso, a tensão no Oriente Médio aumenta com ataques aéreos israelenses no Líbano, matando 11 pessoas. A China publicou relatórios de avaliação ecológica sobre recursos disputados no Mar do Sul da China, intensificando a disputa com os EUA. Além disso, um terremoto de 7,7 graus de magnitude atingiu a Indonésia, causando danos e mortes. Esses eventos somam-se a uma lista de desafios globais, incluindo a crise no Sudão, o surto de Ebola na República Democrática do Congo e as eleições na Zâmbia. A cobertura desses eventos varia significativamente entre as diferentes fontes de notícias, refletindo as perspectivas e prioridades de cada região e bloco geopolítico.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-08-15T10:00:00-03:00",
+    "publicado_em": "2026-08-15T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -854,50 +854,52 @@
   },
   "temas_principais": [
     {
-      "tema": "Terremoto na Indonésia",
-      "descricao": "Terremoto de magnitude 7,7 atinge a costa da Indonésia, matando pelo menos 38 pessoas",
+      "tema": "Acidente de barco no Zimbábue",
+      "descricao": "Um ferry capotou no Lago Kariba, resultando em 68 mortos, com 18 crianças entre as vítimas.",
+      "fontes_que_cobriram": [
+        "the_guardian"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "new_york_times",
+        "euronews"
+      ],
+      "divergencia_de_enquadramento": "A cobertura do acidente variou, com o The Guardian destacando o número de mortos e a tragédia, enquanto outras fontes não deram tanto destaque ao evento."
+    },
+    {
+      "tema": "Ataques aéreos israelenses no Líbano",
+      "descricao": "Ataques aéreos israelenses no sul do Líbano mataram pelo menos 11 pessoas, nos ataques mais letais desde o início do cessar-fogo.",
       "fontes_que_cobriram": [
         "euronews",
-        "scmp",
-        "smh"
+        "scmp"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "rt",
-        "mt"
+        "rt"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a tragédia e a necessidade de ajuda humanitária, enquanto as fontes russas e chinesas destacam a resposta do governo indonésio e a solidariedade internacional"
+      "divergencia_de_enquadramento": "A cobertura dos ataques variou, com algumas fontes destacando a violação do cessar-fogo e outras focando na resposta de Israel a supostas ameaças."
     },
     {
-      "tema": "Eleições na Zâmbia",
-      "descricao": "Líder da oposição reivindica vitória nas eleições presidenciais",
+      "tema": "Terremoto na Indonésia",
+      "descricao": "Um terremoto de 7,7 graus de magnitude atingiu a Indonésia, causando danos e mortes.",
       "fontes_que_cobriram": [
-        "aa"
+        "euronews",
+        "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian",
         "new_york_times"
       ],
-      "divergencia_de_enquadramento": "A fonte africana destaca a importância da eleição para a democracia na Zâmbia, enquanto as fontes ocidentais não dão muita atenção ao tema"
-    },
-    {
-      "tema": "Conflito na Ucrânia",
-      "descricao": "Rússia relata a captura de 19 assentamentos no sudeste da Ucrânia",
-      "fontes_que_cobriram": [
-        "rt",
-        "mt"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "the_guardian",
-        "new_york_times"
-      ],
-      "divergencia_de_enquadramento": "As fontes russas destacam a vitória militar, enquanto as fontes ocidentais não dão muita atenção ao tema ou o apresentam de forma crítica"
+      "divergencia_de_enquadramento": "A cobertura do terremoto variou, com algumas fontes destacando a magnitude do desastre e outras focando em aspectos mais locais."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Crise migratória na Europa",
-      "por_que_importa": "A crise migratória continua a ser um tema importante na Europa, com muitas vidas em risco",
-      "cobertura": "A caridade de migrantes SOS Méditerranée relatou a descoberta de 11 corpos no mar ao largo da costa da Líbia, mas o tema não recebeu muita atenção das fontes principais"
+      "tema": "Surto de Ebola na República Democrática do Congo",
+      "por_que_importa": "O surto de Ebola é um desafio significativo para a saúde global, com potencial de se espalhar para outras regiões.",
+      "cobertura": "A cobertura do surto tem sido limitada, com poucas fontes dedicando atenção ao tema."
+    },
+    {
+      "tema": "Crise no Sudão",
+      "por_que_importa": "A crise no Sudão tem implicações regionais e globais, com potencial de afetar a estabilidade e a segurança na região.",
+      "cobertura": "A cobertura da crise tem sido variada, com algumas fontes destacando a gravidade da situação e outras minimizando seu impacto."
     }
   ]
 }
