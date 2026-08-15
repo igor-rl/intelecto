@@ -759,26 +759,42 @@
     "mt": {
       "slug": "mt",
       "nome": "The Moscow Times",
-      "gerado_em": "2026-08-14T21:46:02.422Z",
+      "gerado_em": "2026-08-15T10:46:26.246Z",
       "artigos": [
         {
-          "id": "mt-2026-08-14-01",
-          "titulo": "Vítimas Civis na Ucrânia em Julho Atingem o Maior Número Mensal Desde Março de 2022, Diz a ONU",
+          "id": "mt-2026-08-15-01",
+          "titulo": "Campanha de Verão Levou à Captura de 19 Assentamentos no Sudeste da Ucrânia – Ministério da Defesa",
+          "resumo": "Os avanços russos na linha de frente desaceleraram este ano, mesmo com Moscou intensificando seus ataques balísticos em Kiev e outras cidades ucranianas.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/15/summer-campaign-led-to-capture-of-19-settlements-in-southeast-ukraine-defense-ministry-a93504",
+          "publicado_em": "2026-08-15T10:14:01.000Z"
+        },
+        {
+          "id": "mt-2026-08-15-02",
+          "titulo": "Ucrânia Ataca Instalação Industrial na Região de Samara",
+          "resumo": "As autoridades locais reconheceram que uma instalação foi atingida, mas não confirmaram publicamente os detalhes.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/15/ukraine-strikes-industrial-facility-in-samara-region-a93503",
+          "publicado_em": "2026-08-15T08:16:07.000Z"
+        },
+        {
+          "id": "mt-2026-08-15-03",
+          "titulo": "Vítimas Civis na Ucrânia em Julho Atingiram o Maior Número Mensal Desde Março de 2022, Diz a ONU",
           "resumo": "A Missão de Monitoramento de Direitos Humanos da ONU na Ucrânia confirmou que pelo menos 437 civis foram mortos e 2.610 feridos no mês passado.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/14/civilian-casualties-in-ukraine-in-july-hit-highest-monthly-toll-since-march-2022-un-says-a93501",
           "publicado_em": "2026-08-14T15:00:09.000Z"
         },
         {
-          "id": "mt-2026-08-14-02",
-          "titulo": "Yabloko Recorre de Decisão do Supremo Tribunal Russo que a Barra de Eleições para a Duma Estadual",
-          "resumo": "O presidente do partido, Nikolai Rybakov, prometeu que \"Yabloko estará na cédula\" nas eleições para a Duma Estadual do próximo mês.",
+          "id": "mt-2026-08-15-04",
+          "titulo": "Yabloko Recorre de Decisão do Supremo Tribunal Russo que a Barra das Eleições da Duma Estadual",
+          "resumo": "O presidente do partido, Nikolai Rybakov, prometeu que “Yabloko estará na cédula” nas eleições da Duma Estadual do próximo mês.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/14/yabloko-appeals-russian-supreme-court-ruling-barring-it-from-state-duma-elections-a93500",
           "publicado_em": "2026-08-14T13:42:07.000Z"
         },
         {
-          "id": "mt-2026-08-14-03",
+          "id": "mt-2026-08-15-05",
           "titulo": "Região de Zabaikalsky Declara Estado de Emergência Após Inundações de Verão",
           "resumo": "O governador Alexander Osipov disse que a declaração de emergência era necessária para acelerar a ajuda financeira aos residentes afetados pelas inundações e reparos na infraestrutura danificada.",
           "imagem": null,
@@ -786,23 +802,23 @@
           "publicado_em": "2026-08-14T12:04:47.000Z"
         },
         {
-          "id": "mt-2026-08-14-04",
-          "titulo": "Rússia Rejeita Chamados para um Cessar-Fogo no Mar Negro",
-          "resumo": "O Ministério das Relações Exteriores disse que não via fundamentos para \"medidas parciais\" que dariam um descanso às forças ucranianas.",
+          "id": "mt-2026-08-15-06",
+          "titulo": "Rússia Rejeita Chamados para um Ceasefire no Mar Negro",
+          "resumo": "O Ministério das Relações Exteriores disse que não via razões para “medidas parciais” que dariam um descanso às forças ucranianas.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/14/russia-dismisses-calls-for-black-sea-ceasefire-a93499",
           "publicado_em": "2026-08-14T11:43:00.000Z"
         },
         {
-          "id": "mt-2026-08-14-05",
+          "id": "mt-2026-08-15-07",
           "titulo": "Promotores Pedem Pena de 12 Anos de Prisão para Lev Shlosberg",
-          "resumo": "O político de oposição veterano é acusado de \"desacreditar\" e espalhar \"notícias falsas\" sobre as forças armadas russas.",
+          "resumo": "O político de oposição veterano é acusado de “desacreditar” e espalhar “notícias falsas” sobre as forças armadas russas.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/14/state-prosecutors-seek-12-year-prison-sentence-for-lev-shlosberg-a93497",
           "publicado_em": "2026-08-14T10:37:56.000Z"
         },
         {
-          "id": "mt-2026-08-14-06",
+          "id": "mt-2026-08-15-08",
           "titulo": "Tribunal de Moscou Condena Homem a 23 Anos de Prisão por Espionagem para a Polônia",
           "resumo": "Georgy Pirogov desapareceu em julho de 2024 durante uma viagem de negócios ao Uzbequistão e ressurgiu dias depois dentro da prisão de Matrosskaya Tishina, em Moscou.",
           "imagem": null,
@@ -810,7 +826,7 @@
           "publicado_em": "2026-08-14T08:42:06.000Z"
         },
         {
-          "id": "mt-2026-08-14-07",
+          "id": "mt-2026-08-15-09",
           "titulo": "Incêndio Erupta no Porto de Ust-Luga Após Ataque de Drona Ucraniano",
           "resumo": "As autoridades regionais disseram que os bombeiros conseguiram apagar o incêndio no terminal de exportação de petróleo, que foi atingido várias vezes antes.",
           "imagem": null,
@@ -818,23 +834,23 @@
           "publicado_em": "2026-08-14T07:39:00.000Z"
         },
         {
-          "id": "mt-2026-08-14-08",
+          "id": "mt-2026-08-15-10",
           "titulo": "Incêndios, Inundações e Ar Pútrido: Na Região de Tyumen, na Sibéria, Desastres Climáticos se Tornam Bíblicos",
-          "resumo": "Grandes áreas da Sibéria estão testemunhando extremos climáticos vertiginosos este verão. Especialistas apontam para a mudança climática.",
+          "resumo": "Grandes áreas da Sibéria estão testemunhando extremos climáticos vertiginosos este verão. Especialistas apontam para as mudanças climáticas.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/13/fires-floods-and-foul-air-in-siberias-tyumen-region-weather-disasters-turn-biblical-a93493",
           "publicado_em": "2026-08-13T15:30:00.000Z"
         },
         {
-          "id": "mt-2026-08-14-09",
+          "id": "mt-2026-08-15-11",
           "titulo": "Universidades de Moscou Veem Concorrência Recorde para Admissões Amidst Cotas de Guerra e Cortes Orçamentários",
-          "resumo": "O Kremlin tem pressionado para reduzir a matrícula nas universidades em favor de treinamento vocacional para abordar a escassez de mão de obra industrial.",
+          "resumo": "O Kremlin tem pressionado para reduzir a matrícula nas universidades em favor de treinamento vocacional para lidar com a escassez de mão de obra industrial.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/13/moscow-universities-see-record-admissions-competition-amid-wartime-quotas-and-budget-cuts-a93492",
           "publicado_em": "2026-08-13T15:08:53.000Z"
         },
         {
-          "id": "mt-2026-08-14-10",
+          "id": "mt-2026-08-15-12",
           "titulo": "Ativista de Novosibirsk que Documentou Protestos de Fazendeiros Preso por Cargos de Terrorismo",
           "resumo": "“Acredito que isso é uma represália pela postura cívica ativa de minha mãe”, disse a filha de Mikhailova em um vídeo.",
           "imagem": null,
@@ -842,15 +858,15 @@
           "publicado_em": "2026-08-13T14:48:03.000Z"
         },
         {
-          "id": "mt-2026-08-14-11",
+          "id": "mt-2026-08-15-13",
           "titulo": "Refinaria de Orsk Fecha por 6 Meses Após Ataque Ucraniano",
-          "resumo": "Na quinta-feira, o governador regional Yevgeny Solntsev descreveu a situação nas estações de gasolina locais como \"não simples em todos os lugares, mas administrável\".",
+          "resumo": "Na quinta-feira, o governador regional Yevgeny Solntsev descreveu a situação nas estações de gasolina locais como “não simples em todos os lugares, mas gerenciável”.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/13/orsk-refinery-shutters-for-6-months-after-ukrainian-attack-a93489",
           "publicado_em": "2026-08-13T14:11:17.000Z"
         },
         {
-          "id": "mt-2026-08-14-12",
+          "id": "mt-2026-08-15-14",
           "titulo": "Oficial Militar Russo Morto em Explosão de Bomba na Crimeia Anexada",
           "resumo": "Canais do Telegram identificaram a vítima como o Capitão Primeiro Rank Robert Shageyev, que desertou para a Rússia durante a anexação da Crimeia em 2014.",
           "imagem": null,
@@ -858,7 +874,7 @@
           "publicado_em": "2026-08-13T12:12:14.000Z"
         },
         {
-          "id": "mt-2026-08-14-13",
+          "id": "mt-2026-08-15-15",
           "titulo": "Putin Faz Primeira Visita às Ilhas Kuril Disputadas Amidst Protestos do Japão",
           "resumo": "As quatro ilhas contestadas fazem parte do arquipélago vulcânico das Kuril, que se estende de Kamchatka a Hokkaido.",
           "imagem": null,
@@ -866,20 +882,44 @@
           "publicado_em": "2026-08-13T11:26:00.000Z"
         },
         {
-          "id": "mt-2026-08-14-14",
+          "id": "mt-2026-08-15-16",
           "titulo": "Tribunal de Moscou Mantém Prisão de Empresário por Pagamento de Impostos Ucranianos",
-          "resumo": "Investigadores russos alegam que Varyukhin cometeu traição ao pagar impostos obrigatórios sobre seus ganhos para o orçamento estatal ucraniano.",
+          "resumo": "Os investigadores russos alegam que Varyukhin cometeu traição ao pagar impostos obrigatórios sobre seus ganhos para o orçamento estatal ucraniano.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/13/moscow-court-upholds-visiting-businessmans-treason-arrest-over-ukrainian-tax-payments-mediazona-reports-a93483",
           "publicado_em": "2026-08-13T10:01:03.000Z"
         },
         {
-          "id": "mt-2026-08-14-15",
-          "titulo": "Dronas Ucranianas Atacam Hub de Wildberries e Refinaria de Petróleo em Bashkortostan",
+          "id": "mt-2026-08-15-17",
+          "titulo": "Dronas Ucranianas Atacam Hub da Wildberries e Refinaria de Petróleo em Bashkortostan",
           "resumo": "A Ucrânia atingiu mais de duas dúzias de instalações da Wildberries no último mês.",
           "imagem": null,
           "link": "https://www.themoscowtimes.com/2026/08/13/ukrainian-drones-attack-wildberries-hub-and-oil-refinery-in-bashkortostan-a93480",
           "publicado_em": "2026-08-13T08:31:00.000Z"
+        },
+        {
+          "id": "mt-2026-08-15-18",
+          "titulo": "Região de Tyumen Impõe Abate em Massa de Porcos devido a Surto Misterioso",
+          "resumo": "O incidente segue um abate semelhante de gado após um surto de pasteurelose na região de Novosibirsk no início do ano.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/12/tyumen-region-imposes-mass-pig-culls-over-mystery-outbreak-a93477",
+          "publicado_em": "2026-08-12T15:29:31.000Z"
+        },
+        {
+          "id": "mt-2026-08-15-19",
+          "titulo": "Filho de Ex-Oficial Sênior Preso em Investigação de Assassinato em Moscou",
+          "resumo": "Alexander Khotin foi detido na terça-feira, a oeste de Moscou, onde alegadamente encontraram uma faca ensanguentada dentro de um banheiro, de acordo com o RBC.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/12/son-of-former-senior-official-reportedly-arrested-in-moscow-murder-investigation-a93475",
+          "publicado_em": "2026-08-12T14:52:22.000Z"
+        },
+        {
+          "id": "mt-2026-08-15-20",
+          "titulo": "Professor de Filosofia de São Petersburgo Detido por Doações de US$ 40 para Navalny",
+          "resumo": "“Eu pessoalmente apoiei Alexei Navalny”, disse Zaytsev aos oficiais em vídeo.",
+          "imagem": null,
+          "link": "https://www.themoscowtimes.com/2026/08/12/st-petersburg-philosophy-professor-detained-over-40-extremist-navalny-donations-a93474",
+          "publicado_em": "2026-08-12T14:05:58.000Z"
         }
       ]
     },
