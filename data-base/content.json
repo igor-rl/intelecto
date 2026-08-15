@@ -6,11 +6,11 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Tensões Globais: Conflitos e Desafios",
-    "subtitulo": "Análise das principais notícias do dia, desde a libertação de um missionário americano no Níger até as tensões no Mar Negro",
-    "resumo": "O dia foi marcado por uma série de eventos significativos em diferentes partes do mundo. A libertação de um missionário americano no Níger, após nove meses de cativeiro, trouxe alívio, enquanto o surto de Ebola na República Democrática do Congo se espalha para uma sexta província, aumentando as preocupações de saúde global. As tensões no Mar Negro continuam, com a Rússia rejeitando chamados para um cessar-fogo. Além disso, a política nos EUA está aquecida, com debates sobre a negociação de ações no Congresso e a administração Trump enfrentando críticas. A Europa também está sob vigilância, com notícias sobre a OTAN e as relações com a Rússia. No Oriente Médio, as tensões entre Israel e Palestina permanecem, enquanto a situação no Iêmen piora. A África não está imune a essas tensões, com notícias sobre a Zâmbia, Nigéria e Zimbábue. A Austrália também está nas manchetes, com discussões sobre a política local e internacional. É um mundo complexo, com muitos desafios a serem enfrentados.",
+    "titulo": "Terremoto na Indonésia",
+    "subtitulo": "Pelo menos 38 mortos após terremoto de magnitude 7,7 atingir a costa da Indonésia",
+    "resumo": "Um terremoto de magnitude 7,7 atingiu a costa da Indonésia no início do sábado, matando pelo menos 38 pessoas e causando pânico em uma região propensa a terremotos. O terremoto foi seguido por vários tremores secundários, e um alerta de tsunami foi levantado. A região de Flores foi a mais afetada, com relatos de danos a prédios e infraestrutura. O terremoto também foi sentido em outras partes da Indonésia, incluindo a capital, Jacarta. A comunidade internacional já ofereceu ajuda ao país para ajudar nos esforços de resgate e reconstrução. Enquanto isso, a situação política na Zâmbia continua tensa, com o líder da oposição reivindicando vitória nas eleições presidenciais. Além disso, a Rússia e a Ucrânia continuam a se envolver em conflitos, com a Rússia relatando a captura de 19 assentamentos no sudeste da Ucrânia. A crise migratória na Europa também continua a ser um tema importante, com a caridade de migrantes SOS Méditerranée relatando a descoberta de 11 corpos no mar ao largo da costa da Líbia.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-08-14T08:00:00-03:00",
+    "publicado_em": "2026-08-15T10:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -1060,44 +1060,50 @@
   },
   "temas_principais": [
     {
-      "tema": "Libertação do Missionário Americano",
-      "descricao": "Um missionário americano foi libertado no Níger após nove meses de cativeiro.",
-      "fontes_que_cobriram": [
-        "the_guardian"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [],
-      "divergencia_de_enquadramento": "A notícia foi coberta de forma neutra, sem muitos detalhes sobre as negociações para a libertação."
-    },
-    {
-      "tema": "Surto de Ebola na República Democrática do Congo",
-      "descricao": "O surto de Ebola se espalha para uma sexta província na República Democrática do Congo.",
-      "fontes_que_cobriram": [
-        "the_guardian"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [],
-      "divergencia_de_enquadramento": "A notícia foi coberta de forma alarmista, destacando a gravidade da situação."
-    },
-    {
-      "tema": "Tensões no Mar Negro",
-      "descricao": "A Rússia rejeitou chamados para um cessar-fogo no Mar Negro.",
+      "tema": "Terremoto na Indonésia",
+      "descricao": "Terremoto de magnitude 7,7 atinge a costa da Indonésia, matando pelo menos 38 pessoas",
       "fontes_que_cobriram": [
         "euronews",
-        "rt"
+        "scmp",
+        "smh"
       ],
-      "fontes_que_ignoraram_ou_minimizaram": [],
-      "divergencia_de_enquadramento": "As fontes russas enfatizam a posição da Rússia, enquanto as fontes ocidentais destacam a necessidade de um cessar-fogo."
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "rt",
+        "mt"
+      ],
+      "divergencia_de_enquadramento": "As fontes ocidentais enfatizam a tragédia e a necessidade de ajuda humanitária, enquanto as fontes russas e chinesas destacam a resposta do governo indonésio e a solidariedade internacional"
+    },
+    {
+      "tema": "Eleições na Zâmbia",
+      "descricao": "Líder da oposição reivindica vitória nas eleições presidenciais",
+      "fontes_que_cobriram": [
+        "aa"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "the_guardian",
+        "new_york_times"
+      ],
+      "divergencia_de_enquadramento": "A fonte africana destaca a importância da eleição para a democracia na Zâmbia, enquanto as fontes ocidentais não dão muita atenção ao tema"
+    },
+    {
+      "tema": "Conflito na Ucrânia",
+      "descricao": "Rússia relata a captura de 19 assentamentos no sudeste da Ucrânia",
+      "fontes_que_cobriram": [
+        "rt",
+        "mt"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "the_guardian",
+        "new_york_times"
+      ],
+      "divergencia_de_enquadramento": "As fontes russas destacam a vitória militar, enquanto as fontes ocidentais não dão muita atenção ao tema ou o apresentam de forma crítica"
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Crise na Zâmbia",
-      "por_que_importa": "A crise na Zâmbia pode ter implicações regionais e globais.",
-      "cobertura": "A crise foi coberta por algumas fontes, mas não recebeu muita atenção."
-    },
-    {
-      "tema": "Situação no Iêmen",
-      "por_que_importa": "A situação no Iêmen é um dos principais conflitos no Oriente Médio.",
-      "cobertura": "A situação no Iêmen foi coberta por algumas fontes, mas não recebeu muita atenção."
+      "tema": "Crise migratória na Europa",
+      "por_que_importa": "A crise migratória continua a ser um tema importante na Europa, com muitas vidas em risco",
+      "cobertura": "A caridade de migrantes SOS Méditerranée relatou a descoberta de 11 corpos no mar ao largo da costa da Líbia, mas o tema não recebeu muita atenção das fontes principais"
     }
   ]
 }
