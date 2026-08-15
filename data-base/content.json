@@ -366,167 +366,95 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-08-15T10:15:47.787Z",
+      "gerado_em": "2026-08-15T21:15:40.733Z",
       "artigos": [
         {
-          "id": "rt-2026-08-15-1001",
+          "id": "rt-2026-08-15-2101-01",
+          "titulo": "Aposta de $100 milhões de Musk ajuda a reparar racha com Trump",
+          "resumo": "Elon Musk dará $100 milhões aos republicanos nas eleições de meio de mandato em uma movimentação que supostamente ajuda a reviver a aliança com Donald Trump",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a80ab2685f5400b3a17818a.jpg",
+          "link": "https://www.rt.com/news/644288-musk-100m-mend-rift-trump/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-15T19:07:32.000Z"
+        },
+        {
+          "id": "rt-2026-08-15-2102-02",
+          "titulo": "Irã invoca Dostoiévski para criticar política externa dos EUA",
+          "resumo": "O porta-voz do Ministério das Relações Exteriores do Irã invocou Dostoiévski para acusar Washington de basear suas políticas em relação a Teerã em 'mentiras'",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a80a45120302709df7f1f44.jpg",
+          "link": "https://www.rt.com/news/644289-iran-invokes-dostoevsky-to-slam-us/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-15T17:45:22.000Z"
+        },
+        {
+          "id": "rt-2026-08-15-2104-03",
+          "titulo": "EUA e Turquia abrem 'caixa de Pandora' com acordo de armas para a Ucrânia – Moscou",
+          "resumo": "Moscou advertiu que a transferência planejada de armas fabricadas nos EUA da Turquia para a Ucrânia minaria a confiança com Washington e Ancara",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a80928585f54014260ca434.jpg",
+          "link": "https://www.rt.com/russia/644287-us-turkiye-arms-transfer-to-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-15T16:27:12.000Z"
+        },
+        {
+          "id": "rt-2026-08-15-2105-04",
+          "titulo": "Irã zomba das ambições de Trump no Hormuz como 'delírios fantásticos'",
+          "resumo": "O Irã diz que o Estreito de Hormuz não pode ser tomado por tweet ou porta-aviões após Donald Trump prometer reivindicar a água como território dos EUA",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a80808185f54005de0be686.jpg",
+          "link": "https://www.rt.com/news/644283-iran-trump-hormuz-fanciful-delusions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-15T15:20:31.000Z"
+        },
+        {
+          "id": "rt-2026-08-15-2106-05",
+          "titulo": "Modi transmite mensagem à Índia no Dia da Independência",
+          "resumo": "Narendra Modi traçou o caminho da Índia até 2047 em seu discurso do Dia da Independência",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a807b7785f54005cc04bfc5.png",
+          "link": "https://www.rt.com/india/644282-india-modi-independence-day-80/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-15T14:43:39.000Z"
+        },
+        {
+          "id": "rt-2026-08-15-2107-06",
+          "titulo": "Tropas de extrema-direita se despedem de colaborador nazista com marcha a tocha em Kiev",
+          "resumo": "Membros de uma unidade ucraniana de extrema-direita realizaram uma cerimônia de despedida a tocha para o colaborador nazista Evgeny Konovalets em Kiev",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a8067b785f54014260ca424.jpg",
+          "link": "https://www.rt.com/russia/644284-ukraine-azov-konovalets-zelensky/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-15T14:19:24.000Z"
+        },
+        {
+          "id": "rt-2026-08-15-2108-07",
+          "titulo": "Procurador-geral da Hungria considera apreensão de servidores da oposição ilegal",
+          "resumo": "A apreensão dos servidores do partido Fidesz foi uma 'pescaria' e deve ser refeita corretamente, disse o procurador-geral da Hungria",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a80471e20302742504bae78.jpg",
+          "link": "https://www.rt.com/news/644281-hungary-fidesz-orban-magyar/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-15T12:33:48.000Z"
+        },
+        {
+          "id": "rt-2026-08-15-2110-08",
+          "titulo": "Terremoto de magnitude 7,7 atinge Indonésia, mata pelo menos cinco pessoas",
+          "resumo": "Um poderoso terremoto de magnitude 7,7 atingiu a Indonésia, desencadeando ondas de tsunami e danificando edifícios",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7fb8ea85f54004ec591fb7.png",
+          "link": "https://www.rt.com/news/644271-indonesia-7-magnitude-earthquake-tsunami/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-15T10:24:20.000Z"
+        },
+        {
+          "id": "rt-2026-08-15-2111-09",
           "titulo": "Motorista da Cruz Vermelha ucraniana é convocado durante evacuação",
-          "resumo": "Um motorista da Cruz Vermelha ucraniana foi detido e convocado enquanto evacuava famílias perto da frente, provocando uma investigação",
+          "resumo": "Um motorista da Cruz Vermelha ucraniana foi detido e convocado enquanto evacuava famílias perto da linha de frente, levando a uma investigação",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7feff72030274392325627.jpg",
           "link": "https://www.rt.com/russia/644274-ukraine-red-cross-driver-conscripted/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-15T09:44:23-03:00"
+          "publicado_em": "2026-08-15T09:44:23.000Z"
         },
         {
-          "id": "rt-2026-08-15-1002",
-          "titulo": "Modi lança drive de treinamento gratuito para conquistar jovens indianos",
-          "resumo": "O primeiro-ministro indiano, Modi, que enfrentou protestos estudantis generalizados no mês passado, lançou uma iniciativa para executar redes de treinamento online para exames competitivos",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a8032422030274700254d9d.jpg",
-          "link": "https://www.rt.com/india/644280-modi-free-coaching-students/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-15T09:31:51-03:00"
-        },
-        {
-          "id": "rt-2026-08-15-1003",
-          "titulo": "Moeda humana: como os migrantes se tornaram peões em um impasse global",
-          "resumo": "Resolver a crise migratória da Europa requer confrontar a mentalidade colonial que impulsiona o deslocamento global — um passo que Bruxelas se recusa a dar",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7ee246203027611414a294.jpg",
-          "link": "https://www.rt.com/africa/644242-how-europe-betrayed-madrid-to-punish-sanchez/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-15T08:11:54-03:00"
-        },
-        {
-          "id": "rt-2026-08-15-1004",
-          "titulo": "Netanyahu ataca Londres com piada sobre 'Grã-Bretanha Islâmica'",
-          "resumo": "O primeiro-ministro israelense, Benjamin Netanyahu, descreveu o Reino Unido como a 'República Islâmica da Grã-Bretanha' após meses de relações tensas",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7fc48b85f5400b3a178163.jpg",
-          "link": "https://www.rt.com/news/644272-netanyahu-islamic-britain-jibe/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-15T08:11:25-03:00"
-        },
-        {
-          "id": "rt-2026-08-15-1005",
+          "id": "rt-2026-08-15-2115-10",
           "titulo": "Mísseis ucranianos atacam região russa – governador",
-          "resumo": "Instalações industriais na região de Samara, na Rússia, foram atacadas por mísseis ucranianos, disse o governador local, Vyacheslav Fedorishchev",
+          "resumo": "Instalações industriais na região de Samara, na Rússia, foram atacadas por mísseis ucranianos, disse o governador local Vyacheslav Fedorishchev",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a80018185f5407e88652eae.jpg",
           "link": "https://www.rt.com/russia/644279-samara-rostov-missile-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-15T06:37:00-03:00"
+          "publicado_em": "2026-08-15T06:37:00.000Z"
         },
         {
-          "id": "rt-2026-08-15-1006",
-          "titulo": "Nova maneira encontrada para colocar o nome de Trump no Centro Kennedy – mídia",
-          "resumo": "O Centro Kennedy encontrou uma maneira de restaurar o nome de Donald Trump após ele ter sido removido por ordem de um juiz federal",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7fa64c85f5400b3a178155.jpg",
-          "link": "https://www.rt.com/news/644270-trump-name-kennedy-center-controversy/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-14T20:41:19-03:00"
-        },
-        {
-          "id": "rt-2026-08-15-1007",
-          "titulo": "Ex-professor de Cambridge que renunciou devido a polêmica de plágio é encontrado morto",
-          "resumo": "O ex-professor de Cambridge, Jason Arday, foi encontrado morto em sua casa, apenas dias após renunciar devido a um escândalo de plágio",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7fa30c85f54005cc04bfa2.jpg",
-          "link": "https://www.rt.com/news/644269-ex-cambridge-professor-plagiarism-dead/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-14T20:27:26-03:00"
-        },
-        {
-          "id": "rt-2026-08-15-1008",
-          "titulo": "Surto de doença atinge enclave de migrantes na Espanha",
-          "resumo": "Doenças infecciosas foram confirmadas entre migrantes no enclave de Ceuta, na Espanha, com alertas sobre superlotação e saneamento inadequado",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7f9db9203027163245d67f.jpg",
-          "link": "https://www.rt.com/news/644268-disease-outbreak-spain-ceuta-migrants/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-14T20:00:01-03:00"
-        },
-        {
-          "id": "rt-2026-08-15-1009",
-          "titulo": "Retribuição russa, NATO Islâmico, confronto na Cisjordânia, a máquina de espionagem alemã: histórias da RT que moldaram a semana",
-          "resumo": "A RT examina as histórias que moldaram a semana, incluindo as duras medidas da Rússia contra a Ucrânia e o surgimento do NATO Islâmico",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7f3b9785f5405f887e1490.png",
-          "link": "https://www.rt.com/news/644258-rt-top-stories-ukraine-russia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-14T19:51:23-03:00"
-        },
-        {
-          "id": "rt-2026-08-15-1010",
-          "titulo": "Kiev luta na guerra da OTAN 'até o último ucraniano' – jornalista americano (VÍDEO)",
-          "resumo": "Kiev serve aos interesses dos países da OTAN, 'lutando uma guerra proxy contra a Rússia', disse o jornalista americano John Varoli à RT",
+          "id": "rt-2026-08-15-2120-11",
+          "titulo": "Kiev luta na guerra da Otan 'até o último ucraniano' – jornalista dos EUA",
+          "resumo": "Kiev serve aos interesses dos países da Otan, 'lutando uma guerra proxy contra a Rússia', disse o jornalista dos EUA John Varoli à RT",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7f8156203027078a5da161.jpg",
           "link": "https://www.rt.com/news/644267-ukraine-zelensky-nato-proxy-war/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-14T19:43:03-03:00"
-        },
-        {
-          "id": "rt-2026-08-15-1011",
-          "titulo": "Vance alerta sobre 'crescente interesse pelo socialismo' nos EUA",
-          "resumo": "O vice-presidente dos EUA, J.D. Vance, alertou que as pressões econômicas estão impulsionando o interesse crescente pelo socialismo entre os jovens americanos",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7f497920302710ae170db3.jpg",
-          "link": "https://www.rt.com/news/644257-us-economic-pressure-socialism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-14T19:08:13-03:00"
-        },
-        {
-          "id": "rt-2026-08-15-1012",
-          "titulo": "Hospitais americanos faturam US$ 120 milhões por procedimentos de mudança de sexo em menores – relatório",
-          "resumo": "Hospitais americanos faturaram quase US$ 120 milhões por intervenções de mudança de sexo em menores desde 2019, de acordo com o Departamento de Saúde",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7f75e185f5407e88652e76.jpg",
-          "link": "https://www.rt.com/news/644264-us-hospitals-transgender-fraud/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-14T18:10:53-03:00"
-        },
-        {
-          "id": "rt-2026-08-15-1013",
-          "titulo": "Conectado para a guerra: por que o Reino Unido protege os interferentes nas eleições israelenses?",
-          "resumo": "O Reino Unido disse que revelar a verdadeira extensão da interferência pela empresa de guerra cibernética BlackCore danificaria as relações com Israel",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7dd67220302727b5480931.jpg",
-          "link": "https://www.rt.com/news/644204-israel-election-interference-scotland/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-14T17:18:00-03:00"
-        },
-        {
-          "id": "rt-2026-08-15-1014",
-          "titulo": "EUA emitem 'teste de lealdade' para membros da OTAN – Bloomberg",
-          "resumo": "Os EUA estão avaliando o apoio dos membros da OTAN à política externa de Trump, ao decidir como alocar ativos militares, relata a Bloomberg",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7f702185f54004ec591fb2.jpg",
-          "link": "https://www.rt.com/news/644266-washington-quizzes-nato-allies-on-loyalty/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-14T17:10:23-03:00"
-        },
-        {
-          "id": "rt-2026-08-15-1015",
-          "titulo": "Por que os novos governantes da Síria ainda precisam da Rússia",
-          "resumo": "Alimento, petróleo, conhecimento militar e laços educacionais mantêm Moscou útil a Damasco, mesmo enquanto a Síria corteja o Ocidente, a Turquia e o Golfo",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7f6ce985f5400b0127ba03.jpg",
-          "link": "https://www.rt.com/news/644263-syria-new-rulers-need-russia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-14T16:33:48-03:00"
-        },
-        {
-          "id": "rt-2026-08-15-1016",
-          "titulo": "Colapsos e refeições escassas: como é a situação a bordo do porta-aviões americano que ataca o Irã?",
-          "resumo": "O USS Abraham Lincoln teria chegado perto do ponto de ruptura, enquanto sua tripulação luta com escassez de suprimentos e exaustão mental",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7f178b2030270ceb10dd10.jpg",
-          "link": "https://www.rt.com/news/644255-abraham-lincoln-carrier-dismal-state-explainer/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-14T15:44:23-03:00"
-        },
-        {
-          "id": "rt-2026-08-15-1017",
-          "titulo": "Nigel Farage conquista 'vitória contra o establishment'",
-          "resumo": "O líder do Reform UK, Nigel Farage, reconquistou seu assento no parlamento após vencer uma eleição suplementar boicotada pelos partidos do establishment do Reino Unido",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7f506a85f5407bae15cb59.jpg",
-          "link": "https://www.rt.com/news/644265-nigel-farage-wins-clacton/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-14T14:52:18-03:00"
-        },
-        {
-          "id": "rt-2026-08-15-1018",
-          "titulo": "A guerra proxy esquecida da Grã-Bretanha contra a Rússia",
-          "resumo": "Muito antes da Ucrânia, a Grã-Bretanha apoiou forças anti-russas no Cáucaso com armas, agentes e propaganda. Esta é a história de como a campanha terminou",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7f3099203027147910c28a.png",
-          "link": "https://www.rt.com/russia/643783-britain-russia-empire-caucasus/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-14T13:41:01-03:00"
-        },
-        {
-          "id": "rt-2026-08-15-1019",
-          "titulo": "'Não saia, você será morto': palestinos relatam violência de colonos israelenses na Cisjordânia",
-          "resumo": "A RT conversou com moradores de uma aldeia palestina cercada por colonos israelenses, enquanto o IDF falha em controlar a situação",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7f32d485f54052ee61cde6.jpg",
-          "link": "https://www.rt.com/news/644243-idf-enabling-terror-palestinians-settlers/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-14T12:27:37-03:00"
-        },
-        {
-          "id": "rt-2026-08-15-1020",
-          "titulo": "OTAN despacha aviões de combate para derrubar drone sobre a Letônia",
-          "resumo": "Um caça da OTAN destruiu um drone que entrou no espaço aéreo da Letônia, disse o bloco liderado pelos EUA",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7f00dc85f54008d46f30d0.jpg",
-          "link": "https://www.rt.com/russia/644252-nato-latvia-drone-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-14T11:56:15-03:00"
+          "publicado_em": "2026-08-14T22:43:03.000Z"
         }
       ]
     },
