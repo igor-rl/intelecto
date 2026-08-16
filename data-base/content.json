@@ -803,79 +803,115 @@
     "aa": {
       "slug": "aa",
       "nome": "AllAfrica",
-      "gerado_em": "2026-08-16T10:46:08.271Z",
+      "gerado_em": "2026-08-16T21:46:13.109Z",
       "artigos": [
         {
-          "id": "aa-2026-08-16-1002",
-          "titulo": "Zambia: Zambia Opposition Leader Claims Election Victory Amid Reports of Violence",
-          "resumo": "Zambia's presidential election entered a tense phase on Friday after opposition leader Brian Mundubile claimed victory, while incumbent President Hakainde Hichilema stopped short of declarin...",
+          "id": "aa-2026-08-16-2101",
+          "titulo": "Zâmbia: Bispos Católicos Expressam 'Grave Preocupação' Sobre a Condução das Eleições da Zâmbia",
+          "resumo": "Os bispos católicos da Zâmbia expressaram grave preocupação sobre a condução das eleições no país.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608160014.html",
+          "fonte": "AllAfrica",
+          "publicado_em": "2026-08-16T19:21:58.000Z"
+        },
+        {
+          "id": "aa-2026-08-16-2102",
+          "titulo": "Nigéria: #osundecides2026: INEC Declara Ademola Adeleke do Partido Accord Vencedor das Eleições para Governador",
+          "resumo": "O governador em exercício derrotou seu principal desafiador, Bola Oyebamiji, do APC, por 66.252 votos após obter 511.067 votos em todo o estado.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608160009.html",
+          "fonte": "AllAfrica",
+          "publicado_em": "2026-08-16T15:48:46.000Z"
+        },
+        {
+          "id": "aa-2026-08-16-2103",
+          "titulo": "Sudão: Mulheres Exigem Diálogo Inclusivo e Seguro para Pôr Fim à Guerra no Sudão",
+          "resumo": "Figuras femininas e da sociedade civil no Sudão exigem uma participação mais ampla em qualquer diálogo sudanês-sudanês antecipado, exigindo garantias genuínas para proteger os civis.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608160007.html",
+          "fonte": "AllAfrica",
+          "publicado_em": "2026-08-16T15:38:20.000Z"
+        },
+        {
+          "id": "aa-2026-08-16-2104",
+          "titulo": "África Ocidental: Lítio no Sahel - Como Grupos Armados Estão Explorando a Corrida Global pelo Mineral Crítico",
+          "resumo": "Cada veículo elétrico, smartphone e bateria de laptop começa com um ingrediente essencial: lítio.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608160006.html",
+          "fonte": "AllAfrica",
+          "publicado_em": "2026-08-16T15:37:32.000Z"
+        },
+        {
+          "id": "aa-2026-08-16-2105",
+          "titulo": "Sudão: Jovens Sudaneses Pedem 'Diálogo Inclusivo para Abordar as Raízes da Guerra, Colocar Justiça e Paz em Primeiro Lugar'",
+          "resumo": "Jovens sudaneses pedem um diálogo inclusivo para abordar as raízes da guerra e colocar justiça e paz em primeiro lugar.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608160008.html",
+          "fonte": "AllAfrica",
+          "publicado_em": "2026-08-16T15:39:21.000Z"
+        },
+        {
+          "id": "aa-2026-08-16-2106",
+          "titulo": "Etiópia: Coligação Diz que Assassinatos Extrajudiciais em Abeshige São 'Comparáveis ao Terror Vermelho', Exige Investigação",
+          "resumo": "A Coligação para a Unidade Etíope, uma coalizão de oposição de cinco partidos, condenou os relatos de assassinato de três jovens em Abeshige Woreda, na Etiópia central.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608160013.html",
+          "fonte": "AllAfrica",
+          "publicado_em": "2026-08-16T16:33:34.000Z"
+        },
+        {
+          "id": "aa-2026-08-16-2107",
+          "titulo": "Nigéria: #osundecides20226 - NYSC Elogia Disciplina e Comprometimento dos Membros do Corpo durante a Votação",
+          "resumo": "O NYSC elogiou a disciplina e o comprometimento dos membros do Corpo durante a votação.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608160010.html",
+          "fonte": "AllAfrica",
+          "publicado_em": "2026-08-16T15:50:07.000Z"
+        },
+        {
+          "id": "aa-2026-08-16-2110",
+          "titulo": "Etiópia: A Guerra do Tigré - Linhas de Fogo se Estendendo até a Fronteira Sudanesa",
+          "resumo": "A guerra no Tigré se estende até a fronteira sudanesa, com vilas sudanesas ouvindo explosões e civis começando a fugir.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608160012.html",
+          "fonte": "AllAfrica",
+          "publicado_em": "2026-08-16T15:58:02.000Z"
+        },
+        {
+          "id": "aa-2026-08-16-2111",
+          "titulo": "Zâmbia: Zâmbia Suspende Contagem de Votos em Todo o País Amidst Relatos de Violência e Roubo de Urnas",
+          "resumo": "A Comissão Eleitoral da Zâmbia suspendeu a contagem e anúncio dos resultados das eleições em todo o país devido a relatos de violência contra funcionários eleitorais e roubo de urnas.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608160004.html",
+          "fonte": "AllAfrica",
+          "publicado_em": "2026-08-16T15:28:57.000Z"
+        },
+        {
+          "id": "aa-2026-08-16-2112",
+          "titulo": "Zâmbia: Líder da Oposição Afirma Vitória nas Eleições Amidst Relatos de Violência",
+          "resumo": "O líder da oposição na Zâmbia, Brian Mundubile, afirmou ter vencido as eleições, enquanto o presidente em exercício, Hakainde Hichilema, não confirmou sua vitória.",
           "imagem": null,
           "link": "https://allafrica.com/stories/202608140407.html",
+          "fonte": "AllAfrica",
           "publicado_em": "2026-08-14T16:00:58.000Z"
         },
         {
-          "id": "aa-2026-08-16-1005",
-          "titulo": "Nigeria: U.S. Flags Civilian Deaths, Funding Gaps As Nigeria Pushes for CPC Delisting",
-          "resumo": "Despite Nigeria's reported prosecution of hundreds of terror suspects and recruitment of 50,000 police officers, the United States said continuing challenges remained in the fight to remove...",
+          "id": "aa-2026-08-16-2114",
+          "titulo": "Níger: Missionário Americano Sequestrado no Níger Libertado após Mais de Nove Meses",
+          "resumo": "O missionário americano Kevin Rideout foi libertado após ser sequestrado em outubro de 2025, em Niamey, Níger.",
+          "imagem": null,
+          "link": "https://allafrica.com/stories/202608160005.html",
+          "fonte": "AllAfrica",
+          "publicado_em": "2026-08-16T15:29:50.000Z"
+        },
+        {
+          "id": "aa-2026-08-16-2116",
+          "titulo": "Nigéria: EUA Destacam Mortes de Civis, Lacunas de Financiamento à medida que a Nigéria Busca Remover seu Nome da Lista de Países que Apoiam o Terrorismo",
+          "resumo": "Os EUA destacaram as mortes de civis e as lacunas de financiamento como desafios persistentes na luta contra o terrorismo na Nigéria.",
           "imagem": null,
           "link": "https://allafrica.com/stories/202608140364.html",
+          "fonte": "AllAfrica",
           "publicado_em": "2026-08-14T14:22:13.000Z"
-        },
-        {
-          "id": "aa-2026-08-16-1008",
-          "titulo": "Somalia: Somali President Says Government Has No Hostility Towards Its People",
-          "resumo": "Mogadishu -- Somali President Hassan Sheikh Mohamud said Friday that the federal government had no hostility towards any Somali citizen, insisting that the country's political disputes were...",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202608140369.html",
-          "publicado_em": "2026-08-14T15:31:10.000Z"
-        },
-        {
-          "id": "aa-2026-08-16-1009",
-          "titulo": "Africa: The US-China Rivalry Is Gradually Shaping Pan-African Mining Dynamics",
-          "resumo": "The global energy transition and the quest for critical minerals required to develop the new technologies and industries associated with this dynamic have contributed to Africa becoming one...",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202608130139.html",
-          "publicado_em": "2026-08-13T10:08:52.000Z"
-        },
-        {
-          "id": "aa-2026-08-16-1010",
-          "titulo": "Nigeria: Opposition Coalition Postpones Aug 18 Summit",
-          "resumo": "ABUJA: The G100, a group of opposition politicians, has rescheduled its proposed Summit of Opposition Political Parties from August 18 to Monday, August 31, 2026, following consultations wi...",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202608140365.html",
-          "publicado_em": "2026-08-14T14:24:41.000Z"
-        },
-        {
-          "id": "aa-2026-08-16-1013",
-          "titulo": "Zimbabwe: Constitutional Court Sends Abortion Law Challenge Back to High Court",
-          "resumo": "The Constitutional Court has set aside a High Court ruling that declared part of the country's abortion law unconstitutional, ordering the matter to be heard afresh after finding that g...",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202608140082.html",
-          "publicado_em": "2026-08-14T09:20:50.000Z"
-        },
-        {
-          "id": "aa-2026-08-16-1018",
-          "titulo": "Southern Africa: Nandi-Ndaitwah to Attend SADC Summit",
-          "resumo": "President Netumbo Nandi-Ndaitwah will join other Southern African Development Community (SADC) leaders at the 46th Ordinary SADC Summit of Heads of State and Government in Durban, South Afr...",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202608140394.html",
-          "publicado_em": "2026-08-14T15:48:01.000Z"
-        },
-        {
-          "id": "aa-2026-08-16-1019",
-          "titulo": "Liberia: Boakai Signs Ports Autonomy Bills, Clearing Way for Major Overhaul of Liberia's Port Governance",
-          "resumo": "President Joseph N. Boakai has signed into law two landmark ports autonomy bills, clearing the way for one of Liberia's most significant reforms of port governance in decades f...",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202608140389.html",
-          "publicado_em": "2026-08-14T15:44:34.000Z"
-        },
-        {
-          "id": "aa-2026-08-16-1020",
-          "titulo": "Nigeria: At Washington Talks, Nigeria Reinforces Defence, Security Partnership With Us",
-          "resumo": "Abuja -- The Federal Government has reinforced its defence and security partnership with the United States Government with a view to deepening military-to-military relations and strengtheni...",
-          "imagem": null,
-          "link": "https://allafrica.com/stories/202608140386.html",
-          "publicado_em": "2026-08-14T15:43:27.000Z"
         }
       ]
     },
