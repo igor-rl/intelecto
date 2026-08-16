@@ -6,11 +6,11 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Desastres e tensões globais",
-    "subtitulo": "Acidentes, conflitos e desafios ambientais dominam manchetes",
-    "resumo": "Um acidente de barco no Zimbábue resultou na morte de 68 pessoas, com 18 crianças entre as vítimas. Enquanto isso, a tensão no Oriente Médio aumenta com ataques aéreos israelenses no Líbano, matando 11 pessoas. A China publicou relatórios de avaliação ecológica sobre recursos disputados no Mar do Sul da China, intensificando a disputa com os EUA. Além disso, um terremoto de 7,7 graus de magnitude atingiu a Indonésia, causando danos e mortes. Esses eventos somam-se a uma lista de desafios globais, incluindo a crise no Sudão, o surto de Ebola na República Democrática do Congo e as eleições na Zâmbia. A cobertura desses eventos varia significativamente entre as diferentes fontes de notícias, refletindo as perspectivas e prioridades de cada região e bloco geopolítico.",
+    "titulo": "Acidente de barco no Zimbábue deixa dezenas de mortos",
+    "subtitulo": "Enquanto o mundo acompanha a tragédia no Zimbábue, tensões geopolíticas se acirram em várias frentes",
+    "resumo": "Um acidente de barco no Lago Kariba, no Zimbábue, deixou 68 mortos, de acordo com relatórios recentes. Enquanto o mundo se solidariza com as vítimas e suas famílias, observamos um cenário global marcado por tensões em várias frentes. A política externa dos EUA em relação ao Irã e a China está sob escrutínio, com discussões sobre isolamento econômico e a influência do yuan chinês na África. Além disso, a situação na Ucrânia continua crítica, com drones ucranianos atacando a região de Moscou e matando uma pessoa. A Arábia Saudita, por sua vez, lançou uma coalizão marítima para proteger a navegação no Mar Vermelho e no Golfo de Aden. Esses eventos refletem a complexidade e a dinâmica das relações internacionais atuais, com múltiplos atores e interesses em jogo. É fundamental considerar as diferentes perspectivas e enquadramentos que cada bloco de imprensa oferece, desde a cobertura do terremoto na Indonésia até as eleições no Zambia, para ter uma visão mais completa do que está em jogo no cenário global.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-08-15T08:00:00-03:00",
+    "publicado_em": "2026-08-16T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -870,51 +870,41 @@
   "temas_principais": [
     {
       "tema": "Acidente de barco no Zimbábue",
-      "descricao": "Um ferry capotou no Lago Kariba, resultando em 68 mortos, com 18 crianças entre as vítimas.",
+      "descricao": "Um ferry capotou no Lago Kariba, resultando em dezenas de mortos, incluindo crianças.",
       "fontes_que_cobriram": [
         "the_guardian"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "new_york_times",
-        "euronews"
+        "rt",
+        "scmp"
       ],
-      "divergencia_de_enquadramento": "A cobertura do acidente variou, com o The Guardian destacando o número de mortos e a tragédia, enquanto outras fontes não deram tanto destaque ao evento."
+      "divergencia_de_enquadramento": "Enquanto The Guardian destaca a tragédia e o impacto nas vítimas, outras fontes como RT e SCMP não deram grande cobertura ao evento."
     },
     {
-      "tema": "Ataques aéreos israelenses no Líbano",
-      "descricao": "Ataques aéreos israelenses no sul do Líbano mataram pelo menos 11 pessoas, nos ataques mais letais desde o início do cessar-fogo.",
+      "tema": "Tensões geopolíticas",
+      "descricao": "Tensões entre EUA, Irã, China, e Ucrânia, com discussões sobre isolamento econômico, influência do yuan chinês na África, e ataques de drones.",
       "fontes_que_cobriram": [
+        "new_york_times",
         "euronews",
         "scmp"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "rt"
+        "aa",
+        "smh"
       ],
-      "divergencia_de_enquadramento": "A cobertura dos ataques variou, com algumas fontes destacando a violação do cessar-fogo e outras focando na resposta de Israel a supostas ameaças."
-    },
-    {
-      "tema": "Terremoto na Indonésia",
-      "descricao": "Um terremoto de 7,7 graus de magnitude atingiu a Indonésia, causando danos e mortes.",
-      "fontes_que_cobriram": [
-        "euronews",
-        "st"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
-        "new_york_times"
-      ],
-      "divergencia_de_enquadramento": "A cobertura do terremoto variou, com algumas fontes destacando a magnitude do desastre e outras focando em aspectos mais locais."
+      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar as ameaças potenciais da expansão chinesa e do isolamento iraniano, enquanto fontes como a RT e o SCMP oferecem perspectivas mais favoráveis às posições russa e chinesa, respectivamente."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Surto de Ebola na República Democrática do Congo",
-      "por_que_importa": "O surto de Ebola é um desafio significativo para a saúde global, com potencial de se espalhar para outras regiões.",
-      "cobertura": "A cobertura do surto tem sido limitada, com poucas fontes dedicando atenção ao tema."
+      "tema": "Eleições no Zambia",
+      "por_que_importa": "As eleições no Zambia são cruciais para a estabilidade política na região e podem ter implicações para as relações internacionais na África.",
+      "cobertura": "Apenas a AllAfrica deu cobertura significativa a este tema, destacando a importância das eleições para a democracia na região."
     },
     {
-      "tema": "Crise no Sudão",
-      "por_que_importa": "A crise no Sudão tem implicações regionais e globais, com potencial de afetar a estabilidade e a segurança na região.",
-      "cobertura": "A cobertura da crise tem sido variada, com algumas fontes destacando a gravidade da situação e outras minimizando seu impacto."
+      "tema": "Terremoto na Indonésia",
+      "por_que_importa": "O terremoto na Indonésia resultou em perdas de vidas e danos significativos, e a resposta internacional é crucial para o socorro e a recuperação.",
+      "cobertura": "Fontes como a Euronews e o SCMP deram cobertura ao terremoto, mas outras fontes principais não o destacaram em seus relatórios."
     }
   ]
 }
