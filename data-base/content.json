@@ -6,11 +6,11 @@
   "destaques": [],
   "capa": {
     "categoria_nome": "O que marcou o dia?",
-    "titulo": "Acidente de barco no Zimbábue deixa dezenas de mortos",
-    "subtitulo": "Enquanto o mundo acompanha a tragédia no Zimbábue, tensões geopolíticas se acirram em várias frentes",
-    "resumo": "Um acidente de barco no Lago Kariba, no Zimbábue, deixou 68 mortos, de acordo com relatórios recentes. Enquanto o mundo se solidariza com as vítimas e suas famílias, observamos um cenário global marcado por tensões em várias frentes. A política externa dos EUA em relação ao Irã e a China está sob escrutínio, com discussões sobre isolamento econômico e a influência do yuan chinês na África. Além disso, a situação na Ucrânia continua crítica, com drones ucranianos atacando a região de Moscou e matando uma pessoa. A Arábia Saudita, por sua vez, lançou uma coalizão marítima para proteger a navegação no Mar Vermelho e no Golfo de Aden. Esses eventos refletem a complexidade e a dinâmica das relações internacionais atuais, com múltiplos atores e interesses em jogo. É fundamental considerar as diferentes perspectivas e enquadramentos que cada bloco de imprensa oferece, desde a cobertura do terremoto na Indonésia até as eleições no Zambia, para ter uma visão mais completa do que está em jogo no cenário global.",
+    "titulo": "Tensões globais: ataques, acidentes e crises",
+    "subtitulo": "Enquanto conflitos e desastres naturais dominam manchetes, questões subcobertas chamam atenção",
+    "resumo": "O dia foi marcado por uma série de eventos que refletem as tensões globais atuais. Ataques na Ucrânia e na Rússia, um acidente de barco no Zimbábue que deixou dezenas de mortos, e a crise econômica no Líbano após ataques israelenses são alguns dos temas que dominaram as manchetes. Além disso, a visita do enviado dos EUA, Jared Kushner, ao líder do Hamas, em busca de avanços no cessar-fogo da Faixa de Gaza, e a oferta do Irã de recompensa por soldados americanos, mostram a complexidade das relações internacionais. No entanto, é importante notar que, enquanto esses eventos são amplamente cobertos, questões como o surto de ebola na República Democrática do Congo e a situação no Sudão parecem receber menos atenção da grande imprensa, destacando a importância de uma cobertura mais equilibrada e abrangente dos acontecimentos globais.",
     "fonte": "Intelecto News · Redação",
-    "publicado_em": "2026-08-16T08:00:00-03:00",
+    "publicado_em": "2026-08-17T08:00:00-03:00",
     "link": null,
     "imagem": null
   },
@@ -973,42 +973,63 @@
   },
   "temas_principais": [
     {
-      "tema": "Acidente de barco no Zimbábue",
-      "descricao": "Um ferry capotou no Lago Kariba, resultando em dezenas de mortos, incluindo crianças.",
+      "tema": "Conflitos e ataques",
+      "descricao": "Ataques na Ucrânia e na Rússia, e a crise no Líbano",
       "fontes_que_cobriram": [
-        "the_guardian"
-      ],
-      "fontes_que_ignoraram_ou_minimizaram": [
+        "the_guardian",
+        "new_york_times",
+        "euronews",
         "rt",
-        "scmp"
+        "st",
+        "mt",
+        "smh"
       ],
-      "divergencia_de_enquadramento": "Enquanto The Guardian destaca a tragédia e o impacto nas vítimas, outras fontes como RT e SCMP não deram grande cobertura ao evento."
+      "fontes_que_ignoraram_ou_minimizaram": [],
+      "divergencia_de_enquadramento": "Enquanto algumas fontes enfatizam a responsabilidade de um lado, outras destacam a complexidade do conflito e a necessidade de diálogo."
     },
     {
-      "tema": "Tensões geopolíticas",
-      "descricao": "Tensões entre EUA, Irã, China, e Ucrânia, com discussões sobre isolamento econômico, influência do yuan chinês na África, e ataques de drones.",
+      "tema": "Desastres naturais e acidentes",
+      "descricao": "Acidente de barco no Zimbábue e tempestade tropical no Havaí",
+      "fontes_que_cobriram": [
+        "the_guardian",
+        "euronews",
+        "st",
+        "smh"
+      ],
+      "fontes_que_ignoraram_ou_minimizaram": [
+        "new_york_times",
+        "rt",
+        "mt"
+      ],
+      "divergencia_de_enquadramento": "A cobertura varia de acordo com a região e a fonte, com algumas destacando a tragédia humana e outras a resposta de emergência."
+    },
+    {
+      "tema": "Crises políticas e econômicas",
+      "descricao": "Crise econômica no Líbano e a visita de Kushner ao líder do Hamas",
       "fontes_que_cobriram": [
         "new_york_times",
         "euronews",
-        "scmp"
+        "scmp",
+        "st"
       ],
       "fontes_que_ignoraram_ou_minimizaram": [
-        "aa",
-        "smh"
+        "the_guardian",
+        "rt",
+        "mt"
       ],
-      "divergencia_de_enquadramento": "As fontes ocidentais tendem a enfatizar as ameaças potenciais da expansão chinesa e do isolamento iraniano, enquanto fontes como a RT e o SCMP oferecem perspectivas mais favoráveis às posições russa e chinesa, respectivamente."
+      "divergencia_de_enquadramento": "A análise política e econômica varia significativamente entre as fontes, refletindo diferentes perspectivas sobre as causas e soluções para as crises."
     }
   ],
   "temas_subcobertos": [
     {
-      "tema": "Eleições no Zambia",
-      "por_que_importa": "As eleições no Zambia são cruciais para a estabilidade política na região e podem ter implicações para as relações internacionais na África.",
-      "cobertura": "Apenas a AllAfrica deu cobertura significativa a este tema, destacando a importância das eleições para a democracia na região."
+      "tema": "Surto de ebola na República Democrática do Congo",
+      "por_que_importa": "O surto de ebola é uma crise de saúde pública que afeta diretamente a população local e tem implicações globais",
+      "cobertura": "Apenas 'the_guardian' cobriu o tema, destacando a necessidade de atenção internacional."
     },
     {
-      "tema": "Terremoto na Indonésia",
-      "por_que_importa": "O terremoto na Indonésia resultou em perdas de vidas e danos significativos, e a resposta internacional é crucial para o socorro e a recuperação.",
-      "cobertura": "Fontes como a Euronews e o SCMP deram cobertura ao terremoto, mas outras fontes principais não o destacaram em seus relatórios."
+      "tema": "Situção no Sudão",
+      "por_que_importa": "A situação no Sudão é uma crise humanitária e política que requer atenção e ação internacionais",
+      "cobertura": "Apenas 'aa' (AllAfrica) cobriu o tema, destacando a importância do diálogo inclusivo e da justiça para resolver o conflito."
     }
   ]
 }
