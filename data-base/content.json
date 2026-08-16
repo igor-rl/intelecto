@@ -406,135 +406,143 @@
     "rt": {
       "slug": "rt",
       "nome": "Russia Today",
-      "gerado_em": "2026-08-16T10:15:39.160Z",
+      "gerado_em": "2026-08-16T21:15:42.530Z",
       "artigos": [
         {
-          "id": "rt-2026-08-16-01",
-          "titulo": "Apoio ao bloco governista da Alemanha cai para o menor nível em cinco anos - pesquisa",
-          "resumo": "O bloco governista CDU/CSU da Alemanha caiu para 20% de apoio, enquanto a insatisfação com o Chanceler Friedrich Merz atingiu 78%",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a81438385f5407e88652ed0.jpg",
-          "link": "https://www.rt.com/news/644299-support-germanys-ruling-bloc-falls/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-16T07:47:45-03:00"
+          "id": "rt-2026-08-16-21-01",
+          "titulo": "Oficiais de recrutamento ucranianos detêm bispo ortodoxo em meio à repressão da igreja",
+          "resumo": "Oficiais de recrutamento ucranianos detiveram um bispo metropolitano da Igreja Ortodoxa Ucraniana, de acordo com um advogado da igreja",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a8222ef2030275ac76efc6e.jpg",
+          "link": "https://www.rt.com/russia/644308-ukrainian-conscription-officers-orthodox-bishop/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-16T21:04:05.000Z"
         },
         {
-          "id": "rt-2026-08-16-02",
-          "titulo": "Coreia do Sul propõe diálogo para encerrar guerra com Coreia do Norte",
+          "id": "rt-2026-08-16-21-02",
+          "titulo": "Ataques israelenses empurram o Líbano para uma crise econômica (VÍDEO)",
+          "resumo": "A crise econômica do Líbano está espremendo as famílias à medida que os ataques israelenses destróem casas e terras agrícolas no sul, relata a RT de Beirute",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a81d7012030275cd750c76b.png",
+          "link": "https://www.rt.com/news/644307-israeli-attacks-lebanon-economic-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-16T16:58:09.000Z"
+        },
+        {
+          "id": "rt-2026-08-16-21-03",
+          "titulo": "Campo de concentração Ucrânia? Em uma ditadura de comediante, uma cantora pop diz a verdade",
+          "resumo": "Um raro surto de celebridade rompeu o clima de medo em Kiev, exposto sequestros forçados, repressão e um regime aterrorizado pela verdade",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a81b82885f5406ec7636d71.jpg",
+          "link": "https://www.rt.com/news/644305-concentration-camp-ukraine-polyakova/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-16T15:58:39.000Z"
+        },
+        {
+          "id": "rt-2026-08-16-21-04",
+          "titulo": "Satélite russo captura vista impressionante do eclipse solar total (VÍDEO)",
+          "resumo": "O eclipse solar visível em grande parte da Europa e do noroeste da Rússia foi capturado em órbita pelo satélite Arktika-M",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a81bc4620302744716d3115.png",
+          "link": "https://www.rt.com/russia/644306-roscosmos-satellite-solar-eclipse-video/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-16T15:15:36.000Z"
+        },
+        {
+          "id": "rt-2026-08-16-21-06",
+          "titulo": "EUA consideram copiar tecnologia de defesa aérea da Rússia – Military Watch",
+          "resumo": "O Pentágono está considerando radares de defesa aérea móveis de próxima geração modelados nos S-300 e S-400 da Rússia, de acordo com o Military Watch",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a81b88985f5402ca3625c85.jpg",
+          "link": "https://www.rt.com/news/644303-us-russia-s-400-radar/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-16T14:14:33.000Z"
+        },
+        {
+          "id": "rt-2026-08-16-21-07",
+          "titulo": "ASSISTA: Gangue de recrutamento ucraniana lança gás lacrimogêneo em multidão que tenta salvar homem do recrutamento",
+          "resumo": "Oficiais de recrutamento ucranianos supostamente usaram gás lacrimogêneo em civis em Odessa que tentaram impedi-los de deter um homem",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a81947185f5401ac616dd2f.png",
+          "link": "https://www.rt.com/russia/644302-press-gang-ukraine-tear-gas/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-16T13:57:07.000Z"
+        },
+        {
+          "id": "rt-2026-08-16-21-08",
+          "titulo": "Ataque de drone ucraniano mata civil em região de Moscou – governador",
+          "resumo": "Um ataque de drone ucraniano matou um civil e feriu outros seis na região de Moscou, disse o governador Andrey Vorobyev",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a81921085f5401ac616dd26.jpg",
+          "link": "https://www.rt.com/russia/644300-ukrainian-drone-attack-kills-civilian/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-16T11:00:24.000Z"
+        },
+        {
+          "id": "rt-2026-08-16-21-09",
+          "titulo": "Israel quer que o ChatGPT promova sua narrativa sobre Gaza – Politico",
+          "resumo": "Israel lançou uma campanha de US$ 100.000 para tornar as respostas do AI sobre Gaza e o IDF mais favoráveis a Israel, relata o Politico",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a818bde20302744716d3108.jpg",
+          "link": "https://www.rt.com/news/644301-israel-chatgpt-gaza-narrative/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-16T10:34:40.000Z"
+        },
+        {
+          "id": "rt-2026-08-16-21-10",
+          "titulo": "Apoio ao bloco governista da Alemanha cai para o nível mais baixo em cinco anos – pesquisa",
+          "resumo": "O bloco governista CDU/CSU da Alemanha caiu para 20% de apoio, enquanto a insatisfação com o chanceler Friedrich Merz atingiu 78%",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a81438385f5407e88652ed0.jpg",
+          "link": "https://www.rt.com/news/644299-support-germanys-ruling-bloc-falls/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-16T07:47:45.000Z"
+        },
+        {
+          "id": "rt-2026-08-16-21-13",
+          "titulo": "Coreia do Sul propõe diálogo para encerrar a guerra com a Coreia do Norte",
           "resumo": "O presidente sul-coreano Lee Jae Myung propõe conversas com a Coreia do Norte para formalmente encerrar a Guerra da Coreia",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a80fbb820302721af564cd2.jpg",
           "link": "https://www.rt.com/news/644294-south-korea-proposes-dialogue-to/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-15T23:58:54-03:00"
+          "publicado_em": "2026-08-15T23:58:54.000Z"
         },
         {
-          "id": "rt-2026-08-16-03",
-          "titulo": "Arábia Saudita lança coalizão marítima em meio a escalada no Iêmen",
+          "id": "rt-2026-08-16-21-14",
+          "titulo": "Arábia Saudita lança coalizão marítima em meio à escalada no Iêmen",
           "resumo": "A Arábia Saudita anunciou o lançamento formal de uma coalizão de defesa marítima destinada a proteger a navegação no Mar Vermelho e no Golfo de Aden",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a80dee185f54021790e7bb3.jpg",
           "link": "https://www.rt.com/news/644292-saudi-arabia-launches-maritime-coalition/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-15T21:52:59-03:00"
+          "publicado_em": "2026-08-15T21:52:59.000Z"
         },
         {
-          "id": "rt-2026-08-16-04",
-          "titulo": "Musk doa US$ 100 milhões para republicanos em eleições de meio de mandato - WSJ",
-          "resumo": "Elon Musk doará US$ 100 milhões para os republicanos nas eleições de meio de mandato em uma movimentação que supostamente ajuda a reviver a aliança com Donald Trump",
+          "id": "rt-2026-08-16-21-15",
+          "titulo": "Aposta de US$ 100 milhões de Musk ajuda a reparar a ruptura com Trump – WSJ",
+          "resumo": "Elon Musk dará US$ 100 milhões aos republicanos nas eleições de meio de mandato em uma movimentação que supostamente ajuda a reviver a aliança com Donald Trump",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a80ab2685f5400b3a17818a.jpg",
           "link": "https://www.rt.com/news/644288-musk-100m-mend-rift-trump/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-15T19:07:32-03:00"
+          "publicado_em": "2026-08-15T19:07:32.000Z"
         },
         {
-          "id": "rt-2026-08-16-05",
-          "titulo": "Irã invoca Dostoiévski para criticar política externa dos EUA",
+          "id": "rt-2026-08-16-21-16",
+          "titulo": "Irã invoca Dostoiévski para criticar a política externa dos EUA",
           "resumo": "O porta-voz do Ministério das Relações Exteriores do Irã invocou Dostoiévski para acusar Washington de basear suas políticas em relação a Teerã em 'mentiras'",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a80a45120302709df7f1f44.jpg",
           "link": "https://www.rt.com/news/644289-iran-invokes-dostoevsky-to-slam-us/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-15T17:45:22-03:00"
+          "publicado_em": "2026-08-15T17:45:22.000Z"
         },
         {
-          "id": "rt-2026-08-16-06",
-          "titulo": "EUA e Turquia abrem 'caixa de Pandora' com acordo de armas para Ucrânia - Moscou",
+          "id": "rt-2026-08-16-21-17",
+          "titulo": "O esporte feminino não deve se curvar à ilusão trans",
+          "resumo": "A biologia não pode ser negada, e as atletas femininas não devem ser empurradas para o lado para satisfazer a ideologia acordada, o medo ou o silêncio performático",
+          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a80838a2030277596317333.jpg",
+          "link": "https://www.rt.com/news/644285-womens-sport-trans-delusion/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "publicado_em": "2026-08-15T16:42:52.000Z"
+        },
+        {
+          "id": "rt-2026-08-16-21-18",
+          "titulo": "EUA e Turquia abrem 'caixa de Pandora' com acordo de armas para a Ucrânia – Moscou",
           "resumo": "Moscou advertiu que a transferência planejada de armas fabricadas nos EUA da Turquia para a Ucrânia minaria a confiança com Washington e Ancara",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a80928585f54014260ca434.jpg",
           "link": "https://www.rt.com/russia/644287-us-turkiye-arms-transfer-to-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-15T16:27:12-03:00"
+          "publicado_em": "2026-08-15T16:27:12.000Z"
         },
         {
-          "id": "rt-2026-08-16-07",
-          "titulo": "Irã zomba das ambições de Trump no Hormuz como 'delírios fantasiosos'",
-          "resumo": "O Irã afirma que o Estreito de Hormuz não pode ser tomado por tweet ou porta-aviões após Donald Trump prometer reivindicar a água como território dos EUA",
+          "id": "rt-2026-08-16-21-19",
+          "titulo": "Irã zomba das ambições de Trump no Hormuz como 'ilusões fantasiosas'",
+          "resumo": "O Irã diz que o Estreito de Hormuz não pode ser tomado por tweet ou porta-aviões após Donald Trump prometer reivindicar a água como território dos EUA",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a80808185f54005de0be686.jpg",
           "link": "https://www.rt.com/news/644283-iran-trump-hormuz-fanciful-delusions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-15T15:20:31-03:00"
+          "publicado_em": "2026-08-15T15:20:31.000Z"
         },
         {
-          "id": "rt-2026-08-16-08",
-          "titulo": "Modi transmite mensagem à Índia no Dia da Independência (VÍDEO)",
+          "id": "rt-2026-08-16-21-20",
+          "titulo": "Não mais sonhos pequenos: mensagem de Modi à Índia no Dia da Independência (VÍDEO)",
           "resumo": "Narendra Modi traçou o caminho da Índia até 2047 em seu discurso do Dia da Independência",
           "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a807b7785f54005cc04bfc5.png",
           "link": "https://www.rt.com/india/644282-india-modi-independence-day-80/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-15T14:43:39-03:00"
-        },
-        {
-          "id": "rt-2026-08-16-09",
-          "titulo": "Tropas de extrema-direita fazem despedida a colaborador nazista com marcha a tocha em Kiev (VÍDEO)",
-          "resumo": "Membros de uma unidade ucraniana de extrema-direita realizaram uma cerimônia de despedida a tocha para o colaborador nazista Evgeny Konovalets em Kiev",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a8067b785f54014260ca424.jpg",
-          "link": "https://www.rt.com/russia/644284-ukraine-azov-konovalets-zelensky/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-15T14:19:24-03:00"
-        },
-        {
-          "id": "rt-2026-08-16-10",
-          "titulo": "Procurador-geral da Hungria considera apreensão de servidores da oposição ilegal",
-          "resumo": "A apreensão dos servidores do partido Fidesz foi uma 'expedição de pesca' e deve ser refeita corretamente, disse o procurador-geral da Hungria",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a80471e20302742504bae78.jpg",
-          "link": "https://www.rt.com/news/644281-hungary-fidesz-orban-magyar/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-15T12:33:48-03:00"
-        },
-        {
-          "id": "rt-2026-08-16-11",
-          "titulo": "Terremoto de magnitude 7,7 atinge Indonésia, mata pelo menos cinco pessoas (VÍDEOS)",
-          "resumo": "Um poderoso terremoto de magnitude 7,7 atingiu a Indonésia, desencadeando ondas de tsunami e danificando edifícios",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7fb8ea85f54004ec591fb7.png",
-          "link": "https://www.rt.com/news/644271-indonesia-7-magnitude-earthquake-tsunami/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-15T10:24:20-03:00"
-        },
-        {
-          "id": "rt-2026-08-16-12",
-          "titulo": "Motorista da Cruz Vermelha ucraniana é convocado durante evacuação (VÍDEO)",
-          "resumo": "Um motorista da Cruz Vermelha ucraniana foi detido e convocado enquanto evacuava famílias perto da linha de frente, o que levou a uma investigação",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7feff72030274392325627.jpg",
-          "link": "https://www.rt.com/russia/644274-ukraine-red-cross-driver-conscripted/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-15T09:44:23-03:00"
-        },
-        {
-          "id": "rt-2026-08-16-13",
-          "titulo": "Modi lança programa de treinamento gratuito para conquistar jovens indianos",
-          "resumo": "O primeiro-ministro indiano Modi, que enfrentou protestos estudantis generalizados no mês passado, lançou uma iniciativa para operar redes de treinamento online para exames competitivos",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a8032422030274700254d9d.jpg",
-          "link": "https://www.rt.com/india/644280-modi-free-coaching-students/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-15T09:31:51-03:00"
-        },
-        {
-          "id": "rt-2026-08-16-14",
-          "titulo": "Como a Europa traiu Madrid para punir Sanchez",
-          "resumo": "Resolver a crise migratória da Europa exige confrontar a mentalidade colonial que impulsiona o deslocamento global - um passo que Bruxelas se recusa a dar",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7ee246203027611414a294.jpg",
-          "link": "https://www.rt.com/africa/644242-how-europe-betrayed-madrid-to-punish-sanchez/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-15T08:11:54-03:00"
-        },
-        {
-          "id": "rt-2026-08-16-15",
-          "titulo": "Netanyahu ataca Londres com piada sobre 'Grande Bretanha Islâmica'",
-          "resumo": "O primeiro-ministro israelense Benjamin Netanyahu descreveu o Reino Unido como a 'República Islâmica da Grã-Bretanha' após meses de relações tensas",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a7fc48b85f5400b3a178163.jpg",
-          "link": "https://www.rt.com/news/644272-netanyahu-islamic-britain-jibe/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-15T08:11:25-03:00"
-        },
-        {
-          "id": "rt-2026-08-16-16",
-          "titulo": "Mísseis ucranianos atacam região russa - governador",
-          "resumo": "Instalações industriais na região de Samara, na Rússia, foram atacadas por mísseis ucranianos, disse o governador local Vyacheslav Fedorishchev",
-          "imagem": "https://mf.b37mrtl.ru/files/2026.08/thumbnail/6a80018185f5407e88652eae.jpg",
-          "link": "https://www.rt.com/russia/644279-samara-rostov-missile-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-          "publicado_em": "2026-08-15T06:37:00-03:00"
+          "publicado_em": "2026-08-15T14:43:39.000Z"
         }
       ]
     },
