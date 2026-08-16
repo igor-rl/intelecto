@@ -121,115 +121,111 @@
     "new_york_times": {
       "slug": "new_york_times",
       "nome": "The New York Times",
-      "gerado_em": "2026-08-16T10:00:01.112Z",
+      "gerado_em": "2026-08-16T21:00:00.687Z",
       "artigos": [
         {
-          "id": "new_york_times-2026-08-16-1001",
-          "titulo": "O Exército dos EUA Quer Dominar a IA. Rivalidades e a China Podem Impedir",
+          "id": "new_york_times-2026-08-16-2101",
+          "titulo": "O Exército dos EUA Quer Dominar a IA. Rivalidades e a China Podem Atrapalhar",
           "resumo": "A administração está mudando drasticamente em sua resposta às implicações de segurança nacional da IA, enquanto a China, o principal rival tecnológico e militar dos EUA, avança",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-08-16T09:00:49.000Z"
+          "publicado_em": "2026-08-16T13:41:54.000Z"
         },
         {
-          "id": "new_york_times-2026-08-16-1002",
-          "titulo": "O Outro Controle dos EUA nas Américas: O Visto",
-          "resumo": "Como parte de sua abordagem expansionista no Hemisfério Ocidental, a administração Trump está tentando reafirmar sua dominância, um visto de cada vez",
+          "id": "new_york_times-2026-08-16-2102",
+          "titulo": "Blanche Recusa Dizer que Sempre Será Independente de Trump como Procurador-Geral",
+          "resumo": "O novo chefe do Departamento de Justiça disse no 'Meet the Press' no domingo que o presidente nunca pediu que ele processasse pessoas específicas — e nunca faria",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/16/world/americas/trump-americas-visas.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-08-16T09:00:11.000Z"
+          "link": "https://www.nytimes.com/2026/08/16/us/politics/blanche-trump-attorney-general-justice-department.html",
+          "publicado_em": "2026-08-16T16:14:13.000Z"
         },
         {
-          "id": "new_york_times-2026-08-16-1003",
-          "titulo": "Ele Era um Patriota da MAGA. A ICE Levou Sua Esposa",
+          "id": "new_york_times-2026-08-16-2103",
+          "titulo": "Anos de Apoio a Trump se Desfizeram em 15 Minutos em um Aeroporto",
           "resumo": "O caso representa uma nova frente na campanha de deportação em massa do presidente Trump: prisões em aeroportos de pessoas com casos de imigração ativos e sem histórico criminal",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/08/16/us/trump-immigration-crackdown.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-08-16T09:01:00.000Z"
+          "publicado_em": "2026-08-16T16:05:44.000Z"
         },
         {
-          "id": "new_york_times-2026-08-16-1004",
-          "titulo": "O Partido Democrata Está Enfrentando Seu Próprio Momento do Tea Party?",
-          "resumo": "Uma série de vitórias primárias de candidatos progressistas revelou a força de um movimento insurgente de alta energia, mas também suas limitações potenciais",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-08-16T09:02:07.000Z"
-        },
-        {
-          "id": "new_york_times-2026-08-16-1005",
-          "titulo": "Como os Republicanos Abraçaram Brandon Herrera, um Candidato Republicano do Texas e Influenciador de Armas",
-          "resumo": "Brandon Herrera, por muito tempo um outsider anti-estabelecimento, está tentando ajudar o partido a defender um distrito da Câmara de tendência republicana no oeste do Texas. Está provando ser complicado",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/16/us/politics/herrera-trump-republican-texas-house.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-08-16T09:00:30.000Z"
-        },
-        {
-          "id": "new_york_times-2026-08-16-1006",
-          "titulo": "À Medida que a Guerra com o Irã se Transforma em Batalha Econômica, uma Nova Estratégia dos EUA Lembrar Velhas Estratégias",
-          "resumo": "Os EUA e o Irã estão prestes a ultrapassar um prazo que eles mesmos haviam estabelecido para negociar termos de paz e do programa nuclear do Irã",
+          "id": "new_york_times-2026-08-16-2104",
+          "titulo": "À Medida que a Guerra com o Irã se Transforma em Batalha Econômica, uma Nova Estratégia dos EUA Lembra Velhas Estratégias",
+          "resumo": "Os EUA e o Irã estão prestes a ultrapassar um prazo que eles mesmos haviam estabelecido para negociar termos de paz e o programa nuclear do Irã",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-08-16T09:31:10.000Z"
+          "publicado_em": "2026-08-16T17:39:39.000Z"
         },
         {
-          "id": "new_york_times-2026-08-16-1007",
-          "titulo": "Como uma Alegação Falsa Sobre o Programa Nuclear do Irã se Espalhou da Índia para Washington",
+          "id": "new_york_times-2026-08-16-2105",
+          "titulo": "Como uma Alegação Falsa sobre o Programa Nuclear do Irã se Espalhou da Índia para Washington",
           "resumo": "Uma postagem duvidosa que se espalhou no X se tornou a base de alegações falsas de que a liderança do Irã havia declarado o país uma potência nuclear",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/08/16/business/iran-nuclear-false-claims.html",
-          "fonte": "The New York Times",
           "publicado_em": "2026-08-16T09:01:55.000Z"
         },
         {
-          "id": "new_york_times-2026-08-16-1008",
-          "titulo": "Com Padres Escassos na Itália Rural, um Pastor Africano Está Preenchendo o Vazio",
-          "resumo": "Imigrantes há muito tempo vêm aliviando a escassez de mão de obra em fazendas e fábricas na Itália. Mas as igrejas também precisam de padres nascidos no exterior, como o Rev. Vincent Souly da Costa do Marfim",
+          "id": "new_york_times-2026-08-16-2106",
+          "titulo": "Os Democratas Enfrentam um Momento Potencial do Partido do Chá",
+          "resumo": "Uma série de vitórias nas primárias por candidatos progressistas revelou a força de um movimento insurgente de alta energia, mas também suas possíveis limitações",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/16/world/europe/italy-priest-shortage.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-08-16T04:01:17.000Z"
+          "link": "https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html",
+          "publicado_em": "2026-08-16T19:35:06.000Z"
         },
         {
-          "id": "new_york_times-2026-08-16-1009",
-          "titulo": "À Medida que os Velhos Arquivos São Abertos, uma Família Enfrenta o Passado Sombrio Nazista de Outra",
+          "id": "new_york_times-2026-08-16-2107",
+          "titulo": "Como os Republicanos Abraçaram Brandon Herrera, um Candidato Republicano do Texas e Influenciador de Armas",
+          "resumo": "Brandon Herrera, por muito tempo um outsider anti-estabelecimento, está tentando ajudar o partido a defender um distrito da Câmara com tendência republicana no oeste do Texas. Isso está se provando complicado",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/16/us/politics/herrera-trump-republican-texas-house.html",
+          "publicado_em": "2026-08-16T15:57:47.000Z"
+        },
+        {
+          "id": "new_york_times-2026-08-16-2108",
+          "titulo": "Pode El-Sayed Custar Michigan aos Democratas?",
+          "resumo": "Não todos os progressistas são iguais: Candidatos da esquerda ativista geralmente não se saem tão bem quanto outros democratas",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/16/upshot/michigan-progressives-el-sayed.html",
+          "publicado_em": "2026-08-16T19:12:15.000Z"
+        },
+        {
+          "id": "new_york_times-2026-08-16-2109",
+          "titulo": "O que Sabemos sobre as Tempestades que Atingem o Meio-Oeste",
+          "resumo": "Um sistema meteorológico persistente trouxe inundações severas e ventos intensos — incluindo alguns tornados — para Illinois, Indiana e Ohio, matando pelo menos oito pessoas",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/13/us/storm-damage-midwest.html",
+          "publicado_em": "2026-08-16T19:22:05.000Z"
+        },
+        {
+          "id": "new_york_times-2026-08-16-2110",
+          "titulo": "Indiana se Prepara para Mais Chuvas Após Dias de Tempestades Mortais",
+          "resumo": "Desde a semana passada, o tempo perigoso causou sete mortes, forçou pessoas a deixarem suas casas e exigiu que algumas fossem resgatadas de barco. A região estava em risco de mais inundações no domingo",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/16/us/indiana-storms-flooding.html",
+          "publicado_em": "2026-08-16T19:59:17.000Z"
+        },
+        {
+          "id": "new_york_times-2026-08-16-2111",
+          "titulo": "Tommy John, Arremessador que deu seu Nome à Cirurgia que Salva Carreiras, Morre Aos 83 Anos",
+          "resumo": "Depois de rasgar um ligamento do cotovelo, ele passou por um procedimento arriscado e retornou ao seu melhor, mudando o beisebol e dando nova esperança a jogadores lesionados",
+          "imagem": null,
+          "link": "https://www.nytimes.com/2026/08/16/sports/baseball/tommy-john-dead.html",
+          "publicado_em": "2026-08-16T18:43:56.000Z"
+        },
+        {
+          "id": "new_york_times-2026-08-16-2112",
+          "titulo": "À Medida que os Arquivos Antigos se Abrem, uma Família Enfrenta o Passado Sombrio de Outra Família",
           "resumo": "Uma mulher que obteve o arquivo criminal de sua avó, uma colaboradora, ofereceu para compartilhá-lo com uma família judaica que havia sido traída. Então ela hesitou e uma nova disputa surgiu",
           "imagem": null,
           "link": "https://www.nytimes.com/2026/08/16/arts/zilversmit-netherlands-podcast-book-holocaust-nazi.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-08-16T09:00:27.000Z"
+          "publicado_em": "2026-08-16T18:22:42.000Z"
         },
         {
-          "id": "new_york_times-2026-08-16-1010",
-          "titulo": "A Europa Não Está Pronta para a Maconha Americana",
-          "resumo": "A corrida para ir global está em andamento",
+          "id": "new_york_times-2026-08-16-2115",
+          "titulo": "Um Tiroteio no Consulado dos EUA em Toronto Expos um Rede de Pistoleiros por Encomenda em um Bairro",
+          "resumo": "Um tiroteio no Consulado dos EUA colocou um bairro com um passado conturbado no centro de um fenômeno criminal emergente: jovens pistoleiros por encomenda como trabalhadores freelance na economia subterrânea",
           "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/16/opinion/america-weed-cannabis-europe.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-08-16T05:00:06.000Z"
-        },
-        {
-          "id": "new_york_times-2026-08-16-1011",
-          "titulo": "Eu Era o Cardiologista de Dick Cheney. Tenho Perguntas Sobre a Saúde de Trump",
-          "resumo": "O presidente não está parecendo bem. Os americanos devem obter respostas para essas sete perguntas",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/12/opinion/trump-health-questions.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-08-13T18:36:21.000Z"
-        },
-        {
-          "id": "new_york_times-2026-08-16-1012",
-          "titulo": "Como um Funcionário de Banco Ucraniano Veio a Enfrentar a Vida em uma Prisão Russa",
-          "resumo": "Artem Murdid, sua mãe e sua namorada são acusados de terrorismo. Eles dizem que não fizeram nada de errado",
-          "imagem": null,
-          "link": "https://www.nytimes.com/2026/08/16/world/europe/russia-detained-ukrainians-war-murdid.html",
-          "fonte": "The New York Times",
-          "publicado_em": "2026-08-16T09:01:44.000Z"
+          "link": "https://www.nytimes.com/2026/08/16/world/canada/us-consulate-synagogue-shooting-toronto-canada.html",
+          "publicado_em": "2026-08-16T12:50:04.000Z"
         }
       ]
     },
