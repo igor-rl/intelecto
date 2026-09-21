@@ -1,9 +1,16 @@
 {
   "materia_capa": {
-    "titulo": "Curso bíblico gratuito",
+    "titulo": "Como ser feliz de verdade?",
     "link": "https://www.jw.org/pt/ensinos-biblicos/curso-biblia-instrutor/"
   },
   "novidades": [
+    {
+      "id": "https://www.jw.org/pt/biblioteca/series/historias-vida-testemunhas-de-jeova/Thomas-Lougheed-Jeov%C3%A1-sempre-me-ajudou-na-hora-certa/",
+      "titulo": "Thomas Lougheed: Jeová sempre me ajudou na hora certa",
+      "link": "https://www.jw.org/pt/biblioteca/series/historias-vida-testemunhas-de-jeova/Thomas-Lougheed-Jeov%C3%A1-sempre-me-ajudou-na-hora-certa/",
+      "categoria": "HISTÓRIAS DE VIDA",
+      "pubDate": "2026-09-21"
+    },
     {
       "id": "https://www.jw.org/pt/biblioteca/series/outros-assuntos/testemunhas-de-jeova-encaram-sangue/",
       "titulo": "Como as Testemunhas de Jeová mostram respeito pela vida?",
@@ -346,13 +353,6 @@
       "link": "https://www.jw.org/pt/biblioteca/revistas/sentinela-estudo-outubro-2026/",
       "categoria": "A SENTINELA (EDIÇÃO DE ESTUDO)",
       "pubDate": "2026-07-14"
-    },
-    {
-      "id": "https://www.jw.org/pt/noticias/por-regiao/russia/N%C3%A3o-tenha-medo/",
-      "titulo": "<strong>“</strong>Não tenha medo”",
-      "link": "https://www.jw.org/pt/noticias/por-regiao/russia/N%C3%A3o-tenha-medo/",
-      "categoria": "NOTÍCIAS",
-      "pubDate": "2026-07-13"
     }
   ]
 }
