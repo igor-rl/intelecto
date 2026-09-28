@@ -1,9 +1,23 @@
 {
   "materia_capa": {
-    "titulo": "Como a Bíblia pode ajudar você?",
+    "titulo": "Será que você pode acreditar na Bíblia?",
     "link": "https://www.jw.org/pt/ensinos-biblicos/curso-biblia-instrutor/"
   },
   "novidades": [
+    {
+      "id": "https://www.jw.org/pt/biblioteca/series/outros-assuntos/por-que-ser-bondoso-biblia-diz/",
+      "titulo": "Por que ser bondoso? O que a Bíblia diz sobre o valor da bondade?",
+      "link": "https://www.jw.org/pt/biblioteca/series/outros-assuntos/por-que-ser-bondoso-biblia-diz/",
+      "categoria": "OUTROS ASSUNTOS",
+      "pubDate": "2026-09-25"
+    },
+    {
+      "id": "https://www.jw.org/pt/noticias/por-regiao/moldavia/Testemunhas-de-Jeov%C3%A1-Realizam-a-Primeira-Campanha-Especial-de-Prega%C3%A7%C3%A3o-na-Mold%C3%A1via/",
+      "titulo": "Testemunhas de Jeová Realizam a Primeira Campanha Especial de Pregação na Moldávia",
+      "link": "https://www.jw.org/pt/noticias/por-regiao/moldavia/Testemunhas-de-Jeov%C3%A1-Realizam-a-Primeira-Campanha-Especial-de-Prega%C3%A7%C3%A3o-na-Mold%C3%A1via/",
+      "categoria": "NOTÍCIAS",
+      "pubDate": "2026-09-25"
+    },
     {
       "id": "https://www.jw.org/pt/informacoes-autoridades-jornalistas/pais/guine-equatorial/guine-equatorial-relatorios/",
       "titulo": "Guiné Equatorial — Relatórios",
@@ -339,20 +353,6 @@
       "link": "https://www.jw.org/pt/biblioteca/series/outros-assuntos/biblia-ajudar-vitimas-de-crime/",
       "categoria": "OUTROS ASSUNTOS",
       "pubDate": "2026-07-16"
-    },
-    {
-      "id": "https://www.jw.org/pt/noticias/por-regiao/ucrania/Kiev-sofre-um-dos-piores-ataques-da-guerra/",
-      "titulo": "Kiev sofre um dos piores ataques da guerra",
-      "link": "https://www.jw.org/pt/noticias/por-regiao/ucrania/Kiev-sofre-um-dos-piores-ataques-da-guerra/",
-      "categoria": "NOTÍCIAS",
-      "pubDate": "2026-07-15"
-    },
-    {
-      "id": "https://www.jw.org/pt/noticias/por-regiao/coreia-sul/Milhares-de-irm%C3%A3os-participam-em-campanha-especial-de-prega%C3%A7%C3%A3o-nas-duas-maiores-cidades-da-Coreia-do-Sul/",
-      "titulo": "Milhares de irmãos participam em campanha especial de pregação nas duas maiores cidades da Coreia do Sul",
-      "link": "https://www.jw.org/pt/noticias/por-regiao/coreia-sul/Milhares-de-irm%C3%A3os-participam-em-campanha-especial-de-prega%C3%A7%C3%A3o-nas-duas-maiores-cidades-da-Coreia-do-Sul/",
-      "categoria": "NOTÍCIAS",
-      "pubDate": "2026-07-15"
     }
   ]
 }
