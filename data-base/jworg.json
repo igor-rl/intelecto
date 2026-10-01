@@ -1,9 +1,37 @@
 {
   "materia_capa": {
-    "titulo": "Será que você pode acreditar na Bíblia?",
-    "link": "https://www.jw.org/pt/ensinos-biblicos/curso-biblia-instrutor/"
+    "titulo": "Um governo melhor pode trazer paz mundial?",
+    "link": "https://www.jw.org/pt/biblioteca/revistas/sentinela-no1-2026/governo-melhor-pode-trazer-paz-mundial/"
   },
   "novidades": [
+    {
+      "id": "https://www.jw.org/pt/noticias/por-regiao/estonia/Cem-anos-desde-que-as-Testemunhas-de-Jeov%C3%A1-abriram-a-primeira-filial-na-Est%C3%B4nia/",
+      "titulo": "Cem anos desde que as Testemunhas de Jeová abriram a primeira filial na Estônia",
+      "link": "https://www.jw.org/pt/noticias/por-regiao/estonia/Cem-anos-desde-que-as-Testemunhas-de-Jeov%C3%A1-abriram-a-primeira-filial-na-Est%C3%B4nia/",
+      "categoria": "NOTÍCIAS",
+      "pubDate": "2026-10-01"
+    },
+    {
+      "id": "https://www.jw.org/pt/noticias/por-regiao/mundial/Livros-da-B%C3%ADblia-lan%C3%A7ados-em-14-idiomas-em-agosto-de-2026/",
+      "titulo": "Livros da Bíblia lançados em 14 idiomas em agosto de 2026",
+      "link": "https://www.jw.org/pt/noticias/por-regiao/mundial/Livros-da-B%C3%ADblia-lan%C3%A7ados-em-14-idiomas-em-agosto-de-2026/",
+      "categoria": "NOTÍCIAS",
+      "pubDate": "2026-10-01"
+    },
+    {
+      "id": "https://www.jw.org/pt/noticias/por-regiao/russia/IRM%C3%83O-%C3%89-PRESO-A-obedi%C3%AAncia-leva-%C3%A0-vit%C3%B3ria/",
+      "titulo": "IRMÃO É PRESO | “A obediência leva à vitória”",
+      "link": "https://www.jw.org/pt/noticias/por-regiao/russia/IRM%C3%83O-%C3%89-PRESO-A-obedi%C3%AAncia-leva-%C3%A0-vit%C3%B3ria/",
+      "categoria": "NOTÍCIAS",
+      "pubDate": "2026-10-01"
+    },
+    {
+      "id": "https://www.jw.org/pt/biblioteca/series/como-seus-donativos-sao-usados/Um-presente-de-Jeov%C3%A1-para-os-surdos/",
+      "titulo": "Um presente de Jeová para os surdos",
+      "link": "https://www.jw.org/pt/biblioteca/series/como-seus-donativos-sao-usados/Um-presente-de-Jeov%C3%A1-para-os-surdos/",
+      "categoria": "COMO SEUS DONATIVOS SÃO USADOS",
+      "pubDate": "2026-10-01"
+    },
     {
       "id": "https://www.jw.org/pt/noticias/por-regiao/espanha/Testemunhas-de-Jeov%C3%A1-realizam-campanha-de-prega%C3%A7%C3%A3o-em-quatro-destinos-tur%C3%ADsticos-na-Espanha/",
       "titulo": "Testemunhas de Jeová realizam campanha de pregação em quatro destinos turísticos na Espanha",
@@ -325,34 +353,6 @@
       "link": "https://www.jw.org/pt/biblioteca/musicas-canticos/International-Music/",
       "categoria": "MÚSICAS",
       "pubDate": "2026-07-31"
-    },
-    {
-      "id": "https://www.jw.org/pt/ensinos-biblicos/ciencia/teve-um-projeto/ra-vidro-anticoagulante/",
-      "titulo": "A habilidade anticoagulante da rã-de-vidro — Teve um Projeto?",
-      "link": "https://www.jw.org/pt/ensinos-biblicos/ciencia/teve-um-projeto/ra-vidro-anticoagulante/",
-      "categoria": "TEVE UM PROJETO?",
-      "pubDate": "2026-07-24"
-    },
-    {
-      "id": "https://www.jw.org/pt/noticias/por-regiao/alemanha/Novo-memorial-em-Berlim-homenageia-a-coragem-das-Testemunhas-de-Jeov%C3%A1-durante-o-regime-nazista/",
-      "titulo": "Novo memorial em Berlim homenageia a coragem das Testemunhas de Jeová durante o regime nazista",
-      "link": "https://www.jw.org/pt/noticias/por-regiao/alemanha/Novo-memorial-em-Berlim-homenageia-a-coragem-das-Testemunhas-de-Jeov%C3%A1-durante-o-regime-nazista/",
-      "categoria": "NOTÍCIAS",
-      "pubDate": "2026-07-21"
-    },
-    {
-      "id": "https://www.jw.org/pt/noticias/por-regiao/russia/Minha-Pr%C3%B3pria-For%C3%A7a-N%C3%A3o-%C3%89-Suficiente/",
-      "titulo": "“Minha Própria Força Não É Suficiente”",
-      "link": "https://www.jw.org/pt/noticias/por-regiao/russia/Minha-Pr%C3%B3pria-For%C3%A7a-N%C3%A3o-%C3%89-Suficiente/",
-      "categoria": "NOTÍCIAS",
-      "pubDate": "2026-07-21"
-    },
-    {
-      "id": "https://www.jw.org/pt/biblioteca/series/historias-vida-testemunhas-de-jeova/Josette-Garcia-Pregando-por-quase-50-anos-em-um-dos-pa%C3%ADses-mais-quentes-do-mundo/",
-      "titulo": "Josette Garcia: Pregando por quase 50 anos em um dos países mais quentes do mundo",
-      "link": "https://www.jw.org/pt/biblioteca/series/historias-vida-testemunhas-de-jeova/Josette-Garcia-Pregando-por-quase-50-anos-em-um-dos-pa%C3%ADses-mais-quentes-do-mundo/",
-      "categoria": "HISTÓRIAS DE VIDA",
-      "pubDate": "2026-07-21"
     }
   ]
 }
