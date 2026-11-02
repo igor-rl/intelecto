@@ -1,9 +1,16 @@
 {
   "materia_capa": {
-    "titulo": "Jovens protestam na Europa",
-    "link": "https://www.jw.org/pt/biblioteca/series/outros-assuntos/jovens-protestam-na-europa/"
+    "titulo": "Que governante você vai escolher?",
+    "link": "https://www.jw.org/pt/biblioteca/series/outros-assuntos/biblia-diz-governantes/"
   },
   "novidades": [
+    {
+      "id": "https://www.jw.org/pt/informacoes-autoridades-jornalistas/pais/ucrania/ucrania-relatorios/",
+      "titulo": "Ucrânia — Relatórios",
+      "link": "https://www.jw.org/pt/informacoes-autoridades-jornalistas/pais/ucrania/ucrania-relatorios/",
+      "categoria": "UCRÂNIA",
+      "pubDate": "2026-11-02"
+    },
     {
       "id": "https://www.jw.org/pt/biblioteca/series/outros-assuntos/jovens-protestam-na-europa/",
       "titulo": "Jovens protestam na Europa — O que a Bíblia diz?",
@@ -346,13 +353,6 @@
       "link": "https://www.jw.org/pt/biblioteca/musicas-canticos/clipes-musicais/Com-f%C3%A9/",
       "categoria": "CLIPES MUSICAIS",
       "pubDate": "2026-09-08"
-    },
-    {
-      "id": "https://www.jw.org/pt/noticias/por-regiao/mundial/Tr%C3%AAs-irm%C3%A3os-e-uma-irm%C3%A3-s%C3%A3o-soltos-da-pris%C3%A3o-na-Crimeia-e-na-R%C3%BAssia/",
-      "titulo": "Três irmãos e uma irmã são soltos da prisão na Crimeia e na Rússia",
-      "link": "https://www.jw.org/pt/noticias/por-regiao/mundial/Tr%C3%AAs-irm%C3%A3os-e-uma-irm%C3%A3-s%C3%A3o-soltos-da-pris%C3%A3o-na-Crimeia-e-na-R%C3%BAssia/",
-      "categoria": "NOTÍCIAS",
-      "pubDate": "2026-09-04"
     }
   ]
 }
